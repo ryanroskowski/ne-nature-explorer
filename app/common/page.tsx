@@ -1,4 +1,5 @@
-import { getCommonality, getAvailableGroups } from "@/lib/data";
+import { getCommonality } from "@/lib/data/commonality";
+import { getAvailableGroups } from "@/lib/data/groups";
 import CommonalityBrowser from "@/components/common/CommonalityBrowser";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import GroupTabs from "@/components/ui/GroupTabs";

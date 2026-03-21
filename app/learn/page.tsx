@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { getContextualArticles, getSpecies } from "@/lib/data";
+import { getContextualArticles } from "@/lib/data/articles";
+import { getSpecies } from "@/lib/data/species";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import type { Metadata } from "next";
 

@@ -2,7 +2,7 @@ import Link from "next/link";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import GroupTabs from "@/components/ui/GroupTabs";
 import { getGroupBrowseConfig } from "@/lib/trait-configs";
-import { getGroupInfo, getAvailableGroups } from "@/lib/data";
+import { getGroupInfo, getAvailableGroups } from "@/lib/data/groups";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {

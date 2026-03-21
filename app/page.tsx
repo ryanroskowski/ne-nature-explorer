@@ -1,6 +1,9 @@
 import Link from "next/link";
 import Image from "next/image";
-import { getCommonality, getTaxonomyTree, getContextualArticles, getAvailableGroups } from "@/lib/data";
+import { getCommonality } from "@/lib/data/commonality";
+import { getTaxonomyTree } from "@/lib/data/taxonomy";
+import { getContextualArticles } from "@/lib/data/articles";
+import { getAvailableGroups } from "@/lib/data/groups";
 import SpeciesCard from "@/components/ui/SpeciesCard";
 import GroupIcon from "@/components/ui/GroupIcon";
 

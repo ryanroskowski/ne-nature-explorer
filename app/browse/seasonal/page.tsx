@@ -1,4 +1,4 @@
-import { getSeasonalGuide } from "@/lib/data";
+import { getSeasonalGuide } from "@/lib/data/seasonal";
 import SeasonalGuide from "@/components/browse/SeasonalGuide";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import type { Metadata } from "next";

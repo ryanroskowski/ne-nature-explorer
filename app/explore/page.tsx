@@ -1,4 +1,4 @@
-import { getAllTaxonomyTrees } from "@/lib/data";
+import { getAllTaxonomyTrees } from "@/lib/data/taxonomy";
 import AllGroupsExplorer from "@/components/explorer/AllGroupsExplorer";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import type { Metadata } from "next";

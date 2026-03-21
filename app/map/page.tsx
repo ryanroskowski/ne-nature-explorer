@@ -1,4 +1,4 @@
-import { getNatureAreas, getSpeciesIndex } from "@/lib/data";
+import { getNatureAreas, getSpeciesIndex } from "@/lib/data/map";
 import NatureMapLoader from "@/components/map/NatureMapLoader";
 import type { Metadata } from "next";
 

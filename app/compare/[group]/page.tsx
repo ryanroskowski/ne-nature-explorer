@@ -1,4 +1,4 @@
-import { getAllSpecies, getAllSpeciesSlugs } from "@/lib/data";
+import { getAllSpecies } from "@/lib/data/species";
 import CompareGroup from "@/components/compare/CompareGroup";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import Link from "next/link";

@@ -1,5 +1,7 @@
 import type { MetadataRoute } from "next";
-import { getAllSpeciesSlugs, getCommonality, getContextualArticles } from "@/lib/data";
+import { getAllSpeciesSlugs } from "@/lib/data/species";
+import { getCommonality } from "@/lib/data/commonality";
+import { getContextualArticles } from "@/lib/data/articles";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://ne-nature-explorer.vercel.app";

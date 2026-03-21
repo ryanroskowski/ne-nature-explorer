@@ -1,5 +1,5 @@
 import { NextResponse, type NextRequest } from "next/server";
-import { getSearchIndex } from "@/lib/data";
+import { getSearchIndex } from "@/lib/data/search";
 
 export async function GET(request: NextRequest) {
   const group = request.nextUrl.searchParams.get("group") || undefined;

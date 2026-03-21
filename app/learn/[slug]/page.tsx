@@ -2,11 +2,8 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
-import {
-  getContextualArticle,
-  getContextualArticles,
-  getSpecies,
-} from "@/lib/data";
+import { getContextualArticle, getContextualArticles } from "@/lib/data/articles";
+import { getSpecies } from "@/lib/data/species";
 import { blurDataURL } from "@/lib/image-utils";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 

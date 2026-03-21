@@ -1,4 +1,5 @@
-import { getMonthlyGuide, getAvailableGroups } from "@/lib/data";
+import { getMonthlyGuide } from "@/lib/data/seasonal";
+import { getAvailableGroups } from "@/lib/data/groups";
 import MonthlyGuide from "@/components/browse/MonthlyGuide";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import Link from "next/link";

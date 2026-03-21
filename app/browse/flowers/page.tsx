@@ -1,4 +1,4 @@
-import { getBrowseIndex } from "@/lib/data";
+import { getBrowseIndex } from "@/lib/data/browse";
 import FlowerBrowser from "@/components/browse/FlowerBrowser";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import type { Metadata } from "next";

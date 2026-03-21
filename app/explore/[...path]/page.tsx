@@ -1,4 +1,4 @@
-import { getTaxonomyTree } from "@/lib/data";
+import { getTaxonomyTree } from "@/lib/data/taxonomy";
 import TaxonomyExplorer from "@/components/explorer/TaxonomyExplorer";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 

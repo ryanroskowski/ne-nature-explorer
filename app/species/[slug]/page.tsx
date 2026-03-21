@@ -1,7 +1,8 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getSpecies, getAllSpeciesSlugs, getArticlesForSpecies } from "@/lib/data";
+import { getSpecies, getAllSpeciesSlugs } from "@/lib/data/species";
+import { getArticlesForSpecies } from "@/lib/data/articles";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import PhotoGallery from "@/components/species/PhotoGallery";
 import IdTips from "@/components/species/IdTips";

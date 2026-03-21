@@ -1,4 +1,4 @@
-import { getBrowseIndex } from "@/lib/data";
+import { getBrowseIndex } from "@/lib/data/browse";
 import TraitBrowser from "@/components/browse/TraitBrowser";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import type { Metadata } from "next";

@@ -1,4 +1,5 @@
-import { getAllSpecies, getAvailableGroups } from "@/lib/data";
+import { getAllSpecies } from "@/lib/data/species";
+import { getAvailableGroups } from "@/lib/data/groups";
 import type { Metadata } from "next";
 import ComparePageClient from "@/components/compare/ComparePageClient";
 import GenusSearch from "@/components/compare/GenusSearch";
