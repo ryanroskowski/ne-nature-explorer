@@ -11,10 +11,15 @@ import AbundanceDots from "@/components/ui/AbundanceDots";
 import FamilyBadge from "@/components/ui/FamilyBadge";
 import NativeStatusBadge from "@/components/ui/NativeStatusBadge";
 
-// Generate static params for all species at build time
+// Allow on-demand rendering — too many species (~16k) to pre-build at deploy time.
+// Pages are generated on first visit, then cached by Vercel's CDN.
+export const dynamicParams = true;
+
+// Pre-build a small subset (most common species) for instant loading
 export async function generateStaticParams() {
+  // Only pre-render the first 200 most popular species at build time
   const slugs = getAllSpeciesSlugs();
-  return slugs.map((slug) => ({ slug }));
+  return slugs.slice(0, 200).map((slug) => ({ slug }));
 }
 
 // Generate metadata for SEO with Open Graph

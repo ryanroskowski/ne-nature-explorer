@@ -8,8 +8,8 @@ export default function Footer() {
             <span>New England Nature Explorer</span>
           </div>
           <p className="text-xs text-text-muted max-w-md">
-            This is an ongoing side project — always being improved. Some species data may be
-            incomplete or missing photos.
+            A personal side project — always a work in progress. New species, features, and
+            improvements are added regularly. Some data may be incomplete or missing photos.
           </p>
           <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-1">
             <span>

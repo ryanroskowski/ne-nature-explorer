@@ -115,16 +115,11 @@ function findGroup(
   return null;
 }
 
+export const dynamicParams = true;
+
 export function generateStaticParams() {
-  const allSpecies = getAllSpecies();
-  const groups = new Set<string>();
-
-  for (const s of allSpecies) {
-    groups.add(slugify(s.genusCommonName || s.genus));
-    groups.add(slugify(s.genus));
-  }
-
-  return Array.from(groups).map((group) => ({ group }));
+  // Compare pages generated on-demand and cached — too many genus combos to pre-build
+  return [];
 }
 
 export default async function CompareGroupPage({
