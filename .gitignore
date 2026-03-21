@@ -39,6 +39,14 @@ yarn-error.log*
 # pipeline intermediate data
 /data/pipeline
 
+# large data files not needed in deployment (dead code or legacy duplicates)
+/data/nature-areas-species.json
+/data/taxonomy.json
+/data/commonality.json
+/data/browse-index.json
+/data/search-index.json
+/data/seasonal-guide.json
+
 # backups
 /backups
 

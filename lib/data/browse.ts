@@ -9,11 +9,5 @@ export function getBrowseIndex(group: string = "plants"): BrowseEntry[] {
   if (fs.existsSync(groupPath)) {
     return JSON.parse(fs.readFileSync(groupPath, "utf-8"));
   }
-  if (group === "plants") {
-    const legacyPath = path.join(DATA_DIR, "browse-index.json");
-    if (fs.existsSync(legacyPath)) {
-      return JSON.parse(fs.readFileSync(legacyPath, "utf-8"));
-    }
-  }
   return [];
 }
