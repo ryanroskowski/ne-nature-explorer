@@ -1,0 +1,136 @@
+{
+  "slug": "chaetomorpha-ligustica",
+  "taxonId": 1226197,
+  "group": "plants",
+  "commonName": "Chaetomorpha ligustica",
+  "scientificName": "Chaetomorpha ligustica",
+  "family": "Cladophoraceae",
+  "familyCommonName": "Cladophoraceae",
+  "genus": "Chaetomorpha",
+  "genusCommonName": "Chaetomorpha",
+  "order": "Cladophorales",
+  "orderCommonName": "Cladophorales",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "green algae",
+      "rank": "phylum",
+      "slug": "explore/green-algae"
+    },
+    {
+      "label": "Ulvophycean green algae",
+      "rank": "class",
+      "slug": "explore/ulvophycean-green-algae"
+    },
+    {
+      "label": "Cladophorales",
+      "rank": "order",
+      "slug": "explore/cladophorales"
+    },
+    {
+      "label": "Cladophoraceae",
+      "rank": "family",
+      "slug": "explore/cladophoraceae"
+    },
+    {
+      "label": "Chaetomorpha",
+      "rank": "genus",
+      "slug": "explore/chaetomorpha"
+    },
+    {
+      "label": "Chaetomorpha ligustica",
+      "rank": "species",
+      "slug": "species/chaetomorpha-ligustica"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 222772356,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222772356/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222772356/large.jpg",
+      "attribution": "(c) hmw, some rights reserved (CC BY-NC), uploaded by hmw",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/122619700"
+    },
+    {
+      "id": 526379114,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/526379114/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/526379114/large.jpg",
+      "attribution": "(c) Daniel Ward, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/292503126"
+    }
+  ],
+  "nameStory": "Chaetomorpha ligustica doesn't have a widely-used common name, which isn't surprising given how rarely it's spotted in New England waters. The scientific name Chaetomorpha comes from Greek words meaning 'bristle form,' referring to the stiff, hair-like appearance of this marine algae. Like other members of its genus, it could be called a type of 'sea hair' for its resemblance to coarse green threads.",
+  "description": "Chaetomorpha ligustica is a green marine algae that forms tangled masses of stiff, unbranched filaments in coastal waters. Each strand looks like a coarse green thread or wire, growing in loose, mat-like clumps. The individual filaments can reach several inches long and feel surprisingly rigid when you handle them. This is one of the rarest seaweeds you might encounter along New England's rocky shores.",
+  "idTips": [
+    {
+      "label": "Thread-like structure",
+      "description": "Unbranched green filaments that feel stiff and wiry, like coarse fishing line or green guitar strings",
+      "isPrimary": true
+    },
+    {
+      "label": "Growth pattern",
+      "description": "Forms loose, tangled mats rather than organized branching patterns, with individual threads intertwining randomly",
+      "isPrimary": false
+    },
+    {
+      "label": "Color",
+      "description": "Bright to dark green when fresh, maintaining color better than many seaweeds when out of water",
+      "isPrimary": false
+    },
+    {
+      "label": "Texture",
+      "description": "Feels surprisingly rigid and springy to the touch, not slimy like many seaweeds",
+      "isPrimary": false
+    },
+    {
+      "label": "Attachment",
+      "description": "Anchors to rocks or shells with small holdfast structures, but often breaks free to form floating mats",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for this rare algae in rocky intertidal zones and shallow subtidal areas along New England's coast, particularly in areas with good water circulation. It typically grows attached to rocks, shells, or other hard surfaces in the lower intertidal zone. Given only two recorded observations in New England, it's extremely uncommon and may be found in more protected rocky coves rather than exposed surf zones.",
+  "seasonality": {
+    "spring": "Growth begins as water temperatures rise, with fresh bright green filaments appearing on rocky substrates.",
+    "summer": "Peak growing season when specimens are most robust and easiest to identify, though still extremely rare to encounter.",
+    "fall": "May persist but often becomes more fragmented, with pieces washing ashore after storms.",
+    "winter": "Largely absent or dormant in New England waters due to cold temperatures."
+  },
+  "funFact": "Despite looking like simple green threads, each filament of Chaetomorpha is actually a single giant cell - one of the largest single cells you can see with the naked eye, sometimes stretching several inches long!",
+  "confusionNotes": "Most likely to be confused with the more common Sea Hair (Chaetomorpha linum), but this species tends to have slightly thicker, more rigid filaments. The extreme rarity of C. ligustica in New England means any thread-like green algae you find is much more likely to be the common Sea Hair or even tangled green fishing line.",
+  "contextualKnowledge": "The species name 'ligustica' refers to the Liguria region of Italy where this seaweed was first described, highlighting how this Mediterranean species is at the very northern edge of its range in New England waters. Climate change may be allowing southern species like this to occasionally establish in our warming coastal waters.",
+  "compareHints": "Compared to the much more common Sea Hair (Chaetomorpha linum), this species has slightly thicker, more rigid filaments and tends to form denser mats. Unlike other Chaetomorpha species that may have more delicate or branched appearances, C. ligustica maintains the classic stiff, wire-like texture throughout its length. The key difference from its relatives is often the overall robustness and thickness of individual filaments.",
+  "relatedSpecies": [
+    {
+      "slug": "chaetomorpha-linum",
+      "commonName": "Sea Hair",
+      "scientificName": "Chaetomorpha linum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1541273/medium.jpg",
+      "distinction": "Sea Hair differs from its relatives in the Chaetomorpha genus by its specific thread-like, unbranched form and relatively coarse texture."
+    },
+    {
+      "slug": "chaetomorpha-melagonium",
+      "commonName": "Chaetomorpha melagonium",
+      "scientificName": "Chaetomorpha melagonium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1541294/medium.jpg",
+      "distinction": "Compared to its close relative Sea Hair (Chaetomorpha linum), this species has noticeably thicker, coarser filaments and tends toward darker green coloration."
+    },
+    {
+      "slug": "chaetomorpha-picquotiana",
+      "commonName": "Chaetomorpha picquotiana",
+      "scientificName": "Chaetomorpha picquotiana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/283233505/medium.jpeg",
+      "distinction": "**Note: Limited comparative data available** Compared to Sea Hair (Chaetomorpha linum), this species may have different cell dimensions and strand characteristics, but distinguishing between Chaetomorpha species typically requires microscopic measurement of cell size and other technical features."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1226197"
+}

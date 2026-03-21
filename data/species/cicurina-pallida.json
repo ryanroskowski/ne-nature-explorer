@@ -1,0 +1,128 @@
+{
+  "slug": "cicurina-pallida",
+  "taxonId": 153496,
+  "group": "arachnids",
+  "commonName": "Cicurina pallida",
+  "scientificName": "Cicurina pallida",
+  "family": "Cicurinidae",
+  "familyCommonName": "cicurinid spiders",
+  "genus": "Cicurina",
+  "genusCommonName": "Cicurina",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "cicurinid spiders",
+      "rank": "family",
+      "slug": "explore/cicurinid-spiders"
+    },
+    {
+      "label": "Cicurina",
+      "rank": "genus",
+      "slug": "explore/cicurina"
+    },
+    {
+      "label": "Cicurina pallida",
+      "rank": "species",
+      "slug": "species/cicurina-pallida"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 182778441,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182778441/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182778441/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC), uploaded by Tom Murray",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/15349600"
+    }
+  ],
+  "nameStory": "The pale cicurina spider gets its common name from its notably light coloration - 'pallida' means 'pale' in Latin. This small spider's washed-out appearance helps it blend seamlessly into the light-colored surfaces of caves and rocky crevices where it makes its home.",
+  "description": "The pale cicurina is a tiny, delicate spider that belongs to the cicurinid family, a group of spiders that prefer dark, humid spaces. These spiders are quite small, typically measuring only a few millimeters in body length, making them easy to overlook. They have a pale, almost translucent appearance that gives them their name, with long, thin legs relative to their small body size. Like other cicurinids, they build small sheet webs in protected locations.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Very small, compact body with a soft, somewhat flattened appearance that feels delicate if gently touched with a brush",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Notably pale, almost bleached appearance with little contrast between body segments - looks almost translucent in bright light",
+      "isPrimary": true
+    },
+    {
+      "label": "Size",
+      "description": "Tiny spider, body length only a few millimeters - about the size of a small ant or grain of rice",
+      "isPrimary": false
+    },
+    {
+      "label": "Web",
+      "description": "Creates small, irregular sheet webs in crevices that feel sticky but not particularly strong when accidentally touched",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Extremely secretive, quickly retreating into tight spaces when disturbed, often found in areas that smell musty or earthy",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Pale cicurinas prefer dark, humid microhabitats like rock crevices, cave entrances, and spaces under stones or logs. They're typically found in areas with stable moisture and temperature, often in rocky terrain or near stone walls where they can squeeze into tiny gaps. Look for them in places that feel cool and slightly damp to the touch.",
+  "seasonality": {
+    "spring": "Adults become more active as temperatures warm, beginning to establish territories in suitable crevices and starting web construction.",
+    "summer": "Peak activity period when adults are most likely to be encountered, with mating occurring and females producing egg sacs.",
+    "fall": "Activity begins to decrease as spiders prepare for winter, with many retreating deeper into protected spaces.",
+    "winter": "Largely inactive, overwintering in deep crevices and protected spaces where they remain dormant until spring warmth returns."
+  },
+  "funFact": "This spider is so rare in New England that it has only been officially documented once in the entire region - making any sighting a potentially significant scientific discovery that could help researchers understand its true distribution!",
+  "confusionNotes": "The pale cicurina could be confused with young cellar spiders or other small pale spiders, but cellar spiders have much longer, more spindly legs and build irregular cobwebs rather than sheet webs. Remember: cicurinas are sheet web builders with relatively shorter legs for their body size.",
+  "contextualKnowledge": "Cicurinid spiders are sometimes called 'hahniid-like' spiders because they were once classified with another spider family, but they're now recognized as their own distinct group. The extreme rarity of records suggests this species may be at the northern edge of its range in New England.",
+  "compareHints": "Compared to other Cicurina species that might occur in New England, the pale cicurina lives up to its name with notably lighter coloration than its relatives. While Cicurina brevis and Cicurina robusta tend to have darker, more contrasting markings, pallida appears almost washed-out or bleached. The robust cicurina is also typically larger and stockier in build compared to the delicate pale cicurina.",
+  "relatedSpecies": [
+    {
+      "slug": "cicurina-brevis",
+      "commonName": "Cicurina brevis",
+      "scientificName": "Cicurina brevis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/65282463/medium.jpg",
+      "distinction": "Cicurina brevis is distinguished from its relatives like C."
+    },
+    {
+      "slug": "cicurina-itasca",
+      "commonName": "Cicurina itasca",
+      "scientificName": "Cicurina itasca",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182778105/medium.jpeg",
+      "distinction": "Distinguishing this species from its close relatives like Cicurina brevis or Cicurina robusta requires expert examination of reproductive structures under magnification."
+    },
+    {
+      "slug": "cicurina-robusta",
+      "commonName": "Cicurina robusta",
+      "scientificName": "Cicurina robusta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182779248/medium.jpeg",
+      "distinction": "Compared to its Cicurina relatives like C."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cicurina_pallida",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/153496"
+}

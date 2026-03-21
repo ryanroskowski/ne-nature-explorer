@@ -1,0 +1,176 @@
+{
+  "slug": "craterellus-venosus",
+  "taxonId": 702638,
+  "group": "fungi",
+  "commonName": "Craterellus venosus",
+  "scientificName": "Craterellus venosus",
+  "family": "Hydnaceae",
+  "familyCommonName": "Hydnaceae",
+  "genus": "Craterellus",
+  "genusCommonName": "Trumpets",
+  "order": "Cantharellales",
+  "orderCommonName": "Cantharellales",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Basidiomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/basidiomycete-fungi"
+    },
+    {
+      "label": "Mushrooms, Bracket Fungi, Puffballs, and Allies",
+      "rank": "class",
+      "slug": "explore/mushrooms-bracket-fungi-puffballs-and-allies"
+    },
+    {
+      "label": "Cantharellales",
+      "rank": "order",
+      "slug": "explore/cantharellales"
+    },
+    {
+      "label": "Hydnaceae",
+      "rank": "family",
+      "slug": "explore/hydnaceae"
+    },
+    {
+      "label": "Trumpets",
+      "rank": "genus",
+      "slug": "explore/trumpets"
+    },
+    {
+      "label": "Craterellus venosus",
+      "rank": "species",
+      "slug": "species/craterellus-venosus"
+    }
+  ],
+  "observationCount": 3,
+  "abundanceTier": "moderate",
+  "photos": [
+    {
+      "id": 24058830,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24058830/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24058830/large.jpg",
+      "attribution": "(c) Richard Jacob, some rights reserved (CC BY), uploaded by Richard Jacob",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/70263800"
+    },
+    {
+      "id": 145635109,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/145635109/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/145635109/large.jpg",
+      "attribution": "(c) Bill Yule, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/88279332"
+    },
+    {
+      "id": 238582226,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/238582226/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/238582226/large.jpg",
+      "attribution": "(c) Deana Tempest Thomas, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/139485807"
+    },
+    {
+      "id": 253673247,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/253673247/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/253673247/large.jpeg",
+      "attribution": "(c) Tom Walker, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/147422501"
+    },
+    {
+      "id": 145635150,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/145635150/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/145635150/large.jpg",
+      "attribution": "(c) Bill Yule, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/88279332"
+    }
+  ],
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
+  "seasonality": {
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
+  },
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
+  "relatedSpecies": [
+    {
+      "slug": "craterellus-fallax",
+      "commonName": "Eastern Black Trumpet",
+      "scientificName": "Craterellus fallax",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/43457505/medium.jpg",
+      "distinction": "Eastern Black Trumpet differs from its close relative the Yellowfoot by lacking the distinctive yellow coloration on the stem base and having a more consistently dark color overall."
+    },
+    {
+      "slug": "craterellus-tubaeformis",
+      "commonName": "Yellowfoot",
+      "scientificName": "Craterellus tubaeformis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/337165669/medium.jpg",
+      "distinction": "Among its Craterellus relatives, Yellowfoot is distinguished by that signature bright yellow stem - Eastern Black Trumpets are much darker overall, while Horn-of-plenty are deep gray to black."
+    },
+    {
+      "slug": "craterellus-ignicolor",
+      "commonName": "flame trumpet",
+      "scientificName": "Craterellus ignicolor",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237766344/medium.jpg",
+      "distinction": "Unlike the completely black Eastern Black Trumpet or the smaller, more yellow Yellowfoot species, flame trumpets display those distinctive orange-pink tones and develop the most pronounced funnel shape."
+    },
+    {
+      "slug": "craterellus-lutescens",
+      "commonName": "Yellow Foot",
+      "scientificName": "Craterellus lutescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254486691/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "craterellus-cornucopioides",
+      "commonName": "Horn-of-plenty",
+      "scientificName": "Craterellus cornucopioides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33343395/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "craterellus-foetidus",
+      "commonName": "Craterellus foetidus",
+      "scientificName": "Craterellus foetidus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61872220/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "craterellus-caeruleofuscus",
+      "commonName": "Craterellus caeruleofuscus",
+      "scientificName": "Craterellus caeruleofuscus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/228522308/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "craterellus-dubius",
+      "commonName": "Craterellus dubius",
+      "scientificName": "Craterellus dubius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/426125844/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "craterellus-calyculus",
+      "commonName": "Craterellus calyculus",
+      "scientificName": "Craterellus calyculus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/224103368/medium.jpeg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/702638"
+}

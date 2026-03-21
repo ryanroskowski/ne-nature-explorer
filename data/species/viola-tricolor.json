@@ -1,0 +1,479 @@
+{
+  "slug": "viola-tricolor",
+  "taxonId": 55739,
+  "group": "plants",
+  "commonName": "Wild Pansy",
+  "scientificName": "Viola tricolor",
+  "family": "Violaceae",
+  "familyCommonName": "Violet Family",
+  "genus": "Viola",
+  "genusCommonName": "Violets",
+  "order": "Malpighiales",
+  "orderCommonName": "Nances, Willows, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Vascular Plants",
+      "rank": "phylum",
+      "slug": "explore/vascular-plants"
+    },
+    {
+      "label": "Dicots",
+      "rank": "class",
+      "slug": "explore/dicots"
+    },
+    {
+      "label": "Nances, Willows, and Allies",
+      "rank": "order",
+      "slug": "explore/nances-willows-and-allies"
+    },
+    {
+      "label": "Violet Family",
+      "rank": "family",
+      "slug": "explore/violet-family"
+    },
+    {
+      "label": "Violets",
+      "rank": "genus",
+      "slug": "explore/violets"
+    },
+    {
+      "label": "Wild Pansy",
+      "rank": "species",
+      "slug": "species/viola-tricolor"
+    }
+  ],
+  "observationCount": 10,
+  "abundanceTier": "moderate",
+  "photos": [
+    {
+      "id": 510627570,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/510627570/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/510627570/large.jpg",
+      "attribution": "(c) Tommy Stoughton, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/284144853"
+    },
+    {
+      "id": 9555,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9555/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9555/large.jpg",
+      "attribution": "(c) AnneTanne, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5573900"
+    },
+    {
+      "id": 75723332,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/75723332/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/75723332/large.jpg",
+      "attribution": "(c) Nick Kleinschmidt, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/47736906"
+    },
+    {
+      "id": 963895,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/963895/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/963895/large.jpg",
+      "attribution": "(c) Marcello Consolo, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/5573902"
+    },
+    {
+      "id": 210814909,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210814909/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210814909/large.jpeg",
+      "attribution": "(c) Eric M Powell, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/124381938"
+    },
+    {
+      "id": 155886644,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/155886644/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/155886644/large.jpeg",
+      "attribution": "(c) Olha Bezsmertna, some rights reserved (CC BY-NC), uploaded by Olha Bezsmertna",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5573903"
+    },
+    {
+      "id": 9556,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9556/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9556/large.jpg",
+      "attribution": "(c) Jorunn D. Newth, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/5573901"
+    },
+    {
+      "id": 510627511,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/510627511/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/510627511/large.jpg",
+      "attribution": "(c) Tommy Stoughton, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/284144853"
+    },
+    {
+      "id": 510627656,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/510627656/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/510627656/large.jpg",
+      "attribution": "(c) Tommy Stoughton, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/284144853"
+    },
+    {
+      "id": 75723372,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/75723372/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/75723372/large.jpg",
+      "attribution": "(c) Nick Kleinschmidt, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/47736906"
+    },
+    {
+      "id": 75723408,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/75723408/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/75723408/large.jpg",
+      "attribution": "(c) Nick Kleinschmidt, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/47736906"
+    },
+    {
+      "id": 395000890,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/395000890/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/395000890/large.jpeg",
+      "attribution": "(c) sirrichardv, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/222960324"
+    },
+    {
+      "id": 463856372,
+      "mediumUrl": "https://static.inaturalist.org/photos/463856372/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/463856372/large.jpg",
+      "attribution": "(c) Miyrumiyru, all rights reserved, uploaded by Miyrumiyru",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5573904"
+    },
+    {
+      "id": 510627613,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/510627613/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/510627613/large.jpg",
+      "attribution": "(c) Tommy Stoughton, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/284144853"
+    },
+    {
+      "id": 210814936,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210814936/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210814936/large.jpeg",
+      "attribution": "(c) Eric M Powell, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/124381938"
+    },
+    {
+      "id": 537828512,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/537828512/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/537828512/large.jpg",
+      "attribution": "(c) Birbythederpy, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/298574764"
+    }
+  ],
+  "nameStory": "Wild Pansy gets its name from the French word \"pensée,\" meaning \"thought,\" because the flower's face-like markings reminded people of a thoughtful expression. This charming little flower has earned dozens of whimsical folk names over the centuries, including \"Johnny Jump-up\" for its habit of popping up unexpectedly, and \"three faces in a hood\" for the way its petals seem to form different expressions when viewed from various angles.",
+  "description": "Wild Pansy is a small, cheerful annual or short-lived perennial flower that typically grows 4-8 inches tall. The distinctive flowers have five petals arranged in an irregular pattern, creating a face-like appearance that can be purple, blue, yellow, white, or a delightful combination of these colors. This European native has naturalized throughout North America and is the ancestor of our familiar garden pansies. The plant forms small clumps with heart-shaped leaves and tends to spread readily through self-seeding.",
+  "idTips": [
+    {
+      "label": "Flowers",
+      "description": "Five irregularly arranged petals create a distinctive face-like appearance, with two upper petals, two side petals, and one lower petal that often has dark lines pointing toward the center like a little beard",
+      "isPrimary": true
+    },
+    {
+      "label": "Flowers",
+      "description": "Colors range from deep purple and blue to bright yellow and white, often with multiple colors on a single flower and dark whisker-like markings that feel velvety to the touch",
+      "isPrimary": false
+    },
+    {
+      "label": "Leaves",
+      "description": "Small, heart-shaped to oval leaves with scalloped edges that feel soft and slightly fuzzy when rubbed between your fingers",
+      "isPrimary": false
+    },
+    {
+      "label": "Growth Habit",
+      "description": "Low-growing plant forming small patches, rarely exceeding 8 inches tall, with flowers held on slender stems above the foliage",
+      "isPrimary": false
+    },
+    {
+      "label": "Fruit/Seeds",
+      "description": "Small capsules that split open explosively when ripe, shooting tiny seeds several feet away with an audible pop if you listen closely",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Wild Pansy thrives in disturbed soils, garden edges, cultivated fields, and waste places throughout New England. It prefers sunny to partially shaded locations with well-drained, moderately fertile soil and often appears in areas where the ground has been recently disturbed. You'll commonly find it growing alongside other weedy species in lawns, roadsides, and the edges of agricultural areas.",
+  "seasonality": {
+    "spring": "First flowers appear in late spring, with the most vibrant blooms emerging as temperatures warm. The heart-shaped leaves are fresh green and actively growing.",
+    "summer": "Peak blooming period with flowers appearing continuously throughout the season. Seeds begin forming and dispersing from earlier flowers while new buds keep opening.",
+    "fall": "Flowering continues until frost, with plants producing their final seed crops. Late-season flowers are often smaller but still colorful.",
+    "winter": "Annual plants die back completely, leaving only seeds in the soil to germinate next spring. Occasional individuals may overwinter as small rosettes in protected areas."
+  },
+  "funFact": "A single Wild Pansy plant can produce up to 50 seeds at once, and when the seed pods ripen, they literally explode with enough force to launch seeds up to 15 feet away, creating a natural seed-shooting mechanism that gardeners can actually hear as tiny pops on quiet summer days!",
+  "confusionNotes": "Wild Pansy is most easily confused with garden pansies that have escaped cultivation, but wild pansies are typically much smaller overall with more delicate flowers (usually under an inch across) and simpler color patterns. Remember: \"Wild and small, garden and tall\" - cultivated pansies have much larger, showier faces.",
+  "contextualKnowledge": "While called \"Wild Pansy,\" this species is actually the original pansy - all our garden varieties were bred from this humble wildflower starting in the 1800s. The name \"pansy\" was originally applied to this wild form, and it wasn't until gardeners developed larger, showier cultivars that we started distinguishing between \"wild\" and \"garden\" pansies.",
+  "compareHints": "Among New England's many violet species, Wild Pansy stands out for its face-like flower pattern and multiple colors per bloom, while most other violets are solid purple, blue, yellow, or white. Unlike the spurred flowers of true violets, Wild Pansy has a more open, flat-faced appearance. The explosive seed dispersal also distinguishes it from other violets, which typically have less dramatic seed release mechanisms.",
+  "relatedSpecies": [
+    {
+      "slug": "viola-sororia",
+      "commonName": "common blue violet",
+      "scientificName": "Viola sororia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19508334/medium.jpeg",
+      "distinction": "Among New England's many violet species, common blue violet stands out for its fuzzy, truly heart-shaped leaves with rounded tips, unlike the pointed-tip hearts of Canada violet or the deeply lobed leaves of bird's foot violet."
+    },
+    {
+      "slug": "viola-rotundifolia",
+      "commonName": "Round-leaved Violet",
+      "scientificName": "Viola rotundifolia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/657606/medium.JPG",
+      "distinction": "Among New England's yellow violets, Round-leaved Violet is unique for its perfectly circular leaves - Downy Yellow Violet has heart-shaped leaves, and Smooth Yellow Violet has oval leaves that taper to points."
+    },
+    {
+      "slug": "viola-pedata",
+      "commonName": "bird's foot violet",
+      "scientificName": "Viola pedata",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/340500/medium.jpg",
+      "distinction": "Among New England's many violet species, bird's foot violet is the odd one out with its deeply divided leaves - all other violets have simple, undivided leaves that are heart-shaped, oval, or rounded."
+    },
+    {
+      "slug": "viola-eriocarpa",
+      "commonName": "Smooth Yellow Violet",
+      "scientificName": "Viola eriocarpa",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/38746864/medium.jpg",
+      "distinction": "Among New England's yellow violets, smooth yellow violet is distinguished by its completely hairless leaves and stems, while downy yellow violet has soft, fuzzy foliage."
+    },
+    {
+      "slug": "viola-canadensis",
+      "commonName": "Canada Violet",
+      "scientificName": "Viola canadensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/125678/medium.jpg",
+      "distinction": "Among New England's many violet species, Canada Violet stands out for its height and white flowers with yellow centers."
+    },
+    {
+      "slug": "viola-labradorica",
+      "commonName": "Labrador violet",
+      "scientificName": "Viola labradorica",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/380169293/medium.jpg",
+      "distinction": "Among New England's many violet species, Labrador violet stands out for its purple-tinted foliage - most other violets have plain green leaves."
+    },
+    {
+      "slug": "viola-rostrata",
+      "commonName": "Long-spurred violet",
+      "scientificName": "Viola rostrata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/159530/medium.JPG",
+      "distinction": "Among New England's many violet species, long-spurred violet stands out with its exceptionally long nectar spur and preference for deep woods rather than edges or clearings."
+    },
+    {
+      "slug": "viola-fimbriatula",
+      "commonName": "downy blue violet",
+      "scientificName": "Viola fimbriatula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/38621349/medium.jpg",
+      "distinction": "Among New England's many violet species, downy blue violet stands out for its consistently fuzzy foliage - most other blue violets like common blue violet and marsh blue violet have smooth leaves."
+    },
+    {
+      "slug": "viola-lanceolata",
+      "commonName": "white bog violet",
+      "scientificName": "Viola lanceolata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/521909635/medium.jpg",
+      "distinction": "Among New England's many violets, white bog violet is unique for its combination of white flowers and extremely narrow leaves."
+    },
+    {
+      "slug": "viola-cucullata",
+      "commonName": "marsh blue violet",
+      "scientificName": "Viola cucullata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/74864060/medium.jpg",
+      "distinction": "Among New England's many violet species, marsh blue violet stands out for its wet habitat requirements - most other blue violets prefer drier conditions."
+    },
+    {
+      "slug": "viola-minuscula",
+      "commonName": "northern white violet",
+      "scientificName": "Viola minuscula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/268047681/medium.jpeg",
+      "distinction": "Among New England's white violets, northern white violet is distinguished by its wetland habitat preference and more prominent purple veining on flowers."
+    },
+    {
+      "slug": "viola-sagittata",
+      "commonName": "Arrowleaf Violet",
+      "scientificName": "Viola sagittata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/203642813/medium.jpeg",
+      "distinction": "Among New England's many violet species, arrowleaf violet stands out for its narrow, elongated leaves - most others like common blue violet and Canada violet have distinctly rounded or heart-shaped leaves."
+    },
+    {
+      "slug": "viola-blanda",
+      "commonName": "sweet white violet",
+      "scientificName": "Viola blanda",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70788825/medium.jpeg",
+      "distinction": "Among New England's white-flowered violets, sweet white violet is distinguished by its low, stemless growth habit and subtle fragrance."
+    },
+    {
+      "slug": "viola-pubescens",
+      "commonName": "downy yellow violet",
+      "scientificName": "Viola pubescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/142788573/medium.jpg",
+      "distinction": "Among New England's yellow violets, the downy yellow violet is distinguished by its fuzzy, soft-haired leaves and stems, plus its unique growth pattern with leaves both at ground level and on upright stems."
+    },
+    {
+      "slug": "viola-renifolia",
+      "commonName": "kidneyleaf white violet",
+      "scientificName": "Viola renifolia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3942233/medium.jpg",
+      "distinction": "Among New England's white violets, kidneyleaf white violet stands out with its unique kidney-shaped leaves - sweet white violet has heart-shaped leaves, northern white violet has narrow lance-shaped leaves, and Canada violet has pointed, toothed leaves."
+    },
+    {
+      "slug": "viola-arvensis",
+      "commonName": "European field pansy",
+      "scientificName": "Viola arvensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/37775690/medium.jpeg",
+      "distinction": "Among New England's many violet species, European field pansy stands out for its tiny size and pale, cream-colored flowers - most other violets have larger, more distinctly purple, blue, yellow, or white flowers."
+    },
+    {
+      "slug": "viola-selkirkii",
+      "commonName": "Great-spurred Violet",
+      "scientificName": "Viola selkirkii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/38324317/medium.jpg",
+      "distinction": "Among New England's many violet species, great-spurred violet stands out for its exceptionally long flower spur and notably hairy leaves."
+    },
+    {
+      "slug": "viola-palmata",
+      "commonName": "three-lobed violet",
+      "scientificName": "Viola palmata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35574779/medium.jpg",
+      "distinction": "Among New England's many violet species, three-lobed violet stands out for its hand-shaped leaves - most other violets have heart-shaped, round, or lance-shaped leaves that aren't deeply divided."
+    },
+    {
+      "slug": "viola-incognita",
+      "commonName": "Largeleaf White Violet",
+      "scientificName": "Viola incognita",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/74653075/medium.jpeg",
+      "distinction": "Among white violets in New England, largeleaf white violet stands out for its substantially larger leaves compared to sweet white violet or northern white violet."
+    },
+    {
+      "slug": "viola-adunca",
+      "commonName": "hookedspur violet",
+      "scientificName": "Viola adunca",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/192684110/medium.jpg",
+      "distinction": "Among New England's many violets, hookedspur violet stands out for its hooked spur - most other blue violets like common blue violet have straight or only slightly curved spurs."
+    },
+    {
+      "slug": "viola-primulifolia",
+      "commonName": "primrose-leaved violet",
+      "scientificName": "Viola primulifolia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277938624/medium.jpeg",
+      "distinction": "Among New England's white-flowered violets, primrose-leaved violet stands out for its oval leaves that are twice as long as wide with rounded bases."
+    },
+    {
+      "slug": "viola-striata",
+      "commonName": "cream violet",
+      "scientificName": "Viola striata",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/121743338/medium.jpeg",
+      "distinction": "Among New England's white-flowered violets, cream violet is unique for its purple stripes - Canada violet is pure white and much taller, while sweet white violet is smaller and lacks the striped pattern."
+    },
+    {
+      "slug": "viola-odorata",
+      "commonName": "Sweet violet",
+      "scientificName": "Viola odorata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/63834973/medium.jpg",
+      "distinction": "Sweet violet stands out from New England's many native violets primarily by its strong fragrance and European origin."
+    },
+    {
+      "slug": "viola-subsinuata",
+      "commonName": "wavy-leaved violet",
+      "scientificName": "Viola subsinuata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/161315631/medium.jpeg",
+      "distinction": "Among New England violets, wavy-leaved violet is unique in having deeply divided, wavy-edged leaves right from early spring emergence."
+    },
+    {
+      "slug": "viola-brittoniana",
+      "commonName": "Britton's Coast Violet",
+      "scientificName": "Viola brittoniana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51587898/medium.jpeg",
+      "distinction": "Among New England's many violet species, Britton's Coast Violet stands apart with its deeply-divided leaves that look almost fern-like compared to the heart-shaped or rounded leaves of common blue violet or the simple oval leaves of marsh blue violet."
+    },
+    {
+      "slug": "viola-palustris",
+      "commonName": "alpine marsh violet",
+      "scientificName": "Viola palustris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19208813/medium.jpeg",
+      "distinction": "Unlike common blue violet which grows in gardens and lawns, alpine marsh violet is much smaller and restricted to wet mountain habitats."
+    },
+    {
+      "slug": "viola-septentrionalis",
+      "commonName": "Northern Woodland Violet",
+      "scientificName": "Viola septentrionalis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/507898554/medium.jpg",
+      "distinction": "Among New England's many violets, Northern Woodland Violet is distinguished by its forest habitat preference and relatively small size."
+    },
+    {
+      "slug": "viola-communis",
+      "commonName": "dooryard violet",
+      "scientificName": "Viola communis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/188837777/medium.jpg",
+      "distinction": "Among the purple violets in New England, dooryard violet is distinguished by its preference for disturbed, sunny locations rather than deep woods like Canada violet or specialized habitats like marsh blue violet."
+    },
+    {
+      "slug": "viola-novae-angliae",
+      "commonName": "New England Violet",
+      "scientificName": "Viola novae-angliae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/201215297/medium.jpeg",
+      "distinction": "New England Violet is distinguished from other violets primarily by its diminutive size - it's like a miniature version of the common blue violet."
+    },
+    {
+      "slug": "viola-nephrophylla",
+      "commonName": "northern bog violet",
+      "scientificName": "Viola nephrophylla",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/31720678/medium.jpeg",
+      "distinction": "Among New England's many violets, northern bog violet stands out for its distinctive kidney-shaped leaves that are broader than long - most other violets have heart-shaped or lance-shaped leaves."
+    },
+    {
+      "slug": "viola-affinis",
+      "commonName": "Le Conte's Violet",
+      "scientificName": "Viola affinis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3942238/medium.jpg",
+      "distinction": "Among New England violets, Le Conte's violet is distinguished from common blue violet by its more compact size and flowers that don't rise significantly above the leaves."
+    },
+    {
+      "slug": "viola-riviniana",
+      "commonName": "common dog-violet",
+      "scientificName": "Viola riviniana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3687916/medium.JPG",
+      "distinction": "Unlike most native New England violets, common dog-violet has a very short, blunt spur and spreads aggressively by runners rather than staying in neat clumps."
+    },
+    {
+      "slug": "viola-hirsutula",
+      "commonName": "Southern wood violet",
+      "scientificName": "Viola hirsutula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7913621/medium.jpg",
+      "distinction": "Among New England's many violet species, southern wood violet stands out for its consistently fuzzy texture throughout the plant."
+    },
+    {
+      "slug": "viola-pectinata",
+      "commonName": "pectinate-leaved violet",
+      "scientificName": "Viola pectinata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18241963/medium.jpeg",
+      "distinction": "Among New England violets, pectinate-leaved violet is unmistakable due to its comb-like divided leaves - no other violet in the region has leaves cut into such narrow segments."
+    },
+    {
+      "slug": "viola-inconspicua",
+      "commonName": "Long Sepal Violet",
+      "scientificName": "Viola inconspicua",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/255900295/medium.jpeg",
+      "distinction": "Unlike common blue violet or sweet white violet which have relatively short, normal-sized sepals, the Long Sepal Violet's sepals extend dramatically beyond the petals."
+    },
+    {
+      "slug": "viola-rafinesquei",
+      "commonName": "American field pansy",
+      "scientificName": "Viola rafinesquei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2038485/medium.jpg",
+      "distinction": "Unlike the more familiar common blue violet with its heart-shaped leaves and solid purple flowers, American field pansy has much smaller, multi-colored pansy-like blooms and narrower leaves."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Viola_tricolor",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/55739"
+}

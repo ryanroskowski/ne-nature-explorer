@@ -1,0 +1,145 @@
+{
+  "slug": "pilosella-glomerata",
+  "taxonId": 733679,
+  "group": "plants",
+  "commonName": "Yellow Devil Hawkweed",
+  "scientificName": "Pilosella glomerata",
+  "family": "Asteraceae",
+  "familyCommonName": "Sunflowers, Daisies, Asters, and Allies",
+  "genus": "Pilosella",
+  "genusCommonName": "mouse-ear hawkweeds",
+  "order": "Asterales",
+  "orderCommonName": "Sunflowers, Bellflowers, Fanflowers, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Vascular Plants",
+      "rank": "phylum",
+      "slug": "explore/vascular-plants"
+    },
+    {
+      "label": "Dicots",
+      "rank": "class",
+      "slug": "explore/dicots"
+    },
+    {
+      "label": "Sunflowers, Bellflowers, Fanflowers, and Allies",
+      "rank": "order",
+      "slug": "explore/sunflowers-bellflowers-fanflowers-and-allies"
+    },
+    {
+      "label": "Sunflowers, Daisies, Asters, and Allies",
+      "rank": "family",
+      "slug": "explore/sunflowers-daisies-asters-and-allies"
+    },
+    {
+      "label": "mouse-ear hawkweeds",
+      "rank": "genus",
+      "slug": "explore/mouse-ear-hawkweeds"
+    },
+    {
+      "label": "Yellow Devil Hawkweed",
+      "rank": "species",
+      "slug": "species/pilosella-glomerata"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 3989617,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3989617/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3989617/large.jpg",
+      "attribution": "(c) plleipold, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/3441394"
+    },
+    {
+      "id": 4184895,
+      "mediumUrl": "https://static.inaturalist.org/photos/4184895/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/4184895/large.jpg",
+      "attribution": "(c) marthar, all rights reserved, uploaded by marthar",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/73367900"
+    }
+  ],
+  "nameStory": "The \"Yellow Devil\" name comes from this hawkweed's aggressive spreading habit and bright yellow flowers that seem to pop up everywhere once established. Like other hawkweeds, it gets the \"hawk\" part from an old belief that hawks ate these plants to sharpen their eyesight - though that's just folklore!",
+  "description": "Yellow Devil Hawkweed is a low-growing perennial with bright yellow dandelion-like flowers clustered tightly together. The plant forms dense mats only 6-12 inches tall, spreading by underground runners called stolons. Its fuzzy, spoon-shaped leaves grow in a flat rosette close to the ground, and multiple flower heads bunch together at the top of hairy stems.",
+  "idTips": [
+    {
+      "label": "Flowers",
+      "description": "Bright lemon-yellow flower heads clustered tightly in groups of 5-30 at stem tips, each head about half an inch across with only ray petals (no center disk like daisies)",
+      "isPrimary": true
+    },
+    {
+      "label": "Leaves",
+      "description": "Spoon-shaped leaves covered in soft white hairs that feel fuzzy to touch, arranged in a flat rosette hugging the ground",
+      "isPrimary": false
+    },
+    {
+      "label": "Growth Habit",
+      "description": "Forms dense, spreading mats through underground runners, staying low at 6-12 inches tall with flower stems rising above the leaf rosettes",
+      "isPrimary": false
+    },
+    {
+      "label": "Stems",
+      "description": "Flower stems are leafless and covered in white hairs that feel soft and slightly sticky when rubbed between fingers",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in disturbed areas, roadsides, old fields, and lawn edges throughout New England, preferring well-drained soils in full sun to partial shade. Often establishes in poor, sandy soils where other plants struggle. Common in areas with some human disturbance rather than pristine natural habitats.",
+  "seasonality": {
+    "spring": "Fuzzy leaf rosettes emerge early, appearing gray-green against brown soil. Young leaves feel particularly soft and woolly.",
+    "summer": "Peak blooming period from June through August, with bright yellow flower clusters most prominent in early to mid-summer.",
+    "fall": "Flowers may continue sporadically into early fall, while leaves remain green and fuzzy in their ground-hugging rosettes.",
+    "winter": "Leaves often persist as evergreen rosettes under snow, though they may look more gray-green and weathered."
+  },
+  "funFact": "This plant is considered so invasive in some areas that it's actually illegal to sell or transport in several states - despite being in the same family as beloved sunflowers and black-eyed Susans!",
+  "confusionNotes": "Most easily confused with dandelions due to the all-yellow flowers, but Yellow Devil has multiple flower heads clustered together (not single flowers) and much fuzzier, gray-green leaves. Remember: dandelions are loners, hawkweeds are social - they cluster their flowers together.",
+  "contextualKnowledge": "Despite the scary \"devil\" name, this plant isn't harmful to touch or toxic - the name refers only to its aggressive spreading nature that can crowd out native plants. It's actually quite soft and pleasant to feel.",
+  "compareHints": "Yellow Devil differs from Orange Hawkweed by its yellow (not orange-red) flowers and more tightly clustered flower heads. Unlike Mouse-eared Hawkweed which has single flowers on stems, Yellow Devil always has multiple flower heads bunched together. The clustering habit and bright yellow color make it distinctive among New England hawkweeds.",
+  "relatedSpecies": [
+    {
+      "slug": "pilosella-aurantiaca",
+      "commonName": "orange hawkweed",
+      "scientificName": "Pilosella aurantiaca",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/533646976/medium.jpg",
+      "distinction": "Orange hawkweed stands out from its hawkweed relatives by its distinctive orange-red flowers—most other hawkweeds in New England have yellow blooms."
+    },
+    {
+      "slug": "pilosella-officinarum",
+      "commonName": "mouse-eared hawkweed",
+      "scientificName": "Pilosella officinarum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/384074991/medium.jpeg",
+      "distinction": "Mouse-eared hawkweed stands out from its hawkweed relatives by its distinctively fuzzy, silvery leaves and single yellow flowers on leafless stems."
+    },
+    {
+      "slug": "pilosella-caespitosa",
+      "commonName": "meadow hawkweed",
+      "scientificName": "Pilosella caespitosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/469589573/medium.jpg",
+      "distinction": "Meadow hawkweed differs from its orange hawkweed cousin by having yellow flowers instead of orange-red ones."
+    },
+    {
+      "slug": "pilosella-piloselloides",
+      "commonName": "smooth hawkweed",
+      "scientificName": "Pilosella piloselloides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2315597/medium.JPG",
+      "distinction": "Smooth hawkweed towers above its mouse-eared hawkweed cousin, which stays close to the ground in creeping mats with densely fuzzy leaves."
+    },
+    {
+      "slug": "pilosella-floribunda",
+      "commonName": "Yellow-devil",
+      "scientificName": "Pilosella floribunda",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31681094/medium.jpeg",
+      "distinction": "Yellow-devil differs from orange hawkweed by its yellow (not orange-red) flowers and generally paler, more silvery-fuzzy leaves."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/733679"
+}

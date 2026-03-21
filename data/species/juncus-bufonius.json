@@ -1,0 +1,416 @@
+{
+  "slug": "juncus-bufonius",
+  "taxonId": 57107,
+  "group": "plants",
+  "commonName": "Toad rush",
+  "scientificName": "Juncus bufonius",
+  "family": "Juncaceae",
+  "familyCommonName": "Rushes and Allies",
+  "genus": "Juncus",
+  "genusCommonName": "Rushes",
+  "order": "Poales",
+  "orderCommonName": "Grasses, Sedges, Cattails, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Vascular Plants",
+      "rank": "phylum",
+      "slug": "explore/vascular-plants"
+    },
+    {
+      "label": "Monocots",
+      "rank": "class",
+      "slug": "explore/monocots"
+    },
+    {
+      "label": "Grasses, Sedges, Cattails, and Allies",
+      "rank": "order",
+      "slug": "explore/grasses-sedges-cattails-and-allies"
+    },
+    {
+      "label": "Rushes and Allies",
+      "rank": "family",
+      "slug": "explore/rushes-and-allies"
+    },
+    {
+      "label": "Rushes",
+      "rank": "genus",
+      "slug": "explore/rushes"
+    },
+    {
+      "label": "Toad rush",
+      "rank": "species",
+      "slug": "species/juncus-bufonius"
+    }
+  ],
+  "observationCount": 11,
+  "abundanceTier": "moderate",
+  "photos": [
+    {
+      "id": 439279360,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/439279360/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/439279360/large.jpeg",
+      "attribution": "no rights reserved, uploaded by Kallum McDonald",
+      "licenseCode": "cc0",
+      "observationUrl": "https://www.inaturalist.org/observations/5710705"
+    },
+    {
+      "id": 61053592,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61053592/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61053592/large.jpg",
+      "attribution": "(c) Vladimir Bryukhov, some rights reserved (CC BY-NC), uploaded by Vladimir Bryukhov",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5710708"
+    },
+    {
+      "id": 62222498,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62222498/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62222498/large.jpg",
+      "attribution": "(c) Vladimir Bryukhov, some rights reserved (CC BY-NC), uploaded by Vladimir Bryukhov",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5710702"
+    },
+    {
+      "id": 415200998,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/415200998/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/415200998/large.jpeg",
+      "attribution": "(c) margaretcurtin, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/233618334"
+    },
+    {
+      "id": 49132135,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/49132135/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/49132135/large.jpg",
+      "attribution": "(c) Vladimir Bryukhov, some rights reserved (CC BY-NC), uploaded by Vladimir Bryukhov",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5710709"
+    },
+    {
+      "id": 86032424,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/86032424/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/86032424/large.jpeg",
+      "attribution": "(c) Rolf Theodor Borlinghaus, some rights reserved (CC BY-NC), uploaded by Rolf Theodor Borlinghaus",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5710701"
+    },
+    {
+      "id": 444343652,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/444343652/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/444343652/large.jpeg",
+      "attribution": "(c) wanderingeden, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/248657469"
+    },
+    {
+      "id": 19969591,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19969591/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19969591/large.jpg",
+      "attribution": "(c) aarongunnar, some rights reserved (CC BY), uploaded by aarongunnar",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/5710706"
+    },
+    {
+      "id": 444343604,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/444343604/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/444343604/large.jpeg",
+      "attribution": "(c) wanderingeden, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/248657469"
+    },
+    {
+      "id": 530438230,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/530438230/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/530438230/large.jpg",
+      "attribution": "(c) Věra Kafková, some rights reserved (CC BY-NC), uploaded by Věra Kafková",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5710700"
+    },
+    {
+      "id": 298082010,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/298082010/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/298082010/large.jpeg",
+      "attribution": "(c) Mehdi Chetibi, some rights reserved (CC BY), uploaded by Mehdi Chetibi",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/5710704"
+    },
+    {
+      "id": 277700284,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277700284/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277700284/large.jpg",
+      "attribution": "(c) Pinnacles National Park, some rights reserved (CC BY), uploaded by Pinnacles National Park",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/5710710"
+    },
+    {
+      "id": 415200957,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/415200957/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/415200957/large.jpeg",
+      "attribution": "(c) margaretcurtin, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/233618334"
+    },
+    {
+      "id": 33007504,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33007504/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33007504/large.jpg",
+      "attribution": "(c) Howard Horne, some rights reserved (CC BY-NC), uploaded by Howard Horne",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5710703"
+    },
+    {
+      "id": 5851492,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5851492/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5851492/large.jpeg",
+      "attribution": "(c) Lewnanny Richardson, some rights reserved (CC BY-NC), uploaded by Lewnanny Richardson",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5710707"
+    },
+    {
+      "id": 415200926,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/415200926/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/415200926/large.jpeg",
+      "attribution": "(c) margaretcurtin, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/233618334"
+    }
+  ],
+  "nameStory": "Toad rush gets its curious name from its love of the same damp, muddy places where toads like to hang out. This little rush often grows in temporary puddles, muddy tire ruts, and soggy spots that dry up later in the year - exactly the kind of moist hideaways that toads seek for shelter and breeding.",
+  "description": "Toad rush is a tiny, grass-like annual plant that's easy to overlook but surprisingly common in wet, disturbed places. Growing just 2-8 inches tall, it forms small tufts of thread-thin stems topped with clusters of minute greenish flowers. Unlike its taller rush relatives, toad rush is a pioneer species that quickly colonizes muddy spots after they've been disturbed by feet, tires, or natural flooding. It's one of the smallest members of the rush family you'll encounter in New England.",
+  "idTips": [
+    {
+      "label": "Growth Habit",
+      "description": "Tiny annual forming small, loose tufts only 2-8 inches tall with thread-thin stems that feel wiry between your fingers",
+      "isPrimary": true
+    },
+    {
+      "label": "Flowers",
+      "description": "Minute greenish flowers clustered along the upper portions of stems, so small you might need to look closely to see them clearly",
+      "isPrimary": false
+    },
+    {
+      "label": "Stems",
+      "description": "Extremely narrow, wire-like stems that branch in a forked pattern and feel tough despite their thinness",
+      "isPrimary": false
+    },
+    {
+      "label": "Leaves",
+      "description": "Leaves are so narrow and similar to stems that they're hard to distinguish, creating an all-green tangled appearance",
+      "isPrimary": false
+    },
+    {
+      "label": "Habitat Preference",
+      "description": "Always found in muddy, wet, or recently dried disturbed spots like puddle edges, tire ruts, and trampled areas",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for toad rush in muddy, disturbed wet areas throughout New England - places like dried puddle edges, muddy tire tracks, construction sites, and trampled areas around ponds or streams. It thrives in compacted, nutrient-poor soils that stay wet in spring but may dry out later in summer. You'll often find it mixed with other small weedy plants in areas where foot traffic or vehicles have disturbed the ground.",
+  "seasonality": {
+    "spring": "Young plants emerge in wet, muddy spots as tiny green tufts that are easily mistaken for grass seedlings.",
+    "summer": "Plants reach full size and produce their tiny flowers, becoming most identifiable during this peak growing season.",
+    "fall": "Plants begin to turn brown and set seed, becoming less noticeable as they blend with dying vegetation.",
+    "winter": "Dead stems may persist as small brown tangles in dried mud, but the annual plants have completed their life cycle."
+  },
+  "funFact": "Toad rush is like nature's pioneer - it can germinate, grow, flower, and set seed all within a few months, allowing it to complete its entire life cycle in temporary puddles that might only exist for part of the year!",
+  "confusionNotes": "Its tiny size and thread-like appearance might make you think it's a small grass or even moss, but rushes have different flower structures than grasses - no obvious petals or grass-like seed heads. Remember: if it's growing in a muddy, disturbed spot and looks like green wire, think toad rush!",
+  "contextualKnowledge": "Despite being called a 'rush,' toad rush looks quite different from the tall, stiff rushes most people picture. It's actually part of a 'species complex,' which means what we call 'toad rush' may actually be several very similar species that are difficult to tell apart without close examination.",
+  "compareHints": "Toad rush is much smaller and more delicate than other New England rushes like soft rush or slender path rush, which grow in clumps 1-3 feet tall. While most rushes are perennials that return year after year, toad rush is an annual that completes its life cycle in one season. Its preference for disturbed, muddy spots also sets it apart from most other rushes that prefer more stable wetland conditions.",
+  "relatedSpecies": [
+    {
+      "slug": "juncus-tenuis",
+      "commonName": "Slender Path Rush",
+      "scientificName": "Juncus tenuis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32809281/medium.jpg",
+      "distinction": "Among New England's many rush species, Slender Path Rush is distinguished by its preference for dry, compacted soils rather than wet areas."
+    },
+    {
+      "slug": "juncus-effusus",
+      "commonName": "Soft Rush",
+      "scientificName": "Juncus effusus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41202988/medium.jpg",
+      "distinction": "Among New England's many rush species, Soft Rush stands out for its combination of spongy, easily compressed stems and dense clumping habit."
+    },
+    {
+      "slug": "juncus-greenei",
+      "commonName": "Greene's Rush",
+      "scientificName": "Juncus greenei",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/12594500/medium.jpg",
+      "distinction": "Among New England's rushes, Greene's Rush stands out for its preference for acidic habitats - most other rushes like neutral to alkaline conditions."
+    },
+    {
+      "slug": "juncus-gerardi",
+      "commonName": "Saltmeadow Rush",
+      "scientificName": "Juncus gerardi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64604722/medium.jpeg",
+      "distinction": "Among New England's rushes, Saltmeadow Rush is unique in its exclusive preference for salty environments - most other rushes like Soft Rush and Path Rush grow in freshwater marshes and wet meadows."
+    },
+    {
+      "slug": "juncus-militaris",
+      "commonName": "Bayonet Rush",
+      "scientificName": "Juncus militaris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/144937451/medium.jpeg",
+      "distinction": "Bayonet rush stands out among its many rush relatives by having the stiffest, most blade-like leaves - soft rush has completely round, flexible stems, while slender path rush grows on dry ground rather than in water."
+    },
+    {
+      "slug": "juncus-canadensis",
+      "commonName": "Canada Rush",
+      "scientificName": "Juncus canadensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/42126/medium.jpg",
+      "distinction": "Among New England's many rush species, Canada Rush can be distinguished from Soft Rush by its branched flower clusters (Soft Rush has flowers in a single dense cluster) and from Path Rush by its preference for permanently wet areas rather than disturbed paths."
+    },
+    {
+      "slug": "juncus-pelocarpus",
+      "commonName": "Brown-fruit Rush",
+      "scientificName": "Juncus pelocarpus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9884628/medium.jpeg",
+      "distinction": "Among New England's many rush species, Brown-fruit Rush is distinguished by its very short stature and colonial growth habit - most other rushes like Soft Rush or Path Rush grow taller and in distinct clumps rather than spreading mats."
+    },
+    {
+      "slug": "juncus-pylaei",
+      "commonName": "Pylaie's Soft Rush",
+      "scientificName": "Juncus pylaei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/142887886/medium.jpeg",
+      "distinction": "Compared to its close relative Soft Rush, Pylaie's Soft Rush is generally more delicate and forms looser clumps rather than dense tufts."
+    },
+    {
+      "slug": "juncus-balticus",
+      "commonName": "Baltic Rush",
+      "scientificName": "Juncus balticus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/383688680/medium.jpg",
+      "distinction": "Among New England rushes, Baltic rush is most similar to Soft rush and Hard rush, but it's generally shorter and stockier than Soft rush, with a more matte stem surface."
+    },
+    {
+      "slug": "juncus-marginatus",
+      "commonName": "Grass-leaved Rush",
+      "scientificName": "Juncus marginatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67304617/medium.jpeg",
+      "distinction": "Among New England's many rushes, Grass-leaved Rush is unique for its flattened, truly grass-like leaves with whitish margins."
+    },
+    {
+      "slug": "juncus-filiformis",
+      "commonName": "Thread Rush",
+      "scientificName": "Juncus filiformis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/82596547/medium.jpg",
+      "distinction": "Among New England's rushes, Thread Rush stands out for being by far the thinnest - its stems are much more delicate than the robust Soft Rush or the moderately thin Slender Path Rush."
+    },
+    {
+      "slug": "juncus-articulatus",
+      "commonName": "Jointed rush",
+      "scientificName": "Juncus articulatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61718017/medium.jpg",
+      "distinction": "Among New England's rushes, jointed rush is unique for its internal leaf joints that you can feel with your fingers."
+    },
+    {
+      "slug": "juncus-torreyi",
+      "commonName": "Torrey's rush",
+      "scientificName": "Juncus torreyi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/431958263/medium.jpg",
+      "distinction": "Among New England rushes, Torrey's rush stands out for its distinctly rounded, dense flower clusters - most relatives like Soft Rush or Path Rush have more open, branched flower arrangements."
+    },
+    {
+      "slug": "juncus-secundus",
+      "commonName": "Secund Rush",
+      "scientificName": "Juncus secundus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/45459911/medium.jpeg",
+      "distinction": "Among the many rush species in New England, Secund Rush is the only one with flowers that consistently lean to one side."
+    },
+    {
+      "slug": "juncus-ensifolius",
+      "commonName": "dagger rush",
+      "scientificName": "Juncus ensifolius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/87054436/medium.jpg",
+      "distinction": "Among New England's many rush species, dagger rush stands out immediately because of its flat, sword-like leaves - all other local rushes have round, needle-like stems or very narrow cylindrical leaves."
+    },
+    {
+      "slug": "juncus-diffusissimus",
+      "commonName": "Slim-pod Rush",
+      "scientificName": "Juncus diffusissimus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/294516363/medium.jpeg",
+      "distinction": "Among New England rushes, Slim-pod Rush is distinguished by its extremely narrow seed pods - much thinner than the plump pods of Soft Rush or the egg-shaped pods of Path Rush."
+    },
+    {
+      "slug": "juncus-anthelatus",
+      "commonName": "greater poverty rush",
+      "scientificName": "Juncus anthelatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/527736621/medium.jpg",
+      "distinction": "Greater poverty rush stands out from other New England rushes by its notably thick, waxy stems - much stouter than the thin stems of slender path rush or the soft, spongy stems of soft rush."
+    },
+    {
+      "slug": "juncus-dichotomus",
+      "commonName": "Forked Rush",
+      "scientificName": "Juncus dichotomus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5564356/medium.jpeg",
+      "distinction": "Among New England's many rush species, Forked Rush stands out for its distinctive branching flower pattern - most other rushes have more compact, rounded, or differently arranged flower clusters."
+    },
+    {
+      "slug": "juncus-acuminatus",
+      "commonName": "tapered rush",
+      "scientificName": "Juncus acuminatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/86104195/medium.jpg",
+      "distinction": "Among New England rushes, tapered rush stands out for its sharply pointed flower segments and open, branching flower clusters."
+    },
+    {
+      "slug": "juncus-nodosus",
+      "commonName": "Knotted Rush",
+      "scientificName": "Juncus nodosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226254408/medium.jpeg",
+      "distinction": "Among New England's many rush species, knotted rush stands out with its distinctive spherical flower clusters that look like tiny balls."
+    },
+    {
+      "slug": "juncus-conglomeratus",
+      "commonName": "Compact Rush",
+      "scientificName": "Juncus conglomeratus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43429718/medium.jpg",
+      "distinction": "Among New England rushes, Compact Rush is distinguished by its extremely tight, ball-like flower clusters - Soft Rush has loose, branching flower heads, while Slender Path Rush has flowers scattered along the stem."
+    },
+    {
+      "slug": "juncus-tweedyi",
+      "commonName": "Narrow-panicle Rush",
+      "scientificName": "Juncus tweedyi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53086095/medium.jpeg",
+      "distinction": "Among New England's many rush species, narrow-panicled rush stands out for its extremely compact flower cluster - most other rushes like soft rush or Canada rush have loose, branching flower arrangements."
+    },
+    {
+      "slug": "juncus-inflexus",
+      "commonName": "Hard Rush",
+      "scientificName": "Juncus inflexus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137237998/medium.jpeg",
+      "distinction": "Hard Rush stands out from its many rush relatives by its exceptionally rigid stems - most other Juncus species have stems that bend or compress when squeezed."
+    },
+    {
+      "slug": "juncus-dudleyi",
+      "commonName": "Dudley's Rush",
+      "scientificName": "Juncus dudleyi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/425009752/medium.jpg",
+      "distinction": "Among New England's rushes, Dudley's Rush is most similar to Soft Rush and Slender Path Rush in its clumping growth habit and side-emerging flowers."
+    },
+    {
+      "slug": "juncus-brachycephalus",
+      "commonName": "Small-head Rush",
+      "scientificName": "Juncus brachycephalus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9163683/medium.jpg",
+      "distinction": "Unlike the common Soft Rush with its loose, branched flower clusters, Small-head Rush has distinctly compact, rounded flower heads."
+    },
+    {
+      "slug": "juncus-alpinoarticulatus",
+      "commonName": "Northern Green Rush",
+      "scientificName": "Juncus alpinoarticulatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/260816068/medium.jpg",
+      "distinction": "Among New England rushes, Northern Green Rush is distinguished by its preference for acidic wetlands rather than neutral or alkaline areas preferred by many relatives like Saltmeadow Rush."
+    },
+    {
+      "slug": "juncus-compressus",
+      "commonName": "Flattened Rush",
+      "scientificName": "Juncus compressus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/85499573/medium.jpeg",
+      "distinction": "Among New England's many rush species, Flattened Rush is unique for its compressed stems - most other rushes like Soft Rush and Slender Path Rush have perfectly round stems when you roll them between your fingers."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Juncus_bufonius",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/57107"
+}

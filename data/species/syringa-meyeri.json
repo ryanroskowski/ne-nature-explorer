@@ -1,0 +1,136 @@
+{
+  "slug": "syringa-meyeri",
+  "taxonId": 429454,
+  "group": "plants",
+  "commonName": "korean lilac",
+  "scientificName": "Syringa meyeri",
+  "family": "Oleaceae",
+  "familyCommonName": "olive family",
+  "genus": "Syringa",
+  "genusCommonName": "Lilacs",
+  "order": "Lamiales",
+  "orderCommonName": "Mints, Plantains, Olives, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Vascular Plants",
+      "rank": "phylum",
+      "slug": "explore/vascular-plants"
+    },
+    {
+      "label": "Dicots",
+      "rank": "class",
+      "slug": "explore/dicots"
+    },
+    {
+      "label": "Mints, Plantains, Olives, and Allies",
+      "rank": "order",
+      "slug": "explore/mints-plantains-olives-and-allies"
+    },
+    {
+      "label": "olive family",
+      "rank": "family",
+      "slug": "explore/olive-family"
+    },
+    {
+      "label": "Lilacs",
+      "rank": "genus",
+      "slug": "explore/lilacs"
+    },
+    {
+      "label": "korean lilac",
+      "rank": "species",
+      "slug": "species/syringa-meyeri"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 18898879,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18898879/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18898879/large.jpeg",
+      "attribution": "(c) truebannana, some rights reserved (CC BY-NC), uploaded by truebannana",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/42945401"
+    },
+    {
+      "id": 17596826,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17596826/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17596826/large.jpeg",
+      "attribution": "(c) karibot, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/42945400"
+    }
+  ],
+  "nameStory": "The Korean lilac gets its name from its native homeland of Korea, where it grows wild in the mountainous regions. This compact cousin of the familiar common lilac was discovered and brought to Western gardens in the early 1900s, prized for its smaller size and reliable blooming.",
+  "description": "Korean lilac is a compact, rounded shrub that typically grows 4-6 feet tall and wide, making it perfect for smaller gardens. Unlike its towering cousin the common lilac, this petite beauty produces fragrant clusters of pale purple to pinkish flowers in late spring to early summer. The small, oval leaves have a distinctive fuzzy texture underneath, and the entire plant has a dense, neat growth habit that rarely needs pruning.",
+  "idTips": [
+    {
+      "label": "Flowers",
+      "description": "Small, fragrant flower clusters (panicles) of pale lilac-purple blooms with white throats, much more compact than common lilac flowers and appearing in late spring to early summer",
+      "isPrimary": false
+    },
+    {
+      "label": "Leaves",
+      "description": "Small oval leaves that feel smooth on top but distinctly fuzzy or downy underneath - run your finger along the underside for a soft, almost velvety texture",
+      "isPrimary": true
+    },
+    {
+      "label": "Growth Habit",
+      "description": "Compact, rounded shrub staying under 6 feet tall with a neat, dense branching pattern that naturally forms a tidy mound shape",
+      "isPrimary": false
+    },
+    {
+      "label": "Bark",
+      "description": "Smooth grayish-brown bark on younger stems, becoming slightly furrowed with age but remaining relatively smooth compared to other shrubs",
+      "isPrimary": false
+    },
+    {
+      "label": "Buds",
+      "description": "Small, pointed winter buds arranged oppositely on branches, helpful for winter identification when combined with the smooth bark",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Korean lilac is almost exclusively found in cultivated settings throughout New England - residential gardens, parks, and landscaped areas. It thrives in well-drained soils and full sun to partial shade, often planted as foundation plantings or border shrubs. You won't find this species growing wild, as it's not native to North America.",
+  "seasonality": {
+    "spring": "Fragrant flower clusters bloom in late spring, typically May to early June, filling the air with sweet perfume and attracting bees and butterflies.",
+    "summer": "After flowers fade, the small fuzzy leaves remain green and healthy through summer heat, maintaining the shrub's compact, rounded shape.",
+    "fall": "Leaves may turn yellowish before dropping, though fall color is generally unremarkable compared to native shrubs.",
+    "winter": "Bare branches reveal the neat, dense branching structure with small opposite buds and smooth grayish bark for identification."
+  },
+  "funFact": "Korean lilac is sometimes called the 'apartment lilac' because unlike common lilacs that can tower over 15 feet, this compact species stays small enough to fit under most windows and never outgrows its space - it's like nature's own dwarf variety!",
+  "confusionNotes": "Most easily confused with young common lilac plants, but Korean lilac's leaves are much smaller and distinctly fuzzy underneath, while common lilac leaves are larger and smooth on both sides. Remember: Korean = compact and fuzzy underneath, Common = large and smooth all over.",
+  "contextualKnowledge": "There's some botanical confusion around Korean lilac's scientific name - you might see it labeled as either Syringa meyeri or Syringa pubescens subspecies patula in different sources, but both refer to the same small, fuzzy-leaved garden shrub. The name 'pubescens' actually means 'downy,' referring to those telltale fuzzy leaf undersides.",
+  "compareHints": "Korean lilac is much more compact than common lilac, staying under 6 feet versus 15+ feet, and has smaller, fuzzier leaves. Compared to Japanese tree lilac, Korean lilac blooms earlier and has the classic lilac flower color rather than creamy white. Hungarian lilac has longer, more pointed leaves without the fuzzy undersides that make Korean lilac so distinctive.",
+  "relatedSpecies": [
+    {
+      "slug": "syringa-vulgaris",
+      "commonName": "common lilac",
+      "scientificName": "Syringa vulgaris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/131487901/medium.jpeg",
+      "distinction": "Common lilac blooms earlier than Japanese tree lilac and has the classic sweet fragrance, while tree lilac has a honey-like scent and blooms in June."
+    },
+    {
+      "slug": "syringa-reticulata",
+      "commonName": "Japanese Tree Lilac",
+      "scientificName": "Syringa reticulata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8881612/medium.jpeg",
+      "distinction": "Japanese tree lilac is easily distinguished from common lilac and other shrubby lilacs by its tree form and creamy-white, honey-scented flowers that bloom much later in the season."
+    },
+    {
+      "slug": "syringa-josikaea",
+      "commonName": "Hungarian Lilac",
+      "scientificName": "Syringa josikaea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244895/medium.jpg",
+      "distinction": "Hungarian lilac differs from common lilac in its much thicker, leathery leaves, later bloom time, and more upright growth habit."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Syringa_pubescens",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/429454"
+}

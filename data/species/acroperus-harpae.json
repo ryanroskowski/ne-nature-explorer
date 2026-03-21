@@ -1,0 +1,130 @@
+{
+  "slug": "acroperus-harpae",
+  "taxonId": 203472,
+  "group": "crustaceans",
+  "commonName": "Sickle Waterflea",
+  "scientificName": "Acroperus harpae",
+  "family": "Chydoridae",
+  "familyCommonName": "Chydoridae",
+  "genus": "Acroperus",
+  "genusCommonName": "Acroperus",
+  "order": "Anomopoda",
+  "orderCommonName": "Anomopods",
+  "breadcrumb": [
+    {
+      "label": "Crustaceans",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Branchiopods",
+      "rank": "class",
+      "slug": "explore/branchiopods"
+    },
+    {
+      "label": "Anomopods",
+      "rank": "order",
+      "slug": "explore/anomopods"
+    },
+    {
+      "label": "Chydoridae",
+      "rank": "family",
+      "slug": "explore/chydoridae"
+    },
+    {
+      "label": "Acroperus",
+      "rank": "genus",
+      "slug": "explore/acroperus"
+    },
+    {
+      "label": "Sickle Waterflea",
+      "rank": "species",
+      "slug": "species/acroperus-harpae"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 53113213,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53113213/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53113213/large.jpg",
+      "attribution": "(c) Dmitry Kulakov, some rights reserved (CC BY), uploaded by Dmitry Kulakov",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/20347200"
+    },
+    {
+      "id": 147022014,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147022014/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147022014/large.jpg",
+      "attribution": "(c) amlyne12, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/89057029"
+    },
+    {
+      "id": 378891567,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/378891567/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/378891567/large.jpeg",
+      "attribution": "(c) albatross112, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/214360935"
+    },
+    {
+      "id": 378891582,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/378891582/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/378891582/large.jpeg",
+      "attribution": "(c) albatross112, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/214360935"
+    }
+  ],
+  "nameStory": "The Sickle Waterflea gets its name from its distinctively curved, crescent-shaped body that resembles a farmer's sickle blade. Like other waterfleas, it's not actually a flea at all, but a tiny freshwater crustacean that 'fleas' through the water with jerky, hopping movements using its large branched antennae.",
+  "description": "The Sickle Waterflea is a microscopic freshwater crustacean, one of the tiniest animals you'll find in New England ponds and lakes. At less than 1 millimeter long (about the size of a grain of sand), this translucent creature has a distinctive curved, sickle-shaped body enclosed in a clear shell-like covering called a carapace. You'll need a magnifying glass or microscope to see its jerky swimming motions as it filters tiny algae and bacteria from the water. Despite being nearly invisible to the naked eye, these little animals play important roles in freshwater food webs.",
+  "idTips": [
+    {
+      "label": "Curved Body Shape",
+      "description": "The body has a distinctive crescent or sickle shape when viewed from the side, clearly curved rather than round or oval like most other waterfleas",
+      "isPrimary": true
+    },
+    {
+      "label": "Size",
+      "description": "Extremely small at 0.5-0.8mm long, roughly the size of a fine grain of sand - you'll need magnification to see details",
+      "isPrimary": false
+    },
+    {
+      "label": "Clear Shell",
+      "description": "Transparent to pale yellow carapace (shell-like covering) that you can see through to observe internal organs",
+      "isPrimary": false
+    },
+    {
+      "label": "Swimming Motion",
+      "description": "Moves through water with characteristic jerky, hopping motions using large feathery antennae as paddles",
+      "isPrimary": false
+    },
+    {
+      "label": "Antenna Structure",
+      "description": "Two prominent branched antennae extending from the head region, feathery in appearance under magnification",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in the shallow, weedy margins of clean freshwater ponds, lakes, and slow-moving streams throughout New England. They prefer areas with abundant aquatic vegetation where they can graze on algae growing on plant surfaces and hide among stems and leaves. Look for them in the top few feet of water where sunlight supports rich algal growth.",
+  "seasonality": {
+    "spring": "Populations begin growing as water warms, with individuals emerging from winter resting eggs. Best time to find them as numbers are building but competition is low.",
+    "summer": "Peak abundance occurs during warm months when algae is plentiful. Easiest to spot during this season with magnification in shallow, sun-warmed water.",
+    "fall": "Numbers remain good into early fall, with sexual reproduction occurring. Individuals produce hardy winter eggs during this period.",
+    "winter": "Adults die off in cold water, surviving only as dormant eggs in bottom sediments. No active individuals visible during frozen months."
+  },
+  "funFact": "Despite being smaller than the period at the end of this sentence, a single Sickle Waterflea can filter and clean up to 16 times its own body volume of water every single day, making these microscopic creatures some of nature's most efficient water purifiers!",
+  "confusionNotes": "Most easily confused with other small waterfleas, but the distinctive sickle or crescent shape sets it apart from the round Daphnia or oval-shaped Ceriodaphnia. Remember: 'Sickle shape, sickle name' - if it's curved like a crescent moon, you've likely found your Sickle Waterflea.",
+  "contextualKnowledge": "The term 'waterflea' is misleading since these creatures are actually tiny crustaceans more closely related to lobsters and crabs than to the fleas that might bother your pets. They're called waterfleas simply because of their jerky, hopping swimming style that resembles how fleas move on land.",
+  "compareHints": "**Note: Identification uncertain due to limited reference material** - As the only Acroperus species commonly found in New England waters, the Sickle Waterflea is most easily distinguished from other chydorid waterfleas by its pronounced curved body shape. While other members of the Chydoridae family tend to have more rounded or oval carapaces, the sickle-like curve is distinctive to this genus.",
+  "relatedSpecies": [],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/203472"
+}

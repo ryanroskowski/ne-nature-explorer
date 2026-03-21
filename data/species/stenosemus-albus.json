@@ -1,0 +1,130 @@
+{
+  "slug": "stenosemus-albus",
+  "taxonId": 482200,
+  "group": "mollusks",
+  "commonName": "Northern White Chiton",
+  "scientificName": "Stenosemus albus",
+  "family": "Ischnochitonidae",
+  "familyCommonName": "Ischnochitonidae",
+  "genus": "Stenosemus",
+  "genusCommonName": "Stenosemus",
+  "order": "Chitonida",
+  "orderCommonName": "Chitonida",
+  "breadcrumb": [
+    {
+      "label": "Mollusks",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Molluscs",
+      "rank": "phylum",
+      "slug": "explore/molluscs"
+    },
+    {
+      "label": "Chitons",
+      "rank": "class",
+      "slug": "explore/chitons"
+    },
+    {
+      "label": "Chitonida",
+      "rank": "order",
+      "slug": "explore/chitonida"
+    },
+    {
+      "label": "Ischnochitonidae",
+      "rank": "family",
+      "slug": "explore/ischnochitonidae"
+    },
+    {
+      "label": "Stenosemus",
+      "rank": "genus",
+      "slug": "explore/stenosemus"
+    },
+    {
+      "label": "Northern White Chiton",
+      "rank": "species",
+      "slug": "species/stenosemus-albus"
+    }
+  ],
+  "observationCount": 4,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 66056520,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/66056520/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/66056520/large.jpg",
+      "attribution": "(c) Claude Nozères, some rights reserved (CC BY-NC), uploaded by Claude Nozères",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/48220001"
+    },
+    {
+      "id": 528064808,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/528064808/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/528064808/large.jpg",
+      "attribution": "(c) Jeff Goddard, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/293398066"
+    },
+    {
+      "id": 110074863,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110074863/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110074863/large.jpg",
+      "attribution": "(c) Herb Wilson, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/68037447"
+    },
+    {
+      "id": 58000634,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/58000634/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/58000634/large.jpg",
+      "attribution": "(c) Claude Nozères, some rights reserved (CC BY-NC), uploaded by Claude Nozères",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/48220000"
+    }
+  ],
+  "nameStory": "The Northern White Chiton gets its name from its distinctly pale, whitish coloration that sets it apart from most other chitons in New England waters. The word 'chiton' comes from the Greek word for tunic or coat of mail, referring to the eight overlapping shell plates that protect these marine creatures like medieval armor.",
+  "description": "The Northern White Chiton is a small, oval-shaped marine mollusk that looks like a flattened armadillo clinging to rocks. It has eight overlapping shell plates arranged in a row down its back, surrounded by a leathery border called a girdle. These creatures typically measure about 1-2 inches long and have a distinctive pale white to cream coloration. They're part of an ancient group of mollusks that have remained virtually unchanged for millions of years.",
+  "idTips": [
+    {
+      "label": "Shell Color",
+      "description": "Look for the distinctive white to pale cream coloration of the eight shell plates, which feels smooth and slightly glossy when dry but becomes more matte when wet",
+      "isPrimary": true
+    },
+    {
+      "label": "Shell Plates",
+      "description": "Count eight overlapping rectangular plates arranged in a straight line - they feel hard like fingernails and may have faint ridges or growth lines",
+      "isPrimary": false
+    },
+    {
+      "label": "Girdle Border",
+      "description": "Notice the leathery, flexible border surrounding the plates that feels slightly rough and may have tiny scales or bristles you can feel with your fingertip",
+      "isPrimary": false
+    },
+    {
+      "label": "Size and Shape",
+      "description": "Typically 1-2 inches long with an oval, flattened shape that curves slightly to follow the rock surface it's attached to",
+      "isPrimary": false
+    },
+    {
+      "label": "Attachment",
+      "description": "Firmly attached to hard surfaces - you'll need to gently pry with a fingernail or tool to dislodge them, and they'll curl into a ball when removed",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Northern White Chitons live in the cold waters of the North Atlantic, clinging to rocks, shells, and hard surfaces in the intertidal and subtidal zones along New England's rocky coastlines. They're most commonly found in deeper tide pools or areas that remain submerged, preferring spots with good water circulation. Look for them attached to the undersides of rocks or in crevices where they're protected from strong wave action.",
+  "seasonality": {
+    "spring": "Active feeding season as water temperatures begin to warm and algae growth increases on rocks. Best time to spot them as they may be more visible while grazing.",
+    "summer": "Peak activity period when they're most likely to be found actively grazing on algae and microorganisms. Warm water temperatures make them more active.",
+    "fall": "Still active but beginning to slow down as water temperatures drop. May be found in slightly deeper or more protected locations.",
+    "winter": "Least active period, often found in deeper water or very protected spots. May appear more tightly clamped to surfaces during cold months."
+  },
+  "funFact": "When threatened or removed from their rock, Northern White Chitons can curl up into a perfect ball just like a pill bug, earning them the nickname 'sea pill bugs' - but unlike pill bugs, they can stay curled up underwater for hours until they sense it's safe to unfurl and reattach!",
+  "confusionNotes": "Most easily confused with other pale chitons like the Red Chiton in its lighter color forms, but the Northern White Chiton maintains its whitish color consistently while Red Chitons show more variation with reddish, brownish, or mottled patterns. Memory trick: if it's consistently white or cream colored, think 'Northern White.'",
+  "contextualKnowledge": "Despite being called mollusks like clams and snails, chitons are actually quite different - they don't have a single shell that can open and close, and their eight-plated design represents one of the most ancient body plans in the mollusk family tree, dating back over 400 million years.",
+  "compareHints": "As the only Stenosemus species commonly found in New England waters, the Northern White Chiton is most similar to other small, pale chitons in the broader chiton family. However, it can be distinguished from relatives like Tonicella species by its consistently white coloration and lack of the intricate patterns or brighter colors found on most other local chitons. Its girdle also tends to be less hairy or spiny than many of its cousins.",
+  "relatedSpecies": [],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/482200"
+}

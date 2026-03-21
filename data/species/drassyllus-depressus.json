@@ -1,0 +1,122 @@
+{
+  "slug": "drassyllus-depressus",
+  "taxonId": 153609,
+  "group": "arachnids",
+  "commonName": "Drassyllus depressus",
+  "scientificName": "Drassyllus depressus",
+  "family": "Gnaphosidae",
+  "familyCommonName": "Stealthy Ground Spiders",
+  "genus": "Drassyllus",
+  "genusCommonName": "Drassyllus",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Stealthy Ground Spiders",
+      "rank": "family",
+      "slug": "explore/stealthy-ground-spiders"
+    },
+    {
+      "label": "Drassyllus",
+      "rank": "genus",
+      "slug": "explore/drassyllus"
+    },
+    {
+      "label": "Drassyllus depressus",
+      "rank": "species",
+      "slug": "species/drassyllus-depressus"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 182844900,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182844900/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182844900/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC), uploaded by Tom Murray",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/15360900"
+    },
+    {
+      "id": 6370280,
+      "mediumUrl": "https://static.inaturalist.org/photos/6370280/medium.jpeg",
+      "largeUrl": "https://static.inaturalist.org/photos/6370280/large.jpeg",
+      "attribution": "(c) cheins1, all rights reserved, uploaded by cheins1",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/15360901"
+    }
+  ],
+  "nameStory": "The Flattened Ground Spider gets its name from its distinctly compressed, low-profile body shape that helps it squeeze into tight spaces under rocks and bark. The scientific name 'depressus' literally means 'pressed down' in Latin, perfectly describing this spider's pancake-flat appearance that makes it a master of narrow hideouts.",
+  "description": "The Flattened Ground Spider is a small, secretive hunter that prowls the forest floor at night. This dark-colored spider has a notably flattened body that rarely exceeds 6-8mm in length, making it about the size of a peppercorn. Like other ground spiders, it doesn't build webs to catch prey but instead actively hunts insects and other small arthropods under cover of darkness. Its low profile and earth-toned coloration make it blend seamlessly with leaf litter and soil.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Distinctly flattened and compressed appearance, like someone gently pressed down on the spider - this low profile feels almost pancake-like when compared to other small spiders",
+      "isPrimary": true
+    },
+    {
+      "label": "Markings",
+      "description": "Dark brown to nearly black coloration with a somewhat matte finish, lacking the glossy sheen of many other ground spiders",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Small spider measuring roughly 6-8mm in body length, about the size of a black peppercorn or small button",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Active nighttime hunter that quickly scurries into cracks and crevices when disturbed, moving with jerky, stop-and-go movements",
+      "isPrimary": false
+    },
+    {
+      "label": "Web",
+      "description": "Does not build hunting webs but may create small silk retreats in protected spaces under bark or stones that feel papery thin",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for Flattened Ground Spiders in mature forests with thick leaf litter, particularly under loose bark of dead trees, beneath flat stones, and in rock crevices. They prefer areas with consistent moisture but good drainage, often found in mixed hardwood forests or along woodland edges where decomposing logs provide abundant hiding spots.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, emerging from winter retreats under bark and stones. This is when you're most likely to spot them during daylight hours as they establish new territories.",
+    "summer": "Peak activity period with adults actively hunting at night. Mating occurs during warm summer months, though these secretive spiders are rarely observed during courtship.",
+    "fall": "Adults continue hunting as they prepare for winter, often moving deeper into protected crevices. Young spiders disperse to find their own overwintering sites.",
+    "winter": "Inactive and hidden deep in bark crevices, rock gaps, or under logs where they remain dormant until spring warmth returns."
+  },
+  "funFact": "The Flattened Ground Spider can squeeze into spaces barely thicker than a credit card thanks to its extremely compressed body - it's essentially the 'pancake spider' of New England, able to slip into cracks that seem impossibly narrow for any living creature.",
+  "confusionNotes": "Most easily confused with other small, dark ground spiders in the same family, but the distinctly flattened body shape is the key difference - if the spider looks like it's been gently pressed flat, you've likely found a Flattened Ground Spider rather than its more cylindrical relatives.",
+  "contextualKnowledge": "Despite being part of the 'ground spider' family, these spiders are just as comfortable living vertically in bark crevices as they are on the forest floor, making them more three-dimensional in their habitat use than their common name suggests.",
+  "compareHints": "Compared to its close relative Drassyllus novus, the Flattened Ground Spider has a more pronounced compressed body shape and tends to be slightly darker in coloration. While both species are small and secretive, depressus has that distinctive 'pressed down' appearance that novus lacks, making body profile the most reliable distinguishing feature between these two similar ground spiders.",
+  "relatedSpecies": [
+    {
+      "slug": "drassyllus-novus",
+      "commonName": "Drassyllus novus",
+      "scientificName": "Drassyllus novus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182845049/medium.jpeg",
+      "distinction": "Drassyllus novus is extremely similar to its relative Drassyllus depressus and requires expert examination to distinguish reliably."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Drassyllus_depressus",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/153609"
+}

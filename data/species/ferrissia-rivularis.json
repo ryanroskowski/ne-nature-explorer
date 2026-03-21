@@ -1,0 +1,109 @@
+{
+  "slug": "ferrissia-rivularis",
+  "taxonId": 220095,
+  "group": "mollusks",
+  "commonName": "Creeping Ancylid",
+  "scientificName": "Ferrissia rivularis",
+  "family": "Planorbidae",
+  "familyCommonName": "Ramshorn snails",
+  "genus": "Ferrissia",
+  "genusCommonName": "Ferrissia",
+  "order": "Unknown",
+  "orderCommonName": "Unknown",
+  "breadcrumb": [
+    {
+      "label": "Mollusks",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Molluscs",
+      "rank": "phylum",
+      "slug": "explore/molluscs"
+    },
+    {
+      "label": "Gastropods",
+      "rank": "class",
+      "slug": "explore/gastropods"
+    },
+    {
+      "label": "Ramshorn snails",
+      "rank": "family",
+      "slug": "explore/ramshorn-snails"
+    },
+    {
+      "label": "Ferrissia",
+      "rank": "genus",
+      "slug": "explore/ferrissia"
+    },
+    {
+      "label": "Creeping Ancylid",
+      "rank": "species",
+      "slug": "species/ferrissia-rivularis"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 86416553,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/86416553/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/86416553/large.jpg",
+      "attribution": "(c) Smithsonian Environmental Research Center, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/22009500"
+    }
+  ],
+  "nameStory": "The 'Creeping Ancylid' gets its name from its slow, gliding movement across underwater surfaces and its cone-shaped shell that resembles an ancient oil lamp called an ancilla. The word 'ancylid' comes from the Greek 'ankylos' meaning bent or curved, referring to the gently arched shape of these tiny freshwater snails.",
+  "description": "The Creeping Ancylid is a tiny freshwater snail with a distinctive cone or cap-shaped shell that looks like a miniature volcano. Unlike the coiled shells of typical snails, this little mollusk sports a simple, domed shell that sits like a tiny hat on rocks and plants underwater. These diminutive snails are quite small, typically reaching only a few millimeters across, making them easy to overlook despite being fascinating creatures.",
+  "idTips": [
+    {
+      "label": "Shell Shape",
+      "description": "Distinctive cone or cap-shaped shell that feels smooth and thin when gently touched, completely unlike the spiral shells of other freshwater snails",
+      "isPrimary": true
+    },
+    {
+      "label": "Size",
+      "description": "Extremely small, usually just a few millimeters across - about the size of a pinhead or small peppercorn",
+      "isPrimary": false
+    },
+    {
+      "label": "Color",
+      "description": "Shell typically appears pale brown to translucent whitish, often taking on the color of whatever surface it's crawling on",
+      "isPrimary": false
+    },
+    {
+      "label": "Movement",
+      "description": "Glides very slowly across surfaces underwater, leaving a barely visible slime trail that feels slightly slippery to the touch",
+      "isPrimary": false
+    },
+    {
+      "label": "Attachment",
+      "description": "Often found firmly attached to rocks, logs, or aquatic plants, requiring gentle pressure to dislodge",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for Creeping Ancylids in clean, flowing freshwater streams, rivers, and sometimes in the shallow edges of clear lakes throughout New England. They prefer areas with good water quality and plenty of rocks, submerged logs, or aquatic vegetation where they can graze on algae and tiny organic particles.",
+  "seasonality": {
+    "spring": "Most active as waters warm up, easily spotted crawling on rocks and vegetation in clear streams. This is often the best time to observe their slow, deliberate movements.",
+    "summer": "Peak activity period when they're most visible and actively feeding on algae films coating underwater surfaces. Water levels are typically stable, making observation easier.",
+    "fall": "Still active but may be less conspicuous as they prepare for winter. Look for them in deeper pools or more protected areas of streams.",
+    "winter": "Activity slows significantly in cold water, and they may be found sheltering under rocks or in crevices, appearing almost dormant."
+  },
+  "funFact": "Despite being called a 'creeping' snail, the Creeping Ancylid is actually so rare in New England that it has only been officially documented once in the entire region, making any sighting an incredibly special discovery that could contribute valuable data to scientists!",
+  "confusionNotes": "Most likely to be confused with young freshwater limpets or even tiny bits of debris stuck to rocks. The key difference is that the Creeping Ancylid will eventually move if you watch patiently, while debris stays put - think 'patience pays off for positive identification.'",
+  "contextualKnowledge": "The term 'ancylid' can be confusing because it refers to the shell shape rather than indicating a close relationship with marine limpets. These are true freshwater snails in the ramshorn snail family, despite looking completely different from their spiral-shelled cousins.",
+  "compareHints": "The Creeping Ancylid differs from its relative the American Lake Limpet primarily in habitat preferences and subtle shell characteristics. While both have the distinctive cap-shaped shells, the Creeping Ancylid tends to prefer flowing water environments like streams and rivers, whereas the American Lake Limpet, as its name suggests, is more commonly found in still lake waters.",
+  "relatedSpecies": [
+    {
+      "slug": "ferrissia-californica",
+      "commonName": "American lake limpet",
+      "scientificName": "Ferrissia californica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2088806/medium.jpeg",
+      "distinction": "The American lake limpet differs from its close relative, the Creeping Ancylid (Ferrissia rivularis), primarily in subtle shell characteristics and habitat preferences."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrissia_rivularis",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/220095"
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "bythotrephes-longimanus",
+  "taxonId": 199410,
+  "group": "crustaceans",
+  "commonName": "Spiny Waterflea",
+  "scientificName": "Bythotrephes longimanus",
+  "family": "Cercopagididae",
+  "familyCommonName": "Cercopagididae",
+  "genus": "Bythotrephes",
+  "genusCommonName": "Bythotrephes",
+  "order": "Onychopoda",
+  "orderCommonName": "Onychopoda",
+  "breadcrumb": [
+    {
+      "label": "Crustaceans",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Branchiopods",
+      "rank": "class",
+      "slug": "explore/branchiopods"
+    },
+    {
+      "label": "Onychopoda",
+      "rank": "order",
+      "slug": "explore/onychopoda"
+    },
+    {
+      "label": "Cercopagididae",
+      "rank": "family",
+      "slug": "explore/cercopagididae"
+    },
+    {
+      "label": "Bythotrephes",
+      "rank": "genus",
+      "slug": "explore/bythotrephes"
+    },
+    {
+      "label": "Spiny Waterflea",
+      "rank": "species",
+      "slug": "species/bythotrephes-longimanus"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 53114751,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53114751/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53114751/large.jpg",
+      "attribution": "(c) Dmitry Kulakov, some rights reserved (CC BY), uploaded by Dmitry Kulakov",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/19941000"
+    }
+  ],
+  "nameStory": "The 'spiny' part of this tiny creature's name comes from its most distinctive feature - a long, barbed spine that extends from its back end like a medieval weapon. The 'waterflea' part is a bit misleading since it's not actually a flea at all, but gets this name because it's a small crustacean that hops and jumps through the water in a flea-like manner.",
+  "description": "The Spiny Waterflea is a microscopic aquatic crustacean that looks like a tiny transparent shrimp with a dramatic tail spike. This planktonic creature measures less than 15 millimeters (about half an inch) long, making it barely visible to the naked eye. It's native to Northern Europe and Asia but has become an unwelcome invader in North American freshwater systems since the 1980s. Despite its small size, its distinctive spiny appearance makes it one of the more recognizable microscopic water creatures.",
+  "idTips": [
+    {
+      "label": "Long Barbed Spine",
+      "description": "A single prominent spine extends from the rear of the body, decorated with several sharp barbs along its length like a tiny harpoon - this is the key identifying feature",
+      "isPrimary": true
+    },
+    {
+      "label": "Transparent Body",
+      "description": "The main body appears glassy and see-through, often with a slight greenish or yellowish tint when viewed under magnification",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Extremely small at less than 15mm long, requiring magnification or very sharp eyes to see clearly in water samples",
+      "isPrimary": false
+    },
+    {
+      "label": "Swimming Motion",
+      "description": "Moves through water with jerky, hopping motions rather than smooth swimming, creating the 'flea-like' behavior that gives it part of its name",
+      "isPrimary": false
+    },
+    {
+      "label": "Planktonic Lifestyle",
+      "description": "Found floating freely in the water column rather than attached to surfaces or swimming near the bottom",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "In New England, Spiny Waterfleas are found in freshwater lakes and ponds, particularly larger, deeper bodies of water. They prefer the open water areas away from shore where they drift as part of the plankton community. While still uncommon in New England with only one recorded observation, they're most likely to appear in waters connected to the Great Lakes region through shipping or recreational boating.",
+  "seasonality": {
+    "spring": "Population begins to build as waters warm, though numbers are typically still low and harder to detect in water samples.",
+    "summer": "Peak abundance occurs during warm summer months when reproduction is highest and populations can explode rapidly in suitable habitats.",
+    "fall": "Numbers may remain high into early fall but begin declining as temperatures drop and reproduction slows.",
+    "winter": "Population crashes in winter, surviving primarily as dormant eggs that will hatch when conditions improve in spring."
+  },
+  "funFact": "This tiny invader can completely crash fish populations by stealing their food - entire schools of young fish can starve because these microscopic pirates are so efficient at gobbling up the same plankton, and their spiny armor makes them nearly impossible for small fish to eat in return!",
+  "confusionNotes": "Most easily confused with native water fleas like Daphnia, but the long barbed spine is unmistakable - native water fleas have short, simple tails without the dramatic barbs. Remember: 'Spiny and mean, invasive scene; smooth and plain, native domain.'",
+  "contextualKnowledge": "Despite being called a 'waterflea,' this creature is actually a crustacean more closely related to shrimp and crabs than to fleas, which are insects. This naming confusion exists because early naturalists grouped small jumping aquatic creatures together based on behavior rather than true evolutionary relationships.",
+  "compareHints": "As the only member of its genus recorded in New England, the Spiny Waterflea is most similar to other members of the Cercopagididae family, but none others have been documented in our region. Its closest comparison would be to native Daphnia species, but those lack the characteristic long, barbed spine and belong to a completely different family of water fleas.",
+  "relatedSpecies": [],
+  "isNative": false,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Bythotrephes_longimanus",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199410"
+}

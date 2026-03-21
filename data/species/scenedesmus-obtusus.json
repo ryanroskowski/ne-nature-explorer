@@ -1,0 +1,153 @@
+{
+  "slug": "scenedesmus-obtusus",
+  "taxonId": 886837,
+  "group": "plants",
+  "commonName": "Scenedesmus obtusus",
+  "scientificName": "Scenedesmus obtusus",
+  "family": "Scenedesmaceae",
+  "familyCommonName": "Scenedesmaceae",
+  "genus": "Scenedesmus",
+  "genusCommonName": "Scenedesmus",
+  "order": "Sphaeropleales",
+  "orderCommonName": "Sphaeropleales",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "green algae",
+      "rank": "phylum",
+      "slug": "explore/green-algae"
+    },
+    {
+      "label": "Chlorophycean green algae",
+      "rank": "class",
+      "slug": "explore/chlorophycean-green-algae"
+    },
+    {
+      "label": "Sphaeropleales",
+      "rank": "order",
+      "slug": "explore/sphaeropleales"
+    },
+    {
+      "label": "Scenedesmaceae",
+      "rank": "family",
+      "slug": "explore/scenedesmaceae"
+    },
+    {
+      "label": "Scenedesmus",
+      "rank": "genus",
+      "slug": "explore/scenedesmus"
+    },
+    {
+      "label": "Scenedesmus obtusus",
+      "rank": "species",
+      "slug": "species/scenedesmus-obtusus"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 43482644,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43482644/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43482644/large.jpg",
+      "attribution": "(c) zookanthos, some rights reserved (CC BY), uploaded by zookanthos",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/88683700"
+    },
+    {
+      "id": 330433699,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/330433699/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/330433699/large.jpg",
+      "attribution": "(c) Phoebe Shubin, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/188742889"
+    },
+    {
+      "id": 330433712,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/330433712/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/330433712/large.jpg",
+      "attribution": "(c) Phoebe Shubin, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/188742889"
+    },
+    {
+      "id": 330433723,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/330433723/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/330433723/large.jpg",
+      "attribution": "(c) Phoebe Shubin, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/188742889"
+    },
+    {
+      "id": 330433733,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/330433733/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/330433733/large.jpg",
+      "attribution": "(c) Phoebe Shubin, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/188742889"
+    }
+  ],
+  "nameStory": "Scenedesmus gets its name from the Greek words 'skene' meaning stage and 'desmos' meaning chain or bond, referring to how these tiny algae cells link together like actors arranged on a microscopic stage. The species name 'obtusus' means blunt or rounded, describing the smoothly rounded ends of the cell colonies that distinguish this species from its spikier relatives.",
+  "description": "Scenedesmus obtusus is a microscopic freshwater green alga that you'll never see without magnification, but it's likely swimming around in ponds and slow streams throughout New England. These tiny single-celled organisms arrange themselves in neat rows of 2-8 cells, forming colonies that look like miniature green submarines under a microscope. Each individual cell is oval-shaped and bright green, measuring only about 10-20 micrometers long (that's smaller than the width of a human hair!).",
+  "idTips": [
+    {
+      "label": "Colony arrangement",
+      "description": "Cells are arranged in straight rows of 2-8 cells that stay connected side-by-side, forming flat colonies that look like tiny green rafts floating in the water",
+      "isPrimary": true
+    },
+    {
+      "label": "Cell shape",
+      "description": "Individual cells are oval to egg-shaped with smoothly rounded ends, lacking the spines or points found in related species",
+      "isPrimary": false
+    },
+    {
+      "label": "Color",
+      "description": "Bright grass-green color due to chlorophyll, visible as tiny green specks in pond water samples when concentrated",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Entire colonies measure 20-80 micrometers across - invisible to naked eye but clearly visible under even basic microscopes at 100x magnification",
+      "isPrimary": false
+    },
+    {
+      "label": "Movement",
+      "description": "Colonies drift and tumble slowly through the water without active swimming, carried by currents and water movement",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in quiet freshwater environments throughout New England including pond edges, slow-moving streams, temporary pools, and even roadside ditches. Thrives in nutrient-rich waters and can be especially abundant in farm ponds or areas receiving runoff. Most common in shallow, sun-warmed waters where it can photosynthesize effectively.",
+  "seasonality": {
+    "spring": "Populations begin growing as water temperatures rise and daylight increases. Best time to find them as they reproduce rapidly in warming waters.",
+    "summer": "Peak abundance occurs during warm summer months when they form dense populations that can make pond water appear slightly green.",
+    "fall": "Still present but populations decline as temperatures cool and daylight decreases. Cells may form hardy resting stages.",
+    "winter": "Largely dormant under ice, existing as resistant spores or resting cells that will resume growth when conditions improve."
+  },
+  "funFact": "Despite being invisible to the naked eye, Scenedesmus species are considered some of the most promising candidates for producing biofuel - a single gram of these tiny algae can potentially yield more oil than an entire soybean plant!",
+  "confusionNotes": "Most easily confused with other Scenedesmus species, but the smoothly rounded cell ends are the key difference - if you see spines, bristles, or pointed ends on the cells, you're looking at a different species like S. quadricauda.",
+  "contextualKnowledge": "While called 'pond scum' by many people, these microscopic algae are actually crucial primary producers that form the base of freshwater food webs, feeding everything from tiny water fleas to fish fry. They're also used in wastewater treatment and scientific research worldwide.",
+  "compareHints": "Unlike Scenedesmus quadricauda which has distinctive spines on the end cells, S. obtusus has completely smooth, rounded cells throughout the colony. It differs from S. apiculatus by lacking the small pointed projections that species develops, making it the 'smoothest' member of the genus found in New England waters.",
+  "relatedSpecies": [
+    {
+      "slug": "scenedesmus-quadricauda",
+      "commonName": "Scenedesmus quadricauda",
+      "scientificName": "Scenedesmus quadricauda",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3683739/medium.jpg",
+      "distinction": "Scenedesmus quadricauda differs from its relatives by its consistent four-cell colonies and the curved spines on outer cells."
+    },
+    {
+      "slug": "scenedesmus-apiculatus",
+      "commonName": "Scenedesmus apiculatus",
+      "scientificName": "Scenedesmus apiculatus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/186936627/medium.jpg",
+      "distinction": "Differs from Scenedesmus quadricauda by having shorter, less prominent spines only on the outer cells rather than long curved spines on all corners."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/886837"
+}

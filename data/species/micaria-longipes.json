@@ -1,0 +1,114 @@
+{
+  "slug": "micaria-longipes",
+  "taxonId": 225056,
+  "group": "arachnids",
+  "commonName": "Micaria longipes",
+  "scientificName": "Micaria longipes",
+  "family": "Gnaphosidae",
+  "familyCommonName": "Stealthy Ground Spiders",
+  "genus": "Micaria",
+  "genusCommonName": "Micaria",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Stealthy Ground Spiders",
+      "rank": "family",
+      "slug": "explore/stealthy-ground-spiders"
+    },
+    {
+      "label": "Micaria",
+      "rank": "genus",
+      "slug": "explore/micaria"
+    },
+    {
+      "label": "Micaria longipes",
+      "rank": "species",
+      "slug": "species/micaria-longipes"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 182908727,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182908727/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182908727/large.jpg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC), uploaded by Tom Murray",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/22505600"
+    }
+  ],
+  "nameStory": "The name 'longipes' comes from Latin, meaning 'long feet' or 'long legs,' referring to this spider's notably elongated legs compared to its body size. This feature helps distinguish it from other ground spiders and gives it a somewhat gangly appearance that's quite endearing once you spot one.",
+  "description": "Micaria longipes is a small ground spider that belongs to the stealthy ground spider family. These spiders are typically dark-colored with relatively long, slender legs that give them a delicate appearance. They're hunting spiders that don't build webs to catch prey, instead actively pursuing small insects and other tiny creatures on the ground. Like other ground spiders, they're quite small and can be easily overlooked despite their interesting behaviors.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Compact, oval abdomen with a relatively narrow cephalothorax (front body section) that feels firm if gently touched",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Small spider, typically fitting comfortably on a fingernail with legs extended",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Generally dark brown to blackish coloration with a somewhat glossy or smooth-textured appearance",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Active hunter that moves in quick, darting motions across ground surfaces rather than sitting in a web",
+      "isPrimary": true
+    },
+    {
+      "label": "Web",
+      "description": "No prey-catching web; may create a small silk retreat under stones or debris that feels like thin tissue paper",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for Micaria longipes in dry, open areas with loose soil or sandy ground where they can hunt freely. They favor areas under rocks, logs, or leaf litter in fields, forest edges, and disturbed ground. Given the single observation record in New England, they may prefer specific microhabitats that haven't been thoroughly surveyed yet.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, emerging from winter retreats to hunt and mate. Look for them under warming stones and debris.",
+    "summer": "Peak activity period when adults are most likely to be spotted hunting. Females may be found guarding egg sacs in silk retreats.",
+    "fall": "Adults continue hunting to build energy reserves before winter. Young spiders from summer eggs may be maturing.",
+    "winter": "Spiders retreat to protected spots under deep leaf litter or stones, becoming inactive until spring warmth returns."
+  },
+  "funFact": "Despite being called 'stealthy ground spiders,' Micaria species are actually quite bold hunters that will chase down prey much larger than themselves, sometimes taking on insects twice their own body length!",
+  "confusionNotes": "Most easily confused with other small, dark ground spiders, but the relatively longer legs and active hunting behavior help distinguish Micaria longipes. If you see a small dark spider running quickly across open ground rather than hiding immediately, it's likely a ground spider rather than a more secretive species.",
+  "contextualKnowledge": "With only one recorded observation in New England, this species represents the exciting possibility of discovering uncommon wildlife in your own backyard. Many ground spiders are underreported simply because people don't look closely at the small, quick-moving spiders they encounter.",
+  "compareHints": "Micaria longipes differs from its relative Micaria emertoni primarily in leg length proportions and subtle body measurements that require close examination. Both species share the characteristic hunting behavior and dark coloration of their genus. When compared to other ground spiders in the Gnaphosidae family, Micaria species tend to be more active during daylight hours and have proportionally longer legs.",
+  "relatedSpecies": [
+    {
+      "slug": "micaria-emertoni",
+      "commonName": "Micaria emertoni",
+      "scientificName": "Micaria emertoni",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/80121413/medium.jpg",
+      "distinction": "Micaria emertoni differs from its relative Micaria longipes mainly in leg proportions - emertoni has more normally-proportioned legs while longipes has noticeably elongated legs as the name suggests."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Micaria_longipes",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/225056"
+}

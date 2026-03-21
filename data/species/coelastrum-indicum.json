@@ -1,0 +1,143 @@
+{
+  "slug": "coelastrum-indicum",
+  "taxonId": 1405092,
+  "group": "plants",
+  "commonName": "Coelastrum indicum",
+  "scientificName": "Coelastrum indicum",
+  "family": "Scenedesmaceae",
+  "familyCommonName": "Scenedesmaceae",
+  "genus": "Coelastrum",
+  "genusCommonName": "Coelastrum",
+  "order": "Sphaeropleales",
+  "orderCommonName": "Sphaeropleales",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "green algae",
+      "rank": "phylum",
+      "slug": "explore/green-algae"
+    },
+    {
+      "label": "Chlorophycean green algae",
+      "rank": "class",
+      "slug": "explore/chlorophycean-green-algae"
+    },
+    {
+      "label": "Sphaeropleales",
+      "rank": "order",
+      "slug": "explore/sphaeropleales"
+    },
+    {
+      "label": "Scenedesmaceae",
+      "rank": "family",
+      "slug": "explore/scenedesmaceae"
+    },
+    {
+      "label": "Coelastrum",
+      "rank": "genus",
+      "slug": "explore/coelastrum"
+    },
+    {
+      "label": "Coelastrum indicum",
+      "rank": "species",
+      "slug": "species/coelastrum-indicum"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 317086463,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/317086463/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/317086463/large.jpg",
+      "attribution": "(c) MikeN, some rights reserved (CC BY-NC), uploaded by MikeN",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/140509200"
+    },
+    {
+      "id": 218624748,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/218624748/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/218624748/large.jpg",
+      "attribution": "(c) MikeN, some rights reserved (CC BY-NC), uploaded by MikeN",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/140509201"
+    }
+  ],
+  "nameStory": "Coelastrum gets its name from the Greek words 'koilos' meaning hollow and 'astrum' meaning star, referring to the beautiful hollow, star-like colonies these tiny algae form. The species name 'indicum' means 'of India,' though this microscopic organism has traveled far beyond its original naming location to freshwater habitats worldwide.",
+  "description": "Coelastrum indicum is a microscopic freshwater green alga that you'll never see with the naked eye - it's only visible under a microscope. This tiny organism forms beautiful geometric colonies that look like hollow spheres made of interconnected star-shaped cells. Each colony is typically 20-100 micrometers across (smaller than the width of a human hair), containing 8-32 individual cells arranged in a precise, symmetrical pattern. Despite being invisible to us, these algae play important roles in freshwater ecosystems as food for tiny animals and oxygen producers.",
+  "idTips": [
+    {
+      "label": "Colony Shape",
+      "description": "Forms distinctive hollow, spherical colonies that look like microscopic soccer balls with geometric patterns when viewed under a microscope",
+      "isPrimary": true
+    },
+    {
+      "label": "Cell Arrangement",
+      "description": "Individual cells are connected to neighbors by thin threads, creating a precise star-like or web-like pattern within each colony",
+      "isPrimary": false
+    },
+    {
+      "label": "Cell Shape",
+      "description": "Each individual cell appears somewhat triangular or wedge-shaped when viewed from the side, fitting together like pieces of a three-dimensional puzzle",
+      "isPrimary": false
+    },
+    {
+      "label": "Color",
+      "description": "Bright green color under the microscope due to chlorophyll, similar to the green you'd see in pond scum but much more organized",
+      "isPrimary": false
+    },
+    {
+      "label": "Size Range",
+      "description": "Colonies typically contain 8-32 cells and measure 20-100 micrometers across - you'd need to line up 10-50 colonies to equal the width of a human hair",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in quiet freshwater environments like ponds, slow-moving streams, and shallow lake margins throughout New England. Prefers nutrient-rich waters where it floats freely as part of the plankton community. Most commonly discovered in water samples from elevations below 1000 feet, often associated with other microscopic algae and tiny aquatic organisms.",
+  "seasonality": {
+    "spring": "Populations begin growing as water temperatures warm and daylight increases. Peak reproduction occurs during late spring when conditions are optimal.",
+    "summer": "Most abundant during warm summer months when long daylight hours provide energy for photosynthesis and rapid colony reproduction.",
+    "fall": "Numbers typically decline as water temperatures drop and daylight hours decrease, though colonies may persist in protected waters.",
+    "winter": "Largely absent from water samples during cold winter months, likely surviving as dormant cells or cysts in sediment."
+  },
+  "funFact": "Under the microscope, Coelastrum colonies look remarkably like microscopic geodesic domes - the same architectural design Buckminster Fuller made famous, but these tiny algae were building these efficient structures millions of years before humans discovered the principle!",
+  "confusionNotes": "Most easily confused with other Coelastrum species, which form similar hollow spherical colonies. The key differences lie in cell arrangement patterns and colony size - C. indicum tends to have more loosely connected cells compared to the tighter arrangements of relatives like C. microporum.",
+  "contextualKnowledge": "Like many microscopic algae, Coelastrum species were historically grouped together based on colony appearance, but modern genetic studies are revealing that some of these 'species' may actually be different forms of the same organism responding to different environmental conditions.",
+  "compareHints": "Compared to other Coelastrum species, C. indicum has relatively loose connections between cells and tends to form larger colonies. C. microporum forms much smaller, more tightly packed colonies, while C. pulchrum has more elaborate star-shaped connection patterns. C. cruciatum gets its name from cross-shaped cell arrangements that C. indicum lacks.",
+  "relatedSpecies": [
+    {
+      "slug": "coelastrum-pulchrum",
+      "commonName": "Coelastrum pulchrum",
+      "scientificName": "Coelastrum pulchrum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2080439/medium.jpg",
+      "distinction": "Compared to its close relatives like Coelastrum astroideum, C."
+    },
+    {
+      "slug": "coelastrum-astroideum",
+      "commonName": "Coelastrum astroideum",
+      "scientificName": "Coelastrum astroideum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/63238465/medium.jpg",
+      "distinction": "Coelastrum astroideum differs from its relatives by having more pointed, pronounced cell projections than C."
+    },
+    {
+      "slug": "coelastrum-cruciatum",
+      "commonName": "Coelastrum cruciatum",
+      "scientificName": "Coelastrum cruciatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/221755915/medium.jpg",
+      "distinction": "**[UNCERTAINTY FLAG]** Coelastrum cruciatum differs from its relatives by its distinctive cross-shaped cell arrangements - C."
+    },
+    {
+      "slug": "coelastrum-microporum",
+      "commonName": "Coelastrum microporum",
+      "scientificName": "Coelastrum microporum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2278748/medium.jpg",
+      "distinction": "[UNCERTAIN: Specific distinguishing features] Compared to its relatives like Coelastrum pulchrum, C."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1405092"
+}

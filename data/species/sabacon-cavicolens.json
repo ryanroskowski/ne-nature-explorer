@@ -1,0 +1,138 @@
+{
+  "slug": "sabacon-cavicolens",
+  "taxonId": 230348,
+  "group": "arachnids",
+  "commonName": "North American cavernicolous Harvestman",
+  "scientificName": "Sabacon cavicolens",
+  "family": "Sabaconidae",
+  "familyCommonName": "sabaconid harvestmen",
+  "genus": "Sabacon",
+  "genusCommonName": "Sabacon",
+  "order": "Opiliones",
+  "orderCommonName": "Harvestmen",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Harvestmen",
+      "rank": "order",
+      "slug": "explore/harvestmen"
+    },
+    {
+      "label": "sabaconid harvestmen",
+      "rank": "family",
+      "slug": "explore/sabaconid-harvestmen"
+    },
+    {
+      "label": "Sabacon",
+      "rank": "genus",
+      "slug": "explore/sabacon"
+    },
+    {
+      "label": "North American cavernicolous Harvestman",
+      "rank": "species",
+      "slug": "species/sabacon-cavicolens"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 10221422,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10221422/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10221422/large.jpg",
+      "attribution": "(c) hazelsnail, some rights reserved (CC BY-NC), uploaded by hazelsnail",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/23034800"
+    },
+    {
+      "id": 3066673,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3066673/medium.JPG",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3066673/large.JPG",
+      "attribution": "(c) Jason M Crockwell, some rights reserved (CC BY-NC-ND), uploaded by Jason M Crockwell",
+      "licenseCode": "cc-by-nc-nd",
+      "observationUrl": "https://www.inaturalist.org/observations/23034801"
+    },
+    {
+      "id": 29371458,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29371458/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29371458/large.jpg",
+      "attribution": "(c) Erika Mitchell, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19132954"
+    },
+    {
+      "id": 29371462,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29371462/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29371462/large.jpg",
+      "attribution": "(c) Erika Mitchell, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19132954"
+    },
+    {
+      "id": 29371463,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29371463/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29371463/large.jpg",
+      "attribution": "(c) Erika Mitchell, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19132954"
+    }
+  ],
+  "nameStory": "The North American cavernicolous harvestman gets its name from its love of caves - 'cavernicolous' literally means 'cave-dwelling' in Latin. While most harvestmen prefer leaf litter or tree bark, this species has adapted to the cool, dark world of underground spaces. The name 'harvestman' comes from the old belief that these long-legged arachnids were most commonly seen during harvest time in late summer.",
+  "description": "This is a harvestman, also known as a daddy longlegs - but it's not a spider! Harvestmen belong to their own group of arachnids called Opiliones and have some key differences from spiders. Unlike spiders, harvestmen have their body segments fused together into what looks like a single oval pill, and they don't make webs or have venom. This cave-dwelling species is specially adapted for life in the cool, humid darkness of underground spaces, with a compact brownish body and extremely long, delicate legs.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "The body looks like a single small oval bead, unlike spiders which have a distinct waist between their front and back sections. It feels firm but not hard when gently touched.",
+      "isPrimary": true
+    },
+    {
+      "label": "Legs",
+      "description": "Eight extremely long, thread-thin legs that feel delicate and may vibrate slightly when the animal is disturbed. The legs are much longer relative to body size than most harvestmen.",
+      "isPrimary": false
+    },
+    {
+      "label": "Color",
+      "description": "Brownish to grayish coloration that blends well with cave walls and rocky surfaces. The body often has a slightly matte texture rather than shiny.",
+      "isPrimary": false
+    },
+    {
+      "label": "Eyes",
+      "description": "Two small eyes positioned on a tiny turret-like bump on top of the body, often reduced in size due to cave adaptation. Much less prominent than in surface-dwelling harvestmen.",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Moves with a characteristic bouncing gait and freezes when disturbed. Found exclusively in cave environments, never in typical harvestman habitats like gardens or forests.",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "This species is found exclusively in caves and cave-like environments throughout New England, including natural limestone caves, old mine shafts, and deep rock crevices. They prefer areas with high humidity and stable cool temperatures year-round. Look for them on cave walls, under loose rocks near cave entrances, or in the twilight zones where some dim light still penetrates.",
+  "seasonality": {
+    "spring": "Active in caves as temperatures remain stable underground. This is when you're most likely to spot them near cave entrances as they may venture closer to the surface.",
+    "summer": "Retreat deeper into caves to escape surface heat. May be harder to find as they move away from accessible areas.",
+    "fall": "Begin moving toward cave entrances again as surface temperatures cool. Good time for cave exploration to find this species.",
+    "winter": "Remain active in the stable cave environment while surface harvestmen have died off or gone dormant. Peak time for cave surveys."
+  },
+  "funFact": "This harvestman has essentially become a living fossil of cave adaptation - its eyes have grown smaller over evolutionary time as it adapted to perpetual darkness, and it can survive in the same cave system for its entire life without ever seeing sunlight!",
+  "confusionNotes": "Most easily confused with other harvestmen that might wander into cave entrances, but those will have larger, more prominent eyes and typically flee toward light rather than deeper into darkness. Remember: if it's deep in a cave and seems comfortable there, it's likely this species.",
+  "contextualKnowledge": "Many people call harvestmen 'daddy longlegs,' but this name is also used for cellar spiders and crane flies, creating confusion. True harvestmen like this species are arachnids but not spiders - they can't bite humans, don't make webs, and have no venom glands whatsoever.",
+  "compareHints": "This is the only Sabacon species found in New England, making it unique among our harvestmen for its cave specialization. Compared to common harvestmen in the Phalangiidae family that you might find in your backyard, this species has more delicate legs, smaller eyes, and a more compact body adapted for navigating tight cave spaces. Unlike surface harvestmen, it never forms the large aggregations often seen on tree trunks or garden walls.",
+  "relatedSpecies": [],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Sabacon_cavicolens",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/230348"
+}

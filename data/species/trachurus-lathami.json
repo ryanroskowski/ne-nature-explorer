@@ -1,0 +1,151 @@
+{
+  "slug": "trachurus-lathami",
+  "taxonId": 179447,
+  "group": "fish",
+  "commonName": "Rough Scad",
+  "scientificName": "Trachurus lathami",
+  "family": "Carangidae",
+  "familyCommonName": "Jacks",
+  "genus": "Trachurus",
+  "genusCommonName": "Jack Mackerels",
+  "order": "Carangiformes",
+  "orderCommonName": "Jacks, Flounders, Barracudas, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Fish",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Chordates",
+      "rank": "phylum",
+      "slug": "explore/chordates"
+    },
+    {
+      "label": "Ray-finned Fishes",
+      "rank": "class",
+      "slug": "explore/ray-finned-fishes"
+    },
+    {
+      "label": "Jacks, Flounders, Barracudas, and Allies",
+      "rank": "order",
+      "slug": "explore/jacks-flounders-barracudas-and-allies"
+    },
+    {
+      "label": "Jacks",
+      "rank": "family",
+      "slug": "explore/jacks"
+    },
+    {
+      "label": "Jack Mackerels",
+      "rank": "genus",
+      "slug": "explore/jack-mackerels"
+    },
+    {
+      "label": "Rough Scad",
+      "rank": "species",
+      "slug": "species/trachurus-lathami"
+    }
+  ],
+  "observationCount": 6,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 195437,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/195437/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/195437/large.jpg",
+      "attribution": "(c) NOAANMFSMississippi Laboratory, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/17944700"
+    },
+    {
+      "id": 129899074,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129899074/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129899074/large.jpeg",
+      "attribution": "(c) charlesavenengo, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/79313062"
+    },
+    {
+      "id": 151385953,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/151385953/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/151385953/large.jpg",
+      "attribution": "(c) David Remsen, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/91511688"
+    },
+    {
+      "id": 421357709,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/421357709/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/421357709/large.jpeg",
+      "attribution": "(c) Cole Tiemann, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/236812854"
+    },
+    {
+      "id": 421357729,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/421357729/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/421357729/large.jpeg",
+      "attribution": "(c) Cole Tiemann, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/236812854"
+    },
+    {
+      "id": 129899728,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129899728/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129899728/large.jpeg",
+      "attribution": "(c) charlesavenengo, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/79313420"
+    }
+  ],
+  "nameStory": "The 'rough scad' gets its name from the row of hard, pointed scales called scutes that run along its sides like tiny armor plates. These scutes feel distinctly rough and sharp to the touch, unlike the smooth scales of most fish. The word 'scad' comes from an old English term for various fast-swimming schooling fish.",
+  "description": "The rough scad is a streamlined, silvery fish built for speed in open ocean waters. It has the classic torpedo shape of the jack family, with a deeply forked tail and relatively small head. These fish typically reach about 12-16 inches in length and have that metallic shine common to pelagic species. You'll notice their most distinctive feature right away - a line of hard, spiny scales running along their sides that feel like tiny thorns.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Torpedo-shaped with a compressed body that feels firm and muscular when handled, built for fast swimming in open water",
+      "isPrimary": false
+    },
+    {
+      "label": "Scutes",
+      "description": "Hard, pointed scales along the lateral line that feel sharp and rough to the touch - run your finger along the side and you'll feel these distinctive armor-like plates",
+      "isPrimary": true
+    },
+    {
+      "label": "Color",
+      "description": "Bright silvery sides with a metallic sheen and darker blue-green back that reflects light like polished metal",
+      "isPrimary": false
+    },
+    {
+      "label": "Fins",
+      "description": "Deeply forked tail fin and two separate dorsal fins, with the first being spiny and short, the second soft and longer",
+      "isPrimary": false
+    },
+    {
+      "label": "Mouth",
+      "description": "Terminal mouth (opens at the front tip of the head) that's relatively small compared to the body size",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Medium-sized fish typically 12-16 inches long with a substantial, solid feel when held",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Rough scads are open ocean wanderers that occasionally venture into New England's coastal waters, particularly around the continental shelf edge. They prefer deeper waters but may come closer to shore when following schools of small fish or during seasonal migrations. In New England, they're most likely encountered by offshore anglers or occasionally wash up after storms.",
+  "seasonality": {
+    "spring": "May begin appearing in New England waters as ocean temperatures warm, though sightings remain rare and unpredictable.",
+    "summer": "Most likely season to encounter rough scads in New England waters, when warmer currents may carry them northward from their more typical southern ranges.",
+    "fall": "Occasional sightings possible as fish follow prey movements, but they typically move back to warmer southern waters.",
+    "winter": "Virtually absent from New England waters, having retreated to warmer southern Atlantic regions."
+  },
+  "funFact": "Rough scads are like the nomads of the ocean - they don't have a home territory but instead roam vast distances across the Atlantic, sometimes traveling thousands of miles following ocean currents and food sources, which explains why they only occasionally show up in New England waters!",
+  "confusionNotes": "Most likely confused with other members of the jack family, but the rough scad's distinctive spiny scutes along the side are a dead giveaway - no other New England fish has these armor-like scales that feel sharp to the touch.",
+  "contextualKnowledge": "Despite being called 'horse mackerel' in some regions, rough scads aren't actually mackerels at all - they're jacks. This naming confusion exists because early fishermen grouped together any fast-swimming, schooling fish with silvery sides, regardless of their actual family relationships.",
+  "compareHints": "As the only jack mackerel species regularly found in New England waters, rough scads are best compared to other jack family members like blue runners or crevalle jacks. However, the rough scad's distinctive armored scutes along the lateral line immediately set it apart from these relatives, which have smooth sides without the sharp, pointed scales.",
+  "relatedSpecies": [],
+  "isNative": false,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Trachurus_lathami",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/179447"
+}

@@ -1,0 +1,338 @@
+{
+  "slug": "cosmarium-connatum",
+  "taxonId": 471308,
+  "group": "plants",
+  "commonName": "Cosmarium connatum",
+  "scientificName": "Cosmarium connatum",
+  "family": "Desmidiaceae",
+  "familyCommonName": "Desmidiaceae",
+  "genus": "Cosmarium",
+  "genusCommonName": "Cosmarium",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Desmidiaceae",
+      "rank": "family",
+      "slug": "explore/desmidiaceae"
+    },
+    {
+      "label": "Cosmarium",
+      "rank": "genus",
+      "slug": "explore/cosmarium"
+    },
+    {
+      "label": "Cosmarium connatum",
+      "rank": "species",
+      "slug": "species/cosmarium-connatum"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 663629,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/663629/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/663629/large.jpg",
+      "attribution": "(c) James Steamer, some rights reserved (CC BY-NC), uploaded by James Steamer",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/47130800"
+    }
+  ],
+  "nameStory": "Cosmarium connatum gets its scientific name from the Greek 'kosmos' meaning ornament or decoration, referring to the beautifully symmetrical and ornate patterns on these tiny algae cells. The species name 'connatum' means 'joined together,' describing how the two halves of each cell are connected at a narrow waist called an isthmus.",
+  "description": "Cosmarium connatum is a microscopic freshwater green alga that you'll never see without magnification - each cell is smaller than the width of a human hair! These single-celled organisms are shaped like tiny dumbbells or hourglasses, with two symmetrical halves joined at a narrow middle section. They're part of a group called desmids, which are among the most geometrically perfect and ornate organisms in nature. Each cell is typically emerald green and decorated with intricate patterns that look like they were designed by a master jeweler.",
+  "idTips": [
+    {
+      "label": "Dumbbell Shape",
+      "description": "The cell has two distinct, symmetrical halves connected by a narrow waist - imagine a tiny green hourglass viewed from above",
+      "isPrimary": true
+    },
+    {
+      "label": "Size",
+      "description": "Extremely tiny - requires at least 100x magnification to see clearly, with cells typically measuring 20-40 micrometers across",
+      "isPrimary": false
+    },
+    {
+      "label": "Surface Pattern",
+      "description": "Each half of the cell is decorated with subtle dots, lines, or granular patterns that are perfectly mirrored on both sides",
+      "isPrimary": false
+    },
+    {
+      "label": "Color",
+      "description": "Bright emerald to blue-green color from chlorophyll, often with a crystalline, jewel-like appearance under magnification",
+      "isPrimary": false
+    },
+    {
+      "label": "Movement",
+      "description": "Moves slowly through water with a gliding motion, sometimes rotating end-over-end in a tumbling pattern",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in clean, acidic freshwater environments like bog pools, pristine ponds, and slow-moving streams throughout New England. Prefers soft water with low mineral content and thrives in habitats with sphagnum moss and other acid-loving plants. Most commonly discovered in undisturbed wetlands and mountain tarns where water quality remains high.",
+  "seasonality": {
+    "spring": "Populations begin to increase as water temperatures warm and daylight hours lengthen. Best viewing time as cells are actively dividing and more numerous.",
+    "summer": "Peak abundance in warm water, though may decline during hot, dry periods when water levels drop or temperatures get too high.",
+    "fall": "Still present but populations may decrease as temperatures cool and daylight diminishes. Cells may form protective resting stages.",
+    "winter": "Survives under ice in a dormant state, with very low population numbers but still occasionally observable in samples from unfrozen water."
+  },
+  "funFact": "Each Cosmarium cell is like a living kaleidoscope - when it reproduces, it splits exactly in half at the waist, and each half grows a brand new mirror-image half, maintaining perfect symmetry that would make any architect jealous!",
+  "confusionNotes": "Easily confused with other Cosmarium species and similar desmid genera like Euastrum or Micrasterias. The key is focusing on the specific shape of the cell outline and the pattern of ornamentation - each species has its own unique 'fingerprint' of decorative features that remain consistent.",
+  "contextualKnowledge": "Despite being called 'algae,' desmids like Cosmarium are actually more closely related to land plants than to seaweeds or pond scum. They're considered living jewels of the microscopic world and are indicators of pristine water quality - finding them suggests the water is clean and unpolluted.",
+  "compareHints": "Cosmarium connatum differs from its relatives by its specific cell proportions and surface ornamentation patterns. While all Cosmarium species share the basic dumbbell shape, C. connatum has its own distinctive combination of cell dimensions and decorative features. Compared to showier desmids like Micrasterias, Cosmarium species are generally smaller and more subtly ornamented, with smoother outlines rather than elaborate projections or deep indentations.",
+  "relatedSpecies": [
+    {
+      "slug": "cosmarium-amoenum",
+      "commonName": "Cosmarium amoenum",
+      "scientificName": "Cosmarium amoenum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/289274559/medium.jpg",
+      "distinction": "Cosmarium amoenum differs from its relatives by having more organized, regular patterns of surface granules and pores compared to species like C."
+    },
+    {
+      "slug": "cosmarium-ovale",
+      "commonName": "Cosmarium ovale",
+      "scientificName": "Cosmarium ovale",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/441360104/medium.jpg",
+      "distinction": "Cosmarium ovale is distinguished from its many Cosmarium relatives by its simple oval shape and smooth cell walls."
+    },
+    {
+      "slug": "cosmarium-pseudoconnatum",
+      "commonName": "Cosmarium pseudoconnatum",
+      "scientificName": "Cosmarium pseudoconnatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/432110825/medium.jpg",
+      "distinction": "Cosmarium pseudoconnatum differs from other Cosmarium species primarily in its cell wall ornamentation and the degree of constriction between cell halves."
+    },
+    {
+      "slug": "cosmarium-contractum",
+      "commonName": "Cosmarium contractum",
+      "scientificName": "Cosmarium contractum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/44610209/medium.jpg",
+      "distinction": "Cosmarium contractum is distinguished from its many Cosmarium relatives by its relatively simple, unornamented appearance and moderate constriction at the cell's center."
+    },
+    {
+      "slug": "cosmarium-punctulatum",
+      "commonName": "Cosmarium punctulatum",
+      "scientificName": "Cosmarium punctulatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/84160460/medium.jpg",
+      "distinction": "Cosmarium punctulatum differs from its relatives by its specific punctate (dotted) surface ornamentation - C."
+    },
+    {
+      "slug": "cosmarium-regnesi",
+      "commonName": "Cosmarium regnesi",
+      "scientificName": "Cosmarium regnesi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/365149058/medium.jpg",
+      "distinction": "Cosmarium regnesi can only be reliably distinguished from its many Cosmarium relatives through detailed microscopic examination of cell wall patterns and precise measurements."
+    },
+    {
+      "slug": "cosmarium-ornatum",
+      "commonName": "Cosmarium ornatum",
+      "scientificName": "Cosmarium ornatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61287647/medium.jpg",
+      "distinction": "Cosmarium ornatum differs from its many Cosmarium relatives primarily in its specific surface ornamentation patterns - while species like C."
+    },
+    {
+      "slug": "cosmarium-dentatum",
+      "commonName": "Cosmarium dentatum",
+      "scientificName": "Cosmarium dentatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/306538190/medium.jpg",
+      "distinction": "Cosmarium dentatum differs from its relatives by having distinct tooth-like projections along the cell margins, while species like C."
+    },
+    {
+      "slug": "cosmarium-porteanum",
+      "commonName": "Cosmarium porteanum",
+      "scientificName": "Cosmarium porteanum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310745498/medium.jpg",
+      "distinction": "Cosmarium porteanum differs from its many relatives primarily in its relatively smooth cell wall and specific size proportions."
+    },
+    {
+      "slug": "cosmarium-granatum",
+      "commonName": "Cosmarium granatum",
+      "scientificName": "Cosmarium granatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2079391/medium.jpg",
+      "distinction": "Cosmarium granatum differs from its many relatives primarily in its granular cell wall texture - species like C."
+    },
+    {
+      "slug": "cosmarium-impressulum",
+      "commonName": "Cosmarium impressulum",
+      "scientificName": "Cosmarium impressulum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2224209/medium.jpg",
+      "distinction": "Cosmarium impressulum is distinguished from its many Cosmarium relatives primarily by its specific size measurements and the particular arrangement of pits or impressions on its cell wall surface."
+    },
+    {
+      "slug": "cosmarium-phaseolus",
+      "commonName": "Cosmarium phaseolus",
+      "scientificName": "Cosmarium phaseolus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3489896/medium.jpg",
+      "distinction": "Cosmarium phaseolus differs from its many cousins by its specific bean-like proportions and fine surface dotting."
+    },
+    {
+      "slug": "cosmarium-subcucumis",
+      "commonName": "Cosmarium subcucumis",
+      "scientificName": "Cosmarium subcucumis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59750325/medium.jpg",
+      "distinction": "Cosmarium subcucumis is more elongated and cucumber-shaped compared to most other Cosmarium species found in New England, which tend to be broader and more circular."
+    },
+    {
+      "slug": "cosmarium-margaritatum",
+      "commonName": "Cosmarium margaritatum",
+      "scientificName": "Cosmarium margaritatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/443749650/medium.jpeg",
+      "distinction": "Among its Cosmarium relatives, margaritatum is distinguished by its particularly prominent pearl-like surface decorations, which are more pronounced than the smoother C."
+    },
+    {
+      "slug": "cosmarium-pyramidatum",
+      "commonName": "Cosmarium pyramidatum",
+      "scientificName": "Cosmarium pyramidatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61026297/medium.jpg",
+      "distinction": "Cosmarium pyramidatum stands out from its many relatives by its pyramid-shaped side profile, while species like C."
+    },
+    {
+      "slug": "cosmarium-eloiseanum",
+      "commonName": "Cosmarium eloiseanum",
+      "scientificName": "Cosmarium eloiseanum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/145200027/medium.jpg",
+      "distinction": "Cosmarium eloiseanum is distinguished from its many relatives primarily by specific measurements and surface features that require expert-level microscopy to identify reliably."
+    },
+    {
+      "slug": "cosmarium-turpinii",
+      "commonName": "Cosmarium turpinii",
+      "scientificName": "Cosmarium turpinii",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/104042651/medium.jpeg",
+      "distinction": "Cosmarium turpinii is distinguished from its many Cosmarium relatives primarily by its relatively smooth cell wall and specific size range."
+    },
+    {
+      "slug": "cosmarium-candianum",
+      "commonName": "Cosmarium candianum",
+      "scientificName": "Cosmarium candianum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/142149073/medium.jpg",
+      "distinction": "Cosmarium candianum differs from its relatives by having relatively smooth, unornamented cell walls, while species like C."
+    },
+    {
+      "slug": "cosmarium-reniforme",
+      "commonName": "Cosmarium reniforme",
+      "scientificName": "Cosmarium reniforme",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/157426413/medium.jpg",
+      "distinction": "Among its many Cosmarium relatives in New England, reniforme stands out for its relatively simple, smooth cell wall compared to the heavily ornamented walls of species like C."
+    },
+    {
+      "slug": "cosmarium-quadrum",
+      "commonName": "Cosmarium quadrum",
+      "scientificName": "Cosmarium quadrum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/284059494/medium.jpeg",
+      "distinction": "Cosmarium quadrum stands out from its many relatives by having the cleanest, most geometric square shape with perfectly smooth cell walls."
+    },
+    {
+      "slug": "cosmarium-commissurale",
+      "commonName": "Cosmarium commissurale",
+      "scientificName": "Cosmarium commissurale",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2301263/medium.jpg",
+      "distinction": "Cosmarium commissurale is distinguished from other Cosmarium species primarily by subtle differences in cell wall ornamentation, the exact proportions of its cell halves, and specific measurements that require expert identification."
+    },
+    {
+      "slug": "cosmarium-taxichondrum",
+      "commonName": "Cosmarium taxichondrum",
+      "scientificName": "Cosmarium taxichondrum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2301577/medium.jpg",
+      "distinction": "Compared to its Cosmarium relatives, C."
+    },
+    {
+      "slug": "cosmarium-moniliforme",
+      "commonName": "Cosmarium moniliforme",
+      "scientificName": "Cosmarium moniliforme",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/589413933/medium.jpg",
+      "distinction": "Cosmarium moniliforme differs from its many relatives by its tendency to form chains and its particular semicell proportions."
+    },
+    {
+      "slug": "cosmarium-margaritiferum",
+      "commonName": "Cosmarium margaritiferum",
+      "scientificName": "Cosmarium margaritiferum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8320450/medium.jpg",
+      "distinction": "Among its Cosmarium relatives, margaritiferum stands out for its pearl-like surface granules - most other species in the genus have smooth walls, ridges, or different ornamental patterns."
+    },
+    {
+      "slug": "cosmarium-undulatum",
+      "commonName": "Cosmarium undulatum",
+      "scientificName": "Cosmarium undulatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6794174/medium.jpg",
+      "distinction": "Cosmarium undulatum differs from its relatives by having distinctly wavy or undulating cell margins, while most other Cosmarium species have smooth, angular, or bumpy edges but not the characteristic wave-like scalloping."
+    },
+    {
+      "slug": "cosmarium-regnellii",
+      "commonName": "Cosmarium regnellii",
+      "scientificName": "Cosmarium regnellii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8286187/medium.jpg",
+      "distinction": "Cosmarium regnellii differs from its genus relatives mainly in subtle details of cell wall ornamentation and proportions that require expert microscopic examination."
+    },
+    {
+      "slug": "cosmarium-isthmium",
+      "commonName": "Cosmarium isthmium",
+      "scientificName": "Cosmarium isthmium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41272165/medium.jpg",
+      "distinction": "Cosmarium isthmium differs from its many relatives primarily in the specific proportions and measurements of its cell parts - the exact width of the connecting bridge relative to the cell halves, and the particular shape and size ratios of the semicells."
+    },
+    {
+      "slug": "cosmarium-subprotumidum",
+      "commonName": "Cosmarium subprotumidum",
+      "scientificName": "Cosmarium subprotumidum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288816634/medium.png",
+      "distinction": "Cosmarium subprotumidum differs from its relatives by having a more subtly swollen appearance and granular cell wall texture."
+    },
+    {
+      "slug": "cosmarium-quadrifarium",
+      "commonName": "Cosmarium quadrifarium",
+      "scientificName": "Cosmarium quadrifarium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/420094511/medium.jpeg",
+      "distinction": "Cosmarium quadrifarium stands out from its many relatives by having a completely smooth cell wall, while most other Cosmarium species sport various decorative features like granules, spines, or surface patterns."
+    },
+    {
+      "slug": "cosmarium-formosulum",
+      "commonName": "Cosmarium formosulum",
+      "scientificName": "Cosmarium formosulum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/515474067/medium.jpg",
+      "distinction": "Cosmarium formosulum is distinguished from its many relatives by its relatively simple, smooth appearance - it lacks the ornate surface patterns of species like C."
+    },
+    {
+      "slug": "cosmarium-difficile",
+      "commonName": "Cosmarium difficile",
+      "scientificName": "Cosmarium difficile",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/290945496/medium.jpg",
+      "distinction": "Cosmarium difficile differs from its many relatives mainly in its relatively simple, smooth cell wall and specific size proportions."
+    },
+    {
+      "slug": "cosmarium-debaryi",
+      "commonName": "Cosmarium debaryi",
+      "scientificName": "Cosmarium debaryi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61353914/medium.jpg",
+      "distinction": "Cosmarium debaryi differs from its many relatives by its specific size range and surface ornamentation pattern."
+    },
+    {
+      "slug": "cosmarium-panduriforme",
+      "commonName": "Cosmarium panduriforme",
+      "scientificName": "Cosmarium panduriforme",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/328532131/medium.jpg",
+      "distinction": "Compared to its many Cosmarium relatives in New England, C."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/471308"
+}

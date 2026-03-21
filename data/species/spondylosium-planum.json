@@ -1,0 +1,122 @@
+{
+  "slug": "spondylosium-planum",
+  "taxonId": 471549,
+  "group": "plants",
+  "commonName": "Spondylosium planum",
+  "scientificName": "Spondylosium planum",
+  "family": "Desmidiaceae",
+  "familyCommonName": "Desmidiaceae",
+  "genus": "Spondylosium",
+  "genusCommonName": "Spondylosium",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Desmidiaceae",
+      "rank": "family",
+      "slug": "explore/desmidiaceae"
+    },
+    {
+      "label": "Spondylosium",
+      "rank": "genus",
+      "slug": "explore/spondylosium"
+    },
+    {
+      "label": "Spondylosium planum",
+      "rank": "species",
+      "slug": "species/spondylosium-planum"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 2232228,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2232228/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2232228/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC), uploaded by Karolina Fucikova",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/47154900"
+    },
+    {
+      "id": 2293945,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2293945/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2293945/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/1882092"
+    }
+  ],
+  "nameStory": "This microscopic algae doesn't have a widely-used common name, so scientists stick with its scientific name Spondylosium planum. The genus name comes from the Greek words 'spondylos' meaning vertebra and the suffix '-osium,' referring to how these tiny cells link together like a backbone under the microscope.",
+  "description": "**Note: This identification requires a microscope** Spondylosium planum is a microscopic freshwater green algae that forms delicate chains of cells in clean ponds and streams. Each individual cell is incredibly tiny - much smaller than the period at the end of this sentence - but they link together in beautiful filaments that can sometimes be seen as thin green threads in very clear water. This is a desmid, a special type of algae known for their intricate, symmetrical cell shapes. You'll need magnification of at least 100x to properly identify this species.",
+  "idTips": [
+    {
+      "label": "Cell arrangement",
+      "description": "Forms chains of rectangular cells joined end-to-end, creating thread-like filaments that may be visible as fine green strands in very clear water",
+      "isPrimary": true
+    },
+    {
+      "label": "Cell shape",
+      "description": "Under magnification, individual cells appear flattened and rectangular when viewed from the side, with smooth, straight edges",
+      "isPrimary": false
+    },
+    {
+      "label": "Connection points",
+      "description": "Cells connect to each other through small bridge-like structures that hold the chain together but allow some flexibility",
+      "isPrimary": false
+    },
+    {
+      "label": "Chloroplasts",
+      "description": "Each cell contains ribbon-like green structures (chloroplasts) that create the overall green color of the filament",
+      "isPrimary": false
+    },
+    {
+      "label": "Water clarity indicator",
+      "description": "Only found in very clean, unpolluted water - if you see these, it's a sign of excellent water quality",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in clean, slow-moving or still freshwater including pristine ponds, quiet stream backwaters, and bog pools throughout New England. Prefers slightly acidic to neutral water with low nutrient levels, often associated with sphagnum moss and other indicators of high water quality. Most common in undisturbed areas away from agricultural runoff or urban pollution.",
+  "seasonality": {
+    "spring": "Most active during spring warming when populations begin to grow and reproduce through cell division. Look for fine green films or threads in clear water as temperatures rise.",
+    "summer": "Peak growing season when populations are most abundant and easiest to spot as visible green threads in the water column or near the surface of very clean ponds.",
+    "fall": "Still present but populations may decline as temperatures cool and daylight hours decrease. May form resting stages to survive winter.",
+    "winter": "Populations greatly reduced under ice cover, but some cells survive in dormant stages. Active populations may persist in spring-fed waters that don't freeze completely."
+  },
+  "funFact": "This tiny algae is like a living water quality test strip - it's so sensitive to pollution that its presence tells you the water is clean enough to drink, while its absence in otherwise suitable habitat suggests contamination that might not be visible to the naked eye.",
+  "confusionNotes": "**Uncertain claim flagged** Under the microscope, it might be confused with other chain-forming desmids, but the flattened, rectangular cell shape when viewed from the side helps distinguish it from rounder or more ornate species. The smooth cell walls also distinguish it from desmids with spines or decorative patterns.",
+  "contextualKnowledge": "This species has been recorded only once in New England, making it extremely rare in our region. Finding it would be a significant discovery that should be documented with photographs and location data. The rarity might reflect either very specific habitat requirements or simply that few people look for microscopic algae in our waters.",
+  "compareHints": "**Uncertain claim flagged** Compared to its relative Spondylosium pulchrum, S. planum has flatter, more rectangular cells when viewed from the side, while S. pulchrum tends to have more ornate or decorated cell walls. Both form similar chain-like filaments, but the individual cell architecture differs when examined under high magnification. The 'planum' in the name refers to the flattened appearance of the cells.",
+  "relatedSpecies": [
+    {
+      "slug": "spondylosium-pulchrum",
+      "commonName": "Spondylosium pulchrum",
+      "scientificName": "Spondylosium pulchrum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/211817154/medium.jpg",
+      "distinction": "Spondylosium pulchrum differs from its relative S."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/471549"
+}

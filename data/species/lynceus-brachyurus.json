@@ -1,0 +1,122 @@
+{
+  "slug": "lynceus-brachyurus",
+  "taxonId": 122267,
+  "group": "crustaceans",
+  "commonName": "Holarctic Clam Shrimp",
+  "scientificName": "Lynceus brachyurus",
+  "family": "Lynceidae",
+  "familyCommonName": "Lynceidae",
+  "genus": "Lynceus",
+  "genusCommonName": "Lynceus",
+  "order": "Laevicaudata",
+  "orderCommonName": "Laevicaudata",
+  "breadcrumb": [
+    {
+      "label": "Crustaceans",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Branchiopods",
+      "rank": "class",
+      "slug": "explore/branchiopods"
+    },
+    {
+      "label": "Laevicaudata",
+      "rank": "order",
+      "slug": "explore/laevicaudata"
+    },
+    {
+      "label": "Lynceidae",
+      "rank": "family",
+      "slug": "explore/lynceidae"
+    },
+    {
+      "label": "Lynceus",
+      "rank": "genus",
+      "slug": "explore/lynceus"
+    },
+    {
+      "label": "Holarctic Clam Shrimp",
+      "rank": "species",
+      "slug": "species/lynceus-brachyurus"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 177966045,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177966045/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177966045/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC), uploaded by Tom Murray",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12226700"
+    },
+    {
+      "id": 70594071,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70594071/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70594071/large.jpg",
+      "attribution": "(c) Josh Grosse, some rights reserved (CC BY-NC), uploaded by Josh Grosse",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12226702"
+    },
+    {
+      "id": 67879329,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67879329/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67879329/large.jpg",
+      "attribution": "(c) Aleksandr Novikov, some rights reserved (CC BY-NC), uploaded by Aleksandr Novikov",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12226701"
+    }
+  ],
+  "nameStory": "The Holarctic Clam Shrimp gets its name from its distinctive clam-like shell that can snap shut, protecting its soft body inside. 'Holarctic' refers to its distribution across the northern regions of both the Old and New World, though it's extremely rare in New England. The word 'clam shrimp' perfectly captures what you're looking at - it's not a clam at all, but a tiny crustacean that looks remarkably like a miniature clam swimming through the water!",
+  "description": "The Holarctic Clam Shrimp is a fascinating tiny freshwater crustacean that looks like a swimming clam. Its body is enclosed in a hinged, translucent shell that opens and closes as it moves through the water. These microscopic marvels are typically only a few millimeters long, making them easy to miss unless you're looking closely at pond water. They're actually more closely related to shrimp and lobsters than to clams, despite their shell-like appearance.",
+  "idTips": [
+    {
+      "label": "Hinged Shell",
+      "description": "The most distinctive feature is the clear, bivalve shell that opens and closes like a tiny clam, revealing feathery swimming appendages inside",
+      "isPrimary": true
+    },
+    {
+      "label": "Size",
+      "description": "Extremely small, usually just 2-5 millimeters long - about the size of a large grain of sand or small sesame seed",
+      "isPrimary": false
+    },
+    {
+      "label": "Swimming Motion",
+      "description": "Moves through water with a distinctive jerky, pulsing motion as it opens and closes its shell to propel itself forward",
+      "isPrimary": false
+    },
+    {
+      "label": "Transparency",
+      "description": "Shell is nearly transparent, allowing you to see the orange or reddish internal organs and moving parts inside",
+      "isPrimary": false
+    },
+    {
+      "label": "Feathery Legs",
+      "description": "When shell opens, you can see delicate, feathery appendages that beat rapidly to create water currents for feeding and swimming",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in temporary pools, shallow ponds, and seasonal wetlands that dry up periodically. In New England, they're incredibly rare and would most likely be discovered in ephemeral woodland pools or temporary marshes in spring. They prefer waters with organic debris and gentle currents, often hiding among submerged vegetation or leaf litter.",
+  "seasonality": {
+    "spring": "Most active period when they hatch from drought-resistant eggs in temporary pools filled by snowmelt and spring rains. Look for them swimming actively near the surface of shallow, warm water.",
+    "summer": "May persist in permanent water bodies, though populations often crash as temporary pools dry up. Adults continue reproducing and laying drought-resistant eggs in pond sediments.",
+    "fall": "Populations typically decline as adults die off, leaving behind eggs that can survive freezing and drying until favorable conditions return.",
+    "winter": "Not active - existing only as drought and freeze-resistant eggs buried in dried pond sediments, waiting for spring thaw and flooding."
+  },
+  "funFact": "These tiny creatures can survive complete habitat destruction - when their pond dries up completely, their eggs can remain viable in the dried mud for decades, even surviving being blown around by wind, and will instantly hatch when water returns years later!",
+  "confusionNotes": "Most likely confused with seed shrimp (ostracods), which also have hinged shells but are rounder and move more smoothly. Clam shrimp have a more oval, flattened shell and that distinctive jerky swimming motion, plus you can often see more internal detail through their clearer shells.",
+  "contextualKnowledge": "Despite being called 'shrimp,' these aren't true shrimp at all - they're part of an ancient group of crustaceans that have remained virtually unchanged for millions of years. The extreme rarity in New England (only one recorded observation) makes any sighting scientifically significant and worth reporting to local naturalist groups.",
+  "compareHints": "Since this is the only Lynceus species recorded in New England, compare it with other clam shrimp families like Limnadiidae. Holarctic Clam Shrimp tend to be smaller and more transparent than their relatives, with a more elongated shell shape rather than the rounder shells of other clam shrimp species. Their swimming style is also more erratic and pulsing compared to the smoother gliding of related species.",
+  "relatedSpecies": [],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lynceus_brachyurus",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/122267"
+}

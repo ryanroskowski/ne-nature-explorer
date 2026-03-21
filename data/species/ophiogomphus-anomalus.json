@@ -1,0 +1,140 @@
+{
+  "slug": "ophiogomphus-anomalus",
+  "taxonId": 107649,
+  "group": "insects",
+  "commonName": "Extra-striped Snaketail",
+  "scientificName": "Ophiogomphus anomalus",
+  "family": "Gomphidae",
+  "familyCommonName": "Clubtails",
+  "genus": "Ophiogomphus",
+  "genusCommonName": "Snaketails",
+  "order": "Odonata",
+  "orderCommonName": "Dragonflies and Damselflies",
+  "breadcrumb": [
+    {
+      "label": "Insects",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Insects",
+      "rank": "class",
+      "slug": "explore/insects"
+    },
+    {
+      "label": "Dragonflies and Damselflies",
+      "rank": "order",
+      "slug": "explore/dragonflies-and-damselflies"
+    },
+    {
+      "label": "Clubtails",
+      "rank": "family",
+      "slug": "explore/clubtails"
+    },
+    {
+      "label": "Snaketails",
+      "rank": "genus",
+      "slug": "explore/snaketails"
+    },
+    {
+      "label": "Extra-striped Snaketail",
+      "rank": "species",
+      "slug": "species/ophiogomphus-anomalus"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 2081829,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2081829/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2081829/large.jpg",
+      "attribution": "(c) Denis Doucet, some rights reserved (CC BY-NC), uploaded by Denis Doucet",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/10764900"
+    },
+    {
+      "id": 410940891,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/410940891/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/410940891/large.jpeg",
+      "attribution": "no rights reserved",
+      "licenseCode": "cc0",
+      "observationUrl": "https://www.inaturalist.org/observations/231376261"
+    },
+    {
+      "id": 3064879,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3064879/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3064879/large.jpg",
+      "attribution": "(c) Denis Doucet, some rights reserved (CC BY-NC), uploaded by Denis Doucet",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/10764901"
+    },
+    {
+      "id": 147828,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147828/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147828/large.jpeg",
+      "attribution": "(c) Smithsonian Institution, National Museum of Natural History, Department of Entomology, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/10764902"
+    }
+  ],
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
+  "seasonality": {
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
+  },
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
+  "relatedSpecies": [
+    {
+      "slug": "ophiogomphus-carolus",
+      "commonName": "Riffle Snaketail",
+      "scientificName": "Ophiogomphus carolus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/924430/medium.jpg",
+      "distinction": "Among New England's snaketails, the Riffle Snaketail is distinguished by its preference for the fastest-flowing water - Maine Snaketails prefer larger rivers, while Brook Snaketails like slower woodland streams."
+    },
+    {
+      "slug": "ophiogomphus-mainensis",
+      "commonName": "Maine Snaketail",
+      "scientificName": "Ophiogomphus mainensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2997325/medium.jpg",
+      "distinction": "Compared to its snaketail relatives, the Maine Snaketail has particularly bright and well-defined yellow stripes on its thorax, while Brook Snaketails appear more muted and Riffle Snaketails have more complex patterns."
+    },
+    {
+      "slug": "ophiogomphus-aspersus",
+      "commonName": "Brook Snaketail",
+      "scientificName": "Ophiogomphus aspersus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/267388/medium.jpg",
+      "distinction": "Brook Snaketails prefer faster-flowing water than most of their snaketail relatives and are typically found in smaller streams rather than large rivers."
+    },
+    {
+      "slug": "ophiogomphus-rupinsulensis",
+      "commonName": "Rusty Snaketail",
+      "scientificName": "Ophiogomphus rupinsulensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109840175/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "ophiogomphus-howei",
+      "commonName": "Pygmy Snaketail",
+      "scientificName": "Ophiogomphus howei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1502434/medium.jpg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ophiogomphus_anomalus",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/107649"
+}

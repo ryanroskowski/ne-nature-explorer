@@ -1,0 +1,153 @@
+{
+  "slug": "paralichthys-oblongus",
+  "taxonId": 1316528,
+  "group": "fish",
+  "commonName": "Fourspot Flounder",
+  "scientificName": "Paralichthys oblongus",
+  "family": "Paralichthyidae",
+  "familyCommonName": "Large-tooth Flounders",
+  "genus": "Paralichthys",
+  "genusCommonName": "Paralichthys",
+  "order": "Carangiformes",
+  "orderCommonName": "Jacks, Flounders, Barracudas, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Fish",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Chordates",
+      "rank": "phylum",
+      "slug": "explore/chordates"
+    },
+    {
+      "label": "Ray-finned Fishes",
+      "rank": "class",
+      "slug": "explore/ray-finned-fishes"
+    },
+    {
+      "label": "Jacks, Flounders, Barracudas, and Allies",
+      "rank": "order",
+      "slug": "explore/jacks-flounders-barracudas-and-allies"
+    },
+    {
+      "label": "Large-tooth Flounders",
+      "rank": "family",
+      "slug": "explore/large-tooth-flounders"
+    },
+    {
+      "label": "Paralichthys",
+      "rank": "genus",
+      "slug": "explore/paralichthys"
+    },
+    {
+      "label": "Fourspot Flounder",
+      "rank": "species",
+      "slug": "species/paralichthys-oblongus"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 28048900,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28048900/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28048900/large.jpg",
+      "attribution": "(c) Joe Kunkel, some rights reserved (CC BY-NC), uploaded by Joe Kunkel",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/131652800"
+    },
+    {
+      "id": 500451611,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/500451611/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/500451611/large.jpg",
+      "attribution": "(c) Alex Shure, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/278708533"
+    },
+    {
+      "id": 500451630,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/500451630/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/500451630/large.jpg",
+      "attribution": "(c) Alex Shure, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/278708533"
+    },
+    {
+      "id": 500451640,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/500451640/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/500451640/large.jpg",
+      "attribution": "(c) Alex Shure, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/278708533"
+    },
+    {
+      "id": 500451694,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/500451694/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/500451694/large.jpg",
+      "attribution": "(c) Alex Shure, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/278708533"
+    }
+  ],
+  "nameStory": "The Fourspot Flounder gets its name from the four distinctive dark spots that typically appear on its upper side. These eyespots are thought to confuse predators about which end is the head and which is the tail, giving this flatfish a better chance of escape.",
+  "description": "The Fourspot Flounder is a medium-sized flatfish that spends its life lying on sandy or muddy ocean bottoms. Like all flounders, it has both eyes on one side of its head (the upper side) and a flattened body perfectly adapted for bottom living. This species typically grows to about 12-16 inches long and has a brownish upper surface that can change color to match its surroundings. It's much less common in New England waters than its cousin, the Summer Flounder.",
+  "idTips": [
+    {
+      "label": "Color",
+      "description": "Four dark spots arranged on the upper (eyed) side, usually two near the head and two toward the tail, though spots may be faint or absent in some individuals",
+      "isPrimary": true
+    },
+    {
+      "label": "Body Shape",
+      "description": "Oval-shaped flatfish with both eyes on the left side when viewed from above, body feels firm and muscular when handled",
+      "isPrimary": false
+    },
+    {
+      "label": "Fins",
+      "description": "Dorsal and anal fins run almost the full length of the body, creating a continuous fringe-like border around the fish",
+      "isPrimary": false
+    },
+    {
+      "label": "Mouth",
+      "description": "Large mouth with sharp teeth, extends back past the front edge of the lower eye when closed",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Medium-sized flounder, typically 12-16 inches long, feels substantial but lighter than Summer Flounder of similar length",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Fourspot Flounders prefer sandy and muddy bottoms in coastal waters from shallow bays to depths of several hundred feet. In New England, they're most likely encountered in deeper offshore waters, as they tend to prefer slightly warmer conditions than our more common Summer Flounder. Look for them buried in soft sediments where they ambush small fish and crustaceans.",
+  "seasonality": {
+    "spring": "May move into slightly shallower waters as temperatures warm, becoming more active after winter dormancy.",
+    "summer": "Most active feeding period, when they're most likely to be caught by anglers fishing sandy bottoms.",
+    "fall": "Begin moving to deeper, more stable temperature zones as coastal waters start cooling.",
+    "winter": "Retreat to deeper waters offshore, becoming less active and harder to locate in New England waters."
+  },
+  "funFact": "Fourspot Flounders can completely bury themselves in sand in just seconds, leaving only their eyes exposed like periscopes to watch for prey and predators above.",
+  "confusionNotes": "Most easily confused with Summer Flounder, but Summer Flounder typically have more irregular spots and blotches rather than the four distinct spots. Remember: 'Four spots, Fourspot' - if you count exactly four dark spots in a roughly symmetrical pattern, you've likely found the less common Fourspot Flounder.",
+  "contextualKnowledge": "Some scientific sources place this species in the genus Hippoglossina rather than Paralichthys, so you may see it listed as Hippoglossina oblonga in older field guides or regional fish surveys. Both names refer to the same fish.",
+  "compareHints": "Compared to its close relative the Summer Flounder, the Fourspot Flounder has more distinct, evenly-spaced spots rather than irregular blotches and mottling. Southern Flounder, another relative, lacks the distinctive four-spot pattern entirely and is extremely rare in New England waters. The Fourspot is also generally smaller and more slender than Summer Flounder of comparable age.",
+  "relatedSpecies": [
+    {
+      "slug": "paralichthys-dentatus",
+      "commonName": "Summer Flounder",
+      "scientificName": "Paralichthys dentatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/188156909/medium.jpg",
+      "distinction": "Summer flounder are larger and more robust than their cousin the fourspot flounder, which has four distinctive dark spots and rarely exceeds 12 inches."
+    },
+    {
+      "slug": "paralichthys-lethostigma",
+      "commonName": "Southern Flounder",
+      "scientificName": "Paralichthys lethostigma",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/52235866/medium.jpg",
+      "distinction": "Compared to its close relative the summer flounder, southern flounders are typically larger with a proportionally bigger mouth and less distinct spotting patterns."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hippoglossina_oblonga",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1316528"
+}

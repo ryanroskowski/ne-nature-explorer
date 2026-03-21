@@ -1,0 +1,404 @@
+{
+  "slug": "solidago-bicolor",
+  "taxonId": 146717,
+  "group": "plants",
+  "commonName": "silverrod",
+  "scientificName": "Solidago bicolor",
+  "family": "Asteraceae",
+  "familyCommonName": "Sunflowers, Daisies, Asters, and Allies",
+  "genus": "Solidago",
+  "genusCommonName": "goldenrods",
+  "order": "Asterales",
+  "orderCommonName": "Sunflowers, Bellflowers, Fanflowers, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Vascular Plants",
+      "rank": "phylum",
+      "slug": "explore/vascular-plants"
+    },
+    {
+      "label": "Dicots",
+      "rank": "class",
+      "slug": "explore/dicots"
+    },
+    {
+      "label": "Sunflowers, Bellflowers, Fanflowers, and Allies",
+      "rank": "order",
+      "slug": "explore/sunflowers-bellflowers-fanflowers-and-allies"
+    },
+    {
+      "label": "Sunflowers, Daisies, Asters, and Allies",
+      "rank": "family",
+      "slug": "explore/sunflowers-daisies-asters-and-allies"
+    },
+    {
+      "label": "goldenrods",
+      "rank": "genus",
+      "slug": "explore/goldenrods"
+    },
+    {
+      "label": "silverrod",
+      "rank": "species",
+      "slug": "species/solidago-bicolor"
+    }
+  ],
+  "observationCount": 2914,
+  "abundanceTier": "very-common",
+  "photos": [
+    {
+      "id": 320662561,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/320662561/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/320662561/large.jpeg",
+      "attribution": "(c) Joey Santore, some rights reserved (CC BY-NC), uploaded by Joey Santore",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14671705"
+    },
+    {
+      "id": 52068771,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52068771/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52068771/large.jpeg",
+      "attribution": "(c) cgbb2004, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/33167985"
+    },
+    {
+      "id": 52068313,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52068313/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52068313/large.jpeg",
+      "attribution": "(c) cgbb2004, some rights reserved (CC BY-NC), uploaded by cgbb2004",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14671700"
+    },
+    {
+      "id": 226474553,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226474553/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226474553/large.jpeg",
+      "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/14671703"
+    },
+    {
+      "id": 327763743,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/327763743/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/327763743/large.jpeg",
+      "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/14671706"
+    },
+    {
+      "id": 315631532,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/315631532/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/315631532/large.jpg",
+      "attribution": "(c) sahric, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/181129979"
+    },
+    {
+      "id": 52665683,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52665683/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52665683/large.jpeg",
+      "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/14671702"
+    },
+    {
+      "id": 52068369,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52068369/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52068369/large.jpeg",
+      "attribution": "(c) cgbb2004, some rights reserved (CC BY-NC), uploaded by cgbb2004",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14671707"
+    },
+    {
+      "id": 52068626,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52068626/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52068626/large.jpeg",
+      "attribution": "(c) cgbb2004, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/33167985"
+    },
+    {
+      "id": 226474235,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226474235/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226474235/large.jpeg",
+      "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/14671701"
+    },
+    {
+      "id": 327763954,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/327763954/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/327763954/large.jpeg",
+      "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/14671704"
+    },
+    {
+      "id": 320662438,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/320662438/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/320662438/large.jpeg",
+      "attribution": "(c) Joey Santore, some rights reserved (CC BY-NC), uploaded by Joey Santore",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14671708"
+    },
+    {
+      "id": 52068596,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52068596/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52068596/large.jpeg",
+      "attribution": "(c) cgbb2004, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/33167985"
+    },
+    {
+      "id": 431219589,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/431219589/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/431219589/large.jpeg",
+      "attribution": "(c) cgbb2004, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/241919237"
+    },
+    {
+      "id": 52068681,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52068681/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52068681/large.jpeg",
+      "attribution": "(c) cgbb2004, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/33167985"
+    },
+    {
+      "id": 431219803,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/431219803/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/431219803/large.jpeg",
+      "attribution": "(c) cgbb2004, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/241919237"
+    }
+  ],
+  "nameStory": "This goldenrod earned the name 'silverrod' because its white flowers look like tiny silver coins scattered along the stem, quite different from its golden-yellow cousins. The name 'white goldenrod' might seem contradictory, but it perfectly captures the puzzle this plant presents - it's clearly a goldenrod in every way except color!",
+  "description": "Silverrod is the rebel of the goldenrod family, sporting creamy white flowers instead of the expected bright yellow. This slender perennial grows 1-3 feet tall with thin, wiry stems that feel sturdy despite their delicate appearance. Unlike other goldenrods that show off their flowers in big, showy clusters at the top, silverrod tucks its small white flower heads along the stem in the spaces where leaves meet the main stem.",
+  "idTips": [
+    {
+      "label": "Flowers",
+      "description": "Creamy white flower heads clustered in leaf axils (where leaves meet stem) rather than in a large terminal display - the only white-flowered goldenrod in New England",
+      "isPrimary": true
+    },
+    {
+      "label": "Growth Habit",
+      "description": "Thin, wiry stems that feel surprisingly strong when gently bent, growing 1-3 feet tall in a somewhat sparse, open pattern",
+      "isPrimary": false
+    },
+    {
+      "label": "Leaves",
+      "description": "Narrow, lance-shaped leaves arranged alternately up the stem, feeling slightly rough to the touch with subtle parallel veins",
+      "isPrimary": false
+    },
+    {
+      "label": "Seeds",
+      "description": "Tiny seeds topped with fluffy white parachutes (pappus) that catch the slightest breeze, just like dandelion seeds but much smaller",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for silverrod in sandy or rocky soils where other plants struggle - roadsides, field edges, and open woodlands with well-drained ground. It thrives in slightly acidic, nutrient-poor soils that many plants avoid, often growing alongside blueberries, bracken fern, and pine trees.",
+  "seasonality": {
+    "spring": "New shoots emerge as reddish-purple stems that gradually turn green. Young leaves unfurl with a slightly fuzzy texture.",
+    "summer": "Creamy white flower heads appear from July through September, starting from the bottom leaf axils and working upward along the stem.",
+    "fall": "Flowers fade and seeds develop their fluffy white tops, dispersing on autumn breezes. Leaves may turn yellowish before dying back.",
+    "winter": "Dried brown stems often persist through winter, sometimes still holding a few fluffy seed heads that rattle softly in the wind."
+  },
+  "funFact": "Silverrod is like the albino of the goldenrod world - it's the only goldenrod species in eastern North America that 'forgot' how to make yellow flowers, yet it still attracts many of the same pollinators that visit its golden relatives!",
+  "confusionNotes": "The white flowers make this nearly impossible to confuse with other goldenrods, but beginners might mistake it for white asters. Remember: goldenrods (including silverrod) have flowers clustered in leaf axils along the stem, while asters typically have flowers in branched clusters at the stem tips.",
+  "contextualKnowledge": "Despite having 'goldenrod' in its common name, silverrod rarely triggers allergies because it's insect-pollinated, not wind-pollinated. The heavy pollen doesn't blow around like ragweed pollen, which blooms at the same time and is the real culprit behind 'goldenrod allergies.'",
+  "compareHints": "Among its 25+ goldenrod cousins in New England, silverrod is unmistakable due to its white flowers. While Canada goldenrod and tall goldenrod form large terminal flower clusters, and early goldenrod has a more compact yellow display, silverrod keeps its white flowers tucked modestly along the stem in leaf axils, giving it a much more subtle, scattered appearance.",
+  "relatedSpecies": [
+    {
+      "slug": "solidago-rugosa",
+      "commonName": "common wrinkle-leaved goldenrod",
+      "scientificName": "Solidago rugosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/94984667/medium.jpg",
+      "distinction": "Among New England's goldenrods, wrinkle-leaved goldenrod stands out for its distinctly rough, sandpapery leaves - most others like Canada goldenrod or giant goldenrod have smooth foliage."
+    },
+    {
+      "slug": "solidago-sempervirens",
+      "commonName": "northern seaside goldenrod",
+      "scientificName": "Solidago sempervirens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108116857/medium.jpg",
+      "distinction": "Among New England's 25+ goldenrod species, seaside goldenrod stands out with its thick, fleshy leaves and coastal habitat - most other goldenrods have thin, papery leaves and prefer inland locations."
+    },
+    {
+      "slug": "solidago-caesia",
+      "commonName": "bluestem goldenrod",
+      "scientificName": "Solidago caesia",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/157945142/medium.jpg",
+      "distinction": "Among the 26 goldenrod species in New England, bluestem is unique for its blue-purple stem and woodland habitat preference."
+    },
+    {
+      "slug": "solidago-flexicaulis",
+      "commonName": "broad-leaved goldenrod",
+      "scientificName": "Solidago flexicaulis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98559/medium.jpg",
+      "distinction": "Among the 25+ goldenrod species in New England, broad-leaved goldenrod is unique in its woodland habitat and zigzag stem."
+    },
+    {
+      "slug": "solidago-juncea",
+      "commonName": "early goldenrod",
+      "scientificName": "Solidago juncea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/425157/medium.jpg",
+      "distinction": "Among New England's many goldenrods, early goldenrod stands out for its July bloom time and graceful, arching flower plumes."
+    },
+    {
+      "slug": "solidago-canadensis",
+      "commonName": "Canada goldenrod",
+      "scientificName": "Solidago canadensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/87573048/medium.jpg",
+      "distinction": "Among New England's many goldenrods, Canada goldenrod is distinguished by its gracefully arching, plume-like flower clusters and smooth stems."
+    },
+    {
+      "slug": "solidago-nemoralis",
+      "commonName": "field goldenrod",
+      "scientificName": "Solidago nemoralis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4745737/medium.jpeg",
+      "distinction": "Among New England's many goldenrods, field goldenrod stands out for being one of the shortest and grayest."
+    },
+    {
+      "slug": "solidago-gigantea",
+      "commonName": "giant goldenrod",
+      "scientificName": "Solidago gigantea",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/51528183/medium.jpeg",
+      "distinction": "Among New England's many goldenrods, giant goldenrod stands out for its impressive height — it's typically the tallest species you'll encounter."
+    },
+    {
+      "slug": "solidago-puberula",
+      "commonName": "Downy Goldenrod",
+      "scientificName": "Solidago puberula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67756974/medium.jpeg",
+      "distinction": "Among New England's many goldenrods, downy goldenrod is unique for its consistently soft, fuzzy texture on both stems and leaves."
+    },
+    {
+      "slug": "solidago-leiocarpa",
+      "commonName": "Cutler's goldenrod",
+      "scientificName": "Solidago leiocarpa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/148919398/medium.jpeg",
+      "distinction": "Cutler's goldenrod is much shorter and more compact than common lowland species like Canada goldenrod or tall goldenrod, which can reach 6 feet or more."
+    },
+    {
+      "slug": "solidago-macrophylla",
+      "commonName": "large-leaved goldenrod",
+      "scientificName": "Solidago macrophylla",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11757985/medium.jpg",
+      "distinction": "Among New England goldenrods, large-leaved stands out immediately for its broad foliage — most others like Canada goldenrod and field goldenrod have much narrower, more lance-shaped leaves."
+    },
+    {
+      "slug": "solidago-altissima",
+      "commonName": "tall goldenrod",
+      "scientificName": "Solidago altissima",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/238567114/medium.jpeg",
+      "distinction": "Among New England's goldenrods, tall goldenrod stands out for its impressive height and pyramid-shaped flower clusters."
+    },
+    {
+      "slug": "solidago-odora",
+      "commonName": "Sweet Goldenrod",
+      "scientificName": "Solidago odora",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24896651/medium.jpeg",
+      "distinction": "Among New England's many goldenrods, sweet goldenrod is the only one with that distinctive anise fragrance - this makes it the easiest goldenrod to identify with certainty."
+    },
+    {
+      "slug": "solidago-uliginosa",
+      "commonName": "bog goldenrod",
+      "scientificName": "Solidago uliginosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12983479/medium.jpg",
+      "distinction": "Among New England's many goldenrods, bog goldenrod stands out for its wetland habitat requirement and impressive height."
+    },
+    {
+      "slug": "solidago-squarrosa",
+      "commonName": "squarrose goldenrod",
+      "scientificName": "Solidago squarrosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13208297/medium.jpg",
+      "distinction": "Among New England's many goldenrods, squarrose goldenrod stands out for its exceptionally narrow, elongated flower cluster that stays tightly upright rather than spreading outward."
+    },
+    {
+      "slug": "solidago-patula",
+      "commonName": "Swamp Goldenrod",
+      "scientificName": "Solidago patula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/49110978/medium.jpg",
+      "distinction": "Among New England's 26 goldenrod species, swamp goldenrod is unique for its wetland habitat - no other goldenrod in our region specifically seeks out waterlogged soils."
+    },
+    {
+      "slug": "solidago-arguta",
+      "commonName": "cut-leaf goldenrod",
+      "scientificName": "Solidago arguta",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/22584849/medium.jpg",
+      "distinction": "Among New England's many goldenrods, cut-leaf goldenrod stands out for its preference for woodland settings rather than open fields, and its more delicate, open flower arrangement compared to the dense, plume-like clusters of field-loving species like Canada goldenrod."
+    },
+    {
+      "slug": "solidago-latissimifolia",
+      "commonName": "Elliott's goldenrod",
+      "scientificName": "Solidago latissimifolia",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/26685912/medium.jpeg",
+      "distinction": "Among New England's goldenrods, Elliott's stands out for its exceptional height and strict coastal marsh habitat - most other goldenrods prefer drier upland sites."
+    },
+    {
+      "slug": "solidago-speciosa",
+      "commonName": "showy goldenrod",
+      "scientificName": "Solidago speciosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173927160/medium.jpg",
+      "distinction": "Among New England's many goldenrods, showy goldenrod stands out for its impressive height and dense, pyramid-shaped flower clusters."
+    },
+    {
+      "slug": "solidago-hispida",
+      "commonName": "Hairy Goldenrod",
+      "scientificName": "Solidago hispida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2350791/medium.jpg",
+      "distinction": "Among New England's many goldenrods, hairy goldenrod stands out for its distinctly rough, bristly texture - much more pronounced than the slight fuzziness of Canada goldenrod or the smooth stems of giant goldenrod."
+    },
+    {
+      "slug": "solidago-rigida",
+      "commonName": "stiff-leaved goldenrod",
+      "scientificName": "Solidago rigida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4605521/medium.jpg",
+      "distinction": "Among New England's many goldenrods, stiff-leaved goldenrod stands out for its flat-topped flower clusters (versus the branching plumes of Canada goldenrod or tall goldenrod) and especially its thick, rigid leaves that feel completely different from the soft, flexible foliage of common species."
+    },
+    {
+      "slug": "solidago-ptarmicoides",
+      "commonName": "white flat-topped goldenrod",
+      "scientificName": "Solidago ptarmicoides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172609006/medium.jpeg",
+      "distinction": "Unlike its yellow-flowered goldenrod cousins that typically have branching, plume-like flower clusters, white flat-topped goldenrod has distinctively flat, white flower heads."
+    },
+    {
+      "slug": "solidago-simplex",
+      "commonName": "Sticky Goldenrod",
+      "scientificName": "Solidago simplex",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2208371/medium.jpg",
+      "distinction": "Unlike the abundant Canada Goldenrod or Giant Goldenrod with their large, spreading flower clusters, Sticky Goldenrod has more compact, narrow flower heads."
+    },
+    {
+      "slug": "solidago-ulmifolia",
+      "commonName": "elm-leaved goldenrod",
+      "scientificName": "Solidago ulmifolia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51268611/medium.jpg",
+      "distinction": "Among New England goldenrods, elm-leaved goldenrod is unique for its broad, elm-like leaves - most others like Canada goldenrod and tall goldenrod have narrow, lance-shaped leaves."
+    },
+    {
+      "slug": "solidago-racemosa",
+      "commonName": "Racemose Goldenrod",
+      "scientificName": "Solidago racemosa",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/88100036/medium.jpg",
+      "distinction": "Among New England's many goldenrods, racemose goldenrod is unique for its simple, unbranched flower spike - all other regional goldenrods have branching flower clusters."
+    },
+    {
+      "slug": "solidago-randii",
+      "commonName": "Rand's goldenrod",
+      "scientificName": "Solidago randii",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/10427199/medium.jpg",
+      "distinction": "Rand's goldenrod differs from common goldenrods by its specialized rocky mountain habitat and extreme rarity."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Solidago_bicolor",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/146717"
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "pleurotaenium-maximum",
+  "taxonId": 544342,
+  "group": "plants",
+  "commonName": "Pleurotaenium maximum",
+  "scientificName": "Pleurotaenium maximum",
+  "family": "Desmidiaceae",
+  "familyCommonName": "Desmidiaceae",
+  "genus": "Pleurotaenium",
+  "genusCommonName": "Pleurotaenium",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Desmidiaceae",
+      "rank": "family",
+      "slug": "explore/desmidiaceae"
+    },
+    {
+      "label": "Pleurotaenium",
+      "rank": "genus",
+      "slug": "explore/pleurotaenium"
+    },
+    {
+      "label": "Pleurotaenium maximum",
+      "rank": "species",
+      "slug": "species/pleurotaenium-maximum"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 7463862,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7463862/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7463862/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC), uploaded by Karolina Fucikova",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/54434200"
+    }
+  ],
+  "nameStory": "Pleurotaenium maximum doesn't have a widely-used common name, which isn't surprising since this is a microscopic single-celled organism that most people never see! The scientific name comes from Greek words meaning 'side ribbon,' referring to its elongated, ribbon-like shape when viewed under a microscope. The 'maximum' part suggests this is one of the larger species in its group.",
+  "description": "**[Uncertain claim flagged]** This isn't actually a plant that you can spot while hiking through New England forests! Pleurotaenium maximum is a microscopic single-celled organism called a desmid that lives in freshwater. These tiny green creatures are actually a type of algae that can only be seen with a microscope, where they appear as long, slender, ribbon-like cells. Each cell is typically divided into two symmetrical halves with a narrow waist in the middle, and they're usually bright green due to their chloroplasts (the parts that make food from sunlight).",
+  "idTips": [
+    {
+      "label": "Microscopic size",
+      "description": "**[Uncertain claim flagged]** Invisible to the naked eye - you'll need a microscope with at least 100x magnification to see these tiny organisms",
+      "isPrimary": true
+    },
+    {
+      "label": "Elongated shape",
+      "description": "**[Uncertain claim flagged]** Appears as a long, narrow ribbon or rod under the microscope, much longer than it is wide",
+      "isPrimary": false
+    },
+    {
+      "label": "Central constriction",
+      "description": "**[Uncertain claim flagged]** Shows a slight pinched-in area or waist near the middle of the cell",
+      "isPrimary": false
+    },
+    {
+      "label": "Bright green color",
+      "description": "**[Uncertain claim flagged]** Vibrant green coloration from chloroplasts visible throughout the cell",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "**[Uncertain claim flagged]** Found in clean, soft-water ponds, lakes, and slow-moving streams throughout New England, particularly in areas with low mineral content. These organisms prefer slightly acidic water and are often found in bog pools, forest ponds, and the quiet backwaters of streams where organic matter has accumulated.",
+  "seasonality": {
+    "spring": "**[Uncertain claim flagged]** Most active as water temperatures begin to warm, with populations starting to grow in clean pond water.",
+    "summer": "**[Uncertain claim flagged]** Peak abundance during warm months when sunlight and temperatures favor growth and reproduction.",
+    "fall": "**[Uncertain claim flagged]** Still present but populations may begin to decline as temperatures cool and daylight hours shorten.",
+    "winter": "**[Uncertain claim flagged]** Present in low numbers, often dormant or growing very slowly under ice cover."
+  },
+  "funFact": "**[Uncertain claim flagged]** Despite being single-celled, these tiny organisms are actually quite sophisticated - they can reproduce by literally splitting themselves perfectly in half, with each half regenerating the missing portion to create two identical individuals!",
+  "confusionNotes": "**[Uncertain claim flagged]** Most easily confused with other elongated desmids under the microscope, but Pleurotaenium maximum tends to be one of the larger and more robust-looking species. Remember: if you can see it without a microscope, it's definitely not this organism!",
+  "contextualKnowledge": "Many people are surprised to learn that not all 'nature identification' involves things you can see with your naked eye - New England's waters are full of beautiful microscopic life that's just as much a part of our natural heritage as the trees and birds. Desmids like this one are actually important indicators of clean water quality.",
+  "compareHints": "**[Uncertain claim flagged]** Pleurotaenium maximum is typically larger and more robust than its relatives like P. ehrenbergii, and lacks the distinctive nodules or bumps found on P. nodosum. Unlike P. coronatum, it doesn't have the crown-like projections at the cell ends, making it appear more smoothly cylindrical overall.",
+  "relatedSpecies": [
+    {
+      "slug": "pleurotaenium-ehrenbergii",
+      "commonName": "Pleurotaenium ehrenbergii",
+      "scientificName": "Pleurotaenium ehrenbergii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4318534/medium.jpg",
+      "distinction": "Pleurotaenium ehrenbergii differs from its relatives by being relatively smooth with subtle ridges, while P."
+    },
+    {
+      "slug": "pleurotaenium-nodosum",
+      "commonName": "Pleurotaenium nodosum",
+      "scientificName": "Pleurotaenium nodosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2449191/medium.jpg",
+      "distinction": "Pleurotaenium nodosum differs from its relatives like P."
+    },
+    {
+      "slug": "pleurotaenium-coronatum",
+      "commonName": "Pleurotaenium coronatum",
+      "scientificName": "Pleurotaenium coronatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59745053/medium.jpg",
+      "distinction": "Pleurotaenium coronatum differs from its relatives by having the most pronounced crown-like ornaments at the cell ends - P."
+    },
+    {
+      "slug": "pleurotaenium-trabecula",
+      "commonName": "Pleurotaenium trabecula",
+      "scientificName": "Pleurotaenium trabecula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/345099/medium.jpg",
+      "distinction": "Pleurotaenium trabecula differs from its relatives like P."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/544342"
+}

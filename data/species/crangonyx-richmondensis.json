@@ -1,0 +1,122 @@
+{
+  "slug": "crangonyx-richmondensis",
+  "taxonId": 217720,
+  "group": "crustaceans",
+  "commonName": "Ellis Bog Crangonyctid",
+  "scientificName": "Crangonyx richmondensis",
+  "family": "Crangonyctidae",
+  "familyCommonName": "Crangonyctidae",
+  "genus": "Crangonyx",
+  "genusCommonName": "Crangonyx",
+  "order": "Amphipoda",
+  "orderCommonName": "Amphipods",
+  "breadcrumb": [
+    {
+      "label": "Crustaceans",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Malacostracans",
+      "rank": "class",
+      "slug": "explore/malacostracans"
+    },
+    {
+      "label": "Amphipods",
+      "rank": "order",
+      "slug": "explore/amphipods"
+    },
+    {
+      "label": "Crangonyctidae",
+      "rank": "family",
+      "slug": "explore/crangonyctidae"
+    },
+    {
+      "label": "Crangonyx",
+      "rank": "genus",
+      "slug": "explore/crangonyx"
+    },
+    {
+      "label": "Ellis Bog Crangonyctid",
+      "rank": "species",
+      "slug": "species/crangonyx-richmondensis"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 8807283,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8807283/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8807283/large.jpg",
+      "attribution": "(c) Leah Ramsay, some rights reserved (CC BY-NC), uploaded by Leah Ramsay",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/21772000"
+    },
+    {
+      "id": 34902023,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34902023/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34902023/large.jpg",
+      "attribution": "(c) Claire O'Neill, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/22527830"
+    }
+  ],
+  "nameStory": "This tiny crustacean gets its name from Ellis Bog, likely the specific wetland where scientists first discovered and studied this species. The scientific name 'richmondensis' suggests a connection to Richmond, possibly indicating the broader geographic area where early specimens were collected.",
+  "description": "The Ellis Bog Crangonyctid is a microscopic freshwater crustacean that looks like a translucent shrimp the size of a rice grain. These pale, almost ghostly creatures are amphipods - small aquatic animals with flattened, curved bodies that move with a distinctive sideways swimming motion. Most individuals are only 3-8 millimeters long, making them barely visible to the naked eye. They belong to a group of tiny crustaceans that live their entire lives in freshwater environments.",
+  "idTips": [
+    {
+      "label": "Size and transparency",
+      "description": "Extremely small (rice grain sized) with a nearly transparent, whitish body that's hard to spot unless it's moving against a dark background",
+      "isPrimary": false
+    },
+    {
+      "label": "Sideways swimming motion",
+      "description": "Moves through water with a characteristic sideways, jerky swimming pattern that looks almost like underwater hopping",
+      "isPrimary": true
+    },
+    {
+      "label": "Curved body shape",
+      "description": "Body is distinctly curved like a tiny comma or shrimp, compressed from side to side rather than flattened top to bottom",
+      "isPrimary": false
+    },
+    {
+      "label": "Segmented appearance",
+      "description": "When viewed closely, body shows clear segmentation with multiple pairs of small legs visible along the underside",
+      "isPrimary": false
+    },
+    {
+      "label": "Bog habitat specificity",
+      "description": "Found exclusively in acidic bog waters and associated wetlands, never in streams, ponds, or other freshwater habitats",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "This species inhabits acidic bog environments and associated wetland systems in New England, particularly areas with sphagnum moss and low pH conditions. Look for them in the shallow, tea-colored waters of true bogs where the water feels soft and smells faintly organic. They prefer areas with decaying plant matter and may be found among submerged vegetation or in the organic sediment layer.",
+  "seasonality": {
+    "spring": "Most active as water temperatures rise, with increased movement making them easier to spot during careful observation of bog pools.",
+    "summer": "Peak activity period when populations are highest and individuals are most likely to be swimming actively in the water column.",
+    "fall": "Still active but populations may decline as temperatures drop, though they can still be found in warmer microhabitats within bogs.",
+    "winter": "Largely inactive and extremely difficult to observe, likely sheltering in organic sediments or deeper water layers."
+  },
+  "funFact": "This species is so rare and specialized that it has only been officially recorded once in all of New England, making anyone who spots one a citizen scientist contributing genuinely valuable data to our understanding of biodiversity!",
+  "confusionNotes": "Most likely to be confused with other tiny aquatic crustaceans like copepods or water fleas, but the distinctive sideways swimming motion and curved, shrimp-like body shape set amphipods apart from the more erratic darting of copepods or the straight-bodied appearance of other small crustaceans.",
+  "contextualKnowledge": "The extremely low observation count (only 1 in New England) suggests this species may be either incredibly rare, highly specialized to very specific bog conditions, or possibly misidentified in past surveys, highlighting how much we still don't know about our microscopic freshwater fauna.",
+  "compareHints": "While both Ellis Bog Crangonyctid and the Mystic Valley Amphipod are tiny freshwater amphipods, the Ellis Bog species is specifically adapted to acidic bog environments, whereas its relative may occupy different freshwater habitats. The bog specialist likely has a more translucent appearance and smaller size compared to amphipods living in less acidic waters.",
+  "relatedSpecies": [
+    {
+      "slug": "crangonyx-aberrans",
+      "commonName": "Mystic Valley Amphipod",
+      "scientificName": "Crangonyx aberrans",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/64286757/medium.jpg",
+      "distinction": "The Mystic Valley Amphipod is extremely similar to the Ellis Bog Crangonyctid, and the two can only be reliably distinguished through microscopic examination of specialized appendages."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/217720"
+}

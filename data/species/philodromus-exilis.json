@@ -1,0 +1,157 @@
+{
+  "slug": "philodromus-exilis",
+  "taxonId": 227755,
+  "group": "arachnids",
+  "commonName": "Philodromus exilis",
+  "scientificName": "Philodromus exilis",
+  "family": "Philodromidae",
+  "familyCommonName": "Running Crab Spiders",
+  "genus": "Philodromus",
+  "genusCommonName": "Running Crab Spiders",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Running Crab Spiders",
+      "rank": "family",
+      "slug": "explore/running-crab-spiders"
+    },
+    {
+      "label": "Running Crab Spiders",
+      "rank": "genus",
+      "slug": "explore/running-crab-spiders"
+    },
+    {
+      "label": "Philodromus exilis",
+      "rank": "species",
+      "slug": "species/philodromus-exilis"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 6683883,
+      "mediumUrl": "https://static.inaturalist.org/photos/6683883/medium.jpeg",
+      "largeUrl": "https://static.inaturalist.org/photos/6683883/large.jpeg",
+      "attribution": "(c) cheins1, all rights reserved, uploaded by cheins1",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/22775500"
+    },
+    {
+      "id": 243453059,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243453059/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243453059/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/142037996"
+    }
+  ],
+  "nameStory": "The name 'running crab spider' perfectly captures this spider's dual nature - it runs swiftly across surfaces rather than building webs, and holds its front legs out like crab claws when threatened. The species name 'exilis' means 'slender' in Latin, referring to its particularly lean build compared to other running crab spiders.",
+  "description": "This is a small, agile spider that hunts by chasing down prey rather than spinning webs. Running crab spiders have a flattened body shape and hold their legs out to the sides, giving them a distinctly crab-like appearance. They're typically brownish or grayish in color and small enough that you might easily overlook them as they dart across tree bark or garden plants. Like other crab spiders, they can move sideways and backwards with surprising speed.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Flattened, oval body that feels firm to the touch if gently captured, with legs that extend sideways like a crab rather than underneath the body",
+      "isPrimary": true
+    },
+    {
+      "label": "Behavior",
+      "description": "Runs quickly in short bursts, often sideways or backwards, and freezes motionless when spotted - no web building observed",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Small spider, typically smaller than your pinky nail, with a slender build that distinguishes it from stockier crab spider relatives",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Generally brownish or grayish coloration that may appear slightly mottled or streaked, blending well with bark textures",
+      "isPrimary": false
+    },
+    {
+      "label": "Eyes",
+      "description": "Eight eyes arranged in two rows, with the front row slightly curved - visible as tiny dark spots if you look closely",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for this spider on tree bark, wooden fences, and the sides of buildings where it hunts for small insects. It prefers vertical surfaces with rough textures that provide good camouflage and hunting opportunities. In New England, it's most often found in wooded areas and suburban settings with mature trees.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, emerging from winter hiding spots under bark or in crevices to begin hunting.",
+    "summer": "Peak activity period when adults are most visible hunting during daylight hours on tree trunks and wooden structures.",
+    "fall": "Mating occurs and egg sacs are prepared before adults seek overwintering sites in protected crevices.",
+    "winter": "Adults hide in deep bark crevices or other protected spots, remaining dormant until spring warmth returns."
+  },
+  "funFact": "Despite having eight legs, running crab spiders often lift their front two legs up and wave them around like antennae, using them to 'taste' the air for chemical signals from prey or predators rather than for walking.",
+  "confusionNotes": "Most easily confused with other running crab spiders in the Philodromus genus, but its particularly slender build and smaller size help distinguish it. Remember: if it's running on bark and looks like a tiny crab, it's probably a Philodromus, and if it's especially skinny, it might be exilis.",
+  "contextualKnowledge": "Running crab spiders are often overlooked because they're active hunters that don't leave behind obvious webs like orb weavers or cobweb spiders. Many people don't realize they're seeing spiders at all since their crab-like movement is so different from typical spider behavior.",
+  "compareHints": "Philodromus exilis is notably more slender than the Metallic Crab Spider or White-striped Running Crab Spider, lacking the metallic sheen or distinct striping of those relatives. It's also typically smaller than most other Philodromus species in New England, with a more delicate overall appearance that matches its 'exilis' (slender) name.",
+  "relatedSpecies": [
+    {
+      "slug": "philodromus-marxi",
+      "commonName": "Metallic Crab Spider",
+      "scientificName": "Philodromus marxi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19205548/medium.jpg",
+      "distinction": "Unlike its cousin the White-striped Running Crab Spider which has obvious white stripes, the metallic crab spider males are uniformly shiny without stripes."
+    },
+    {
+      "slug": "philodromus-rufus",
+      "commonName": "White-striped Running Crab Spider",
+      "scientificName": "Philodromus rufus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/132037294/medium.jpg",
+      "distinction": "The white-striped running crab spider is distinguished from its relatives by those prominent longitudinal white stripes - most other Philodromus species in New England have more subtle markings or different color patterns."
+    },
+    {
+      "slug": "philodromus-cespitum",
+      "commonName": "Turf Running Spider",
+      "scientificName": "Philodromus cespitum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/39335158/medium.jpg",
+      "distinction": "The Turf Running Spider differs from its Philodromus relatives primarily in habitat preference - while the Metallic Crab Spider tends toward trees and the White-striped Running Crab Spider prefers taller shrubs, the Turf Running Spider sticks to low vegetation and ground cover."
+    },
+    {
+      "slug": "philodromus-praelustris",
+      "commonName": "Resplendent Running Crab Spider",
+      "scientificName": "Philodromus praelustris",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/133890284/medium.jpg",
+      "distinction": "Compared to other Philodromus species in New England, the Resplendent Running Crab Spider stands out for its particularly brilliant metallic appearance - more lustrous than the Metallic Crab Spider and lacking the white stripes of the White-striped Running Crab Spider."
+    },
+    {
+      "slug": "philodromus-dispar",
+      "commonName": "Eurasian Running Crab Spider",
+      "scientificName": "Philodromus dispar",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/126650770/medium.jpeg",
+      "distinction": "Among its Philodromus relatives in New England, the male's distinctive shiny black coloration with white edges makes it relatively easy to distinguish from the more uniformly colored Metallic Crab Spider or the striped patterns of the White-striped Running Crab Spider."
+    },
+    {
+      "slug": "philodromus-minutus",
+      "commonName": "Philodromus minutus",
+      "scientificName": "Philodromus minutus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243453455/medium.jpeg",
+      "distinction": "The Minute Running Crab Spider is significantly smaller than its relatives like the Metallic Crab Spider or White-striped Running Crab Spider, which are much more commonly encountered."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Philodromus_exilis",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/227755"
+}

@@ -1,0 +1,556 @@
+{
+  "slug": "entoloma-quadratum",
+  "taxonId": 362917,
+  "group": "fungi",
+  "commonName": "salmon pinkgill",
+  "scientificName": "Entoloma quadratum",
+  "family": "Entolomataceae",
+  "familyCommonName": "Entolomataceae",
+  "genus": "Entoloma",
+  "genusCommonName": "Pinkgills",
+  "order": "Agaricales",
+  "orderCommonName": "Common Gilled Mushrooms and Allies",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Basidiomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/basidiomycete-fungi"
+    },
+    {
+      "label": "Mushrooms, Bracket Fungi, Puffballs, and Allies",
+      "rank": "class",
+      "slug": "explore/mushrooms-bracket-fungi-puffballs-and-allies"
+    },
+    {
+      "label": "Common Gilled Mushrooms and Allies",
+      "rank": "order",
+      "slug": "explore/common-gilled-mushrooms-and-allies"
+    },
+    {
+      "label": "Entolomataceae",
+      "rank": "family",
+      "slug": "explore/entolomataceae"
+    },
+    {
+      "label": "Pinkgills",
+      "rank": "genus",
+      "slug": "explore/pinkgills"
+    },
+    {
+      "label": "salmon pinkgill",
+      "rank": "species",
+      "slug": "species/entoloma-quadratum"
+    }
+  ],
+  "observationCount": 639,
+  "abundanceTier": "very-common",
+  "photos": [
+    {
+      "id": 90070251,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/90070251/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/90070251/large.jpeg",
+      "attribution": "(c) Adam Bryant, some rights reserved (CC BY-NC), uploaded by Adam Bryant",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/36291700"
+    },
+    {
+      "id": 4134246,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4134246/medium.",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4134246/large.",
+      "attribution": "(c) Christian Schwarz, some rights reserved (CC BY-NC), uploaded by Christian Schwarz",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/36291701"
+    },
+    {
+      "id": 221860250,
+      "mediumUrl": "https://static.inaturalist.org/photos/221860250/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/221860250/large.jpg",
+      "attribution": "(c) FriedSonoma, all rights reserved, uploaded by FriedSonoma",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/36291702"
+    },
+    {
+      "id": 90805554,
+      "mediumUrl": "https://static.inaturalist.org/photos/90805554/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/90805554/large.jpg",
+      "attribution": "(c) Ed Lickey, all rights reserved, uploaded by Ed Lickey",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/36291703"
+    },
+    {
+      "id": 153216086,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153216086/medium.png",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153216086/large.png",
+      "attribution": "(c) maricel patino, some rights reserved (CC BY-NC), uploaded by maricel patino",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/36291704"
+    },
+    {
+      "id": 13819263,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13819263/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13819263/large.jpg",
+      "attribution": "(c) williammay1972, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/10043163"
+    },
+    {
+      "id": 50671799,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50671799/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50671799/large.jpg",
+      "attribution": "(c) Andrew P. Aldrich, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/32315029"
+    },
+    {
+      "id": 33631718,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33631718/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33631718/large.jpeg",
+      "attribution": "(c) Erlon Bailey, some rights reserved (CC BY-SA)",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/21718596"
+    },
+    {
+      "id": 33631720,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33631720/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33631720/large.jpeg",
+      "attribution": "(c) Erlon Bailey, some rights reserved (CC BY-SA)",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/21718596"
+    },
+    {
+      "id": 33631722,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33631722/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33631722/large.jpeg",
+      "attribution": "(c) Erlon Bailey, some rights reserved (CC BY-SA)",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/21718596"
+    },
+    {
+      "id": 33631724,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33631724/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33631724/large.jpeg",
+      "attribution": "(c) Erlon Bailey, some rights reserved (CC BY-SA)",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/21718596"
+    },
+    {
+      "id": 216184535,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/216184535/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/216184535/large.jpg",
+      "attribution": "(c) neondomain01, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/127343955"
+    },
+    {
+      "id": 216184556,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/216184556/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/216184556/large.jpg",
+      "attribution": "(c) neondomain01, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/127343955"
+    },
+    {
+      "id": 147759805,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147759805/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147759805/large.jpg",
+      "attribution": "no rights reserved",
+      "licenseCode": "cc0",
+      "observationUrl": "https://www.inaturalist.org/observations/89473558"
+    },
+    {
+      "id": 147759846,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147759846/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147759846/large.jpg",
+      "attribution": "no rights reserved",
+      "licenseCode": "cc0",
+      "observationUrl": "https://www.inaturalist.org/observations/89473558"
+    },
+    {
+      "id": 256403940,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/256403940/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/256403940/large.jpeg",
+      "attribution": "(c) lildirtfoot, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/135378806"
+    }
+  ],
+  "nameStory": "The salmon pinkgill gets its name from two key features that make it easy to remember - its warm orange cap that resembles the color of salmon flesh, and its distinctive pinkish-brown spore print that's characteristic of the pinkgill family. Like all pinkgills, when you take a spore print by placing the cap gill-side down on white paper overnight, you'll see those telltale pink-brown spores that give this whole group its common name.",
+  "description": "The salmon pinkgill is a small to medium-sized mushroom with a bright orange cap that really catches your eye in the forest. It's quite petite, with caps reaching only about 1.5 inches across, but the stem can stretch up to 4 inches tall, giving it a somewhat elegant appearance. This colorful little fungus belongs to the pinkgill family, a group known for their pink to brown spore prints. You'll often find them growing from the soil near coniferous trees, especially after periods of rain.",
+  "idTips": [
+    {
+      "label": "Spore Print",
+      "description": "The pinkish-brown spore print is the most reliable way to confirm you've found a pinkgill - place the cap gill-side down on white paper overnight to see this diagnostic feature",
+      "isPrimary": true
+    },
+    {
+      "label": "Cap",
+      "description": "Bright orange cap up to 1.5 inches wide with a smooth texture that feels slightly sticky when moist",
+      "isPrimary": false
+    },
+    {
+      "label": "Stem",
+      "description": "Slender stem reaching up to 4 inches tall, usually paler than the cap and lacking any ring or bulbous base",
+      "isPrimary": false
+    },
+    {
+      "label": "Gills",
+      "description": "Gills start pale but develop pinkish tones as spores mature, attached to the stem in a way that creates small notches",
+      "isPrimary": false
+    },
+    {
+      "label": "Smell",
+      "description": "Pleasant, mild mushroomy smell without any strong or unpleasant odors",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for salmon pinkgills in coniferous forests throughout New England, particularly under pine, spruce, and fir trees. They prefer moist, rich soil and often appear along forest paths or in clearings where the soil stays consistently damp. You'll find them growing directly from the ground rather than on rotting wood.",
+  "seasonality": {
+    "spring": "Early salmon pinkgills may appear in late spring after warm rains, especially in southern New England where the season starts earlier.",
+    "summer": "Peak season for salmon pinkgills, with the most abundant fruiting occurring after summer thunderstorms provide the moisture they need.",
+    "fall": "Fruiting continues into early fall, particularly during the wet September weather that's common in New England.",
+    "winter": "No active fruiting - the mushrooms have released their spores and the mycelium rests underground until conditions improve."
+  },
+  "funFact": "Despite being found on four different continents, the salmon pinkgill was first scientifically described right here in North America back in 1859, making it one of our 'native discoveries' that later turned out to have relatives around the world!",
+  "confusionNotes": "The salmon pinkgill can look very similar to some waxy caps (Hygrocybe species), especially the witch's hat, which also has a bright orange cap. The key difference is the spore print - waxy caps have white spores while pinkgills have that distinctive pink-brown print. Remember: 'Pink print = pinkgill!'",
+  "contextualKnowledge": "The pinkgill family (Entolomataceae) used to be much more confusing for beginners because many species were scattered across different genera, but modern classification has helped group most of the pink-spored mushrooms together, making identification more logical.",
+  "compareHints": "Among its pinkgill relatives, salmon pinkgill stands out for its consistently bright orange color - the yellow unicorn entoloma is more yellow, while the aborted entoloma often appears as irregular white blobs. The wood pinkgill grows on decaying logs rather than soil, and most other pinkgills in our region tend toward brown, gray, or purple tones rather than this species' distinctive salmon-orange hue.",
+  "relatedSpecies": [
+    {
+      "slug": "entoloma-abortivum",
+      "commonName": "Aborted entoloma",
+      "scientificName": "Entoloma abortivum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/42915513/medium.jpg",
+      "distinction": "Unlike other pinkgills in the Entoloma genus, aborted entoloma is the only one that regularly produces those characteristic lumpy, aborted forms."
+    },
+    {
+      "slug": "entoloma-murrayi",
+      "commonName": "Yellow Unicorn Entoloma",
+      "scientificName": "Entoloma murrayi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/414882/medium.JPG",
+      "distinction": "Among its many Entoloma relatives in New England, the Yellow Unicorn stands out with its bright yellow color and that signature sharp umbo - most other pinkgills lack this pronounced pointed bump."
+    },
+    {
+      "slug": "entoloma-strictius",
+      "commonName": "Straight-stalked Entoloma",
+      "scientificName": "Entoloma strictius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/96101692/medium.jpeg",
+      "distinction": "Unlike the Aborted Entoloma which often has deformed, blob-like fruiting bodies, or the colorful Salmon Pinkgill with its bright orange-pink tones, the Straight-stalked Entoloma maintains a subdued brown appearance and that signature rigid stem."
+    },
+    {
+      "slug": "entoloma-luteum",
+      "commonName": "Entoloma luteum",
+      "scientificName": "Entoloma luteum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154804569/medium.jpg",
+      "distinction": "Among New England's pinkgill species, Yellow Pinkgill stands out for its clean golden-yellow cap color - most other pinkgills are brown, gray, or other earth tones."
+    },
+    {
+      "slug": "entoloma-vernum",
+      "commonName": "Entoloma vernum",
+      "scientificName": "Entoloma vernum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4022305/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "entoloma-unicolor",
+      "commonName": "Entoloma unicolor",
+      "scientificName": "Entoloma unicolor",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159643/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "entoloma-salmoneum",
+      "commonName": "Entoloma salmoneum",
+      "scientificName": "Entoloma salmoneum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254502/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "entoloma-incanum",
+      "commonName": "Mouse-pee Pinkgill",
+      "scientificName": "Entoloma incanum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/86886846/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "entoloma-violaceum",
+      "commonName": "violet pinkgill",
+      "scientificName": "Entoloma violaceum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/302304047/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "entoloma-formosum",
+      "commonName": "Pretty Pinkgill",
+      "scientificName": "Entoloma formosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29814876/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "entoloma-indigoferum",
+      "commonName": "Entoloma indigoferum",
+      "scientificName": "Entoloma indigoferum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/92072785/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "entoloma-rhodopolium",
+      "commonName": "Wood Pinkgill",
+      "scientificName": "Entoloma rhodopolium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29640418/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "entoloma-conicum",
+      "commonName": "Entoloma conicum",
+      "scientificName": "Entoloma conicum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18563596/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "entoloma-serrulatum",
+      "commonName": "Blue Edge Pinkgill",
+      "scientificName": "Entoloma serrulatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/245403999/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-alboumbonatum",
+      "commonName": "Entoloma alboumbonatum",
+      "scientificName": "Entoloma alboumbonatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46005961/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-bicolor",
+      "commonName": "Entoloma bicolor",
+      "scientificName": "Entoloma bicolor",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159295/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-flavoviride",
+      "commonName": "Entoloma flavoviride",
+      "scientificName": "Entoloma flavoviride",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158819244/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-griseum",
+      "commonName": "Entoloma griseum",
+      "scientificName": "Entoloma griseum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/56512483/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-cuspidiferum",
+      "commonName": "Entoloma cuspidiferum",
+      "scientificName": "Entoloma cuspidiferum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/89779318/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-foliomarginatum",
+      "commonName": "Entoloma foliomarginatum",
+      "scientificName": "Entoloma foliomarginatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/84798475/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-carolinianum",
+      "commonName": "Entoloma carolinianum",
+      "scientificName": "Entoloma carolinianum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/174213570/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-lividoalbum",
+      "commonName": "Entoloma lividoalbum",
+      "scientificName": "Entoloma lividoalbum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/169144269/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-sericellum",
+      "commonName": "Cream Pinkgill",
+      "scientificName": "Entoloma sericellum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/1549920/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-sinuatum",
+      "commonName": "livid pinkgill",
+      "scientificName": "Entoloma sinuatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/111692094/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-subsinuatum",
+      "commonName": "Entoloma subsinuatum",
+      "scientificName": "Entoloma subsinuatum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/22452106/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entocybe-speciosa",
+      "commonName": "Entocybe speciosa",
+      "scientificName": "Entocybe speciosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227192910/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-pleurotoides",
+      "commonName": "Entoloma pleurotoides",
+      "scientificName": "Entoloma pleurotoides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/566345646/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-nidorosum",
+      "commonName": "Entoloma nidorosum",
+      "scientificName": "Entoloma nidorosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/102265476/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-canadense",
+      "commonName": "Entoloma canadense",
+      "scientificName": "Entoloma canadense",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156874906/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-bloxamii",
+      "commonName": "Bloxam's Entoloma",
+      "scientificName": "Entoloma bloxamii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1846840/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-parasiticum",
+      "commonName": "Entoloma parasiticum",
+      "scientificName": "Entoloma parasiticum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/103355292/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-clypeatum",
+      "commonName": "Shield Pinkgill",
+      "scientificName": "Entoloma clypeatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/275868650/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-sericeum",
+      "commonName": "Silky Pinkgill",
+      "scientificName": "Entoloma sericeum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/30023639/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-nitidum",
+      "commonName": "Shining Pinkgill",
+      "scientificName": "Entoloma nitidum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/99982560/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-flavifolium",
+      "commonName": "Entoloma flavifolium",
+      "scientificName": "Entoloma flavifolium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133299/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-jubatum",
+      "commonName": "sepia pinkgill",
+      "scientificName": "Entoloma jubatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/447697130/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-ortonii",
+      "commonName": "Entoloma ortonii",
+      "scientificName": "Entoloma ortonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/238527300/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-subserrulatum",
+      "commonName": "Entoloma subserrulatum",
+      "scientificName": "Entoloma subserrulatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7069891/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-depluens",
+      "commonName": "Entoloma depluens",
+      "scientificName": "Entoloma depluens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19100053/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-watsonii",
+      "commonName": "Entoloma watsonii",
+      "scientificName": "Entoloma watsonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23567951/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-conferendum",
+      "commonName": "star pinkgill",
+      "scientificName": "Entoloma conferendum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/160175562/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-turbidum",
+      "commonName": "yellowfoot pinkgill",
+      "scientificName": "Entoloma turbidum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46080113/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-fuscotomentosum",
+      "commonName": "Entoloma fuscotomentosum",
+      "scientificName": "Entoloma fuscotomentosum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/167020952/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-fuscosquamosum",
+      "commonName": "Entoloma fuscosquamosum",
+      "scientificName": "Entoloma fuscosquamosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/224360146/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-milthalerae",
+      "commonName": "Entoloma milthalerae",
+      "scientificName": "Entoloma milthalerae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/585816035/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-pseudoconferendum",
+      "commonName": "Entoloma pseudoconferendum",
+      "scientificName": "Entoloma pseudoconferendum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/581843022/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "entoloma-rhodocylicioides",
+      "commonName": "Entoloma rhodocylicioides",
+      "scientificName": "Entoloma rhodocylicioides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133334/medium.jpeg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Entoloma_quadratum",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/362917"
+}

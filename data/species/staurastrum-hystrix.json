@@ -1,0 +1,356 @@
+{
+  "slug": "staurastrum-hystrix",
+  "taxonId": 1010144,
+  "group": "plants",
+  "commonName": "Staurastrum hystrix",
+  "scientificName": "Staurastrum hystrix",
+  "family": "Desmidiaceae",
+  "familyCommonName": "Desmidiaceae",
+  "genus": "Staurastrum",
+  "genusCommonName": "Staurastrum",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Desmidiaceae",
+      "rank": "family",
+      "slug": "explore/desmidiaceae"
+    },
+    {
+      "label": "Staurastrum",
+      "rank": "genus",
+      "slug": "explore/staurastrum"
+    },
+    {
+      "label": "Staurastrum hystrix",
+      "rank": "species",
+      "slug": "species/staurastrum-hystrix"
+    }
+  ],
+  "observationCount": 4,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 59870944,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59870944/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59870944/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC), uploaded by Karolina Fucikova",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/101014400"
+    },
+    {
+      "id": 138365974,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/138365974/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/138365974/large.jpg",
+      "attribution": "(c) jennycall, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/84202491"
+    },
+    {
+      "id": 135270903,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135270903/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135270903/large.jpg",
+      "attribution": "(c) molliemagner, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/82423408"
+    },
+    {
+      "id": 135270885,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135270885/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135270885/large.jpg",
+      "attribution": "(c) molliemagner, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/82423406"
+    },
+    {
+      "id": 138365992,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/138365992/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/138365992/large.jpg",
+      "attribution": "(c) jennycall, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/84202491"
+    }
+  ],
+  "nameStory": "Staurastrum hystrix gets its name from the Greek 'stauros' meaning cross and 'astron' meaning star, describing its distinctive star-like shape when viewed from above. The species name 'hystrix' comes from the Latin word for porcupine, referring to the spiny projections that stick out from this tiny algae like quills on a porcupine's back.",
+  "description": "Staurastrum hystrix is a microscopic single-celled green algae that lives in freshwater ponds and lakes throughout New England. This tiny organism is shaped like a flattened star or cross when viewed from above, with spiny arms radiating outward from a central body. Each cell is incredibly small - you'd need a microscope to see one clearly - but they sometimes form visible green films or clusters in the water. Like other desmids, each cell is actually made of two symmetrical halves joined at the middle, giving it a distinctive pinched-waist appearance.",
+  "idTips": [
+    {
+      "label": "Star-shaped outline",
+      "description": "When viewed from above under magnification, the cell forms a distinct star or cross pattern with arms radiating from the center",
+      "isPrimary": true
+    },
+    {
+      "label": "Spiny projections",
+      "description": "Sharp, spine-like extensions protrude from the cell arms, giving it a bristly, porcupine-like appearance",
+      "isPrimary": false
+    },
+    {
+      "label": "Symmetrical halves",
+      "description": "The cell shows a clear constriction at the middle where two mirror-image halves join together",
+      "isPrimary": false
+    },
+    {
+      "label": "Bright green color",
+      "description": "Individual cells appear vibrant green under the microscope due to their chlorophyll content",
+      "isPrimary": false
+    },
+    {
+      "label": "Size and scale",
+      "description": "Extremely small - typically 30-50 micrometers across, requiring at least 400x magnification to see clearly",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Staurastrum hystrix inhabits clean, nutrient-poor freshwater environments like mountain ponds, bog pools, and the clearer sections of lakes throughout New England's higher elevations. It prefers slightly acidic water with low mineral content, often found in association with sphagnum moss and other acid-loving aquatic plants. You're most likely to encounter it in remote woodland ponds or the shallow margins of pristine lakes, particularly in the White Mountains, Green Mountains, and Adirondack regions.",
+  "seasonality": {
+    "spring": "Most active during late spring warming when ice melts and daylight increases, often forming small populations in shallow pond margins. This is when reproduction is most vigorous.",
+    "summer": "Peak abundance occurs in mid-summer when warm temperatures and long daylight hours provide optimal growing conditions. Look for faint green tints in clear pond water.",
+    "fall": "Populations begin to decline as temperatures drop and daylight shortens, though some individuals persist in protected areas. Cells may appear less vibrant green.",
+    "winter": "Largely dormant or present in very low numbers under ice cover. Some cells survive in deeper water or as resistant stages in pond sediments."
+  },
+  "funFact": "Despite being a single cell smaller than the width of a human hair, Staurastrum hystrix is actually a masterpiece of biological architecture - each spiny arm contains specialized compartments that can rapidly change the cell's buoyancy, allowing it to literally 'jet propel' itself up and down in the water column to find the perfect light conditions for photosynthesis!",
+  "confusionNotes": "Staurastrum hystrix can be confused with other spiny desmids, but its distinctive porcupine-like spines and star-shaped outline set it apart. Remember: 'hystrix like porcupine spikes' - if it looks like a microscopic green sea urchin or porcupine, you've likely found the right species.",
+  "contextualKnowledge": "While called an 'algae,' desmids like Staurastrum are actually more closely related to land plants than to the seaweeds most people picture when they hear 'algae.' These microscopic organisms are considered living indicators of water quality - finding them suggests you're looking at relatively pristine, unpolluted water.",
+  "compareHints": "Staurastrum hystrix differs from its relatives by having particularly long, sharp spines that give it the distinctive 'porcupine' appearance referenced in its name. While other Staurastrum species may have bumps, knobs, or short projections, S. hystrix has the most pronounced spiny armor. Its star shape is also more angular and defined compared to the rounder or more oval outlines of species like S. orbiculare.",
+  "relatedSpecies": [
+    {
+      "slug": "staurastrum-arctiscon",
+      "commonName": "Staurastrum arctiscon",
+      "scientificName": "Staurastrum arctiscon",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/160290170/medium.jpg",
+      "distinction": "Staurastrum arctiscon differs from its relatives like S."
+    },
+    {
+      "slug": "staurastrum-longispinum",
+      "commonName": "Staurastrum longispinum",
+      "scientificName": "Staurastrum longispinum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/87797092/medium.jpg",
+      "distinction": "Staurastrum longispinum is distinguished from its many relatives primarily by spine length - its projections are proportionally much longer than species like S."
+    },
+    {
+      "slug": "staurastrum-cerastes",
+      "commonName": "Staurastrum cerastes",
+      "scientificName": "Staurastrum cerastes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/79407680/medium.jpg",
+      "distinction": "Staurastrum cerastes can be distinguished from its many relatives by its specific horn arrangement and proportions - it has more pronounced, longer projections than species like S."
+    },
+    {
+      "slug": "staurastrum-ophiura",
+      "commonName": "Staurastrum ophiura",
+      "scientificName": "Staurastrum ophiura",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8390668/medium.jpg",
+      "distinction": "Staurastrum ophiura differs from its many relatives by its distinctively curved spines - while species like S."
+    },
+    {
+      "slug": "staurastrum-tetracerum",
+      "commonName": "Staurastrum tetracerum",
+      "scientificName": "Staurastrum tetracerum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/166989858/medium.jpg",
+      "distinction": "Staurastrum tetracerum differs from its relatives by having exactly four prominent projections of moderate length, whereas species like S."
+    },
+    {
+      "slug": "staurastrum-sublaevispinum",
+      "commonName": "Staurastrum sublaevispinum",
+      "scientificName": "Staurastrum sublaevispinum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288844072/medium.jpg",
+      "distinction": "Among its Staurastrum relatives in New England, sublaevispinum stands out for its relatively modest ornamentation - while species like S."
+    },
+    {
+      "slug": "staurastrum-alternans",
+      "commonName": "Staurastrum alternans",
+      "scientificName": "Staurastrum alternans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2227203/medium.jpg",
+      "distinction": "Staurastrum alternans differs from its many relatives in the genus by its specific alternating arrangement of cellular features, which gives it its species name."
+    },
+    {
+      "slug": "staurastrum-furcigerum",
+      "commonName": "Staurastrum furcigerum",
+      "scientificName": "Staurastrum furcigerum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61267453/medium.jpg",
+      "distinction": "Staurastrum furcigerum stands out from its many relatives by having distinctly forked or branched spines, while most other Staurastrum species have simple, unbranched spines."
+    },
+    {
+      "slug": "staurastrum-leptocladum",
+      "commonName": "Staurastrum leptocladum",
+      "scientificName": "Staurastrum leptocladum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2457358/medium.jpg",
+      "distinction": "Among its many Staurastrum relatives in New England waters, S."
+    },
+    {
+      "slug": "staurastrum-hirsutum",
+      "commonName": "Staurastrum hirsutum",
+      "scientificName": "Staurastrum hirsutum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182006689/medium.jpg",
+      "distinction": "Staurastrum hirsutum can be distinguished from its relatives by its distinctly hairy or bristly projections - most other Staurastrum species have smooth arms or different spine patterns."
+    },
+    {
+      "slug": "staurastrum-wolleanum",
+      "commonName": "Staurastrum wolleanum",
+      "scientificName": "Staurastrum wolleanum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2095141/medium.jpg",
+      "distinction": "Staurastrum wolleanum differs from its relatives by having relatively short, broad arms compared to species like S."
+    },
+    {
+      "slug": "staurastrum-avicula",
+      "commonName": "Staurastrum avicula",
+      "scientificName": "Staurastrum avicula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41273797/medium.jpg",
+      "distinction": "Staurastrum avicula differs from its relatives by having relatively few, smooth projections compared to the many spiny arms of S."
+    },
+    {
+      "slug": "staurastrum-elongatum",
+      "commonName": "Staurastrum elongatum",
+      "scientificName": "Staurastrum elongatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/335941466/medium.jpeg",
+      "distinction": "Among its Staurastrum relatives, elongatum stands out for its distinctly stretched proportions - while species like S."
+    },
+    {
+      "slug": "staurastrum-margaritaceum",
+      "commonName": "Staurastrum margaritaceum",
+      "scientificName": "Staurastrum margaritaceum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8159584/medium.jpg",
+      "distinction": "Compared to other Staurastrum species in New England waters, margaritaceum is distinguished by its relatively smooth arms without prominent spines and its characteristic pearlescent cell wall."
+    },
+    {
+      "slug": "staurastrum-anatinum",
+      "commonName": "Staurastrum anatinum",
+      "scientificName": "Staurastrum anatinum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8323274/medium.jpg",
+      "distinction": "Staurastrum anatinum differs from its relatives by its specific spine arrangement and 'duck-like' profile that inspired its species name."
+    },
+    {
+      "slug": "staurastrum-brachiatum",
+      "commonName": "Staurastrum brachiatum",
+      "scientificName": "Staurastrum brachiatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59851407/medium.jpg",
+      "distinction": "Staurastrum brachiatum differs from its relatives by having distinctly branched arm tips rather than simple spines (like S."
+    },
+    {
+      "slug": "staurastrum-inconspicuum",
+      "commonName": "Staurastrum inconspicuum",
+      "scientificName": "Staurastrum inconspicuum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/294103175/medium.jpg",
+      "distinction": "Compared to its Staurastrum relatives, S."
+    },
+    {
+      "slug": "staurastrum-aculeatum",
+      "commonName": "Staurastrum aculeatum",
+      "scientificName": "Staurastrum aculeatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8159289/medium.jpg",
+      "distinction": "Staurastrum aculeatum differs from its many relatives by having more regularly arranged spines and a more symmetrical star shape compared to species like S."
+    },
+    {
+      "slug": "staurastrum-orbiculare",
+      "commonName": "Staurastrum orbiculare",
+      "scientificName": "Staurastrum orbiculare",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/539626759/medium.jpg",
+      "distinction": "Compared to its Staurastrum relatives, S."
+    },
+    {
+      "slug": "staurastrum-grallatorium",
+      "commonName": "Staurastrum grallatorium",
+      "scientificName": "Staurastrum grallatorium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2227048/medium.jpg",
+      "distinction": "Staurastrum grallatorium differs from its many relatives in the genus by the specific arrangement and length of its projecting arms or spines, though these differences require high-powered microscopy to distinguish."
+    },
+    {
+      "slug": "staurastrum-ankyroides",
+      "commonName": "Staurastrum ankyroides",
+      "scientificName": "Staurastrum ankyroides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61279778/medium.jpg",
+      "distinction": "Staurastrum ankyroides differs from its relatives by having anchor-shaped terminal projections rather than simple spines (like S."
+    },
+    {
+      "slug": "staurastrum-tohopekaligense",
+      "commonName": "Staurastrum tohopekaligense",
+      "scientificName": "Staurastrum tohopekaligense",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61269553/medium.jpg",
+      "distinction": "Distinguished from other New England Staurastrum species by its specific pattern of radiating arms and overall cell proportions, though definitive identification requires careful microscopic examination."
+    },
+    {
+      "slug": "staurastrum-bicorne",
+      "commonName": "Staurastrum bicorne",
+      "scientificName": "Staurastrum bicorne",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8431702/medium.jpg",
+      "distinction": "Staurastrum bicorne differs from its many relatives by having exactly two horn-like projections rather than multiple arms, spines, or complex branching patterns."
+    },
+    {
+      "slug": "staurastrum-pilosum",
+      "commonName": "Staurastrum pilosum",
+      "scientificName": "Staurastrum pilosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8470074/medium.jpg",
+      "distinction": "Differs from other Staurastrum species primarily in its hairy appearance - while relatives like S."
+    },
+    {
+      "slug": "staurastrum-spongiosum",
+      "commonName": "Staurastrum spongiosum",
+      "scientificName": "Staurastrum spongiosum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/363393055/medium.jpg",
+      "distinction": "Staurastrum spongiosum differs from its many relatives in the same genus primarily by its distinctly spongy, porous cell wall texture - most other Staurastrum species have smooth walls or different types of ornamentation like spines or ridges."
+    },
+    {
+      "slug": "staurastrum-grande",
+      "commonName": "Staurastrum grande",
+      "scientificName": "Staurastrum grande",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41573534/medium.jpg",
+      "distinction": "Staurastrum grande stands out from its relatives primarily by its larger size and more elaborate projections."
+    },
+    {
+      "slug": "staurastrum-brevispina",
+      "commonName": "Staurastrum brevispina",
+      "scientificName": "Staurastrum brevispina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/333819340/medium.jpg",
+      "distinction": "Staurastrum brevispina differs from its relatives primarily in spine length - while species like S."
+    },
+    {
+      "slug": "staurastrum-dilatatum",
+      "commonName": "Staurastrum dilatatum",
+      "scientificName": "Staurastrum dilatatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/419071605/medium.jpg",
+      "distinction": "Staurastrum dilatatum differs from its relatives by its distinctly flattened, widened appearance - while species like S."
+    },
+    {
+      "slug": "staurastrum-anchora",
+      "commonName": "Staurastrum anchora",
+      "scientificName": "Staurastrum anchora",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59853298/medium.jpg",
+      "distinction": "Staurastrum anchora differs from its relatives by its distinctive anchor-shaped projections with bifurcated tips, while species like S."
+    },
+    {
+      "slug": "staurastrum-lapponicum",
+      "commonName": "Staurastrum lapponicum",
+      "scientificName": "Staurastrum lapponicum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/184917574/medium.jpg",
+      "distinction": "Compared to other New England Staurastrum species, lapponicum has relatively short, blunt projections rather than the long spines of species like longispinum or the complex branching of furcigerum."
+    },
+    {
+      "slug": "staurastrum-minnesotense",
+      "commonName": "Staurastrum minnesotense",
+      "scientificName": "Staurastrum minnesotense",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/291292762/medium.jpg",
+      "distinction": "Staurastrum minnesotense differs from its many relatives in the genus by its specific arm configuration and proportions - while species like S."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1010144"
+}

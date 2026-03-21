@@ -1,0 +1,185 @@
+{
+  "slug": "leiobunum-uxorium",
+  "taxonId": 525627,
+  "group": "arachnids",
+  "commonName": "Leiobunum uxorium",
+  "scientificName": "Leiobunum uxorium",
+  "family": "Sclerosomatidae",
+  "familyCommonName": "Sclerosomatid Harvestmen",
+  "genus": "Leiobunum",
+  "genusCommonName": "Leiobunum",
+  "order": "Opiliones",
+  "orderCommonName": "Harvestmen",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Harvestmen",
+      "rank": "order",
+      "slug": "explore/harvestmen"
+    },
+    {
+      "label": "Sclerosomatid Harvestmen",
+      "rank": "family",
+      "slug": "explore/sclerosomatid-harvestmen"
+    },
+    {
+      "label": "Leiobunum",
+      "rank": "genus",
+      "slug": "explore/leiobunum"
+    },
+    {
+      "label": "Leiobunum uxorium",
+      "rank": "species",
+      "slug": "species/leiobunum-uxorium"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 11946109,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11946109/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11946109/large.jpg",
+      "attribution": "(c) Judy Gallagher, some rights reserved (CC BY-SA), uploaded by Judy Gallagher",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/52562700"
+    },
+    {
+      "id": 55198118,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55198118/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55198118/large.jpg",
+      "attribution": "(c) Peter Wilson, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/35023334"
+    }
+  ],
+  "nameStory": "The scientific name 'uxorium' comes from the Latin word for 'wife' or 'of wives,' though the exact reason for this naming remains a mystery lost to taxonomic history. Perhaps the scientist who named it observed something about the mating behavior or found it in association with female specimens, but we can only guess at the romantic story behind this harvestman's name.",
+  "description": "This harvestman, also known as a daddy longlegs, is one of the less common members of the Leiobunum family in New England. Like all harvestmen, it has a compact, oval body with extremely long, thin legs that can span several inches. Unlike spiders, harvestmen have their body parts fused together into what looks like a single unit, and they don't spin webs or have venom. This particular species is so rare in our region that it's been documented only once in New England.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Compact, oval body that feels hard like a small pebble when gently touched, with all segments fused together unlike spiders which have a distinct waist",
+      "isPrimary": true
+    },
+    {
+      "label": "Legs",
+      "description": "Eight extremely long, thread-like legs that are several times the body length and feel surprisingly delicate, breaking off easily if grabbed",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Body typically smaller than a fingernail, but leg span can reach 2-3 inches across when fully extended",
+      "isPrimary": false
+    },
+    {
+      "label": "Eyes",
+      "description": "Two small, dark eyes positioned on a tiny turret or bump on top of the body, giving it a periscope-like appearance",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Moves with a characteristic swaying, bouncing gait and often gathers in groups, especially in cool, damp areas during the day",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Based on its rarity in New England, this species likely prefers specific microhabitats that are uncommon in our region. Look for it in undisturbed deciduous or mixed forests with rich, moist soil and plenty of leaf litter. It probably favors areas with consistent moisture and protection from direct sunlight, such as north-facing slopes or areas near streams.",
+  "seasonality": {
+    "spring": "Adults may begin emerging as temperatures warm, likely found under logs or in leaf litter where they've overwintered as juveniles.",
+    "summer": "Peak activity period when adults are most likely to be spotted, especially during humid evenings or after rain when they venture out to hunt.",
+    "fall": "Mating season when you might spot them more frequently, though still extremely rare in New England. Look for small clusters in protected areas.",
+    "winter": "Takes shelter deep in leaf litter, under rocks, or in other protected spots where they remain dormant until spring warmth returns."
+  },
+  "funFact": "This harvestman is so uncommon in New England that it's been documented here only once, making any sighting a truly special discovery that could contribute valuable data to our understanding of New England's arachnid diversity!",
+  "confusionNotes": "Most easily confused with other Leiobunum harvestmen, especially the common Eastern Harvestman. The key is that finding any Leiobunum uxorium in New England would be extremely noteworthy - if you think you've found one, take photos and consider reporting it to local naturalist groups since confirmed sightings are so rare here.",
+  "contextualKnowledge": "Many people call harvestmen 'daddy longlegs,' but this name is also used for cellar spiders and crane flies, creating confusion. True harvestmen like this one are arachnids but not spiders - they're more like the arachnid equivalent of your quirky cousin who's related but definitely does their own thing.",
+  "compareHints": "Distinguishing this species from its more common Leiobunum relatives requires close examination of subtle features like leg proportions and body markings that are difficult to see in the field. The Eastern Harvestman is by far the most common Leiobunum species in New England, so any harvestman you find is statistically much more likely to be that species. If you suspect you've found L. uxorium, detailed photos and expert verification would be essential given its rarity in our region.",
+  "relatedSpecies": [
+    {
+      "slug": "leiobunum-vittatum",
+      "commonName": "Eastern Harvestman",
+      "scientificName": "Leiobunum vittatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/90526785/medium.jpg",
+      "distinction": "The Eastern Harvestman is one of the most common Leiobunum species in New England and tends to be more uniformly brown than its relatives."
+    },
+    {
+      "slug": "leiobunum-aldrichi",
+      "commonName": "Aldrich's Harvestman",
+      "scientificName": "Leiobunum aldrichi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2784299/medium.jpg",
+      "distinction": "Aldrich's Harvestman is very difficult to distinguish from its close relatives like the Eastern Harvestman without examining fine details under magnification."
+    },
+    {
+      "slug": "leiobunum-nigropalpi",
+      "commonName": "Leiobunum nigropalpi",
+      "scientificName": "Leiobunum nigropalpi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5507561/medium.jpeg",
+      "distinction": "Among its Leiobunum relatives in New England, nigropalpi is distinguished primarily by its dark palps, while the Eastern Harvestman (L."
+    },
+    {
+      "slug": "leiobunum-ventricosum",
+      "commonName": "Leiobunum ventricosum",
+      "scientificName": "Leiobunum ventricosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1317348/medium.jpg",
+      "distinction": "Distinguishing L."
+    },
+    {
+      "slug": "leiobunum-verrucosum",
+      "commonName": "Warty Harvestman",
+      "scientificName": "Leiobunum verrucosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2208649/medium.jpg",
+      "distinction": "Among its Leiobunum relatives, the Warty Harvestman is the only one with pronounced bumpy texture on its body - the Eastern Harvestman and other cousins have smooth, unmarked backs that feel sleek to the touch."
+    },
+    {
+      "slug": "leiobunum-politum",
+      "commonName": "Leiobunum politum",
+      "scientificName": "Leiobunum politum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9278468/medium.jpeg",
+      "distinction": "Among its Leiobunum relatives in New England, the Polished Harvestman stands out for its exceptionally smooth, glossy body surface - the Eastern Harvestman has a more matte finish, while the Warty Harvestman lives up to its name with obvious bumps and texture."
+    },
+    {
+      "slug": "leiobunum-calcar",
+      "commonName": "Leiobunum calcar",
+      "scientificName": "Leiobunum calcar",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9306027/medium.jpeg",
+      "distinction": "Distinguishing Leiobunum calcar from other harvestmen in its genus requires close examination of subtle features like leg length ratios and body markings."
+    },
+    {
+      "slug": "leiobunum-bracchiolum",
+      "commonName": "Leiobunum bracchiolum",
+      "scientificName": "Leiobunum bracchiolum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147882418/medium.jpeg",
+      "distinction": "Distinguishing this species from other Leiobunum harvestmen requires close examination of details like leg proportions and body markings that aren't easily visible in the field."
+    },
+    {
+      "slug": "leiobunum-flavum",
+      "commonName": "Golden Harvestman",
+      "scientificName": "Leiobunum flavum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/497817792/medium.jpg",
+      "distinction": "Among the Leiobunum harvestmen in New England, the Golden Harvestman is the only one with that distinctive golden-yellow body coloration."
+    },
+    {
+      "slug": "leiobunum-formosum",
+      "commonName": "Leiobunum formosum",
+      "scientificName": "Leiobunum formosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23521562/medium.jpg",
+      "distinction": "Leiobunum formosum can be distinguished from its common relative the Eastern Harvestman by its notably glossier, more reflective body surface and slightly more compact build."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Leiobunum_uxorium",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/525627"
+}

@@ -1,0 +1,935 @@
+{
+  "id": 20978,
+  "name": "Amphibia",
+  "commonName": "Amphibians",
+  "rank": "class",
+  "speciesCount": 28,
+  "children": [
+    {
+      "id": 20979,
+      "name": "Anura",
+      "commonName": "Frogs and Toads",
+      "rank": "order",
+      "speciesCount": 17,
+      "children": [
+        {
+          "id": 25473,
+          "name": "Ranidae",
+          "commonName": "Typical Frogs",
+          "rank": "family",
+          "speciesCount": 7,
+          "children": [
+            {
+              "id": 60340,
+              "name": "Lithobates",
+              "commonName": "American Water Frogs",
+              "rank": "genus",
+              "speciesCount": 7,
+              "children": [
+                {
+                  "id": 65982,
+                  "name": "Lithobates clamitans",
+                  "commonName": "Green Frog",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 65982,
+                      "name": "Lithobates clamitans",
+                      "commonName": "Green Frog",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "green-frog",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/7660373/medium.jpg"
+                    }
+                  ],
+                  "slug": "green-frog",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/7660373/medium.jpg"
+                },
+                {
+                  "id": 66012,
+                  "name": "Lithobates sylvaticus",
+                  "commonName": "Wood Frog",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 66012,
+                      "name": "Lithobates sylvaticus",
+                      "commonName": "Wood Frog",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "wood-frog",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/240940498/medium.jpg"
+                    }
+                  ],
+                  "slug": "wood-frog",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/240940498/medium.jpg"
+                },
+                {
+                  "id": 65979,
+                  "name": "Lithobates catesbeianus",
+                  "commonName": "American Bullfrog",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 65979,
+                      "name": "Lithobates catesbeianus",
+                      "commonName": "American Bullfrog",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "american-bullfrog",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4654051/medium.jpg"
+                    }
+                  ],
+                  "slug": "american-bullfrog",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4654051/medium.jpg"
+                },
+                {
+                  "id": 66002,
+                  "name": "Lithobates palustris",
+                  "commonName": "Pickerel Frog",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 66002,
+                      "name": "Lithobates palustris",
+                      "commonName": "Pickerel Frog",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "pickerel-frog",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32616817/medium.jpeg"
+                    }
+                  ],
+                  "slug": "pickerel-frog",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32616817/medium.jpeg"
+                },
+                {
+                  "id": 66003,
+                  "name": "Lithobates pipiens",
+                  "commonName": "Northern Leopard Frog",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 66003,
+                      "name": "Lithobates pipiens",
+                      "commonName": "Northern Leopard Frog",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "northern-leopard-frog",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1304/medium.jpg"
+                    }
+                  ],
+                  "slug": "northern-leopard-frog",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1304/medium.jpg"
+                },
+                {
+                  "id": 66007,
+                  "name": "Lithobates septentrionalis",
+                  "commonName": "Mink Frog",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 66007,
+                      "name": "Lithobates septentrionalis",
+                      "commonName": "Mink Frog",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "mink-frog",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/143293164/medium.jpg"
+                    }
+                  ],
+                  "slug": "mink-frog",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/143293164/medium.jpg"
+                },
+                {
+                  "id": 424676,
+                  "name": "Lithobates kauffeldi",
+                  "commonName": "Atlantic Coast Leopard Frog",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 424676,
+                      "name": "Lithobates kauffeldi",
+                      "commonName": "Atlantic Coast Leopard Frog",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "atlantic-coast-leopard-frog",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/474477462/medium.jpg"
+                    }
+                  ],
+                  "slug": "atlantic-coast-leopard-frog",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/474477462/medium.jpg"
+                }
+              ],
+              "slug": "american-water-frogs",
+              "description": "American Water Frogs are a diverse group of semi-aquatic amphibians that make their homes in and around New England's ponds, streams, and wetlands. These true frogs are excellent swimmers with powerful hind legs and webbed feet, and they're known for their impressive jumping abilities and distinctive calls during breeding season.",
+              "distinguishingFeatures": "Unlike tree frogs, American Water Frogs have smooth, moist skin and lack the sticky toe pads for climbing. They're generally larger and more robust than other frog families, with prominent eardrums (tympanums) visible behind their eyes.",
+              "funFact": "The American Bullfrog in this group produces the deepest call of any North American frog - a booming 'jug-o-rum' that can be heard up to a quarter mile away!"
+            }
+          ],
+          "slug": "typical-frogs",
+          "description": "Typical frogs are what most people picture when they think of frogs - smooth, moist skin and long, powerful hind legs built for jumping and swimming. These are the classic pond frogs that spend much of their time in or near water, with webbed feet that make them excellent swimmers. They're found around the world and represent the largest family of frogs on Earth.",
+          "distinguishingFeatures": "Unlike tree frogs with their sticky toe pads or toads with their bumpy, dry skin, typical frogs have smooth, slippery skin and are strongly adapted for aquatic life. Their long hind legs and webbed feet make them much better jumpers and swimmers than most other frog families.",
+          "funFact": "Many typical frogs can leap more than 20 times their own body length - imagine if humans could jump nearly 120 feet in a single bound!"
+        },
+        {
+          "id": 1658175,
+          "name": "Hylidae",
+          "commonName": "Hyline Tree Frogs",
+          "rank": "family",
+          "speciesCount": 6,
+          "children": [
+            {
+              "id": 1668830,
+              "name": "Dryophytes",
+              "commonName": "Dryophytes",
+              "rank": "genus",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 1668923,
+                  "name": "Dryophytes versicolor",
+                  "commonName": "Gray Treefrog",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 1668923,
+                      "name": "Dryophytes versicolor",
+                      "commonName": "Gray Treefrog",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "gray-treefrog",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/40622/medium.jpg"
+                    }
+                  ],
+                  "slug": "gray-treefrog",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/40622/medium.jpg"
+                },
+                {
+                  "id": 1668858,
+                  "name": "Dryophytes cinereus",
+                  "commonName": "Green Treefrog",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 1668858,
+                      "name": "Dryophytes cinereus",
+                      "commonName": "Green Treefrog",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "green-treefrog",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4065940/medium.jpg"
+                    }
+                  ],
+                  "slug": "green-treefrog",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4065940/medium.jpg"
+                },
+                {
+                  "id": 1668859,
+                  "name": "Dryophytes squirellus",
+                  "commonName": "Squirrel Tree Frog",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 1668859,
+                      "name": "Dryophytes squirellus",
+                      "commonName": "Squirrel Tree Frog",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "squirrel-tree-frog",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72456/medium.jpg"
+                    }
+                  ],
+                  "slug": "squirrel-tree-frog",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72456/medium.jpg"
+                }
+              ],
+              "slug": "dryophytes",
+              "description": "Dryophytes is a genus of small to medium-sized tree frogs known for their excellent climbing abilities and vibrant calls during breeding season. These arboreal amphibians have sticky toe pads that help them navigate through trees and shrubs, where they spend most of their lives hunting insects and seeking shelter. All members of this genus are skilled at changing their skin color to blend in with their surroundings.",
+              "distinguishingFeatures": "Unlike ground-dwelling frogs, Dryophytes species have enlarged toe pads with sticky surfaces that allow them to climb vertical surfaces and cling to leaves and bark. They also tend to have more vibrant, variable coloration compared to terrestrial frog species.",
+              "funFact": "Gray treefrogs in this genus can change from bright green to gray or brown in just a few minutes, helping them perfectly match the bark, leaves, or lichens where they're resting."
+            },
+            {
+              "id": 24253,
+              "name": "Pseudacris",
+              "commonName": "Chorus Frogs",
+              "rank": "genus",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 24268,
+                  "name": "Pseudacris crucifer",
+                  "commonName": "Spring Peeper",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 24268,
+                      "name": "Pseudacris crucifer",
+                      "commonName": "Spring Peeper",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "spring-peeper",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/428809700/medium.jpeg"
+                    }
+                  ],
+                  "slug": "spring-peeper",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/428809700/medium.jpeg"
+                },
+                {
+                  "id": 24259,
+                  "name": "Pseudacris regilla",
+                  "commonName": "Pacific chorus frog",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 24259,
+                      "name": "Pseudacris regilla",
+                      "commonName": "Pacific chorus frog",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "pacific-chorus-frog",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/354542914/medium.jpg"
+                    }
+                  ],
+                  "slug": "pacific-chorus-frog",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/354542914/medium.jpg"
+                }
+              ],
+              "slug": "chorus-frogs",
+              "description": "Chorus frogs are small, agile tree frogs known for their loud, distinctive calls that fill the air during breeding season. These tiny amphibians are excellent climbers, using sticky toe pads to navigate through vegetation near ponds, wetlands, and wooded areas. Despite their small size, they play important roles as both predators of insects and prey for larger animals.",
+              "distinguishingFeatures": "Chorus frogs are distinguished from other tree frogs by their typically smaller size, prominent toe pads for climbing, and their habit of calling in large groups or 'choruses' during mating season. They also tend to have more variable coloration and patterns compared to other tree frog groups.",
+              "funFact": "Spring peepers can survive being frozen solid during winter - their bodies produce a natural antifreeze that prevents ice crystals from damaging their cells!"
+            },
+            {
+              "id": 24374,
+              "name": "Osteopilus",
+              "commonName": "North Caribbean Treefrogs",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 24382,
+                  "name": "Osteopilus septentrionalis",
+                  "commonName": "Cuban Tree Frog",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 24382,
+                      "name": "Osteopilus septentrionalis",
+                      "commonName": "Cuban Tree Frog",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "cuban-tree-frog",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6174/medium.jpg"
+                    }
+                  ],
+                  "slug": "cuban-tree-frog",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6174/medium.jpg"
+                }
+              ],
+              "slug": "north-caribbean-treefrogs",
+              "description": "North Caribbean Treefrogs are a small genus of large, robust tree frogs native to the Caribbean islands. These frogs are excellent climbers with sticky toe pads that help them navigate through trees and shrubs in their tropical habitats. They are known for their impressive size compared to most other tree frog species.",
+              "distinguishingFeatures": "These frogs are much larger than typical tree frogs, with adults reaching 3-5 inches in length. They have particularly large toe pads and a more robust, muscular build compared to other tree frog genera.",
+              "funFact": "Cuban Tree Frogs are such voracious predators that they will eat almost anything that fits in their mouth, including other frogs, lizards, and even small snakes!"
+            }
+          ],
+          "slug": "hyline-tree-frogs",
+          "description": "Hyline tree frogs are a diverse family of frogs that are typically excellent climbers, spending much of their lives in trees, shrubs, and other vegetation. Most species have sticky toe pads that help them grip smooth surfaces like leaves and bark. They're known for their varied calls, from the familiar spring peeping of chorus frogs to the trilling of gray tree frogs.",
+          "distinguishingFeatures": "Unlike ground-dwelling frogs, most hylids have enlarged, adhesive toe pads and longer, more slender limbs adapted for climbing. Their skin is often smoother than terrestrial frogs and many can change color to match their surroundings.",
+          "funFact": "Some tree frogs can survive being partially frozen during winter by producing natural antifreeze compounds in their blood and tissues."
+        },
+        {
+          "id": 21359,
+          "name": "Bufonidae",
+          "commonName": "True Toads",
+          "rank": "family",
+          "speciesCount": 2,
+          "children": [
+            {
+              "id": 64747,
+              "name": "Anaxyrus",
+              "commonName": "North American Toads",
+              "rank": "genus",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 64968,
+                  "name": "Anaxyrus americanus",
+                  "commonName": "American Toad",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 64968,
+                      "name": "Anaxyrus americanus",
+                      "commonName": "American Toad",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "american-toad",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2677422/medium.jpg"
+                    }
+                  ],
+                  "slug": "american-toad",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2677422/medium.jpg"
+                },
+                {
+                  "id": 64977,
+                  "name": "Anaxyrus fowleri",
+                  "commonName": "Fowler's Toad",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 64977,
+                      "name": "Anaxyrus fowleri",
+                      "commonName": "Fowler's Toad",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "fowler-s-toad",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/54598935/medium.jpg"
+                    }
+                  ],
+                  "slug": "fowler-s-toad",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/54598935/medium.jpg"
+                }
+              ],
+              "slug": "north-american-toads",
+              "description": "North American toads in the genus Anaxyrus are stocky amphibians with dry, warty skin and short legs built for hopping rather than leaping. These true toads are perfectly adapted for life both in water and on land, spending their days hiding under logs or in burrows and emerging at night to hunt insects. They're known for their distinctive trilling calls during breeding season in spring.",
+              "distinguishingFeatures": "Unlike tree frogs, Anaxyrus toads have dry, bumpy skin covered in wart-like glands and are built closer to the ground with shorter hind legs. They also have prominent parotoid glands behind their eyes that secrete toxins for protection.",
+              "funFact": "When threatened, these toads can puff themselves up to nearly twice their normal size and secrete a milky toxin from their skin glands that tastes terrible to predators but is harmless to humans who wash their hands after handling."
+            }
+          ],
+          "slug": "true-toads",
+          "description": "True toads are amphibians with dry, warty skin and short, stout bodies built for hopping on land rather than swimming. Unlike frogs, they have poison glands behind their eyes that can secrete toxins to defend against predators. Most true toads prefer terrestrial habitats and only return to water to breed.",
+          "distinguishingFeatures": "True toads can be distinguished from frogs by their dry, bumpy skin, shorter hind legs, and the prominent parotoid glands (poison glands) located behind their eyes. They also tend to walk or make short hops rather than taking the long leaps that frogs are known for.",
+          "funFact": "Despite popular belief, touching a toad won't give you warts - their bumpy skin texture is completely natural and the 'warts' are actually glands that help keep their skin moist and produce defensive chemicals."
+        },
+        {
+          "id": 26688,
+          "name": "Scaphiopodidae",
+          "commonName": "North American Spadefoots",
+          "rank": "family",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 26689,
+              "name": "Scaphiopus",
+              "commonName": "Southern Spadefoots",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 26695,
+                  "name": "Scaphiopus holbrookii",
+                  "commonName": "Eastern Spadefoot",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 26695,
+                      "name": "Scaphiopus holbrookii",
+                      "commonName": "Eastern Spadefoot",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "eastern-spadefoot",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9962494/medium.jpg"
+                    }
+                  ],
+                  "slug": "eastern-spadefoot",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9962494/medium.jpg"
+                }
+              ],
+              "slug": "southern-spadefoots",
+              "description": "Southern Spadefoots are a small group of burrowing toads known for their distinctive shovel-like projections on their hind feet, which they use to dig backwards into sandy soil. These amphibians are specially adapted for life in dry environments and spend most of their time underground, emerging mainly during heavy rains to breed in temporary pools.",
+              "distinguishingFeatures": "Unlike other toads, spadefoots have vertical pupils (like cats) rather than horizontal ones, and their signature spade-shaped digging tools on their feet make them excellent burrowers in loose soil.",
+              "funFact": "Spadefoots can remain buried underground for months or even years, waiting for the perfect rainy conditions to trigger their explosive breeding activities."
+            }
+          ],
+          "slug": "north-american-spadefoots",
+          "description": "North American Spadefoots are a small family of unique toads known for their distinctive digging abilities and desert adaptations. These amphibians get their name from the hard, spade-like projections on their hind feet that they use to burrow backwards into sandy or loose soil. They are specially adapted to survive in dry environments and can remain underground for months during droughts.",
+          "distinguishingFeatures": "Unlike true toads, spadefoots have smooth, relatively moist skin and vertical pupils like cats. Their most distinctive feature is the dark, sharp-edged 'spade' on each hind foot used for digging.",
+          "funFact": "Spadefoot tadpoles are among the fastest-developing amphibian larvae in North America, transforming from egg to adult in as little as two weeks to beat the drying of temporary pools."
+        },
+        {
+          "id": 64721,
+          "name": "Eleutherodactylidae",
+          "commonName": "Rain Frogs",
+          "rank": "family",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 22086,
+              "name": "Eleutherodactylus",
+              "commonName": "Rain Frogs",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 22631,
+                  "name": "Eleutherodactylus planirostris",
+                  "commonName": "Greenhouse Frog",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 22631,
+                      "name": "Eleutherodactylus planirostris",
+                      "commonName": "Greenhouse Frog",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "greenhouse-frog",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/232469445/medium.jpg"
+                    }
+                  ],
+                  "slug": "greenhouse-frog",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/232469445/medium.jpg"
+                }
+              ],
+              "slug": "rain-frogs",
+              "description": "Rain frogs are a diverse group of small frogs known for their direct development - they skip the tadpole stage entirely and hatch as tiny, fully-formed frogs. These frogs are typically found in tropical and subtropical regions, where they live on the ground among leaf litter and low vegetation. Most species are nocturnal and have distinctive calls that can often be heard during rainy weather.",
+              "distinguishingFeatures": "Rain frogs are unique among frogs because their eggs develop directly into miniature frogs without going through a swimming tadpole phase. This allows them to reproduce away from water sources, in moist terrestrial environments.",
+              "funFact": "There are over 200 species of rain frogs worldwide, making Eleutherodactylus one of the largest frog genera, though only one species - the introduced Greenhouse Frog - can be found in New England."
+            }
+          ],
+          "slug": "rain-frogs",
+          "description": "Rain frogs are a large family of small to medium-sized frogs found throughout the tropical and subtropical Americas. These frogs are known for their direct development - they skip the tadpole stage entirely and hatch as tiny, fully-formed frogs from their eggs. Most species are nocturnal and can be heard calling after rain, which is how they got their common name.",
+          "distinguishingFeatures": "Rain frogs are distinguished from other frog families by their direct development (no free-swimming tadpole stage) and their distinctive toe pads that help them climb. They also typically have X-shaped pupils and lay their eggs on land rather than in water.",
+          "funFact": "The single New England rain frog species, the greenhouse frog, isn't actually native to the region - it was accidentally introduced from the Caribbean and has established small populations in heated greenhouses and buildings."
+        }
+      ],
+      "slug": "frogs-and-toads",
+      "description": "Frogs and toads are amphibians that have adapted to life both in water and on land. They all share the characteristic of having no tail as adults, though they start life as tadpoles with tails that disappear during metamorphosis. Most begin their lives in water as swimming tadpoles before transforming into jumping, hopping adults.",
+      "distinguishingFeatures": "Unlike other amphibians such as salamanders and newts, adult frogs and toads are tailless and have powerful hind legs designed for jumping. They also have a unique life cycle that includes a dramatic transformation from aquatic, gill-breathing tadpoles to air-breathing adults.",
+      "funFact": "Despite their names, 'frogs' and 'toads' aren't scientifically distinct groups - many 'toads' are actually more closely related to certain frogs than to other toads!"
+    },
+    {
+      "id": 26718,
+      "name": "Caudata",
+      "commonName": "Salamanders",
+      "rank": "order",
+      "speciesCount": 11,
+      "children": [
+        {
+          "id": 26909,
+          "name": "Plethodontidae",
+          "commonName": "Lungless Salamanders",
+          "rank": "family",
+          "speciesCount": 5,
+          "children": [
+            {
+              "id": 27135,
+              "name": "Plethodon",
+              "commonName": "Woodland Salamanders",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 27186,
+                  "name": "Plethodon cinereus",
+                  "commonName": "Eastern Red-backed Salamander",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 27186,
+                      "name": "Plethodon cinereus",
+                      "commonName": "Eastern Red-backed Salamander",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "eastern-red-backed-salamander",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248530577/medium.jpg"
+                    }
+                  ],
+                  "slug": "eastern-red-backed-salamander",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248530577/medium.jpg"
+                }
+              ],
+              "slug": "woodland-salamanders",
+              "description": "Woodland salamanders are small, slender amphibians that live their entire lives on land, never needing to return to water like most other salamanders. They breathe through their skin and the lining of their mouths, having no lungs at all. These secretive creatures spend most of their time hiding under logs, rocks, and leaf litter in moist forest environments.",
+              "distinguishingFeatures": "Unlike most salamanders, woodland salamanders are completely terrestrial and lungless, breathing only through their skin. They also lay their eggs on land rather than in water, with the young developing directly without going through an aquatic larval stage.",
+              "funFact": "Woodland salamanders can actually lose their tails when threatened and regrow them later, but the new tail will have a different color and pattern than the original!"
+            },
+            {
+              "id": 27087,
+              "name": "Eurycea",
+              "commonName": "Brook Salamanders",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 27120,
+                  "name": "Eurycea bislineata",
+                  "commonName": "Northern Two-lined Salamander",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 27120,
+                      "name": "Eurycea bislineata",
+                      "commonName": "Northern Two-lined Salamander",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "northern-two-lined-salamander",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/27256123/medium.jpeg"
+                    }
+                  ],
+                  "slug": "northern-two-lined-salamander",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/27256123/medium.jpeg"
+                }
+              ],
+              "slug": "brook-salamanders",
+              "description": "Brook salamanders are slender, stream-loving amphibians that spend their lives in and around clean, flowing water. They are perfectly adapted for aquatic life with their streamlined bodies and strong swimming abilities, often found hiding under rocks or logs in brooks and springs.",
+              "distinguishingFeatures": "Brook salamanders can be identified by their elongated bodies, flattened tails for swimming, and typically yellowish coloration with distinctive dark lines running down their backs.",
+              "funFact": "Brook salamander larvae can take up to three years to metamorphose into adults, spending their entire juvenile period breathing through gills while living underwater."
+            },
+            {
+              "id": 27649,
+              "name": "Hemidactylium",
+              "commonName": "Four-toed Salamanders",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 27652,
+                  "name": "Hemidactylium scutatum",
+                  "commonName": "Four-toed Salamander",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 27652,
+                      "name": "Hemidactylium scutatum",
+                      "commonName": "Four-toed Salamander",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "four-toed-salamander",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/21467630/medium.jpg"
+                    }
+                  ],
+                  "slug": "four-toed-salamander",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/21467630/medium.jpg"
+                }
+              ],
+              "slug": "four-toed-salamanders",
+              "description": "Four-toed salamanders are small, slender amphibians that belong to their own unique genus with just one species. They are named for having only four toes on their hind feet, unlike most other salamanders which have five. These secretive creatures are closely tied to sphagnum moss bogs and other wetland habitats.",
+              "distinguishingFeatures": "Four-toed salamanders are easily identified by their constricted tail base that looks almost pinched, and their distinctive four hind toes instead of the usual five found on other salamanders.",
+              "funFact": "When threatened, four-toed salamanders can detach their tail at the constricted base, leaving the wiggling tail behind to distract predators while they escape - and they can regenerate a new one!"
+            },
+            {
+              "id": 27380,
+              "name": "Desmognathus",
+              "commonName": "Dusky Salamanders",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 27420,
+                  "name": "Desmognathus fuscus",
+                  "commonName": "Northern Dusky Salamander",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 27420,
+                      "name": "Desmognathus fuscus",
+                      "commonName": "Northern Dusky Salamander",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "northern-dusky-salamander",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/248298369/medium.jpg"
+                    }
+                  ],
+                  "slug": "northern-dusky-salamander",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/248298369/medium.jpg"
+                }
+              ],
+              "slug": "dusky-salamanders",
+              "description": "Dusky salamanders are a group of lungless salamanders that live near streams, springs, and other wet areas. They're excellent swimmers and climbers, spending time both in the water and on land among rocks and logs. These salamanders breathe through their skin and the lining of their mouth instead of having lungs.",
+              "distinguishingFeatures": "Dusky salamanders can be identified by their streamlined body shape, strong hind legs adapted for jumping, and a distinctive groove that runs from their nostril to their lip. They typically have mottled brown or gray coloring that helps them blend in with wet rocks and stream beds.",
+              "funFact": "When threatened, dusky salamanders can detach and regenerate their tails, and some species are known to be surprisingly aggressive, sometimes even eating other salamanders!"
+            },
+            {
+              "id": 27494,
+              "name": "Gyrinophilus",
+              "commonName": "Cave and Spring Salamanders",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 27500,
+                  "name": "Gyrinophilus porphyriticus",
+                  "commonName": "Spring Salamander",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 27500,
+                      "name": "Gyrinophilus porphyriticus",
+                      "commonName": "Spring Salamander",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "spring-salamander",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/131860207/medium.jpg"
+                    }
+                  ],
+                  "slug": "spring-salamander",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/131860207/medium.jpg"
+                }
+              ],
+              "slug": "cave-and-spring-salamanders",
+              "description": "Cave and Spring Salamanders are medium to large-sized salamanders that live in cool, moist environments like springs, caves, and rocky streams. They are excellent swimmers and climbers, perfectly adapted to life in and around flowing water. These salamanders are known for their smooth, wet skin and their ability to breathe through both their lungs and skin.",
+              "distinguishingFeatures": "They have distinctively long tails, robust bodies, and prominent eyes compared to other salamander groups. Their coloration typically ranges from yellowish to reddish-brown with darker markings.",
+              "funFact": "Spring Salamanders can live for over 20 years and are sometimes called 'red salamanders' by locals, though they're actually in a different genus than the true Red Salamander."
+            }
+          ],
+          "slug": "lungless-salamanders",
+          "description": "Lungless salamanders are a remarkable family of amphibians that have evolved to breathe entirely through their skin and the lining of their mouths, having lost their lungs completely. These salamanders are typically found in moist environments like forest floors, rocky crevices, and near streams, where they can keep their skin damp for oxygen exchange. They're generally small, secretive creatures that play important roles in forest ecosystems as both predators of tiny invertebrates and prey for larger animals.",
+          "distinguishingFeatures": "Unlike other salamanders, lungless salamanders completely lack lungs and rely on cutaneous respiration through their permeable skin. They also have a groove called the nasolabial groove running from their nostril to their lip, which helps them detect chemical signals in their environment.",
+          "funFact": "Lungless salamanders include some species that never enter water, completing their entire life cycle on land with eggs that hatch directly into tiny versions of adults rather than going through an aquatic larval stage."
+        },
+        {
+          "id": 26720,
+          "name": "Ambystomatidae",
+          "commonName": "Mole Salamanders",
+          "rank": "family",
+          "speciesCount": 4,
+          "children": [
+            {
+              "id": 26721,
+              "name": "Ambystoma",
+              "commonName": "Mole Salamanders",
+              "rank": "genus",
+              "speciesCount": 4,
+              "children": [
+                {
+                  "id": 26790,
+                  "name": "Ambystoma maculatum",
+                  "commonName": "Spotted Salamander",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 26790,
+                      "name": "Ambystoma maculatum",
+                      "commonName": "Spotted Salamander",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "spotted-salamander",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/245633300/medium.jpg"
+                    }
+                  ],
+                  "slug": "spotted-salamander",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/245633300/medium.jpg"
+                },
+                {
+                  "id": 52354,
+                  "name": "Ambystoma laterale",
+                  "commonName": "Blue-spotted Salamander",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 52354,
+                      "name": "Ambystoma laterale",
+                      "commonName": "Blue-spotted Salamander",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "blue-spotted-salamander",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/78166204/medium.jpg"
+                    }
+                  ],
+                  "slug": "blue-spotted-salamander",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/78166204/medium.jpg"
+                },
+                {
+                  "id": 26736,
+                  "name": "Ambystoma opacum",
+                  "commonName": "Marbled Salamander",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 26736,
+                      "name": "Ambystoma opacum",
+                      "commonName": "Marbled Salamander",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "marbled-salamander",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/39809734/medium.jpg"
+                    }
+                  ],
+                  "slug": "marbled-salamander",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/39809734/medium.jpg"
+                },
+                {
+                  "id": 26725,
+                  "name": "Ambystoma jeffersonianum",
+                  "commonName": "Jefferson Salamander",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 26725,
+                      "name": "Ambystoma jeffersonianum",
+                      "commonName": "Jefferson Salamander",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "jefferson-salamander",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/470591896/medium.jpg"
+                    }
+                  ],
+                  "slug": "jefferson-salamander",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/470591896/medium.jpg"
+                }
+              ],
+              "slug": "mole-salamanders",
+              "description": "Mole salamanders are a group of robust, stocky salamanders that spend most of their adult lives underground in burrows or beneath logs and rocks. They are named for their secretive, mole-like lifestyle, emerging mainly during rainy nights to hunt for insects, worms, and other small prey. All species in this genus migrate to ponds and pools each spring to breed.",
+              "distinguishingFeatures": "Unlike other salamander families, mole salamanders have distinctively thick bodies, broad heads, and prominent grooves running vertically along their sides called costal grooves. They also have relatively short tails compared to their body length.",
+              "funFact": "Some female mole salamanders can reproduce without mating through a process called parthenogenesis, essentially creating genetic clones of themselves!"
+            }
+          ],
+          "slug": "mole-salamanders",
+          "description": "Mole salamanders are robust, stocky amphibians that spend most of their adult lives underground in burrows, tunnels, or beneath logs and rocks. They have broad heads, thick bodies, and relatively short tails compared to other salamander families. These salamanders emerge from their subterranean hideouts primarily during rainy nights to feed or migrate to breeding ponds.",
+          "distinguishingFeatures": "Unlike many other salamanders, mole salamanders have distinctly chunky, cylindrical bodies built for a fossorial (underground) lifestyle. They also have prominent costal grooves along their sides and lack the nasolabial grooves found in lungless salamanders.",
+          "funFact": "Some mole salamanders, like the spotted salamander, engage in dramatic mass migrations to breeding ponds on the first warm, rainy nights of spring, sometimes with hundreds of individuals crossing roads simultaneously."
+        },
+        {
+          "id": 27701,
+          "name": "Salamandridae",
+          "commonName": "Newts",
+          "rank": "family",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 27800,
+              "name": "Notophthalmus",
+              "commonName": "Eastern North American Newts",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 27805,
+                  "name": "Notophthalmus viridescens",
+                  "commonName": "Eastern Newt",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 27805,
+                      "name": "Notophthalmus viridescens",
+                      "commonName": "Eastern Newt",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "eastern-newt",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/174608300/medium.jpg"
+                    }
+                  ],
+                  "slug": "eastern-newt",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/174608300/medium.jpg"
+                }
+              ],
+              "slug": "eastern-north-american-newts",
+              "description": "Eastern North American Newts are small, semi-aquatic salamanders that spend part of their lives in water and part on land. They have smooth, moist skin and the remarkable ability to regenerate lost body parts like tails and limbs. These amphibians go through a unique three-stage life cycle that includes an aquatic larval stage, a terrestrial juvenile stage, and an aquatic adult stage.",
+              "distinguishingFeatures": "Unlike other salamanders, newts have a distinctive terrestrial juvenile stage called an 'eft' that is brightly colored and lives on land for several years before returning to water as an adult. They also have flattened, paddle-like tails when in their aquatic adult form.",
+              "funFact": "The bright orange-red color of juvenile efts serves as a warning to predators that they contain toxic compounds in their skin, making them unpalatable and potentially dangerous to eat."
+            }
+          ],
+          "slug": "newts",
+          "description": "Newts are a family of salamanders that spend part of their lives in water and part on land. They have smooth, moist skin and the remarkable ability to regenerate lost body parts like tails and limbs. Most newts go through a complex life cycle, starting as aquatic larvae, becoming terrestrial juveniles, and then returning to water as adults to breed.",
+          "distinguishingFeatures": "Unlike other salamanders, newts typically have a distinct aquatic adult phase with paddle-like tails for swimming. They also tend to have rougher, more granular skin than other salamander families.",
+          "funFact": "Newts can regenerate not just their tails and limbs, but also parts of their hearts, eyes, and even portions of their brains - making them some of nature's most impressive healers."
+        },
+        {
+          "id": 27675,
+          "name": "Proteidae",
+          "commonName": "Mudpuppies and Olm",
+          "rank": "family",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 27679,
+              "name": "Necturus",
+              "commonName": "Mudpuppies and Waterdogs",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 27685,
+                  "name": "Necturus maculosus",
+                  "commonName": "Common Mudpuppy",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 27685,
+                      "name": "Necturus maculosus",
+                      "commonName": "Common Mudpuppy",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "common-mudpuppy",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183354861/medium.jpg"
+                    }
+                  ],
+                  "slug": "common-mudpuppy",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183354861/medium.jpg"
+                }
+              ],
+              "slug": "mudpuppies-and-waterdogs",
+              "description": "Mudpuppies and waterdogs are large, fully aquatic salamanders that spend their entire lives underwater. They are unique among North American salamanders because they retain their external gills as adults, giving them a distinctive feathery appearance around their heads. These permanent water-dwellers are found in rivers, lakes, and streams where they hunt for fish, crayfish, and other aquatic prey.",
+              "distinguishingFeatures": "Unlike other salamanders that lose their gills when they mature, mudpuppies keep their external gills throughout their lives. They also have four toes on each foot instead of the five toes found on most other salamanders.",
+              "funFact": "Mudpuppies got their name from the mistaken belief that they could bark like dogs - while they can make squeaking sounds when handled, they're actually silent most of the time!"
+            }
+          ],
+          "slug": "mudpuppies-and-olm",
+          "description": "Proteidae is a small family of permanently aquatic salamanders that retain their larval features throughout their entire lives, including external gills that look like feathery red tufts behind their heads. These salamanders never undergo the typical transformation to a terrestrial adult form that most other salamanders experience, instead spending their whole lives underwater in rivers, lakes, and streams.",
+          "distinguishingFeatures": "Unlike other salamander families, proteids keep their external gills and other juvenile characteristics as adults, a condition called neoteny. They also have four toes on their front feet instead of the typical four, and flattened tails adapted for swimming.",
+          "funFact": "Mudpuppies are one of the few salamanders that remain active under the ice during winter, using their external gills to extract oxygen from the cold water."
+        }
+      ],
+      "slug": "salamanders",
+      "description": "Salamanders are smooth-skinned amphibians that look like lizards but are actually more closely related to frogs and toads. They breathe through their moist skin and undergo metamorphosis from aquatic larvae to adults, though some species remain in water their entire lives. Most salamanders can regenerate lost tails and limbs, making them unique among vertebrates.",
+      "distinguishingFeatures": "Unlike lizards, salamanders have moist, scaleless skin and lack claws on their toes. They differ from frogs and toads by keeping their tails as adults and having four legs of roughly equal size.",
+      "funFact": "The largest salamander in New England is the mudpuppy, which can grow over a foot long and keeps its feathery external gills throughout its entire life, even as an adult."
+    }
+  ]
+}

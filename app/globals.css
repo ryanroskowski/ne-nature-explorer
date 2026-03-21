@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-cream: #faf7f0;
+  --color-cream-dark: #f5f0e6;
+  --color-card: #fffdf8;
+  --color-card-alt: #f5f0e6;
+  --color-border: #e4dcc8;
+  --color-border-dark: #d4cbb4;
+
+  --color-text-primary: #2e2e26;
+  --color-text-secondary: #7a7568;
+  --color-text-muted: #a09a8c;
+
+  --color-forest: #2d6a4f;
+  --color-forest-light: #3d8b6a;
+  --color-forest-dark: #1e4d38;
+  --color-gold: #8b6914;
+  --color-gold-light: #b8930f;
+  --color-teal: #1a7a6a;
+  --color-teal-light: #2a9a87;
+  --color-rose: #9a4060;
+  --color-rose-light: #c05577;
+
+  --font-serif: var(--font-lora), Georgia, "Times New Roman", serif;
+  --font-body: Georgia, "Times New Roman", serif;
+  --font-ui: system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --animate-fade-in: fade-in 0.2s ease-in;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-text-primary);
+  font-family: var(--font-body);
+  line-height: 1.75;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  line-height: 1.3;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-cream);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-border-dark);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-muted);
+}
+
+/* Photo gallery horizontal scroll */
+.photo-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border-dark) transparent;
+}
+.photo-scroll::-webkit-scrollbar {
+  height: 6px;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Focus-visible ring for keyboard users */
+:focus-visible {
+  outline: 2px solid var(--color-forest);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Remove focus ring for mouse/touch users */
+:focus:not(:focus-visible) {
+  outline: none;
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "chaetomorpha-melagonium",
+  "taxonId": 182815,
+  "group": "plants",
+  "commonName": "Chaetomorpha melagonium",
+  "scientificName": "Chaetomorpha melagonium",
+  "family": "Cladophoraceae",
+  "familyCommonName": "Cladophoraceae",
+  "genus": "Chaetomorpha",
+  "genusCommonName": "Chaetomorpha",
+  "order": "Cladophorales",
+  "orderCommonName": "Cladophorales",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "green algae",
+      "rank": "phylum",
+      "slug": "explore/green-algae"
+    },
+    {
+      "label": "Ulvophycean green algae",
+      "rank": "class",
+      "slug": "explore/ulvophycean-green-algae"
+    },
+    {
+      "label": "Cladophorales",
+      "rank": "order",
+      "slug": "explore/cladophorales"
+    },
+    {
+      "label": "Cladophoraceae",
+      "rank": "family",
+      "slug": "explore/cladophoraceae"
+    },
+    {
+      "label": "Chaetomorpha",
+      "rank": "genus",
+      "slug": "explore/chaetomorpha"
+    },
+    {
+      "label": "Chaetomorpha melagonium",
+      "rank": "species",
+      "slug": "species/chaetomorpha-melagonium"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 1541294,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1541294/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1541294/large.jpg",
+      "attribution": "(c) Gabriele Kothe-Heinrich, some rights reserved (CC BY-SA)",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/18281500"
+    },
+    {
+      "id": 222743844,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222743844/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222743844/large.jpg",
+      "attribution": "(c) hmw, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/130934755"
+    },
+    {
+      "id": 8548384,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8548384/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8548384/large.jpeg",
+      "attribution": "(c) libby_orcutt, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/6732727"
+    }
+  ],
+  "nameStory": "The name 'Chaetomorpha' comes from Greek words meaning 'hair form,' which perfectly describes this algae's thread-like appearance. The species name 'melagonium' refers to its darker coloration compared to other members of its genus. Like tangled green hair floating in the water, this algae lives up to its hair-inspired name.",
+  "description": "Chaetomorpha melagonium is a marine green algae that forms thread-like strands in coastal New England waters. This simple plant creates tangled masses of green filaments that can either attach to rocks and other surfaces or float freely in the water. The strands are made up of single cells joined end-to-end, creating what looks like green threads or coarse hair. It's part of the diverse world of seaweeds that help form the foundation of marine ecosystems.",
+  "idTips": [
+    {
+      "label": "Thread-like Structure",
+      "description": "Forms long, unbranched filaments that feel coarse and wiry to the touch, like thick green thread or fishing line",
+      "isPrimary": true
+    },
+    {
+      "label": "Color",
+      "description": "Bright to dark green color that may appear more yellowish-green when dried or stressed",
+      "isPrimary": false
+    },
+    {
+      "label": "Growth Form",
+      "description": "Can be found either attached to rocks and shells or floating freely as tangled masses",
+      "isPrimary": false
+    },
+    {
+      "label": "Texture",
+      "description": "Feels slippery when wet but becomes stiff and brittle when dried out of water",
+      "isPrimary": false
+    },
+    {
+      "label": "Cell Structure",
+      "description": "Individual cells are clearly visible as barrel-shaped segments when examined closely",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in rocky intertidal zones and shallow coastal waters along New England's shoreline, particularly in tide pools and areas with good water circulation. It grows on hard surfaces like rocks, shells, and pier pilings, but can also be found floating freely in protected bays and estuaries. Look for it in areas where saltwater regularly covers and uncovers the substrate with the tides.",
+  "seasonality": {
+    "spring": "Growth begins to accelerate as water temperatures warm and daylight hours increase, making this a good time to spot fresh, bright green specimens.",
+    "summer": "Peak growing season when the algae is most abundant and easiest to find, with thick mats often visible in tide pools and shallow water.",
+    "fall": "Still actively growing but may begin to show signs of seasonal die-back, with some specimens appearing more yellowish or brownish.",
+    "winter": "Growth slows significantly in cold water, and many specimens may break free from attachments, becoming part of the floating algal masses washed up on beaches."
+  },
+  "funFact": "Scientists are still puzzled about whether this algae exists as two completely different forms - one that stays firmly attached to rocks and another that lives its entire life floating freely in the water, like a marine tumble-weed that never needs to settle down!",
+  "confusionNotes": "Most easily confused with Sea Hair (Chaetomorpha linum), but melagonium tends to have a darker green color and coarser texture. Think of melagonium as the 'heavy-duty fishing line' version while Sea Hair is more like fine thread.",
+  "contextualKnowledge": "There's ongoing scientific debate about whether the attached and free-floating forms of this species are actually the same organism or represent different species entirely, making identification sometimes challenging even for experts.",
+  "compareHints": "Compared to its close relative Sea Hair (Chaetomorpha linum), this species has noticeably thicker, coarser filaments and tends toward darker green coloration. While Sea Hair forms delicate, fine tangles, melagonium creates more robust, wiry masses. Other Chaetomorpha species in the region are generally much finer in texture and lighter in color.",
+  "relatedSpecies": [
+    {
+      "slug": "chaetomorpha-linum",
+      "commonName": "Sea Hair",
+      "scientificName": "Chaetomorpha linum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1541273/medium.jpg",
+      "distinction": "Sea Hair differs from its relatives in the Chaetomorpha genus by its specific thread-like, unbranched form and relatively coarse texture."
+    },
+    {
+      "slug": "chaetomorpha-ligustica",
+      "commonName": "Chaetomorpha ligustica",
+      "scientificName": "Chaetomorpha ligustica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222772356/medium.jpg",
+      "distinction": "Compared to the much more common Sea Hair (Chaetomorpha linum), this species has slightly thicker, more rigid filaments and tends to form denser mats."
+    },
+    {
+      "slug": "chaetomorpha-picquotiana",
+      "commonName": "Chaetomorpha picquotiana",
+      "scientificName": "Chaetomorpha picquotiana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/283233505/medium.jpeg",
+      "distinction": "**Note: Limited comparative data available** Compared to Sea Hair (Chaetomorpha linum), this species may have different cell dimensions and strand characteristics, but distinguishing between Chaetomorpha species typically requires microscopic measurement of cell size and other technical features."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Chaetomorpha_melagonium",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/182815"
+}

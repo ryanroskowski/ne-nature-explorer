@@ -1,0 +1,161 @@
+{
+  "slug": "alasmidonta-varicosa",
+  "taxonId": 93598,
+  "group": "mollusks",
+  "commonName": "Brook Floater",
+  "scientificName": "Alasmidonta varicosa",
+  "family": "Unionidae",
+  "familyCommonName": "River Mussels",
+  "genus": "Alasmidonta",
+  "genusCommonName": "Alasmidonta",
+  "order": "Unionida",
+  "orderCommonName": "Freshwater Mussels",
+  "breadcrumb": [
+    {
+      "label": "Mollusks",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Molluscs",
+      "rank": "phylum",
+      "slug": "explore/molluscs"
+    },
+    {
+      "label": "Bivalves",
+      "rank": "class",
+      "slug": "explore/bivalves"
+    },
+    {
+      "label": "Freshwater Mussels",
+      "rank": "order",
+      "slug": "explore/freshwater-mussels"
+    },
+    {
+      "label": "River Mussels",
+      "rank": "family",
+      "slug": "explore/river-mussels"
+    },
+    {
+      "label": "Alasmidonta",
+      "rank": "genus",
+      "slug": "explore/alasmidonta"
+    },
+    {
+      "label": "Brook Floater",
+      "rank": "species",
+      "slug": "species/alasmidonta-varicosa"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 1723877,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1723877/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1723877/large.jpeg",
+      "attribution": "Daderot, no known copyright restrictions (public domain)",
+      "licenseCode": "pd",
+      "observationUrl": "https://www.inaturalist.org/observations/9359801"
+    },
+    {
+      "id": 9654562,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9654562/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9654562/large.jpg",
+      "attribution": "(c) Evan M. Raskin, some rights reserved (CC BY), uploaded by Evan M. Raskin",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/9359800"
+    },
+    {
+      "id": 843307,
+      "mediumUrl": "https://static.inaturalist.org/photos/843307/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/843307/large.jpg",
+      "attribution": "(c) Bryan Tompkins, all rights reserved",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/9359802"
+    },
+    {
+      "id": 131613175,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/131613175/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/131613175/large.jpg",
+      "attribution": "(c) tiannafisher, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/80306986"
+    },
+    {
+      "id": 455212188,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/455212188/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/455212188/large.jpeg",
+      "attribution": "(c) Fen Levy-O'Malley, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/254507698"
+    },
+    {
+      "id": 455212189,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/455212189/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/455212189/large.jpeg",
+      "attribution": "(c) Fen Levy-O'Malley, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/254507698"
+    }
+  ],
+  "nameStory": "The brook floater gets its name from its preferred habitat in small streams and brooks, where it lives partially buried in sandy or muddy bottoms. Like other 'floater' mussels, it's lighter and thinner-shelled than many river mussels, giving it a somewhat buoyant quality that inspired the floating reference.",
+  "description": "The brook floater is a freshwater mussel that looks like a smooth, oval-shaped clam with a dark brownish shell. This aquatic mollusk spends its life buried partway in the bottom of clean streams and brooks, with just the edge of its shell visible above the sediment. It typically measures 1 to 3 inches long, making it a medium-sized member of the river mussel family. You'll need to look carefully to spot one, as they blend in perfectly with the streambed.",
+  "idTips": [
+    {
+      "label": "Shell shape and size",
+      "description": "Oval to elongated shell, 1-3 inches long, feels smooth and relatively lightweight compared to other mussels",
+      "isPrimary": true
+    },
+    {
+      "label": "Shell color",
+      "description": "Dark brown to blackish outer shell that feels slightly rough to the touch, often with subtle growth rings",
+      "isPrimary": false
+    },
+    {
+      "label": "Stream position",
+      "description": "Partially buried in sandy or muddy bottom with just the shell edge showing above sediment",
+      "isPrimary": false
+    },
+    {
+      "label": "Water clarity preference",
+      "description": "Found only in clean, clear-running water with good oxygen levels - never in polluted or stagnant areas",
+      "isPrimary": false
+    },
+    {
+      "label": "Shell thickness",
+      "description": "Thinner shell than many river mussels - feels lighter and more delicate when handled gently",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Brook floaters live in clean, fast-flowing streams and small rivers throughout New England, preferring areas with sandy or muddy bottoms where they can burrow. They need excellent water quality and are often found in shaded woodland streams with stable temperatures. Look for them in areas where the current is steady but not torrential, often near undercut banks or in pools below small rapids.",
+  "seasonality": {
+    "spring": "Most active during spring months when water temperatures rise and breeding begins. This is the best time to spot them as they may be more visible at the sediment surface.",
+    "summer": "Remain buried in stream bottom during hot weather, filtering water continuously. Look for the slight depression or mound in sandy areas that indicates their presence below.",
+    "fall": "Continue feeding actively before winter, sometimes becoming slightly more visible as they prepare for colder months ahead.",
+    "winter": "Remain buried deeper in sediment during coldest months, nearly impossible to detect without careful searching in unfrozen stream sections."
+  },
+  "funFact": "Brook floaters are like living water purifiers - a single mussel can filter up to 10 gallons of water per day, removing bacteria, algae, and particles to keep streams crystal clear, making them essential partners in maintaining the pristine brook habitats that trout and other fish depend on.",
+  "confusionNotes": "Most easily confused with other small freshwater mussels in streams, but brook floaters are typically found in smaller, cleaner waterways than most other species. Remember: if the water isn't clean enough to drink, it's probably too polluted for brook floaters - they're the 'canaries in the coal mine' of stream health.",
+  "contextualKnowledge": "Brook floaters are extremely rare and considered one of New England's most endangered freshwater mussels, making any sighting scientifically valuable. They're indicator species for stream health - their presence means the waterway is in excellent condition, while their absence often signals pollution or habitat degradation.",
+  "compareHints": "Brook floaters are smaller and prefer cleaner, smaller streams compared to their relatives the triangle floater and elktoe, which can tolerate larger rivers and slightly more disturbed conditions. Unlike the triangle floater which has a more angular shell shape, the brook floater maintains a smooth oval outline. The elktoe grows larger and has a more pronounced ridge, while the brook floater stays relatively small and smooth.",
+  "relatedSpecies": [
+    {
+      "slug": "alasmidonta-undulata",
+      "commonName": "Triangle Floater",
+      "scientificName": "Alasmidonta undulata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35069973/medium.jpeg",
+      "distinction": "Triangle Floaters are more angular than their Brook Floater cousins, which have rounder, more oval shells with smoother surfaces."
+    },
+    {
+      "slug": "alasmidonta-marginata",
+      "commonName": "Elktoe",
+      "scientificName": "Alasmidonta marginata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/270248517/medium.jpg",
+      "distinction": "Unlike the Triangle Floater which has a more angular, triangular shell shape, the elktoe is more evenly oval."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Brook_floater",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/93598"
+}

@@ -1,0 +1,243 @@
+{
+  "slug": "micrasterias-nordstedtiana",
+  "taxonId": 493518,
+  "group": "plants",
+  "commonName": "Micrasterias nordstedtiana",
+  "scientificName": "Micrasterias nordstedtiana",
+  "family": "Desmidiaceae",
+  "familyCommonName": "Desmidiaceae",
+  "genus": "Micrasterias",
+  "genusCommonName": "Micrasterias",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Desmidiaceae",
+      "rank": "family",
+      "slug": "explore/desmidiaceae"
+    },
+    {
+      "label": "Micrasterias",
+      "rank": "genus",
+      "slug": "explore/micrasterias"
+    },
+    {
+      "label": "Micrasterias nordstedtiana",
+      "rank": "species",
+      "slug": "species/micrasterias-nordstedtiana"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 3482299,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3482299/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3482299/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC), uploaded by Karolina Fucikova",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/49351800"
+    },
+    {
+      "id": 3482300,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3482300/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3482300/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC), uploaded by Karolina Fucikova",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/49351801"
+    }
+  ],
+  "nameStory": "This microscopic algae doesn't have a common name - scientists just call it by its scientific name, Micrasterias nordstedtiana. The genus name Micrasterias means 'little star' in Greek, perfectly describing these tiny, star-shaped single-celled organisms that look like living snowflakes under a microscope.",
+  "description": "Micrasterias nordstedtiana is a single-celled freshwater algae that you'll never see without a microscope - each cell is smaller than the width of a human hair. This tiny organism has a distinctive star or wheel-like shape with symmetrical lobes radiating outward from the center, looking almost like a microscopic work of art. It belongs to a group called desmids, which are known for their beautiful, geometric shapes and bright green color. **Note: This species is extremely rare in New England with only one recorded observation, so identification claims should be verified by experts.**",
+  "idTips": [
+    {
+      "label": "Star-shaped symmetry",
+      "description": "Under a microscope, the cell has perfect bilateral symmetry with decorative lobes extending outward like points of a star, creating an almost crystalline appearance",
+      "isPrimary": true
+    },
+    {
+      "label": "Microscopic size",
+      "description": "Invisible to the naked eye - you'll need at least 100x magnification to see the detailed structure of individual cells",
+      "isPrimary": false
+    },
+    {
+      "label": "Bright green color",
+      "description": "Cells appear emerald green under the microscope due to chlorophyll, the same pigment that makes plants green",
+      "isPrimary": false
+    },
+    {
+      "label": "Two-part cell structure",
+      "description": "Each cell is divided into two mirror-image halves (called semicells) joined at the middle, like a perfectly folded paper cutout",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in clean, soft-water ponds, lakes, and slow-moving streams throughout New England, particularly in areas with low mineral content. These algae prefer quiet waters with good light penetration where they can photosynthesize effectively. **Uncertainty note: Specific habitat preferences for this rare species in New England are not well documented.**",
+  "seasonality": {
+    "spring": "Populations may begin growing as water temperatures warm and daylight hours increase, though you'd need a microscope and water samples to detect them.",
+    "summer": "Peak growing season when warm temperatures and long days provide ideal conditions for photosynthesis and reproduction.",
+    "fall": "Populations may persist into early fall but begin declining as temperatures drop and daylight decreases.",
+    "winter": "Likely dormant or present in very low numbers during the coldest months, surviving as resistant spores or in deeper, more stable water layers."
+  },
+  "funFact": "Despite being a single cell, Micrasterias can reproduce by literally splitting in half - each half then grows back the missing mirror image, creating two identical star-shaped organisms from one, like a microscopic magic trick happening in every pond!",
+  "confusionNotes": "Could be confused with other star-shaped desmids in the same genus, but each species has unique lobe patterns and proportions that require expert identification under high magnification. Think of them like microscopic fingerprints - similar overall shape but distinctive details.",
+  "contextualKnowledge": "**Important note: This identification should be approached with caution.** With only one recorded observation in New England, this species is extremely rare in our region and any suspected findings should be verified by algae specialists or sent to research institutions for confirmation.",
+  "compareHints": "Micrasterias nordstedtiana differs from its relatives like M. truncata or M. rotata in the specific shape and number of its lobes, as well as the detailed ornamentation on the cell surface. Each Micrasterias species has its own unique 'signature' pattern of indentations and projections, requiring expert comparison under high magnification. **Uncertainty note: Detailed distinguishing features for this specific species are not well documented in available references.**",
+  "relatedSpecies": [
+    {
+      "slug": "micrasterias-truncata",
+      "commonName": "Micrasterias truncata",
+      "scientificName": "Micrasterias truncata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/388146267/medium.jpg",
+      "distinction": "Micrasterias truncata differs from its relatives by having distinctly flattened, cut-off lobe ends rather than the pointed tips of M."
+    },
+    {
+      "slug": "micrasterias-depauperata",
+      "commonName": "Micrasterias depauperata",
+      "scientificName": "Micrasterias depauperata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/285951370/medium.jpg",
+      "distinction": "M."
+    },
+    {
+      "slug": "micrasterias-rotata",
+      "commonName": "Micrasterias rotata",
+      "scientificName": "Micrasterias rotata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/265679126/medium.jpg",
+      "distinction": "Micrasterias rotata differs from its relatives by having a more wheel-like, regularly symmetrical shape compared to the more elongated M."
+    },
+    {
+      "slug": "micrasterias-furcata",
+      "commonName": "Micrasterias furcata",
+      "scientificName": "Micrasterias furcata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/157471387/medium.jpg",
+      "distinction": "Micrasterias furcata stands out from its relatives by having distinctly forked lobe tips, while species like M."
+    },
+    {
+      "slug": "micrasterias-radiosa",
+      "commonName": "Micrasterias radiosa",
+      "scientificName": "Micrasterias radiosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41453448/medium.jpg",
+      "distinction": "Micrasterias radiosa differs from its relatives by having smoother, more regularly branched lobes compared to the jagged edges of M."
+    },
+    {
+      "slug": "micrasterias-pinnatifida",
+      "commonName": "Micrasterias pinnatifida",
+      "scientificName": "Micrasterias pinnatifida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/44624413/medium.jpg",
+      "distinction": "Micrasterias pinnatifida differs from its relatives by having more finely divided, feathery lobes compared to species like M."
+    },
+    {
+      "slug": "micrasterias-denticulata",
+      "commonName": "Micrasterias denticulata",
+      "scientificName": "Micrasterias denticulata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/425007993/medium.jpg",
+      "distinction": "Micrasterias denticulata differs from its relatives by having distinctly serrated or toothed wing margins, while species like M."
+    },
+    {
+      "slug": "micrasterias-mahabuleshwarensis",
+      "commonName": "Micrasterias mahabuleshwarensis",
+      "scientificName": "Micrasterias mahabuleshwarensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/141822034/medium.jpg",
+      "distinction": "Micrasterias mahabuleshwarensis differs from its relatives by having a specific pattern of lobing and cell proportions that require expert examination to distinguish."
+    },
+    {
+      "slug": "micrasterias-laticeps",
+      "commonName": "Micrasterias laticeps",
+      "scientificName": "Micrasterias laticeps",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/436212245/medium.jpg",
+      "distinction": "Micrasterias laticeps differs from its relatives by having broader, less divided lobes - M."
+    },
+    {
+      "slug": "micrasterias-muricata",
+      "commonName": "Micrasterias muricata",
+      "scientificName": "Micrasterias muricata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3683828/medium.jpg",
+      "distinction": "Micrasterias muricata differs from its relatives by having distinctly spiny or toothed projections rather than smooth ones."
+    },
+    {
+      "slug": "micrasterias-compereana",
+      "commonName": "Micrasterias compereana",
+      "scientificName": "Micrasterias compereana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/335943364/medium.jpeg",
+      "distinction": "M."
+    },
+    {
+      "slug": "micrasterias-foliacea",
+      "commonName": "Micrasterias foliacea",
+      "scientificName": "Micrasterias foliacea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/355970326/medium.jpeg",
+      "distinction": "Micrasterias foliacea has more deeply divided, ornate lobes compared to M."
+    },
+    {
+      "slug": "micrasterias-brachyptera",
+      "commonName": "Micrasterias brachyptera",
+      "scientificName": "Micrasterias brachyptera",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61265351/medium.jpg",
+      "distinction": "Micrasterias brachyptera differs from its relatives by having the most compact, least elaborate form in the genus - while M."
+    },
+    {
+      "slug": "micrasterias-torreyi",
+      "commonName": "Micrasterias torreyi",
+      "scientificName": "Micrasterias torreyi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2377861/medium.jpg",
+      "distinction": "Compared to other Micrasterias species in New England waters, M."
+    },
+    {
+      "slug": "micrasterias-americana",
+      "commonName": "Micrasterias americana",
+      "scientificName": "Micrasterias americana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/432110940/medium.jpg",
+      "distinction": "Micrasterias americana differs from its relatives by having relatively broad, rounded lobes compared to the sharp angles of M."
+    },
+    {
+      "slug": "micrasterias-conferta",
+      "commonName": "Micrasterias conferta",
+      "scientificName": "Micrasterias conferta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/301675870/medium.jpg",
+      "distinction": "Micrasterias conferta differs from its relatives by having more densely packed and subdivided lobes, giving it a more crowded appearance than species like M."
+    },
+    {
+      "slug": "micrasterias-thomasiana",
+      "commonName": "Micrasterias thomasiana",
+      "scientificName": "Micrasterias thomasiana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119999995/medium.jpg",
+      "distinction": "Micrasterias thomasiana has smoother, less ornate lobes compared to the heavily decorated M."
+    },
+    {
+      "slug": "micrasterias-jenneri",
+      "commonName": "Micrasterias jenneri",
+      "scientificName": "Micrasterias jenneri",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/362131151/medium.jpg",
+      "distinction": "Micrasterias jenneri differs from its relatives by having relatively simple, rounded lobes compared to the more elaborate projections of species like M."
+    },
+    {
+      "slug": "micrasterias-floridensis",
+      "commonName": "Micrasterias floridensis",
+      "scientificName": "Micrasterias floridensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120867554/medium.jpg",
+      "distinction": "Micrasterias floridensis differs from other Micrasterias species mainly in the specific details of its star-shaped lobes and projections - features that require expert microscopic examination to distinguish."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/493518"
+}

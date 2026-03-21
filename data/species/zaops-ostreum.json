@@ -1,0 +1,138 @@
+{
+  "slug": "zaops-ostreum",
+  "taxonId": 363691,
+  "group": "crustaceans",
+  "commonName": "Oyster Pea Crab",
+  "scientificName": "Zaops ostreum",
+  "family": "Pinnotheridae",
+  "familyCommonName": "Bivalve Pea Crabs",
+  "genus": "Zaops",
+  "genusCommonName": "Zaops",
+  "order": "Decapoda",
+  "orderCommonName": "Decapods",
+  "breadcrumb": [
+    {
+      "label": "Crustaceans",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Malacostracans",
+      "rank": "class",
+      "slug": "explore/malacostracans"
+    },
+    {
+      "label": "Decapods",
+      "rank": "order",
+      "slug": "explore/decapods"
+    },
+    {
+      "label": "Bivalve Pea Crabs",
+      "rank": "family",
+      "slug": "explore/bivalve-pea-crabs"
+    },
+    {
+      "label": "Zaops",
+      "rank": "genus",
+      "slug": "explore/zaops"
+    },
+    {
+      "label": "Oyster Pea Crab",
+      "rank": "species",
+      "slug": "species/zaops-ostreum"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 43522176,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43522176/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43522176/large.jpeg",
+      "attribution": "\n\nEric A. Lazo-Wasem, no known copyright restrictions (public domain)",
+      "licenseCode": "pd",
+      "observationUrl": "https://www.inaturalist.org/observations/36369103"
+    },
+    {
+      "id": 106144199,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106144199/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106144199/large.jpg",
+      "attribution": "(c) Nick Tepper, some rights reserved (CC BY-NC), uploaded by Nick Tepper",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/36369100"
+    },
+    {
+      "id": 246241674,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/246241674/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/246241674/large.jpeg",
+      "attribution": "(c) Doug McWhirter, some rights reserved (CC BY-NC), uploaded by Doug McWhirter",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/36369102"
+    },
+    {
+      "id": 603788,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/603788/medium.JPG",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/603788/large.JPG",
+      "attribution": "(c) Julia and Bryan @ XplorMor International Non-Profit, some rights reserved (CC BY-NC-ND), uploaded by Julia and Bryan @ XplorMor International Non-Profit",
+      "licenseCode": "cc-by-nc-nd",
+      "observationUrl": "https://www.inaturalist.org/observations/36369101"
+    },
+    {
+      "id": 129466032,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129466032/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129466032/large.jpg",
+      "attribution": "(c) mowhite, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/79068517"
+    }
+  ],
+  "nameStory": "The oyster pea crab gets its name from its two most distinctive traits: it lives exclusively inside oyster shells, and it's tiny - about the size of a pea! Early oystermen discovered these little stowaways when shucking their catch, and the name stuck because of the crab's remarkably small, round appearance.",
+  "description": "The oyster pea crab is a tiny, translucent white crab that spends its entire adult life inside the shells of living oysters. These miniature crabs are true parasites, feeding on food particles that their oyster hosts filter from the water. They're so small you could easily mistake one for a piece of shell or debris when shucking oysters. Despite their parasitic lifestyle, they rarely harm their hosts significantly.",
+  "idTips": [
+    {
+      "label": "Size and Shape",
+      "description": "Incredibly tiny - about the size of a green pea or smaller, with a soft, rounded shell that feels almost squishy to the touch rather than hard like typical crabs",
+      "isPrimary": true
+    },
+    {
+      "label": "Color",
+      "description": "Translucent white to pale pink, often appearing almost see-through like frosted glass with internal organs faintly visible",
+      "isPrimary": false
+    },
+    {
+      "label": "Texture",
+      "description": "Soft, delicate shell that yields slightly to gentle pressure, unlike the hard carapace of typical crabs - feels almost gel-like",
+      "isPrimary": false
+    },
+    {
+      "label": "Location Found",
+      "description": "Always discovered inside opened oyster shells, never free-living - typically nestled in the gill cavity of the oyster",
+      "isPrimary": false
+    },
+    {
+      "label": "Movement",
+      "description": "Moves very slowly and deliberately when disturbed, lacking the quick scuttling motion of most crabs",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found exclusively inside the shells of living oysters along New England's rocky coastlines and in protected bays where oyster beds thrive. Look for them in intertidal zones and shallow subtidal areas where eastern oysters grow naturally or are cultivated. They're most commonly encountered in oysters harvested from areas like Cape Cod Bay, Narragansett Bay, and other sheltered coastal waters.",
+  "seasonality": {
+    "spring": "Active inside oyster hosts as waters warm; this is when you're most likely to find them if collecting oysters for the table.",
+    "summer": "Peak activity period when oysters are actively feeding and filtering water, providing abundant food for the crabs.",
+    "fall": "Still present and active in oyster hosts; fall oyster harvesting often reveals these tiny residents.",
+    "winter": "Less active but still present inside their oyster homes, which provide protection from cold water temperatures."
+  },
+  "funFact": "Female oyster pea crabs can actually change the taste of the oyster they live in - some oyster connoisseurs consider oysters with pea crabs inside to be a delicacy with a slightly sweeter flavor, calling them 'lucky oysters'!",
+  "confusionNotes": "Could be mistaken for a small piece of broken shell or other debris when shucking oysters, but the crab will move when disturbed while shell fragments won't. Unlike juvenile regular crabs, pea crabs have that distinctive soft, translucent appearance and never develop the hard shell typical of free-living crabs.",
+  "contextualKnowledge": "While called parasites, oyster pea crabs are actually more like freeloaders - they steal food from their hosts but rarely cause serious harm. Many oyster lovers consider finding one a sign of a fresh, healthy oyster.",
+  "compareHints": "As the only species in its genus found in New England waters, the oyster pea crab is unique in the region. Other pea crabs in the family might live in different shellfish like mussels or scallops, but the oyster pea crab is specifically adapted to oyster hosts. Its translucent white color and extremely soft shell distinguish it from other small crab species you might encounter.",
+  "relatedSpecies": [],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Oyster_crab",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/363691"
+}

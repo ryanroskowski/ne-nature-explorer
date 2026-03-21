@@ -1,0 +1,114 @@
+{
+  "slug": "bathyphantes-pallidus",
+  "taxonId": 153638,
+  "group": "arachnids",
+  "commonName": "Pale Sheetweb Weaver",
+  "scientificName": "Bathyphantes pallidus",
+  "family": "Linyphiidae",
+  "familyCommonName": "Sheetweb and Dwarf Weavers",
+  "genus": "Bathyphantes",
+  "genusCommonName": "Bathyphantes",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Sheetweb and Dwarf Weavers",
+      "rank": "family",
+      "slug": "explore/sheetweb-and-dwarf-weavers"
+    },
+    {
+      "label": "Bathyphantes",
+      "rank": "genus",
+      "slug": "explore/bathyphantes"
+    },
+    {
+      "label": "Pale Sheetweb Weaver",
+      "rank": "species",
+      "slug": "species/bathyphantes-pallidus"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 6550225,
+      "mediumUrl": "https://static.inaturalist.org/photos/6550225/medium.jpeg",
+      "largeUrl": "https://static.inaturalist.org/photos/6550225/large.jpeg",
+      "attribution": "(c) cheins1, all rights reserved, uploaded by cheins1",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/15363800"
+    },
+    {
+      "id": 203530537,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/203530537/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/203530537/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/120343832"
+    }
+  ],
+  "nameStory": "The Pale Sheetweb Weaver gets its name from two key features that make it distinctive among New England spiders. 'Pale' refers to its light, almost ghostly coloration that helps it blend into its surroundings, while 'sheetweb' describes the flat, sheet-like webs it constructs rather than the classic orb webs many people picture when they think of spider webs.",
+  "description": "The Pale Sheetweb Weaver is a small, delicate spider with a light-colored body that's easy to overlook in the wild. As a member of the sheetweb spider family, it creates distinctive flat webs that look like tiny sheets or platforms stretched between vegetation. These spiders are quite small, typically measuring just a few millimeters in body length, making them one of the more diminutive web-builders you might encounter in New England. Their pale coloration and small size help them stay hidden while they wait for tiny insects to stumble into their sheet-like traps.",
+  "idTips": [
+    {
+      "label": "Web",
+      "description": "Look for small, flat sheet-like webs stretched horizontally between low vegetation, feeling almost like silk tissue paper if you gently touch the edge",
+      "isPrimary": true
+    },
+    {
+      "label": "Body Shape",
+      "description": "Small, compact spider with a rounded abdomen and relatively short legs compared to orb weavers",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Pale, light-colored body with subtle markings that may appear almost translucent in bright light",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Very small spider, with body length just a few millimeters - about the size of a small bead",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Typically hangs upside down beneath its sheet web, running quickly across the surface when disturbed",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in low vegetation, grassy areas, and among shrubs where it can anchor its sheet webs between stems and leaves. Prefers areas with some moisture and protection from strong winds, such as woodland edges, meadows, and gardens with dense plantings. The spider needs multiple anchor points for its web, so look for it in areas with plenty of branching vegetation at ground to waist height.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, beginning to construct new webs in emerging vegetation. Look for fresh, clean sheet webs in areas where new growth provides good anchor points.",
+    "summer": "Peak activity period when webs are most visible and spiders are actively hunting. This is the best time to observe their web-building and feeding behavior.",
+    "fall": "Mating occurs and egg sacs may be visible near webs. Webs may appear more weathered but spiders remain active until frost.",
+    "winter": "Adults typically die off with hard frosts, but eggs overwinter in protected locations to hatch the following spring."
+  },
+  "funFact": "Despite being called 'sheet' webs, these spiders actually construct their webs as three-dimensional traps - the visible sheet is just the platform, with an invisible tangle of 'knock-down' threads above it that cause flying insects to fall onto the sheet below, like a tiny aerial fishing net!",
+  "confusionNotes": "Most easily confused with other small sheetweb spiders in the Linyphiidae family, but the pale coloration and small size help distinguish it. Remember: if you see a tiny, light-colored spider under a flat web (not a classic round orb web), you're likely looking at a sheetweb weaver of some kind.",
+  "contextualKnowledge": "The family name Linyphiidae comes from the Greek word 'linyphes' meaning 'net weaver,' which perfectly describes their sheet-web construction behavior. These spiders represent one of the largest spider families in the world, though individual species are often quite small and easily overlooked.",
+  "compareHints": "Since this is the only Bathyphantes species documented in our New England dataset, compare it with other small sheetweb spiders in the Linyphiidae family by focusing on its particularly pale coloration. Most other sheetweb weavers in the region tend to have darker or more distinctly patterned bodies, making the pale coloration a useful distinguishing feature when combined with the characteristic sheet web structure.",
+  "relatedSpecies": [],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bathyphantes_pallidus",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/153638"
+}

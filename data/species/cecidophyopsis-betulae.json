@@ -1,0 +1,135 @@
+{
+  "slug": "cecidophyopsis-betulae",
+  "taxonId": 1244715,
+  "group": "arachnids",
+  "commonName": "Cecidophyopsis betulae",
+  "scientificName": "Cecidophyopsis betulae",
+  "family": "Eriophyidae",
+  "familyCommonName": "Gall and Rust Mites",
+  "genus": "Cecidophyopsis",
+  "genusCommonName": "Cecidophyopsis",
+  "order": "Sarcoptiformes",
+  "orderCommonName": "Sarcoptiformes",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Sarcoptiformes",
+      "rank": "order",
+      "slug": "explore/sarcoptiformes"
+    },
+    {
+      "label": "Gall and Rust Mites",
+      "rank": "family",
+      "slug": "explore/gall-and-rust-mites"
+    },
+    {
+      "label": "Cecidophyopsis",
+      "rank": "genus",
+      "slug": "explore/cecidophyopsis"
+    },
+    {
+      "label": "Cecidophyopsis betulae",
+      "rank": "species",
+      "slug": "species/cecidophyopsis-betulae"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 45349380,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/45349380/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/45349380/large.jpeg",
+      "attribution": "(c) wjantzen, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/29068042"
+    },
+    {
+      "id": 97520646,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/97520646/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/97520646/large.jpg",
+      "attribution": "(c) Daniel Petersen, some rights reserved (CC BY-NC), uploaded by Daniel Petersen",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/124471502"
+    },
+    {
+      "id": 174053585,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/174053585/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/174053585/large.jpg",
+      "attribution": "(c) Matthew Beziat, some rights reserved (CC BY-NC), uploaded by Matthew Beziat",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/124471500"
+    },
+    {
+      "id": 160969731,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/160969731/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/160969731/large.jpg",
+      "attribution": "(c) Izabella Farr, some rights reserved (CC BY-NC), uploaded by Izabella Farr",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/124471501"
+    }
+  ],
+  "nameStory": "The birch bud mite gets its name from its very specific lifestyle - it lives exclusively inside the buds of birch trees, where it feeds and reproduces. The scientific name 'Cecidophyopsis betulae' literally means 'gall-loving creature of the birch,' since these tiny mites cause the tree buds to swell into distinctive galls. Think of them as the ultimate homebodies of the arachnid world!",
+  "description": "The birch bud mite is a microscopic arachnid that's virtually impossible to see with the naked eye, measuring only about 0.2 millimeters long. These elongated, worm-like creatures are translucent white to pale yellow and have only four legs (unlike typical mites which have eight when mature). They spend their entire lives hidden inside birch tree buds, where they feed on plant juices and cause the buds to become swollen and deformed. You'll never actually see the mites themselves, but you'll definitely notice their handiwork on birch trees.",
+  "idTips": [
+    {
+      "label": "Gall Formation",
+      "description": "Look for abnormally swollen, round birch buds that feel hard and woody when gently squeezed - these are the mites' homes",
+      "isPrimary": true
+    },
+    {
+      "label": "Size",
+      "description": "The mites themselves are microscopic and invisible to the naked eye, requiring magnification to observe",
+      "isPrimary": false
+    },
+    {
+      "label": "Body Shape",
+      "description": "When viewed under magnification, they appear elongated and worm-like with a segmented appearance",
+      "isPrimary": false
+    },
+    {
+      "label": "Color",
+      "description": "Translucent white to pale yellow, almost ghost-like in appearance under a microscope",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Never venture outside their birch bud homes - look for small holes where they may have emerged",
+      "isPrimary": false
+    },
+    {
+      "label": "Host Specificity",
+      "description": "Found exclusively on birch trees (Betula species) - you'll never find them on other tree types",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "These mites are found wherever birch trees grow in New England's forests, from lowland woods to mountain slopes up to about 3,000 feet elevation. They particularly favor paper birch, yellow birch, and gray birch in both dense forests and open woodland edges. Look for their galls on both young saplings and mature trees, especially in areas with moist, rich soil where birches thrive.",
+  "seasonality": {
+    "spring": "Mites become active inside buds as temperatures warm, with galls beginning to form and swell noticeably on birch branches.",
+    "summer": "Peak activity period when galls are most prominent and easy to spot - this is the best time to identify their presence.",
+    "fall": "Mites settle in for winter inside their protective galls, which remain visible as hard, brown swellings on branches.",
+    "winter": "Dormant inside galls, but the swollen buds remain clearly visible on bare birch branches against winter snow."
+  },
+  "funFact": "These mites are so specialized that they can only survive on birch trees - if you moved them to any other plant, even closely related trees, they would die within hours because they've evolved to digest only birch-specific plant chemicals!",
+  "confusionNotes": "The swollen galls might be confused with other plant growths, but birch bud mite galls are always perfectly round, woody-hard, and located exactly where normal buds should be. Unlike fungal infections or other insect damage, these galls feel solid and uniform when gently pressed.",
+  "contextualKnowledge": "While called 'mites,' these creatures are so different from typical mites that they're classified in their own special family. Most people think of mites as having eight legs, but gall mites like this one have only four legs throughout their adult lives, making them quite unusual in the arachnid world.",
+  "compareHints": "As the only species in its genus found in New England, the birch bud mite is unique in its exclusive relationship with birch trees. Other gall mites in the region typically create different types of growths - like fuzzy patches or leaf curling - rather than the distinctive hard, round bud galls that make this species unmistakable. The perfectly spherical, woody galls are like botanical fingerprints that no other mite species produces.",
+  "relatedSpecies": [],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1244715"
+}

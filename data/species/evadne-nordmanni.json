@@ -1,0 +1,114 @@
+{
+  "slug": "evadne-nordmanni",
+  "taxonId": 203477,
+  "group": "crustaceans",
+  "commonName": "Evadne nordmanni",
+  "scientificName": "Evadne nordmanni",
+  "family": "Podonidae",
+  "familyCommonName": "Podonidae",
+  "genus": "Evadne",
+  "genusCommonName": "Evadne",
+  "order": "Onychopoda",
+  "orderCommonName": "Onychopoda",
+  "breadcrumb": [
+    {
+      "label": "Crustaceans",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Branchiopods",
+      "rank": "class",
+      "slug": "explore/branchiopods"
+    },
+    {
+      "label": "Onychopoda",
+      "rank": "order",
+      "slug": "explore/onychopoda"
+    },
+    {
+      "label": "Podonidae",
+      "rank": "family",
+      "slug": "explore/podonidae"
+    },
+    {
+      "label": "Evadne",
+      "rank": "genus",
+      "slug": "explore/evadne"
+    },
+    {
+      "label": "Evadne nordmanni",
+      "rank": "species",
+      "slug": "species/evadne-nordmanni"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 34125773,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34125773/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34125773/large.jpg",
+      "attribution": "(c) Nazarov Lev, some rights reserved (CC BY-NC), uploaded by Nazarov Lev",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/20347700"
+    },
+    {
+      "id": 579075003,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/579075003/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/579075003/large.jpg",
+      "attribution": "(c) pinkbeetle, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/320292555"
+    }
+  ],
+  "nameStory": "Evadne nordmanni is named after the Norse sea goddess Evadne, reflecting its marine habitat. The species name 'nordmanni' honors the 19th-century naturalist Alexander von Nordmann, who studied marine life in northern waters.",
+  "description": "Evadne nordmanni is a tiny marine crustacean, part of the zooplankton community that drifts in ocean waters. This microscopic animal looks like a translucent, elongated teardrop with a distinctive large eye and swimming antennae. Adults reach only about 1-2 millimeters in length, making them barely visible to the naked eye as tiny specks in seawater.",
+  "idTips": [
+    {
+      "label": "Large compound eye",
+      "description": "A single, prominent dark eye takes up much of the rounded front end - appears as a black dot when viewed under magnification",
+      "isPrimary": true
+    },
+    {
+      "label": "Translucent body",
+      "description": "The entire body is crystal clear to slightly milky, allowing you to see internal organs as shadowy shapes",
+      "isPrimary": false
+    },
+    {
+      "label": "Swimming antennae",
+      "description": "Two branched, feathery antennae extend from the head region and beat rhythmically for swimming",
+      "isPrimary": false
+    },
+    {
+      "label": "Teardrop shape",
+      "description": "Body is widest at the front near the eye and tapers to a pointed rear end, like an upside-down teardrop",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Extremely small - appears as barely visible moving specks in water samples, requiring magnification to see details",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in coastal waters of New England, particularly in the Gulf of Maine and offshore Atlantic waters. These planktonic crustaceans drift in the upper layers of the ocean, often concentrated where cold and warm currents mix. They're most commonly collected in plankton nets during marine research or may occasionally be found in tide pools with very fine mesh sampling.",
+  "seasonality": {
+    "spring": "Populations begin to increase as water temperatures rise and phytoplankton blooms provide abundant food sources.",
+    "summer": "Peak abundance occurs during warm months when they actively reproduce and feed on microscopic algae in surface waters.",
+    "fall": "Numbers remain high but begin to decline as water temperatures drop and food becomes less abundant.",
+    "winter": "Populations are at their lowest, with many individuals in deeper waters or existing as dormant eggs."
+  },
+  "funFact": "**Uncertain claim** Evadne nordmanni can reproduce through parthenogenesis, meaning females can create genetic clones of themselves without mating - like having microscopic marine twins!",
+  "confusionNotes": "**Uncertain claim** Most easily confused with other small marine copepods and cladocerans, but Evadne's single large eye and teardrop body shape distinguish it from the more cylindrical copepods that typically have two smaller eyes.",
+  "contextualKnowledge": "This species represents the marine side of the cladoceran family - while most people know cladocerans as freshwater \"water fleas\" like Daphnia, Evadne shows how this group has adapted to ocean life with specialized features for marine survival.",
+  "compareHints": "**Uncertain claim** As the only Evadne species commonly found in New England waters, it's best compared to other marine cladocerans in the family Podonidae. Unlike its relatives, Evadne nordmanni has a more elongated body shape and proportionally larger eye. The related genus Podon tends to be more rounded and compact, while Evadne maintains its characteristic teardrop profile.",
+  "relatedSpecies": [],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/203477"
+}

@@ -1,0 +1,367 @@
+{
+  "slug": "suillus-weaverae",
+  "taxonId": 543035,
+  "group": "fungi",
+  "commonName": "Butterball",
+  "scientificName": "Suillus weaverae",
+  "family": "Suillaceae",
+  "familyCommonName": "Suillaceae",
+  "genus": "Suillus",
+  "genusCommonName": "Slippery Jacks",
+  "order": "Boletales",
+  "orderCommonName": "boletes and allies",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Basidiomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/basidiomycete-fungi"
+    },
+    {
+      "label": "Mushrooms, Bracket Fungi, Puffballs, and Allies",
+      "rank": "class",
+      "slug": "explore/mushrooms-bracket-fungi-puffballs-and-allies"
+    },
+    {
+      "label": "boletes and allies",
+      "rank": "order",
+      "slug": "explore/boletes-and-allies"
+    },
+    {
+      "label": "Suillaceae",
+      "rank": "family",
+      "slug": "explore/suillaceae"
+    },
+    {
+      "label": "Slippery Jacks",
+      "rank": "genus",
+      "slug": "explore/slippery-jacks"
+    },
+    {
+      "label": "Butterball",
+      "rank": "species",
+      "slug": "species/suillus-weaverae"
+    }
+  ],
+  "observationCount": 217,
+  "abundanceTier": "very-common",
+  "photos": [
+    {
+      "id": 322652590,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322652590/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322652590/large.jpg",
+      "attribution": "(c) tombigelow, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/184808929"
+    },
+    {
+      "id": 114692275,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114692275/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114692275/large.jpg",
+      "attribution": "(c) Nova Patch, some rights reserved (CC BY-SA), uploaded by Nova Patch",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/54303502"
+    },
+    {
+      "id": 307490564,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/307490564/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/307490564/large.jpg",
+      "attribution": "(c) aezanne, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/176840322"
+    },
+    {
+      "id": 442433052,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/442433052/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/442433052/large.jpeg",
+      "attribution": "(c) W Rao, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/247700512"
+    },
+    {
+      "id": 114692245,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114692245/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114692245/large.jpg",
+      "attribution": "(c) Nova Patch, some rights reserved (CC BY-SA), uploaded by Nova Patch",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/54303500"
+    },
+    {
+      "id": 8965208,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8965208/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8965208/large.jpeg",
+      "attribution": "(c) Django Grootmyers, some rights reserved (CC BY-SA), uploaded by Django Grootmyers",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/54303501"
+    },
+    {
+      "id": 307490518,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/307490518/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/307490518/large.jpg",
+      "attribution": "(c) aezanne, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/176840322"
+    },
+    {
+      "id": 105701076,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/105701076/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/105701076/large.jpg",
+      "attribution": "(c) Annie Weissman, some rights reserved (CC BY), uploaded by Annie Weissman",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/54303503"
+    },
+    {
+      "id": 307490604,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/307490604/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/307490604/large.jpg",
+      "attribution": "(c) aezanne, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/176840322"
+    },
+    {
+      "id": 579394674,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/579394674/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/579394674/large.jpg",
+      "attribution": "(c) Karen T H, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/320454697"
+    },
+    {
+      "id": 442433048,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/442433048/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/442433048/large.jpeg",
+      "attribution": "(c) W Rao, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/247700512"
+    },
+    {
+      "id": 554529398,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/554529398/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/554529398/large.jpg",
+      "attribution": "(c) Moi CA, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/307432095"
+    },
+    {
+      "id": 554529468,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/554529468/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/554529468/large.jpg",
+      "attribution": "(c) Moi CA, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/307432095"
+    },
+    {
+      "id": 328212052,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/328212052/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/328212052/large.jpg",
+      "attribution": "(c) franktan, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/187649834"
+    },
+    {
+      "id": 442433064,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/442433064/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/442433064/large.jpeg",
+      "attribution": "(c) W Rao, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/247700512"
+    },
+    {
+      "id": 554529551,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/554529551/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/554529551/large.jpg",
+      "attribution": "(c) Moi CA, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/307432095"
+    }
+  ],
+  "nameStory": "The Butterball gets its delightfully descriptive name from its rounded, butter-colored cap that looks remarkably like a golden pat of butter sitting in the forest. When young, these mushrooms are especially plump and smooth, earning them this appetizing nickname that makes them easy to remember.",
+  "description": "The Butterball is a chunky, golden-brown bolete mushroom that belongs to the Slippery Jacks family. Instead of gills underneath its cap, it has tiny pores that look like a natural sponge. These medium-sized mushrooms have smooth, buttery-colored caps when young that can become slightly sticky when wet, and thick, pale stems that often show tiny droplets of moisture.",
+  "idTips": [
+    {
+      "label": "Pores",
+      "description": "The underside has tiny pores instead of gills, appearing like a fine yellow sponge that may release milky droplets when fresh",
+      "isPrimary": true
+    },
+    {
+      "label": "Cap",
+      "description": "Smooth, butter-yellow to golden-brown cap that feels slightly sticky or tacky when moist, like touching honey",
+      "isPrimary": false
+    },
+    {
+      "label": "Stem",
+      "description": "Thick, pale yellow stem often decorated with tiny white or yellow droplets that feel slightly sticky to the touch",
+      "isPrimary": false
+    },
+    {
+      "label": "Spore Print",
+      "description": "Produces a brown to olive-brown spore print when cap is placed gill-side down on white paper overnight",
+      "isPrimary": false
+    },
+    {
+      "label": "Smell",
+      "description": "Pleasant, mild mushroomy smell without any unpleasant or chemical odors",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for Butterballs in coniferous and mixed forests throughout New England, especially near pine trees where they form beneficial partnerships with tree roots. They prefer acidic, well-drained soils and are often found in areas with scattered pine needles and organic debris.",
+  "seasonality": {
+    "spring": "Rarely seen in spring as most emerge later in the growing season when soil temperatures warm.",
+    "summer": "Begin appearing in mid to late summer, especially after periods of warm rain when soil moisture is adequate.",
+    "fall": "Peak season for Butterballs, fruiting abundantly through early to mid-fall until hard frosts arrive.",
+    "winter": "No longer fruiting, though dried specimens may persist briefly after first frosts before decomposing."
+  },
+  "funFact": "Butterballs were hiding in plain sight for decades - mycologists in eastern North America thought they were finding a European species called Suillus granulatus, but DNA analysis revealed they were actually a distinct North American species all along!",
+  "confusionNotes": "Often confused with the Dotted-stalked Suillus, but Butterballs typically have a stickier cap surface and the stem droplets are usually more prominent and persistent. Remember: if the stem looks like it's been sprinkled with tiny pearls of moisture, you've likely found a Butterball.",
+  "contextualKnowledge": "This species represents a perfect example of cryptic species - mushrooms that look nearly identical but are genetically distinct. Many field guides still incorrectly list this as Suillus granulatus, so don't be surprised if you see conflicting names in older references.",
+  "compareHints": "Unlike the Painted Suillus with its reddish streaks, or the Chicken Fat Mushroom with its more orange tones, the Butterball maintains consistent golden-butter coloring. The persistent droplets on the stem also distinguish it from most other Slippery Jacks, which may show droplets only when very young. Safety note: Never eat wild mushrooms without expert identification - some boletes can cause digestive upset.",
+  "relatedSpecies": [
+    {
+      "slug": "suillus-spraguei",
+      "commonName": "Painted Suillus",
+      "scientificName": "Suillus spraguei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154611972/medium.jpg",
+      "distinction": "Among its Suillus relatives, the Painted Suillus stands out dramatically with its red and yellow crackled cap pattern – most other slippery jacks have solid-colored, slimy caps in browns or yellows."
+    },
+    {
+      "slug": "suillus-americanus",
+      "commonName": "Chicken Fat Mushroom",
+      "scientificName": "Suillus americanus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/186136/medium.jpg",
+      "distinction": "Among New England's Slippery Jacks, the Chicken Fat Mushroom stands out with its reddish-brown cap scales and consistently slimy texture - features that separate it from the Purple-veiled Slippery Jack's partial veil or the Dotted-stalked Suillus's white cap."
+    },
+    {
+      "slug": "suillus-granulatus",
+      "commonName": "Dotted-stalked Suillus",
+      "scientificName": "Suillus granulatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/200412063/medium.jpg",
+      "distinction": "Unlike its cousin the Purple-veiled Slippery Jack which has a distinctive ring around the stem, the Dotted-stalked Suillus has a completely ringless stem covered in granular dots."
+    },
+    {
+      "slug": "suillus-salmonicolor",
+      "commonName": "Slippery Jill",
+      "scientificName": "Suillus salmonicolor",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4158948/medium.",
+      "distinction": "Among its Suillus relatives, Slippery Jill stands out with its distinctive reddish-brown dotted stem - most other slippery jacks either lack these glandular dots or have different colored ones."
+    },
+    {
+      "slug": "suillus-placidus",
+      "commonName": "white suillus",
+      "scientificName": "Suillus placidus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159971/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "suillus-acidus",
+      "commonName": "Sour Cap Suillus",
+      "scientificName": "Suillus acidus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61882455/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "suillus-grevillei",
+      "commonName": "Larch Bolete",
+      "scientificName": "Suillus grevillei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/236113746/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "suillus-ampliporus",
+      "commonName": "Western Hollow Jack",
+      "scientificName": "Suillus ampliporus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53494139/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "suillus-punctipes",
+      "commonName": "spicy suillus",
+      "scientificName": "Suillus punctipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/229008176/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "suillus-paluster",
+      "commonName": "Red Bog Bolete",
+      "scientificName": "Suillus paluster",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4160400/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "suillus-luteus",
+      "commonName": "Purple-veiled Slippery Jack",
+      "scientificName": "Suillus luteus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12823339/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "suillus-brevipes",
+      "commonName": "Short-stalked Suillus",
+      "scientificName": "Suillus brevipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28232574/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "suillus-spectabilis",
+      "commonName": "Suillus spectabilis",
+      "scientificName": "Suillus spectabilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13075989/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "suillus-clintonianus",
+      "commonName": "Larch Suillus",
+      "scientificName": "Suillus clintonianus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172296347/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "suillus-cavipes",
+      "commonName": "Hollow Bolete",
+      "scientificName": "Suillus cavipes",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/322444176/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "suillus-subaureus",
+      "commonName": "Suillus subaureus",
+      "scientificName": "Suillus subaureus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4134257/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "suillus-glandulosus",
+      "commonName": "Boreal Bolete",
+      "scientificName": "Suillus glandulosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24539669/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "suillus-elbensis",
+      "commonName": "Suillus elbensis",
+      "scientificName": "Suillus elbensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24559990/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "suillus-glandulosipes",
+      "commonName": "Suillus glandulosipes",
+      "scientificName": "Suillus glandulosipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/160710098/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "suillus-serotinus",
+      "commonName": "Suillus serotinus",
+      "scientificName": "Suillus serotinus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31108516/medium.jpg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Suillus_weaverae",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/543035"
+}

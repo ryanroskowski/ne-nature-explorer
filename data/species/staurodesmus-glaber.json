@@ -1,0 +1,200 @@
+{
+  "slug": "staurodesmus-glaber",
+  "taxonId": 898551,
+  "group": "plants",
+  "commonName": "Staurodesmus glaber",
+  "scientificName": "Staurodesmus glaber",
+  "family": "Desmidiaceae",
+  "familyCommonName": "Desmidiaceae",
+  "genus": "Staurodesmus",
+  "genusCommonName": "Staurodesmus",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Desmidiaceae",
+      "rank": "family",
+      "slug": "explore/desmidiaceae"
+    },
+    {
+      "label": "Staurodesmus",
+      "rank": "genus",
+      "slug": "explore/staurodesmus"
+    },
+    {
+      "label": "Staurodesmus glaber",
+      "rank": "species",
+      "slug": "species/staurodesmus-glaber"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 41234178,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41234178/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41234178/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC), uploaded by Karolina Fucikova",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/89855100"
+    }
+  ],
+  "nameStory": "Staurodesmus glaber doesn't have a widely-used common name since it's a microscopic freshwater algae that most people never encounter. The scientific name comes from Greek 'stauros' meaning cross and 'desmus' meaning chain, referring to how these tiny organisms can link together, while 'glaber' means smooth or hairless.",
+  "description": "This is actually a microscopic single-celled green algae, not a plant you can see with the naked eye! Each cell is incredibly tiny - smaller than the width of a human hair - and has a distinctive pinched or constricted middle that makes it look like a tiny hourglass or dumbbell. You'd need a microscope to see these beautiful emerald-green organisms, which live in freshwater ponds, lakes, and slow-moving streams throughout New England.",
+  "idTips": [
+    {
+      "label": "Hourglass Shape",
+      "description": "Under a microscope, each cell has a deep constriction in the middle, creating two symmetrical halves that look like an elegant glass hourglass",
+      "isPrimary": true
+    },
+    {
+      "label": "Smooth Surface",
+      "description": "The cell wall appears completely smooth without any spines, bumps, or decorative features that many of its relatives display",
+      "isPrimary": false
+    },
+    {
+      "label": "Bright Green Color",
+      "description": "The cells glow with a vibrant emerald green color due to their chloroplasts, making them jewel-like under proper lighting",
+      "isPrimary": false
+    },
+    {
+      "label": "Paired Arrangement",
+      "description": "Often found as two cells still connected after division, creating a figure-eight pattern before they separate",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Lives in clean, slightly acidic freshwater environments like bog pools, pristine mountain ponds, and the quiet backwaters of slow-moving streams. Prefers soft water with low mineral content and can often be found in areas with sphagnum moss or other acid-loving plants.",
+  "seasonality": {
+    "spring": "Populations begin growing as water temperatures rise and daylight increases, though you'd need a microscope and water samples to observe them.",
+    "summer": "Peak growing season when warm temperatures and long days create ideal conditions for reproduction and population growth.",
+    "fall": "Still active but populations may begin to decline as temperatures drop and daylight decreases.",
+    "winter": "Present but largely dormant under ice cover, with very slow growth and reproduction rates."
+  },
+  "funFact": "Despite being invisible to the naked eye, a single drop of pond water can contain thousands of these microscopic gems, each one a complete living organism that's been virtually unchanged for over a billion years - they're living fossils swimming in our local waters!",
+  "confusionNotes": "Under the microscope, it's easily confused with other desmid algae in the same family, but Staurodesmus glaber's completely smooth cell walls distinguish it from spiny relatives like S. megacanthus, and its deep constriction sets it apart from less pinched species.",
+  "contextualKnowledge": "Many people don't realize that algae like this are actually the foundation of most freshwater food webs - these tiny organisms that require a microscope to see are what ultimately feed everything from water fleas to fish to the birds that visit our ponds.",
+  "compareHints": "Unlike its spiny relatives such as Staurodesmus megacanthus which bristles with prominent spines, S. glaber lives up to its 'smooth' name with completely unornamented cell walls. It also has a deeper central constriction than species like S. convergens, making its hourglass shape more pronounced and easier to recognize under the microscope.",
+  "relatedSpecies": [
+    {
+      "slug": "staurodesmus-extensus",
+      "commonName": "Staurodesmus extensus",
+      "scientificName": "Staurodesmus extensus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/81115416/medium.jpg",
+      "distinction": "Staurodesmus extensus differs from its relatives by having the longest spines in the genus - hence 'extensus' meaning extended."
+    },
+    {
+      "slug": "staurodesmus-octocornis",
+      "commonName": "Staurodesmus octocornis",
+      "scientificName": "Staurodesmus octocornis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/269785279/medium.jpg",
+      "distinction": "Unlike Staurodesmus triangularis which has three main projections, or S."
+    },
+    {
+      "slug": "staurodesmus-convergens",
+      "commonName": "Staurodesmus convergens",
+      "scientificName": "Staurodesmus convergens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/464041006/medium.jpg",
+      "distinction": "Staurodesmus convergens differs from its relatives by having relatively short spines and a specific cell outline shape - S."
+    },
+    {
+      "slug": "staurodesmus-megacanthus",
+      "commonName": "Staurodesmus megacanthus",
+      "scientificName": "Staurodesmus megacanthus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226976684/medium.jpg",
+      "distinction": "Among its Staurodesmus relatives, megacanthus stands out for having the longest, most prominent spines - much more dramatic than the shorter projections of species like S."
+    },
+    {
+      "slug": "staurodesmus-cuspidatus",
+      "commonName": "Staurodesmus cuspidatus",
+      "scientificName": "Staurodesmus cuspidatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/344889916/medium.jpg",
+      "distinction": "Staurodesmus cuspidatus has more prominent, sharper spines than most of its relatives in the genus."
+    },
+    {
+      "slug": "staurodesmus-dickiei",
+      "commonName": "Staurodesmus dickiei",
+      "scientificName": "Staurodesmus dickiei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41272990/medium.jpg",
+      "distinction": "Staurodesmus dickiei is distinguished from its relatives by its specific spine arrangement and overall cell proportions."
+    },
+    {
+      "slug": "staurodesmus-incus",
+      "commonName": "Staurodesmus incus",
+      "scientificName": "Staurodesmus incus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/204754563/medium.jpg",
+      "distinction": "Staurodesmus incus differs from its relatives by having a smoother outline and less pronounced spines compared to species like S."
+    },
+    {
+      "slug": "staurodesmus-brevispina",
+      "commonName": "Staurodesmus brevispina",
+      "scientificName": "Staurodesmus brevispina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2354555/medium.jpg",
+      "distinction": "Staurodesmus brevispina stands out from its relatives by having the shortest spines in the genus - while species like S."
+    },
+    {
+      "slug": "staurodesmus-validus",
+      "commonName": "Staurodesmus validus",
+      "scientificName": "Staurodesmus validus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2460296/medium.jpg",
+      "distinction": "Staurodesmus validus is distinguished from its relatives by its particularly robust cell walls and smooth margins without spines or projections."
+    },
+    {
+      "slug": "staurodesmus-triangularis",
+      "commonName": "Staurodesmus triangularis",
+      "scientificName": "Staurodesmus triangularis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/273956921/medium.jpg",
+      "distinction": "Compared to its relatives like Staurodesmus octocornis which has eight prominent corner projections, S."
+    },
+    {
+      "slug": "staurodesmus-bulnheimii",
+      "commonName": "Staurodesmus bulnheimii",
+      "scientificName": "Staurodesmus bulnheimii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/138378349/medium.jpg",
+      "distinction": "Staurodesmus bulnheimii differs from its relatives by having shorter, more blunt projections compared to species like S."
+    },
+    {
+      "slug": "staurodesmus-lobatus",
+      "commonName": "Staurodesmus lobatus",
+      "scientificName": "Staurodesmus lobatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226533989/medium.jpg",
+      "distinction": "Compared to its Staurodesmus relatives, S."
+    },
+    {
+      "slug": "staurodesmus-longispinus",
+      "commonName": "Staurodesmus longispinus",
+      "scientificName": "Staurodesmus longispinus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61281700/medium.jpg",
+      "distinction": "Among its Staurodesmus relatives, longispinus stands out for having the longest spines relative to its body size - hence the name."
+    },
+    {
+      "slug": "staurodesmus-quiriferus",
+      "commonName": "Staurodesmus quiriferus",
+      "scientificName": "Staurodesmus quiriferus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/287098017/medium.jpg",
+      "distinction": "Staurodesmus quiriferus differs from its relatives by its particularly pronounced cross-shaped outline and the specific arrangement of its spines."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/898551"
+}

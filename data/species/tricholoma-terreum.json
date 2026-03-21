@@ -1,0 +1,455 @@
+{
+  "slug": "tricholoma-terreum",
+  "taxonId": 341797,
+  "group": "fungi",
+  "commonName": "Grey Knight",
+  "scientificName": "Tricholoma terreum",
+  "family": "Tricholomataceae",
+  "familyCommonName": "Tricholomataceae",
+  "genus": "Tricholoma",
+  "genusCommonName": "Knights",
+  "order": "Agaricales",
+  "orderCommonName": "Common Gilled Mushrooms and Allies",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Basidiomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/basidiomycete-fungi"
+    },
+    {
+      "label": "Mushrooms, Bracket Fungi, Puffballs, and Allies",
+      "rank": "class",
+      "slug": "explore/mushrooms-bracket-fungi-puffballs-and-allies"
+    },
+    {
+      "label": "Common Gilled Mushrooms and Allies",
+      "rank": "order",
+      "slug": "explore/common-gilled-mushrooms-and-allies"
+    },
+    {
+      "label": "Tricholomataceae",
+      "rank": "family",
+      "slug": "explore/tricholomataceae"
+    },
+    {
+      "label": "Knights",
+      "rank": "genus",
+      "slug": "explore/knights"
+    },
+    {
+      "label": "Grey Knight",
+      "rank": "species",
+      "slug": "species/tricholoma-terreum"
+    }
+  ],
+  "observationCount": 21,
+  "abundanceTier": "common",
+  "photos": [
+    {
+      "id": 12089200,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12089200/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12089200/large.jpg",
+      "attribution": "(c) Damon Tighe, some rights reserved (CC BY-NC), uploaded by Damon Tighe",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/34179702"
+    },
+    {
+      "id": 4133564,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133564/medium.",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133564/large.",
+      "attribution": "(c) Christian Schwarz, some rights reserved (CC BY-NC), uploaded by Christian Schwarz",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/34179700"
+    },
+    {
+      "id": 14833878,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14833878/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14833878/large.jpeg",
+      "attribution": "(c) John Plischke, some rights reserved (CC BY-NC-SA), uploaded by John Plischke",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/34179708"
+    },
+    {
+      "id": 165492618,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/165492618/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/165492618/large.jpeg",
+      "attribution": "(c) Kris Diehl, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/99292236"
+    },
+    {
+      "id": 5770620,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5770620/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5770620/large.jpeg",
+      "attribution": "(c) Alan Rockefeller, some rights reserved (CC BY), uploaded by Alan Rockefeller",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/34179709"
+    },
+    {
+      "id": 8965616,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8965616/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8965616/large.jpeg",
+      "attribution": "(c) Danny Newman, some rights reserved (CC BY-NC-SA), uploaded by Danny Newman",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/34179703"
+    },
+    {
+      "id": 12227656,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12227656/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12227656/large.jpg",
+      "attribution": "(c) Marjan Kustera, some rights reserved (CC BY-NC), uploaded by Marjan Kustera",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/34179701"
+    },
+    {
+      "id": 713756,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/713756/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/713756/large.jpg",
+      "attribution": "(c) 2001 California Academy of Sciences, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/34179704"
+    },
+    {
+      "id": 2845177,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2845177/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2845177/large.jpg",
+      "attribution": "(c) Damon Tighe, some rights reserved (CC BY-NC), uploaded by Damon Tighe",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/34179706"
+    },
+    {
+      "id": 165492583,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/165492583/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/165492583/large.jpeg",
+      "attribution": "(c) Kris Diehl, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/99292236"
+    },
+    {
+      "id": 104274414,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/104274414/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/104274414/large.jpeg",
+      "attribution": "(c) Shirley Zundell, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/64821675"
+    },
+    {
+      "id": 60445069,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60445069/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60445069/large.jpg",
+      "attribution": "(c) David Greenberger, some rights reserved (CC BY-NC-ND), uploaded by David Greenberger",
+      "licenseCode": "cc-by-nc-nd",
+      "observationUrl": "https://www.inaturalist.org/observations/34179705"
+    },
+    {
+      "id": 57810333,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57810333/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57810333/large.jpg",
+      "attribution": "(c) TroutFly, some rights reserved (CC BY-NC), uploaded by TroutFly",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/34179707"
+    },
+    {
+      "id": 168127580,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168127580/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168127580/large.jpeg",
+      "attribution": "(c) Tom Walker, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/100718190"
+    },
+    {
+      "id": 28354137,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28354137/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28354137/large.jpg",
+      "attribution": "(c) Иван Матершев, some rights reserved (CC BY-NC), uploaded by Иван Матершев",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/34179710"
+    },
+    {
+      "id": 104274507,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/104274507/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/104274507/large.jpeg",
+      "attribution": "(c) Shirley Zundell, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/64821675"
+    }
+  ],
+  "nameStory": "",
+  "description": "The Grey Knight (Tricholoma terreum) is a small to medium-sized mushroom characterized by its distinctive grey cap and white to pale gills. It is a terrestrial fungus belonging to the Tricholomataceae family, commonly found in coniferous and mixed forests throughout New England.",
+  "idTips": [
+    {
+      "label": "Cap Color",
+      "description": "Grey to dark grey conical or bell-shaped cap with a silvery or radially fibrous appearance",
+      "isPrimary": true
+    },
+    {
+      "label": "Gills and Stem",
+      "description": "White to pale grey gills that are free or nearly free from the stem, with a white to pale grey cylindrical stem",
+      "isPrimary": false
+    },
+    {
+      "label": "Odor and Taste",
+      "description": "Mild, pleasant odor resembling new-mown hay or flour, with a mild taste",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "The Grey Knight thrives in coniferous and mixed forests, particularly near spruce, fir, and pine trees, preferring moist acidic soils in New England woodlands.",
+  "seasonality": {
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
+  },
+  "funFact": "Despite its edible reputation in some regions, the Grey Knight is often avoided by foragers due to the difficulty in distinguishing it from toxic lookalikes, making proper identification essential before consumption.",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
+  "relatedSpecies": [
+    {
+      "slug": "tricholoma-caligatum",
+      "commonName": "False Matsutake",
+      "scientificName": "Tricholoma caligatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29240063/medium.jpeg",
+      "distinction": "Unlike the American Matsutake which has a more subtle ring or none at all, the False Matsutake sports that distinctive sheathing ring around the stem."
+    },
+    {
+      "slug": "tricholoma-magnivelare",
+      "commonName": "American matsutake",
+      "scientificName": "Tricholoma magnivelare",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101092923/medium.jpeg",
+      "distinction": "Among its Tricholoma relatives, American matsutake stands out for its powerful cinnamon-spicy fragrance - most other Knights in this genus smell soapy, floury, or have no distinctive odor."
+    },
+    {
+      "slug": "tricholoma-equestre",
+      "commonName": "Yellow Knight",
+      "scientificName": "Tricholoma equestre",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14377130/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-subsejunctum",
+      "commonName": "Tricholoma subsejunctum",
+      "scientificName": "Tricholoma subsejunctum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135830/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-robustipes",
+      "commonName": "Tricholoma robustipes",
+      "scientificName": "Tricholoma robustipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/291041987/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-aurantium",
+      "commonName": "Tricholoma aurantium",
+      "scientificName": "Tricholoma aurantium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/612798102/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-davisiae",
+      "commonName": "Tricholoma davisiae",
+      "scientificName": "Tricholoma davisiae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4158994/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-grave",
+      "commonName": "Tricholoma grave",
+      "scientificName": "Tricholoma grave",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/157706747/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-apium",
+      "commonName": "Tricholoma apium",
+      "scientificName": "Tricholoma apium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4136263/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-subresplendens",
+      "commonName": "Tricholoma subresplendens",
+      "scientificName": "Tricholoma subresplendens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7067718/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-sejunctum",
+      "commonName": "Deceiving Knight",
+      "scientificName": "Tricholoma sejunctum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/116777452/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-fumosoluteum",
+      "commonName": "Tricholoma fumosoluteum",
+      "scientificName": "Tricholoma fumosoluteum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156875134/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-focale",
+      "commonName": "Necklace Tricholoma",
+      "scientificName": "Tricholoma focale",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28019593/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-columbetta",
+      "commonName": "Dove-colored Tricholoma",
+      "scientificName": "Tricholoma columbetta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6993853/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-saponaceum",
+      "commonName": "Soapy Trich",
+      "scientificName": "Tricholoma saponaceum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135083/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-portentosum",
+      "commonName": "Sticky Gray Trich",
+      "scientificName": "Tricholoma portentosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110384962/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-fulvum",
+      "commonName": "Birch Knight",
+      "scientificName": "Tricholoma fulvum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6993851/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-pullum",
+      "commonName": "Tricholoma pullum",
+      "scientificName": "Tricholoma pullum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4158921/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-subluteum",
+      "commonName": "Tricholoma subluteum",
+      "scientificName": "Tricholoma subluteum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/27236581/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "tricholoma-vaccinum",
+      "commonName": "russet scaly tricholoma",
+      "scientificName": "Tricholoma vaccinum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29570081/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-odorum",
+      "commonName": "Tricholoma odorum",
+      "scientificName": "Tricholoma odorum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/95329327/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-niveipes",
+      "commonName": "Tricholoma niveipes",
+      "scientificName": "Tricholoma niveipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61878889/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-atrodiscus",
+      "commonName": "Tricholoma atrodiscus",
+      "scientificName": "Tricholoma atrodiscus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55263233/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-aestuans",
+      "commonName": "Tricholoma aestuans",
+      "scientificName": "Tricholoma aestuans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159069/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-serratifolium",
+      "commonName": "Tricholoma serratifolium",
+      "scientificName": "Tricholoma serratifolium",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/106175477/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-virgatum",
+      "commonName": "Tricholoma virgatum",
+      "scientificName": "Tricholoma virgatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340459/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-pessundatum",
+      "commonName": "Red-brown Trich",
+      "scientificName": "Tricholoma pessundatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59725134/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-transmutans",
+      "commonName": "Tricholoma transmutans",
+      "scientificName": "Tricholoma transmutans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24558068/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-arvernense",
+      "commonName": "Tricholoma arvernense",
+      "scientificName": "Tricholoma arvernense",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/161588383/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-colossus",
+      "commonName": "Tricholoma colossus",
+      "scientificName": "Tricholoma colossus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/148478609/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-palustre",
+      "commonName": "Tricholoma palustre",
+      "scientificName": "Tricholoma palustre",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/166657635/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-subaureum",
+      "commonName": "Tricholoma subaureum",
+      "scientificName": "Tricholoma subaureum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/96475585/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-glaucescens",
+      "commonName": "Tricholoma glaucescens",
+      "scientificName": "Tricholoma glaucescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/233021322/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "tricholoma-imbricatoides",
+      "commonName": "Tricholoma imbricatoides",
+      "scientificName": "Tricholoma imbricatoides",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/343739748/medium.jpg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Tricholoma_terreum",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/341797"
+}

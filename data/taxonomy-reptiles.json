@@ -1,0 +1,1910 @@
+{
+  "id": 26036,
+  "name": "Reptilia",
+  "commonName": "Reptiles",
+  "rank": "class",
+  "speciesCount": 54,
+  "children": [
+    {
+      "id": 26172,
+      "name": "Squamata",
+      "commonName": "Snakes and Lizards",
+      "rank": "order",
+      "speciesCount": 28,
+      "children": [
+        {
+          "id": 26504,
+          "name": "Colubridae",
+          "commonName": "Colubrid Snakes",
+          "rank": "family",
+          "speciesCount": 15,
+          "children": [
+            {
+              "id": 29768,
+              "name": "Lampropeltis",
+              "commonName": "Kingsnakes and Milk Snakes",
+              "rank": "genus",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 515419,
+                  "name": "Lampropeltis triangulum",
+                  "commonName": "Eastern Milksnake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 515419,
+                      "name": "Lampropeltis triangulum",
+                      "commonName": "Eastern Milksnake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "eastern-milksnake",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/442043656/medium.jpg"
+                    }
+                  ],
+                  "slug": "eastern-milksnake",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/442043656/medium.jpg"
+                },
+                {
+                  "id": 29818,
+                  "name": "Lampropeltis holbrooki",
+                  "commonName": "Speckled Kingsnake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 29818,
+                      "name": "Lampropeltis holbrooki",
+                      "commonName": "Speckled Kingsnake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "speckled-kingsnake",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/520375044/medium.jpg"
+                    }
+                  ],
+                  "slug": "speckled-kingsnake",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/520375044/medium.jpg"
+                },
+                {
+                  "id": 146199,
+                  "name": "Lampropeltis californiae",
+                  "commonName": "California King Snake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 146199,
+                      "name": "Lampropeltis californiae",
+                      "commonName": "California King Snake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "california-king-snake",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/76504413/medium.jpg"
+                    }
+                  ],
+                  "slug": "california-king-snake",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/76504413/medium.jpg"
+                }
+              ],
+              "slug": "kingsnakes-and-milk-snakes",
+              "description": "Kingsnakes and milk snakes are medium-sized, non-venomous snakes known for their beautiful banded patterns and powerful constricting abilities. These snakes are beneficial to humans because they help control rodent populations and will even eat other snakes, including venomous species. They're generally docile and make popular pets due to their manageable size and striking appearance.",
+              "distinguishingFeatures": "Unlike many other snake species, kingsnakes and milk snakes are ophiophagous, meaning they regularly eat other snakes as part of their diet. They can be distinguished from similarly patterned venomous coral snakes by the phrase 'red touches black, friend of Jack' - their red bands touch black bands rather than yellow.",
+              "funFact": "Kingsnakes are immune to the venom of rattlesnakes, copperheads, and other venomous snakes, allowing them to hunt and eat these dangerous species without harm."
+            },
+            {
+              "id": 28339,
+              "name": "Thamnophis",
+              "commonName": "Garter Snakes",
+              "rank": "genus",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 28362,
+                  "name": "Thamnophis sirtalis",
+                  "commonName": "Common Garter Snake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 28362,
+                      "name": "Thamnophis sirtalis",
+                      "commonName": "Common Garter Snake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "common-garter-snake",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3263522/medium.JPG"
+                    }
+                  ],
+                  "slug": "common-garter-snake",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3263522/medium.JPG"
+                },
+                {
+                  "id": 558951,
+                  "name": "Thamnophis saurita",
+                  "commonName": "Common Ribbon Snake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 558951,
+                      "name": "Thamnophis saurita",
+                      "commonName": "Common Ribbon Snake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "common-ribbon-snake",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/639363/medium.jpg"
+                    }
+                  ],
+                  "slug": "common-ribbon-snake",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/639363/medium.jpg"
+                }
+              ],
+              "slug": "garter-snakes",
+              "description": "Garter snakes are small to medium-sized, non-venomous snakes that are among the most commonly encountered reptiles in New England. They are easily recognized by the distinctive light-colored stripes that run lengthwise down their bodies, typically yellow or cream-colored against darker backgrounds. These adaptable snakes can be found in a variety of habitats from gardens and fields to wetlands and forest edges.",
+              "distinguishingFeatures": "Garter snakes are distinguished from other New England snakes by their prominent longitudinal stripes and relatively slender build. Unlike many other snake species, they give birth to live young rather than laying eggs.",
+              "funFact": "When threatened, garter snakes will often release a foul-smelling musk from glands near their tail, earning them the nickname 'stink snakes' in some regions."
+            },
+            {
+              "id": 28555,
+              "name": "Storeria",
+              "commonName": "American Brown Snakes",
+              "rank": "genus",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 28562,
+                  "name": "Storeria dekayi",
+                  "commonName": "DeKay's Brownsnake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 28562,
+                      "name": "Storeria dekayi",
+                      "commonName": "DeKay's Brownsnake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "dekay-s-brownsnake",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64749622/medium.jpg"
+                    }
+                  ],
+                  "slug": "dekay-s-brownsnake",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64749622/medium.jpg"
+                },
+                {
+                  "id": 28557,
+                  "name": "Storeria occipitomaculata",
+                  "commonName": "Red-bellied Snake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 28557,
+                      "name": "Storeria occipitomaculata",
+                      "commonName": "Red-bellied Snake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "red-bellied-snake",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28345765/medium.jpg"
+                    }
+                  ],
+                  "slug": "red-bellied-snake",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28345765/medium.jpg"
+                }
+              ],
+              "slug": "american-brown-snakes",
+              "description": "American Brown Snakes are a small group of secretive, non-venomous snakes that prefer to stay hidden under logs, rocks, and leaf litter. These gentle serpents are among the smallest snakes in New England, typically measuring less than a foot long and feeding primarily on soft-bodied invertebrates like slugs, snails, and earthworms. Both species in this genus are completely harmless to humans and play important roles in controlling garden pests.",
+              "distinguishingFeatures": "Unlike other small snakes in the region, American Brown Snakes have keeled (ridged) scales that give them a slightly rough texture, and they possess distinctive light spots on the back of their necks. They also have proportionally larger eyes compared to most other small snake species in New England.",
+              "funFact": "When threatened, Red-bellied Snakes will curl their lips upward in a distinctive 'smile' and flatten their bodies to appear larger, while also flashing their bright red or orange belly as a warning display."
+            },
+            {
+              "id": 59649,
+              "name": "Pantherophis",
+              "commonName": "North American Ratsnakes",
+              "rank": "genus",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 59644,
+                  "name": "Pantherophis alleghaniensis",
+                  "commonName": "Eastern Ratsnake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 59644,
+                      "name": "Pantherophis alleghaniensis",
+                      "commonName": "Eastern Ratsnake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "eastern-ratsnake",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5211489/medium.jpeg"
+                    }
+                  ],
+                  "slug": "eastern-ratsnake",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5211489/medium.jpeg"
+                },
+                {
+                  "id": 73887,
+                  "name": "Pantherophis guttatus",
+                  "commonName": "Red Cornsnake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 73887,
+                      "name": "Pantherophis guttatus",
+                      "commonName": "Red Cornsnake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "red-cornsnake",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/457255500/medium.jpg"
+                    }
+                  ],
+                  "slug": "red-cornsnake",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/457255500/medium.jpg"
+                }
+              ],
+              "slug": "north-american-ratsnakes",
+              "description": "North American Ratsnakes are medium to large, non-venomous snakes known for their excellent climbing abilities and rodent-hunting skills. These constrictors have muscular bodies and are important predators that help control populations of mice, rats, and other small mammals. They're generally docile snakes that prefer to flee rather than fight when encountered.",
+              "distinguishingFeatures": "Ratsnakes can be distinguished from other snake groups by their keeled (ridged) scales, relatively slender build compared to other constrictors, and their distinctive head shape that's only slightly wider than their neck.",
+              "funFact": "Ratsnakes are such skilled climbers that they can scale brick walls and tree trunks by gripping tiny irregularities in the surface, often surprising people by appearing in attics, bird houses, or high tree branches."
+            },
+            {
+              "id": 29299,
+              "name": "Nerodia",
+              "commonName": "Watersnakes",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 29305,
+                  "name": "Nerodia sipedon",
+                  "commonName": "Common Watersnake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 29305,
+                      "name": "Nerodia sipedon",
+                      "commonName": "Common Watersnake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "common-watersnake",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222925393/medium.jpg"
+                    }
+                  ],
+                  "slug": "common-watersnake",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222925393/medium.jpg"
+                }
+              ],
+              "slug": "watersnakes",
+              "description": "Watersnakes are semi-aquatic snakes that spend much of their time in or near freshwater habitats like ponds, lakes, streams, and marshes. They are excellent swimmers and divers, often seen basking on logs or rocks near water's edge before quickly sliding into the water when disturbed. These non-venomous snakes are important predators of fish, frogs, and other aquatic prey.",
+              "distinguishingFeatures": "Watersnakes can be distinguished from other snakes by their preference for aquatic habitats and their ability to swim and dive skillfully. They have keeled (ridged) scales that help them grip wet surfaces and strongly flattened tails that aid in swimming.",
+              "funFact": "When threatened, watersnakes will often flatten their bodies and heads to appear larger and more intimidating, and they're notorious for releasing a foul-smelling musk as a defense mechanism."
+            },
+            {
+              "id": 26574,
+              "name": "Diadophis",
+              "commonName": "Ring-necked Snakes",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 26575,
+                  "name": "Diadophis punctatus",
+                  "commonName": "Ring-necked Snake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 26575,
+                      "name": "Diadophis punctatus",
+                      "commonName": "Ring-necked Snake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "ring-necked-snake",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/97648595/medium.jpeg"
+                    }
+                  ],
+                  "slug": "ring-necked-snake",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/97648595/medium.jpeg"
+                }
+              ],
+              "slug": "ring-necked-snakes",
+              "description": "Ring-necked snakes are small, slender serpents known for their distinctive bright orange or yellow collar that encircles their neck just behind the head. These secretive snakes are typically dark gray to black on top with a vibrant orange or red belly, and they rarely grow longer than 15 inches.",
+              "distinguishingFeatures": "The bright neck ring and colorful underside make ring-necked snakes unmistakable among New England's snake species. When threatened, they curl their tail upward to display their bright belly colors as a warning to predators.",
+              "funFact": "Ring-necked snakes have a unique defense mechanism called 'tail coiling' where they flip over and curl their tail to show off their bright orange belly, making themselves look like a tiny, colorful pretzel to confuse predators."
+            },
+            {
+              "id": 27030,
+              "name": "Coluber",
+              "commonName": "North American racers",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 27137,
+                  "name": "Coluber constrictor",
+                  "commonName": "North American Racer",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 27137,
+                      "name": "Coluber constrictor",
+                      "commonName": "North American Racer",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "north-american-racer",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/105329578/medium.jpg"
+                    }
+                  ],
+                  "slug": "north-american-racer",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/105329578/medium.jpg"
+                }
+              ],
+              "slug": "north-american-racers",
+              "description": "North American racers are fast-moving, non-venomous snakes known for their incredible speed and agility. These sleek serpents are active hunters that chase down their prey rather than lying in wait, making them some of the most athletic snakes in North America.",
+              "distinguishingFeatures": "Unlike many snakes that ambush prey or constrict their victims, racers rely on their exceptional speed to catch prey and their strong jaws to subdue it. They have smooth, shiny scales and large eyes that give them excellent vision for active hunting.",
+              "funFact": "North American racers can slither at speeds up to 8 miles per hour, making them among the fastest snakes in the world - fast enough to keep pace with a person walking briskly!"
+            },
+            {
+              "id": 29199,
+              "name": "Opheodrys",
+              "commonName": "Green Snakes",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 146314,
+                  "name": "Opheodrys vernalis",
+                  "commonName": "Smooth Greensnake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 146314,
+                      "name": "Opheodrys vernalis",
+                      "commonName": "Smooth Greensnake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "smooth-greensnake",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/25556671/medium.jpeg"
+                    }
+                  ],
+                  "slug": "smooth-greensnake",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/25556671/medium.jpeg"
+                }
+              ],
+              "slug": "green-snakes",
+              "description": "Green snakes are small, slender serpents known for their brilliant emerald coloration that provides perfect camouflage among grasses and foliage. These gentle, non-venomous snakes are primarily insectivores, feeding on soft-bodied prey like caterpillars, spiders, and crickets. They are secretive creatures that spend most of their time hidden in dense vegetation.",
+              "distinguishingFeatures": "Green snakes are easily distinguished from other New England snakes by their uniform bright green coloration and small, delicate build. Unlike other snakes in the region, they lack any patterns or markings and have relatively large eyes for their head size.",
+              "funFact": "When green snakes die, their vibrant emerald color quickly fades to blue or yellow due to the breakdown of yellow pigments in their skin, leaving only the blue pigments behind."
+            },
+            {
+              "id": 29923,
+              "name": "Heterodon",
+              "commonName": "Hog-nosed Snakes",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 29925,
+                  "name": "Heterodon platirhinos",
+                  "commonName": "Eastern Hognose Snake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 29925,
+                      "name": "Heterodon platirhinos",
+                      "commonName": "Eastern Hognose Snake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "eastern-hognose-snake",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/198456500/medium.jpg"
+                    }
+                  ],
+                  "slug": "eastern-hognose-snake",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/198456500/medium.jpg"
+                }
+              ],
+              "slug": "hog-nosed-snakes",
+              "description": "Hog-nosed snakes are a small group of thick-bodied, non-venomous snakes known for their dramatic defensive behaviors and distinctive upturned snouts. They get their name from their pig-like nose, which they use for digging in sandy soils to hunt for their favorite prey: toads and frogs. These snakes are harmless to humans despite their theatrical threat displays.",
+              "distinguishingFeatures": "The upturned, shovel-like snout is the most distinctive feature that sets hog-nosed snakes apart from other snake species. They also have a much flatter, wider head compared to most other non-venomous snakes in the region.",
+              "funFact": "When threatened, hog-nosed snakes are famous drama queens - they'll flatten their necks like a cobra, hiss loudly, and if that doesn't work, they'll flip over and play dead with their mouth hanging open and tongue lolling out!"
+            },
+            {
+              "id": 27383,
+              "name": "Carphophis",
+              "commonName": "Wormsnakes",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 27388,
+                  "name": "Carphophis amoenus",
+                  "commonName": "Common Wormsnake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 27388,
+                      "name": "Carphophis amoenus",
+                      "commonName": "Common Wormsnake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "common-wormsnake",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/23994152/medium.jpeg"
+                    }
+                  ],
+                  "slug": "common-wormsnake",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/23994152/medium.jpeg"
+                }
+              ],
+              "slug": "wormsnakes",
+              "description": "Wormsnakes are tiny, fossorial snakes that spend most of their lives underground in loose soil, leaf litter, and rotting logs. These diminutive serpents are among the smallest snakes in North America, rarely exceeding 10 inches in length, and have smooth, shiny scales that help them move through soil and debris.",
+              "distinguishingFeatures": "Wormsnakes can be distinguished from other small snakes by their pink or salmon-colored belly, tiny pointed head that's barely wider than their neck, and their extremely small size. Unlike earthworms which they superficially resemble, they have scales and a distinct pink underside.",
+              "funFact": "Despite being snakes, wormsnakes are so secretive and spend so much time underground that many people live their entire lives in wormsnake habitat without ever seeing one!"
+            }
+          ],
+          "slug": "colubrid-snakes",
+          "description": "Colubrid snakes make up the largest family of snakes in the world and include most of the harmless snakes you're likely to encounter in New England. These snakes are incredibly diverse in their lifestyles, with some living in water, others climbing trees, and many dwelling on the ground or underground. They range from tiny wormsnakes that burrow through leaf litter to large ratsnakes that can climb high into trees.",
+          "distinguishingFeatures": "Unlike venomous snakes, colubrids either lack venom entirely or have mild venom delivered through rear fangs that poses no threat to humans. They typically have smooth or keeled scales and round pupils, distinguishing them from the heat-sensing pit vipers.",
+          "funFact": "Kingsnakes earned their name because they're \"kings\" among serpents - they regularly hunt and eat other snakes, including venomous species, thanks to their natural immunity to many snake venoms."
+        },
+        {
+          "id": 33177,
+          "name": "Gekkonidae",
+          "commonName": "Typical Geckos",
+          "rank": "family",
+          "speciesCount": 3,
+          "children": [
+            {
+              "id": 34434,
+              "name": "Hemidactylus",
+              "commonName": "House Geckos",
+              "rank": "genus",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 34435,
+                  "name": "Hemidactylus turcicus",
+                  "commonName": "Mediterranean House Gecko",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 34435,
+                      "name": "Hemidactylus turcicus",
+                      "commonName": "Mediterranean House Gecko",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "mediterranean-house-gecko",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/171801218/medium.jpg"
+                    }
+                  ],
+                  "slug": "mediterranean-house-gecko",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/171801218/medium.jpg"
+                },
+                {
+                  "id": 68492,
+                  "name": "Hemidactylus mabouia",
+                  "commonName": "Tropical House Gecko",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 68492,
+                      "name": "Hemidactylus mabouia",
+                      "commonName": "Tropical House Gecko",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "tropical-house-gecko",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/340000066/medium.jpg"
+                    }
+                  ],
+                  "slug": "tropical-house-gecko",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/340000066/medium.jpg"
+                },
+                {
+                  "id": 34502,
+                  "name": "Hemidactylus garnotii",
+                  "commonName": "Indo-Pacific House Gecko",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 34502,
+                      "name": "Hemidactylus garnotii",
+                      "commonName": "Indo-Pacific House Gecko",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "indo-pacific-house-gecko",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/6243959/medium.jpg"
+                    }
+                  ],
+                  "slug": "indo-pacific-house-gecko",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/6243959/medium.jpg"
+                }
+              ],
+              "slug": "house-geckos",
+              "description": "House geckos are small, nocturnal lizards that have adapted remarkably well to living alongside humans. These climbing specialists are found in and around buildings worldwide, where they hunt insects attracted to artificial lights.",
+              "distinguishingFeatures": "Unlike native New England lizards, house geckos have specialized toe pads with tiny hairs that allow them to climb smooth surfaces like glass and walls. They also have large eyes adapted for nighttime vision and lack eyelids, instead cleaning their eyes with their tongues.",
+              "funFact": "House geckos are some of the most vocal lizards, producing chirping and clicking sounds to communicate with each other, especially during mating season."
+            }
+          ],
+          "slug": "typical-geckos",
+          "description": "Typical geckos are small to medium-sized lizards known for their amazing ability to climb smooth surfaces like glass and walls. They have specialized toe pads covered in microscopic hairs that allow them to stick to almost any surface, and most species are active at night when they hunt for insects.",
+          "distinguishingFeatures": "Unlike other lizards, typical geckos have large eyes with vertical pupils adapted for night vision, and they're one of the few lizard groups that can vocalize, making chirping or clicking sounds to communicate.",
+          "funFact": "A gecko's toe pads are so effective that a single toe can support the gecko's entire body weight, and they can hang upside down from a ceiling using just one foot!"
+        },
+        {
+          "id": 30667,
+          "name": "Viperidae",
+          "commonName": "Vipers",
+          "rank": "family",
+          "speciesCount": 2,
+          "children": [
+            {
+              "id": 30668,
+              "name": "Agkistrodon",
+              "commonName": "Copperheads, Cottonmouths, and Cantils",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 912622,
+                  "name": "Agkistrodon contortrix",
+                  "commonName": "Eastern Copperhead",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 912622,
+                      "name": "Agkistrodon contortrix",
+                      "commonName": "Eastern Copperhead",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "eastern-copperhead",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/424996655/medium.jpeg"
+                    }
+                  ],
+                  "slug": "eastern-copperhead",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/424996655/medium.jpeg"
+                }
+              ],
+              "slug": "copperheads-cottonmouths-and-cantils",
+              "description": "Agkistrodon is a genus of venomous pit vipers found throughout North and Central America. These thick-bodied snakes are known for their heat-sensing pit organs located between their eyes and nostrils, which help them detect warm-blooded prey. They are semi-aquatic to terrestrial snakes that give birth to live young rather than laying eggs.",
+              "distinguishingFeatures": "Members of this genus have distinctively thick, heavy bodies and relatively short tails compared to other pit vipers. They also tend to be less arboreal than many of their relatives, preferring to hunt on the ground or near water.",
+              "funFact": "Copperheads and their relatives are known for their defensive 'warning bite' behavior - when threatened, they often deliver a 'dry bite' with little to no venom as a warning before using their full venom reserves."
+            },
+            {
+              "id": 30692,
+              "name": "Crotalus",
+              "commonName": "Rattlesnakes",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 30746,
+                  "name": "Crotalus horridus",
+                  "commonName": "Timber Rattlesnake",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 30746,
+                      "name": "Crotalus horridus",
+                      "commonName": "Timber Rattlesnake",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "timber-rattlesnake",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/316761799/medium.jpg"
+                    }
+                  ],
+                  "slug": "timber-rattlesnake",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/316761799/medium.jpg"
+                }
+              ],
+              "slug": "rattlesnakes",
+              "description": "Rattlesnakes are venomous pit vipers best known for the distinctive rattle at the end of their tails, which they shake as a warning when threatened. These heavy-bodied snakes have heat-sensing pits between their eyes and nostrils that help them detect warm-blooded prey. They give birth to live young rather than laying eggs.",
+              "distinguishingFeatures": "The segmented rattle made of keratin scales is unique among all snakes and clearly distinguishes rattlesnakes from other vipers. Each time they shed their skin, a new segment is added to the rattle.",
+              "funFact": "A rattlesnake's rattle can vibrate up to 60 times per second, creating the buzzing sound that can be heard from over 100 feet away."
+            }
+          ],
+          "slug": "vipers",
+          "description": "Vipers are venomous snakes known for their distinctive hollow, hinged fangs that fold back against the roof of their mouth when not in use. These sophisticated predators inject venom through their fangs to subdue prey like small mammals, birds, and amphibians. All vipers give birth to live young rather than laying eggs.",
+          "distinguishingFeatures": "Unlike other venomous snakes, vipers have retractable fangs that can fold flat against their palate, allowing them to close their mouths completely. They also have heat-sensing pits (in pit vipers) or similar sensory organs that help them detect warm-blooded prey.",
+          "funFact": "Viper fangs work like hypodermic needles, with a hollow channel that delivers venom from glands in the snake's head directly into their prey."
+        },
+        {
+          "id": 35360,
+          "name": "Lacertidae",
+          "commonName": "Wall Lizards",
+          "rank": "family",
+          "speciesCount": 2,
+          "children": [
+            {
+              "id": 35526,
+              "name": "Podarcis",
+              "commonName": "Podarcis",
+              "rank": "genus",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 337045,
+                  "name": "Podarcis siculus",
+                  "commonName": "Italian Wall Lizard",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 337045,
+                      "name": "Podarcis siculus",
+                      "commonName": "Italian Wall Lizard",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "italian-wall-lizard",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158501584/medium.jpg"
+                    }
+                  ],
+                  "slug": "italian-wall-lizard",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158501584/medium.jpg"
+                },
+                {
+                  "id": 55990,
+                  "name": "Podarcis muralis",
+                  "commonName": "Common Wall Lizard",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 55990,
+                      "name": "Podarcis muralis",
+                      "commonName": "Common Wall Lizard",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "common-wall-lizard",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129028289/medium.jpg"
+                    }
+                  ],
+                  "slug": "common-wall-lizard",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129028289/medium.jpg"
+                }
+              ],
+              "slug": "podarcis",
+              "description": "Podarcis is a genus of small, agile lizards commonly known as wall lizards. These slender reptiles are excellent climbers that love to bask on sunny rocks, walls, and other warm surfaces. They're quick-moving insect hunters with long tails and relatively small heads.",
+              "distinguishingFeatures": "Wall lizards in the genus Podarcis are distinguished from other lizard groups by their flattened bodies adapted for squeezing into cracks, their exceptional climbing abilities on vertical surfaces, and their distinctive scale patterns around the collar area.",
+              "funFact": "These European natives weren't originally found in New England but were introduced through human activity - the Italian Wall Lizard first established itself on Long Island after escaping from a pet shipment in the 1960s and has been slowly spreading northward ever since."
+            }
+          ],
+          "slug": "wall-lizards",
+          "description": "Wall lizards are a family of small to medium-sized lizards that are typically agile climbers found basking on rocks, walls, and other surfaces. They have slender bodies, long tails, and well-developed legs that make them excellent at scurrying up vertical surfaces and darting between crevices.",
+          "distinguishingFeatures": "Wall lizards can be distinguished from other lizard families by their overlapping scales that give them a smooth appearance, their ability to shed their tails when threatened, and their preference for rocky habitats where they climb with remarkable agility.",
+          "funFact": "Wall lizards are masters of regeneration - not only can they regrow their tails if lost to a predator, but the new tail often grows back in a different color or pattern than the original!"
+        },
+        {
+          "id": 200152,
+          "name": "Anolidae",
+          "commonName": "Anoles",
+          "rank": "family",
+          "speciesCount": 2,
+          "children": [
+            {
+              "id": 36362,
+              "name": "Anolis",
+              "commonName": "Anoles",
+              "rank": "genus",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 116461,
+                  "name": "Anolis sagrei",
+                  "commonName": "Brown Anole",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 116461,
+                      "name": "Anolis sagrei",
+                      "commonName": "Brown Anole",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "brown-anole",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22869683/medium.jpg"
+                    }
+                  ],
+                  "slug": "brown-anole",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22869683/medium.jpg"
+                },
+                {
+                  "id": 36514,
+                  "name": "Anolis carolinensis",
+                  "commonName": "Green Anole",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 36514,
+                      "name": "Anolis carolinensis",
+                      "commonName": "Green Anole",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "green-anole",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2626904/medium.jpg"
+                    }
+                  ],
+                  "slug": "green-anole",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2626904/medium.jpg"
+                }
+              ],
+              "slug": "anoles",
+              "description": "Anoles are small, agile lizards known for their ability to change color and their distinctive throat fans called dewlaps. These arboreal reptiles are excellent climbers with specialized toe pads that help them grip smooth surfaces like glass and leaves. Most anoles are active during the day and feed primarily on insects and small invertebrates.",
+              "distinguishingFeatures": "Anoles can be distinguished from other small lizards by their expandable, colorful throat fans (dewlaps) used for communication and their remarkable color-changing abilities. Their adhesive toe pads with tiny hairs called setae allow them to climb vertical surfaces that other lizards cannot.",
+              "funFact": "Anoles can detach and regrow their tails when threatened by predators, and the detached tail will continue to wiggle for several minutes to distract the predator while the lizard escapes."
+            }
+          ],
+          "slug": "anoles",
+          "description": "Anoles are small to medium-sized lizards known for their ability to change color and their distinctive throat fans called dewlaps. They are excellent climbers with specialized toe pads that help them grip smooth surfaces like glass and tree bark. Most anoles are active during the day and feed primarily on insects and small invertebrates.",
+          "distinguishingFeatures": "Anoles can be distinguished from other lizards by their colorful, expandable throat fans (dewlaps) used for communication and their unique toe pads with tiny hairs that allow them to climb on virtually any surface.",
+          "funFact": "Male anoles perform elaborate push-up displays while extending their bright dewlaps to establish territory and attract mates, essentially doing lizard calisthenics to show off!"
+        },
+        {
+          "id": 36982,
+          "name": "Scincidae",
+          "commonName": "Skinks",
+          "rank": "family",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 37763,
+              "name": "Plestiodon",
+              "commonName": "Toothy Skinks",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 73788,
+                  "name": "Plestiodon fasciatus",
+                  "commonName": "Common Five-lined Skink",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 73788,
+                      "name": "Plestiodon fasciatus",
+                      "commonName": "Common Five-lined Skink",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "common-five-lined-skink",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9990844/medium.jpg"
+                    }
+                  ],
+                  "slug": "common-five-lined-skink",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9990844/medium.jpg"
+                }
+              ],
+              "slug": "toothy-skinks",
+              "description": "Toothy Skinks are smooth-scaled lizards known for their sleek, shiny appearance and quick movements. They get their name from their relatively large teeth compared to other skinks, which help them catch and process their prey of insects and small invertebrates. These lizards are excellent at both climbing and burrowing, making them adaptable to various habitats.",
+              "distinguishingFeatures": "Toothy Skinks have proportionally larger heads and more prominent teeth than other skink groups, along with distinctively smooth, overlapping scales that give them a polished appearance. Their tails are often brightly colored, especially in juveniles.",
+              "funFact": "Young Toothy Skinks often have brilliant blue tails that they can detach and regenerate if grabbed by a predator - the wiggling detached tail distracts the predator while the skink escapes!"
+            }
+          ],
+          "slug": "skinks",
+          "description": "Skinks are smooth-scaled lizards with sleek, cylindrical bodies and relatively short legs. They are excellent burrowers and swimmers, often found hiding under logs, rocks, or leaf litter in forests and gardens. Most skinks have shiny, overlapping scales that give them a polished appearance.",
+          "distinguishingFeatures": "Unlike other lizards, skinks have smooth, overlapping scales rather than rough or granular ones, and their bodies are more cylindrical and streamlined. Many species have the ability to detach their tails when threatened, which continue to wiggle as a distraction.",
+          "funFact": "Some skink species are among the few lizards that actually care for their young, with mothers coiling around their eggs to protect them and even staying with newly hatched babies for several weeks."
+        },
+        {
+          "id": 31096,
+          "name": "Agamidae",
+          "commonName": "Dragons",
+          "rank": "family",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 31410,
+              "name": "Pogona",
+              "commonName": "Bearded Dragons",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 31411,
+                  "name": "Pogona vitticeps",
+                  "commonName": "Central Bearded Dragon",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 31411,
+                      "name": "Pogona vitticeps",
+                      "commonName": "Central Bearded Dragon",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "central-bearded-dragon",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135000962/medium.jpg"
+                    }
+                  ],
+                  "slug": "central-bearded-dragon",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135000962/medium.jpg"
+                }
+              ],
+              "slug": "bearded-dragons",
+              "description": "Bearded dragons are medium-sized lizards native to Australia, known for the distinctive spiky scales around their throat that can puff out and darken when they feel threatened or want to communicate. These reptiles are popular pets due to their relatively calm temperament and fascinating behaviors like arm-waving and head-bobbing.",
+              "distinguishingFeatures": "The expandable throat pouch with spiky scales that resembles a \"beard\" sets them apart from other lizard groups, along with their flattened bodies and ability to change color based on temperature and mood.",
+              "funFact": "Bearded dragons can sleep standing up while leaning against walls or glass, and they often wave their arms in a slow motion that looks like they're saying hello, but is actually a submissive gesture to other dragons."
+            }
+          ],
+          "slug": "dragons",
+          "description": "Dragons, or Agamidae, are a diverse family of lizards found primarily in Africa, Asia, and Australia. They are characterized by their triangular heads, well-developed limbs, and often colorful displays used for communication and territorial behavior. Most species are active during the day and many can change their body color in response to temperature, mood, or social situations.",
+          "distinguishingFeatures": "Unlike geckos and other lizard families, dragons have acrodont teeth that are fused directly to their jawbones rather than sitting in sockets. They also typically have better-developed legs and more robust body structures compared to many other lizard families.",
+          "funFact": "Many dragon species can dramatically flatten their bodies and darken their skin to absorb more heat when basking, while others can puff out impressive throat pouches or 'beards' to appear larger when threatened."
+        },
+        {
+          "id": 36074,
+          "name": "Phrynosomatidae",
+          "commonName": "Phrynosomatid Lizards",
+          "rank": "family",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 36106,
+              "name": "Urosaurus",
+              "commonName": "Tree and Bush Lizards",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 36107,
+                  "name": "Urosaurus ornatus",
+                  "commonName": "Ornate Tree Lizard",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 36107,
+                      "name": "Urosaurus ornatus",
+                      "commonName": "Ornate Tree Lizard",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "ornate-tree-lizard",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10564552/medium.jpg"
+                    }
+                  ],
+                  "slug": "ornate-tree-lizard",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10564552/medium.jpg"
+                }
+              ],
+              "slug": "tree-and-bush-lizards",
+              "description": "Tree and Bush Lizards are small, agile reptiles that spend most of their time climbing on rocks, trees, and shrubs. They are well-adapted for vertical living with specialized toe pads and long tails that help them balance while navigating branches and rocky surfaces. These lizards are active during the day and are excellent climbers in their desert and semi-arid habitats.",
+              "distinguishingFeatures": "Unlike ground-dwelling lizards, Tree and Bush Lizards have flattened bodies and enhanced climbing abilities that allow them to live primarily in vertical environments. They also have distinctive dorsal patterns and can change their coloration somewhat based on temperature and mood.",
+              "funFact": "Male Tree and Bush Lizards perform elaborate push-up displays to communicate with other lizards, with each species having its own unique rhythm and pattern of movements."
+            }
+          ],
+          "slug": "phrynosomatid-lizards",
+          "description": "Phrynosomatid lizards are a diverse family of small to medium-sized lizards found primarily in western North America. They are characterized by their rough, often spiny scales and their ability to change color in response to temperature and mood. Most species are active during the day and are excellent climbers or ground dwellers.",
+          "distinguishingFeatures": "These lizards can be distinguished from other lizard families by their overlapping, keeled scales that give them a rough texture, and many species have prominent spines or horns. They also possess the ability to flatten their bodies when threatened, making themselves appear larger.",
+          "funFact": "Some species in this family, like horned lizards, can actually squirt blood from their eyes as a defense mechanism when threatened by predators."
+        },
+        {
+          "id": 39392,
+          "name": "Varanidae",
+          "commonName": "Monitor Lizards",
+          "rank": "family",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 39393,
+              "name": "Varanus",
+              "commonName": "Monitor Lizards",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 39456,
+                  "name": "Varanus exanthematicus",
+                  "commonName": "Savannah Monitor",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39456,
+                      "name": "Varanus exanthematicus",
+                      "commonName": "Savannah Monitor",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "savannah-monitor",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12724823/medium.jpeg"
+                    }
+                  ],
+                  "slug": "savannah-monitor",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12724823/medium.jpeg"
+                }
+              ],
+              "slug": "monitor-lizards",
+              "description": "Monitor lizards are large, powerful reptiles known for their intelligence and active hunting behavior. They have long necks, strong legs, and forked tongues that they flick out to 'taste' the air and track prey. These impressive lizards are found naturally across Africa, Asia, and Australia, though some species are now kept as exotic pets.",
+              "distinguishingFeatures": "Monitor lizards can be distinguished from other large lizards by their distinctive forked tongues, elongated necks, and their habit of standing up on their hind legs to survey their surroundings.",
+              "funFact": "Monitor lizards are among the most intelligent reptiles and can be trained to recognize their owners, solve simple puzzles, and even use tools in some cases."
+            }
+          ],
+          "slug": "monitor-lizards",
+          "description": "Monitor lizards are a family of large, active reptiles found primarily in Africa, Asia, and Australia. They are characterized by their powerful bodies, long necks, forked tongues that they use to smell their environment, and strong claws for digging and climbing.",
+          "distinguishingFeatures": "Monitor lizards have deeply forked tongues like snakes, which they flick out frequently to gather chemical information about their surroundings. They also have moveable eyelids and external ears, unlike many other lizard families.",
+          "funFact": "The Komodo dragon, the world's largest living lizard species reaching up to 10 feet long, is actually a monitor lizard!"
+        }
+      ],
+      "slug": "snakes-and-lizards",
+      "description": "Snakes and lizards make up the largest group of reptiles, all sharing the common trait of having overlapping scales that cover their bodies like tiny shingles. These scaly creatures are cold-blooded, meaning they rely on their environment to regulate their body temperature, and they periodically shed their entire skin as they grow.",
+      "distinguishingFeatures": "Unlike other reptiles, squamates have flexible jaws that can open wide to swallow prey, and their scales are made of keratin (the same material as our fingernails) rather than bony plates.",
+      "funFact": "Snakes evolved from lizards that gradually lost their limbs over millions of years, which is why some primitive snakes still have tiny remnants of leg bones hidden inside their bodies."
+    },
+    {
+      "id": 39532,
+      "name": "Testudines",
+      "commonName": "Turtles and Tortoises",
+      "rank": "order",
+      "speciesCount": 25,
+      "children": [
+        {
+          "id": 39760,
+          "name": "Emydidae",
+          "commonName": "Pond and Box Turtles",
+          "rank": "family",
+          "speciesCount": 13,
+          "children": [
+            {
+              "id": 39844,
+              "name": "Graptemys",
+              "commonName": "Map Turtles",
+              "rank": "genus",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 39858,
+                  "name": "Graptemys geographica",
+                  "commonName": "Northern Map Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39858,
+                      "name": "Graptemys geographica",
+                      "commonName": "Northern Map Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "northern-map-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13212543/medium.jpg"
+                    }
+                  ],
+                  "slug": "northern-map-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13212543/medium.jpg"
+                },
+                {
+                  "id": 371940,
+                  "name": "Graptemys ouachitensis",
+                  "commonName": "Ouachita Map Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 371940,
+                      "name": "Graptemys ouachitensis",
+                      "commonName": "Ouachita Map Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "ouachita-map-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98229839/medium.jpg"
+                    }
+                  ],
+                  "slug": "ouachita-map-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98229839/medium.jpg"
+                },
+                {
+                  "id": 39847,
+                  "name": "Graptemys pseudogeographica",
+                  "commonName": "False Map Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39847,
+                      "name": "Graptemys pseudogeographica",
+                      "commonName": "False Map Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "false-map-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/330780522/medium.jpeg"
+                    }
+                  ],
+                  "slug": "false-map-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/330780522/medium.jpeg"
+                }
+              ],
+              "slug": "map-turtles",
+              "description": "Map turtles are freshwater turtles named for the intricate, map-like patterns of yellow or orange lines that cover their dark shells and skin. These medium-sized turtles are excellent swimmers that prefer rivers, lakes, and large ponds with rocky or sandy bottoms. They are often seen basking in groups on logs, rocks, or other surfaces near the water's edge.",
+              "distinguishingFeatures": "Map turtles can be identified by their distinctive geographic patterns of lines and markings, along with a prominent ridge or keel running down the center of their shell. Females grow much larger than males and have proportionally bigger heads for crushing mollusks and other hard-shelled prey.",
+              "funFact": "Female map turtles can grow to be more than twice the size of males, with some species showing the most extreme size difference between sexes of any turtle in North America."
+            },
+            {
+              "id": 39806,
+              "name": "Terrapene",
+              "commonName": "Box Turtles",
+              "rank": "genus",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 39814,
+                  "name": "Terrapene carolina",
+                  "commonName": "Common Box Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39814,
+                      "name": "Terrapene carolina",
+                      "commonName": "Common Box Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "common-box-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48987498/medium.jpeg"
+                    }
+                  ],
+                  "slug": "common-box-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48987498/medium.jpeg"
+                },
+                {
+                  "id": 1544605,
+                  "name": "Terrapene triunguis",
+                  "commonName": "Three-toed Box Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 1544605,
+                      "name": "Terrapene triunguis",
+                      "commonName": "Three-toed Box Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "three-toed-box-turtle",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/662054/medium.jpg"
+                    }
+                  ],
+                  "slug": "three-toed-box-turtle",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/662054/medium.jpg"
+                }
+              ],
+              "slug": "box-turtles",
+              "description": "Box turtles are distinctive land-dwelling turtles known for their unique ability to completely seal themselves inside their shells when threatened. They have a hinged plastron (bottom shell) that allows them to close both the front and back openings of their shell like a box. These slow-moving reptiles are primarily terrestrial, spending most of their time on land rather than in water.",
+              "distinguishingFeatures": "Unlike other turtle species, box turtles have a movable hinge on their plastron that allows them to completely enclose their head, legs, and tail within their shell for protection. Their high-domed shells and terrestrial lifestyle also set them apart from the flatter, more aquatic turtle species.",
+              "funFact": "Box turtles can live for over 100 years and often spend their entire lives within just a few acres, developing an incredible knowledge of their home territory's food sources, shelter spots, and seasonal patterns."
+            },
+            {
+              "id": 39820,
+              "name": "Pseudemys",
+              "commonName": "Cooters",
+              "rank": "genus",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 39826,
+                  "name": "Pseudemys rubriventris",
+                  "commonName": "Northern Red-bellied Cooter",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39826,
+                      "name": "Pseudemys rubriventris",
+                      "commonName": "Northern Red-bellied Cooter",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "northern-red-bellied-cooter",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/16793593/medium.jpeg"
+                    }
+                  ],
+                  "slug": "northern-red-bellied-cooter",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/16793593/medium.jpeg"
+                },
+                {
+                  "id": 39830,
+                  "name": "Pseudemys concinna",
+                  "commonName": "River Cooter",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39830,
+                      "name": "Pseudemys concinna",
+                      "commonName": "River Cooter",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "river-cooter",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48806880/medium.jpg"
+                    }
+                  ],
+                  "slug": "river-cooter",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48806880/medium.jpg"
+                }
+              ],
+              "slug": "cooters",
+              "description": "Cooters are large freshwater turtles that spend most of their time in rivers, ponds, and lakes throughout eastern North America. These semi-aquatic reptiles are excellent swimmers with webbed feet and streamlined shells, and they're often seen basking on logs or rocks along the water's edge. They're primarily herbivorous as adults, feeding on aquatic plants, algae, and occasionally small animals.",
+              "distinguishingFeatures": "Cooters can be distinguished from other pond turtles by their relatively large size (often 8-12 inches long) and their distinctive head patterns of yellow or orange stripes. Unlike painted turtles, cooters have notched upper jaws and tend to be much larger at maturity.",
+              "funFact": "Baby cooters are actually carnivorous and don't switch to their plant-based adult diet until they're about 4-5 inches long, when their digestive systems develop the ability to process tough aquatic vegetation."
+            },
+            {
+              "id": 39770,
+              "name": "Chrysemys",
+              "commonName": "Painted Turtles",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 39771,
+                  "name": "Chrysemys picta",
+                  "commonName": "Painted Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39771,
+                      "name": "Chrysemys picta",
+                      "commonName": "Painted Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "painted-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9927445/medium.jpg"
+                    }
+                  ],
+                  "slug": "painted-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9927445/medium.jpg"
+                }
+              ],
+              "slug": "painted-turtles",
+              "description": "Painted Turtles are medium-sized freshwater turtles known for their distinctive colorful markings along the edges of their shells and skin. They are semi-aquatic reptiles that spend time both in water and basking on logs or rocks in the sun. These hardy turtles are among the most widespread and recognizable turtle species in North America.",
+              "distinguishingFeatures": "Painted Turtles can be identified by their smooth, relatively flat shells and the bright red, orange, or yellow stripes on their neck, legs, and tail. The colorful painted-like markings along the edge of their shell give them their common name.",
+              "funFact": "Painted Turtles are incredible survivors that can actually survive being frozen in shallow ponds during winter by slowing their metabolism and absorbing oxygen through their skin."
+            },
+            {
+              "id": 39835,
+              "name": "Malaclemys",
+              "commonName": "Diamondback Terrapins",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 39836,
+                  "name": "Malaclemys terrapin",
+                  "commonName": "Diamondback Terrapin",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39836,
+                      "name": "Malaclemys terrapin",
+                      "commonName": "Diamondback Terrapin",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "diamondback-terrapin",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/9316497/medium.jpg"
+                    }
+                  ],
+                  "slug": "diamondback-terrapin",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/9316497/medium.jpg"
+                }
+              ],
+              "slug": "diamondback-terrapins",
+              "description": "Diamondback terrapins are medium-sized turtles that are specially adapted to live in brackish water environments like salt marshes and coastal estuaries. They are the only turtle species in North America that can thrive in these salty conditions between freshwater and ocean habitats. These terrapins have a distinctive high-domed shell with diamond-shaped patterns that give them their common name.",
+              "distinguishingFeatures": "Unlike other turtles, diamondback terrapins have special salt glands that allow them to drink salt water and excrete excess salt through their eyes and nose. Their shells typically show concentric growth rings on each scute, creating beautiful geometric patterns.",
+              "funFact": "Diamondback terrapin soup was once considered such a delicacy that these turtles were nearly eaten to extinction in the early 1900s, with some restaurants charging the equivalent of hundreds of dollars for a single bowl!"
+            },
+            {
+              "id": 39776,
+              "name": "Trachemys",
+              "commonName": "Sliders",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 39782,
+                  "name": "Trachemys scripta",
+                  "commonName": "Pond Slider",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39782,
+                      "name": "Trachemys scripta",
+                      "commonName": "Pond Slider",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "pond-slider",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120834277/medium.jpg"
+                    }
+                  ],
+                  "slug": "pond-slider",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120834277/medium.jpg"
+                }
+              ],
+              "slug": "sliders",
+              "description": "Sliders are a group of semi-aquatic turtles known for their ability to quickly slide off logs or rocks into water when startled. These medium-sized freshwater turtles are excellent swimmers and spend much of their time basking in the sun on fallen logs, rocks, or other surfaces near ponds, lakes, and slow-moving streams.",
+              "distinguishingFeatures": "Sliders can be distinguished from other freshwater turtles by their streamlined shells, webbed feet, and distinctive head markings that often include colorful stripes or patches.",
+              "funFact": "The famous Red-eared Slider gets its name from the bright red patches behind its eyes, and these turtles can live for over 40 years in the wild."
+            },
+            {
+              "id": 39766,
+              "name": "Clemmys",
+              "commonName": "North American Spotted Turtles",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 50000,
+                  "name": "Clemmys guttata",
+                  "commonName": "Spotted Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 50000,
+                      "name": "Clemmys guttata",
+                      "commonName": "Spotted Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "spotted-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14445492/medium.jpg"
+                    }
+                  ],
+                  "slug": "spotted-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14445492/medium.jpg"
+                }
+              ],
+              "slug": "north-american-spotted-turtles",
+              "description": "The genus Clemmys contains North America's spotted turtles, small freshwater turtles known for their distinctive yellow spots scattered across their dark shells and skin. These semi-aquatic turtles are among the smallest members of the pond turtle family, typically measuring just 3-5 inches long when fully grown.",
+              "distinguishingFeatures": "Spotted turtles are easily identified by their unique pattern of bright yellow spots on a black or dark blue shell and body, which no other North American turtle species shares.",
+              "funFact": "Each spotted turtle has a unique pattern of yellow spots that remains consistent throughout its life, allowing researchers to identify individual turtles like fingerprints identify humans."
+            },
+            {
+              "id": 39863,
+              "name": "Glyptemys",
+              "commonName": "Bog and Wood Turtles",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 39865,
+                  "name": "Glyptemys insculpta",
+                  "commonName": "Wood Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39865,
+                      "name": "Glyptemys insculpta",
+                      "commonName": "Wood Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "wood-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30219210/medium.jpg"
+                    }
+                  ],
+                  "slug": "wood-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30219210/medium.jpg"
+                }
+              ],
+              "slug": "bog-and-wood-turtles",
+              "description": "Glyptemys is a small genus of semi-aquatic turtles that includes the beloved Wood Turtle found in New England's streams and forests. These medium-sized turtles are known for their sculptured shell patterns and their ability to live both in water and on land. They are considered among the most intelligent of all turtle species.",
+              "distinguishingFeatures": "Wood Turtles have distinctively sculptured shells with pyramid-shaped scutes that create a carved appearance, and bright orange coloring on their neck and legs. Unlike purely aquatic turtles, they spend significant time foraging on land in forests and fields.",
+              "funFact": "Wood Turtles have been observed using a clever hunting technique called 'worm stomping' - they stomp their feet on the ground to create vibrations that trick earthworms into coming to the surface, making them easy to catch!"
+            },
+            {
+              "id": 39884,
+              "name": "Emydoidea",
+              "commonName": "Blanding’s Turtles",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 39885,
+                  "name": "Emydoidea blandingii",
+                  "commonName": "Blanding's Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39885,
+                      "name": "Emydoidea blandingii",
+                      "commonName": "Blanding's Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "blanding-s-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/20421216/medium.jpg"
+                    }
+                  ],
+                  "slug": "blanding-s-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/20421216/medium.jpg"
+                }
+              ],
+              "slug": "blanding-s-turtles",
+              "description": "Blanding's Turtles are a unique genus of semi-aquatic turtles found in the Great Lakes region and parts of New England. They are medium-sized freshwater turtles known for their distinctive domed shells and specialized feeding habits in wetland environments.",
+              "distinguishingFeatures": "Blanding's Turtles are easily recognized by their bright yellow chin and throat, high-domed dark shell with yellow flecking, and their ability to completely close their shell when threatened.",
+              "funFact": "Blanding's Turtles are incredibly long-lived, with some individuals reaching over 75 years old, and females don't typically start reproducing until they're 15-25 years old."
+            }
+          ],
+          "slug": "pond-and-box-turtles",
+          "description": "Pond and box turtles are a diverse family of freshwater and semi-terrestrial turtles that includes many of New England's most recognizable species. These turtles typically have hinged shells or distinctive patterns, and they're found in ponds, streams, marshes, and woodlands throughout the region. They range from fully aquatic species like painted turtles to terrestrial box turtles that can completely close their shells.",
+          "distinguishingFeatures": "Unlike sea turtles or snapping turtles, most members of this family can retract their heads and limbs completely into their shells for protection. Many species also have moveable hinges on their shells that allow for even better closure.",
+          "funFact": "Box turtles in this family can live over 100 years and often return to the exact same small area of forest throughout their entire lifetime, rarely traveling more than a few hundred yards from where they were born."
+        },
+        {
+          "id": 39539,
+          "name": "Trionychidae",
+          "commonName": "Softshell and Flapshell Turtles",
+          "rank": "family",
+          "speciesCount": 3,
+          "children": [
+            {
+              "id": 39555,
+              "name": "Apalone",
+              "commonName": "American Softshells",
+              "rank": "genus",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 39556,
+                  "name": "Apalone spinifera",
+                  "commonName": "Spiny Softshell",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39556,
+                      "name": "Apalone spinifera",
+                      "commonName": "Spiny Softshell",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "spiny-softshell",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/452419/medium.jpg"
+                    }
+                  ],
+                  "slug": "spiny-softshell",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/452419/medium.jpg"
+                },
+                {
+                  "id": 39566,
+                  "name": "Apalone ferox",
+                  "commonName": "Florida Softshell Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39566,
+                      "name": "Apalone ferox",
+                      "commonName": "Florida Softshell Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "florida-softshell-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/25085/medium.jpg"
+                    }
+                  ],
+                  "slug": "florida-softshell-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/25085/medium.jpg"
+                }
+              ],
+              "slug": "american-softshells",
+              "description": "American Softshells are a group of unique freshwater turtles that lack the hard, bony shell typical of most turtle species. Instead, they have a flat, leathery shell covered in soft skin, which makes them excellent swimmers but more vulnerable to predators. These turtles are highly aquatic and spend most of their time in rivers, lakes, and ponds.",
+              "distinguishingFeatures": "Unlike other turtles, softshells have a flexible, pancake-flat shell without hard scutes, and their feet are fully webbed with only three claws visible. They also have long, snorkel-like noses that allow them to breathe while mostly submerged.",
+              "funFact": "Softshell turtles can actually absorb oxygen through their skin and the lining of their mouth and throat, allowing them to stay underwater for hours without surfacing to breathe."
+            },
+            {
+              "id": 39570,
+              "name": "Pelodiscus",
+              "commonName": "Chinese softshell turtles",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 68334,
+                  "name": "Pelodiscus sinensis",
+                  "commonName": "Chinese Softshell Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 68334,
+                      "name": "Pelodiscus sinensis",
+                      "commonName": "Chinese Softshell Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "chinese-softshell-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119971292/medium.jpg"
+                    }
+                  ],
+                  "slug": "chinese-softshell-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119971292/medium.jpg"
+                }
+              ],
+              "slug": "chinese-softshell-turtles",
+              "description": "Chinese softshell turtles are a genus of freshwater turtles characterized by their leathery, flexible shells instead of the hard, bony shells typical of most turtles. They are semi-aquatic reptiles that spend most of their time in rivers, ponds, and lakes, coming to shore primarily to bask and lay eggs. These turtles are native to Asia but have established populations in some parts of North America.",
+              "distinguishingFeatures": "Unlike hard-shelled turtles, Chinese softshell turtles have a flat, pancake-like shell covered in soft, leathery skin rather than hard scutes. They also have elongated, snorkel-like noses that allow them to breathe while remaining mostly submerged in water.",
+              "funFact": "Chinese softshell turtles can stay underwater for hours by absorbing oxygen through specialized tissues in their throat and cloaca, allowing them to essentially 'breathe' through their rear end while submerged."
+            }
+          ],
+          "slug": "softshell-and-flapshell-turtles",
+          "description": "Softshell and flapshell turtles are aquatic turtles with flexible, leathery shells instead of the hard, bony shells most turtles have. They spend most of their time in freshwater rivers, lakes, and ponds, where they're excellent swimmers and active predators. These turtles have long, snorkel-like necks that allow them to breathe while mostly submerged.",
+          "distinguishingFeatures": "Unlike other turtles, softshells have flat, pancake-like shells covered in soft skin rather than hard scutes. They also have webbed feet with three claws and tube-like nostrils at the end of their elongated snouts.",
+          "funFact": "Softshell turtles can actually breathe underwater through their skin and throat lining, allowing them to stay submerged for hours while hunting or hiding."
+        },
+        {
+          "id": 39657,
+          "name": "Cheloniidae",
+          "commonName": "Typical Sea Turtles",
+          "rank": "family",
+          "speciesCount": 3,
+          "children": [
+            {
+              "id": 39664,
+              "name": "Caretta",
+              "commonName": "Loggerhead sea turtles",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 39665,
+                  "name": "Caretta caretta",
+                  "commonName": "Loggerhead Sea Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39665,
+                      "name": "Caretta caretta",
+                      "commonName": "Loggerhead Sea Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "loggerhead-sea-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176772831/medium.jpeg"
+                    }
+                  ],
+                  "slug": "loggerhead-sea-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176772831/medium.jpeg"
+                }
+              ],
+              "slug": "loggerhead-sea-turtles",
+              "description": "Loggerhead sea turtles are large marine reptiles known for their massive heads and powerful jaws. They are ocean wanderers that can travel thousands of miles across ocean basins, spending most of their lives in saltwater environments. These ancient mariners have been swimming Earth's oceans for over 50 million years.",
+              "distinguishingFeatures": "Loggerheads are easily recognized by their disproportionately large, blocky heads and thick necks compared to other sea turtle species. Their reddish-brown shells and cream-colored undersides also help distinguish them from their sea turtle relatives.",
+              "funFact": "A loggerhead's powerful jaws can crush hard-shelled prey like crabs and conchs with a bite force of over 1,000 pounds per square inch - stronger than a hyena's bite!"
+            },
+            {
+              "id": 39669,
+              "name": "Lepidochelys",
+              "commonName": "Ridley Sea Turtles",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 73844,
+                  "name": "Lepidochelys kempii",
+                  "commonName": "Kemp's Ridley Sea Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 73844,
+                      "name": "Lepidochelys kempii",
+                      "commonName": "Kemp's Ridley Sea Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "kemp-s-ridley-sea-turtle",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/24228862/medium.jpg"
+                    }
+                  ],
+                  "slug": "kemp-s-ridley-sea-turtle",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/24228862/medium.jpg"
+                }
+              ],
+              "slug": "ridley-sea-turtles",
+              "description": "Ridley sea turtles are small to medium-sized marine turtles known for their heart-shaped shells and relatively compact size compared to other sea turtle species. They are highly migratory ocean dwellers that feed primarily on crabs, shrimp, and other bottom-dwelling creatures in coastal waters.",
+              "distinguishingFeatures": "Ridley sea turtles can be identified by their distinctive heart-shaped carapace (top shell) and their relatively small size, typically weighing less than 100 pounds as adults. They have more vertebral and costal scutes (shell plates) than most other sea turtle species.",
+              "funFact": "Kemp's ridley sea turtle is the most critically endangered sea turtle in the world, and almost all females nest on a single beach in Mexico in synchronized mass nesting events called 'arribadas.'"
+            },
+            {
+              "id": 39658,
+              "name": "Chelonia",
+              "commonName": "Green Sea Turtles",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 39659,
+                  "name": "Chelonia mydas",
+                  "commonName": "Green Sea Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39659,
+                      "name": "Chelonia mydas",
+                      "commonName": "Green Sea Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "green-sea-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248337518/medium.jpg"
+                    }
+                  ],
+                  "slug": "green-sea-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248337518/medium.jpg"
+                }
+              ],
+              "slug": "green-sea-turtles",
+              "description": "Chelonia is a genus containing the green sea turtle, one of the largest hard-shelled sea turtles in the world. These ancient marine reptiles are known for their streamlined shells and powerful flippers that make them excellent swimmers in ocean waters.",
+              "distinguishingFeatures": "Green sea turtles are distinguished from other sea turtles by their relatively small head, single pair of scales in front of their eyes, and serrated lower jaw that helps them tear seagrass and algae.",
+              "funFact": "Despite being called 'green' sea turtles, their shells are actually brown, gray, or olive colored - they get their name from the greenish color of their body fat, which comes from their plant-based diet as adults."
+            }
+          ],
+          "slug": "typical-sea-turtles",
+          "description": "Typical sea turtles are large marine reptiles with streamlined shells and powerful flippers perfectly adapted for life in the ocean. These ancient mariners spend most of their lives swimming through coastal and open waters, coming ashore only to lay their eggs on sandy beaches. All members of this family are excellent swimmers that can hold their breath for extended periods while diving for food.",
+          "distinguishingFeatures": "Unlike their freshwater turtle relatives, typical sea turtles cannot retract their heads and limbs into their shells, and their limbs have evolved into large, paddle-like flippers rather than feet with individual toes.",
+          "funFact": "Sea turtles have an incredible built-in GPS system that allows them to navigate thousands of miles across oceans and return to the exact beach where they were born to lay their own eggs."
+        },
+        {
+          "id": 40019,
+          "name": "Testudinidae",
+          "commonName": "Tortoises",
+          "rank": "family",
+          "speciesCount": 3,
+          "children": [
+            {
+              "id": 40022,
+              "name": "Testudo",
+              "commonName": "Mediterranean Tortoises",
+              "rank": "genus",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 40032,
+                  "name": "Testudo horsfieldii",
+                  "commonName": "Afghan Tortoise",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 40032,
+                      "name": "Testudo horsfieldii",
+                      "commonName": "Afghan Tortoise",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "afghan-tortoise",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/72809697/medium.jpeg"
+                    }
+                  ],
+                  "slug": "afghan-tortoise",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/72809697/medium.jpeg"
+                },
+                {
+                  "id": 71212,
+                  "name": "Testudo hermanni",
+                  "commonName": "Hermann's Tortoise",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 71212,
+                      "name": "Testudo hermanni",
+                      "commonName": "Hermann's Tortoise",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "hermann-s-tortoise",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/345032230/medium.jpg"
+                    }
+                  ],
+                  "slug": "hermann-s-tortoise",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/345032230/medium.jpg"
+                }
+              ],
+              "slug": "mediterranean-tortoises",
+              "description": "Mediterranean Tortoises are a group of land-dwelling reptiles with high-domed shells that are native to Europe, Asia, and parts of Africa. These sturdy tortoises are well-adapted to dry, rocky habitats and are known for their longevity and slow, deliberate movements. They are herbivorous, feeding on grasses, weeds, fruits, and flowers.",
+              "distinguishingFeatures": "Unlike many other tortoise groups, Mediterranean Tortoises have distinctive hinged plates on the rear of their shells and often display beautiful yellow and black markings. Their shells are typically more domed and their limbs are particularly well-suited for digging in rocky, Mediterranean-type climates.",
+              "funFact": "Hermann's Tortoises can live over 100 years and have the remarkable ability to survive harsh winters by hibernating underground for up to 5 months."
+            },
+            {
+              "id": 121069,
+              "name": "Centrochelys",
+              "commonName": "Centrochelys",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 40089,
+                  "name": "Centrochelys sulcata",
+                  "commonName": "African Spurred Tortoise",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 40089,
+                      "name": "Centrochelys sulcata",
+                      "commonName": "African Spurred Tortoise",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "african-spurred-tortoise",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/286883668/medium.jpg"
+                    }
+                  ],
+                  "slug": "african-spurred-tortoise",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/286883668/medium.jpg"
+                }
+              ],
+              "slug": "centrochelys",
+              "description": "Centrochelys is a genus of large African tortoises known for their impressive size and distinctive shell features. These tortoises are adapted to arid environments and are among the largest tortoise species in the world.",
+              "distinguishingFeatures": "Members of this genus have prominent spurs on their hind legs and deeply grooved, dome-shaped shells with distinctive growth rings that create a sculptured appearance.",
+              "funFact": "The African Spurred Tortoise can live over 100 years and is the third-largest tortoise species in the world, with adults weighing up to 200 pounds."
+            }
+          ],
+          "slug": "tortoises",
+          "description": "Tortoises are land-dwelling reptiles with high-domed shells and sturdy, elephant-like feet adapted for walking on dry ground. Unlike their aquatic turtle relatives, tortoises spend their entire lives on land and cannot swim. They are herbivores that feed on grasses, weeds, fruits, and vegetables.",
+          "distinguishingFeatures": "Tortoises have distinctively high, dome-shaped shells and thick, stumpy legs with clawed feet designed for digging and walking on land, unlike the flatter shells and webbed or flipper-like feet of aquatic turtles.",
+          "funFact": "Some tortoise species can live over 150 years, making them among the longest-lived animals on Earth - there are tortoises alive today that were born before the American Civil War!"
+        },
+        {
+          "id": 39680,
+          "name": "Chelydridae",
+          "commonName": "Snapping Turtles",
+          "rank": "family",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 39681,
+              "name": "Chelydra",
+              "commonName": "Typical Snapping Turtles",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 39682,
+                  "name": "Chelydra serpentina",
+                  "commonName": "Common Snapping Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39682,
+                      "name": "Chelydra serpentina",
+                      "commonName": "Common Snapping Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "common-snapping-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/352641070/medium.jpg"
+                    }
+                  ],
+                  "slug": "common-snapping-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/352641070/medium.jpg"
+                }
+              ],
+              "slug": "typical-snapping-turtles",
+              "description": "Typical snapping turtles are large, aggressive freshwater turtles known for their powerful jaws and dinosaur-like appearance. They have massive heads, long tails with saw-toothed ridges, and relatively small shells compared to their body size. These ancient-looking reptiles are primarily aquatic but can move surprisingly well on land.",
+              "distinguishingFeatures": "Unlike other turtle groups, typical snapping turtles cannot fully retract their heads and limbs into their shells, so they rely on their fierce bite and aggressive behavior for defense instead.",
+              "funFact": "A snapping turtle's bite force can exceed 200 pounds per square inch - strong enough to easily snap through a wooden broomstick!"
+            }
+          ],
+          "slug": "snapping-turtles",
+          "description": "Snapping turtles are large, powerful freshwater turtles known for their massive heads, strong jaws, and aggressive temperament when threatened. They have relatively small shells compared to their body size and long, thick tails with prominent ridges. These ancient reptiles are primarily aquatic but can move surprisingly well on land.",
+          "distinguishingFeatures": "Unlike other turtles, snapping turtles cannot fully retract their heads and limbs into their shells, so they rely on their powerful bite for defense instead.",
+          "funFact": "A snapping turtle's bite force can exceed 200 pounds per square inch - strong enough to snap through bone!"
+        },
+        {
+          "id": 39699,
+          "name": "Kinosternidae",
+          "commonName": "American Mud and Musk Turtles",
+          "rank": "family",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 39702,
+              "name": "Sternotherus",
+              "commonName": "Musk Turtles",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 39703,
+                  "name": "Sternotherus odoratus",
+                  "commonName": "Eastern Musk Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39703,
+                      "name": "Sternotherus odoratus",
+                      "commonName": "Eastern Musk Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "eastern-musk-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5691931/medium.jpeg"
+                    }
+                  ],
+                  "slug": "eastern-musk-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5691931/medium.jpeg"
+                }
+              ],
+              "slug": "musk-turtles",
+              "description": "Musk turtles are small aquatic turtles known for their ability to release a strong, musky odor when threatened or handled. They are excellent swimmers that prefer shallow, slow-moving waters with muddy bottoms where they can easily find food like insects, small fish, and aquatic plants. These turtles have relatively small shells and spend most of their time in the water rather than basking on land like many other turtle species.",
+              "distinguishingFeatures": "Musk turtles can be distinguished from other turtle groups by their distinctive musky smell when disturbed and their highly domed, smooth shells that are typically dark in color. They also have barbels (whisker-like projections) on their chin and throat that help them locate food in murky water.",
+              "funFact": "Musk turtles are sometimes called 'stinkpots' because of their defensive ability to release a foul-smelling musk from glands near their shell edges when they feel threatened."
+            }
+          ],
+          "slug": "american-mud-and-musk-turtles",
+          "description": "American Mud and Musk Turtles are a family of small, aquatic freshwater turtles found throughout much of North America. These turtles are characterized by their relatively small size, streamlined shells, and preference for muddy or sandy bottoms of ponds, lakes, and slow-moving streams. They are excellent swimmers and spend most of their lives in the water, rarely basking on logs like many other turtle species.",
+          "distinguishingFeatures": "Unlike most other turtles, members of this family have hinged plastrons (bottom shells) that can partially close to protect their head and limbs. Musk turtles in particular are known for their ability to release a strong, musky odor when threatened, earning them the nickname 'stinkpot turtles.'",
+          "funFact": "Musk turtles are surprisingly good climbers and have been found basking on tree branches up to 6 feet above the water, sometimes falling into boats passing below!"
+        },
+        {
+          "id": 39675,
+          "name": "Dermochelyidae",
+          "commonName": "Leatherback Sea Turtles",
+          "rank": "family",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 39676,
+              "name": "Dermochelys",
+              "commonName": "Leatherback Sea Turtles",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 39677,
+                  "name": "Dermochelys coriacea",
+                  "commonName": "Leatherback Sea Turtle",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 39677,
+                      "name": "Dermochelys coriacea",
+                      "commonName": "Leatherback Sea Turtle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "leatherback-sea-turtle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244918310/medium.jpg"
+                    }
+                  ],
+                  "slug": "leatherback-sea-turtle",
+                  "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244918310/medium.jpg"
+                }
+              ],
+              "slug": "leatherback-sea-turtles",
+              "description": "Dermochelys is a genus containing just one living species - the magnificent leatherback sea turtle. These are the largest sea turtles in the world and among the most widely distributed reptiles on Earth. Unlike other sea turtles, leatherbacks have a unique soft, rubbery shell instead of a hard one.",
+              "distinguishingFeatures": "Leatherbacks are distinguished from all other sea turtles by their flexible, leather-like carapace made of cartilage and skin rather than bony plates. They also have distinctive ridged backs and can grow much larger than other sea turtle species.",
+              "funFact": "Leatherback sea turtles are incredible deep-sea divers, capable of diving over 4,000 feet deep - deeper than any other turtle species - to hunt for their favorite food: jellyfish."
+            }
+          ],
+          "slug": "leatherback-sea-turtles",
+          "description": "Leatherback Sea Turtles represent a unique family of marine reptiles that are the largest turtles in the world. Unlike other sea turtles, they have a distinctive leathery shell instead of a hard, bony one, and they're incredible deep-diving ocean wanderers that can be found in waters from the tropics to the Arctic.",
+          "distinguishingFeatures": "Leatherbacks are easily distinguished from other sea turtles by their soft, rubbery shell covered in skin rather than hard scutes, and their massive size - they can weigh over 1,000 pounds. They also have uniquely pointed rear flippers and seven distinctive ridges running along their back.",
+          "funFact": "Leatherback sea turtles are the only reptiles that can regulate their body temperature, allowing them to dive to depths of over 4,000 feet in frigid waters while hunting for jellyfish."
+        }
+      ],
+      "slug": "turtles-and-tortoises",
+      "description": "Turtles and tortoises are reptiles famous for their protective shells, which are actually part of their skeleton and made of bone covered by plates called scutes. All members of this ancient group have beaks instead of teeth and lay eggs on land, even the fully aquatic sea turtles. They range from tiny bog turtles smaller than your hand to massive sea turtles that can weigh over 1,000 pounds.",
+      "distinguishingFeatures": "The hard shell that encases their body is unique among all vertebrates - it's formed by their ribs and backbone fusing together and expanding outward. Unlike other reptiles, they cannot shed their shells and must retract their heads and limbs inside for protection.",
+      "funFact": "Turtles are among the oldest reptile groups on Earth, with fossils showing they've looked essentially the same for over 200 million years - they were around before the dinosaurs and outlived them too!"
+    },
+    {
+      "id": 26039,
+      "name": "Crocodylia",
+      "commonName": "Crocodilians",
+      "rank": "order",
+      "speciesCount": 1,
+      "children": [
+        {
+          "id": 121038,
+          "name": "Alligatoridae",
+          "commonName": "Alligators and Caimans",
+          "rank": "family",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 26154,
+              "name": "Alligator",
+              "commonName": "Alligators",
+              "rank": "genus",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 26159,
+                  "name": "Alligator mississippiensis",
+                  "commonName": "American Alligator",
+                  "rank": "species",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 26159,
+                      "name": "Alligator mississippiensis",
+                      "commonName": "American Alligator",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [],
+                      "slug": "american-alligator",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/343508251/medium.jpg"
+                    }
+                  ],
+                  "slug": "american-alligator",
+                  "representativePhotoUrl": "https://static.inaturalist.org/photos/343508251/medium.jpg"
+                }
+              ],
+              "slug": "alligators",
+              "description": "Alligators are large, semi-aquatic reptiles with powerful jaws, armored skin, and broad, rounded snouts. They are excellent swimmers and spend much of their time in freshwater habitats like swamps, marshes, and slow-moving rivers. These apex predators are known for their impressive size and their ability to remain nearly motionless while waiting for prey.",
+              "distinguishingFeatures": "Alligators can be distinguished from crocodiles by their wider, more U-shaped snouts and the fact that their lower teeth are mostly hidden when their mouths are closed. They also tend to be less aggressive than crocodiles and prefer freshwater over saltwater habitats.",
+              "funFact": "Alligators are surprisingly gentle parents - mother alligators carefully carry their newly hatched babies to water in their mouths and protect them for up to two years."
+            }
+          ],
+          "slug": "alligators-and-caimans",
+          "description": "Alligators and caimans are large, semi-aquatic reptiles that are powerful predators found in freshwater habitats like swamps, rivers, and lakes. They have broad, rounded snouts, armored skin made of bony plates called scutes, and are excellent swimmers with their muscular tails. These ancient creatures are caring parents that build nests and protect their young.",
+          "distinguishingFeatures": "Unlike their crocodile cousins, alligators and caimans have wider, more U-shaped snouts and when their jaws are closed, only their upper teeth are visible. They are also generally less aggressive than crocodiles and prefer freshwater over saltwater.",
+          "funFact": "American alligators are amazing ecosystem engineers - the 'gator holes' they dig during dry seasons become vital water sources for many other animals during droughts!"
+        }
+      ],
+      "slug": "crocodilians",
+      "description": "Crocodilians are large, semi-aquatic reptiles that are living remnants of the age of dinosaurs. They are powerful predators with elongated bodies, muscular tails for swimming, and incredibly strong jaws filled with sharp teeth. These ancient creatures spend time both in water and on land, making them perfectly adapted for life in wetland environments.",
+      "distinguishingFeatures": "Crocodilians can be distinguished from other reptiles by their armored, scaly skin made of bony plates called scutes, their eyes and nostrils positioned on top of their heads for surface breathing while mostly submerged, and their incredibly powerful bite force that can snap shut with tremendous speed.",
+      "funFact": "Crocodilians are more closely related to birds than they are to lizards and snakes, sharing a common ancestor that lived over 240 million years ago."
+    }
+  ]
+}

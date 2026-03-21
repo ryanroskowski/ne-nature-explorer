@@ -1,0 +1,121 @@
+{
+  "slug": "acrosiphonia-spinescens",
+  "taxonId": 1022953,
+  "group": "plants",
+  "commonName": "Acrosiphonia spinescens",
+  "scientificName": "Acrosiphonia spinescens",
+  "family": "Acrosiphoniaceae",
+  "familyCommonName": "Acrosiphoniaceae",
+  "genus": "Acrosiphonia",
+  "genusCommonName": "Acrosiphonia",
+  "order": "Codiolales",
+  "orderCommonName": "Codiolales",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "green algae",
+      "rank": "phylum",
+      "slug": "explore/green-algae"
+    },
+    {
+      "label": "Ulvophycean green algae",
+      "rank": "class",
+      "slug": "explore/ulvophycean-green-algae"
+    },
+    {
+      "label": "Codiolales",
+      "rank": "order",
+      "slug": "explore/codiolales"
+    },
+    {
+      "label": "Acrosiphoniaceae",
+      "rank": "family",
+      "slug": "explore/acrosiphoniaceae"
+    },
+    {
+      "label": "Acrosiphonia",
+      "rank": "genus",
+      "slug": "explore/acrosiphonia"
+    },
+    {
+      "label": "Acrosiphonia spinescens",
+      "rank": "species",
+      "slug": "species/acrosiphonia-spinescens"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 283223479,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/283223479/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/283223479/large.jpeg",
+      "attribution": "(c) Roger Rittmaster, some rights reserved (CC BY), uploaded by Roger Rittmaster",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/102295300"
+    }
+  ],
+  "nameStory": "The name 'spinescens' comes from Latin meaning 'becoming spiny' or 'spine-like,' referring to the hair-like projections that give this seaweed its distinctive texture. While it's not truly spiny like a cactus, those fine filaments can feel surprisingly rough when you run your fingers along them. The scientific name Acrosiphonia means 'tube at the tip,' describing how the thread-like branches are actually hollow tubes.",
+  "description": "Acrosiphonia spinescens is a marine green algae (seaweed) that forms tangled masses of bright green, thread-like branches along New England's rocky coastlines. Each 'thread' is actually a hollow tube that can grow several inches long, creating loose, somewhat shaggy clumps that attach to rocks in the intertidal zone. The whole mass rarely exceeds 6-8 inches across, but multiple clumps often grow together to cover larger areas. Despite being called an algae, it's quite complex for a seaweed, with branching patterns that can remind you of tiny green coral.",
+  "idTips": [
+    {
+      "label": "Thread-like hollow tubes",
+      "description": "The branches feel firm but flexible, like thin green spaghetti, and are actually hollow tubes you can sometimes see through when held up to light",
+      "isPrimary": true
+    },
+    {
+      "label": "Rough, spiny texture",
+      "description": "Despite looking soft, the surface feels surprisingly rough and slightly prickly when rubbed between your fingers, unlike smoother seaweeds",
+      "isPrimary": false
+    },
+    {
+      "label": "Bright emerald green color",
+      "description": "The color is a vibrant, almost electric green that stays bright even when wet, more intense than most other green seaweeds",
+      "isPrimary": false
+    },
+    {
+      "label": "Tangled, irregular branching",
+      "description": "Grows in loose, messy clumps with no obvious pattern, like a ball of green yarn that's been pulled apart",
+      "isPrimary": false
+    },
+    {
+      "label": "Rocky attachment point",
+      "description": "Firmly anchored to rock surfaces by a small, disc-like holdfast that feels tough and rubbery to the touch",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for this seaweed in the lower intertidal zone along New England's rocky coastlines, especially on granite ledges and boulder fields that get regular wave action. It prefers areas that are submerged at high tide but exposed during low tide, often growing alongside rockweed and Irish moss. The cold waters of Maine and New Hampshire provide ideal conditions, though it's quite rare throughout the region.",
+  "seasonality": {
+    "spring": "This is peak growing season when new growth appears bright green and most vigorous. The hollow tubes are at their most translucent and the spiny texture is most pronounced.",
+    "summer": "Fully developed clumps are easiest to spot during summer low tides. The bright green color is most intense during warm, sunny days.",
+    "fall": "Growth begins to slow and older parts may start to break away. Color remains bright but individual tubes may become more brittle to the touch.",
+    "winter": "Much reduced in size or absent entirely, as this species doesn't tolerate ice formation well. Any remaining bits will be small and closer to the low tide line."
+  },
+  "funFact": "Each 'thread' is actually a single, giant cell that can be several inches long - making this one of the largest single cells you can see without a microscope, rivaling the size of some bird eggs!",
+  "confusionNotes": "Most likely confused with green rope algae (Acrosiphonia coalita), but spinescens has that distinctive rough, prickly feel while coalita feels smooth and slippery. Memory trick: 'spinescens = spiny sensation' when you touch it.",
+  "contextualKnowledge": "Despite being called 'algae,' seaweeds like Acrosiphonia are quite different from the slimy pond scum most people think of - they're complex marine plants with sophisticated structures. The extreme rarity in New England (only one recorded observation) suggests this may be at the southern edge of its natural range.",
+  "compareHints": "Compared to its relatives green rope (A. coalita) and Green Tarantula Weed (A. arcta), spinescens has the roughest texture and most irregular branching pattern. Green rope forms more organized, rope-like strands, while Green Tarantula Weed has a more densely branched, fuzzy appearance. All three share that distinctive hollow-tube structure, but only spinescens feels truly rough and spiny to the touch.",
+  "relatedSpecies": [
+    {
+      "slug": "acrosiphonia-coalita",
+      "commonName": "green rope",
+      "scientificName": "Acrosiphonia coalita",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/20049664/medium.jpeg",
+      "distinction": "Green rope differs from its relative Green Tarantula Weed by forming distinctly rope-like bundles rather than sprawling, spider-like masses."
+    },
+    {
+      "slug": "acrosiphonia-arcta",
+      "commonName": "Green Tarantula Weed",
+      "scientificName": "Acrosiphonia arcta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/78927464/medium.jpg",
+      "distinction": "Green Tarantula Weed differs from its relative Green Rope (Acrosiphonia coalita) by forming much more tangled, chaotic mats rather than rope-like strands."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1022953"
+}

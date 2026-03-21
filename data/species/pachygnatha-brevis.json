@@ -1,0 +1,129 @@
+{
+  "slug": "pachygnatha-brevis",
+  "taxonId": 153769,
+  "group": "arachnids",
+  "commonName": "Pachygnatha brevis",
+  "scientificName": "Pachygnatha brevis",
+  "family": "Tetragnathidae",
+  "familyCommonName": "Long-jawed Orbweavers",
+  "genus": "Pachygnatha",
+  "genusCommonName": "thickjawed orbweavers",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Long-jawed Orbweavers",
+      "rank": "family",
+      "slug": "explore/long-jawed-orbweavers"
+    },
+    {
+      "label": "thickjawed orbweavers",
+      "rank": "genus",
+      "slug": "explore/thickjawed-orbweavers"
+    },
+    {
+      "label": "Pachygnatha brevis",
+      "rank": "species",
+      "slug": "species/pachygnatha-brevis"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 243723027,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243723027/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243723027/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/142181813"
+    },
+    {
+      "id": 11547337,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11547337/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11547337/large.jpg",
+      "attribution": "(c) Joe Bartok, some rights reserved (CC BY-NC), uploaded by Joe Bartok",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/15376900"
+    }
+  ],
+  "nameStory": "The 'thick-jawed' part of this spider's name comes from its notably robust chelicerae - the paired feeding appendages that hold the fangs. While most orb weavers have relatively delicate mouthparts, these spiders sport chunky, muscular jaws that give them a distinctive bulldoggish appearance when viewed up close.",
+  "description": "The short thick-jawed orb weaver is a small, brownish spider that belongs to the long-jawed orb weaver family, despite its own stout appearance. These compact spiders typically measure just a few millimeters across and have a somewhat flattened, oval body. Unlike many of their web-spinning relatives, they're often found wandering on the ground rather than sitting in the center of a web. Their most distinctive feature is their disproportionately large, thick chelicerae (jaw structures) that make their 'face' look notably robust.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Compact and somewhat flattened oval body with a distinctly wide front end where the thick chelicerae attach",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Generally brownish coloration with subtle patterns that help it blend into leaf litter and soil",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Very small spider, typically just a few millimeters in body length - about the size of a sesame seed",
+      "isPrimary": false
+    },
+    {
+      "label": "Eyes",
+      "description": "Two rows of small eyes, with the thick chelicerae dominating the front view of the face",
+      "isPrimary": true
+    },
+    {
+      "label": "Behavior",
+      "description": "Often found walking on the ground or low vegetation rather than sitting in webs like typical orb weavers",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for this tiny spider in leaf litter, under logs, and among low vegetation in forests and wooded areas throughout New England. They prefer moist environments with plenty of organic debris where they can hunt for small prey. You're most likely to spot them by carefully examining the forest floor or turning over fallen leaves.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, beginning to hunt actively in the leaf litter.",
+    "summer": "Peak activity period when adults are most commonly encountered foraging on the ground.",
+    "fall": "Mating season occurs, with adults still active until the first hard frosts.",
+    "winter": "Likely overwinters in protected spots under bark or deep in leaf litter, inactive until spring."
+  },
+  "funFact": "Despite being in the orb weaver family famous for their intricate circular webs, thick-jawed orb weavers are essentially ground-hunting spiders that have largely abandoned web-building in favor of actively stalking their tiny prey through the leaf litter like miniature wolf spiders.",
+  "confusionNotes": "Most likely to be confused with other tiny brown spiders in leaf litter, but the disproportionately thick chelicerae (jaw structures) are diagnostic when visible. Memory trick: Think 'thick-jawed' and look for the spider equivalent of a bulldog face.",
+  "contextualKnowledge": "The family name 'long-jawed orb weavers' can be confusing when applied to thick-jawed species, as these spiders actually have notably short, robust jaws rather than the elongated ones typical of most family members. This shows how spider families can include species that have evolved quite different lifestyles and body forms.",
+  "compareHints": "Compared to the Big-eyed Thick-jawed Spider, this species is generally smaller and has less prominent eyes. While both species have thick chelicerae, the short thick-jawed orb weaver tends to be more uniformly brown and compact. The specific differences between Pachygnatha species often require close examination of the chelicerae shape and body proportions to distinguish reliably.",
+  "relatedSpecies": [
+    {
+      "slug": "pachygnatha-autumnalis",
+      "commonName": "Big-eyed Thick-jawed Spider",
+      "scientificName": "Pachygnatha autumnalis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2439834/medium.JPG",
+      "distinction": "Compared to its relatives Pachygnatha tristriata and P."
+    },
+    {
+      "slug": "pachygnatha-tristriata",
+      "commonName": "Pachygnatha tristriata",
+      "scientificName": "Pachygnatha tristriata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/580538/medium.jpg",
+      "distinction": "Compared to its relative the Big-eyed Thick-jawed Spider (Pachygnatha autumnalis), this species has the distinctive three-striped pattern rather than more uniform coloration."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Pachygnatha_brevis",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/153769"
+}

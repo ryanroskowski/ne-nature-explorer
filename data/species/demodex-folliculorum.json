@@ -1,0 +1,133 @@
+{
+  "slug": "demodex-folliculorum",
+  "taxonId": 262789,
+  "group": "arachnids",
+  "commonName": "Human Follicle Mite",
+  "scientificName": "Demodex folliculorum",
+  "family": "Demodecidae",
+  "familyCommonName": "Mammalian Follicle Mites",
+  "genus": "Demodex",
+  "genusCommonName": "Mammalian Follicle Mites",
+  "order": "Trombidiformes",
+  "orderCommonName": "Trombidiform Mites",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Trombidiform Mites",
+      "rank": "order",
+      "slug": "explore/trombidiform-mites"
+    },
+    {
+      "label": "Mammalian Follicle Mites",
+      "rank": "family",
+      "slug": "explore/mammalian-follicle-mites"
+    },
+    {
+      "label": "Mammalian Follicle Mites",
+      "rank": "genus",
+      "slug": "explore/mammalian-follicle-mites"
+    },
+    {
+      "label": "Human Follicle Mite",
+      "rank": "species",
+      "slug": "species/demodex-folliculorum"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 13488523,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13488523/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13488523/large.jpg",
+      "attribution": "(c) Don Loarie, some rights reserved (CC BY), uploaded by Don Loarie",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/26278900"
+    },
+    {
+      "id": 89162277,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/89162277/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/89162277/large.jpg",
+      "attribution": "(c) Andrew George, some rights reserved (CC BY-NC), uploaded by Andrew George",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/26278901"
+    },
+    {
+      "id": 110569639,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110569639/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110569639/large.jpg",
+      "attribution": "(c) davidenrique, some rights reserved (CC BY-NC-SA), uploaded by davidenrique",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/26278902"
+    },
+    {
+      "id": 552007690,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/552007690/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/552007690/large.jpg",
+      "attribution": "(c) Jovan Grollino, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/306117048"
+    },
+    {
+      "id": 89288926,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/89288926/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/89288926/large.jpeg",
+      "attribution": "(c) Richard Tehan, some rights reserved (CC BY-NC), uploaded by Richard Tehan",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/26278903"
+    }
+  ],
+  "nameStory": "The Human Follicle Mite gets its straightforward name from its exclusive home: the hair follicles of humans. Unlike most mites that live in soil or on plants, this tiny arachnid has evolved to live only on people, particularly burrowing into the follicles where our facial hair grows. The scientific name Demodex comes from Greek words meaning 'fat boring worm,' referring to how it tunnels through the oily layers of our skin.",
+  "description": "This is a microscopic mite so tiny you'll never see it with the naked eye, measuring less than half a millimeter long. It has an elongated, worm-like body that's perfectly adapted for living inside hair follicles. Most people carry these mites on their face without ever knowing it, especially around areas with lots of oil glands like the nose, cheeks, and forehead. While invisible to us, they're busy living their entire lives in the warm, oily environment of our skin.",
+  "idTips": [
+    {
+      "label": "Size",
+      "description": "Microscopic - requires at least 40x magnification to see, appearing as tiny elongated specks smaller than the period at the end of this sentence",
+      "isPrimary": true
+    },
+    {
+      "label": "Body Shape",
+      "description": "Extremely elongated and worm-like with a tapered rear end, perfectly shaped to fit inside narrow hair follicles",
+      "isPrimary": false
+    },
+    {
+      "label": "Habitat",
+      "description": "Found exclusively in human hair follicles and sebaceous glands, never free-living on surfaces or other hosts",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Moves very slowly in a characteristic crawling motion when extracted from follicles onto a microscope slide",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "This mite doesn't live in typical New England habitats like forests or fields - instead, it lives exclusively on humans throughout the region. You'll find the highest concentrations on facial skin, particularly around the nose, cheeks, chin, and forehead where sebaceous (oil) glands are most active. They prefer the warm, oily microenvironment of hair follicles and can only survive on human skin.",
+  "seasonality": {
+    "spring": "Mite populations remain stable year-round on human hosts, though increased outdoor activities may lead to more face-touching and potential transmission between people.",
+    "summer": "Warmer weather and increased sebaceous gland activity may provide optimal conditions for mite reproduction, though they're present regardless of season.",
+    "fall": "Mite populations continue unchanged as they live in the consistently warm environment of human skin, unaffected by cooling outdoor temperatures.",
+    "winter": "Indoor heating and dry air don't significantly impact these mites since they live deep within follicles where conditions remain stable."
+  },
+  "funFact": "Nearly 100% of adults over 60 host these microscopic roommates on their face, and they throw tiny mite parties by coming to the surface of your skin at night to mate - all while you sleep completely unaware!",
+  "confusionNotes": "Could potentially be confused with other microscopic skin mites like Demodex brevis, but follicle mites are longer and more worm-like, while brevis mites are shorter and more oval-shaped. Remember: follicle mites are the 'long and skinny' ones that prefer hair follicles over oil glands.",
+  "contextualKnowledge": "Despite being called 'mites,' most people with follicle mites experience no symptoms and the relationship is considered harmless coexistence rather than parasitism. Problems only arise when populations become unusually high, which can sometimes cause skin irritation or contribute to conditions like rosacea.",
+  "compareHints": "This is the only Demodex species commonly found in New England hair follicles, though humans also host the related Demodex brevis in oil glands. Follicle mites are significantly longer and more worm-like compared to the shorter, more rounded brevis mites. Unlike other mite families that live freely in soil or on plants, all Demodex species are obligate human symbionts that cannot survive away from mammalian skin.",
+  "relatedSpecies": [],
+  "isNative": false,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Demodex_folliculorum",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/262789"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "cicurina-robusta",
+  "taxonId": 216992,
+  "group": "arachnids",
+  "commonName": "Cicurina robusta",
+  "scientificName": "Cicurina robusta",
+  "family": "Cicurinidae",
+  "familyCommonName": "cicurinid spiders",
+  "genus": "Cicurina",
+  "genusCommonName": "Cicurina",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "cicurinid spiders",
+      "rank": "family",
+      "slug": "explore/cicurinid-spiders"
+    },
+    {
+      "label": "Cicurina",
+      "rank": "genus",
+      "slug": "explore/cicurina"
+    },
+    {
+      "label": "Cicurina robusta",
+      "rank": "species",
+      "slug": "species/cicurina-robusta"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 182779248,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182779248/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182779248/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC), uploaded by Tom Murray",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/21699200"
+    }
+  ],
+  "nameStory": "The scientific name 'robusta' comes from the Latin word meaning 'strong' or 'sturdy,' likely referring to this spider's relatively robust build compared to its delicate relatives. While it doesn't have a widely-used common name, spider enthusiasts sometimes call it the 'robust cicurina spider' after its scientific designation.",
+  "description": "Cicurina robusta is a small, inconspicuous spider that belongs to the cicurinid family - a group of spiders that build small, irregular webs in hidden places. These spiders are typically brownish in color with a somewhat stocky build for their size. They're quite small, usually measuring less than half an inch in body length, making them easy to overlook in their natural habitat.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Compact and relatively sturdy-looking for a small spider, with a rounded abdomen that feels firm when gently touched",
+      "isPrimary": true
+    },
+    {
+      "label": "Web",
+      "description": "Creates small, messy sheet webs tucked into crevices that feel sticky but delicate, often with debris caught in the silken strands",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Very small spider with body length typically under 0.4 inches, about the size of a peppercorn",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Generally brownish coloration without distinct patterns, appearing somewhat muted and earth-toned",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Stays hidden in dark, protected spaces and moves quickly when disturbed, often retreating deeper into crevices",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in dark, moist microhabitats such as under loose bark, in rock crevices, or among leaf litter in forested areas. They prefer protected spaces with stable humidity levels, often in deciduous or mixed woodlands where they can find suitable nooks and crannies for their small webs.",
+  "seasonality": {
+    "spring": "Adults become more active as temperatures warm, beginning to establish territories and build webs in suitable crevices.",
+    "summer": "Peak activity period when adults are most likely to be encountered, actively hunting and potentially mating.",
+    "fall": "Adults may still be active in protected areas, though activity begins to slow as temperatures drop.",
+    "winter": "Likely overwinters in protected locations, remaining dormant under bark or in deep crevices until spring."
+  },
+  "funFact": "This spider is so rarely encountered that it has only been documented once in all of New England, making any sighting a potentially significant scientific observation worth reporting to local naturalist groups!",
+  "confusionNotes": "Could easily be mistaken for other small brown spiders, especially immature specimens of more common species. The key difference is the cicurinid family's characteristic small, messy sheet webs tucked into protected spaces, rather than the orb webs or hunting behavior of similar-sized spiders.",
+  "contextualKnowledge": "The cicurinid spider family is relatively small and poorly studied compared to more conspicuous spider families, so many species lack common names and detailed natural history information. These 'forgotten' spiders play important ecological roles despite their secretive nature.",
+  "compareHints": "Compared to its Cicurina relatives like C. brevis and C. pallida, C. robusta tends to have a more compact, sturdy build - hence the 'robust' name. While all Cicurina species create similar small sheet webs, C. robusta appears slightly stockier and may prefer somewhat different microhabitats than its more delicate cousins.",
+  "relatedSpecies": [
+    {
+      "slug": "cicurina-brevis",
+      "commonName": "Cicurina brevis",
+      "scientificName": "Cicurina brevis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/65282463/medium.jpg",
+      "distinction": "Cicurina brevis is distinguished from its relatives like C."
+    },
+    {
+      "slug": "cicurina-pallida",
+      "commonName": "Cicurina pallida",
+      "scientificName": "Cicurina pallida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182778441/medium.jpeg",
+      "distinction": "Compared to other Cicurina species that might occur in New England, the pale cicurina lives up to its name with notably lighter coloration than its relatives."
+    },
+    {
+      "slug": "cicurina-itasca",
+      "commonName": "Cicurina itasca",
+      "scientificName": "Cicurina itasca",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182778105/medium.jpeg",
+      "distinction": "Distinguishing this species from its close relatives like Cicurina brevis or Cicurina robusta requires expert examination of reproductive structures under magnification."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cicurina_robusta",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/216992"
+}

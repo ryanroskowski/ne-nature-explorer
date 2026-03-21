@@ -1,0 +1,114 @@
+{
+  "slug": "colus-pygmaeus",
+  "taxonId": 936517,
+  "group": "mollusks",
+  "commonName": "pygmy whelk",
+  "scientificName": "Colus pygmaeus",
+  "family": "Colidae",
+  "familyCommonName": "Colidae",
+  "genus": "Colus",
+  "genusCommonName": "Colus",
+  "order": "Neogastropoda",
+  "orderCommonName": "Neogastropoda",
+  "breadcrumb": [
+    {
+      "label": "Mollusks",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Molluscs",
+      "rank": "phylum",
+      "slug": "explore/molluscs"
+    },
+    {
+      "label": "Gastropods",
+      "rank": "class",
+      "slug": "explore/gastropods"
+    },
+    {
+      "label": "Neogastropoda",
+      "rank": "order",
+      "slug": "explore/neogastropoda"
+    },
+    {
+      "label": "Colidae",
+      "rank": "family",
+      "slug": "explore/colidae"
+    },
+    {
+      "label": "Colus",
+      "rank": "genus",
+      "slug": "explore/colus"
+    },
+    {
+      "label": "pygmy whelk",
+      "rank": "species",
+      "slug": "species/colus-pygmaeus"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 153018877,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153018877/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153018877/large.jpeg",
+      "attribution": "(c) Dan O'Brien, some rights reserved (CC BY-NC), uploaded by Dan O'Brien",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/93651700"
+    }
+  ],
+  "nameStory": "The pygmy whelk gets its name from its tiny size compared to other whelks - 'pygmy' comes from the Greek word for a small person or dwarf. While most whelks you find on New England beaches are hefty shells you can hold in your palm, this little cousin is so small you might mistake it for a young snail of another species entirely.",
+  "description": "The pygmy whelk is a tiny sea snail that lives in the cold waters off New England's coast. Like other whelks, it's a marine gastropod - essentially a snail that lives in salt water and carries a spiral shell on its back. This miniature predator hunts other small sea creatures on the ocean floor, using its muscular foot to glide along and its specialized feeding structure to drill into prey.",
+  "idTips": [
+    {
+      "label": "Shell size",
+      "description": "Remarkably small for a whelk, typically under half an inch long - you could easily fit several on a quarter",
+      "isPrimary": true
+    },
+    {
+      "label": "Shell shape",
+      "description": "Classic whelk spiral shape but proportionally more elongated and delicate than larger relatives",
+      "isPrimary": false
+    },
+    {
+      "label": "Shell texture",
+      "description": "Smooth to slightly ridged surface that feels hard and glossy when dry, with fine growth lines visible under close inspection",
+      "isPrimary": false
+    },
+    {
+      "label": "Color pattern",
+      "description": "Usually pale cream to light brown with subtle darker banding or mottling",
+      "isPrimary": false
+    },
+    {
+      "label": "Opening shape",
+      "description": "Oval shell opening (aperture) that's relatively large compared to the shell size, often with a slight notch at the bottom",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in deeper, colder waters off the New England coast, typically living on sandy or muddy sea floors. These tiny whelks prefer the continental shelf waters where temperatures stay cool year-round. You're most likely to encounter empty shells washed up on beaches after storms, particularly on outer coastal beaches exposed to deeper ocean currents.",
+  "seasonality": {
+    "spring": "Empty shells may wash ashore during spring storms, often mixed with other small shells and sea debris.",
+    "summer": "Beach combing in summer might reveal shells, but living animals remain in deeper offshore waters.",
+    "fall": "Fall storms can bring shells to shore, making this the best season for finding specimens on the beach.",
+    "winter": "Winter storms occasionally deposit shells on beaches, though beach access may be limited during rough weather."
+  },
+  "funFact": "Despite being called a 'pygmy,' this tiny whelk is still a fierce predator that can drill perfect circular holes through the shells of even smaller prey using a specialized feeding structure called a radula - essentially a tongue covered in tiny teeth that works like a biological drill bit.",
+  "confusionNotes": "Most likely to be confused with juvenile shells of larger whelk species or small periwinkles, but the elongated spiral shape and relatively large opening help distinguish it from the more rounded periwinkles.",
+  "contextualKnowledge": "The term 'whelk' comes from Old English and simply means 'shellfish,' which is why it's applied to various types of marine snails. Don't expect to see living pygmy whelks while tide pooling - they live in much deeper water than the whelks you might find in shallow tide pools.",
+  "compareHints": "Compared to its larger cousin Stimpson's whelk, the pygmy whelk is dramatically smaller and more delicate, with a proportionally more elongated shell shape. While Stimpson's whelk can grow several inches long with a robust, heavy shell, the pygmy whelk maintains its tiny, almost fragile appearance throughout its life.",
+  "relatedSpecies": [
+    {
+      "slug": "colus-stimpsonii",
+      "commonName": "Stimpson's Whelk",
+      "scientificName": "Colus stimpsonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13405333/medium.jpg",
+      "distinction": "Stimpson's whelk is much larger and more elongated than its tiny relative, the pygmy whelk, which rarely exceeds an inch in length."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Colus_pygmaeus",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/936517"
+}

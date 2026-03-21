@@ -1,0 +1,409 @@
+{
+  "slug": "boletus-edulis",
+  "taxonId": 48701,
+  "group": "fungi",
+  "commonName": "King Bolete",
+  "scientificName": "Boletus edulis",
+  "family": "Boletaceae",
+  "familyCommonName": "boletes",
+  "genus": "Boletus",
+  "genusCommonName": "Porcini and Allies",
+  "order": "Boletales",
+  "orderCommonName": "boletes and allies",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Basidiomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/basidiomycete-fungi"
+    },
+    {
+      "label": "Mushrooms, Bracket Fungi, Puffballs, and Allies",
+      "rank": "class",
+      "slug": "explore/mushrooms-bracket-fungi-puffballs-and-allies"
+    },
+    {
+      "label": "boletes and allies",
+      "rank": "order",
+      "slug": "explore/boletes-and-allies"
+    },
+    {
+      "label": "boletes",
+      "rank": "family",
+      "slug": "explore/boletes"
+    },
+    {
+      "label": "Porcini and Allies",
+      "rank": "genus",
+      "slug": "explore/porcini-and-allies"
+    },
+    {
+      "label": "King Bolete",
+      "rank": "species",
+      "slug": "species/boletus-edulis"
+    }
+  ],
+  "observationCount": 198,
+  "abundanceTier": "very-common",
+  "photos": [
+    {
+      "id": 148026039,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/148026039/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/148026039/large.jpeg",
+      "attribution": "(c) Alan Rockefeller, some rights reserved (CC BY), uploaded by Alan Rockefeller",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/4870106"
+    },
+    {
+      "id": 36953355,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/36953355/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/36953355/large.jpg",
+      "attribution": "(c) hankabroz, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/4870104"
+    },
+    {
+      "id": 5731114,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5731114/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5731114/large.jpeg",
+      "attribution": "(c) Alan Rockefeller, some rights reserved (CC BY), uploaded by Alan Rockefeller",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/4870105"
+    },
+    {
+      "id": 152195410,
+      "mediumUrl": "https://static.inaturalist.org/photos/152195410/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/152195410/large.jpg",
+      "attribution": "(c) Anne Kotaniemi-Syrjänen, all rights reserved, uploaded by Anne Kotaniemi-Syrjänen",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/4870109"
+    },
+    {
+      "id": 35801895,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35801895/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35801895/large.jpg",
+      "attribution": "(c) Boris Bolshakov, some rights reserved (CC BY-NC), uploaded by Boris Bolshakov",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/4870110"
+    },
+    {
+      "id": 354358918,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/354358918/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/354358918/large.jpg",
+      "attribution": "(c) MK-fotky, some rights reserved (CC BY-NC-ND)",
+      "licenseCode": "cc-by-nc-nd",
+      "observationUrl": "https://www.inaturalist.org/observations/4870100"
+    },
+    {
+      "id": 4161690,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4161690/medium.",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4161690/large.",
+      "attribution": "(c) noah_siegel, some rights reserved (CC BY-NC-SA), uploaded by noah_siegel",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/4870107"
+    },
+    {
+      "id": 247824369,
+      "mediumUrl": "https://static.inaturalist.org/photos/247824369/medium.jpeg",
+      "largeUrl": "https://static.inaturalist.org/photos/247824369/large.jpeg",
+      "attribution": "(c) Dawn Alva, all rights reserved, uploaded by Dawn Alva",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/4870103"
+    },
+    {
+      "id": 328303120,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/328303120/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/328303120/large.jpg",
+      "attribution": "(c) wp-polzin, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/4870101"
+    },
+    {
+      "id": 322752798,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322752798/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322752798/large.jpg",
+      "attribution": "(c) tombigelow, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/184865337"
+    },
+    {
+      "id": 26612175,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/26612175/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/26612175/large.jpeg",
+      "attribution": "(c) J.D. Willson, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/17493926"
+    },
+    {
+      "id": 29239600,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29239600/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29239600/large.jpeg",
+      "attribution": "(c) Davide Puddu, some rights reserved (CC BY), uploaded by Davide Puddu",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/4870102"
+    },
+    {
+      "id": 37766217,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/37766217/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/37766217/large.jpeg",
+      "attribution": "(c) Ralph Foster, some rights reserved (CC BY-NC), uploaded by Ralph Foster",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/4870108"
+    },
+    {
+      "id": 190787274,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/190787274/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/190787274/large.jpeg",
+      "attribution": "(c) Misha, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/112928043"
+    },
+    {
+      "id": 26612182,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/26612182/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/26612182/large.jpeg",
+      "attribution": "(c) J.D. Willson, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/17493926"
+    },
+    {
+      "id": 190787267,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/190787267/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/190787267/large.jpeg",
+      "attribution": "(c) Misha, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/112928043"
+    }
+  ],
+  "nameStory": "The \"King\" Bolete earned its royal title because it's considered the crown jewel of edible mushrooms, prized by chefs and foragers worldwide. Also known as porcini (meaning \"little pigs\" in Italian), these chunky mushrooms were thought to resemble plump piglets rooting around the forest floor. The name \"bolete\" comes from the Greek word for \"lump of clay,\" referring to their substantial, meaty appearance.",
+  "description": "The King Bolete is a chunky, substantial mushroom that looks like nature's dinner roll sitting on the forest floor. It has a smooth, brown cap that can grow as large as a dinner plate and a thick, pale stem that often looks swollen at the base. Instead of gills underneath, it has tiny pores that look like a natural sponge. These impressive fungi can weigh several pounds when fully mature, making them impossible to miss during a forest walk.",
+  "idTips": [
+    {
+      "label": "Pores",
+      "description": "The underside has tiny pores instead of gills, starting white when young and aging to greenish-yellow. Run your finger across them - they feel soft and spongy, like touching a fine kitchen sponge.",
+      "isPrimary": true
+    },
+    {
+      "label": "Cap",
+      "description": "Brown and smooth like a hamburger bun, feeling slightly sticky when moist but dry and velvety in dry weather. Can reach dinner-plate size with a pleasantly firm texture.",
+      "isPrimary": false
+    },
+    {
+      "label": "Stem",
+      "description": "Thick, pale, and often bulbous at the base with a raised network pattern (reticulation) that looks like tiny white veins, especially near the top. Feels solid and firm when fresh.",
+      "isPrimary": false
+    },
+    {
+      "label": "Smell",
+      "description": "Pleasant, nutty aroma that's often described as \"mushroomy\" in the best way - earthy and appetizing without any unpleasant chemical or fishy odors.",
+      "isPrimary": false
+    },
+    {
+      "label": "Bruising",
+      "description": "The flesh stays white when cut or bruised, unlike many other boletes that turn blue or black. The pores may yellow slightly with age but don't dramatically change color.",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for King Boletes in mixed forests with both deciduous and coniferous trees, especially around oaks, pines, and spruces. They form partnerships with tree roots, so you'll find them growing from soil near living trees rather than on dead wood. They prefer well-drained areas and are often found on gentle slopes or forest edges where sunlight filters through the canopy.",
+  "seasonality": {
+    "spring": "Rarely appears in late spring, but keep an eye out in May if conditions are warm and moist. Most activity happens later in the season.",
+    "summer": "Prime season begins in mid to late summer, especially after warm rains. Look for small \"buttons\" emerging from the soil that will rapidly expand.",
+    "fall": "Peak season continues through early fall, with the largest specimens often appearing in September and October. Cool nights and warm days create ideal conditions.",
+    "winter": "Completely absent - the mushrooms decompose and the fungus survives underground as mycorrhizal networks connected to tree roots."
+  },
+  "funFact": "A single King Bolete can release over 1 billion spores per hour at peak maturity, and just one large specimen can theoretically produce enough spores to cover the entire state of Rhode Island if they were all spread evenly across its surface!",
+  "confusionNotes": "Most commonly confused with the False King Bolete, which looks nearly identical but has a slightly bitter taste and pores that may bruise yellowish. Remember: \"True kings stay white\" - genuine King Boletes maintain their white flesh color when cut, while many imposters will show color changes.",
+  "contextualKnowledge": "Despite being called \"porcini\" in Italian cuisine, the mushrooms you buy dried in stores might actually be several different Boletus species that are all marketed under the porcini name. True King Boletes are incredibly difficult to cultivate commercially, so nearly all porcini in the marketplace comes from wild foraging.",
+  "compareHints": "King Boletes stand out from other boletes by their combination of white, non-bruising flesh and the distinctive raised network pattern on their stems. The Summer Bolete looks very similar but fruits earlier and has more prominent stem netting, while butter-foot and curry boletes have distinctly yellow stem bases that the King Bolete lacks. Most other boletes in New England will show some blue or black bruising when cut, making the King Bolete's color stability a reliable distinguishing feature.",
+  "relatedSpecies": [
+    {
+      "slug": "boletus-chippewaensis",
+      "commonName": "Chippewa Bolete",
+      "scientificName": "Boletus chippewaensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33632891/medium.jpeg",
+      "distinction": "Compared to the famous King Bolete, Chippewa Boletes tend to be smaller with less pronounced stem reticulation and may show faint blue bruising when cut."
+    },
+    {
+      "slug": "boletus-separans",
+      "commonName": "lilac bolete",
+      "scientificName": "Boletus separans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/175300041/medium.jpeg",
+      "distinction": "Unlike the famous King Bolete which has a more distinctly white pore surface and reddish-brown cap, the lilac bolete shows those characteristic purplish tones and tends to be smaller overall."
+    },
+    {
+      "slug": "boletus-auripes",
+      "commonName": "butter-foot bolete",
+      "scientificName": "Boletus auripes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46115762/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "boletus-sensibilis",
+      "commonName": "Curry Bolete",
+      "scientificName": "Boletus sensibilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/233869891/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "boletus-variipes",
+      "commonName": "Boletus variipes",
+      "scientificName": "Boletus variipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13078641/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "boletus-huronensis",
+      "commonName": "False King Bolete",
+      "scientificName": "Boletus huronensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13074713/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "boletus-miniato-olivaceus",
+      "commonName": "Boletus miniato-olivaceus",
+      "scientificName": "Boletus miniato-olivaceus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4160772/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "boletus-nobilis",
+      "commonName": "noble bolete",
+      "scientificName": "Boletus nobilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159924/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "boletus-vermiculosus",
+      "commonName": "Boletus vermiculosus",
+      "scientificName": "Boletus vermiculosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2450875/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "boletus-billieae",
+      "commonName": "Boletus billieae",
+      "scientificName": "Boletus billieae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31619549/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "boletus-subcaerulescens",
+      "commonName": "almost bluing king bolete",
+      "scientificName": "Boletus subcaerulescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4887343/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "boletus-vermiculosoides",
+      "commonName": "Boletus vermiculosoides",
+      "scientificName": "Boletus vermiculosoides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4714126/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "boletus-morrisii",
+      "commonName": "Boletus morrisii",
+      "scientificName": "Boletus morrisii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159086/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "boletus-nobilissimus",
+      "commonName": "Boletus nobilissimus",
+      "scientificName": "Boletus nobilissimus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13065883/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "boletus-miniatopallescens",
+      "commonName": "Boletus miniatopallescens",
+      "scientificName": "Boletus miniatopallescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12668073/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "boletus-speciosus",
+      "commonName": "Boletus speciosus",
+      "scientificName": "Boletus speciosus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/15296071/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "boletus-oliveisporus",
+      "commonName": "Boletus oliveisporus",
+      "scientificName": "Boletus oliveisporus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/157277788/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "boletus-atkinsonii",
+      "commonName": "Boletus atkinsonii",
+      "scientificName": "Boletus atkinsonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2450884/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "boletus-subluridellus",
+      "commonName": "Boletus subluridellus",
+      "scientificName": "Boletus subluridellus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/297500917/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "boletus-gertrudiae",
+      "commonName": "Boletus gertrudiae",
+      "scientificName": "Boletus gertrudiae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50832632/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "boletus-carminiporus",
+      "commonName": "Boletus carminiporus",
+      "scientificName": "Boletus carminiporus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22708118/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "boletus-atkinsonianus",
+      "commonName": "Boletus atkinsonianus",
+      "scientificName": "Boletus atkinsonianus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/398439045/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "boletus-reticulatus",
+      "commonName": "Summer Bolete",
+      "scientificName": "Boletus reticulatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244672547/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "boletus-luridellus",
+      "commonName": "Boletus luridellus",
+      "scientificName": "Boletus luridellus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11258675/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "boletus-rufocinnamomeus",
+      "commonName": "Boletus rufocinnamomeus",
+      "scientificName": "Boletus rufocinnamomeus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/38462473/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "boletus-aureissimus",
+      "commonName": "Boletus aureissimus",
+      "scientificName": "Boletus aureissimus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/112030127/medium.jpeg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Boletus_edulis",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/48701"
+}

@@ -1,0 +1,367 @@
+{
+  "slug": "setophaga-fusca",
+  "taxonId": 145237,
+  "group": "birds",
+  "commonName": "Blackburnian Warbler",
+  "scientificName": "Setophaga fusca",
+  "family": "Parulidae",
+  "familyCommonName": "New World Warblers",
+  "genus": "Setophaga",
+  "genusCommonName": "Setophaga Warblers",
+  "order": "Passeriformes",
+  "orderCommonName": "Perching Birds",
+  "breadcrumb": [
+    {
+      "label": "Birds",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Chordates",
+      "rank": "phylum",
+      "slug": "explore/chordates"
+    },
+    {
+      "label": "Birds",
+      "rank": "class",
+      "slug": "explore/birds"
+    },
+    {
+      "label": "Perching Birds",
+      "rank": "order",
+      "slug": "explore/perching-birds"
+    },
+    {
+      "label": "New World Warblers",
+      "rank": "family",
+      "slug": "explore/new-world-warblers"
+    },
+    {
+      "label": "Setophaga Warblers",
+      "rank": "genus",
+      "slug": "explore/setophaga-warblers"
+    },
+    {
+      "label": "Blackburnian Warbler",
+      "rank": "species",
+      "slug": "species/setophaga-fusca"
+    }
+  ],
+  "observationCount": 1042,
+  "abundanceTier": "common",
+  "photos": [
+    {
+      "id": 135287597,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135287597/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135287597/large.jpg",
+      "attribution": "(c) Matt Felperin, some rights reserved (CC BY), uploaded by Matt Felperin",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/14523700"
+    },
+    {
+      "id": 5206006,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5206006/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5206006/large.jpg",
+      "attribution": "(c) Tom Benson, some rights reserved (CC BY-NC-ND)",
+      "licenseCode": "cc-by-nc-nd",
+      "observationUrl": "https://www.inaturalist.org/observations/14523701"
+    },
+    {
+      "id": 5206008,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5206008/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5206008/large.jpg",
+      "attribution": "(c) Laura Gooch, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/14523702"
+    },
+    {
+      "id": 2489854,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2489854/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2489854/large.jpg",
+      "attribution": "(c) Robin Gwen Agarwal, some rights reserved (CC BY-NC), uploaded by Robin Gwen Agarwal",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14523703"
+    },
+    {
+      "id": 5206007,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5206007/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5206007/large.jpg",
+      "attribution": "(c) NatureServe, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/14523704"
+    },
+    {
+      "id": 4610292,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4610292/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4610292/large.jpg",
+      "attribution": "(c) Dominic Sherony, some rights reserved (CC BY-SA)",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/14523705"
+    },
+    {
+      "id": 5206002,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5206002/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5206002/large.jpg",
+      "attribution": "(c) Mdf, some rights reserved (CC BY-SA)",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/14523706"
+    },
+    {
+      "id": 5206005,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5206005/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5206005/large.jpg",
+      "attribution": "(c) Ashley Tubbs, some rights reserved (CC BY-ND)",
+      "licenseCode": "cc-by-nd",
+      "observationUrl": "https://www.inaturalist.org/observations/14523707"
+    },
+    {
+      "id": 408727804,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408727804/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408727804/large.jpeg",
+      "attribution": "(c) Matt Felperin, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/230207029"
+    },
+    {
+      "id": 408727825,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408727825/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408727825/large.jpeg",
+      "attribution": "(c) Matt Felperin, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/230207029"
+    },
+    {
+      "id": 408727843,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408727843/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408727843/large.jpeg",
+      "attribution": "(c) Matt Felperin, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/230207029"
+    },
+    {
+      "id": 408727859,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408727859/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408727859/large.jpeg",
+      "attribution": "(c) Matt Felperin, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/230207029"
+    },
+    {
+      "id": 7784798,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7784798/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7784798/large.jpg",
+      "attribution": "(c) Marv Elliott, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/6200841"
+    },
+    {
+      "id": 76748063,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/76748063/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/76748063/large.jpg",
+      "attribution": "(c) Erika Mitchell, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/48375695"
+    },
+    {
+      "id": 76748082,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/76748082/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/76748082/large.jpg",
+      "attribution": "(c) Erika Mitchell, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/48375695"
+    },
+    {
+      "id": 76748093,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/76748093/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/76748093/large.jpg",
+      "attribution": "(c) Erika Mitchell, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/48375695"
+    }
+  ],
+  "nameStory": "This brilliant little warbler is named after Anna Blackburne, an 18th-century English botanist who was passionate about collecting and studying North American plants and animals from her home across the Atlantic. She never actually visited North America herself, but her extensive correspondence with naturalists and her impressive collection of American specimens earned her this feathered tribute.",
+  "description": "The Blackburnian Warbler is a small, energetic songbird that's like a living flame in the treetops. Males are unmistakable with their blazing orange throats and faces that seem to glow against their black and white striped bodies. About the size of a chickadee, these warblers are migrants that grace New England's forests during breeding season before making an incredible journey to Central and South America for winter.",
+  "idTips": [
+    {
+      "label": "Fiery Orange Throat",
+      "description": "Males sport an absolutely stunning bright orange throat and face that looks like it's on fire - no other warbler in New England has this intense orange coloration",
+      "isPrimary": true
+    },
+    {
+      "label": "Bold Black Stripes",
+      "description": "Crisp black stripes run through the eye and down the sides, creating a striking contrast against the white belly and orange face",
+      "isPrimary": false
+    },
+    {
+      "label": "White Wing Patches",
+      "description": "Large white patches on the dark wings flash conspicuously as the bird flits through branches, visible even from below",
+      "isPrimary": false
+    },
+    {
+      "label": "High Thin Song",
+      "description": "Listen for an extremely high, thin, wiry song that rises in pitch - so high it sounds almost like a mosquito whine at the end",
+      "isPrimary": false
+    },
+    {
+      "label": "Treetop Behavior",
+      "description": "Almost always seen high in the forest canopy, often 50+ feet up, actively gleaning insects from branch tips with quick, fluttering movements",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for Blackburnian Warblers in mature coniferous and mixed forests, especially those dominated by spruce, fir, and hemlock trees. They prefer the upper canopy of these tall forests, particularly in mountainous areas and cooler elevations throughout New England. You'll have the best luck spotting them in places like the White Mountains of New Hampshire or similar mature forest habitats.",
+  "seasonality": {
+    "spring": "Arrives in May during peak migration, when males are singing actively and showing off their brightest breeding plumage. This is your best chance to spot them as they're most vocal and visible while establishing territories.",
+    "summer": "Breeding season finds them high in the canopy, often difficult to see but still singing their thin, high songs. Males remain colorful but may be less conspicuous as they focus on feeding young.",
+    "fall": "Present during August and September migration, but males have molted into duller plumage with less vibrant orange. Much quieter and harder to detect than in spring.",
+    "winter": "Completely absent from New England - these long-distance migrants spend winter in the mountains of Central and South America."
+  },
+  "funFact": "Blackburnian Warblers have one of the highest-pitched songs of any North American bird - so high that many older birdwatchers literally cannot hear them due to age-related hearing loss, making this a warbler that younger ears have an advantage in detecting!",
+  "confusionNotes": "The male's brilliant orange throat is unique among New England warblers, making confusion unlikely when seen well. Females and fall birds are much duller and could be confused with other warbler species, but look for the distinctive white wing patches and preference for high coniferous trees. Remember: if it's orange and on fire, it's a Blackburnian!",
+  "contextualKnowledge": "Anna Blackburne was quite remarkable for her time - an 18th-century woman who built one of England's finest natural history collections focused on American species, corresponding with famous naturalists and even sending specimens to Carl Linnaeus. She represents the early international network of naturalists who helped catalog North America's biodiversity.",
+  "compareHints": "Among its Setophaga relatives, the Blackburnian's orange throat is completely unique - no other warbler in this genus has anything close to that fiery coloration. The Bay-breasted Warbler has some rusty tones but lacks the brilliant orange, while the Chestnut-sided has chestnut flanks but a white throat. The American Redstart male has orange patches but on the wings and tail, not the face and throat like the Blackburnian.",
+  "relatedSpecies": [
+    {
+      "slug": "setophaga-coronata",
+      "commonName": "Yellow-rumped Warbler",
+      "scientificName": "Setophaga coronata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128439522/medium.jpg",
+      "distinction": "Unlike the bright, all-yellow American Goldfinch, Yellow-rumped Warblers have more complex patterns and are smaller with thinner bills."
+    },
+    {
+      "slug": "setophaga-aestiva",
+      "commonName": "Northern Yellow Warbler",
+      "scientificName": "Setophaga aestiva",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/191200854/medium.jpg",
+      "distinction": "Among its Setophaga relatives, Yellow Warbler is the most uniformly yellow – Pine Warblers have white wing bars and are less bright, while Yellow-rumped Warblers only have yellow patches rather than being yellow all over."
+    },
+    {
+      "slug": "setophaga-ruticilla",
+      "commonName": "American Redstart",
+      "scientificName": "Setophaga ruticilla",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31539046/medium.jpg",
+      "distinction": "Among the Setophaga warblers, American redstarts are unique for their hyperactive tail-fanning behavior and contrasting black-and-orange (or gray-and-yellow) pattern."
+    },
+    {
+      "slug": "setophaga-palmarum",
+      "commonName": "Palm Warbler",
+      "scientificName": "Setophaga palmarum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/496238324/medium.jpeg",
+      "distinction": "Among the Setophaga warblers, Palm Warbler is unique for its ground-foraging behavior and constant tail-pumping."
+    },
+    {
+      "slug": "setophaga-virens",
+      "commonName": "Black-throated Green Warbler",
+      "scientificName": "Setophaga virens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/506673183/medium.jpg",
+      "distinction": "Among its Setophaga cousins, the Black-throated Green is distinguished by its combination of yellow face and black throat - the Black-throated Blue lacks yellow entirely, while the Blackburnian Warbler has fiery orange instead of yellow."
+    },
+    {
+      "slug": "setophaga-pinus",
+      "commonName": "Pine Warbler",
+      "scientificName": "Setophaga pinus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235937/medium.jpg",
+      "distinction": "Among its Setophaga warbler relatives, the Pine Warbler is notably less hyperactive than species like the American Redstart or Magnolia Warbler, and lacks the bold patterns of Black-throated Green or Chestnut-sided Warblers."
+    },
+    {
+      "slug": "setophaga-pensylvanica",
+      "commonName": "Chestnut-sided Warbler",
+      "scientificName": "Setophaga pensylvanica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/131621127/medium.jpg",
+      "distinction": "Among New England's Setophaga warblers, the Chestnut-sided is unique in combining white underparts with chestnut side markings - Bay-breasted Warblers have chestnut but also on the head and throat, while other common species like Yellow and Black-throated Green Warblers lack chestnut entirely."
+    },
+    {
+      "slug": "setophaga-americana",
+      "commonName": "Northern Parula",
+      "scientificName": "Setophaga americana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135474901/medium.jpg",
+      "distinction": "Among the Setophaga warblers, Northern Parulas are unique for their blue-gray backs combined with yellow underparts - most other yellow warblers in this genus have olive or green backs instead."
+    },
+    {
+      "slug": "setophaga-caerulescens",
+      "commonName": "Black-throated Blue Warbler",
+      "scientificName": "Setophaga caerulescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101579504/medium.jpg",
+      "distinction": "Among its Setophaga warbler relatives, the male Black-throated Blue is unique for its solid blue upperparts and white belly combination - Black-throated Green Warblers have yellow faces and olive backs, while Northern Parulas have yellow throats and white wing bars."
+    },
+    {
+      "slug": "setophaga-magnolia",
+      "commonName": "Magnolia Warbler",
+      "scientificName": "Setophaga magnolia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/323550530/medium.jpg",
+      "distinction": "Among the Setophaga warblers, Magnolia Warblers are unique with their combination of white wing patches (not just bars), yellow underparts with black streaking, and distinctive tail pattern."
+    },
+    {
+      "slug": "setophaga-striata",
+      "commonName": "Blackpoll Warbler",
+      "scientificName": "Setophaga striata",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/40556924/medium.jpg",
+      "distinction": "Among New England's Setophaga warblers, breeding male Blackpolls are unique with their solid black caps and white cheeks - no other warbler in the region has this exact pattern."
+    },
+    {
+      "slug": "setophaga-discolor",
+      "commonName": "Prairie Warbler",
+      "scientificName": "Setophaga discolor",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110791626/medium.jpg",
+      "distinction": "Among the yellow Setophaga warblers in New England, Prairie Warbler stands out with its bold black side streaks - Yellow Warblers lack these stripes entirely, while Pine Warblers have much fainter, less distinct markings."
+    },
+    {
+      "slug": "setophaga-tigrina",
+      "commonName": "Cape May Warbler",
+      "scientificName": "Setophaga tigrina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128439622/medium.jpg",
+      "distinction": "Among the many Setophaga warblers, Cape May Warblers stand out with their unique curved bill and specialized nectar-feeding behavior that most of their relatives don't share."
+    },
+    {
+      "slug": "setophaga-castanea",
+      "commonName": "Bay-breasted Warbler",
+      "scientificName": "Setophaga castanea",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/84348/medium.jpg",
+      "distinction": "Among its Setophaga relatives, the Bay-breasted Warbler is unique in having that rich chestnut breast coloring in breeding plumage."
+    },
+    {
+      "slug": "setophaga-citrina",
+      "commonName": "Hooded Warbler",
+      "scientificName": "Setophaga citrina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/309846331/medium.jpg",
+      "distinction": "Among its Setophaga relatives, the Hooded Warbler is unique for its combination of a black hood (males) and white outer tail feathers that both sexes constantly flash."
+    },
+    {
+      "slug": "setophaga-cerulea",
+      "commonName": "Cerulean Warbler",
+      "scientificName": "Setophaga cerulea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/196225341/medium.jpeg",
+      "distinction": "Among its Setophaga warbler relatives, the Cerulean is unique for its pure blue and white coloring with the black chest band - most other warblers in this group are yellow-based (like Yellow Warbler) or have different patterns entirely (like the Black-throated Blue's dark throat and flanks)."
+    },
+    {
+      "slug": "setophaga-dominica",
+      "commonName": "Yellow-throated Warbler",
+      "scientificName": "Setophaga dominica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101410202/medium.jpg",
+      "distinction": "Unlike its common cousin the Pine Warbler, which has a more olive-yellow throat and lacks bold face stripes, the Yellow-throated Warbler is much more dramatically marked with its bright golden throat and black mask."
+    },
+    {
+      "slug": "setophaga-townsendi",
+      "commonName": "Townsend's Warbler",
+      "scientificName": "Setophaga townsendi",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/287427783/medium.jpg",
+      "distinction": "Among its Setophaga relatives in New England, Townsend's Warbler is most similar to Black-throated Green Warbler but shows more extensive yellow coloring and bolder black face markings."
+    },
+    {
+      "slug": "setophaga-nigrescens",
+      "commonName": "Black-throated Gray Warbler",
+      "scientificName": "Setophaga nigrescens",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/194575344/medium.jpg",
+      "distinction": "Unlike the Black-throated Green Warbler which has yellow on the face and olive upperparts, the Gray Warbler maintains its monochrome palette."
+    },
+    {
+      "slug": "setophaga-occidentalis",
+      "commonName": "Hermit Warbler",
+      "scientificName": "Setophaga occidentalis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70054/medium.jpg",
+      "distinction": "Among its Setophaga relatives in New England, Hermit Warbler is most similar to Black-throated Green Warbler but lacks the green tones entirely, showing gray instead."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Blackburnian_warbler",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145237"
+}

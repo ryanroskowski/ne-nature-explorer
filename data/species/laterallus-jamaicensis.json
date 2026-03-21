@@ -1,0 +1,138 @@
+{
+  "slug": "laterallus-jamaicensis",
+  "taxonId": 316,
+  "group": "birds",
+  "commonName": "Black Rail",
+  "scientificName": "Laterallus jamaicensis",
+  "family": "Rallidae",
+  "familyCommonName": "Rails, Gallinules, and Coots",
+  "genus": "Laterallus",
+  "genusCommonName": "Laterallus Crakes",
+  "order": "Gruiformes",
+  "orderCommonName": "Cranes, Rails, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Birds",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Chordates",
+      "rank": "phylum",
+      "slug": "explore/chordates"
+    },
+    {
+      "label": "Birds",
+      "rank": "class",
+      "slug": "explore/birds"
+    },
+    {
+      "label": "Cranes, Rails, and Allies",
+      "rank": "order",
+      "slug": "explore/cranes-rails-and-allies"
+    },
+    {
+      "label": "Rails, Gallinules, and Coots",
+      "rank": "family",
+      "slug": "explore/rails-gallinules-and-coots"
+    },
+    {
+      "label": "Laterallus Crakes",
+      "rank": "genus",
+      "slug": "explore/laterallus-crakes"
+    },
+    {
+      "label": "Black Rail",
+      "rank": "species",
+      "slug": "species/laterallus-jamaicensis"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 30463568,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30463568/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30463568/large.jpg",
+      "attribution": "(c) Scott Bowers, some rights reserved (CC BY-NC), uploaded by Scott Bowers",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/31605"
+    },
+    {
+      "id": 310054204,
+      "mediumUrl": "https://static.inaturalist.org/photos/310054204/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/310054204/large.jpg",
+      "attribution": "(c) davidbarkin, all rights reserved",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/31603"
+    },
+    {
+      "id": 215557071,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/215557071/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/215557071/large.jpg",
+      "attribution": "(c) OlegRozhko, some rights reserved (CC BY-NC-ND), uploaded by OlegRozhko",
+      "licenseCode": "cc-by-nc-nd",
+      "observationUrl": "https://www.inaturalist.org/observations/31600"
+    },
+    {
+      "id": 171564106,
+      "mediumUrl": "https://static.inaturalist.org/photos/171564106/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/171564106/large.jpg",
+      "attribution": "(c) Will Sweet, all rights reserved, uploaded by Will Sweet",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/31601"
+    },
+    {
+      "id": 246547137,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/246547137/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/246547137/large.jpg",
+      "attribution": "(c) benjaminlucking, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/31602"
+    }
+  ],
+  "nameStory": "The Black Rail gets its name from its predominantly dark, blackish plumage that helps it blend into the shadowy world of dense marsh grasses. Like other rails, it's named for the fence-rail thinness that allows it to slip through incredibly tight spaces in wetland vegetation. The phrase \"thin as a rail\" actually comes from these secretive birds!",
+  "description": "The Black Rail is a tiny, mouse-sized bird that's the smallest rail in North America. About the size of a large sparrow, this secretive marsh bird has dark blackish-brown plumage with some white speckling on its back. It's incredibly elusive and rarely seen, preferring to scurry through dense wetland grasses like a furry rodent rather than fly. With its laterally compressed (flattened from side to side) body, it can squeeze through vegetation gaps that seem impossibly narrow.",
+  "idTips": [
+    {
+      "label": "Mouse-like size and behavior",
+      "description": "Tiny bird, roughly the size of a house mouse, that scurries through marsh grasses with quick, darting movements rather than typical bird-like hops",
+      "isPrimary": true
+    },
+    {
+      "label": "Dark plumage with white spots",
+      "description": "Overall blackish-brown coloring with distinctive white speckles scattered across the back and wings, creating a salt-and-pepper appearance",
+      "isPrimary": false
+    },
+    {
+      "label": "Extremely secretive nature",
+      "description": "Nearly impossible to see in the open; more likely to be detected by its distinctive call than visual sighting",
+      "isPrimary": false
+    },
+    {
+      "label": "Laterally flattened body",
+      "description": "Body appears thin when viewed head-on, allowing it to slip through dense vegetation with ease - you might hear rustling but never see the bird",
+      "isPrimary": false
+    },
+    {
+      "label": "Short, stubby bill",
+      "description": "Small, straight bill that's much shorter and less pointed than a typical songbird's beak",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Black Rails inhabit shallow saltwater and brackish marshes with dense, low vegetation like cordgrass and sedges. In New England, they're found in coastal salt marshes with specific water levels - not too deep, not too dry - where they can walk on soft mud while staying hidden in thick grass cover. They prefer areas where high tide doesn't completely flood the marsh floor.",
+  "seasonality": {
+    "spring": "Migration period when Black Rails return to breeding grounds. Listen for their distinctive 'kek-kek-kerr' call, especially at dawn and dusk when they're most vocal.",
+    "summer": "Breeding season when they're most likely to vocalize, though still incredibly secretive. Young birds may be slightly more visible as they learn to navigate marsh vegetation.",
+    "fall": "Migration period when birds may appear in new locations briefly. Calling decreases significantly, making detection even more challenging.",
+    "winter": "Most Black Rails migrate south, though some may overwinter in southern New England salt marshes. Virtually silent and nearly impossible to detect."
+  },
+  "funFact": "Black Rails are so secretive that ornithologists sometimes use trained dogs to help locate them - the dogs can smell the birds even when they're completely hidden in dense marsh grass, something that would be impossible for human researchers to do on their own!",
+  "confusionNotes": "Black Rails are most easily confused with mice or voles when glimpsed scurrying through marsh grass. The key difference is movement pattern - rails move in quick, straight dashes while rodents tend to move in more erratic, stop-and-go patterns. Remember: \"Rails run in straight trails.\"",
+  "contextualKnowledge": "With only one recorded observation in New England, seeing a Black Rail would be extraordinarily rare and noteworthy. They're considered one of the most secretive birds in North America, and many experienced birders have never seen one despite decades of marsh exploration. Any potential sighting should be carefully documented and reported to local birding authorities.",
+  "compareHints": "Black Rails are much smaller than other New England rail species like Virginia Rails or King Rails, being mouse-sized rather than robin-sized. Unlike their larger cousins, Black Rails have predominantly dark plumage rather than the rusty-brown colors typical of other rails. They're also more terrestrial, rarely venturing into open water where other rails might occasionally be spotted.",
+  "relatedSpecies": [],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_rail",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/316"
+}

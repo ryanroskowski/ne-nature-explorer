@@ -1,0 +1,135 @@
+{
+  "slug": "walckenaeria-pallida",
+  "taxonId": 233630,
+  "group": "arachnids",
+  "commonName": "Walckenaeria pallida",
+  "scientificName": "Walckenaeria pallida",
+  "family": "Linyphiidae",
+  "familyCommonName": "Sheetweb and Dwarf Weavers",
+  "genus": "Walckenaeria",
+  "genusCommonName": "Walckenaeria",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Sheetweb and Dwarf Weavers",
+      "rank": "family",
+      "slug": "explore/sheetweb-and-dwarf-weavers"
+    },
+    {
+      "label": "Walckenaeria",
+      "rank": "genus",
+      "slug": "explore/walckenaeria"
+    },
+    {
+      "label": "Walckenaeria pallida",
+      "rank": "species",
+      "slug": "species/walckenaeria-pallida"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 183549212,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183549212/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183549212/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC), uploaded by Tom Murray",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/23363000"
+    }
+  ],
+  "nameStory": "This tiny spider carries the name of French arachnologist Charles Athanase Walckenaer, who pioneered spider classification in the early 1800s. The species name 'pallida' means 'pale' in Latin, reflecting this spider's light, almost ghostly coloration that helps it blend seamlessly into its miniature world.",
+  "description": "The Pale Walckenaeria is one of New England's tiniest spiders, belonging to the dwarf weaver family that creates delicate sheet webs. These minuscule arachnids are so small they could easily sit on a pinky nail with room to spare. Their pale, yellowish-brown bodies make them nearly invisible as they scurry across their gossamer webs. Despite their diminutive size, they're accomplished hunters in the leaf litter and low vegetation where they make their homes.",
+  "idTips": [
+    {
+      "label": "Size",
+      "description": "Extremely tiny - adult body length rarely exceeds 2-3mm, about the size of a small ant or grain of rice",
+      "isPrimary": true
+    },
+    {
+      "label": "Body Shape",
+      "description": "Compact, rounded abdomen with a slightly darker cephalothorax (front section) that feels firm when gently touched",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Pale yellowish-brown to cream coloration overall, with subtle darker markings that may appear as faint shadows on the abdomen",
+      "isPrimary": false
+    },
+    {
+      "label": "Web",
+      "description": "Creates small, horizontal sheet webs close to the ground that feel sticky and delicate, often spanning just a few centimeters",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Moves quickly when disturbed, often dropping from web on a silk line and running with surprisingly rapid, jerky movements",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in moist leaf litter, low shrubs, and grassy areas throughout New England's forests and woodland edges. They prefer spots with good humidity and organic debris, often setting up their tiny webs just inches above the forest floor among decomposing leaves and moss.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, beginning to construct new webs in the emerging vegetation. Look for tiny sheet webs appearing in leaf litter.",
+    "summer": "Peak activity period when adults are most easily found on their webs. Mating occurs and females begin laying eggs in small silk sacs.",
+    "fall": "Activity continues into early fall, with spiderlings dispersing. Adults may still be found on webs during warm days.",
+    "winter": "Likely overwinters in protected locations under bark or deep in leaf litter, becoming inactive until spring warmth returns."
+  },
+  "funFact": "These spiders are so lightweight that they can actually walk on the surface tension of water droplets, essentially using morning dew as stepping stones between their hunting grounds!",
+  "confusionNotes": "Easily confused with other tiny Walckenaeria species - look for the particularly pale coloration and extremely small size. Remember: 'Pallida = Pale' to distinguish it from darker relatives like Walckenaeria castanea (chestnut-colored).",
+  "contextualKnowledge": "The extreme rarity of observations in New England (only one recorded) doesn't necessarily mean this spider is uncommon - it's more likely that its microscopic size makes it nearly impossible to spot without magnification, so it's vastly under-recorded by citizen scientists.",
+  "compareHints": "Distinguished from its Walckenaeria relatives by its particularly pale coloration - Walckenaeria castanea is much darker and more chestnut-brown, while Walckenaeria communis tends to have more distinct markings. The Spiraling Sheet-web Weaver creates more complex web patterns, while pallida keeps things simple with basic horizontal sheets.",
+  "relatedSpecies": [
+    {
+      "slug": "walckenaeria-castanea",
+      "commonName": "Walckenaeria castanea",
+      "scientificName": "Walckenaeria castanea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183547842/medium.jpeg",
+      "distinction": "Walckenaeria castanea can be distinguished from its relatives by its distinctly chestnut-brown coloration - W."
+    },
+    {
+      "slug": "walckenaeria-communis",
+      "commonName": "Walckenaeria communis",
+      "scientificName": "Walckenaeria communis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183548432/medium.jpeg",
+      "distinction": "Distinguishing this species from its Walckenaeria relatives like the Spiraling Sheet-web Weaver requires expert examination of reproductive structures under a microscope."
+    },
+    {
+      "slug": "walckenaeria-directa",
+      "commonName": "Walckenaeria directa",
+      "scientificName": "Walckenaeria directa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183548734/medium.jpeg",
+      "distinction": "Distinguishing W."
+    },
+    {
+      "slug": "walckenaeria-spiralis",
+      "commonName": "Spiraling Sheet-web Weaver",
+      "scientificName": "Walckenaeria spiralis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/21639704/medium.jpg",
+      "distinction": "The Spiraling Sheet-web Weaver differs from its Walckenaeria relatives primarily in its web architecture - while W."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Walckenaeria_pallida",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/233630"
+}

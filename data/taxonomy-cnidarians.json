@@ -1,0 +1,2737 @@
+{
+  "id": 47534,
+  "name": "Cnidaria",
+  "commonName": "Cnidarians",
+  "rank": "phylum",
+  "speciesCount": 63,
+  "children": [
+    {
+      "id": 48921,
+      "name": "Hydrozoa",
+      "commonName": "Hydrozoans",
+      "rank": "class",
+      "speciesCount": 33,
+      "children": [
+        {
+          "id": 48922,
+          "name": "Anthoathecata",
+          "commonName": "Athecate Hydroids",
+          "rank": "order",
+          "speciesCount": 16,
+          "children": [
+            {
+              "id": 48920,
+              "name": "Tubulariidae",
+              "commonName": "Tubulariidae",
+              "rank": "family",
+              "speciesCount": 4,
+              "children": [
+                {
+                  "id": 54578,
+                  "name": "Ectopleura",
+                  "commonName": "Ectopleura",
+                  "rank": "genus",
+                  "speciesCount": 2,
+                  "children": [
+                    {
+                      "id": 324497,
+                      "name": "Ectopleura crocea",
+                      "commonName": "tubular hydroid",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 324497,
+                          "name": "Ectopleura crocea",
+                          "commonName": "tubular hydroid",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "tubular-hydroid",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/1397483/medium.JPG"
+                        }
+                      ],
+                      "slug": "tubular-hydroid",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/1397483/medium.JPG"
+                    },
+                    {
+                      "id": 363867,
+                      "name": "Ectopleura larynx",
+                      "commonName": "Organ Pipe Hydroid",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 363867,
+                          "name": "Ectopleura larynx",
+                          "commonName": "Organ Pipe Hydroid",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "organ-pipe-hydroid",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/957295/medium.jpg"
+                        }
+                      ],
+                      "slug": "organ-pipe-hydroid",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/957295/medium.jpg"
+                    }
+                  ],
+                  "slug": "ectopleura",
+                  "description": "Ectopleura is a genus of small marine hydroids that form delicate, branching colonies resembling tiny underwater gardens. These colonial animals are made up of numerous individual polyps that work together, with some specialized for feeding and others for reproduction.",
+                  "distinguishingFeatures": "Ectopleura species are characterized by their tubular or pipe-like growth form and the presence of protective cups (hydrotheca) around their feeding polyps. They typically grow in organized, branching patterns that give them their distinctive architectural appearance.",
+                  "funFact": "The Organ Pipe Hydroid gets its name because its parallel tubular branches closely resemble the pipes of a church organ, creating beautiful geometric patterns on underwater surfaces."
+                },
+                {
+                  "id": 63656,
+                  "name": "Hybocodon",
+                  "commonName": "Hybocodon",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 63661,
+                      "name": "Hybocodon prolifer",
+                      "commonName": "Hybocodon prolifer",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 63661,
+                          "name": "Hybocodon prolifer",
+                          "commonName": "Hybocodon prolifer",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "hybocodon-prolifer",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/111340050/medium.jpg"
+                        }
+                      ],
+                      "slug": "hybocodon-prolifer",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/111340050/medium.jpg"
+                    }
+                  ],
+                  "slug": "hybocodon",
+                  "description": "Hybocodon is a genus of small, delicate hydrozoans that belong to the group of animals commonly known as hydroids. These tiny marine creatures have a simple body plan with a bell-shaped form and trailing tentacles, living as part of the vast community of planktonic organisms drifting in ocean waters.",
+                  "distinguishingFeatures": "Hybocodon can be distinguished from other hydrozoans by its distinctive bell shape and the specific arrangement of its tentacles and reproductive structures called gonophores.",
+                  "funFact": "Despite being barely visible to the naked eye, Hybocodon prolifer can reproduce both sexually and asexually, allowing it to rapidly multiply when conditions are favorable in New England's coastal waters."
+                },
+                {
+                  "id": 461661,
+                  "name": "Tubularia",
+                  "commonName": "Tubularia",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 461660,
+                      "name": "Tubularia indivisa",
+                      "commonName": "Oaten Pipes Hydroid",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 461660,
+                          "name": "Tubularia indivisa",
+                          "commonName": "Oaten Pipes Hydroid",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "oaten-pipes-hydroid",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11493612/medium.jpeg"
+                        }
+                      ],
+                      "slug": "oaten-pipes-hydroid",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11493612/medium.jpeg"
+                    }
+                  ],
+                  "slug": "tubularia",
+                  "description": "Tubularia is a genus of colonial marine hydroids that create branching, tree-like structures underwater. These cnidarians are filter feeders that extend feathery tentacles from tube-shaped polyps to capture tiny plankton and organic particles from the water.",
+                  "distinguishingFeatures": "Tubularia hydroids are distinguished by their large, prominent feeding polyps (hydranths) that sit at the ends of unbranched or sparsely branched tubular stems, giving them a distinctive pipe-like appearance.",
+                  "funFact": "Despite looking like plants, Tubularia hydroids are actually animals closely related to jellyfish and can regenerate their feeding structures if damaged by predators or storms."
+                }
+              ],
+              "slug": "tubulariidae",
+              "description": "Tubulariidae is a family of colonial marine hydrozoans that create branching, tree-like structures on rocks, docks, and other underwater surfaces. These animals have two distinct life stages: a stationary polyp stage that forms the visible colonies, and a free-swimming medusa stage that reproduces sexually. The polyps have tentacles surrounding their mouths and feed on small plankton and organic particles in the water.",
+              "distinguishingFeatures": "Members of this family are characterized by their unbranched or simply branched stems topped with large polyps that have tentacles arranged in distinct whorls around the mouth. Unlike some related hydrozoans, their reproductive structures (gonophores) are typically retained on the polyp rather than being released as free medusae.",
+              "funFact": "Some Tubulariidae species can rapidly regenerate their feeding polyps if damaged by predators or storms, completely rebuilding their tentacle crown within just a few days."
+            },
+            {
+              "id": 203797,
+              "name": "Hydractiniidae",
+              "commonName": "Hydractiniidae",
+              "rank": "family",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 203798,
+                  "name": "Hydractinia",
+                  "commonName": "Hydractinia",
+                  "rank": "genus",
+                  "speciesCount": 2,
+                  "children": [
+                    {
+                      "id": 203796,
+                      "name": "Hydractinia echinata",
+                      "commonName": "Snail Fur",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 203796,
+                          "name": "Hydractinia echinata",
+                          "commonName": "Snail Fur",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "snail-fur",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/338592539/medium.jpeg"
+                        }
+                      ],
+                      "slug": "snail-fur",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/338592539/medium.jpeg"
+                    },
+                    {
+                      "id": 905865,
+                      "name": "Hydractinia symbiolongicarpus",
+                      "commonName": "Hydractinia symbiolongicarpus",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 905865,
+                          "name": "Hydractinia symbiolongicarpus",
+                          "commonName": "Hydractinia symbiolongicarpus",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "hydractinia-symbiolongicarpus",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43994846/medium.jpg"
+                        }
+                      ],
+                      "slug": "hydractinia-symbiolongicarpus",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43994846/medium.jpg"
+                    }
+                  ],
+                  "slug": "hydractinia",
+                  "description": "Hydractinia is a genus of colonial marine animals that form fuzzy, carpet-like growths on hard surfaces like shells and rocks. These tiny creatures are cnidarians, related to jellyfish and sea anemones, and they live together in interconnected colonies where different individuals have specialized jobs like feeding, defense, or reproduction.",
+                  "distinguishingFeatures": "Unlike other hydroids, Hydractinia colonies form distinctive mat-like crusts with a fuzzy appearance, and they have specialized defensive polyps armed with stinging cells that protect the colony.",
+                  "funFact": "Snail Fur gets its name because it commonly grows on hermit crab shells, creating a beneficial partnership where the hydroid gets transportation to new feeding areas while helping camouflage and protect the crab."
+                },
+                {
+                  "id": 1023018,
+                  "name": "Clava",
+                  "commonName": "Clava",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 1023017,
+                      "name": "Clava multicornis",
+                      "commonName": "Clava multicornis",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 1023017,
+                          "name": "Clava multicornis",
+                          "commonName": "Clava multicornis",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "clava-multicornis",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154919794/medium.jpeg"
+                        }
+                      ],
+                      "slug": "clava-multicornis",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154919794/medium.jpeg"
+                    }
+                  ],
+                  "slug": "clava",
+                  "description": "Clava is a genus of small marine hydrozoans that form delicate, branching colonies resembling tiny underwater trees. These colonial animals are made up of numerous individual polyps that work together, with some specialized for feeding and others for reproduction.",
+                  "distinguishingFeatures": "Clava colonies are distinguished by their club-shaped reproductive structures called gonophores that develop directly on the colony rather than being released as free-swimming medusae like many other hydrozoans.",
+                  "funFact": "Despite looking like plants, Clava colonies are actually communities of carnivorous animals that use stinging cells to capture tiny prey from the water."
+                }
+              ],
+              "slug": "hydractiniidae",
+              "description": "Hydractiniidae is a family of colonial marine hydroids that form encrusting mats or colonies on hard surfaces like shells, rocks, and docks. These small animals are cnidarians, related to jellyfish and sea anemones, and consist of interconnected polyps that work together as a colony. Each polyp has tentacles armed with stinging cells to capture tiny prey from the water.",
+              "distinguishingFeatures": "Unlike many other hydroids, members of this family form distinctive colony types - some create pink or orange encrusting mats while others grow as branching, tree-like structures. They often have specialized defensive polyps mixed among their feeding polyps.",
+              "funFact": "Some Hydractinia colonies are so aggressive that they will attack and overgrow neighboring colonies of their own species, creating distinct territorial boundaries on the surfaces where they live."
+            },
+            {
+              "id": 59692,
+              "name": "Porpitidae",
+              "commonName": "Porpitidae",
+              "rank": "family",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 59679,
+                  "name": "Porpita",
+                  "commonName": "Porpita",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 59683,
+                      "name": "Porpita porpita",
+                      "commonName": "Blue Button",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 59683,
+                          "name": "Porpita porpita",
+                          "commonName": "Blue Button",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "blue-button",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/145122392/medium.jpeg"
+                        }
+                      ],
+                      "slug": "blue-button",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/145122392/medium.jpeg"
+                    }
+                  ],
+                  "slug": "porpita",
+                  "description": "Porpita is a genus containing small, floating marine animals that drift on the ocean's surface. These colonial organisms look like tiny blue discs with radiating tentacles, resembling miniature jellyfish but are actually more closely related to corals and sea anemones.",
+                  "distinguishingFeatures": "Unlike true jellyfish, Porpita species have a hard, chitinous disc that acts as a float, and they are made up of many small polyps working together as a colony rather than being a single organism.",
+                  "funFact": "Despite being called 'Blue Buttons,' these animals are not actually blue throughout - only their gas-filled float appears blue, while their tentacles are typically yellow or brown."
+                },
+                {
+                  "id": 59699,
+                  "name": "Velella",
+                  "commonName": "Velella",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 59698,
+                      "name": "Velella velella",
+                      "commonName": "By-the-wind Sailor",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 59698,
+                          "name": "Velella velella",
+                          "commonName": "By-the-wind Sailor",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "by-the-wind-sailor",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/18931259/medium.jpg"
+                        }
+                      ],
+                      "slug": "by-the-wind-sailor",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/18931259/medium.jpg"
+                    }
+                  ],
+                  "slug": "velella",
+                  "description": "Velella is a genus of small, colonial marine animals that float on the ocean surface like living sailboats. These fascinating creatures have a transparent, oval-shaped float topped with a distinctive triangular sail that catches the wind to propel them across the water.",
+                  "distinguishingFeatures": "Unlike other floating cnidarians, Velella species have a rigid, chitinous sail that stands upright above their float, giving them their distinctive sailboat appearance.",
+                  "funFact": "By-the-wind Sailors can only sail at a 45-degree angle to the wind, and populations in the Northern and Southern hemispheres have sails that are mirror images of each other, causing them to sail in opposite directions."
+                }
+              ],
+              "slug": "porpitidae",
+              "description": "Porpitidae are small, floating marine animals that drift on the ocean's surface like living sailboats. These colonial creatures have gas-filled floats that keep them buoyant and catch the wind, allowing them to travel across the open ocean without swimming.",
+              "distinguishingFeatures": "Unlike jellyfish, porpitids have rigid, disk-shaped floats made of chitin and gas chambers, and they cannot swim on their own. They rely entirely on wind and currents for movement across the water's surface.",
+              "funFact": "Velella velella is nicknamed the 'by-the-wind sailor' because its transparent sail catches ocean breezes, and thousands can sometimes wash up on beaches together after storms blow them toward shore."
+            },
+            {
+              "id": 63663,
+              "name": "Bougainvilliidae",
+              "commonName": "Bougainvilliidae",
+              "rank": "family",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 572541,
+                  "name": "Nemopsis",
+                  "commonName": "Nemopsis",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 571475,
+                      "name": "Nemopsis bachei",
+                      "commonName": "Nemopsis bachei",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 571475,
+                          "name": "Nemopsis bachei",
+                          "commonName": "Nemopsis bachei",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "nemopsis-bachei",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/588558410/medium.jpg"
+                        }
+                      ],
+                      "slug": "nemopsis-bachei",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/588558410/medium.jpg"
+                    }
+                  ],
+                  "slug": "nemopsis",
+                  "description": "Nemopsis is a genus of small, delicate hydromedusae (jellyfish) that are part of the cnidarian family. These tiny marine creatures have a bell-shaped body and are typically found in coastal waters, where they drift with the currents as part of the plankton community.",
+                  "distinguishingFeatures": "Nemopsis jellyfish are characterized by their small size (usually less than an inch across) and their distinctive four radial canals that extend from the central stomach to the bell margin. They have numerous short tentacles around the bell edge and lack the prominent oral arms seen in many other jellyfish.",
+                  "funFact": "Despite their tiny size, Nemopsis bachei can be quite abundant in New England waters during summer months, sometimes forming dense swarms that create shimmering clouds in the water column."
+                },
+                {
+                  "id": 247135,
+                  "name": "Bougainvillia",
+                  "commonName": "Bougainvillia",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 370388,
+                      "name": "Bougainvillia carolinensis",
+                      "commonName": "Bougainvillia carolinensis",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 370388,
+                          "name": "Bougainvillia carolinensis",
+                          "commonName": "Bougainvillia carolinensis",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "bougainvillia-carolinensis",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2968271/medium.jpeg"
+                        }
+                      ],
+                      "slug": "bougainvillia-carolinensis",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2968271/medium.jpeg"
+                    }
+                  ],
+                  "slug": "bougainvillia",
+                  "description": "Bougainvillia is a genus of small, delicate hydrozoans that belong to the cnidarian family, related to jellyfish and sea anemones. These tiny marine creatures have a fascinating two-stage life cycle, existing both as small polyps attached to surfaces and as free-swimming medusae that look like miniature jellyfish. They are filter feeders that capture small plankton and organic particles from the water using their stinging tentacles.",
+                  "distinguishingFeatures": "Bougainvillia can be distinguished from other hydrozoans by their distinctive branching pattern and the arrangement of their tentacles, which emerge in clusters from specific points on their bell-shaped medusa form. Their polyp stage forms characteristic branching colonies with a tree-like appearance.",
+                  "funFact": "Despite being only a few millimeters in size, Bougainvillia medusae are capable of both sexual and asexual reproduction, and some can even reverse their aging process under stress, essentially becoming younger!"
+                }
+              ],
+              "slug": "bougainvilliidae",
+              "description": "Bougainvilliidae is a family of small, delicate hydrozoans that live in marine environments along New England's coast. These creatures have a complex life cycle that alternates between a free-swimming jellyfish stage and a bottom-dwelling polyp stage. They are carnivorous animals that capture tiny prey using stinging cells called nematocysts.",
+              "distinguishingFeatures": "Members of this family are characterized by their branching tentacles that arise from the bell margin in distinct clusters. Unlike many other hydrozoans, they typically have four radial canals and a simple stomach without complex folding.",
+              "funFact": "These tiny jellyfish are excellent indicators of water quality - they're sensitive to pollution and changes in ocean chemistry, making them important sentinels for marine ecosystem health."
+            },
+            {
+              "id": 203709,
+              "name": "Hydridae",
+              "commonName": "Hydridae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 203710,
+                  "name": "Hydra",
+                  "commonName": "Hydras",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 203708,
+                      "name": "Hydra viridissima",
+                      "commonName": "Green Hydra",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 203708,
+                          "name": "Hydra viridissima",
+                          "commonName": "Green Hydra",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "green-hydra",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/40849142/medium.jpeg"
+                        }
+                      ],
+                      "slug": "green-hydra",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/40849142/medium.jpeg"
+                    }
+                  ],
+                  "slug": "hydras",
+                  "description": "Hydras are tiny freshwater animals that look like small tubes with tentacles around their mouth. They are simple cnidarians (related to jellyfish and sea anemones) that attach themselves to rocks, plants, or other surfaces in ponds, lakes, and slow-moving streams. These fascinating creatures can stretch and contract their bodies and use their stinging tentacles to capture small prey like water fleas and tiny worms.",
+                  "distinguishingFeatures": "Unlike their marine relatives, hydras live exclusively in freshwater environments and lack the complex life cycles of jellyfish. They have remarkable regenerative abilities and can reproduce both sexually and by budding off small copies of themselves.",
+                  "funFact": "If you cut a hydra into pieces, each piece can regenerate into a complete new animal - they're practically immortal and don't show signs of aging!"
+                }
+              ],
+              "slug": "hydridae",
+              "description": "Hydridae is a family of small freshwater animals that includes the familiar hydras. These tiny predators have soft, tube-like bodies with a ring of tentacles around their mouth that they use to catch prey like water fleas and other small organisms.",
+              "distinguishingFeatures": "Unlike other cnidarians, hydras lack a medusa (jellyfish-like) stage and exist only as polyps. They can move around by somersaulting or gliding along surfaces, unlike their sessile relatives.",
+              "funFact": "Hydras are practically immortal - they don't age and can regenerate their entire body from just a small piece, making them important subjects for research into aging and regeneration."
+            },
+            {
+              "id": 51652,
+              "name": "Corynidae",
+              "commonName": "Bell Jellies",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 51653,
+                  "name": "Sarsia",
+                  "commonName": "Small Planktonic Medusas",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 448319,
+                      "name": "Sarsia tubulosa",
+                      "commonName": "Sarsia tubulosa",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 448319,
+                          "name": "Sarsia tubulosa",
+                          "commonName": "Sarsia tubulosa",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "sarsia-tubulosa",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/125578817/medium.jpg"
+                        }
+                      ],
+                      "slug": "sarsia-tubulosa",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/125578817/medium.jpg"
+                    }
+                  ],
+                  "slug": "small-planktonic-medusas",
+                  "description": "Sarsia is a genus of tiny, translucent jellyfish that drift through New England's coastal waters as part of the plankton community. These delicate creatures have a simple bell-shaped body with trailing tentacles that they use to capture small prey like copepods and other tiny organisms. They represent one of the smaller medusa forms found in our marine waters.",
+                  "distinguishingFeatures": "Sarsia medusas are characterized by their relatively small size and distinctive four-sided mouth that extends down from the bell like a tube. Unlike many other small jellyfish, they have a well-developed manubrium (the central stalk) that hangs prominently beneath their bell.",
+                  "funFact": "Despite being tiny and seemingly simple, Sarsia jellyfish are actually part of a complex life cycle that alternates between this free-swimming medusa stage and a completely different polyp stage that lives attached to rocks or other surfaces on the seafloor."
+                }
+              ],
+              "slug": "bell-jellies",
+              "description": "Bell jellies are small, translucent jellyfish that drift through New England's coastal waters as part of the plankton community. These delicate marine animals have a distinctive bell or umbrella-shaped body that pulses rhythmically to help them move through the water. Like other jellyfish, they capture small prey using stinging cells on their tentacles.",
+              "distinguishingFeatures": "Bell jellies are distinguished from other jellyfish families by their relatively simple structure and small size, typically measuring just a few centimeters across. They lack the complex radial canals and elaborate tentacle arrangements found in larger jellyfish species.",
+              "funFact": "Despite their simple appearance, bell jellies have a complex life cycle that alternates between a free-swimming medusa stage and a attached polyp stage that lives on the seafloor."
+            },
+            {
+              "id": 63659,
+              "name": "Corymorphidae",
+              "commonName": "Corymorphidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 63660,
+                  "name": "Corymorpha",
+                  "commonName": "Corymorpha",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 63654,
+                      "name": "Corymorpha pendula",
+                      "commonName": "One-armed Jelly",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 63654,
+                          "name": "Corymorpha pendula",
+                          "commonName": "One-armed Jelly",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "one-armed-jelly",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154147399/medium.jpg"
+                        }
+                      ],
+                      "slug": "one-armed-jelly",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154147399/medium.jpg"
+                    }
+                  ],
+                  "slug": "corymorpha",
+                  "description": "Corymorpha is a genus of hydrozoans that includes solitary, stalked jellyfish relatives. These marine creatures have a distinctive polyp stage with a long stem anchored to the seafloor and a crown of tentacles at the top for capturing prey.",
+                  "distinguishingFeatures": "Unlike most hydrozoans that form colonies, Corymorpha species live as individual polyps with exceptionally long stalks that can reach several inches in height.",
+                  "funFact": "The One-armed Jelly gets its name because it typically has one particularly large, prominent tentacle that dangles below its bell-shaped body."
+                }
+              ],
+              "slug": "corymorphidae",
+              "description": "Corymorphidae is a family of marine hydrozoans that are colonial cnidarians living in ocean waters. These delicate creatures form tree-like or branching colonies with specialized feeding and reproductive polyps working together as a single organism.",
+              "distinguishingFeatures": "Unlike many other hydrozoans, corymorphids typically have large, prominent feeding polyps (gastrozooids) surrounded by smaller defensive polyps, giving their colonies a distinctive clustered appearance.",
+              "funFact": "Despite looking like plants swaying in the current, these animals are actually carnivorous hunters that capture small prey with stinging cells called cnidocytes."
+            },
+            {
+              "id": 201773,
+              "name": "Proboscidactylidae",
+              "commonName": "Proboscidactylidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 201775,
+                  "name": "Proboscidactyla",
+                  "commonName": "Proboscidactyla",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 201769,
+                      "name": "Proboscidactyla flavicirrata",
+                      "commonName": "Proboscidactyla flavicirrata",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 201769,
+                          "name": "Proboscidactyla flavicirrata",
+                          "commonName": "Proboscidactyla flavicirrata",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "proboscidactyla-flavicirrata",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128974002/medium.jpg"
+                        }
+                      ],
+                      "slug": "proboscidactyla-flavicirrata",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128974002/medium.jpg"
+                    }
+                  ],
+                  "slug": "proboscidactyla",
+                  "description": "Proboscidactyla is a genus of tiny hydrozoans that live as parasites on other marine creatures, particularly sea slugs and other small invertebrates. These microscopic animals are cnidarians, related to jellyfish and sea anemones, but have adapted to a parasitic lifestyle rather than free-swimming or attached colonial forms.",
+                  "distinguishingFeatures": "Unlike most hydrozoans that form colonies or swim freely, Proboscidactyla species are obligate parasites that attach directly to their hosts. They have a distinctive proboscis-like feeding structure and lack the typical bell-shaped medusa stage found in many related cnidarians.",
+                  "funFact": "Despite being parasites, Proboscidactyla don't seem to harm their hosts significantly - they're more like tiny hitchhikers that feed on plankton and organic particles in the water around their host rather than feeding directly on the host's tissues."
+                }
+              ],
+              "slug": "proboscidactylidae",
+              "description": "Proboscidactylidae is a small family of hydrozoans, which are tiny marine animals related to jellyfish and sea anemones. These creatures are colonial cnidarians that typically live attached to surfaces in shallow ocean waters, forming small polyp colonies with specialized feeding and reproductive structures.",
+              "distinguishingFeatures": "Members of this family are characterized by their distinctive proboscis-like feeding structures and their colonial growth form with branching polyps. They differ from other hydrozoans in their specific colony architecture and the arrangement of their reproductive medusae.",
+              "funFact": "Despite being related to jellyfish, these tiny colonial animals spend most of their lives as stationary polyps attached to rocks, shells, or other hard surfaces on the ocean floor."
+            },
+            {
+              "id": 814079,
+              "name": "Rathkeidae",
+              "commonName": "Rathkeidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 1023076,
+                  "name": "Rathkea",
+                  "commonName": "Rathkea",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 1023075,
+                      "name": "Rathkea octopunctata",
+                      "commonName": "Rathkea octopunctata",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 1023075,
+                          "name": "Rathkea octopunctata",
+                          "commonName": "Rathkea octopunctata",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "rathkea-octopunctata",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/511931259/medium.jpg"
+                        }
+                      ],
+                      "slug": "rathkea-octopunctata",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/511931259/medium.jpg"
+                    }
+                  ],
+                  "slug": "rathkea",
+                  "description": "Rathkea is a genus of small marine hydrozoans that belong to the cnidarian family. These tiny creatures are colonial animals that form delicate, branching structures in ocean waters, with individual polyps working together as a single organism.",
+                  "distinguishingFeatures": "Rathkea species are characterized by their distinctive eight-spotted pattern and their ability to reproduce through both sexual reproduction and budding. They have specialized feeding polyps and reproductive structures arranged along their branching colonies.",
+                  "funFact": "Despite being tiny marine animals, Rathkea octopunctata gets its name from the eight distinctive spots visible on its bell-shaped reproductive structures, making it easier to identify than many other hydrozoans."
+                }
+              ],
+              "slug": "rathkeidae",
+              "description": "Rathkeidae is a small family of marine hydrozoans, which are simple cnidarian animals related to jellyfish and corals. These tiny creatures live in ocean waters and have a two-stage life cycle that includes both a polyp stage (attached to surfaces) and a free-swimming medusa stage that looks like a miniature jellyfish.",
+              "distinguishingFeatures": "Members of this family are characterized by their distinctive bell-shaped medusae with four radial canals and simple tentacles. They can be distinguished from other hydrozoans by their specific reproductive structures and the arrangement of their tentacles around the bell margin.",
+              "funFact": "Despite being tiny and often overlooked, Rathkeidae hydrozoans are excellent indicators of ocean health and can tell scientists about changes in marine ecosystems."
+            }
+          ],
+          "slug": "athecate-hydroids",
+          "description": "Athecate hydroids are small marine animals that belong to the cnidarian family, related to jellyfish and corals. They typically form branching, plant-like colonies attached to rocks, shells, or other underwater surfaces, with individual polyps that have tentacles for capturing tiny prey. Many species have a two-stage life cycle, alternating between the attached polyp form and free-swimming jellyfish-like medusae.",
+          "distinguishingFeatures": "Unlike their close relatives the thecate hydroids, athecate hydroids lack protective cups (thecae) around their feeding polyps, leaving the soft polyp bodies exposed. Their polyps emerge directly from the colony's stem without any surrounding skeletal structure.",
+          "funFact": "Some athecate hydroids, like those in the family Hydractiniidae, form colorful orange or pink crusts on hermit crab shells and actually help protect their crab hosts from predators while benefiting from the crab's mobility and food scraps."
+        },
+        {
+          "id": 48925,
+          "name": "Leptothecata",
+          "commonName": "Thecate Hydroids",
+          "rank": "order",
+          "speciesCount": 11,
+          "children": [
+            {
+              "id": 49537,
+              "name": "Campanulariidae",
+              "commonName": "Campanulariidae",
+              "rank": "family",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 49536,
+                  "name": "Obelia",
+                  "commonName": "Wine-glass Hydroids",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 195411,
+                      "name": "Obelia geniculata",
+                      "commonName": "Knotted Thread Hydroid",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 195411,
+                          "name": "Obelia geniculata",
+                          "commonName": "Knotted Thread Hydroid",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "knotted-thread-hydroid",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43822251/medium.jpg"
+                        }
+                      ],
+                      "slug": "knotted-thread-hydroid",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43822251/medium.jpg"
+                    }
+                  ],
+                  "slug": "wine-glass-hydroids",
+                  "description": "Wine-glass Hydroids are delicate marine animals that form branching, tree-like colonies attached to rocks, seaweed, and docks. Each tiny individual polyp sits within a transparent, cup-shaped case that resembles a wine glass, giving this group its common name. These colonial cnidarians are relatives of jellyfish and sea anemones, but live attached to surfaces rather than swimming freely.",
+                  "distinguishingFeatures": "Unlike other hydroids, Obelia species have distinctively cup-shaped protective cases around their feeding polyps that flare outward like wine glasses. Their colonies also produce free-swimming medusa stages that look like tiny jellyfish.",
+                  "funFact": "Wine-glass Hydroids have a fascinating two-stage life cycle, alternating between the attached colonial form and tiny free-swimming jellyfish that disperse to start new colonies elsewhere."
+                },
+                {
+                  "id": 127162,
+                  "name": "Rhizocaulus",
+                  "commonName": "Rhizocaulus",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 127158,
+                      "name": "Rhizocaulus verticillatus",
+                      "commonName": "horsetail hydroid",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 127158,
+                          "name": "Rhizocaulus verticillatus",
+                          "commonName": "horsetail hydroid",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "horsetail-hydroid",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8514878/medium.jpg"
+                        }
+                      ],
+                      "slug": "horsetail-hydroid",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8514878/medium.jpg"
+                    }
+                  ],
+                  "slug": "rhizocaulus",
+                  "description": "Rhizocaulus is a genus of marine hydroids that are colonial animals related to jellyfish and sea anemones. These tiny creatures form branching colonies that attach to hard surfaces on the ocean floor, with individual polyps arranged in characteristic whorled patterns around the stems.",
+                  "distinguishingFeatures": "Rhizocaulus hydroids are recognized by their distinctive arrangement of polyps in regular whorls or rings around upright stems, giving them a somewhat plant-like appearance that resembles tiny underwater horsetails.",
+                  "funFact": "Despite looking like small underwater plants, Rhizocaulus colonies are actually made up of hundreds of tiny carnivorous animals that use stinging cells to capture plankton and other small prey."
+                }
+              ],
+              "slug": "campanulariidae",
+              "description": "Campanulariidae are delicate marine hydroids that form branching, plant-like colonies attached to rocks, seaweed, and other underwater surfaces. These tiny animals create bell-shaped protective cups called hydrothecae around their feeding polyps, giving them their common name of wine-glass hydroids.",
+              "distinguishingFeatures": "Unlike other hydroids, campanulariids have distinctly bell-shaped or wine-glass-shaped protective cups (hydrothecae) that completely surround their feeding polyps. Their colonies typically have a more regularly branched, fern-like appearance compared to other hydroid families.",
+              "funFact": "These seemingly simple colonial animals have a complex life cycle that alternates between their familiar branching polyp stage and a free-swimming jellyfish stage that most people never see."
+            },
+            {
+              "id": 245636,
+              "name": "Laodiceidae",
+              "commonName": "Laodiceidae",
+              "rank": "family",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 247143,
+                  "name": "Laodicea",
+                  "commonName": "Laodicea",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 293276,
+                      "name": "Laodicea undulata",
+                      "commonName": "Laodicea undulata",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 293276,
+                          "name": "Laodicea undulata",
+                          "commonName": "Laodicea undulata",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "laodicea-undulata",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11752513/medium.jpg"
+                        }
+                      ],
+                      "slug": "laodicea-undulata",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11752513/medium.jpg"
+                    }
+                  ],
+                  "slug": "laodicea",
+                  "description": "Laodicea is a genus of small, transparent jellyfish that drift through ocean waters. These delicate marine creatures have bell-shaped bodies and trailing tentacles that they use to capture tiny prey like plankton.",
+                  "distinguishingFeatures": "Laodicea jellyfish are characterized by their relatively flat, saucer-like bell shape and the distinctive way their bell margin undulates or waves as they swim.",
+                  "funFact": "Despite being nearly invisible in the water due to their transparency, Laodicea jellyfish can produce brief flashes of bioluminescent light when disturbed."
+                },
+                {
+                  "id": 247175,
+                  "name": "Staurostoma",
+                  "commonName": "Staurostoma",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 255998,
+                      "name": "Staurostoma mertensii",
+                      "commonName": "Whitecross Jelly",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 255998,
+                          "name": "Staurostoma mertensii",
+                          "commonName": "Whitecross Jelly",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "whitecross-jelly",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/59055748/medium.jpeg"
+                        }
+                      ],
+                      "slug": "whitecross-jelly",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/59055748/medium.jpeg"
+                    }
+                  ],
+                  "slug": "staurostoma",
+                  "description": "Staurostoma is a genus of small, delicate hydromedusae (jellyfish) that are part of the hydrozoan group. These tiny jellyfish have a distinctive bell shape and are typically found in marine waters, where they drift with the currents and feed on small planktonic organisms.",
+                  "distinguishingFeatures": "Members of Staurostoma are characterized by their four-sided symmetry and the presence of a distinctive cross-shaped pattern on their bell, which gives them their common name reference to a 'cross.'",
+                  "funFact": "The Whitecross Jelly gets its name from the white, cross-like pattern visible on its transparent bell, making it one of the more recognizable small jellyfish in New England waters despite its tiny size."
+                }
+              ],
+              "slug": "laodiceidae",
+              "description": "Laodiceidae is a family of delicate, transparent jellyfish found in marine waters. These small hydrozoans have bell-shaped bodies and are part of the plankton community, drifting with ocean currents while feeding on tiny organisms.",
+              "distinguishingFeatures": "Members of this family are characterized by their relatively small size and distinctive bell shape with specific arrangements of tentacles and sensory organs that help distinguish them from other jellyfish families.",
+              "funFact": "Despite their delicate appearance, these jellyfish are efficient predators that use stinging cells called cnidocytes to capture prey much larger than themselves."
+            },
+            {
+              "id": 171652,
+              "name": "Aequoreidae",
+              "commonName": "Many-ribbed Jellies",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 171646,
+                  "name": "Rhacostoma",
+                  "commonName": "Rhacostoma",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 229854,
+                      "name": "Rhacostoma atlanticum",
+                      "commonName": "Lined Water Jelly",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 229854,
+                          "name": "Rhacostoma atlanticum",
+                          "commonName": "Lined Water Jelly",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "lined-water-jelly",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/430095/medium.jpg"
+                        }
+                      ],
+                      "slug": "lined-water-jelly",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/430095/medium.jpg"
+                    }
+                  ],
+                  "slug": "rhacostoma",
+                  "description": "Rhacostoma is a genus of small, delicate jellyfish that live in marine waters. These transparent, bell-shaped creatures are part of the hydrozoan group and are known for their simple body structure and graceful swimming movements.",
+                  "distinguishingFeatures": "Members of this genus are characterized by their distinctive lined or striped patterns on their bell and their relatively small size compared to other jellyfish.",
+                  "funFact": "The Lined Water Jelly gets its name from the characteristic radial lines that run from the center of its bell to the edges, creating a beautiful striped pattern that's visible through its transparent body."
+                }
+              ],
+              "slug": "many-ribbed-jellies",
+              "description": "Many-ribbed jellies are transparent, bell-shaped jellyfish that get their name from the numerous radial canals that extend like ribs from their central stomach to the bell's edge. These graceful swimmers pulse through the water using their umbrella-shaped bell and capture small prey with their trailing tentacles.",
+              "distinguishingFeatures": "Unlike many other jellyfish, many-ribbed jellies have an unusually high number of radial canals (often 60 or more) that create a distinctive ribbed pattern when viewed from above or below.",
+              "funFact": "Some species in this family, like the crystal jelly, produce a green fluorescent protein that has revolutionized biological research and earned scientists a Nobel Prize!"
+            },
+            {
+              "id": 48926,
+              "name": "Sertulariidae",
+              "commonName": "Sertulariidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 55029,
+                  "name": "Dynamena",
+                  "commonName": "Dynamena",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 55028,
+                      "name": "Dynamena pumila",
+                      "commonName": "garland hydroid",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 55028,
+                          "name": "Dynamena pumila",
+                          "commonName": "garland hydroid",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "garland-hydroid",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/167758319/medium.jpeg"
+                        }
+                      ],
+                      "slug": "garland-hydroid",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/167758319/medium.jpeg"
+                    }
+                  ],
+                  "slug": "dynamena",
+                  "description": "Dynamena is a genus of colonial marine animals called hydroids that live attached to seaweeds, rocks, and other underwater surfaces. These tiny creatures form branching, plant-like colonies made up of many individual polyps that work together to capture food and reproduce.",
+                  "distinguishingFeatures": "Dynamena species are recognized by their distinctive zigzag or garland-like branching pattern and their cup-shaped protective structures (called hydrotheca) that house the individual feeding polyps.",
+                  "funFact": "Despite looking like delicate underwater plants, Dynamena colonies are actually made up of hundreds of tiny carnivorous animals that use stinging cells to capture small prey floating in the water."
+                }
+              ],
+              "slug": "sertulariidae",
+              "description": "Sertulariidae is a family of colonial hydrozoans that create delicate, branching structures resembling tiny underwater ferns or feathers. These marine animals build hard, chitinous skeletons with cup-like compartments where individual polyps live and feed on plankton. The colonies attach to rocks, shells, and other hard surfaces in coastal waters.",
+              "distinguishingFeatures": "Members of this family are distinguished by their regularly arranged, cup-shaped polyp homes (called hydrotheca) that are positioned along both sides of the branching stems in an alternating pattern, giving them a distinctive feather-like appearance.",
+              "funFact": "Despite looking like plants, these colonial animals are actually more closely related to jellyfish and can produce tiny free-swimming medusae during their reproductive cycle."
+            },
+            {
+              "id": 245634,
+              "name": "Melicertidae",
+              "commonName": "Melicertidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 247146,
+                  "name": "Melicertum",
+                  "commonName": "Melicertum",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 550154,
+                      "name": "Melicertum octocostatum",
+                      "commonName": "Melicertum octocostatum",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 550154,
+                          "name": "Melicertum octocostatum",
+                          "commonName": "Melicertum octocostatum",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "melicertum-octocostatum",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18912222/medium.jpg"
+                        }
+                      ],
+                      "slug": "melicertum-octocostatum",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18912222/medium.jpg"
+                    }
+                  ],
+                  "slug": "melicertum",
+                  "description": "Melicertum is a genus of hydrozoans, which are small marine animals related to jellyfish and corals. These creatures are part of the cnidarian family and live in ocean waters, where they drift with the currents as part of the plankton community. They have a simple body structure with tentacles that help them capture tiny prey.",
+                  "distinguishingFeatures": "Members of Melicertum are characterized by their bell-shaped body with distinctive ridges or ribs running along the sides. Unlike true jellyfish, they are much smaller and have a more delicate, transparent appearance.",
+                  "funFact": "Despite their tiny size and simple appearance, Melicertum hydrozoans have both a free-swimming medusa stage and a stationary polyp stage in their complex life cycle, essentially living two very different lifestyles!"
+                }
+              ],
+              "slug": "melicertidae",
+              "description": "Melicertidae is a family of marine jellyfish known for their distinctive bell-shaped bodies and elegant swimming movements. These cnidarians are typically small to medium-sized and can be found drifting through coastal waters, where they feed on small planktonic organisms using their trailing tentacles.",
+              "distinguishingFeatures": "Members of this family are characterized by their smooth, dome-like bells and relatively simple tentacle arrangements compared to other jellyfish families. They lack the complex radial canals and ornate structures found in many other marine jellies.",
+              "funFact": "Despite being jellyfish, Melicertidae species are generally considered harmless to humans, with stings that are typically very mild or barely noticeable."
+            },
+            {
+              "id": 465871,
+              "name": "Tiaropsidae",
+              "commonName": "Tiaropsidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 549998,
+                  "name": "Tiaropsis",
+                  "commonName": "Tiaropsis",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 549997,
+                      "name": "Tiaropsis multicirrata",
+                      "commonName": "Tiaropsis multicirrata",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 549997,
+                          "name": "Tiaropsis multicirrata",
+                          "commonName": "Tiaropsis multicirrata",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "tiaropsis-multicirrata",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/229860585/medium.jpeg"
+                        }
+                      ],
+                      "slug": "tiaropsis-multicirrata",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/229860585/medium.jpeg"
+                    }
+                  ],
+                  "slug": "tiaropsis",
+                  "description": "Tiaropsis is a genus of small, translucent marine hydrozoans that are part of the jellyfish family. These delicate creatures have a bell-shaped body and are typically found drifting in coastal waters, where they feed on tiny plankton and other microscopic organisms.",
+                  "distinguishingFeatures": "Tiaropsis can be identified by their distinctive bell shape with numerous tentacles around the margin and their characteristically four radial canals that extend from the center to the bell's edge.",
+                  "funFact": "Despite being jellyfish relatives, Tiaropsis are so small and transparent that they're often called 'crystal jellies' and can be easily overlooked even when swimming right in front of you!"
+                }
+              ],
+              "slug": "tiaropsidae",
+              "description": "Tiaropsidae is a small family of hydrozoans, which are tiny marine animals related to jellyfish and corals. These creatures have a unique two-stage life cycle, alternating between a small, bell-shaped swimming form (medusa) and a sessile polyp stage that attaches to underwater surfaces. They are part of the vast group of cnidarians that use stinging cells to capture prey.",
+              "distinguishingFeatures": "Members of this family are characterized by their distinctive bell shape and specific arrangement of tentacles and reproductive structures. Unlike many other hydrozoans, they have a particular pattern of nerve rings and muscle organization that sets them apart from their relatives.",
+              "funFact": "Despite being related to jellyfish, many Tiaropsidae species are so small that their medusa stage is barely visible to the naked eye, often measuring just a few millimeters across."
+            },
+            {
+              "id": 191401,
+              "name": "Eirenidae",
+              "commonName": "Eirenidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 247205,
+                  "name": "Eutonina",
+                  "commonName": "Eutonina",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 348053,
+                      "name": "Eutonina indicans",
+                      "commonName": "Umbrella Jelly",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 348053,
+                          "name": "Eutonina indicans",
+                          "commonName": "Umbrella Jelly",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "umbrella-jelly",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/82561374/medium.jpg"
+                        }
+                      ],
+                      "slug": "umbrella-jelly",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/82561374/medium.jpg"
+                    }
+                  ],
+                  "slug": "eutonina",
+                  "description": "Eutonina is a genus of small, transparent jellyfish known for their distinctive umbrella-shaped bell and delicate appearance. These hydrozoans are typically found in marine waters and are characterized by their simple body structure and graceful swimming movements.",
+                  "distinguishingFeatures": "Eutonina jellyfish are distinguished by their clear, dome-shaped bell with four radial canals and a simple mouth structure hanging from the center. Unlike many other jellyfish, they lack the complex tentacle arrangements seen in larger species.",
+                  "funFact": "Despite being nearly invisible due to their transparent bodies, Umbrella Jellies can produce brief flashes of bioluminescent light when disturbed, creating tiny sparkles in the water."
+                }
+              ],
+              "slug": "eirenidae",
+              "description": "Eirenidae is a family of small, delicate hydrozoans that spend part of their life cycle as free-swimming jellyfish called hydromedusae. These tiny marine creatures have a bell-shaped body and are typically found in coastal waters, where they drift with the currents and feed on small plankton.",
+              "distinguishingFeatures": "Members of this family are characterized by their small size, typically transparent bell, and the presence of statocysts (balance organs) along the bell margin. They can be distinguished from other hydromedusae by their specific arrangement of tentacles and the structure of their reproductive organs.",
+              "funFact": "Despite being jellyfish, many Eirenidae species are so small and transparent that they're nearly invisible to the naked eye, earning them the nickname 'crystal jellies' among marine biologists."
+            },
+            {
+              "id": 814096,
+              "name": "Sertularellidae",
+              "commonName": "Sertularellidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 60656,
+                  "name": "Sertularella",
+                  "commonName": "Sertularella",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 542110,
+                      "name": "Sertularella polyzonias",
+                      "commonName": "Sertularella polyzonias",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 542110,
+                          "name": "Sertularella polyzonias",
+                          "commonName": "Sertularella polyzonias",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "sertularella-polyzonias",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6881535/medium.jpg"
+                        }
+                      ],
+                      "slug": "sertularella-polyzonias",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6881535/medium.jpg"
+                    }
+                  ],
+                  "slug": "sertularella",
+                  "description": "Sertularella is a genus of colonial marine hydroids that create delicate, branching structures resembling tiny ferns or feathers. These small cnidarians build protective cups called hydrotheca where individual polyps live and feed on microscopic plankton and organic particles in the water.",
+                  "distinguishingFeatures": "Sertularella hydroids are distinguished by their alternating arrangement of hydrotheca along the branches, creating a zigzag pattern rather than the opposite paired arrangement seen in many related genera.",
+                  "funFact": "Despite looking like plants, Sertularella colonies are actually animals that can rapidly withdraw their feeding polyps into their protective cups when disturbed, making the entire colony appear to suddenly become lifeless."
+                }
+              ],
+              "slug": "sertularellidae",
+              "description": "Sertularellidae is a family of small, colonial marine animals called hydroids that create delicate, branching structures resembling tiny ferns or feathers. These animals are made up of many individual polyps that work together as a colony, with each polyp housed in its own protective cup along the branching stems. They attach to rocks, shells, and other surfaces on the ocean floor, filtering tiny particles and plankton from the water for food.",
+              "distinguishingFeatures": "Members of this family are distinguished by their zigzag or alternating arrangement of polyp cups along the branches, rather than having cups arranged in pairs or spirals like some related hydroids.",
+              "funFact": "Despite looking like delicate underwater plants, these are actually animals more closely related to jellyfish than to any plant, and some species in this family can produce tiny, free-swimming jellyfish as part of their reproductive cycle."
+            },
+            {
+              "id": 60670,
+              "name": "Mitrocomidae",
+              "commonName": "Mitrocomidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 1241379,
+                  "name": "Halopsis",
+                  "commonName": "Halopsis",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 1241378,
+                      "name": "Halopsis ocellata",
+                      "commonName": "Halopsis ocellata",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 1241378,
+                          "name": "Halopsis ocellata",
+                          "commonName": "Halopsis ocellata",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "halopsis-ocellata",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129135930/medium.jpg"
+                        }
+                      ],
+                      "slug": "halopsis-ocellata",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129135930/medium.jpg"
+                    }
+                  ],
+                  "slug": "halopsis",
+                  "description": "Halopsis is a small genus of marine hydrozoans, which are simple cnidarians related to jellyfish and corals. These tiny creatures live as colonies attached to underwater surfaces like rocks, shells, or other marine organisms. They have a complex life cycle that includes both a polyp stage (attached to surfaces) and a free-swimming medusa stage.",
+                  "distinguishingFeatures": "Halopsis hydrozoans are distinguished by their unique reproductive structures called gonothecae, which have distinctive shapes and patterns that help identify different species. They also produce small, bell-shaped medusae with characteristic eye-spots (ocelli) that give some species their names.",
+                  "funFact": "The name 'Halopsis' means 'sea-like appearance,' and these creatures can reproduce both sexually through their free-swimming medusa stage and asexually by budding new polyps from their colonial base."
+                }
+              ],
+              "slug": "mitrocomidae",
+              "description": "Mitrocomidae is a family of small, delicate hydrozoans - marine animals related to jellyfish and corals. These creatures have a simple bell-shaped body with tentacles hanging below, and they drift through the water catching tiny prey. They represent one of the more primitive groups of cnidarians, showing basic features of the jellyfish body plan.",
+              "distinguishingFeatures": "Members of this family are characterized by their small size, typically clear or translucent bells, and relatively simple structure compared to more complex jellyfish. They lack the elaborate radial canals and other specialized features found in many other hydrozoan families.",
+              "funFact": "Despite their simple appearance, these tiny jellyfish are actually part of a complex life cycle that can alternate between a free-swimming medusa stage and a attached polyp stage, essentially living two very different lifestyles in one lifetime."
+            }
+          ],
+          "slug": "thecate-hydroids",
+          "description": "Thecate hydroids are small marine animals that live in two distinct forms during their lifetime - as tiny polyps attached to surfaces like rocks or seaweed, and as free-swimming jellyfish. The polyp stage is protected by a cup-shaped shell called a theca, which gives this group its name. These fascinating creatures can reproduce both sexually as jellyfish and asexually as polyps, creating colonies that look like delicate underwater gardens.",
+          "distinguishingFeatures": "Unlike other hydroids, thecate hydroids have protective cup-like shells (thecae) surrounding their polyps, making them look like tiny flowers in vases. This shell protection sets them apart from their naked hydroid relatives.",
+          "funFact": "Some thecate hydroids are bioluminescent and can create spectacular light shows in the ocean, with entire colonies flashing in coordinated waves when disturbed."
+        },
+        {
+          "id": 152823,
+          "name": "Siphonophorae",
+          "commonName": "Siphonophores",
+          "rank": "order",
+          "speciesCount": 3,
+          "children": [
+            {
+              "id": 195398,
+              "name": "Agalmatidae",
+              "commonName": "Agalmatidae",
+              "rank": "family",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 506581,
+                  "name": "Nanomia",
+                  "commonName": "Nanomia",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 1098081,
+                      "name": "Nanomia cara",
+                      "commonName": "Nanomia cara",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 1098081,
+                          "name": "Nanomia cara",
+                          "commonName": "Nanomia cara",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "nanomia-cara",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92740327/medium.jpg"
+                        }
+                      ],
+                      "slug": "nanomia-cara",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92740327/medium.jpg"
+                    }
+                  ],
+                  "slug": "nanomia",
+                  "description": "Nanomia is a genus of delicate, colonial marine animals called siphonophores that drift through the ocean like living underwater kites. These fascinating creatures are actually colonies made up of many specialized individuals working together as one organism, each with different jobs like feeding, swimming, or reproduction. They belong to the same group as jellyfish and corals, but have evolved a unique colonial lifestyle.",
+                  "distinguishingFeatures": "Unlike single jellyfish, Nanomia colonies are made up of multiple specialized individuals called zooids that are physically connected and function as one organism. They have distinctive swimming bells arranged along a central stem and long, trailing tentacles for capturing prey.",
+                  "funFact": "Each Nanomia colony can stretch several feet long and contains dozens of individuals that are so specialized for their roles that they cannot survive on their own - it's like having a body where each organ is actually a separate animal!"
+                },
+                {
+                  "id": 195396,
+                  "name": "Agalma",
+                  "commonName": "Agalma",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 1458984,
+                      "name": "Agalma okenii",
+                      "commonName": "Paired-Bell Siphonophore",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 1458984,
+                          "name": "Agalma okenii",
+                          "commonName": "Paired-Bell Siphonophore",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "paired-bell-siphonophore",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/253636999/medium.jpeg"
+                        }
+                      ],
+                      "slug": "paired-bell-siphonophore",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/253636999/medium.jpeg"
+                    }
+                  ],
+                  "slug": "agalma",
+                  "description": "Agalma is a genus of siphonophores, which are colonial marine animals made up of many specialized individuals working together as one organism. These fascinating creatures drift through the ocean like living strings of beads, with each 'bead' performing a different function such as swimming, feeding, or reproduction.",
+                  "distinguishingFeatures": "Agalma siphonophores are characterized by their distinctive paired swimming bells arranged along the stem, which gives them their common name of 'paired-bell siphonophores.' Unlike other siphonophore groups, they have a specific arrangement of these bell-shaped swimming units that work in coordinated pairs.",
+                  "funFact": "Despite looking like a single jellyfish, an Agalma is actually a colony of dozens of individual animals that can never survive on their own - they're essentially a living apartment complex where each resident has a specialized job!"
+                }
+              ],
+              "slug": "agalmatidae",
+              "description": "Agalmatidae are colonial marine animals called siphonophores that drift through the ocean like living jellyfish cities. Each colony is made up of many specialized individuals working together - some catch food, others provide movement, and still others handle reproduction. These delicate, translucent creatures are related to jellyfish and corals but have evolved a unique colonial lifestyle.",
+              "distinguishingFeatures": "Unlike other siphonophores, Agalmatidae have distinctively shaped swimming bells and specialized feeding polyps arranged in organized clusters along their stems. Their colonies typically have a more elongated, chain-like structure compared to their relatives.",
+              "funFact": "What looks like a single jellyfish-like creature is actually hundreds of tiny animals working together so closely that they function as one organism - it's like a floating apartment building where each resident has a specific job!"
+            },
+            {
+              "id": 117304,
+              "name": "Physaliidae",
+              "commonName": "Man O' Wars",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 117305,
+                  "name": "Physalia",
+                  "commonName": "Man O' Wars",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 117302,
+                      "name": "Physalia physalis",
+                      "commonName": "Portuguese Man o' War",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 117302,
+                          "name": "Physalia physalis",
+                          "commonName": "Portuguese Man o' War",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "portuguese-man-o-war",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/417461027/medium.jpeg"
+                        }
+                      ],
+                      "slug": "portuguese-man-o-war",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/417461027/medium.jpeg"
+                    }
+                  ],
+                  "slug": "man-o-wars",
+                  "description": "Man O' Wars are not jellyfish at all, but rather floating colonial organisms called siphonophores made up of specialized parts working together like a single animal. These marine creatures drift on ocean currents with their distinctive gas-filled bladder acting like a sail above the water's surface. They trail long, stinging tentacles below to capture fish and other prey.",
+                  "distinguishingFeatures": "Unlike true jellyfish, Man O' Wars are actually colonies of four different types of specialized organisms called zooids that cannot survive independently. Their distinctive blue gas-filled float sits above water like a balloon, which true jellyfish do not have.",
+                  "funFact": "The Portuguese Man o' War's gas bladder acts like a sail, but it cannot control its direction - it simply drifts wherever the wind and currents take it across the ocean."
+                }
+              ],
+              "slug": "man-o-wars",
+              "description": "Man O' Wars are floating marine animals that may look like jellyfish but are actually siphonophores - colonies of specialized organisms working together as one. They drift across ocean surfaces with their distinctive gas-filled bladder acting like a sail, trailing long, stinging tentacles below to capture prey.",
+              "distinguishingFeatures": "Unlike true jellyfish, Man O' Wars are colonial organisms made up of four different types of specialized polyps, each with a specific job like floating, feeding, reproduction, or defense. Their balloon-like float sits above water and can be deflated to dive below the surface when threatened.",
+              "funFact": "The Portuguese Man O' War's tentacles can stretch up to 165 feet long - longer than a blue whale - and deliver painful stings that remain potent even after the animal has died and washed up on shore."
+            }
+          ],
+          "slug": "siphonophores",
+          "description": "Siphonophores are fascinating colonial marine animals that look like single jellyfish but are actually made up of many specialized individuals working together as one organism. Each colony consists of different types of zooids that handle specific tasks like feeding, reproduction, swimming, or defense, creating a highly organized floating community.",
+          "distinguishingFeatures": "Unlike true jellyfish which are single organisms, siphonophores are colonies where each specialized part cannot survive on its own. They often form long, string-like or balloon-like structures that can extend much farther than typical jellyfish.",
+          "funFact": "The Portuguese Man O' War's tentacles can stretch over 100 feet long, making some siphonophore colonies longer than blue whales!"
+        },
+        {
+          "id": 152821,
+          "name": "Limnomedusae",
+          "commonName": "Limnomedusae",
+          "rank": "order",
+          "speciesCount": 2,
+          "children": [
+            {
+              "id": 245631,
+              "name": "Olindiidae",
+              "commonName": "Olindiidae",
+              "rank": "family",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 171285,
+                  "name": "Craspedacusta",
+                  "commonName": "Freshwater Medusas",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 208528,
+                      "name": "Craspedacusta sowerbii",
+                      "commonName": "Common Freshwater Jellyfish",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 208528,
+                          "name": "Craspedacusta sowerbii",
+                          "commonName": "Common Freshwater Jellyfish",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "common-freshwater-jellyfish",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/178347568/medium.jpg"
+                        }
+                      ],
+                      "slug": "common-freshwater-jellyfish",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/178347568/medium.jpg"
+                    }
+                  ],
+                  "slug": "freshwater-medusas",
+                  "description": "Freshwater Medusas are a remarkable group of jellyfish that have adapted to live in lakes, ponds, and slow-moving rivers instead of the ocean. These translucent, bell-shaped creatures are actually quite small, typically measuring only about half an inch across, and they pulse through the water just like their marine cousins.",
+                  "distinguishingFeatures": "Unlike all other jellyfish, which live in saltwater environments, these are the only true jellyfish that can survive and reproduce in freshwater habitats. They have the classic jellyfish form with a transparent bell and trailing tentacles, but are much smaller than most marine species.",
+                  "funFact": "The Common Freshwater Jellyfish is originally from China but has somehow spread to freshwater bodies on every continent except Antarctica, making it one of the most widely distributed jellyfish species in the world despite being discovered relatively recently."
+                },
+                {
+                  "id": 191426,
+                  "name": "Gonionemus",
+                  "commonName": "Gonionemus",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 501046,
+                      "name": "Gonionemus vertens",
+                      "commonName": "Orange-striped Jellyfish",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 501046,
+                          "name": "Gonionemus vertens",
+                          "commonName": "Orange-striped Jellyfish",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "orange-striped-jellyfish",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/602218992/medium.jpg"
+                        }
+                      ],
+                      "slug": "orange-striped-jellyfish",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/602218992/medium.jpg"
+                    }
+                  ],
+                  "slug": "gonionemus",
+                  "description": "Gonionemus is a genus of small, bell-shaped jellyfish that are excellent swimmers and active hunters. These jellyfish are known for their distinctive orange or reddish stripes and their ability to cling to seaweed and other surfaces using specialized sticky pads on their tentacles.",
+                  "distinguishingFeatures": "Unlike many jellyfish that simply drift with currents, Gonionemus species are strong swimmers that actively pursue prey and can attach themselves to underwater vegetation using adhesive discs on their tentacles.",
+                  "funFact": "The Orange-striped Jellyfish can actually 'walk' along seaweed by gripping with its tentacle pads and pulling itself forward, making it one of the most mobile jellyfish species."
+                }
+              ],
+              "slug": "olindiidae",
+              "description": "Olindiidae is a family of small jellyfish that includes some remarkable species capable of living in both saltwater and freshwater environments. These delicate, transparent medusas are among the few cnidarians that have successfully adapted to life in ponds, lakes, and rivers, making them quite unusual in the jellyfish world.",
+              "distinguishingFeatures": "Unlike most jellyfish which are strictly marine, members of this family can tolerate or even thrive in freshwater environments. They typically have a distinctive bell shape with statocysts (balance organs) positioned between their tentacles.",
+              "funFact": "The freshwater medusa Craspedacusta is believed to have originated in China but has now spread to freshwater bodies around the world, likely hitchhiking on aquatic plants and appearing unexpectedly in ponds and lakes where people never expected to see jellyfish!"
+            }
+          ],
+          "slug": "limnomedusae",
+          "description": "Limnomedusae are an order of cnidarians that includes both freshwater and marine jellyfish species. These jellyfish are characterized by their bell-shaped bodies and tentacles that hang down from the bell's edge. They are free-swimming predators that capture small prey using stinging cells called nematocysts.",
+          "distinguishingFeatures": "Unlike many other jellyfish orders, Limnomedusae includes species that have successfully adapted to live in freshwater environments like lakes and ponds, not just saltwater. They also have a unique life cycle that may include both polyp and medusa stages, with some species capable of alternating between these forms.",
+          "funFact": "Some species in this order are among the few jellyfish that can thrive in completely freshwater environments, making them fascinating examples of how marine animals can adapt to very different habitats."
+        },
+        {
+          "id": 142105,
+          "name": "Trachymedusae",
+          "commonName": "Trachymedusae",
+          "rank": "order",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 201735,
+              "name": "Rhopalonematidae",
+              "commonName": "Rhopalonematidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 247156,
+                  "name": "Aglantha",
+                  "commonName": "Aglantha",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 256085,
+                      "name": "Aglantha digitale",
+                      "commonName": "Aglantha digitale",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 256085,
+                          "name": "Aglantha digitale",
+                          "commonName": "Aglantha digitale",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "aglantha-digitale",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/376343560/medium.jpg"
+                        }
+                      ],
+                      "slug": "aglantha-digitale",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/376343560/medium.jpg"
+                    }
+                  ],
+                  "slug": "aglantha",
+                  "description": "Aglantha is a genus of hydrozoans, which are small, translucent marine animals related to jellyfish and sea anemones. These delicate creatures are part of the cnidarian family and live as free-swimming medusae in ocean waters. They have a bell-shaped body with tentacles that they use to capture tiny prey like plankton.",
+                  "distinguishingFeatures": "Aglantha hydrozoans are distinguished by their distinctive bell shape and the arrangement of their tentacles, which differ from other hydrozoan genera in their positioning and structure.",
+                  "funFact": "Despite being only a few centimeters across, Aglantha digitale can be found in both Arctic and temperate waters, making it one of the most widely distributed hydrozoans in the North Atlantic."
+                }
+              ],
+              "slug": "rhopalonematidae",
+              "description": "Rhopalonematidae is a family of hydromedusae, which are small jellyfish that represent the free-swimming stage of certain cnidarians. These transparent, bell-shaped creatures drift through ocean waters, using their tentacles to capture tiny prey like plankton and small crustaceans. They are part of the complex life cycle of hydrozoans, alternating between a polyp stage attached to surfaces and this mobile medusa stage.",
+              "distinguishingFeatures": "Members of this family are characterized by their distinctive bell shape with a thick, jelly-like mesoglea (the clear substance between the inner and outer body layers) and typically have unbranched radial canals. They also possess specialized structures called statocysts that help them maintain balance and orientation in the water.",
+              "funFact": "Despite being nearly transparent and delicate-looking, these jellyfish are efficient predators that can rapidly contract their bell to jet through the water when pursuing prey or escaping threats."
+            }
+          ],
+          "slug": "trachymedusae",
+          "description": "Trachymedusae are a group of jellyfish that spend their entire lives in the open ocean as free-swimming medusae, unlike many other jellyfish that have a stationary polyp stage. These transparent, bell-shaped creatures are typically small and drift through the water column, pulsing their bells to move and capture prey with their trailing tentacles.",
+          "distinguishingFeatures": "Unlike most other jellyfish, trachymedusae completely skip the attached polyp stage and develop directly from eggs into swimming medusae. They also have distinctive statocysts (balance organs) around their bell margin that help them orient in the water.",
+          "funFact": "Some trachymedusae can produce bioluminescent flashes when disturbed, creating sparkles of light in the dark ocean depths."
+        }
+      ],
+      "slug": "hydrozoans"
+    },
+    {
+      "id": 47533,
+      "name": "Anthozoa",
+      "commonName": "Sea Anemones and Corals",
+      "rank": "class",
+      "speciesCount": 18,
+      "children": [
+        {
+          "id": 47797,
+          "name": "Actiniaria",
+          "commonName": "Sea Anemones",
+          "rank": "order",
+          "speciesCount": 14,
+          "children": [
+            {
+              "id": 81784,
+              "name": "Diadumenidae",
+              "commonName": "Diadumenidae",
+              "rank": "family",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 81785,
+                  "name": "Diadumene",
+                  "commonName": "Diadumene",
+                  "rank": "genus",
+                  "speciesCount": 3,
+                  "children": [
+                    {
+                      "id": 81783,
+                      "name": "Diadumene lineata",
+                      "commonName": "Striped Green Sea Anemone",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 81783,
+                          "name": "Diadumene lineata",
+                          "commonName": "Striped Green Sea Anemone",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "striped-green-sea-anemone",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/162510068/medium.jpeg"
+                        }
+                      ],
+                      "slug": "striped-green-sea-anemone",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/162510068/medium.jpeg"
+                    },
+                    {
+                      "id": 345457,
+                      "name": "Diadumene leucolena",
+                      "commonName": "Ghost Anemone",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 345457,
+                          "name": "Diadumene leucolena",
+                          "commonName": "Ghost Anemone",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "ghost-anemone",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3232236/medium.JPG"
+                        }
+                      ],
+                      "slug": "ghost-anemone",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3232236/medium.JPG"
+                    },
+                    {
+                      "id": 560510,
+                      "name": "Diadumene cincta",
+                      "commonName": "Diadumene cincta",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 560510,
+                          "name": "Diadumene cincta",
+                          "commonName": "Diadumene cincta",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "diadumene-cincta",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10488145/medium.jpg"
+                        }
+                      ],
+                      "slug": "diadumene-cincta",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10488145/medium.jpg"
+                    }
+                  ],
+                  "slug": "diadumene",
+                  "description": "Diadumene is a genus of small, delicate sea anemones that are commonly found in shallow coastal waters and tidal pools. These anemones are known for their slender columns and relatively simple body structure compared to their larger, more colorful relatives. All members of this genus are soft-bodied cnidarians that use stinging tentacles to capture small prey like plankton and tiny fish.",
+                  "distinguishingFeatures": "Diadumene anemones are typically smaller and more slender than most other sea anemones, with smooth columns that often have distinctive striping or translucent coloration. They tend to be more tolerant of environmental changes and can often be found in areas with varying salinity levels.",
+                  "funFact": "The Striped Green Sea Anemone (Diadumene lineata) is actually native to Asia but has successfully colonized New England waters, likely arriving as a hitchhiker on ships or with imported shellfish."
+                }
+              ],
+              "slug": "diadumenidae",
+              "description": "Diadumenidae is a family of small sea anemones that are known for their ability to move around and reproduce through fragmentation. These soft-bodied marine animals have cylindrical bodies topped with rings of tentacles that they use to capture small prey like plankton and tiny fish. They attach to hard surfaces like rocks, docks, and shells in shallow coastal waters.",
+              "distinguishingFeatures": "Unlike many sea anemones that stay firmly attached in one spot, diadumenids can glide along surfaces using their muscular base. They also have the remarkable ability to reproduce by splitting their body into fragments, with each piece growing into a complete new anemone.",
+              "funFact": "Some species in this family are considered invasive and have hitchhiked around the world on ship hulls, allowing them to colonize new coastlines far from their native ranges."
+            },
+            {
+              "id": 47796,
+              "name": "Actiniidae",
+              "commonName": "Actiniid Sea Anemones",
+              "rank": "family",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 195564,
+                  "name": "Aulactinia",
+                  "commonName": "Aulactinia",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 195567,
+                      "name": "Aulactinia stella",
+                      "commonName": "Silver Spotted Anemone",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 195567,
+                          "name": "Aulactinia stella",
+                          "commonName": "Silver Spotted Anemone",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "silver-spotted-anemone",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47407280/medium.jpeg"
+                        }
+                      ],
+                      "slug": "silver-spotted-anemone",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47407280/medium.jpeg"
+                    }
+                  ],
+                  "slug": "aulactinia",
+                  "description": "Aulactinia is a genus of sea anemones that are typically found in deeper, colder waters along rocky coastlines. These anemones are characterized by their ability to retract completely into crevices and their distinctive column structure that helps them anchor firmly to hard surfaces.",
+                  "distinguishingFeatures": "Members of Aulactinia can be distinguished from other sea anemones by their deeply grooved column and their tendency to completely withdraw into rock crevices when disturbed, making them appear to vanish entirely.",
+                  "funFact": "The Silver Spotted Anemone can live for decades in the same rocky crevice, slowly growing larger while remaining hidden from most observers except during low tides."
+                },
+                {
+                  "id": 47795,
+                  "name": "Urticina",
+                  "commonName": "Urticina",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 127236,
+                      "name": "Urticina crassicornis",
+                      "commonName": "Christmas Anemone",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 127236,
+                          "name": "Urticina crassicornis",
+                          "commonName": "Christmas Anemone",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "christmas-anemone",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181067516/medium.jpeg"
+                        }
+                      ],
+                      "slug": "christmas-anemone",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181067516/medium.jpeg"
+                    }
+                  ],
+                  "slug": "urticina",
+                  "description": "Urticina is a genus of large, robust sea anemones found in cold ocean waters. These marine animals are characterized by their thick, sturdy bodies and numerous tentacles that surround their central mouth, which they use to capture and consume small fish and other prey.",
+                  "distinguishingFeatures": "Urticina anemones are distinguished from other sea anemone genera by their particularly thick, muscular column and their ability to retract completely when threatened, forming a smooth, rounded dome.",
+                  "funFact": "The name Urticina comes from the Latin word for 'nettle,' referring to the stinging cells in their tentacles that can deliver a burning sensation similar to brushing against stinging nettles."
+                },
+                {
+                  "id": 465159,
+                  "name": "Cribrinopsis",
+                  "commonName": "Cribrinopsis",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 558724,
+                      "name": "Cribrinopsis similis",
+                      "commonName": "Cribrinopsis similis",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 558724,
+                          "name": "Cribrinopsis similis",
+                          "commonName": "Cribrinopsis similis",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "cribrinopsis-similis",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30041969/medium.jpg"
+                        }
+                      ],
+                      "slug": "cribrinopsis-similis",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30041969/medium.jpg"
+                    }
+                  ],
+                  "slug": "cribrinopsis",
+                  "description": "Cribrinopsis is a genus of sea anemones that are among the larger and more robust anemones found in cold northern waters. These marine animals are characterized by their sturdy, cylindrical bodies and numerous tentacles that surround their central mouth, which they use to capture small fish and other prey.",
+                  "distinguishingFeatures": "Members of this genus are distinguished by their particularly thick, muscular body walls and their ability to retract completely when disturbed, forming a smooth, rounded dome.",
+                  "funFact": "Cribrinopsis anemones can live for decades and have been known to survive in laboratory conditions for over 50 years, making them some of the longest-lived invertebrates in New England waters."
+                }
+              ],
+              "slug": "actiniid-sea-anemones",
+              "description": "Actiniid sea anemones are robust, colorful marine animals that attach themselves to rocks and other hard surfaces in coastal waters. These cylindrical creatures have a muscular base called a pedal disc and a crown of stinging tentacles surrounding their mouth, which they use to capture small fish, crabs, and other prey that drift by.",
+              "distinguishingFeatures": "Unlike some other sea anemone families, actiniids are typically larger and more solidly built, with thick body walls and strong attachment abilities that help them withstand powerful ocean currents and waves.",
+              "funFact": "Some actiniid sea anemones can live for over 100 years and will actually clone themselves by splitting in half when they outgrow their rocky homes!"
+            },
+            {
+              "id": 85749,
+              "name": "Edwardsiidae",
+              "commonName": "Edwardsiidae",
+              "rank": "family",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 551768,
+                  "name": "Edwardsiella",
+                  "commonName": "Edwardsiella",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 551767,
+                      "name": "Edwardsiella lineata",
+                      "commonName": "Edwardsiella lineata",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 551767,
+                          "name": "Edwardsiella lineata",
+                          "commonName": "Edwardsiella lineata",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "edwardsiella-lineata",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108106704/medium.jpg"
+                        }
+                      ],
+                      "slug": "edwardsiella-lineata",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108106704/medium.jpg"
+                    }
+                  ],
+                  "slug": "edwardsiella",
+                  "description": "Edwardsiella is a genus of sea anemones that are among the most widespread and well-studied anemones in the world. These cnidarians are characterized by their burrowing lifestyle, living partially buried in sandy or muddy sediments with only their tentacle crown exposed above the surface.",
+                  "distinguishingFeatures": "Unlike many sea anemones that attach to hard surfaces, Edwardsiella species are specialized for life in soft sediments and have elongated, tube-like bodies adapted for burrowing.",
+                  "funFact": "When threatened, these anemones can quickly withdraw completely into the sediment, leaving no trace of their presence above the surface."
+                },
+                {
+                  "id": 90188,
+                  "name": "Nematostella",
+                  "commonName": "Nematostella",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 106698,
+                      "name": "Nematostella vectensis",
+                      "commonName": "Starlet anemone",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 106698,
+                          "name": "Nematostella vectensis",
+                          "commonName": "Starlet anemone",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "starlet-anemone",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110018453/medium.jpg"
+                        }
+                      ],
+                      "slug": "starlet-anemone",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110018453/medium.jpg"
+                    }
+                  ],
+                  "slug": "nematostella",
+                  "description": "Nematostella is a genus containing small, tube-dwelling sea anemones that live in brackish coastal waters like salt marshes and estuaries. These tiny anemones are incredibly hardy and can survive in environments with changing salinity levels that would be challenging for most marine creatures. They burrow into soft sediments with only their tentacle crown visible at the surface.",
+                  "distinguishingFeatures": "Unlike most sea anemones that live in fully marine environments, Nematostella species thrive in brackish water and can tolerate dramatic changes in salt content. They are also much smaller than typical sea anemones and have a more elongated, tube-like body shape.",
+                  "funFact": "The starlet anemone has become a important research organism for scientists studying development and genetics because it's easy to keep in the lab and has a relatively simple genome that helps us understand how more complex animals evolved."
+                }
+              ],
+              "slug": "edwardsiidae",
+              "description": "Edwardsiidae is a family of burrowing sea anemones that live partially buried in sand, mud, or soft sediments. Unlike typical sea anemones that attach to hard surfaces, these creatures have elongated, worm-like bodies that allow them to dig into the seafloor with only their tentacles and oral disc visible above the surface.",
+              "distinguishingFeatures": "These sea anemones are distinguished by their ability to burrow and their tube-like body shape, which is much longer and narrower than typical sea anemones. They also have fewer tentacles arranged around their mouth compared to most other anemone families.",
+              "funFact": "When threatened, Edwardsiidae anemones can quickly contract and completely disappear into their burrows, making them masters of the vanishing act in sandy sea floors."
+            },
+            {
+              "id": 373330,
+              "name": "Actinostolidae",
+              "commonName": "Actinostolidae",
+              "rank": "family",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 459982,
+                  "name": "Stomphia",
+                  "commonName": "Stomphia",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 459981,
+                      "name": "Stomphia coccinea",
+                      "commonName": "Swimming Anemone",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 459981,
+                          "name": "Stomphia coccinea",
+                          "commonName": "Swimming Anemone",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "swimming-anemone",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128137846/medium.jpg"
+                        }
+                      ],
+                      "slug": "swimming-anemone",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128137846/medium.jpg"
+                    }
+                  ],
+                  "slug": "stomphia",
+                  "description": "Stomphia is a genus of sea anemones that are unique among their relatives for their ability to swim when threatened. These colorful marine animals can detach from rocks and surfaces to escape predators by rhythmically flexing their bodies through the water. They are found in cold northern waters where they typically attach to hard surfaces on the seafloor.",
+                  "distinguishingFeatures": "Unlike most sea anemones that remain firmly attached to surfaces, Stomphia species can actively swim by detaching and using coordinated body movements to propel themselves through the water.",
+                  "funFact": "When a Swimming Anemone encounters certain predatory sea stars, it can literally dance away by performing dramatic thrashing movements that help it swim to safety."
+                },
+                {
+                  "id": 459905,
+                  "name": "Actinostola",
+                  "commonName": "Actinostola",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 459904,
+                      "name": "Actinostola callosa",
+                      "commonName": "Rough-skinned Sea Anemone",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 459904,
+                          "name": "Actinostola callosa",
+                          "commonName": "Rough-skinned Sea Anemone",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "rough-skinned-sea-anemone",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32423065/medium.jpg"
+                        }
+                      ],
+                      "slug": "rough-skinned-sea-anemone",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32423065/medium.jpg"
+                    }
+                  ],
+                  "slug": "actinostola",
+                  "description": "Actinostola is a genus of sea anemones that are typically found in deeper, colder waters along rocky coastlines. These anemones are characterized by their sturdy, cylindrical bodies and ability to thrive in harsh marine environments where strong currents and cold temperatures would challenge other sea creatures.",
+                  "distinguishingFeatures": "Members of this genus are distinguished by their thick, leathery body walls and relatively large size compared to shallow-water anemones. They also have a distinctive arrangement of tentacles and can withstand the extreme conditions of deep-water habitats.",
+                  "funFact": "Despite living in the cold depths where food can be scarce, Actinostola anemones can live for decades by slowing their metabolism and patiently waiting for prey to drift within reach of their tentacles."
+                }
+              ],
+              "slug": "actinostolidae",
+              "description": "Actinostolidae is a family of sea anemones that live in cold, deep waters along rocky coastlines. These marine animals are characterized by their sturdy, muscular bodies and ability to withstand harsh ocean conditions. They attach firmly to hard surfaces on the seafloor and use their tentacles to capture small fish and other prey.",
+              "distinguishingFeatures": "Unlike many other sea anemones, members of this family have particularly thick, robust body walls and can quickly detach from surfaces when threatened. They also tend to be found in deeper, colder waters rather than shallow tidal pools.",
+              "funFact": "Some Actinostolidae can actually swim by flexing their bodies in a jellyfish-like motion when they need to escape predators or find a new place to settle."
+            },
+            {
+              "id": 49070,
+              "name": "Metridiidae",
+              "commonName": "Metridiidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 49069,
+                  "name": "Metridium",
+                  "commonName": "Plumose Anemones",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 49071,
+                      "name": "Metridium senile",
+                      "commonName": "Plumose Anemone",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 49071,
+                          "name": "Metridium senile",
+                          "commonName": "Plumose Anemone",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "plumose-anemone",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/34216153/medium.jpg"
+                        }
+                      ],
+                      "slug": "plumose-anemone",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/34216153/medium.jpg"
+                    }
+                  ],
+                  "slug": "plumose-anemones",
+                  "description": "Plumose anemones are large, feathery sea anemones that create beautiful underwater gardens along New England's rocky shores. These soft-bodied marine animals have hundreds of delicate, branching tentacles that give them a fluffy, plume-like appearance as they sway in the current.",
+                  "distinguishingFeatures": "Unlike other sea anemones with simple, smooth tentacles, plumose anemones have highly branched, feathery tentacles that create their distinctive fuzzy appearance. They also grow much larger than most other anemone species, often reaching 8-10 inches tall.",
+                  "funFact": "Plumose anemones can reproduce by splitting themselves in half, creating identical clones that often form large colonies covering entire underwater rock faces."
+                }
+              ],
+              "slug": "metridiidae",
+              "description": "Metridiidae is a family of sea anemones known for their elegant, feathery appearance and relatively large size. These marine animals are characterized by their numerous, delicate tentacles that create a plume-like crown around their mouth, giving them their common name of plumose anemones.",
+              "distinguishingFeatures": "Unlike many other sea anemone families, metridiids have exceptionally numerous and finely divided tentacles that are arranged in multiple cycles, creating their distinctive feathery appearance.",
+              "funFact": "Plumose anemones can reproduce by splitting themselves in half, creating identical clones that often form large colonies covering underwater surfaces like living carpets."
+            },
+            {
+              "id": 128126,
+              "name": "Aiptasiidae",
+              "commonName": "Aiptasiidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 570595,
+                  "name": "Aiptasiogeton",
+                  "commonName": "Aiptasiogeton",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 960591,
+                      "name": "Aiptasiogeton eruptaurantia",
+                      "commonName": "American Spotted Anemone",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 960591,
+                          "name": "Aiptasiogeton eruptaurantia",
+                          "commonName": "American Spotted Anemone",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "american-spotted-anemone",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293877410/medium.jpg"
+                        }
+                      ],
+                      "slug": "american-spotted-anemone",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293877410/medium.jpg"
+                    }
+                  ],
+                  "slug": "aiptasiogeton",
+                  "description": "Aiptasiogeton is a small genus of sea anemones found along the Atlantic coast. These marine creatures are soft-bodied cnidarians that attach themselves to hard surfaces like rocks and shells in shallow coastal waters.",
+                  "distinguishingFeatures": "Members of this genus are characterized by their distinctive spotted patterns and relatively small size compared to other sea anemones. They have a more delicate appearance than their larger cousins.",
+                  "funFact": "The American Spotted Anemone can quickly retract its tentacles and body into what looks like a small, colorful blob when disturbed by waves or potential predators."
+                }
+              ],
+              "slug": "aiptasiidae",
+              "description": "Aiptasiidae is a family of sea anemones that are commonly found in marine aquariums and coastal waters around the world. These soft-bodied cnidarians have a cylindrical body topped with tentacles that they use to capture small prey like plankton and fish larvae. They attach themselves to hard surfaces like rocks, shells, or pier pilings using a sticky base called a pedal disc.",
+              "distinguishingFeatures": "Unlike many other sea anemones, members of Aiptasiidae are known for their incredible ability to reproduce rapidly through budding and fragmentation. They also tend to be more translucent than other anemone families, often appearing glassy or semi-transparent in the water.",
+              "funFact": "These anemones are considered both a blessing and a curse in the aquarium trade - while they're hardy and easy to keep alive, they can quickly overrun a tank because even tiny fragments left behind can grow into full new anemones!"
+            },
+            {
+              "id": 476168,
+              "name": "Gonactiniidae",
+              "commonName": "Gonactiniidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 476170,
+                  "name": "Gonactinia",
+                  "commonName": "Gonactinia",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 476167,
+                      "name": "Gonactinia prolifera",
+                      "commonName": "Gonactinia prolifera",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 476167,
+                          "name": "Gonactinia prolifera",
+                          "commonName": "Gonactinia prolifera",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "gonactinia-prolifera",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2278854/medium.jpg"
+                        }
+                      ],
+                      "slug": "gonactinia-prolifera",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2278854/medium.jpg"
+                    }
+                  ],
+                  "slug": "gonactinia",
+                  "description": "Gonactinia is a genus of sea anemones that are among the most unusual cnidarians found in New England waters. These marine animals are characterized by their ability to reproduce through a fascinating process called proliferation, where new individuals bud off from the parent organism.",
+                  "distinguishingFeatures": "Unlike most sea anemones that are solitary creatures, Gonactinia species can form colonies through asexual reproduction. They also have a distinctive body structure with specialized reproductive zones that allow them to create genetically identical offspring.",
+                  "funFact": "Gonactinia prolifera can essentially clone itself by budding off miniature copies, creating small colonies of genetically identical sea anemones that remain connected to their parent."
+                }
+              ],
+              "slug": "gonactiniidae",
+              "description": "Gonactiniidae is a small family of sea anemones that live attached to hard surfaces on the ocean floor. These cnidarians have cylindrical bodies topped with tentacles that they use to capture small prey like plankton and fish.",
+              "distinguishingFeatures": "Members of this family are characterized by their relatively simple body structure and specific arrangement of internal septa (dividing walls) within their body cavity.",
+              "funFact": "Despite being a widespread family found in oceans around the world, Gonactiniidae contains relatively few species, making each one quite special to encounter."
+            },
+            {
+              "id": 48176,
+              "name": "Sagartiidae",
+              "commonName": "Sagartiidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 337994,
+                  "name": "Actinothoe",
+                  "commonName": "Actinothoe",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 1023089,
+                      "name": "Actinothoe modesta",
+                      "commonName": "Actinothoe modesta",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 1023089,
+                          "name": "Actinothoe modesta",
+                          "commonName": "Actinothoe modesta",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "actinothoe-modesta",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/202003853/medium.jpg"
+                        }
+                      ],
+                      "slug": "actinothoe-modesta",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/202003853/medium.jpg"
+                    }
+                  ],
+                  "slug": "actinothoe",
+                  "description": "Actinothoe is a genus of sea anemones that are typically small and found attached to rocky surfaces in marine environments. These soft-bodied cnidarians have a cylindrical body topped with tentacles that they use to capture small prey like plankton and tiny fish.",
+                  "distinguishingFeatures": "Members of Actinothoe are distinguished by their relatively small size and their tendency to form colonies or clusters on hard substrates. They often have a somewhat translucent appearance and shorter tentacles compared to many other sea anemone genera.",
+                  "funFact": "Despite their delicate appearance, Actinothoe anemones can live for many years and will clone themselves through division, creating genetically identical colonies that can cover substantial areas of rocky seafloor."
+                }
+              ],
+              "slug": "sagartiidae",
+              "description": "Sagartiidae is a family of sea anemones that are typically found in shallow marine waters. These soft-bodied animals anchor themselves to rocks, shells, or other hard surfaces and use their ring of tentacles to capture small prey like fish and plankton.",
+              "distinguishingFeatures": "Members of this family are characterized by having a smooth column (body) without specialized structures like tubercles or verrucae that are found in many other sea anemone families. They also typically have acontia - long, thin defensive threads that can be shot out when threatened.",
+              "funFact": "Some Sagartiidae sea anemones can live for over 100 years, making them among the longest-lived animals in New England's coastal waters."
+            }
+          ],
+          "slug": "sea-anemones",
+          "description": "Sea anemones are soft-bodied marine animals that look like underwater flowers, with a cylindrical body topped by a crown of stinging tentacles surrounding a central mouth. These cnidarians attach themselves to rocks, pilings, or sandy bottoms in tidal pools and deeper waters throughout New England's coast. They use their tentacles to capture small fish, crabs, and other prey that drift within reach.",
+          "distinguishingFeatures": "Unlike their coral relatives, sea anemones are solitary animals that can move around and don't build hard skeletons. They're distinguished from jellyfish by their ability to attach to surfaces and their more robust, column-like body structure.",
+          "funFact": "Some New England sea anemones can live for over 100 years and will actually clone themselves by splitting in half when conditions are right, creating identical twin anemones."
+        },
+        {
+          "id": 1435134,
+          "name": "Malacalcyonacea",
+          "commonName": "Malacalcyonacea",
+          "rank": "order",
+          "speciesCount": 2,
+          "children": [
+            {
+              "id": 155097,
+              "name": "Alcyoniidae",
+              "commonName": "Alcyoniidae",
+              "rank": "family",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 459961,
+                  "name": "Gersemia",
+                  "commonName": "Gersemia",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 459960,
+                      "name": "Gersemia rubiformis",
+                      "commonName": "Sea Strawberry",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 459960,
+                          "name": "Gersemia rubiformis",
+                          "commonName": "Sea Strawberry",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "sea-strawberry",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/95067520/medium.jpg"
+                        }
+                      ],
+                      "slug": "sea-strawberry",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/95067520/medium.jpg"
+                    }
+                  ],
+                  "slug": "gersemia",
+                  "description": "Gersemia is a genus of soft corals that create colorful, fleshy colonies on the ocean floor. These marine animals are filter feeders that extend tiny polyps to capture plankton and organic particles from the water. They form branching, rubbery structures that can look remarkably like underwater plants or even strawberries.",
+                  "distinguishingFeatures": "Unlike hard corals that build calcium carbonate skeletons, Gersemia species have soft, flexible bodies supported by tiny spicules (needle-like structures) embedded in their tissues. Their colonies have a distinctive lobed, berry-like appearance that sets them apart from other soft coral genera.",
+                  "funFact": "The Sea Strawberry gets its common name from its bright red color and bumpy, berry-like appearance, making it one of the most recognizable soft corals in cold North Atlantic waters."
+                },
+                {
+                  "id": 338004,
+                  "name": "Alcyonium",
+                  "commonName": "Alcyonium",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 1179428,
+                      "name": "Alcyonium siderium",
+                      "commonName": "Alcyonium siderium",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 1179428,
+                          "name": "Alcyonium siderium",
+                          "commonName": "Alcyonium siderium",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "alcyonium-siderium",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8514123/medium.jpg"
+                        }
+                      ],
+                      "slug": "alcyonium-siderium",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8514123/medium.jpg"
+                    }
+                  ],
+                  "slug": "alcyonium",
+                  "description": "Alcyonium is a genus of soft corals that form fleshy, finger-like or lobed colonies on the seafloor. These marine animals are made up of thousands of tiny polyps that can extend their tentacles to capture plankton and small particles from the water. Unlike hard corals, they have a soft, rubbery texture and contain small calcium carbonate spicules within their tissues for support.",
+                  "distinguishingFeatures": "Alcyonium soft corals are distinguished from other coral groups by their lack of a hard skeleton and their characteristic fleshy, often brightly colored colonies that can contract when disturbed. They have eight-tentacled polyps, unlike hard corals which typically have six or multiples of six tentacles.",
+                  "funFact": "Alcyonium colonies can dramatically change their appearance by retracting all their polyps when threatened, shrinking from a colorful, tree-like structure to what looks like a lifeless blob in seconds."
+                }
+              ],
+              "slug": "alcyoniidae",
+              "description": "Alcyoniidae, commonly known as soft corals, are marine animals that form flexible, tree-like colonies on the ocean floor. Unlike their hard coral relatives, these creatures have a soft, fleshy body supported by tiny calcium carbonate spicules rather than a solid skeleton. Each colony is made up of hundreds of small polyps that extend their tentacles to capture plankton and other small particles from the water.",
+              "distinguishingFeatures": "Soft corals lack the hard, limestone skeleton that defines true corals, instead having a flexible structure that can sway with ocean currents. Their colonies often have a finger-like or branching appearance and can retract their polyps completely when disturbed.",
+              "funFact": "Some soft corals can actually \"walk\" across the seafloor by inflating and deflating parts of their body, allowing them to relocate to better feeding spots or escape unfavorable conditions."
+            }
+          ],
+          "slug": "malacalcyonacea",
+          "description": "Malacalcyonacea is an order of soft corals that create beautiful, flexible colonies in marine environments. These colonial animals are made up of many tiny polyps that work together, each contributing to the colony's survival by capturing food and sharing nutrients.",
+          "distinguishingFeatures": "Unlike hard corals that build rigid calcium carbonate skeletons, members of this group have soft, fleshy bodies supported by small calcium carbonate spicules embedded in their tissues. This gives them a leathery or rubbery texture and allows them to sway gracefully with ocean currents.",
+          "funFact": "Some soft corals in this group can rapidly contract their entire colony when threatened, shrinking from a large, tree-like structure to a small, compact mass in just seconds."
+        },
+        {
+          "id": 47532,
+          "name": "Scleractinia",
+          "commonName": "Stony Corals",
+          "rank": "order",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 1383615,
+              "name": "Astrangiidae",
+              "commonName": "Astrangiidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 86696,
+                  "name": "Astrangia",
+                  "commonName": "Astrangia",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 94745,
+                      "name": "Astrangia poculata",
+                      "commonName": "Northern Star Coral",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 94745,
+                          "name": "Astrangia poculata",
+                          "commonName": "Northern Star Coral",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "northern-star-coral",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1281662/medium.jpg"
+                        }
+                      ],
+                      "slug": "northern-star-coral",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1281662/medium.jpg"
+                    }
+                  ],
+                  "slug": "astrangia",
+                  "description": "Astrangia is a genus of small, colonial hard corals that build limestone skeletons. These corals form small, cup-shaped structures called polyps that cluster together on rocky surfaces in shallow coastal waters. Unlike tropical reef corals, Astrangia species can survive in the cooler waters of temperate regions.",
+                  "distinguishingFeatures": "Astrangia corals are distinguished by their small, white to translucent polyps that are typically less than 5mm across and their ability to thrive in temperate waters where most other hard corals cannot survive.",
+                  "funFact": "Northern Star Coral is the only hard coral native to New England waters and can be found as far north as Cape Cod, making it one of the northernmost hard corals in the western Atlantic."
+                }
+              ],
+              "slug": "astrangiidae",
+              "description": "Astrangiidae is a family of small, hard corals that form branching or encrusting colonies on rocks and other hard surfaces. These colonial cnidarians build calcium carbonate skeletons and have tiny polyps with tentacles that capture plankton and small particles from the water. Unlike their tropical relatives, members of this family can tolerate cooler waters and are found in temperate regions.",
+              "distinguishingFeatures": "Astrangiidae corals are distinguished from other hard coral families by their ability to thrive in temperate waters and their relatively simple, small polyp structure. They lack the symbiotic algae (zooxanthellae) that many tropical corals depend on, instead relying entirely on capturing food from the water.",
+              "funFact": "The northern star coral (Astrangia poculata) is the only hard coral native to New England waters and can survive freezing winter temperatures by going dormant when the water gets too cold."
+            }
+          ],
+          "slug": "stony-corals",
+          "description": "Stony corals are marine animals that build hard calcium carbonate skeletons, creating the reef structures we're familiar with in tropical waters. These colonial creatures are made up of tiny individual polyps that capture food with their tentacles and often have symbiotic algae living in their tissues. While most stony corals live in warm tropical seas, a few hardy species can survive in the cooler waters of New England.",
+          "distinguishingFeatures": "Unlike soft corals, stony corals secrete hard limestone skeletons that persist after the animal dies, forming the foundation of coral reefs. They have a cup-shaped skeletal structure called a corallite that houses each individual polyp.",
+          "funFact": "New England's single stony coral species, the Northern Star Coral, can survive water temperatures that would kill most tropical corals, making it one of the northernmost reef-building corals in the Atlantic."
+        },
+        {
+          "id": 551470,
+          "name": "Spirularia",
+          "commonName": "Spirularia",
+          "rank": "order",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 47704,
+              "name": "Cerianthidae",
+              "commonName": "Cerianthidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 47703,
+                  "name": "Pachycerianthus",
+                  "commonName": "Pachycerianthus",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 460113,
+                      "name": "Pachycerianthus borealis",
+                      "commonName": "Northern Cerianthid",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 460113,
+                          "name": "Pachycerianthus borealis",
+                          "commonName": "Northern Cerianthid",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "northern-cerianthid",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/89037652/medium.jpg"
+                        }
+                      ],
+                      "slug": "northern-cerianthid",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/89037652/medium.jpg"
+                    }
+                  ],
+                  "slug": "pachycerianthus",
+                  "description": "Pachycerianthus is a genus of tube anemones, marine animals that live buried in soft sediments with only their flower-like crowns of tentacles visible above the surface. These creatures build protective tubes from mucus and sediment particles that can extend deep into the seafloor. They are solitary animals that capture small prey like plankton and organic matter with their stinging tentacles.",
+                  "distinguishingFeatures": "Unlike typical sea anemones that attach to hard surfaces, Pachycerianthus species live completely buried in sand or mud within self-constructed tubes. They have two distinct rings of tentacles - longer outer ones for catching prey and shorter inner ones around the mouth.",
+                  "funFact": "These tube anemones can retract completely into their buried tubes when threatened, disappearing from view in seconds, and their tubes can extend over a foot deep into the sediment."
+                }
+              ],
+              "slug": "cerianthidae",
+              "description": "Cerianthidae, commonly known as tube anemones, are solitary marine animals that live in long, flexible tubes they construct in sandy or muddy sea floors. Unlike typical sea anemones, these creatures have elongated, worm-like bodies that can extend deep into the sediment while their beautiful, flower-like tentacle crowns emerge at the surface to capture food.",
+              "distinguishingFeatures": "Tube anemones differ from regular sea anemones by their ability to build and live in protective tubes made of mucus and sediment particles, and their two distinct rings of tentacles - short ones around the mouth and long, graceful outer tentacles for feeding.",
+              "funFact": "When threatened, tube anemones can instantly retract their entire body deep into their burrow, disappearing completely into the seafloor in less than a second."
+            }
+          ],
+          "slug": "spirularia",
+          "description": "Spirularia is an order of tube anemones that create long, flexible tubes in sandy or muddy sea floors. These fascinating cnidarians have elongated bodies that can extend and retract into their protective tubes, with tentacles that emerge to capture small prey drifting by in the water column.",
+          "distinguishingFeatures": "Unlike typical sea anemones that attach to hard surfaces, tube anemones burrow into soft sediments and secrete mucus-lined tubes that can be several times longer than their bodies.",
+          "funFact": "Some tube anemones can live for over 100 years and their tubes can extend more than 3 feet deep into the seafloor sediment."
+        }
+      ],
+      "slug": "sea-anemones-and-corals"
+    },
+    {
+      "id": 48332,
+      "name": "Scyphozoa",
+      "commonName": "True Jellies",
+      "rank": "class",
+      "speciesCount": 11,
+      "children": [
+        {
+          "id": 48331,
+          "name": "Semaeostomeae",
+          "commonName": "Flag-mouth Jellies",
+          "rank": "order",
+          "speciesCount": 10,
+          "children": [
+            {
+              "id": 154710,
+              "name": "Cyaneidae",
+              "commonName": "Cyaneid Jellies",
+              "rank": "family",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 154711,
+                  "name": "Cyanea",
+                  "commonName": "Lion's Mane Jellies",
+                  "rank": "genus",
+                  "speciesCount": 3,
+                  "children": [
+                    {
+                      "id": 1064817,
+                      "name": "Cyanea fulva",
+                      "commonName": "Atlantic Lion's Mane Jelly",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 1064817,
+                          "name": "Cyanea fulva",
+                          "commonName": "Atlantic Lion's Mane Jelly",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "atlantic-lion-s-mane-jelly",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/64222306/medium.jpg"
+                        }
+                      ],
+                      "slug": "atlantic-lion-s-mane-jelly",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/64222306/medium.jpg"
+                    },
+                    {
+                      "id": 1064820,
+                      "name": "Cyanea versicolor",
+                      "commonName": "Dwarf Lion's Mane Jelly",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 1064820,
+                          "name": "Cyanea versicolor",
+                          "commonName": "Dwarf Lion's Mane Jelly",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "dwarf-lion-s-mane-jelly",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/65833123/medium.jpg"
+                        }
+                      ],
+                      "slug": "dwarf-lion-s-mane-jelly",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/65833123/medium.jpg"
+                    },
+                    {
+                      "id": 69838,
+                      "name": "Cyanea capillata",
+                      "commonName": "Lion's Mane Jelly",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 69838,
+                          "name": "Cyanea capillata",
+                          "commonName": "Lion's Mane Jelly",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "lion-s-mane-jelly",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/112465681/medium.jpeg"
+                        }
+                      ],
+                      "slug": "lion-s-mane-jelly",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/112465681/medium.jpeg"
+                    }
+                  ],
+                  "slug": "lion-s-mane-jellies",
+                  "description": "Lion's Mane Jellies are large, bell-shaped jellyfish with flowing, hair-like tentacles that cascade down like a lion's mane. These impressive marine animals are among the largest jellyfish found in New England waters, with some species capable of growing several feet across. They drift through the ocean using gentle pulsing movements of their bell-shaped bodies.",
+                  "distinguishingFeatures": "Lion's Mane Jellies are distinguished from other jellyfish by their distinctive long, flowing tentacles that hang in clusters like tangled hair, and their typically reddish-brown to yellowish coloration.",
+                  "funFact": "The Lion's Mane Jelly (Cyanea capillata) is considered one of the largest known jellyfish species in the world, with some Arctic specimens reaching bell diameters of over 6 feet and tentacles stretching longer than a blue whale!"
+                }
+              ],
+              "slug": "cyaneid-jellies",
+              "description": "Cyaneid jellies are large, impressive jellyfish known for their flowing, hair-like tentacles that cascade from their bell-shaped bodies like a flowing mane. These jellies are among the largest jellyfish species in the world and are commonly found in cooler northern waters. They are active swimmers that pulse their bells to move through the water column in search of prey.",
+              "distinguishingFeatures": "Cyaneid jellies are distinguished by their extremely long, fine tentacles that can extend many feet from their bell, along with their typically large size compared to other jellyfish families. Their bells are usually flattened and saucer-shaped with distinctive lobes around the margin.",
+              "funFact": "The Lion's Mane Jelly, a member of this family, can have tentacles stretching over 100 feet long - longer than a blue whale!"
+            },
+            {
+              "id": 48482,
+              "name": "Pelagiidae",
+              "commonName": "Pelagiid Jellies",
+              "rank": "family",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 48483,
+                  "name": "Chrysaora",
+                  "commonName": "Sea Nettles",
+                  "rank": "genus",
+                  "speciesCount": 2,
+                  "children": [
+                    {
+                      "id": 742930,
+                      "name": "Chrysaora chesapeakei",
+                      "commonName": "Bay Nettle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 742930,
+                          "name": "Chrysaora chesapeakei",
+                          "commonName": "Bay Nettle",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "bay-nettle",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2347109/medium.jpg"
+                        }
+                      ],
+                      "slug": "bay-nettle",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2347109/medium.jpg"
+                    },
+                    {
+                      "id": 48478,
+                      "name": "Chrysaora quinquecirrha",
+                      "commonName": "Atlantic Sea Nettle",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 48478,
+                          "name": "Chrysaora quinquecirrha",
+                          "commonName": "Atlantic Sea Nettle",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "atlantic-sea-nettle",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/240874496/medium.jpeg"
+                        }
+                      ],
+                      "slug": "atlantic-sea-nettle",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/240874496/medium.jpeg"
+                    }
+                  ],
+                  "slug": "sea-nettles",
+                  "description": "Sea nettles are large, graceful jellyfish with bell-shaped bodies and long, trailing tentacles that pack a powerful sting. These gelatinous marine animals drift through coastal waters, using their stinging cells to capture small fish and plankton for food. They're among the most commonly encountered jellyfish in New England's bays and estuaries.",
+                  "distinguishingFeatures": "Sea nettles can be identified by their distinctive bell shape with radiating lines and their long, ribbon-like oral arms that hang from the center, along with marginal tentacles around the bell's edge. Unlike many other jellyfish, they have a relatively sturdy, muscular bell that allows for strong swimming movements.",
+                  "funFact": "Bay nettles can actually change their sting intensity based on salinity levels - they're much more potent in saltier water, which is why swimmers often find them less painful in brackish estuaries than in full-strength seawater."
+                },
+                {
+                  "id": 247213,
+                  "name": "Pelagia",
+                  "commonName": "Purple-striped Jellies",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 256089,
+                      "name": "Pelagia noctiluca",
+                      "commonName": "Mauve Stinger",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 256089,
+                          "name": "Pelagia noctiluca",
+                          "commonName": "Mauve Stinger",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "mauve-stinger",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/202114997/medium.jpg"
+                        }
+                      ],
+                      "slug": "mauve-stinger",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/202114997/medium.jpg"
+                    }
+                  ],
+                  "slug": "purple-striped-jellies",
+                  "description": "Purple-striped Jellies are open-ocean jellyfish known for their distinctive purple or pink coloration with radiating stripes. These free-swimming cnidarians have a bell-shaped body and long, trailing tentacles that deliver a powerful sting.",
+                  "distinguishingFeatures": "Unlike many other jellyfish, Purple-striped Jellies are strongly bioluminescent and can produce bright flashes of light when disturbed. Their purple coloration and radial stripe pattern make them easily recognizable among other jellyfish species.",
+                  "funFact": "The Mauve Stinger can produce brilliant blue-green light when agitated, creating spectacular underwater light shows that can be seen even during the day."
+                }
+              ],
+              "slug": "pelagiid-jellies",
+              "description": "Pelagiid jellies are a family of true jellyfish that spend their entire lives swimming freely in the open ocean. These graceful creatures are characterized by their bell-shaped bodies and long, trailing tentacles that they use to capture small fish and plankton. Unlike many other jellyfish, pelagiids skip the stationary polyp stage and develop directly from floating larvae into swimming adults.",
+              "distinguishingFeatures": "Pelagiid jellies are distinguished by their complete absence of a bottom-dwelling polyp stage in their life cycle, developing directly from planula larvae into swimming medusae. They also typically have distinctive radial patterns on their bells and relatively long, flowing tentacles compared to other jellyfish families.",
+              "funFact": "The purple-striped jelly (Pelagia noctiluca) is one of the few jellyfish that can produce bioluminescence, creating beautiful blue-green flashes of light when disturbed in dark water."
+            },
+            {
+              "id": 48330,
+              "name": "Ulmaridae",
+              "commonName": "Ulmarid Jellies",
+              "rank": "family",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 48329,
+                  "name": "Aurelia",
+                  "commonName": "Moon Jellies",
+                  "rank": "genus",
+                  "speciesCount": 3,
+                  "children": [
+                    {
+                      "id": 48328,
+                      "name": "Aurelia aurita",
+                      "commonName": "Common Moon Jelly",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 48328,
+                          "name": "Aurelia aurita",
+                          "commonName": "Common Moon Jelly",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "common-moon-jelly",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/128613708/medium.jpg"
+                        }
+                      ],
+                      "slug": "common-moon-jelly",
+                      "representativePhotoUrl": "https://static.inaturalist.org/photos/128613708/medium.jpg"
+                    },
+                    {
+                      "id": 986245,
+                      "name": "Aurelia marginalis",
+                      "commonName": "Southern Moon Jelly",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 986245,
+                          "name": "Aurelia marginalis",
+                          "commonName": "Southern Moon Jelly",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "southern-moon-jelly",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158017253/medium.jpg"
+                        }
+                      ],
+                      "slug": "southern-moon-jelly",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158017253/medium.jpg"
+                    },
+                    {
+                      "id": 130235,
+                      "name": "Aurelia labiata",
+                      "commonName": "Greater Moon Jelly",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 130235,
+                          "name": "Aurelia labiata",
+                          "commonName": "Greater Moon Jelly",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "greater-moon-jelly",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/170946618/medium.jpg"
+                        }
+                      ],
+                      "slug": "greater-moon-jelly",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/170946618/medium.jpg"
+                    }
+                  ],
+                  "slug": "moon-jellies",
+                  "description": "Moon jellies are translucent, bell-shaped jellyfish that drift through coastal waters with a graceful, pulsing motion. They are among the most recognizable jellyfish, with their characteristic saucer-like bodies and delicate, trailing tentacles that help them capture small prey like plankton and tiny fish.",
+                  "distinguishingFeatures": "Moon jellies can be identified by their four distinctive horseshoe-shaped reproductive organs visible through their transparent bell, along with their relatively mild sting compared to other jellyfish species.",
+                  "funFact": "Moon jellies are about 95% water and have no brain, blood, or heart, yet they've been drifting through Earth's oceans for over 500 million years!"
+                }
+              ],
+              "slug": "ulmarid-jellies",
+              "description": "Ulmarid jellies are a family of true jellyfish that includes some of the most recognizable and common jellies found in New England waters. These graceful creatures are characterized by their bell-shaped, translucent bodies and relatively mild stings that are generally harmless to humans. They are excellent swimmers that pulse through the water column feeding on small plankton and fish.",
+              "distinguishingFeatures": "Ulmarid jellies can be distinguished from other jellyfish families by their four distinct horseshoe-shaped reproductive organs (gonads) that are clearly visible through their transparent bell. They also typically have short, numerous tentacles around the bell margin rather than long trailing tentacles.",
+              "funFact": "Moon jellies, the most famous members of this family, have been used in space research - they were sent to space in 1991 to study how microgravity affects their development, since their simple nervous system is similar to early human neural development."
+            },
+            {
+              "id": 779271,
+              "name": "Phacellophoridae",
+              "commonName": "Egg-yolk Jellies",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 52967,
+                  "name": "Phacellophora",
+                  "commonName": "Phacellophora",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 52966,
+                      "name": "Phacellophora camtschatica",
+                      "commonName": "Egg-yolk Jelly",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 52966,
+                          "name": "Phacellophora camtschatica",
+                          "commonName": "Egg-yolk Jelly",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "egg-yolk-jelly",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9081729/medium.jpg"
+                        }
+                      ],
+                      "slug": "egg-yolk-jelly",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9081729/medium.jpg"
+                    }
+                  ],
+                  "slug": "phacellophora",
+                  "description": "Phacellophora is a genus of large jellyfish known for their distinctive yellow-orange coloration and impressive size. These jellies are among the largest found in New England waters and are characterized by their bell-shaped body and long, trailing tentacles that can extend many feet below the bell.",
+                  "distinguishingFeatures": "What sets Phacellophora apart from other jellyfish is their bright egg-yolk yellow color and their exceptionally long tentacles, which can reach lengths of up to 20 feet or more.",
+                  "funFact": "The Egg-yolk Jelly can have a bell diameter of up to 2 feet across, making it one of the largest jellyfish species you might encounter while exploring New England's coastal waters."
+                }
+              ],
+              "slug": "egg-yolk-jellies",
+              "description": "Egg-yolk jellies are large, spectacular jellyfish named for their distinctive golden-yellow coloration that resembles a fried egg floating in the water. These jellies have a flattened, saucer-like bell with numerous long, trailing tentacles that can extend many feet below their body. They are graceful swimmers found in cooler ocean waters.",
+              "distinguishingFeatures": "Unlike most other jellyfish, egg-yolk jellies have a distinctly flattened bell shape rather than a dome, and their bright yellow-orange coloration makes them unmistakable in the water.",
+              "funFact": "The fried egg jellyfish can have tentacles that stretch up to 20 feet long, making them appear much larger than their bell size would suggest!"
+            }
+          ],
+          "slug": "flag-mouth-jellies",
+          "description": "Flag-mouth Jellies are true jellyfish with four distinct oral arms that hang down from their bell like ribbons or flags. These graceful swimmers have a classic jellyfish shape with a dome-like bell and long, flowing tentacles around the edges, plus those characteristic mouth arms used for capturing and eating prey.",
+          "distinguishingFeatures": "Unlike other jellyfish orders, Flag-mouth Jellies have exactly four prominent oral arms extending from their mouth, which gives them their distinctive flaglike appearance when swimming.",
+          "funFact": "The largest jellyfish in the world belongs to this group - the Lion's Mane Jellyfish can have a bell diameter larger than a blue whale and tentacles longer than a football field!"
+        },
+        {
+          "id": 69831,
+          "name": "Rhizostomeae",
+          "commonName": "Root-mouth Jellies",
+          "rank": "order",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 126394,
+              "name": "Stomolophidae",
+              "commonName": "Cannonball Jellies",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 126395,
+                  "name": "Stomolophus",
+                  "commonName": "Cannonball Jellies",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 126393,
+                      "name": "Stomolophus meleagris",
+                      "commonName": "Cannonball Jelly",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 126393,
+                          "name": "Stomolophus meleagris",
+                          "commonName": "Cannonball Jelly",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "cannonball-jelly",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32222453/medium.jpg"
+                        }
+                      ],
+                      "slug": "cannonball-jelly",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32222453/medium.jpg"
+                    }
+                  ],
+                  "slug": "cannonball-jellies",
+                  "description": "Cannonball Jellies are robust, dome-shaped jellyfish with thick, sturdy bells that resemble cannonballs when viewed from above. These jellies are characterized by their distinctive feeding appendages called oral arms that hang beneath their bell, giving them a frilly appearance. They are strong swimmers that can actively propel themselves through the water rather than simply drifting with currents.",
+                  "distinguishingFeatures": "Unlike many other jellyfish, Cannonball Jellies lack long trailing tentacles and instead have short, thick oral arms with feeding grooves. Their bells are notably firm and muscular compared to the more gelatinous consistency of most other jellyfish.",
+                  "funFact": "Cannonball Jellies are considered a delicacy in some Asian cuisines and are commercially harvested, with their firm texture making them one of the few jellyfish species regularly eaten by humans."
+                }
+              ],
+              "slug": "cannonball-jellies",
+              "description": "Cannonball Jellies are robust, dome-shaped jellyfish with thick, sturdy bells that lack the long, trailing tentacles found in many other jellyfish. Instead, they have short, clustered oral arms around their mouth that help them capture small prey like plankton and fish eggs. These jellies are strong swimmers and are often found in coastal waters.",
+              "distinguishingFeatures": "Unlike most jellyfish, Cannonball Jellies have very short or no marginal tentacles hanging from their bell, and their thick, muscular bell gives them a distinctive cannonball-like appearance.",
+              "funFact": "Despite their intimidating size, Cannonball Jellies have a relatively mild sting that's generally harmless to humans, making them one of the safer jellyfish to encounter while swimming."
+            }
+          ],
+          "slug": "root-mouth-jellies",
+          "description": "Root-mouth jellies are fascinating jellyfish that have evolved a unique feeding system where their mouth has been replaced by many small openings along branching, root-like arms. These jellyfish capture tiny plankton and other small prey using these specialized feeding arms that hang down from their bell like underwater roots. They are among the more advanced jellyfish, having developed this complex feeding structure over millions of years of evolution.",
+          "distinguishingFeatures": "Unlike typical jellyfish with a single central mouth, root-mouth jellies have completely lost their central mouth opening and instead feed through numerous tiny pores scattered along their thick, branching oral arms.",
+          "funFact": "The branching feeding arms of root-mouth jellies contain millions of tiny mouths that work together like a living filtration system, allowing them to process enormous volumes of water to extract microscopic food particles."
+        }
+      ],
+      "slug": "true-jellies"
+    },
+    {
+      "id": 51018,
+      "name": "Staurozoa",
+      "commonName": "Stalked Jellies",
+      "rank": "class",
+      "speciesCount": 1,
+      "children": [
+        {
+          "id": 51019,
+          "name": "Stauromedusae",
+          "commonName": "Stauromedusae",
+          "rank": "order",
+          "speciesCount": 1,
+          "children": [
+            {
+              "id": 52186,
+              "name": "Lucernariidae",
+              "commonName": "Lucernariidae",
+              "rank": "family",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 559262,
+                  "name": "Lucernaria",
+                  "commonName": "Lucernaria",
+                  "rank": "genus",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 559261,
+                      "name": "Lucernaria quadricornis",
+                      "commonName": "Horned Stalked Jellyfish",
+                      "rank": "species",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 559261,
+                          "name": "Lucernaria quadricornis",
+                          "commonName": "Horned Stalked Jellyfish",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [],
+                          "slug": "horned-stalked-jellyfish",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/378946274/medium.jpg"
+                        }
+                      ],
+                      "slug": "horned-stalked-jellyfish",
+                      "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/378946274/medium.jpg"
+                    }
+                  ],
+                  "slug": "lucernaria",
+                  "description": "Lucernaria is a genus of unique marine animals known as stalked jellyfish that look more like sea anemones than typical jellyfish. These fascinating creatures attach themselves to seaweed, rocks, or other surfaces in shallow coastal waters using a muscular stalk. Unlike free-swimming jellyfish, they remain anchored in one spot and capture small prey with their ring of tentacles.",
+                  "distinguishingFeatures": "Lucernaria species are distinguished by their goblet or trumpet-shaped body mounted on a flexible stalk, with clusters of tentacles arranged around the rim of their bell-like top.",
+                  "funFact": "Despite being called jellyfish, Lucernaria can actually crawl along surfaces by bending their stalk and using their tentacles like tiny legs to move to new locations."
+                }
+              ],
+              "slug": "lucernariidae",
+              "description": "Lucernariidae is a family of unusual marine animals called stalked jellies that look more like sea anemones than typical jellyfish. These fascinating creatures attach themselves to seaweed, rocks, or other surfaces in shallow coastal waters using a stalk-like base, rather than swimming freely like most jellyfish.",
+              "distinguishingFeatures": "Unlike free-swimming jellyfish, members of this family are sessile (attached to surfaces) and have a distinctive trumpet or goblet shape with eight clusters of tentacles around the rim.",
+              "funFact": "Stalked jellies can actually crawl along surfaces by detaching their base and using a somersaulting motion to relocate to a better spot!"
+            }
+          ],
+          "slug": "stauromedusae",
+          "description": "Stauromedusae are unique jellyfish that have given up the free-swimming lifestyle to become attached to surfaces like rocks and seaweed. Unlike typical jellyfish that drift through the water, these creatures look more like small stalked flowers or trumpets anchored to the seafloor. They are commonly called stalked jellies or upside-down jellies because of their distinctive shape and lifestyle.",
+          "distinguishingFeatures": "Unlike other jellyfish, stauromedusae are sessile (attached to surfaces) and have a trumpet-shaped body with adhesive anchors at the base. They lack the typical bell-shaped, free-swimming form of most jellyfish and instead have eight clusters of short tentacles arranged around their upward-facing mouth.",
+          "funFact": "These stalked jellies can actually walk along the seafloor by detaching from one spot and using a somersaulting motion to relocate to a better feeding position."
+        }
+      ],
+      "slug": "stalked-jellies"
+    }
+  ]
+}

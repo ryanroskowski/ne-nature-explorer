@@ -1,0 +1,3544 @@
+{
+  "timestamp": "2026-03-01T13:20:46.957Z",
+  "wetlandCheck": {
+    "matched": 1784,
+    "correct": 1672,
+    "missingWetland": 105,
+    "falseWetland": 7,
+    "issues": [
+      {
+        "taxonId": 47588,
+        "scientificName": "Cypripedium acaule",
+        "commonName": "pink lady's slipper",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 126251,
+        "scientificName": "Coptis trifolia",
+        "commonName": "threeleaf goldthread",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 55969,
+        "scientificName": "Viburnum opulus",
+        "commonName": "guelder-rose",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "garden",
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 120579,
+        "scientificName": "Gentiana clausa",
+        "commonName": "bottle gentian",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "meadow",
+          "alpine"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 132855,
+        "scientificName": "Rubus pubescens",
+        "commonName": "dwarf raspberry",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 131000,
+        "scientificName": "Dichanthelium clandestinum",
+        "commonName": "deertongue",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "meadow",
+          "roadside",
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 81802,
+        "scientificName": "Ranunculus recurvatus",
+        "commonName": "Hooked buttercup",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 52741,
+        "scientificName": "Vaccinium myrtilloides",
+        "commonName": "velvetleaf blueberry",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "roadside",
+          "alpine"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 163273,
+        "scientificName": "Geum peckii",
+        "commonName": "Eastern Mountain Avens",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "alpine"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 76606,
+        "scientificName": "Dasiphora fruticosa",
+        "commonName": "shrubby cinquefoil",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "alpine",
+          "meadow",
+          "roadside",
+          "garden"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 167817,
+        "scientificName": "Rhododendron lapponicum",
+        "commonName": "Lapland Azalea",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "alpine"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 82559,
+        "scientificName": "Cystopteris bulbifera",
+        "commonName": "bulblet fern",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 62352,
+        "scientificName": "Lobelia dortmanna",
+        "commonName": "Water Lobelia",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 125386,
+        "scientificName": "Asclepias exaltata",
+        "commonName": "poke milkweed",
+        "nwplIndicator": "UPL",
+        "ourHabitats": [
+          "forest",
+          "wetland"
+        ],
+        "hasWetland": true,
+        "issue": "NWPL says UPL (upland) but we incorrectly tag it as wetland"
+      },
+      {
+        "taxonId": 158068,
+        "scientificName": "Agalinis purpurea",
+        "commonName": "purple false foxglove",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "meadow",
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 144149,
+        "scientificName": "Mitella nuda",
+        "commonName": "naked bishop's cap",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 120007,
+        "scientificName": "Agalinis tenuifolia",
+        "commonName": "slender false foxglove",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "meadow",
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 50709,
+        "scientificName": "Corallorhiza trifida",
+        "commonName": "northern coralroot",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 127684,
+        "scientificName": "Viola blanda",
+        "commonName": "sweet white violet",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 142654,
+        "scientificName": "Rudbeckia fulgida",
+        "commonName": "orange coneflower",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "meadow",
+          "forest",
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 169483,
+        "scientificName": "Symphyotrichum racemosum",
+        "commonName": "Small White Aster",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "meadow",
+          "roadside",
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 130991,
+        "scientificName": "Tradescantia virginiana",
+        "commonName": "Virginia spiderwort",
+        "nwplIndicator": "UPL",
+        "ourHabitats": [
+          "forest",
+          "meadow",
+          "wetland",
+          "roadside",
+          "garden"
+        ],
+        "hasWetland": true,
+        "issue": "NWPL says UPL (upland) but we incorrectly tag it as wetland"
+      },
+      {
+        "taxonId": 164664,
+        "scientificName": "Leucothoe fontanesiana",
+        "commonName": "mountain doghobble",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "garden"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 143508,
+        "scientificName": "Lonicera villosa",
+        "commonName": "mountain fly-honeysuckle",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "alpine"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 78705,
+        "scientificName": "Potamogeton amplifolius",
+        "commonName": "Broad-leaved Pondweed",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 62254,
+        "scientificName": "Spiranthes lucida",
+        "commonName": "Shining Ladies' Tresses",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 593040,
+        "scientificName": "Reynoutria sachalinensis",
+        "commonName": "Giant Knotweed",
+        "nwplIndicator": "UPL",
+        "ourHabitats": [
+          "wetland",
+          "roadside",
+          "meadow"
+        ],
+        "hasWetland": true,
+        "issue": "NWPL says UPL (upland) but we incorrectly tag it as wetland"
+      },
+      {
+        "taxonId": 77393,
+        "scientificName": "Heteranthera dubia",
+        "commonName": "water star-grass",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 163272,
+        "scientificName": "Geum laciniatum",
+        "commonName": "rough avens",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "meadow",
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 162797,
+        "scientificName": "Eupatorium pilosum",
+        "commonName": "rough boneset",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "meadow",
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 167328,
+        "scientificName": "Potamogeton perfoliatus",
+        "commonName": "Perfoliate Pondweed",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 128879,
+        "scientificName": "Saxifraga rivularis",
+        "commonName": "Highland Saxifrage",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "alpine"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 78338,
+        "scientificName": "Panicum dichotomiflorum",
+        "commonName": "Smooth Witchgrass",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "roadside",
+          "meadow",
+          "garden"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 61340,
+        "scientificName": "Cirsium discolor",
+        "commonName": "field thistle",
+        "nwplIndicator": "UPL",
+        "ourHabitats": [
+          "forest",
+          "meadow",
+          "roadside",
+          "wetland"
+        ],
+        "hasWetland": true,
+        "issue": "NWPL says UPL (upland) but we incorrectly tag it as wetland"
+      },
+      {
+        "taxonId": 126873,
+        "scientificName": "Elymus virginicus",
+        "commonName": "Virginia wildrye",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "meadow",
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 165350,
+        "scientificName": "Mertensia maritima",
+        "commonName": "Oysterplant",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "coastal"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 52998,
+        "scientificName": "Conium maculatum",
+        "commonName": "poison hemlock",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "roadside",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 77468,
+        "scientificName": "Hydrilla verticillata",
+        "commonName": "Hydrilla",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 204331,
+        "scientificName": "Iris hookeri",
+        "commonName": "beach-head iris",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "coastal"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 154473,
+        "scientificName": "Pycnanthemum virginianum",
+        "commonName": "Virginia mountain mint",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "meadow",
+          "roadside",
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 79499,
+        "scientificName": "Viburnum edule",
+        "commonName": "squashberry",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 127504,
+        "scientificName": "Carex bromoides",
+        "commonName": "brome-like sedge",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 126376,
+        "scientificName": "Mazus pumilus",
+        "commonName": "Asian mazus",
+        "nwplIndicator": "UPL",
+        "ourHabitats": [
+          "wetland",
+          "meadow",
+          "roadside",
+          "garden"
+        ],
+        "hasWetland": true,
+        "issue": "NWPL says UPL (upland) but we incorrectly tag it as wetland"
+      },
+      {
+        "taxonId": 460736,
+        "scientificName": "Coleataenia rigidula",
+        "commonName": "redtop panicgrass",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "meadow",
+          "roadside",
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 136606,
+        "scientificName": "Carex baileyi",
+        "commonName": "Bailey's Sedge",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "forest",
+          "meadow",
+          "alpine"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 126799,
+        "scientificName": "Viola striata",
+        "commonName": "cream violet",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 130545,
+        "scientificName": "Bistorta vivipara",
+        "commonName": "alpine bistort",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "alpine",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 204346,
+        "scientificName": "Linum striatum",
+        "commonName": "Ridged Yellow Flax",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "meadow",
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 78717,
+        "scientificName": "Potamogeton zosteriformis",
+        "commonName": "eel-grass pondweed",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 204316,
+        "scientificName": "Eupatorium novae-angliae",
+        "commonName": "New England Boneset",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "coastal",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 76758,
+        "scientificName": "Echinochloa muricata",
+        "commonName": "rough barnyard grass",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "roadside",
+          "meadow",
+          "garden"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 76832,
+        "scientificName": "Epilobium hornemannii",
+        "commonName": "Hornemann's Willowherb",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "alpine"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 141169,
+        "scientificName": "Carex conoidea",
+        "commonName": "open-field sedge",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "meadow",
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 75314,
+        "scientificName": "Agrostis gigantea",
+        "commonName": "redtop",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "roadside",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 165632,
+        "scientificName": "Najas minor",
+        "commonName": "Brittle Naiad",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 67591,
+        "scientificName": "Oxyria digyna",
+        "commonName": "alpine sorrel",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "alpine",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 131229,
+        "scientificName": "Neottia convallarioides",
+        "commonName": "Broad-lipped Twayblade",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 166240,
+        "scientificName": "Pedicularis furbishiae",
+        "commonName": "Furbish's Lousewort",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "coastal"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 78713,
+        "scientificName": "Potamogeton praelongus",
+        "commonName": "white-stemmed pondweed",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 78589,
+        "scientificName": "Pistia stratiotes",
+        "commonName": "Water Lettuce",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic",
+          "garden"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 51704,
+        "scientificName": "Polemonium caeruleum",
+        "commonName": "Blue Jacob's Ladder",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "garden",
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 121270,
+        "scientificName": "Carex laxiflora",
+        "commonName": "loose-flowered sedge",
+        "nwplIndicator": "UPL",
+        "ourHabitats": [
+          "forest",
+          "wetland"
+        ],
+        "hasWetland": true,
+        "issue": "NWPL says UPL (upland) but we incorrectly tag it as wetland"
+      },
+      {
+        "taxonId": 162489,
+        "scientificName": "Erigeron hyssopifolius",
+        "commonName": "Hyssop-leaved Fleabane",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "meadow",
+          "alpine"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 78540,
+        "scientificName": "Phleum alpinum",
+        "commonName": "Alpine Timothy",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "alpine",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 75899,
+        "scientificName": "Bromus ciliatus",
+        "commonName": "Fringed Brome",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 144152,
+        "scientificName": "Saxifraga aizoides",
+        "commonName": "Yellow Saxifrage",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "alpine"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 170253,
+        "scientificName": "Viola novae-angliae",
+        "commonName": "New England Violet",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 165601,
+        "scientificName": "Myriophyllum alterniflorum",
+        "commonName": "Alternate Water-milfoil",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 167115,
+        "scientificName": "Podostemum ceratophyllum",
+        "commonName": "Threadfoot",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 635327,
+        "scientificName": "Hypericum densiflorum",
+        "commonName": "bushy St. John's Wort",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "roadside",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 60175,
+        "scientificName": "Atriplex patula",
+        "commonName": "Common Orache",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "roadside",
+          "coastal",
+          "garden"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 78160,
+        "scientificName": "Najas flexilis",
+        "commonName": "slender water-nymph",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 167821,
+        "scientificName": "Rhododendron vaseyi",
+        "commonName": "pinkshell azalea",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "garden"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 75999,
+        "scientificName": "Cardamine bellidifolia",
+        "commonName": "alpine bittercress",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "alpine"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 77513,
+        "scientificName": "Isoetes echinospora",
+        "commonName": "spiny-spored quillwort",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 78704,
+        "scientificName": "Potamogeton alpinus",
+        "commonName": "Northern Pondweed",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 79192,
+        "scientificName": "Stachys pilosa",
+        "commonName": "prairie woundwort",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "roadside",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 160829,
+        "scientificName": "Conioselinum chinense",
+        "commonName": "hemlock-parsley",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "meadow",
+          "alpine"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 168165,
+        "scientificName": "Rubus setosus",
+        "commonName": "Bristly Blackberry",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "roadside",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 68185,
+        "scientificName": "Impatiens walleriana",
+        "commonName": "Busy Lizzie",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "garden"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 79527,
+        "scientificName": "Wolffia brasiliensis",
+        "commonName": "Brazilian watermeal",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 161803,
+        "scientificName": "Dichanthelium scoparium",
+        "commonName": "Velvet Panicum",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "meadow",
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 204273,
+        "scientificName": "Coleataenia longifolia",
+        "commonName": "Long-leaved Redtop-Panicgrass",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "meadow",
+          "roadside",
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 58798,
+        "scientificName": "Artemisia biennis",
+        "commonName": "biennial wormwood",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "roadside",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 160073,
+        "scientificName": "Carex prairea",
+        "commonName": "prairie sedge",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 127045,
+        "scientificName": "Scutellaria integrifolia",
+        "commonName": "Helmet skullcap",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "roadside",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 159464,
+        "scientificName": "Bromus latiglumis",
+        "commonName": "broad-glumed brome",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 165581,
+        "scientificName": "Muhlenbergia uniflora",
+        "commonName": "fall dropseed muhly",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 168246,
+        "scientificName": "Rumex pallidus",
+        "commonName": "Seabeach Dock",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "coastal"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 62255,
+        "scientificName": "Neottia auriculata",
+        "commonName": "Auricled Twayblade",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 78908,
+        "scientificName": "Rumex persicarioides",
+        "commonName": "pacific golden dock",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 118757,
+        "scientificName": "Potamogeton hillii",
+        "commonName": "Hill's pondweed",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 159305,
+        "scientificName": "Boltonia asteroides",
+        "commonName": "false aster",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "garden",
+          "roadside",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 169725,
+        "scientificName": "Thinopyrum pycnanthum",
+        "commonName": "Tick Quackgrass",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "coastal",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 60255,
+        "scientificName": "Carex praegracilis",
+        "commonName": "field sedge",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "meadow",
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 78711,
+        "scientificName": "Potamogeton illinoensis",
+        "commonName": "shining pondweed",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 145588,
+        "scientificName": "Coix lacryma-jobi",
+        "commonName": "Job's Tears",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "garden"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 160087,
+        "scientificName": "Carex richardsonii",
+        "commonName": "Richardson's Sedge",
+        "nwplIndicator": "UPL",
+        "ourHabitats": [
+          "wetland",
+          "meadow"
+        ],
+        "hasWetland": true,
+        "issue": "NWPL says UPL (upland) but we incorrectly tag it as wetland"
+      },
+      {
+        "taxonId": 160096,
+        "scientificName": "Carex saxatilis",
+        "commonName": "russet sedge",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "alpine",
+          "coastal",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 165554,
+        "scientificName": "Muhlenbergia frondosa",
+        "commonName": "Wirestem Muhly",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 167334,
+        "scientificName": "Potamogeton vaseyi",
+        "commonName": "Vasey's Pondweed",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 64093,
+        "scientificName": "Salvia lyrata",
+        "commonName": "lyreleaf sage",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest",
+          "meadow",
+          "roadside"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 76755,
+        "scientificName": "Echinochloa colona",
+        "commonName": "Jungle Rice",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "roadside",
+          "garden",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 77623,
+        "scientificName": "Landoltia punctata",
+        "commonName": "dotted duckweed",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 79526,
+        "scientificName": "Wolffia borealis",
+        "commonName": "Dotted Watermeal",
+        "nwplIndicator": "OBL",
+        "ourHabitats": [
+          "aquatic"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says OBL (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 124879,
+        "scientificName": "Cornus alba",
+        "commonName": "Tatarian dogwood",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "garden"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 125902,
+        "scientificName": "Cardamine douglassii",
+        "commonName": "Purple Cress",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "forest"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 135262,
+        "scientificName": "Ipomoea lacunosa",
+        "commonName": "White Morning-glory",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "garden",
+          "roadside",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 158252,
+        "scientificName": "Amaranthus pumilus",
+        "commonName": "Seabeach Amaranth",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "coastal"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 159690,
+        "scientificName": "Callitriche terrestris",
+        "commonName": "Terrestrial Water-starwort",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "roadside",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 162389,
+        "scientificName": "Eragrostis frankii",
+        "commonName": "Frank's Lovegrass",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "roadside",
+          "meadow"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      },
+      {
+        "taxonId": 200054,
+        "scientificName": "Euphorbia serpens",
+        "commonName": "Matted Sandmat",
+        "nwplIndicator": "FACW",
+        "ourHabitats": [
+          "roadside",
+          "garden"
+        ],
+        "hasWetland": false,
+        "issue": "NWPL says FACW (wetland obligate/facultative) but we don't tag it as wetland"
+      }
+    ]
+  },
+  "colorCheck": {
+    "checked": 2212,
+    "outliers": 161,
+    "issues": [
+      {
+        "taxonId": 47912,
+        "scientificName": "Asclepias tuberosa",
+        "commonName": "butterfly milkweed",
+        "genus": "Asclepias",
+        "ourColors": [
+          "orange"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [orange] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 125386,
+        "scientificName": "Asclepias exaltata",
+        "commonName": "poke milkweed",
+        "genus": "Asclepias",
+        "ourColors": [
+          "white",
+          "green"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [white, green] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 125379,
+        "scientificName": "Asclepias verticillata",
+        "commonName": "whorled milkweed",
+        "genus": "Asclepias",
+        "ourColors": [
+          "white",
+          "green"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [white, green] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 75602,
+        "scientificName": "Asclepias curassavica",
+        "commonName": "tropical milkweed",
+        "genus": "Asclepias",
+        "ourColors": [
+          "orange",
+          "red"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [orange, red] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 63512,
+        "scientificName": "Acer palmatum",
+        "commonName": "Japanese maple",
+        "genus": "Acer",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "yellow",
+          "green"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [yellow, green]"
+      },
+      {
+        "taxonId": 143780,
+        "scientificName": "Acer tataricum",
+        "commonName": "Tatarian Maple",
+        "genus": "Acer",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "yellow",
+          "green"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [yellow, green]"
+      },
+      {
+        "taxonId": 204174,
+        "scientificName": "Lysimachia borealis",
+        "commonName": "northern starflower",
+        "genus": "Lysimachia",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 791928,
+        "scientificName": "Lysimachia arvensis",
+        "commonName": "scarlet pimpernel",
+        "genus": "Lysimachia",
+        "ourColors": [
+          "red",
+          "blue",
+          "pink"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [red, blue, pink] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 132224,
+        "scientificName": "Lysimachia clethroides",
+        "commonName": "Gooseneck Loosestrife",
+        "genus": "Lysimachia",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 204175,
+        "scientificName": "Lysimachia maritima",
+        "commonName": "Sea Milkwort",
+        "genus": "Lysimachia",
+        "ourColors": [
+          "white",
+          "pink",
+          "purple"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [white, pink, purple] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 1467819,
+        "scientificName": "Lysimachia loeflingii",
+        "commonName": "Blue Scarlet Pimpernel",
+        "genus": "Lysimachia",
+        "ourColors": [
+          "blue"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [blue] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 55858,
+        "scientificName": "Cornus mas",
+        "commonName": "Cornelian cherry",
+        "genus": "Cornus",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 450254,
+        "scientificName": "Cornus officinalis",
+        "commonName": "Korean cornel dogwood",
+        "genus": "Cornus",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 47891,
+        "scientificName": "Impatiens pallida",
+        "commonName": "pale jewelweed",
+        "genus": "Impatiens",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "red",
+          "pink",
+          "white",
+          "purple"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [red, pink, white, purple]"
+      },
+      {
+        "taxonId": 123634,
+        "scientificName": "Trillium cuneatum",
+        "commonName": "Little Sweet Betsy",
+        "genus": "Trillium",
+        "ourColors": [
+          "purple"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [purple] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 118511,
+        "scientificName": "Trillium luteum",
+        "commonName": "yellow wakerobin",
+        "genus": "Trillium",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 126334,
+        "scientificName": "Trillium recurvatum",
+        "commonName": "prairie trillium",
+        "genus": "Trillium",
+        "ourColors": [
+          "red",
+          "purple"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [red, purple] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 78755,
+        "scientificName": "Prunus persica",
+        "commonName": "Peach",
+        "genus": "Prunus",
+        "ourColors": [
+          "pink"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [pink] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 48682,
+        "scientificName": "Spiraea tomentosa",
+        "commonName": "Steeplebush",
+        "genus": "Spiraea",
+        "ourColors": [
+          "pink"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [pink] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 125790,
+        "scientificName": "Spiraea japonica",
+        "commonName": "Japanese Spirea",
+        "genus": "Spiraea",
+        "ourColors": [
+          "pink",
+          "red"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [pink, red] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 170141,
+        "scientificName": "Verbascum phoeniceum",
+        "commonName": "Purple Mullein",
+        "genus": "Verbascum",
+        "ourColors": [
+          "purple",
+          "pink"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [purple, pink] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 58726,
+        "scientificName": "Quercus prinoides",
+        "commonName": "dwarf chinkapin oak",
+        "genus": "Quercus",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 117432,
+        "scientificName": "Euonymus atropurpureus",
+        "commonName": "wahoo",
+        "genus": "Euonymus",
+        "ourColors": [
+          "purple"
+        ],
+        "genusColors": [
+          "green",
+          "white"
+        ],
+        "issue": "Colors [purple] don't overlap with genus-typical [green, white]"
+      },
+      {
+        "taxonId": 56188,
+        "scientificName": "Vicia hirsuta",
+        "commonName": "Hairy tare",
+        "genus": "Vicia",
+        "ourColors": [
+          "white",
+          "pink"
+        ],
+        "genusColors": [
+          "purple"
+        ],
+        "issue": "Colors [white, pink] don't overlap with genus-typical [purple]"
+      },
+      {
+        "taxonId": 170209,
+        "scientificName": "Vicia grandiflora",
+        "commonName": "Large yellow vetch",
+        "genus": "Vicia",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "purple"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [purple]"
+      },
+      {
+        "taxonId": 50790,
+        "scientificName": "Linaria vulgaris",
+        "commonName": "common toadflax",
+        "genus": "Linaria",
+        "ourColors": [
+          "yellow",
+          "orange"
+        ],
+        "genusColors": [
+          "purple",
+          "white"
+        ],
+        "issue": "Colors [yellow, orange] don't overlap with genus-typical [purple, white]"
+      },
+      {
+        "taxonId": 79109,
+        "scientificName": "Silene latifolia",
+        "commonName": "white campion",
+        "genus": "Silene",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 55721,
+        "scientificName": "Silene vulgaris",
+        "commonName": "bladder campion",
+        "genus": "Silene",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 406034,
+        "scientificName": "Silene chalcedonica",
+        "commonName": "Maltese-cross",
+        "genus": "Silene",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 128942,
+        "scientificName": "Silene stellata",
+        "commonName": "starry campion",
+        "genus": "Silene",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 125714,
+        "scientificName": "Silene regia",
+        "commonName": "royal catchfly",
+        "genus": "Silene",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 79112,
+        "scientificName": "Silene noctiflora",
+        "commonName": "Night-flowering Catchfly",
+        "genus": "Silene",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 57291,
+        "scientificName": "Silene virginica",
+        "commonName": "fire pink",
+        "genus": "Silene",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 711103,
+        "scientificName": "Pilosella aurantiaca",
+        "commonName": "orange hawkweed",
+        "genus": "Pilosella",
+        "ourColors": [
+          "orange",
+          "red"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [orange, red] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 62377,
+        "scientificName": "Rubus odoratus",
+        "commonName": "purple-flowered raspberry",
+        "genus": "Rubus",
+        "ourColors": [
+          "purple"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [purple] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 51645,
+        "scientificName": "Rubus parvifolius",
+        "commonName": "small-leaf bramble",
+        "genus": "Rubus",
+        "ourColors": [
+          "pink",
+          "red"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [pink, red] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 56088,
+        "scientificName": "Robinia pseudoacacia",
+        "commonName": "black locust",
+        "genus": "Robinia",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 82316,
+        "scientificName": "Chelone glabra",
+        "commonName": "white turtlehead",
+        "genus": "Chelone",
+        "ourColors": [
+          "white",
+          "yellow"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [white, yellow] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 48038,
+        "scientificName": "Lobelia cardinalis",
+        "commonName": "cardinal flower",
+        "genus": "Lobelia",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "white",
+          "blue"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [white, blue]"
+      },
+      {
+        "taxonId": 55976,
+        "scientificName": "Eupatorium cannabinum",
+        "commonName": "hemp agrimony",
+        "genus": "Eupatorium",
+        "ourColors": [
+          "pink",
+          "purple"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [pink, purple] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 146717,
+        "scientificName": "Solidago bicolor",
+        "commonName": "silverrod",
+        "genus": "Solidago",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 144194,
+        "scientificName": "Solidago ptarmicoides",
+        "commonName": "white flat-topped goldenrod",
+        "genus": "Solidago",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 180413,
+        "scientificName": "Rhododendron groenlandicum",
+        "commonName": "Bog Labrador Tea",
+        "genus": "Rhododendron",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 118749,
+        "scientificName": "Rhododendron calendulaceum",
+        "commonName": "Flame Azalea",
+        "genus": "Rhododendron",
+        "ourColors": [
+          "orange",
+          "red",
+          "yellow"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [orange, red, yellow] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 49486,
+        "scientificName": "Rhododendron catawbiense",
+        "commonName": "Catawba Rhododendron",
+        "genus": "Rhododendron",
+        "ourColors": [
+          "purple"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [purple] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 410380,
+        "scientificName": "Rhododendron simsii",
+        "commonName": "Red Azalea",
+        "genus": "Rhododendron",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 460193,
+        "scientificName": "Potentilla hebiichigo",
+        "commonName": "Lesser Mock-strawberry",
+        "genus": "Potentilla",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 129278,
+        "scientificName": "Verbena urticifolia",
+        "commonName": "white vervain",
+        "genus": "Verbena",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "purple"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [purple]"
+      },
+      {
+        "taxonId": 53183,
+        "scientificName": "Oxalis stricta",
+        "commonName": "upright yellow woodsorrel",
+        "genus": "Oxalis",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 84772,
+        "scientificName": "Oxalis dillenii",
+        "commonName": "slender yellow woodsorrel",
+        "genus": "Oxalis",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 53168,
+        "scientificName": "Oxalis corniculata",
+        "commonName": "Creeping Woodsorrel",
+        "genus": "Oxalis",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 129780,
+        "scientificName": "Oxalis grandis",
+        "commonName": "great yellow woodsorrel",
+        "genus": "Oxalis",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 77638,
+        "scientificName": "Lathyrus japonicus",
+        "commonName": "seaside pea",
+        "genus": "Lathyrus",
+        "ourColors": [
+          "purple"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [purple] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 125787,
+        "scientificName": "Lathyrus pratensis",
+        "commonName": "meadow pea",
+        "genus": "Lathyrus",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 126756,
+        "scientificName": "Lathyrus vernus",
+        "commonName": "spring vetch",
+        "genus": "Lathyrus",
+        "ourColors": [
+          "purple",
+          "blue",
+          "green"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [purple, blue, green] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 164440,
+        "scientificName": "Lathyrus ochroleucus",
+        "commonName": "pale vetchling",
+        "genus": "Lathyrus",
+        "ourColors": [
+          "white",
+          "yellow"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [white, yellow] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 70086,
+        "scientificName": "Lathyrus sphaericus",
+        "commonName": "Grass Pea",
+        "genus": "Lathyrus",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "pink"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [pink]"
+      },
+      {
+        "taxonId": 47779,
+        "scientificName": "Iris pseudacorus",
+        "commonName": "Yellow Iris",
+        "genus": "Iris",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "blue",
+          "purple",
+          "white"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [blue, purple, white]"
+      },
+      {
+        "taxonId": 204330,
+        "scientificName": "Iris domestica",
+        "commonName": "Blackberry Lily",
+        "genus": "Iris",
+        "ourColors": [
+          "orange",
+          "red"
+        ],
+        "genusColors": [
+          "blue",
+          "purple",
+          "white"
+        ],
+        "issue": "Colors [orange, red] don't overlap with genus-typical [blue, purple, white]"
+      },
+      {
+        "taxonId": 907222,
+        "scientificName": "Thalictrum rochebruneanum",
+        "commonName": "Lavender Mist Meadowrue",
+        "genus": "Thalictrum",
+        "ourColors": [
+          "purple",
+          "yellow"
+        ],
+        "genusColors": [
+          "white",
+          "green"
+        ],
+        "issue": "Colors [purple, yellow] don't overlap with genus-typical [white, green]"
+      },
+      {
+        "taxonId": 204339,
+        "scientificName": "Lamium galeobdolon",
+        "commonName": "yellow archangel",
+        "genus": "Lamium",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "purple",
+          "pink"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [purple, pink]"
+      },
+      {
+        "taxonId": 55876,
+        "scientificName": "Lamium album",
+        "commonName": "White deadnettle",
+        "genus": "Lamium",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "purple",
+          "pink"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [purple, pink]"
+      },
+      {
+        "taxonId": 58907,
+        "scientificName": "Melilotus albus",
+        "commonName": "White Sweetclover",
+        "genus": "Melilotus",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 85325,
+        "scientificName": "Geum canadense",
+        "commonName": "white avens",
+        "genus": "Geum",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 55750,
+        "scientificName": "Geum rivale",
+        "commonName": "Water Avens",
+        "genus": "Geum",
+        "ourColors": [
+          "pink",
+          "purple",
+          "red"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [pink, purple, red] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 57460,
+        "scientificName": "Geum triflorum",
+        "commonName": "prairie smoke",
+        "genus": "Geum",
+        "ourColors": [
+          "pink",
+          "purple"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [pink, purple] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 464936,
+        "scientificName": "Geum coccineum",
+        "commonName": "Scarlet Avens",
+        "genus": "Geum",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 76023,
+        "scientificName": "Carex canescens",
+        "commonName": "hoary sedge",
+        "genus": "Carex",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 116342,
+        "scientificName": "Carex eburnea",
+        "commonName": "ivory sedge",
+        "genus": "Carex",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 143410,
+        "scientificName": "Carex argyrantha",
+        "commonName": "silvery-flowered sedge",
+        "genus": "Carex",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 160049,
+        "scientificName": "Carex oronensis",
+        "commonName": "Orono sedge",
+        "genus": "Carex",
+        "ourColors": [
+          "orange"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [orange] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 117512,
+        "scientificName": "Clematis occidentalis",
+        "commonName": "Purple Clematis",
+        "genus": "Clematis",
+        "ourColors": [
+          "purple",
+          "blue"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [purple, blue] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 53195,
+        "scientificName": "Rumex acetosella",
+        "commonName": "Sheep's sorrel",
+        "genus": "Rumex",
+        "ourColors": [
+          "red",
+          "yellow"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [red, yellow] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 78908,
+        "scientificName": "Rumex persicarioides",
+        "commonName": "pacific golden dock",
+        "genus": "Rumex",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 78903,
+        "scientificName": "Rumex fueginus",
+        "commonName": "golden dock",
+        "genus": "Rumex",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 119809,
+        "scientificName": "Lonicera sempervirens",
+        "commonName": "coral honeysuckle",
+        "genus": "Lonicera",
+        "ourColors": [
+          "red",
+          "orange"
+        ],
+        "genusColors": [
+          "white",
+          "yellow"
+        ],
+        "issue": "Colors [red, orange] don't overlap with genus-typical [white, yellow]"
+      },
+      {
+        "taxonId": 79463,
+        "scientificName": "Ulmus pumila",
+        "commonName": "Siberian elm",
+        "genus": "Ulmus",
+        "ourColors": [
+          "green"
+        ],
+        "genusColors": [
+          "red"
+        ],
+        "issue": "Colors [green] don't overlap with genus-typical [red]"
+      },
+      {
+        "taxonId": 450330,
+        "scientificName": "Ulmus laevis",
+        "commonName": "Fluttering Elm",
+        "genus": "Ulmus",
+        "ourColors": [
+          "green"
+        ],
+        "genusColors": [
+          "red"
+        ],
+        "issue": "Colors [green] don't overlap with genus-typical [red]"
+      },
+      {
+        "taxonId": 77045,
+        "scientificName": "Eriophorum gracile",
+        "commonName": "slender cottongrass",
+        "genus": "Eriophorum",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 590726,
+        "scientificName": "Oenothera lindheimeri",
+        "commonName": "clockweed",
+        "genus": "Oenothera",
+        "ourColors": [
+          "white",
+          "pink"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [white, pink] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 48625,
+        "scientificName": "Oenothera speciosa",
+        "commonName": "Pinkladies",
+        "genus": "Oenothera",
+        "ourColors": [
+          "pink"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [pink] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 204370,
+        "scientificName": "Oenothera gaura",
+        "commonName": "biennial beeblossom",
+        "genus": "Oenothera",
+        "ourColors": [
+          "pink",
+          "red"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [pink, red] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 59254,
+        "scientificName": "Allium schoenoprasum",
+        "commonName": "Chives",
+        "genus": "Allium",
+        "ourColors": [
+          "pink",
+          "purple"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [pink, purple] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 320578,
+        "scientificName": "Allium moly",
+        "commonName": "Yellow onion",
+        "genus": "Allium",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 367138,
+        "scientificName": "Allium flavum",
+        "commonName": "Small Yellow Onion",
+        "genus": "Allium",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 83902,
+        "scientificName": "Baptisia australis",
+        "commonName": "tall blue wild indigo",
+        "genus": "Baptisia",
+        "ourColors": [
+          "blue",
+          "purple"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [blue, purple] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 52735,
+        "scientificName": "Monarda didyma",
+        "commonName": "Scarlet Beebalm",
+        "genus": "Monarda",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "purple"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [purple]"
+      },
+      {
+        "taxonId": 204171,
+        "scientificName": "Euphorbia vermiculata",
+        "commonName": "Wormseed Sandmat",
+        "genus": "Euphorbia",
+        "ourColors": [
+          "white",
+          "pink"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [white, pink] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 81824,
+        "scientificName": "Euphorbia corollata",
+        "commonName": "flowering spurge",
+        "genus": "Euphorbia",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 550259,
+        "scientificName": "Euphorbia serpillifolia",
+        "commonName": "Thymeleaf Sandmat",
+        "genus": "Euphorbia",
+        "ourColors": [
+          "white",
+          "pink"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [white, pink] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 77112,
+        "scientificName": "Euphorbia dentata",
+        "commonName": "green poinsettia",
+        "genus": "Euphorbia",
+        "ourColors": [
+          "white",
+          "yellow"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [white, yellow] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 200054,
+        "scientificName": "Euphorbia serpens",
+        "commonName": "Matted Sandmat",
+        "genus": "Euphorbia",
+        "ourColors": [
+          "white",
+          "pink"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [white, pink] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 336205,
+        "scientificName": "Campanula alliariifolia",
+        "commonName": "Cornish Bellflower",
+        "genus": "Campanula",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "purple",
+          "blue"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [purple, blue]"
+      },
+      {
+        "taxonId": 933404,
+        "scientificName": "Centaurea cyanus",
+        "commonName": "Cornflower",
+        "genus": "Centaurea",
+        "ourColors": [
+          "blue"
+        ],
+        "genusColors": [
+          "purple"
+        ],
+        "issue": "Colors [blue] don't overlap with genus-typical [purple]"
+      },
+      {
+        "taxonId": 160276,
+        "scientificName": "Centaurea macrocephala",
+        "commonName": "Giant Knapweed",
+        "genus": "Centaurea",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "purple"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [purple]"
+      },
+      {
+        "taxonId": 52360,
+        "scientificName": "Lilium formosanum",
+        "commonName": "Formosa lily",
+        "genus": "Lilium",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "orange"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [orange]"
+      },
+      {
+        "taxonId": 85027,
+        "scientificName": "Lilium martagon",
+        "commonName": "Martagon Lily",
+        "genus": "Lilium",
+        "ourColors": [
+          "pink",
+          "purple"
+        ],
+        "genusColors": [
+          "orange"
+        ],
+        "issue": "Colors [pink, purple] don't overlap with genus-typical [orange]"
+      },
+      {
+        "taxonId": 125186,
+        "scientificName": "Lespedeza capitata",
+        "commonName": "round-headed bush clover",
+        "genus": "Lespedeza",
+        "ourColors": [
+          "white",
+          "yellow"
+        ],
+        "genusColors": [
+          "purple",
+          "pink"
+        ],
+        "issue": "Colors [white, yellow] don't overlap with genus-typical [purple, pink]"
+      },
+      {
+        "taxonId": 138983,
+        "scientificName": "Lespedeza hirta",
+        "commonName": "hairy lespedeza",
+        "genus": "Lespedeza",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "purple",
+          "pink"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [purple, pink]"
+      },
+      {
+        "taxonId": 164566,
+        "scientificName": "Lespedeza cuneata",
+        "commonName": "Chinese bushclover",
+        "genus": "Lespedeza",
+        "ourColors": [
+          "white",
+          "yellow"
+        ],
+        "genusColors": [
+          "purple",
+          "pink"
+        ],
+        "issue": "Colors [white, yellow] don't overlap with genus-typical [purple, pink]"
+      },
+      {
+        "taxonId": 57057,
+        "scientificName": "Medicago sativa",
+        "commonName": "Alfalfa",
+        "genus": "Medicago",
+        "ourColors": [
+          "purple"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [purple] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 53983,
+        "scientificName": "Digitalis purpurea",
+        "commonName": "purple foxglove",
+        "genus": "Digitalis",
+        "ourColors": [
+          "purple",
+          "pink"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [purple, pink] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 335863,
+        "scientificName": "Digitalis ferruginea",
+        "commonName": "Rusty Foxglove",
+        "genus": "Digitalis",
+        "ourColors": [
+          "red",
+          "orange"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [red, orange] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 143435,
+        "scientificName": "Dichanthelium latifolium",
+        "commonName": "broad-leaved panic grass",
+        "genus": "Dichanthelium",
+        "ourColors": [
+          "purple"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [purple] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 84328,
+        "scientificName": "Galium verum",
+        "commonName": "Lady's Bedstraw",
+        "genus": "Galium",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 77616,
+        "scientificName": "Lactuca biennis",
+        "commonName": "tall blue lettuce",
+        "genus": "Lactuca",
+        "ourColors": [
+          "blue",
+          "white"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [blue, white] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 128927,
+        "scientificName": "Lactuca hirsuta",
+        "commonName": "hairy lettuce",
+        "genus": "Lactuca",
+        "ourColors": [
+          "blue"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [blue] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 166240,
+        "scientificName": "Pedicularis furbishiae",
+        "commonName": "Furbish's Lousewort",
+        "genus": "Pedicularis",
+        "ourColors": [
+          "purple"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [purple] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 128808,
+        "scientificName": "Salix eriocephala",
+        "commonName": "heart-leaved willow",
+        "genus": "Salix",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "yellow",
+          "green"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [yellow, green]"
+      },
+      {
+        "taxonId": 130126,
+        "scientificName": "Salix sericea",
+        "commonName": "silky willow",
+        "genus": "Salix",
+        "ourColors": [
+          "purple"
+        ],
+        "genusColors": [
+          "yellow",
+          "green"
+        ],
+        "issue": "Colors [purple] don't overlap with genus-typical [yellow, green]"
+      },
+      {
+        "taxonId": 553036,
+        "scientificName": "Salix integra",
+        "commonName": "dappled willow",
+        "genus": "Salix",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "yellow",
+          "green"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [yellow, green]"
+      },
+      {
+        "taxonId": 48030,
+        "scientificName": "Platanthera psycodes",
+        "commonName": "Lesser Purple Fringed Orchid",
+        "genus": "Platanthera",
+        "ourColors": [
+          "purple",
+          "pink"
+        ],
+        "genusColors": [
+          "green",
+          "white"
+        ],
+        "issue": "Colors [purple, pink] don't overlap with genus-typical [green, white]"
+      },
+      {
+        "taxonId": 132322,
+        "scientificName": "Platanthera grandiflora",
+        "commonName": "Greater Purple Fringed Orchid",
+        "genus": "Platanthera",
+        "ourColors": [
+          "purple",
+          "pink"
+        ],
+        "genusColors": [
+          "green",
+          "white"
+        ],
+        "issue": "Colors [purple, pink] don't overlap with genus-typical [green, white]"
+      },
+      {
+        "taxonId": 167016,
+        "scientificName": "Platanthera ciliaris",
+        "commonName": "orange-fringed orchid",
+        "genus": "Platanthera",
+        "ourColors": [
+          "orange"
+        ],
+        "genusColors": [
+          "green",
+          "white"
+        ],
+        "issue": "Colors [orange] don't overlap with genus-typical [green, white]"
+      },
+      {
+        "taxonId": 167017,
+        "scientificName": "Platanthera cristata",
+        "commonName": "orange crested orchid",
+        "genus": "Platanthera",
+        "ourColors": [
+          "orange"
+        ],
+        "genusColors": [
+          "green",
+          "white"
+        ],
+        "issue": "Colors [orange] don't overlap with genus-typical [green, white]"
+      },
+      {
+        "taxonId": 167028,
+        "scientificName": "Platanthera shriveri",
+        "commonName": "Shriver's frilly orchid",
+        "genus": "Platanthera",
+        "ourColors": [
+          "purple"
+        ],
+        "genusColors": [
+          "green",
+          "white"
+        ],
+        "issue": "Colors [purple] don't overlap with genus-typical [green, white]"
+      },
+      {
+        "taxonId": 170091,
+        "scientificName": "Utricularia resupinata",
+        "commonName": "Northeastern Bladderwort",
+        "genus": "Utricularia",
+        "ourColors": [
+          "purple"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [purple] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 158042,
+        "scientificName": "Aesculus parviflora",
+        "commonName": "bottlebrush buckeye",
+        "genus": "Aesculus",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 81708,
+        "scientificName": "Aesculus pavia",
+        "commonName": "Red Buckeye",
+        "genus": "Aesculus",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 77672,
+        "scientificName": "Lepidium perfoliatum",
+        "commonName": "clasping pepperweed",
+        "genus": "Lepidium",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 55544,
+        "scientificName": "Ribes aureum",
+        "commonName": "golden currant",
+        "genus": "Ribes",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "white",
+          "pink",
+          "green"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [white, pink, green]"
+      },
+      {
+        "taxonId": 60221,
+        "scientificName": "Ludwigia palustris",
+        "commonName": "Water Purslane",
+        "genus": "Ludwigia",
+        "ourColors": [
+          "green"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [green] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 120518,
+        "scientificName": "Ipomoea coccinea",
+        "commonName": "red morning glory",
+        "genus": "Ipomoea",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 126300,
+        "scientificName": "Ipomoea hederifolia",
+        "commonName": "scarlet creeper",
+        "genus": "Ipomoea",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 76584,
+        "scientificName": "Cyperus esculentus",
+        "commonName": "yellow nutsedge",
+        "genus": "Cyperus",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 1280793,
+        "scientificName": "Cyperus engelmannii",
+        "commonName": "Engelmann's Flatsedge",
+        "genus": "Cyperus",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 161439,
+        "scientificName": "Cyperus filicinus",
+        "commonName": "fern flatsedge",
+        "genus": "Cyperus",
+        "ourColors": [
+          "yellow",
+          "orange",
+          "red"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [yellow, orange, red] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 76587,
+        "scientificName": "Cyperus fuscus",
+        "commonName": "Brown Flatsedge",
+        "genus": "Cyperus",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 57491,
+        "scientificName": "Trichophorum alpinum",
+        "commonName": "Cotton Deergrass",
+        "genus": "Trichophorum",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 55814,
+        "scientificName": "Corydalis solida",
+        "commonName": "Bird-in-a-bush",
+        "genus": "Corydalis",
+        "ourColors": [
+          "purple",
+          "red",
+          "white"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [purple, red, white] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 447077,
+        "scientificName": "Corydalis incisa",
+        "commonName": "Incised Fumewort",
+        "genus": "Corydalis",
+        "ourColors": [
+          "pink",
+          "purple",
+          "white"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [pink, purple, white] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 126193,
+        "scientificName": "Corydalis cava",
+        "commonName": "Hollowroot",
+        "genus": "Corydalis",
+        "ourColors": [
+          "purple",
+          "pink",
+          "white"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [purple, pink, white] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 793678,
+        "scientificName": "Salicornia ambigua",
+        "commonName": "perennial glasswort",
+        "genus": "Salicornia",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 57862,
+        "scientificName": "Rhynchospora alba",
+        "commonName": "white beak-sedge",
+        "genus": "Rhynchospora",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 78707,
+        "scientificName": "Potamogeton crispus",
+        "commonName": "Curly-leaf Pondweed",
+        "genus": "Potamogeton",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 50709,
+        "scientificName": "Corallorhiza trifida",
+        "commonName": "northern coralroot",
+        "genus": "Corallorhiza",
+        "ourColors": [
+          "yellow",
+          "green"
+        ],
+        "genusColors": [
+          "white",
+          "red",
+          "purple"
+        ],
+        "issue": "Colors [yellow, green] don't overlap with genus-typical [white, red, purple]"
+      },
+      {
+        "taxonId": 60202,
+        "scientificName": "Myriophyllum aquaticum",
+        "commonName": "Parrot's feather",
+        "genus": "Myriophyllum",
+        "ourColors": [
+          "white",
+          "yellow"
+        ],
+        "genusColors": [
+          "red",
+          "green"
+        ],
+        "issue": "Colors [white, yellow] don't overlap with genus-typical [red, green]"
+      },
+      {
+        "taxonId": 165601,
+        "scientificName": "Myriophyllum alterniflorum",
+        "commonName": "Alternate Water-milfoil",
+        "genus": "Myriophyllum",
+        "ourColors": [
+          "white",
+          "pink"
+        ],
+        "genusColors": [
+          "red",
+          "green"
+        ],
+        "issue": "Colors [white, pink] don't overlap with genus-typical [red, green]"
+      },
+      {
+        "taxonId": 117426,
+        "scientificName": "Magnolia acuminata",
+        "commonName": "Cucumber-tree",
+        "genus": "Magnolia",
+        "ourColors": [
+          "yellow",
+          "green"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [yellow, green] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 125761,
+        "scientificName": "Magnolia liliiflora",
+        "commonName": "Lily Magnolia",
+        "genus": "Magnolia",
+        "ourColors": [
+          "pink",
+          "purple"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [pink, purple] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 84510,
+        "scientificName": "Filipendula rubra",
+        "commonName": "queen of the prairie",
+        "genus": "Filipendula",
+        "ourColors": [
+          "pink"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [pink] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 204380,
+        "scientificName": "Phedimus spurius",
+        "commonName": "Caucasian Stonecrop",
+        "genus": "Phedimus",
+        "ourColors": [
+          "white",
+          "pink",
+          "red"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [white, pink, red] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 739791,
+        "scientificName": "Phedimus hybridus",
+        "commonName": "Hybrid Stonecrop",
+        "genus": "Phedimus",
+        "ourColors": [
+          "pink",
+          "red",
+          "purple"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [pink, red, purple] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 162409,
+        "scientificName": "Eragrostis spectabilis",
+        "commonName": "Purple Lovegrass",
+        "genus": "Eragrostis",
+        "ourColors": [
+          "pink",
+          "purple"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [pink, purple] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 59066,
+        "scientificName": "Schoenoplectus americanus",
+        "commonName": "American three-square bulrush",
+        "genus": "Schoenoplectus",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 129634,
+        "scientificName": "Agastache nepetoides",
+        "commonName": "yellow giant hyssop",
+        "genus": "Agastache",
+        "ourColors": [
+          "yellow",
+          "white",
+          "green"
+        ],
+        "genusColors": [
+          "purple"
+        ],
+        "issue": "Colors [yellow, white, green] don't overlap with genus-typical [purple]"
+      },
+      {
+        "taxonId": 128880,
+        "scientificName": "Saxifraga oppositifolia",
+        "commonName": "Purple Saxifrage",
+        "genus": "Saxifraga",
+        "ourColors": [
+          "purple",
+          "pink"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [purple, pink] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 144152,
+        "scientificName": "Saxifraga aizoides",
+        "commonName": "Yellow Saxifrage",
+        "genus": "Saxifraga",
+        "ourColors": [
+          "yellow",
+          "orange",
+          "red"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [yellow, orange, red] don't overlap with genus-typical [white]"
+      },
+      {
+        "taxonId": 75392,
+        "scientificName": "Amaranthus caudatus",
+        "commonName": "Love-lies-bleeding",
+        "genus": "Amaranthus",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 51633,
+        "scientificName": "Digitaria sanguinalis",
+        "commonName": "Hairy Crabgrass",
+        "genus": "Digitaria",
+        "ourColors": [
+          "purple",
+          "red"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [purple, red] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 911385,
+        "scientificName": "Petrosedum orientale",
+        "commonName": "Petrosedum orientale",
+        "genus": "Petrosedum",
+        "ourColors": [
+          "white",
+          "pink"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [white, pink] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 77781,
+        "scientificName": "Linum grandiflorum",
+        "commonName": "Scarlet Flax",
+        "genus": "Linum",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 51306,
+        "scientificName": "Linum usitatissimum",
+        "commonName": "common flax",
+        "genus": "Linum",
+        "ourColors": [
+          "blue"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [blue] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 84280,
+        "scientificName": "Linum catharticum",
+        "commonName": "Fairy Flax",
+        "genus": "Linum",
+        "ourColors": [
+          "white"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [white] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 60491,
+        "scientificName": "Linum perenne",
+        "commonName": "perennial flax",
+        "genus": "Linum",
+        "ourColors": [
+          "blue"
+        ],
+        "genusColors": [
+          "yellow"
+        ],
+        "issue": "Colors [blue] don't overlap with genus-typical [yellow]"
+      },
+      {
+        "taxonId": 128695,
+        "scientificName": "Eryngium yuccifolium",
+        "commonName": "rattlesnake master",
+        "genus": "Eryngium",
+        "ourColors": [
+          "white",
+          "green"
+        ],
+        "genusColors": [
+          "blue"
+        ],
+        "issue": "Colors [white, green] don't overlap with genus-typical [blue]"
+      },
+      {
+        "taxonId": 567184,
+        "scientificName": "Schoenoplectiella smithii",
+        "commonName": "Smith's Bulrush",
+        "genus": "Schoenoplectiella",
+        "ourColors": [
+          "red"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [red] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 75314,
+        "scientificName": "Agrostis gigantea",
+        "commonName": "redtop",
+        "genus": "Agrostis",
+        "ourColors": [
+          "red",
+          "purple"
+        ],
+        "genusColors": [
+          "green"
+        ],
+        "issue": "Colors [red, purple] don't overlap with genus-typical [green]"
+      },
+      {
+        "taxonId": 53219,
+        "scientificName": "Salvia hispanica",
+        "commonName": "chia",
+        "genus": "Salvia",
+        "ourColors": [
+          "white",
+          "purple"
+        ],
+        "genusColors": [
+          "blue"
+        ],
+        "issue": "Colors [white, purple] don't overlap with genus-typical [blue]"
+      },
+      {
+        "taxonId": 143418,
+        "scientificName": "Salvia glutinosa",
+        "commonName": "Sticky Sage",
+        "genus": "Salvia",
+        "ourColors": [
+          "yellow"
+        ],
+        "genusColors": [
+          "blue"
+        ],
+        "issue": "Colors [yellow] don't overlap with genus-typical [blue]"
+      },
+      {
+        "taxonId": 165707,
+        "scientificName": "Nicotiana rustica",
+        "commonName": "Aztec Tobacco",
+        "genus": "Nicotiana",
+        "ourColors": [
+          "yellow",
+          "green"
+        ],
+        "genusColors": [
+          "white"
+        ],
+        "issue": "Colors [yellow, green] don't overlap with genus-typical [white]"
+      }
+    ]
+  }
+}

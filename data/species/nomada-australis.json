@@ -1,0 +1,347 @@
+{
+  "slug": "nomada-australis",
+  "taxonId": 1426447,
+  "group": "insects",
+  "commonName": "Five-spined Nomad",
+  "scientificName": "Nomada australis",
+  "family": "Apidae",
+  "familyCommonName": "Honey Bees, Bumble Bees, and Allies",
+  "genus": "Nomada",
+  "genusCommonName": "Nomad Bees",
+  "order": "Hymenoptera",
+  "orderCommonName": "Ants, Bees, Wasps, and Sawflies",
+  "breadcrumb": [
+    {
+      "label": "Insects",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Insects",
+      "rank": "class",
+      "slug": "explore/insects"
+    },
+    {
+      "label": "Ants, Bees, Wasps, and Sawflies",
+      "rank": "order",
+      "slug": "explore/ants-bees-wasps-and-sawflies"
+    },
+    {
+      "label": "Honey Bees, Bumble Bees, and Allies",
+      "rank": "family",
+      "slug": "explore/honey-bees-bumble-bees-and-allies"
+    },
+    {
+      "label": "Nomad Bees",
+      "rank": "genus",
+      "slug": "explore/nomad-bees"
+    },
+    {
+      "label": "Five-spined Nomad",
+      "rank": "species",
+      "slug": "species/nomada-australis"
+    }
+  ],
+  "observationCount": 5,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 528576591,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/528576591/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/528576591/large.jpg",
+      "attribution": "(c) Bernie Paquette, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/293696163"
+    },
+    {
+      "id": 528576507,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/528576507/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/528576507/large.jpg",
+      "attribution": "(c) Bernie Paquette, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/293696163"
+    },
+    {
+      "id": 516286850,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/516286850/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/516286850/large.jpg",
+      "attribution": "(c) Spencer Hardy, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/287147380"
+    },
+    {
+      "id": 528576525,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/528576525/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/528576525/large.jpg",
+      "attribution": "(c) Bernie Paquette, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/293696163"
+    },
+    {
+      "id": 136524709,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136524709/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136524709/large.jpeg",
+      "attribution": "(c) Spencer Hardy, some rights reserved (CC BY-NC), uploaded by Spencer Hardy",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/142644700"
+    },
+    {
+      "id": 201724278,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/201724278/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/201724278/large.jpg",
+      "attribution": "(c) Max McCarthy, some rights reserved (CC BY-NC), uploaded by Max McCarthy",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/142644701"
+    },
+    {
+      "id": 516286887,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/516286887/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/516286887/large.jpg",
+      "attribution": "(c) Spencer Hardy, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/287147380"
+    },
+    {
+      "id": 528576552,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/528576552/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/528576552/large.jpg",
+      "attribution": "(c) Bernie Paquette, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/293696163"
+    },
+    {
+      "id": 136524626,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136524626/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136524626/large.jpeg",
+      "attribution": "(c) Spencer Hardy, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/83142441"
+    },
+    {
+      "id": 136524638,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136524638/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136524638/large.jpeg",
+      "attribution": "(c) Spencer Hardy, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/83142441"
+    },
+    {
+      "id": 136524691,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136524691/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136524691/large.jpeg",
+      "attribution": "(c) Spencer Hardy, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/83142441"
+    },
+    {
+      "id": 136524523,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136524523/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136524523/large.jpeg",
+      "attribution": "(c) Spencer Hardy, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/83142441"
+    },
+    {
+      "id": 205927436,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/205927436/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/205927436/large.jpeg",
+      "attribution": "(c) Spencer Hardy, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/121676351"
+    }
+  ],
+  "nameStory": "",
+  "description": "The Five-spined Nomad (Nomada australis) is a cleptoparasitic bee species belonging to the Apidae family, known for laying eggs in the nests of host bees rather than building their own. Despite its common name suggesting five spines, this small bee exhibits the characteristic features of nomad bees, including reduced pollen-carrying structures and a sleek body adapted for nest infiltration.",
+  "idTips": [
+    {
+      "label": "Body coloration",
+      "description": "Typically displays a combination of black and reddish-brown or yellow markings on the abdomen and thorax, distinctive of Nomada species",
+      "isPrimary": true
+    },
+    {
+      "label": "Small size",
+      "description": "Measures approximately 6-8mm in length, making it noticeably smaller than most native bee species in New England",
+      "isPrimary": false
+    },
+    {
+      "label": "Reduced scopae",
+      "description": "Lacks the dense pollen baskets (scopae) found on typical bees, reflecting its parasitic lifestyle",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "This species is found in open woodlands, gardens, and meadows throughout New England where suitable host bee colonies are present.",
+  "seasonality": {
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
+  },
+  "funFact": "As a cleptoparasitic or 'cuckoo' bee, Nomada australis sneaks into the nests of other bee species to lay its eggs, allowing the host bee to provision the nomad's offspring as their own.",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
+  "relatedSpecies": [
+    {
+      "slug": "nomada-luteoloides",
+      "commonName": "Black-and-yellow Nomad Bee",
+      "scientificName": "Nomada luteoloides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7487924/medium.jpg",
+      "distinction": "Among the 20+ nomad bee species in New England, the Black-and-yellow Nomad Bee is distinguished by its particular pattern of yellow markings and size."
+    },
+    {
+      "slug": "nomada-maculata",
+      "commonName": "Spotted Nomad Bee",
+      "scientificName": "Nomada maculata",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/1741305/medium.jpg",
+      "distinction": "Among nomad bees, the Spotted Nomad is distinguished by its particularly prominent white or pale yellow spots, which are more contrasting than the subtle markings of species like the Gracile Nomad or Black-and-yellow Nomad Bee."
+    },
+    {
+      "slug": "nomada-gracilis",
+      "commonName": "Gracile Nomad",
+      "scientificName": "Nomada gracilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/202025138/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "nomada-imbricata",
+      "commonName": "Imbricate Cuckoo Nomad Bee",
+      "scientificName": "Nomada imbricata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/267987754/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "nomada-vicina",
+      "commonName": "Neighborly Nomad",
+      "scientificName": "Nomada vicina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10252496/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "nomada-articulata",
+      "commonName": "Articulated Nomad",
+      "scientificName": "Nomada articulata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/206184019/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "nomada-tiftonensis",
+      "commonName": "Tifton Nomad Bee",
+      "scientificName": "Nomada tiftonensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/257786350/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "nomada-obliterata",
+      "commonName": "Obliterated Nomad",
+      "scientificName": "Nomada obliterata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/285401827/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "nomada-banksi",
+      "commonName": "Banks' Nomad Bee",
+      "scientificName": "Nomada banksi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12193907/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "nomada-xanthura",
+      "commonName": "Yellow-banded Nomad",
+      "scientificName": "Nomada xanthura",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/39821769/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "nomada-vincta",
+      "commonName": "Bounded Nomad Bee",
+      "scientificName": "Nomada vincta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158548932/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "nomada-valida",
+      "commonName": "True Cuckoo Nomad Bee",
+      "scientificName": "Nomada valida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/269901235/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "nomada-placida",
+      "commonName": "Placid Nomad Bee",
+      "scientificName": "Nomada placida",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/10958728/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "nomada-cuneata",
+      "commonName": "Cuneate Nomad Bee",
+      "scientificName": "Nomada cuneata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7669582/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "nomada-depressa",
+      "commonName": "Depressed Nomad",
+      "scientificName": "Nomada depressa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/370733952/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "nomada-cressonii",
+      "commonName": "Cresson's Nomad Bee",
+      "scientificName": "Nomada cressonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/251697101/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "nomada-bella",
+      "commonName": "Belle Nomad Bee",
+      "scientificName": "Nomada bella",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/257784403/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "nomada-electa",
+      "commonName": "Nomada electa",
+      "scientificName": "Nomada electa",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/466591483/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "nomada-lehighensis",
+      "commonName": "Lehigh Gap Cuckoo Nomad Bee",
+      "scientificName": "Nomada lehighensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277859062/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "nomada-perplexa",
+      "commonName": "Nomada perplexa",
+      "scientificName": "Nomada perplexa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/259599193/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "nomada-electella",
+      "commonName": "Nomada electella",
+      "scientificName": "Nomada electella",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/388828339/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "nomada-denticulata",
+      "commonName": "Denticulate Nomad",
+      "scientificName": "Nomada denticulata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19173080/medium.jpeg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nomada_australis",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426447"
+}

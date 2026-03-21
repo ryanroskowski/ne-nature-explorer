@@ -1,0 +1,392 @@
+{
+  "slug": "hygrocybe-flavescens",
+  "taxonId": 53475,
+  "group": "fungi",
+  "commonName": "Golden Waxy Cap",
+  "scientificName": "Hygrocybe flavescens",
+  "family": "Hygrophoraceae",
+  "familyCommonName": "Waxcaps and Allies",
+  "genus": "Hygrocybe",
+  "genusCommonName": "Waxcaps",
+  "order": "Agaricales",
+  "orderCommonName": "Common Gilled Mushrooms and Allies",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Basidiomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/basidiomycete-fungi"
+    },
+    {
+      "label": "Mushrooms, Bracket Fungi, Puffballs, and Allies",
+      "rank": "class",
+      "slug": "explore/mushrooms-bracket-fungi-puffballs-and-allies"
+    },
+    {
+      "label": "Common Gilled Mushrooms and Allies",
+      "rank": "order",
+      "slug": "explore/common-gilled-mushrooms-and-allies"
+    },
+    {
+      "label": "Waxcaps and Allies",
+      "rank": "family",
+      "slug": "explore/waxcaps-and-allies"
+    },
+    {
+      "label": "Waxcaps",
+      "rank": "genus",
+      "slug": "explore/waxcaps"
+    },
+    {
+      "label": "Golden Waxy Cap",
+      "rank": "species",
+      "slug": "species/hygrocybe-flavescens"
+    }
+  ],
+  "observationCount": 25,
+  "abundanceTier": "common",
+  "photos": [
+    {
+      "id": 92156377,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92156377/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92156377/large.jpg",
+      "attribution": "(c) Jeffrey H. Skevington, some rights reserved (CC BY-NC), uploaded by Jeffrey H. Skevington",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5347502"
+    },
+    {
+      "id": 209966564,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/209966564/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/209966564/large.jpeg",
+      "attribution": "(c) mycowalt, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/123910072"
+    },
+    {
+      "id": 293744330,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293744330/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293744330/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/169436859"
+    },
+    {
+      "id": 4159873,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159873/medium.",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159873/large.",
+      "attribution": "(c) noah_siegel, some rights reserved (CC BY-NC-SA), uploaded by noah_siegel",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/5347505"
+    },
+    {
+      "id": 293744450,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293744450/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293744450/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/169436859"
+    },
+    {
+      "id": 106936382,
+      "mediumUrl": "https://static.inaturalist.org/photos/106936382/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/106936382/large.jpg",
+      "attribution": "(c) Sydney Fisher Larson, all rights reserved, uploaded by Sydney Fisher Larson",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5347500"
+    },
+    {
+      "id": 6932470,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6932470/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6932470/large.jpg",
+      "attribution": "(c) Alex Abair, some rights reserved (CC BY), uploaded by Alex Abair",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/5347503"
+    },
+    {
+      "id": 293744295,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293744295/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293744295/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/169436859"
+    },
+    {
+      "id": 1451471,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1451471/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1451471/large.jpg",
+      "attribution": "(c) J. Maughn, some rights reserved (CC BY-NC), uploaded by J. Maughn",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5347501"
+    },
+    {
+      "id": 13013081,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13013081/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13013081/large.jpg",
+      "attribution": "(c) Cassie S., some rights reserved (CC BY-NC), uploaded by Cassie S.",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5347504"
+    },
+    {
+      "id": 293744345,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293744345/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293744345/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/169436859"
+    },
+    {
+      "id": 293744543,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293744543/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293744543/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/169436859"
+    },
+    {
+      "id": 8965237,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8965237/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8965237/large.jpeg",
+      "attribution": "(c) Django Grootmyers, some rights reserved (CC BY-SA)",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/6999834"
+    },
+    {
+      "id": 6104858,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6104858/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6104858/large.jpg",
+      "attribution": "(c) Adam J. Searcy, some rights reserved (CC BY), uploaded by Adam J. Searcy",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/5347506"
+    },
+    {
+      "id": 293744391,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293744391/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293744391/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/169436859"
+    },
+    {
+      "id": 209966310,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/209966310/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/209966310/large.jpeg",
+      "attribution": "(c) mycowalt, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/123910072"
+    }
+  ],
+  "nameStory": "",
+  "description": "The Golden Waxy Cap is a small, delicate mushroom characterized by its bright yellow to golden coloring and distinctively waxy, translucent appearance. It belongs to the Hygrocybaceae family, a group known for their colorful fruiting bodies and preference for mossy habitats.",
+  "idTips": [
+    {
+      "label": "Golden-yellow color",
+      "description": "Bright yellow to golden cap and stem that may fade slightly with age or drying",
+      "isPrimary": true
+    },
+    {
+      "label": "Waxy texture",
+      "description": "Distinctive waxy or greasy appearance on the cap and gills, giving them a translucent quality",
+      "isPrimary": true
+    },
+    {
+      "label": "Small size",
+      "description": "Typically 1-3 cm in cap diameter with thin, fragile stems",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in mossy grasslands, meadows, and lawns throughout New England, favoring acidic soils and areas with persistent moisture.",
+  "seasonality": {
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
+  },
+  "funFact": "Golden Waxy Caps are part of a group of waxcaps that are considered indicators of unimproved, species-rich grasslands and are increasingly rare due to agricultural intensification and habitat loss.",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
+  "relatedSpecies": [
+    {
+      "slug": "hygrocybe-cantharellus",
+      "commonName": "Goblet Waxcap",
+      "scientificName": "Hygrocybe cantharellus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2124299/medium.jpg",
+      "distinction": "Among its waxcap relatives, the Goblet Waxcap is distinguished by its pure orange (rather than red, yellow, or mixed) coloration and goblet-shaped mature cap."
+    },
+    {
+      "slug": "hygrocybe-miniata",
+      "commonName": "Vermilion Waxcap",
+      "scientificName": "Hygrocybe miniata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137593315/medium.jpeg",
+      "distinction": "Compared to other waxcaps in New England, the Vermilion Waxcap stays consistently small and maintains its red color without blackening like Witch's Hat or fading like some golden species."
+    },
+    {
+      "slug": "hygrocybe-conica",
+      "commonName": "Witch's Hat",
+      "scientificName": "Hygrocybe conica",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/27220866/medium.jpg",
+      "distinction": "Among its waxcap relatives, the Witch's Hat stands out for its blackening reaction – this is rare in the genus Hygrocybe."
+    },
+    {
+      "slug": "hygrocybe-coccinea",
+      "commonName": "Scarlet Waxy Cap",
+      "scientificName": "Hygrocybe coccinea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/440208/medium.jpg",
+      "distinction": "Among its waxcap relatives, the Scarlet Waxy Cap is distinguished by its pure scarlet color - the Vermilion Waxcap tends more orange-red, while the Crimson Waxcap is deeper red."
+    },
+    {
+      "slug": "hygrocybe-parvula",
+      "commonName": "Hygrocybe parvula",
+      "scientificName": "Hygrocybe parvula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156635720/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "hygrocybe-punicea",
+      "commonName": "Crimson Waxcap",
+      "scientificName": "Hygrocybe punicea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168523006/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "hygrocybe-cuspidata",
+      "commonName": "Candy Apple Waxy Cap",
+      "scientificName": "Hygrocybe cuspidata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/144574511/medium.png",
+      "distinction": "."
+    },
+    {
+      "slug": "hygrocybe-reidii",
+      "commonName": "Honey Waxcap",
+      "scientificName": "Hygrocybe reidii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/249325328/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "hygrocybe-purpureofolia",
+      "commonName": "Purple-gilled Waxy Cap",
+      "scientificName": "Hygrocybe purpureofolia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24392890/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "hygrocybe-squamulosa",
+      "commonName": "Hygrocybe squamulosa",
+      "scientificName": "Hygrocybe squamulosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24392929/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "hygrocybe-chlorophana",
+      "commonName": "Golden Waxcap",
+      "scientificName": "Hygrocybe chlorophana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/440214/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "hygrocybe-acutoconica",
+      "commonName": "Persistent Waxcap",
+      "scientificName": "Hygrocybe acutoconica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5700297/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "hygrocybe-coccineocrenata",
+      "commonName": "bog waxcap",
+      "scientificName": "Hygrocybe coccineocrenata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/159384613/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "hygrocybe-aurantiosplendens",
+      "commonName": "Orange Waxcap",
+      "scientificName": "Hygrocybe aurantiosplendens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/336652002/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "hygrocybe-glutinipes",
+      "commonName": "Glutinous Waxcap",
+      "scientificName": "Hygrocybe glutinipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/249263001/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "hygrocybe-minutula",
+      "commonName": "Hygrocybe minutula",
+      "scientificName": "Hygrocybe minutula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5496292/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "hygrocybe-turunda",
+      "commonName": "Cranberry Waxy Cap",
+      "scientificName": "Hygrocybe turunda",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154169993/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "hygrocybe-ceracea",
+      "commonName": "Butter Waxcap",
+      "scientificName": "Hygrocybe ceracea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181963124/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "hygrocybe-caespitosa",
+      "commonName": "clustered waxcap",
+      "scientificName": "Hygrocybe caespitosa",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/302596959/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "hygrocybe-singeri",
+      "commonName": "Western Witch's Hat",
+      "scientificName": "Hygrocybe singeri",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4160649/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "hygrocybe-helobia",
+      "commonName": "garlic waxcap",
+      "scientificName": "Hygrocybe helobia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92306800/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "hygrocybe-mucronella",
+      "commonName": "Bitter Waxcap",
+      "scientificName": "Hygrocybe mucronella",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6984617/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "hygrocybe-subceracea",
+      "commonName": "Hygrocybe subceracea",
+      "scientificName": "Hygrocybe subceracea",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/161573105/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "hygrocybe-constans",
+      "commonName": "Hygrocybe constans",
+      "scientificName": "Hygrocybe constans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254486807/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "hygrocybe-tahquamenonensis",
+      "commonName": "Hygrocybe tahquamenonensis",
+      "scientificName": "Hygrocybe tahquamenonensis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/313558340/medium.jpeg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Hygrocybe_flavescens",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/53475"
+}

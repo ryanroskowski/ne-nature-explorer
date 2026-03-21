@@ -1,0 +1,122 @@
+{
+  "slug": "agroeca-limnicunae",
+  "taxonId": 1530064,
+  "group": "arachnids",
+  "commonName": "Agroeca limnicunae",
+  "scientificName": "Agroeca limnicunae",
+  "family": "Liocranidae",
+  "familyCommonName": "Spiny-legged Sac Spiders",
+  "genus": "Agroeca",
+  "genusCommonName": "Agroeca",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Spiny-legged Sac Spiders",
+      "rank": "family",
+      "slug": "explore/spiny-legged-sac-spiders"
+    },
+    {
+      "label": "Agroeca",
+      "rank": "genus",
+      "slug": "explore/agroeca"
+    },
+    {
+      "label": "Agroeca limnicunae",
+      "rank": "species",
+      "slug": "species/agroeca-limnicunae"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 60824582,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60824582/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60824582/large.jpg",
+      "attribution": "(c) Yann Gobeil, some rights reserved (CC BY-NC-SA), uploaded by Yann Gobeil",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/153006400"
+    },
+    {
+      "id": 182782937,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182782937/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182782937/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/108550479"
+    },
+    {
+      "id": 182783413,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182783413/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182783413/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/108550722"
+    }
+  ],
+  "nameStory": "The name 'sac spider' comes from these spiders' habit of creating silken retreat sacs where they rest during the day, rather than building traditional webs. The 'spiny-legged' part refers to the distinctive spines or bristles that run along their legs, giving them a somewhat bristly appearance that you can sometimes feel if one walks across your skin.",
+  "description": "Agroeca limnicunae is a small, wandering spider that belongs to the spiny-legged sac spider family. These are compact, robust spiders that typically measure about 4-6mm in body length, with a somewhat flattened appearance. They're primarily brown to reddish-brown in color with darker markings, and like other sac spiders, they don't build webs for catching prey but instead actively hunt at night. During the day, they hide in small silken sacs tucked under bark, stones, or leaf litter.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Compact and somewhat flattened spider with a robust build, feeling solid and chunky if handled, unlike the more delicate house spiders",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Brown to reddish-brown coloration with darker chevron-like markings on the abdomen that create a subtle herringbone pattern",
+      "isPrimary": false
+    },
+    {
+      "label": "Web",
+      "description": "No catching web - instead creates small, white silken retreat sacs that feel papery and are often found under loose bark or stones",
+      "isPrimary": true
+    },
+    {
+      "label": "Size",
+      "description": "Small spider with body length of 4-6mm, about the size of a pencil eraser, with legs extending the total size to roughly a dime",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Active nighttime hunter that moves with quick, jerky motions and tends to freeze when disturbed rather than running immediately",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for this spider in wooded areas with abundant leaf litter and decaying logs, particularly in moist deciduous and mixed forests. They prefer areas with loose bark on fallen trees and plenty of organic debris where they can easily construct their retreat sacs. In New England, they're most commonly found in mature forest understories rather than open fields or disturbed areas.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, emerging from winter hiding spots under deep leaf litter and beginning to establish new territories.",
+    "summer": "Peak activity period when adults are most commonly encountered hunting at night. Look for their silken retreat sacs during day searches.",
+    "fall": "Mating season occurs, with egg sacs being produced and tucked into protected crevices. Adults may still be active on warm days.",
+    "winter": "Spiders retreat deep into leaf litter, under logs, or into tree bark crevices where they remain dormant until spring warmth returns."
+  },
+  "funFact": "Despite being called 'sac spiders,' these little architects actually rebuild their silken retreats almost nightly, essentially moving house every day like tiny nomads with portable bedrooms.",
+  "confusionNotes": "Most easily confused with other small brown spiders like ground spiders, but the telltale white silken retreat sacs are a dead giveaway - if you find a small brown spider near a papery white sac during the day, you've likely found a sac spider.",
+  "contextualKnowledge": "**Uncertain claim warning**: This is a very rarely documented species in New England with only 2 recorded observations, so much of the specific ecological information should be considered preliminary and may need revision as more data becomes available.",
+  "compareHints": "Since this appears to be the only Agroeca species documented in New England, compare it with other sac spiders in the region by looking for the distinctive retreat sacs and compact body shape. Other sac spider families may have more elongated bodies or different colored sacs, while Agroeca maintains that chunky, robust appearance with consistently white silken retreats.",
+  "relatedSpecies": [],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1530064"
+}

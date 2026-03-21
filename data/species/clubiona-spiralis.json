@@ -1,0 +1,149 @@
+{
+  "slug": "clubiona-spiralis",
+  "taxonId": 121772,
+  "group": "arachnids",
+  "commonName": "Clubiona spiralis",
+  "scientificName": "Clubiona spiralis",
+  "family": "Clubionidae",
+  "familyCommonName": "Sac Spiders",
+  "genus": "Clubiona",
+  "genusCommonName": "Leafcurling Sac Spiders",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Sac Spiders",
+      "rank": "family",
+      "slug": "explore/sac-spiders"
+    },
+    {
+      "label": "Leafcurling Sac Spiders",
+      "rank": "genus",
+      "slug": "explore/leafcurling-sac-spiders"
+    },
+    {
+      "label": "Clubiona spiralis",
+      "rank": "species",
+      "slug": "species/clubiona-spiralis"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 80656757,
+      "mediumUrl": "https://static.inaturalist.org/photos/80656757/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/80656757/large.jpg",
+      "attribution": "(c) Chris LaRosee, all rights reserved, uploaded by Chris LaRosee",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12177200"
+    }
+  ],
+  "nameStory": "The name 'spiralis' comes from the Latin word for spiral, though the exact reason for this spider's spiral designation isn't entirely clear from its appearance. Like other sac spiders, it gets its family name from the silken sleeping sacs it weaves to rest in during the day. These cozy retreats are often tucked under bark or in rolled leaves.",
+  "description": "The Clubiona spiralis is a small, pale sac spider that's part of the leafcurling sac spider group. These spiders are typically light brown to yellowish in color with a somewhat elongated body shape. They're active hunters rather than web builders, preferring to roam at night in search of small insects. Like other sac spiders, they create temporary silk shelters where they hide during daylight hours.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Elongated, somewhat flattened body with relatively long legs that feel sturdy when gently examined",
+      "isPrimary": true
+    },
+    {
+      "label": "Markings",
+      "description": "Pale brown to yellowish coloration with subtle darker markings that may be hard to see without close inspection",
+      "isPrimary": false
+    },
+    {
+      "label": "Web",
+      "description": "No permanent web - instead creates small, temporary silk sacs under bark or debris that feel papery thin",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Small spider, typically less than half an inch in body length, with a delicate build",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Active at night, often found wandering on tree trunks or vegetation rather than sitting in webs",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for Clubiona spiralis in wooded areas throughout New England, particularly on tree bark, under loose bark pieces, or among fallen leaves. They prefer areas with deciduous trees and mixed forests where they can find plenty of hiding spots during the day. These spiders are often discovered when peeling back bark or searching through leaf litter.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, emerging from winter hiding spots to begin hunting and mating activities.",
+    "summer": "Peak activity period when adults are most commonly encountered. Look for their silk day-retreats under bark and in crevices.",
+    "fall": "Adults may still be active into early fall, with some preparing winter retreats in protected locations.",
+    "winter": "Overwinter in protected locations under bark, in leaf litter, or other insulated spots, becoming inactive during cold periods."
+  },
+  "funFact": "Despite being called 'leafcurling' sac spiders, many Clubiona species actually prefer to make their silk retreats under bark rather than in curled leaves - they're flexible real estate agents of the spider world!",
+  "confusionNotes": "Clubiona spiralis can be easily confused with other sac spiders in the same genus, as they share similar pale coloration and body shape. The key is often location and subtle markings, though definitive identification may require expert examination of reproductive structures.",
+  "contextualKnowledge": "With only one recorded observation in New England, Clubiona spiralis appears to be quite rare in our region, making any sighting particularly noteworthy for local naturalists and researchers.",
+  "compareHints": "Clubiona spiralis is most similar to other Clubiona species like the Canada Sac Spider and Riparian Sac Spider, sharing the same general pale coloration and body proportions. The main differences lie in subtle markings and preferred microhabitats, with some species favoring areas closer to water sources. Without microscopic examination, distinguishing between Clubiona species often requires careful attention to where and when they're found.",
+  "relatedSpecies": [
+    {
+      "slug": "clubiona-riparia",
+      "commonName": "Riparian Sac Spider",
+      "scientificName": "Clubiona riparia",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/46233352/medium.jpeg",
+      "distinction": "Unlike the Canada Sac Spider which prefers drier woodland habitats, the riparian sac spider sticks close to water sources."
+    },
+    {
+      "slug": "clubiona-obesa",
+      "commonName": "Clubiona obesa",
+      "scientificName": "Clubiona obesa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182749031/medium.jpeg",
+      "distinction": "Clubiona obesa stands out from its relatives like the Canada Sac Spider and Riparian Sac Spider by its notably thick, swollen abdomen - while other Clubiona species have more typical slender abdomens."
+    },
+    {
+      "slug": "clubiona-maritima",
+      "commonName": "Clubiona maritima",
+      "scientificName": "Clubiona maritima",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182748587/medium.jpg",
+      "distinction": "Compared to its inland relatives like the Canada sac spider or riparian sac spider, the maritime sac spider is distinguished primarily by its coastal habitat preference."
+    },
+    {
+      "slug": "clubiona-kastoni",
+      "commonName": "Kaston Sac Spider",
+      "scientificName": "Clubiona kastoni",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182745513/medium.jpeg",
+      "distinction": "Among its Clubiona relatives in New England, the Kaston Sac Spider is most similar to the Canada Sac Spider but tends to be slightly smaller and paler."
+    },
+    {
+      "slug": "clubiona-bishopi",
+      "commonName": "Clubiona bishopi",
+      "scientificName": "Clubiona bishopi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182744155/medium.jpeg",
+      "distinction": "Bishop's Sac Spider differs from its more common relatives like the Canada Sac Spider and Riparian Sac Spider primarily in its rarity and subtle coloration differences."
+    },
+    {
+      "slug": "clubiona-canadensis",
+      "commonName": "Canada Sac Spider",
+      "scientificName": "Clubiona canadensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182745017/medium.jpeg",
+      "distinction": "Compared to other Clubiona species in New England, the Canada Sac Spider tends to favor slightly drier woodland habitats than the Riparian Sac Spider, which prefers areas near water sources."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clubiona_spiralis",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/121772"
+}

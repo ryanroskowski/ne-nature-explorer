@@ -1,0 +1,138 @@
+{
+  "slug": "chione-elevata",
+  "taxonId": 253635,
+  "group": "mollusks",
+  "commonName": "Florida Cross-barred Venus",
+  "scientificName": "Chione elevata",
+  "family": "Veneridae",
+  "familyCommonName": "Venus Clams",
+  "genus": "Chione",
+  "genusCommonName": "Chione",
+  "order": "Venerida",
+  "orderCommonName": "Venerida",
+  "breadcrumb": [
+    {
+      "label": "Mollusks",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Molluscs",
+      "rank": "phylum",
+      "slug": "explore/molluscs"
+    },
+    {
+      "label": "Bivalves",
+      "rank": "class",
+      "slug": "explore/bivalves"
+    },
+    {
+      "label": "Venerida",
+      "rank": "order",
+      "slug": "explore/venerida"
+    },
+    {
+      "label": "Venus Clams",
+      "rank": "family",
+      "slug": "explore/venus-clams"
+    },
+    {
+      "label": "Chione",
+      "rank": "genus",
+      "slug": "explore/chione"
+    },
+    {
+      "label": "Florida Cross-barred Venus",
+      "rank": "species",
+      "slug": "species/chione-elevata"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 14809792,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14809792/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14809792/large.jpeg",
+      "attribution": "(c) Even Dankowicz, some rights reserved (CC BY), uploaded by Even Dankowicz",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/25363500"
+    },
+    {
+      "id": 154903272,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154903272/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154903272/large.jpg",
+      "attribution": "(c) lightning_whelk, some rights reserved (CC BY-NC), uploaded by lightning_whelk",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/25363503"
+    },
+    {
+      "id": 29361869,
+      "mediumUrl": "https://static.inaturalist.org/photos/29361869/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/29361869/large.jpg",
+      "attribution": "(c) Jay L. Keller, all rights reserved, uploaded by Jay L. Keller",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/25363502"
+    },
+    {
+      "id": 5761715,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5761715/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5761715/large.jpg",
+      "attribution": "(c) Susan J. Hewitt, some rights reserved (CC BY-NC), uploaded by Susan J. Hewitt",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/25363501"
+    },
+    {
+      "id": 12456504,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12456504/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12456504/large.jpg",
+      "attribution": "(c) Susan J. Hewitt, some rights reserved (CC BY-NC), uploaded by Susan J. Hewitt",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/25363504"
+    }
+  ],
+  "nameStory": "This clam gets its name from the distinctive cross-hatched pattern of ridges that crisscross its shell like the bars of a prison window. The 'Florida' part of its name reflects where it's most commonly found, though it occasionally shows up as far north as New England waters. The cross-barred pattern is so distinctive that early shell collectors immediately recognized it as the clam's defining feature.",
+  "description": "The Florida Cross-barred Venus is a medium-sized clam with a robust, rounded shell marked by a striking grid-like pattern of raised ridges. These marine bivalves typically measure 2-4 inches across and have thick, heavy shells that feel substantial in your hand. The shell's surface displays intersecting ridges that create a distinctive checkerboard or cross-hatched appearance. As filter feeders, they spend their lives buried in sandy or muddy sea floors, extending siphons up to the surface to draw in water for food and oxygen.",
+  "idTips": [
+    {
+      "label": "Cross-barred pattern",
+      "description": "Look for the distinctive grid-like pattern of raised ridges that intersect at right angles across the shell surface, creating a checkerboard effect you can feel with your fingertip",
+      "isPrimary": true
+    },
+    {
+      "label": "Shell thickness",
+      "description": "The shell feels noticeably heavy and thick for its size, with a solid, substantial weight that distinguishes it from thinner-shelled clams",
+      "isPrimary": false
+    },
+    {
+      "label": "Shell shape",
+      "description": "Nearly circular to oval outline when viewed from above, with a rounded, inflated appearance rather than flat or elongated",
+      "isPrimary": false
+    },
+    {
+      "label": "Surface texture",
+      "description": "The raised ridges create a rough, bumpy texture that catches your finger as you run it across the shell surface",
+      "isPrimary": false
+    },
+    {
+      "label": "Color pattern",
+      "description": "Usually whitish to pale brown with darker brown or gray markings, often showing concentric growth lines beneath the cross-barred ridges",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "In New England waters, this southern visitor is extremely rare, occasionally found washed up on sandy beaches from Cape Cod southward. When present, empty shells are most likely to be discovered along exposed ocean beaches after storms, particularly where warm Gulf Stream waters influence local currents. Living specimens would be found buried in sandy or muddy bottoms in shallow coastal waters.",
+  "seasonality": {
+    "spring": "Beach-washed shells may appear after winter storms have stirred up offshore sediments, though finding one would be exceptionally rare in New England.",
+    "summer": "Warm water periods might bring the best chance of finding shells, as southern species occasionally drift north with favorable currents.",
+    "fall": "Storm season could wash up shells from deeper waters or more southern locations, making this the most likely time for discoveries.",
+    "winter": "Harsh winter storms might occasionally uncover or transport shells northward, though extremely unlikely in New England waters."
+  },
+  "funFact": "This clam is such a rare find in New England that only 2 observations have ever been recorded in the region - making it rarer to spot than many tropical birds that occasionally visit during migration!",
+  "confusionNotes": "Most commonly confused with its close relative Chione cancellata, which has a more southern distribution. The key difference is in the ridge pattern details, though distinguishing between these two species often requires expert examination of shell characteristics.",
+  "contextualKnowledge": "Despite its name suggesting it belongs in Florida, this species actually represents the northern edge of a group of tropical clams, making any New England sighting a notable range extension. The extreme rarity in our region means most encounters will be with empty shells rather than living animals.",
+  "compareHints": "Within the Venus clam family in New England, this species stands out for its distinctive cross-barred ridge pattern, which is much more pronounced than the simple concentric ridges found on our common quahogs and littlenecks. The geometric precision of the intersecting ridges makes it unmistakable once you know what to look for, though you'd be incredibly lucky to find one on a New England beach.",
+  "relatedSpecies": [],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chione_elevata",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/253635"
+}

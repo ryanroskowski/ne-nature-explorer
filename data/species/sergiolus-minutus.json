@@ -1,0 +1,158 @@
+{
+  "slug": "sergiolus-minutus",
+  "taxonId": 710888,
+  "group": "arachnids",
+  "commonName": "Sergiolus minutus",
+  "scientificName": "Sergiolus minutus",
+  "family": "Gnaphosidae",
+  "familyCommonName": "Stealthy Ground Spiders",
+  "genus": "Sergiolus",
+  "genusCommonName": "Sergiolus",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Stealthy Ground Spiders",
+      "rank": "family",
+      "slug": "explore/stealthy-ground-spiders"
+    },
+    {
+      "label": "Sergiolus",
+      "rank": "genus",
+      "slug": "explore/sergiolus"
+    },
+    {
+      "label": "Sergiolus minutus",
+      "rank": "species",
+      "slug": "species/sergiolus-minutus"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 101265537,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101265537/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101265537/large.jpg",
+      "attribution": "(c) Josh Olive, some rights reserved (CC BY-NC-ND), uploaded by Josh Olive",
+      "licenseCode": "cc-by-nc-nd",
+      "observationUrl": "https://www.inaturalist.org/observations/71088800"
+    },
+    {
+      "id": 132684763,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/132684763/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/132684763/large.jpeg",
+      "attribution": "(c) dallinbailey, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/71088801"
+    },
+    {
+      "id": 119658935,
+      "mediumUrl": "https://static.inaturalist.org/photos/119658935/medium.jpeg",
+      "largeUrl": "https://static.inaturalist.org/photos/119658935/large.jpeg",
+      "attribution": "(c) Laurens V., all rights reserved, uploaded by Laurens V.",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/71088802"
+    }
+  ],
+  "nameStory": "The name 'Sergiolus minutus' comes from the Latin word 'minutus' meaning tiny or minute, which perfectly describes this diminutive spider. While it doesn't have a widely-used common name, it belongs to the stealthy ground spider family, named for their secretive hunting style as they prowl the ground at night without webs.",
+  "description": "This is an extremely small ground spider, measuring only 2-3mm in body length - about the size of a large grain of sand. It has a compact, oval-shaped body with relatively short legs compared to other spiders. The coloration is typically dark brown to blackish with a somewhat glossy appearance, and like all ground spiders, it's a nocturnal hunter that doesn't build webs to catch prey.",
+  "idTips": [
+    {
+      "label": "Size",
+      "description": "Incredibly tiny at just 2-3mm - you'll need a magnifying glass to see details clearly, and it's easily mistaken for a speck of dirt",
+      "isPrimary": true
+    },
+    {
+      "label": "Body Shape",
+      "description": "Compact and oval-shaped with a relatively flat profile when viewed from the side, feeling almost bead-like if gently touched",
+      "isPrimary": false
+    },
+    {
+      "label": "Web",
+      "description": "No web at all - this is a free-roaming hunter that you'll find wandering on surfaces rather than sitting in a web structure",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Moves in quick, darting motions when disturbed, often freezing completely when a light is shined on it during nighttime observations",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Generally uniform dark brown to black coloration with a subtle glossy sheen that catches light, lacking distinct patterns or stripes",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in leaf litter, under stones, and in soil crevices in deciduous and mixed forests throughout New England. Prefers moist microhabitats with good cover, often discovered when turning over logs or rocks in woodland areas. Most commonly encountered in mature forests with rich organic soil layers.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, emerging from winter shelter under logs and stones. This is when you're most likely to spot them during daytime searches.",
+    "summer": "Peak activity period with adults actively hunting at night. Mating occurs during this season, though observations are challenging due to their tiny size.",
+    "fall": "Adults continue hunting preparation for winter, often found deeper in leaf litter and soil crevices as they seek overwintering sites.",
+    "winter": "Inactive and hidden deep in soil, under bark, or in protected crevices where they remain dormant until spring warmth returns."
+  },
+  "funFact": "Despite being smaller than many ants, this tiny spider is actually a fierce predator that can overpower prey nearly its own size, including springtails and small mites - it's like a grain of sand that hunts!",
+  "confusionNotes": "Most commonly mistaken for tiny beetles, mites, or even specks of dirt due to its minute size and dark coloration. The key difference is watching for the characteristic spider leg arrangement (four pairs) and movement pattern - spiders move differently than insects, with a more fluid gait.",
+  "contextualKnowledge": "This species is so rarely encountered that it has been recorded only once in New England, making any sighting scientifically significant. The extreme rarity could be due to its tiny size making it easily overlooked rather than actual scarcity.",
+  "compareHints": "Sergiolus minutus is distinguished from its relatives like the Variegated Ground Spider by its much smaller size and uniform dark coloration. While other Sergiolus species may have patterns or reach 4-6mm, S. minutus remains consistently tiny and unmarked. The Common Patterned Ant-mimic Ground Spider has distinctive markings and is significantly larger.",
+  "relatedSpecies": [
+    {
+      "slug": "sergiolus-capulatus",
+      "commonName": "Variegated Ground Spider",
+      "scientificName": "Sergiolus capulatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23010965/medium.jpg",
+      "distinction": "Among its Sergiolus relatives, the Variegated Ground Spider is distinguished by its particularly mottled, bark-like camouflage pattern."
+    },
+    {
+      "slug": "sergiolus-tennesseensis",
+      "commonName": "Sergiolus tennesseensis",
+      "scientificName": "Sergiolus tennesseensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/42684754/medium.jpg",
+      "distinction": "Compared to its relatives like the more common Variegated Ground Spider, S."
+    },
+    {
+      "slug": "sergiolus-ocellatus",
+      "commonName": "Sergiolus ocellatus",
+      "scientificName": "Sergiolus ocellatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3983549/medium.JPG",
+      "distinction": "Compared to its relatives like the Variegated Ground Spider (S."
+    },
+    {
+      "slug": "sergiolus-montanus",
+      "commonName": "Common Patterned Ant-mimic Ground Spider",
+      "scientificName": "Sergiolus montanus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/44614312/medium.jpg",
+      "distinction": "Among its Sergiolus relatives, the Common Patterned Ant-mimic Ground Spider is distinguished by its more pronounced body patterns compared to the plainer Variegated Ground Spider."
+    },
+    {
+      "slug": "sergiolus-unimaculatus",
+      "commonName": "Sergiolus unimaculatus",
+      "scientificName": "Sergiolus unimaculatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/134912969/medium.jpg",
+      "distinction": "Among its Sergiolus relatives, this species is distinguished by having just one pale spot rather than the multiple spots or complex patterns seen in the Variegated Ground Spider or Common Patterned Ant-mimic Ground Spider."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/710888"
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "dichelopandalus-leptocerus",
+  "taxonId": 459562,
+  "group": "crustaceans",
+  "commonName": "Bristled Longbeak",
+  "scientificName": "Dichelopandalus leptocerus",
+  "family": "Pandalidae",
+  "familyCommonName": "Pandalid Shrimp",
+  "genus": "Dichelopandalus",
+  "genusCommonName": "Dichelopandalus",
+  "order": "Decapoda",
+  "orderCommonName": "Decapods",
+  "breadcrumb": [
+    {
+      "label": "Crustaceans",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Malacostracans",
+      "rank": "class",
+      "slug": "explore/malacostracans"
+    },
+    {
+      "label": "Decapods",
+      "rank": "order",
+      "slug": "explore/decapods"
+    },
+    {
+      "label": "Pandalid Shrimp",
+      "rank": "family",
+      "slug": "explore/pandalid-shrimp"
+    },
+    {
+      "label": "Dichelopandalus",
+      "rank": "genus",
+      "slug": "explore/dichelopandalus"
+    },
+    {
+      "label": "Bristled Longbeak",
+      "rank": "species",
+      "slug": "species/dichelopandalus-leptocerus"
+    }
+  ],
+  "observationCount": 3,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 38909022,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/38909022/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/38909022/large.jpeg",
+      "attribution": "(c) Joe Kunkel, some rights reserved (CC BY-NC), uploaded by Joe Kunkel",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/45956200"
+    },
+    {
+      "id": 150813568,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/150813568/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/150813568/large.jpeg",
+      "attribution": "(c) KSprague, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/91199260"
+    },
+    {
+      "id": 457127830,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/457127830/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/457127830/large.jpeg",
+      "attribution": "(c) Jovan Grollino, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/255122469"
+    },
+    {
+      "id": 11243199,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11243199/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11243199/large.jpeg",
+      "attribution": "(c) Crystal Hiltz, some rights reserved (CC BY-NC), uploaded by Crystal Hiltz",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/45956201"
+    }
+  ],
+  "nameStory": "The Bristled Longbeak gets its name from the impressive array of bristle-like hairs (called setae) that cover its body and its notably elongated rostrum - that pointed beak-like projection from its head. Like a tiny underwater porcupine with a sword for a nose, this shrimp's bristly armor and extended snout make it unmistakable among New England's marine creatures.",
+  "description": "The Bristled Longbeak is a small, delicate shrimp that lives in the deep, cold waters off New England's coast. This translucent crustacean grows to about 2-3 inches long and has the classic curved shrimp body shape. What makes it special is its remarkably long, needle-like rostrum (the pointed projection from its head) and the fuzzy coating of fine bristles that give it an almost hairy appearance underwater. Like other pandalid shrimp, it's a sequential hermaphrodite, starting life as a male and later becoming female.",
+  "idTips": [
+    {
+      "label": "Elongated rostrum",
+      "description": "The most striking feature is an extremely long, thin, sword-like projection from the head that can be nearly half the body length, feeling rigid and sharp to the touch",
+      "isPrimary": true
+    },
+    {
+      "label": "Bristly texture",
+      "description": "The entire body is covered in fine, hair-like bristles (setae) that give it a fuzzy, almost velvet-like texture when touched gently",
+      "isPrimary": false
+    },
+    {
+      "label": "Translucent body",
+      "description": "The body appears glass-like or crystal clear with a slight pinkish or orange tint, allowing you to see internal structures",
+      "isPrimary": false
+    },
+    {
+      "label": "Curved posture",
+      "description": "Maintains the characteristic shrimp C-curve with the tail curled under the body, giving it a comma-like profile",
+      "isPrimary": false
+    },
+    {
+      "label": "Size range",
+      "description": "Adults typically measure 2-3 inches from rostrum tip to tail, feeling surprisingly delicate and lightweight when handled",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "This deep-water species inhabits the continental shelf and slope waters off New England's coast, typically found at depths of 150-1,500 feet in cold, nutrient-rich waters. They prefer muddy or sandy bottoms where they can feed on small organisms and organic matter. You're most likely to encounter them as bycatch in deep-sea fishing operations or research trawls rather than finding them in shallow coastal waters.",
+  "seasonality": {
+    "spring": "Adults may be caught in research trawls as they begin their reproductive activities in the warming but still cold deep waters.",
+    "summer": "Peak reproductive season when egg-bearing females are most commonly observed in deep-water collections.",
+    "fall": "Young shrimp begin to mature and can be found at various life stages in deep-water sampling.",
+    "winter": "Adults retreat to slightly deeper waters and are less commonly encountered in routine sampling."
+  },
+  "funFact": "This shrimp starts life as a male but transforms into a female as it grows larger - and the bristles actually help it catch tiny food particles from the water like a living net, making it both a filter feeder and a predator!",
+  "confusionNotes": "Most likely confused with other deep-water pandalid shrimp, but the extremely long rostrum (longer than in most related species) and the dense covering of bristles make it distinctive. Remember: if the 'nose' is nearly half as long as the body and it feels fuzzy, you've found a Bristled Longbeak.",
+  "contextualKnowledge": "**Note: Information about this species is limited due to its deep-water habitat and rarity in collections.** The Bristled Longbeak is one of the lesser-known shrimp species in New England waters, primarily because it lives in depths that require specialized equipment to access.",
+  "compareHints": "Within the pandalid shrimp family, the Bristled Longbeak stands out for having one of the longest rostrums relative to body size and the most extensive bristle coverage. Other pandalid species in New England waters, like the Northern Shrimp, have much shorter rostrums and smoother bodies. The combination of extreme rostrum length and fuzzy texture is unique among our regional shrimp species.",
+  "relatedSpecies": [],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/459562"
+}

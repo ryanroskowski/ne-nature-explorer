@@ -1,0 +1,150 @@
+{
+  "slug": "hericium-abietis",
+  "taxonId": 55187,
+  "group": "fungi",
+  "commonName": "Bear's head",
+  "scientificName": "Hericium abietis",
+  "family": "Hericiaceae",
+  "familyCommonName": "Tooth Fungi",
+  "genus": "Hericium",
+  "genusCommonName": "Hericium",
+  "order": "Russulales",
+  "orderCommonName": "Russulales",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Basidiomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/basidiomycete-fungi"
+    },
+    {
+      "label": "Mushrooms, Bracket Fungi, Puffballs, and Allies",
+      "rank": "class",
+      "slug": "explore/mushrooms-bracket-fungi-puffballs-and-allies"
+    },
+    {
+      "label": "Russulales",
+      "rank": "order",
+      "slug": "explore/russulales"
+    },
+    {
+      "label": "Tooth Fungi",
+      "rank": "family",
+      "slug": "explore/tooth-fungi"
+    },
+    {
+      "label": "Hericium",
+      "rank": "genus",
+      "slug": "explore/hericium"
+    },
+    {
+      "label": "Bear's head",
+      "rank": "species",
+      "slug": "species/hericium-abietis"
+    }
+  ],
+  "observationCount": 5,
+  "abundanceTier": "moderate",
+  "photos": [
+    {
+      "id": 52549587,
+      "mediumUrl": "https://static.inaturalist.org/photos/52549587/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/52549587/large.jpg",
+      "attribution": "(c) ntune, all rights reserved, uploaded by ntune",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5518700"
+    },
+    {
+      "id": 32765163,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32765163/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32765163/large.jpeg",
+      "attribution": "(c) Drew Parker, some rights reserved (CC BY-NC), uploaded by Drew Parker",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5518701"
+    },
+    {
+      "id": 228961720,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/228961720/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/228961720/large.jpg",
+      "attribution": "(c) autumndorr, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/134336742"
+    },
+    {
+      "id": 319945228,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/319945228/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/319945228/large.jpg",
+      "attribution": "(c) lroseb, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/183378484"
+    },
+    {
+      "id": 315608195,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/315608195/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/315608195/large.jpg",
+      "attribution": "(c) mimicamilleri, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/181117864"
+    }
+  ],
+  "nameStory": "",
+  "description": "Bear's Head (Hericium abietis) is a striking white or cream-colored fungus belonging to the Tooth Fungi family, characterized by its distinctive cascading, icicle-like spines. This edible species is prized by foragers for its delicate, seafood-like flavor and tender texture.",
+  "idTips": [
+    {
+      "label": "Hanging Spines",
+      "description": "Long, thin, tooth-like spines hang downward from the fruiting body, resembling icicles or a bear's shaggy head",
+      "isPrimary": true
+    },
+    {
+      "label": "Color",
+      "description": "White to cream-colored when fresh, sometimes developing yellow or tan tones with age",
+      "isPrimary": false
+    },
+    {
+      "label": "Branching Structure",
+      "description": "Features a highly branched, cascading form with spine-covered branches extending from a central base",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found on dead or dying conifer trees, particularly firs and spruce, in cool, moist forests throughout New England.",
+  "seasonality": {
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
+  },
+  "funFact": "Bear's Head is sometimes called 'Monkey Head' or 'Pom Pom' fungus, and some cultures have traditionally used it in herbal medicine for its potential cognitive and neurological benefits.",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
+  "relatedSpecies": [
+    {
+      "slug": "hericium-americanum",
+      "commonName": "Bear's Head Tooth",
+      "scientificName": "Hericium americanum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/576898/medium.jpg",
+      "distinction": "Among its Hericium relatives, Bear's Head Tooth has the most pronounced branching structure with the longest dangling teeth."
+    },
+    {
+      "slug": "hericium-coralloides",
+      "commonName": "Coral tooth fungus",
+      "scientificName": "Hericium coralloides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13296024/medium.jpg",
+      "distinction": "Coral tooth fungus is much more intricately branched than its Hericium relatives - while lion's mane looks like a white waterfall of long spines and bear's head forms compact clusters, coral tooth creates the most complex branching pattern with shorter spines."
+    },
+    {
+      "slug": "hericium-erinaceus",
+      "commonName": "lion's-mane mushroom",
+      "scientificName": "Hericium erinaceus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/170247695/medium.jpg",
+      "distinction": "Lion's mane stands out from its Hericium relatives by forming a single, unbranched mass – think of a white pom-pom hanging from a tree."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Hericium_abietis",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/55187"
+}

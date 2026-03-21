@@ -1,0 +1,574 @@
+{
+  "slug": "lactarius-vinaceorufescens",
+  "taxonId": 155212,
+  "group": "fungi",
+  "commonName": "Yellow-latex Milkcap",
+  "scientificName": "Lactarius vinaceorufescens",
+  "family": "Russulaceae",
+  "familyCommonName": "Milkcaps, Brittlegills and Allies",
+  "genus": "Lactarius",
+  "genusCommonName": "Common Milkcaps",
+  "order": "Russulales",
+  "orderCommonName": "Russulales",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Basidiomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/basidiomycete-fungi"
+    },
+    {
+      "label": "Mushrooms, Bracket Fungi, Puffballs, and Allies",
+      "rank": "class",
+      "slug": "explore/mushrooms-bracket-fungi-puffballs-and-allies"
+    },
+    {
+      "label": "Russulales",
+      "rank": "order",
+      "slug": "explore/russulales"
+    },
+    {
+      "label": "Milkcaps, Brittlegills and Allies",
+      "rank": "family",
+      "slug": "explore/milkcaps-brittlegills-and-allies"
+    },
+    {
+      "label": "Common Milkcaps",
+      "rank": "genus",
+      "slug": "explore/common-milkcaps"
+    },
+    {
+      "label": "Yellow-latex Milkcap",
+      "rank": "species",
+      "slug": "species/lactarius-vinaceorufescens"
+    }
+  ],
+  "observationCount": 41,
+  "abundanceTier": "very-common",
+  "photos": [
+    {
+      "id": 441035705,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/441035705/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/441035705/large.jpeg",
+      "attribution": "(c) williammay1972, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/246980542"
+    },
+    {
+      "id": 314487101,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/314487101/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/314487101/large.jpg",
+      "attribution": "(c) g2bythesea, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/180531910"
+    },
+    {
+      "id": 739459,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/739459/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/739459/large.jpg",
+      "attribution": "(c) natureluvr01, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/15521204"
+    },
+    {
+      "id": 173129673,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173129673/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173129673/large.jpeg",
+      "attribution": "(c) Matt Pulk, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/103443875"
+    },
+    {
+      "id": 50320724,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50320724/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50320724/large.jpg",
+      "attribution": "(c) pinonbistro, some rights reserved (CC BY-NC), uploaded by pinonbistro",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/15521202"
+    },
+    {
+      "id": 173129712,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173129712/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173129712/large.jpeg",
+      "attribution": "(c) Matt Pulk, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/103443875"
+    },
+    {
+      "id": 739460,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/739460/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/739460/large.jpg",
+      "attribution": "(c) natureluvr01, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/15521200"
+    },
+    {
+      "id": 2340486,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340486/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340486/large.jpg",
+      "attribution": "(c) natureluvr01, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/15521205"
+    },
+    {
+      "id": 314487148,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/314487148/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/314487148/large.jpg",
+      "attribution": "(c) g2bythesea, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/180531910"
+    },
+    {
+      "id": 50320684,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50320684/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50320684/large.jpg",
+      "attribution": "(c) pinonbistro, some rights reserved (CC BY-NC), uploaded by pinonbistro",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/15521201"
+    },
+    {
+      "id": 318833165,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/318833165/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/318833165/large.jpg",
+      "attribution": "(c) dgorrill, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/182820947"
+    },
+    {
+      "id": 441035665,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/441035665/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/441035665/large.jpeg",
+      "attribution": "(c) williammay1972, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/246980542"
+    },
+    {
+      "id": 2340487,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340487/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340487/large.jpg",
+      "attribution": "(c) urbanlatinfemale, some rights reserved (CC BY-SA)",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/15521203"
+    },
+    {
+      "id": 441035631,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/441035631/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/441035631/large.jpeg",
+      "attribution": "(c) williammay1972, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/246980542"
+    },
+    {
+      "id": 314487072,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/314487072/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/314487072/large.jpg",
+      "attribution": "(c) g2bythesea, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/180531910"
+    },
+    {
+      "id": 173129744,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173129744/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173129744/large.jpeg",
+      "attribution": "(c) Matt Pulk, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/103443875"
+    }
+  ],
+  "nameStory": "",
+  "description": "Lactarius vinaceorufescens, commonly known as the Yellow-latex Milkcap, is a medium-sized mushroom in the Russulaceae family characterized by its distinctive reddish-brown to vinaceous cap and yellow milk (latex) that stains tissues. This species is found in New England and other temperate regions, where it plays an important ecological role in forest ecosystems.",
+  "idTips": [
+    {
+      "label": "Yellow Latex",
+      "description": "The mushroom exudes bright yellow to yellowish-orange milk when the gills or flesh are cut or bruised, which is the most distinctive feature.",
+      "isPrimary": true
+    },
+    {
+      "label": "Cap Color",
+      "description": "The cap displays reddish-brown to vinaceous (wine-colored) tones, sometimes with darker concentric zones, and can range from 2-5 cm in diameter.",
+      "isPrimary": false
+    },
+    {
+      "label": "Spore Print",
+      "description": "Produces a white to pale yellow spore print, and the gills are adnate to slightly decurrent with a pale color.",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Yellow-latex Milkcap grows in mycorrhizal associations with hardwood and coniferous forests throughout New England, preferring moist woodland floors rich in organic matter.",
+  "seasonality": {
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
+  },
+  "funFact": "The yellow latex is a defensive mechanism that tastes extremely bitter and acrid, deterring insects and herbivores from consuming the mushroom.",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
+  "relatedSpecies": [
+    {
+      "slug": "lactarius-indigo",
+      "commonName": "indigo milk cap",
+      "scientificName": "Lactarius indigo",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28314678/medium.jpg",
+      "distinction": "Among New England's many milkcap species, the indigo milk cap is unique for its blue coloration and blue latex."
+    },
+    {
+      "slug": "lactarius-lignyotus",
+      "commonName": "Chocolate Milky",
+      "scientificName": "Lactarius lignyotus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/111185410/medium.jpg",
+      "distinction": "Among New England's many milkcaps, the Chocolate Milky stands out with its rich brown cap and distinctly white stem base, unlike the Curry Milkcap which smells strongly of maple syrup, or the Indigo Milk Cap with its striking blue coloration."
+    },
+    {
+      "slug": "lactarius-thyinos",
+      "commonName": "Lactarius thyinos",
+      "scientificName": "Lactarius thyinos",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/54436725/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-subpurpureus",
+      "commonName": "Lactarius subpurpureus",
+      "scientificName": "Lactarius subpurpureus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/160287563/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-griseus",
+      "commonName": "Gray Milkcap",
+      "scientificName": "Lactarius griseus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154671796/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-deliciosus",
+      "commonName": "saffron milkcap",
+      "scientificName": "Lactarius deliciosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235753421/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-deterrimus",
+      "commonName": "Orange-latex Milky",
+      "scientificName": "Lactarius deterrimus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172926337/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-atroviridis",
+      "commonName": "dark-spotted milkcap",
+      "scientificName": "Lactarius atroviridis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133337/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-camphoratus",
+      "commonName": "Curry Milkcap",
+      "scientificName": "Lactarius camphoratus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109469768/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-chrysorrheus",
+      "commonName": "Yellowdrop Milkcap",
+      "scientificName": "Lactarius chrysorrheus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6993818/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-peckii",
+      "commonName": "Peck's milky cap",
+      "scientificName": "Lactarius peckii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4582134/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-helvus",
+      "commonName": "Burnt-sugar Milky",
+      "scientificName": "Lactarius helvus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52107267/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-tabidus",
+      "commonName": "Birch Milkcap",
+      "scientificName": "Lactarius tabidus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2436525/medium.JPG",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-mammosus",
+      "commonName": "pap milkcap",
+      "scientificName": "Lactarius mammosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/169148937/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-hibbardiae",
+      "commonName": "Lactarius hibbardiae",
+      "scientificName": "Lactarius hibbardiae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4160378/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-quietus",
+      "commonName": "Oakbug Milkcap",
+      "scientificName": "Lactarius quietus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110844769/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-rufus",
+      "commonName": "Rufous Milkcap",
+      "scientificName": "Lactarius rufus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/11819029/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-chelidonium",
+      "commonName": "Celandine Milkcap",
+      "scientificName": "Lactarius chelidonium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13091484/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-sordidus",
+      "commonName": "Lactarius sordidus",
+      "scientificName": "Lactarius sordidus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135551/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-torminosus",
+      "commonName": "Woolly Milkcap",
+      "scientificName": "Lactarius torminosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29239661/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-imperceptus",
+      "commonName": "Lactarius imperceptus",
+      "scientificName": "Lactarius imperceptus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11061534/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-hysginus",
+      "commonName": "dyed milkcap",
+      "scientificName": "Lactarius hysginus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52904895/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-glyciosmus",
+      "commonName": "Coconut Milkcap",
+      "scientificName": "Lactarius glyciosmus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/159869591/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-mutabilis",
+      "commonName": "Lactarius mutabilis",
+      "scientificName": "Lactarius mutabilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4160356/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "lactarius-pubescens",
+      "commonName": "Downy milk cap",
+      "scientificName": "Lactarius pubescens",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/11577391/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-paradoxus",
+      "commonName": "Silver-blue Milkcap",
+      "scientificName": "Lactarius paradoxus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11060944/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-repraesentaneus",
+      "commonName": "Purple-staining Bearded Milk Cap",
+      "scientificName": "Lactarius repraesentaneus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23417780/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-rimosellus",
+      "commonName": "Lactarius rimosellus",
+      "scientificName": "Lactarius rimosellus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22805089/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-vietus",
+      "commonName": "Grey Milkcap",
+      "scientificName": "Lactarius vietus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106320405/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-croceus",
+      "commonName": "Lactarius croceus",
+      "scientificName": "Lactarius croceus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/42457356/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-mucidus",
+      "commonName": "Lactarius mucidus",
+      "scientificName": "Lactarius mucidus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/252595240/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-hepaticus",
+      "commonName": "Liver Milkcap",
+      "scientificName": "Lactarius hepaticus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110027968/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-oculatus",
+      "commonName": "Eye Spot Milky",
+      "scientificName": "Lactarius oculatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181755/medium.JPG",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-uvidus",
+      "commonName": "Shiner",
+      "scientificName": "Lactarius uvidus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135531/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-fuliginosus",
+      "commonName": "Sooty Milkcap",
+      "scientificName": "Lactarius fuliginosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23301984/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-neotabidus",
+      "commonName": "Lactarius neotabidus",
+      "scientificName": "Lactarius neotabidus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24719195/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-rubidus",
+      "commonName": "Candy Cap",
+      "scientificName": "Lactarius rubidus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133458/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-affinis",
+      "commonName": "Lactarius affinis",
+      "scientificName": "Lactarius affinis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13077116/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-areolatus",
+      "commonName": "Lactarius areolatus",
+      "scientificName": "Lactarius areolatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5778475/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-argillaceifolius",
+      "commonName": "Clay-gilled Milkcap",
+      "scientificName": "Lactarius argillaceifolius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/180419220/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-cinereus",
+      "commonName": "Lactarius cinereus",
+      "scientificName": "Lactarius cinereus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13071240/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-pseudomucidus",
+      "commonName": "Gray-stemmed Milk Cap",
+      "scientificName": "Lactarius pseudomucidus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/105646965/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-scrobiculatus",
+      "commonName": "spotted milkcap",
+      "scientificName": "Lactarius scrobiculatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/232879464/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-maculatipes",
+      "commonName": "Lactarius maculatipes",
+      "scientificName": "Lactarius maculatipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5752478/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-turpis",
+      "commonName": "Ugly Milkcap",
+      "scientificName": "Lactarius turpis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/39927832/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-resimus",
+      "commonName": "rollrim milkcap",
+      "scientificName": "Lactarius resimus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31196266/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-aurantiosordidus",
+      "commonName": "Lactarius aurantiosordidus",
+      "scientificName": "Lactarius aurantiosordidus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/107039954/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-badiosanguineus",
+      "commonName": "Lactarius badiosanguineus",
+      "scientificName": "Lactarius badiosanguineus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/148537545/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-purpureoechinatus",
+      "commonName": "Lactarius purpureoechinatus",
+      "scientificName": "Lactarius purpureoechinatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13063818/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-fumosus",
+      "commonName": "Lactarius fumosus",
+      "scientificName": "Lactarius fumosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48642744/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lactarius-pseudoflexuosus",
+      "commonName": "Lactarius pseudoflexuosus",
+      "scientificName": "Lactarius pseudoflexuosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/320931494/medium.jpeg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lactarius_vinaceorufescens",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/155212"
+}

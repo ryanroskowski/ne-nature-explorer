@@ -1,0 +1,667 @@
+{
+  "slug": "andrena-asteris",
+  "taxonId": 199008,
+  "group": "insects",
+  "commonName": "Aster Mining Bee",
+  "scientificName": "Andrena asteris",
+  "family": "Andrenidae",
+  "familyCommonName": "Miner, Fairy, Allied Panurgine, and Oxaeine Bees",
+  "genus": "Andrena",
+  "genusCommonName": "Mining Bees",
+  "order": "Hymenoptera",
+  "orderCommonName": "Ants, Bees, Wasps, and Sawflies",
+  "breadcrumb": [
+    {
+      "label": "Insects",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Insects",
+      "rank": "class",
+      "slug": "explore/insects"
+    },
+    {
+      "label": "Ants, Bees, Wasps, and Sawflies",
+      "rank": "order",
+      "slug": "explore/ants-bees-wasps-and-sawflies"
+    },
+    {
+      "label": "Miner, Fairy, Allied Panurgine, and Oxaeine Bees",
+      "rank": "family",
+      "slug": "explore/miner-fairy-allied-panurgine-and-oxaeine-bees"
+    },
+    {
+      "label": "Mining Bees",
+      "rank": "genus",
+      "slug": "explore/mining-bees"
+    },
+    {
+      "label": "Aster Mining Bee",
+      "rank": "species",
+      "slug": "species/andrena-asteris"
+    }
+  ],
+  "observationCount": 292,
+  "abundanceTier": "common",
+  "photos": [
+    {
+      "id": 13114113,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13114113/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13114113/large.jpg",
+      "attribution": "(c) Heather Holm, some rights reserved (CC BY-NC), uploaded by Heather Holm",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19900805"
+    },
+    {
+      "id": 12169297,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12169297/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12169297/large.jpg",
+      "attribution": "(c) Heather Holm, some rights reserved (CC BY-NC), uploaded by Heather Holm",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19900800"
+    },
+    {
+      "id": 13114228,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13114228/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13114228/large.jpg",
+      "attribution": "(c) Heather Holm, some rights reserved (CC BY-NC), uploaded by Heather Holm",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19900804"
+    },
+    {
+      "id": 96524989,
+      "mediumUrl": "https://static.inaturalist.org/photos/96524989/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/96524989/large.jpg",
+      "attribution": "(c) mmnat, all rights reserved, uploaded by mmnat",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19900802"
+    },
+    {
+      "id": 92679011,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92679011/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92679011/large.jpg",
+      "attribution": "no rights reserved, uploaded by Glenn Berry",
+      "licenseCode": "cc0",
+      "observationUrl": "https://www.inaturalist.org/observations/19900803"
+    },
+    {
+      "id": 95742521,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/95742521/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/95742521/large.jpeg",
+      "attribution": "(c) annepurvis, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19900801"
+    },
+    {
+      "id": 53724567,
+      "mediumUrl": "https://static.inaturalist.org/photos/53724567/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/53724567/large.jpg",
+      "attribution": "(c) Angella Moorehouse, all rights reserved, uploaded by Angella Moorehouse",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19900806"
+    },
+    {
+      "id": 162177231,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/162177231/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/162177231/large.jpg",
+      "attribution": "(c) Nick Dorian, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/97507696"
+    },
+    {
+      "id": 154227144,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154227144/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154227144/large.jpg",
+      "attribution": "(c) dougburnham, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/93087491"
+    },
+    {
+      "id": 154227123,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154227123/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154227123/large.jpg",
+      "attribution": "(c) dougburnham, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/93087491"
+    },
+    {
+      "id": 154227163,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154227163/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154227163/large.jpg",
+      "attribution": "(c) dougburnham, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/93087491"
+    },
+    {
+      "id": 154227179,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154227179/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154227179/large.jpg",
+      "attribution": "(c) dougburnham, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/93087491"
+    },
+    {
+      "id": 154227203,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154227203/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154227203/large.jpg",
+      "attribution": "(c) dougburnham, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/93087491"
+    },
+    {
+      "id": 154227229,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154227229/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154227229/large.jpg",
+      "attribution": "(c) dougburnham, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/93087491"
+    },
+    {
+      "id": 11380787,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11380787/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11380787/large.jpg",
+      "attribution": "(c) Cory S. Sheffield. York University., some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/19900808"
+    }
+  ],
+  "nameStory": "The Aster Mining Bee gets its name from its strong preference for visiting asters and other fall-blooming flowers in the daisy family. Like all mining bees, it earns the 'mining' part of its name from the females' habit of excavating underground tunnels and chambers where they raise their young, much like tiny miners working below ground.",
+  "description": "The Aster Mining Bee is a solitary, medium-sized native bee that's part of New England's important group of ground-nesting pollinators. These bees are typically dark-colored with varying amounts of light hair on their bodies, and are roughly the size of a small honeybee. Unlike social bees that live in hives, each female Aster Mining Bee works alone, digging her own underground nest and provisioning it with pollen and nectar for her offspring. They're particularly active in late summer and fall when their favorite aster flowers are in bloom.",
+  "idTips": [
+    {
+      "label": "Ground nesting behavior",
+      "description": "Look for small piles of excavated soil with pencil-sized holes, often in sunny, well-drained areas with sparse vegetation - these are the telltale signs of mining bee activity",
+      "isPrimary": true
+    },
+    {
+      "label": "Fall flower preference",
+      "description": "Most commonly seen visiting white and purple asters, goldenrod, and other late-season wildflowers, often working methodically from bloom to bloom",
+      "isPrimary": false
+    },
+    {
+      "label": "Body appearance",
+      "description": "Dark bee with moderate amounts of pale hair, especially noticeable on the thorax and legs, giving them a somewhat fuzzy appearance when viewed closely",
+      "isPrimary": false
+    },
+    {
+      "label": "Flight pattern",
+      "description": "Flies with a steady, purposeful pattern between flowers and nesting sites, less erratic than smaller sweat bees but more direct than bumble bees",
+      "isPrimary": false
+    },
+    {
+      "label": "Size comparison",
+      "description": "About the same size as a worker honeybee but more robust-looking, with a less shiny, more matte appearance to their bodies",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for Aster Mining Bees in open areas with well-drained, sandy or loamy soil where they can easily excavate their nests. They prefer sunny locations like meadows, field edges, gardens, and disturbed areas where fall wildflowers are abundant. You'll often find their nesting aggregations in areas with sparse grass cover, such as along paths, in short-mown areas, or on gentle slopes.",
+  "seasonality": {
+    "spring": "Adults are not active yet - they're still developing in underground chambers from eggs laid the previous fall.",
+    "summer": "Late summer marks the beginning of adult emergence, with newly emerged bees beginning to establish territories and start nest excavation.",
+    "fall": "Peak activity period when adults are most visible, actively foraging on asters and goldenrod, mating, and females are busy digging nests and provisioning them with pollen.",
+    "winter": "Adults have died off, but next year's generation overwinters as developing larvae in the underground nest chambers."
+  },
+  "funFact": "Female Aster Mining Bees are essentially tiny time capsule makers - they pack each underground nursery chamber with a ball of pollen and nectar that contains exactly the right nutrients for one baby bee to develop through winter and emerge as an adult nearly a full year later.",
+  "confusionNotes": "Aster Mining Bees can be confused with other dark-colored bees visiting fall flowers, especially smaller carpenter bees or sweat bees. Look for the ground-nesting behavior and the small soil mounds near where you see the bees - other similar bees nest in wood or other locations, not in self-excavated ground tunnels.",
+  "contextualKnowledge": "The genus name 'Andrena' comes from Greek meaning 'manly' or 'brave,' which seems fitting for these industrious female bees who do all the hard work of excavating nests and raising young entirely on their own. Despite being called 'mining' bees, they're actually beneficial to soil health and don't damage lawns or gardens.",
+  "compareHints": "Among the many Andrena species in New England, the Aster Mining Bee is distinguished by its late-season flight period and preference for asters over other flowers. Many of its relatives like the Spring Beauty Miner or Cherry Mining Bee are active much earlier in the year and specialize on different plant families. The fall timing and aster preference make this species relatively easy to separate from most other mining bees in the region.",
+  "relatedSpecies": [
+    {
+      "slug": "andrena-hirticincta",
+      "commonName": "Hairy-banded Mining Bee",
+      "scientificName": "Andrena hirticincta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12145110/medium.jpg",
+      "distinction": "Among New England's many Andrena species, hairy-banded mining bees are distinguished by their prominent abdominal hair bands, which are more distinct than the subtle markings found on species like the cloudy-winged mining bee or spring beauty miner."
+    },
+    {
+      "slug": "andrena-wilkella",
+      "commonName": "Wilke's Mining Bee",
+      "scientificName": "Andrena wilkella",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12203721/medium.jpg",
+      "distinction": "Among New England's many mining bees, Wilke's Mining Bee is distinguished by its strong preference for Fabaceae flowers like clover, while relatives like the Aster Mining Bee favor composites or the Cherry Mining Bee prefers fruit tree blossoms."
+    },
+    {
+      "slug": "andrena-nubecula",
+      "commonName": "Cloudy-winged Mining Bee",
+      "scientificName": "Andrena nubecula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12167793/medium.jpg",
+      "distinction": "Among the many mining bee species in New England, the cloudy-winged mining bee stands out primarily due to its distinctly dusky wing coloration - most other Andrena species have clearer wings."
+    },
+    {
+      "slug": "andrena-milwaukeensis",
+      "commonName": "Milwaukee Mining Bee",
+      "scientificName": "Andrena milwaukeensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12169627/medium.jpg",
+      "distinction": "Among the many Andrena species in New England, Milwaukee Mining Bee is distinguished mainly through technical characteristics visible only under magnification."
+    },
+    {
+      "slug": "andrena-crataegi",
+      "commonName": "Hawthorn Mining Bee",
+      "scientificName": "Andrena crataegi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/198593875/medium.jpg",
+      "distinction": "Among New England's many Andrena species, the Hawthorn Mining Bee is distinguished by its strong association with rose family flowers and its mid-spring emergence timing."
+    },
+    {
+      "slug": "andrena-vicina",
+      "commonName": "Neighborly Mining Bee",
+      "scientificName": "Andrena vicina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/71177900/medium.jpeg",
+      "distinction": "Neighborly Mining Bees are distinguished from other Andrena species by their relatively small size and preference for clustered nesting sites."
+    },
+    {
+      "slug": "andrena-frigida",
+      "commonName": "Frigid Mining Bee",
+      "scientificName": "Andrena frigida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34742699/medium.jpg",
+      "distinction": "Among the dozens of mining bee species in New England, Frigid Mining Bee stands out primarily for its exceptional cold tolerance and very early emergence timing."
+    },
+    {
+      "slug": "andrena-dunningi",
+      "commonName": "Dunning's Miner",
+      "scientificName": "Andrena dunningi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/68196735/medium.jpg",
+      "distinction": "Distinguishing Dunning's Miner from other Andrena species requires close examination of subtle features like hair patterns and body proportions that are challenging for casual observers."
+    },
+    {
+      "slug": "andrena-helianthi",
+      "commonName": "Sunflower Mining Bee",
+      "scientificName": "Andrena helianthi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30312027/medium.jpg",
+      "distinction": "Among New England's many Andrena species, the Sunflower Mining Bee is most easily distinguished by its late-season activity period and strong sunflower preference - most other mining bees are spring or early summer specialists on different flowers."
+    },
+    {
+      "slug": "andrena-clarkella",
+      "commonName": "Clark's Mining Bee",
+      "scientificName": "Andrena clarkella",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/355723952/medium.jpeg",
+      "distinction": "Among New England's 60+ mining bee species, Clark's stands out for its early flight period and willow specialization."
+    },
+    {
+      "slug": "andrena-carlini",
+      "commonName": "Carlin's Mining Bee",
+      "scientificName": "Andrena carlini",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64758588/medium.jpg",
+      "distinction": "Among New England's many mining bee species, Carlin's Mining Bee is distinguished by its specific timing and habitat preferences, though identifying individual Andrena species often requires close examination by experts."
+    },
+    {
+      "slug": "andrena-nasonii",
+      "commonName": "Nason's Mining Bee",
+      "scientificName": "Andrena nasonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/131195068/medium.jpeg",
+      "distinction": "Nason's Mining Bee is part of a large genus with many similar-looking relatives in New England, making species-level identification challenging without close examination by experts."
+    },
+    {
+      "slug": "andrena-bradleyi",
+      "commonName": "Bradley's Mining Bee",
+      "scientificName": "Andrena bradleyi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/187626283/medium.jpg",
+      "distinction": "Bradley's Mining Bee is part of a huge complex of very similar-looking dark mining bees that are extremely difficult to distinguish without expert knowledge and often microscopic examination."
+    },
+    {
+      "slug": "andrena-miserabilis",
+      "commonName": "Miserable Mining Bee",
+      "scientificName": "Andrena miserabilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/259067065/medium.jpg",
+      "distinction": "Among New England's 60+ mining bee species, the Miserable Mining Bee stands out for its notably smooth face and plain dark coloration."
+    },
+    {
+      "slug": "andrena-rufosignata",
+      "commonName": "Brown-fovea Miner",
+      "scientificName": "Andrena rufosignata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/77924647/medium.jpg",
+      "distinction": "Among New England's many Andrena species, the Brown-fovea Miner is distinguished by its prominent reddish-brown facial marking, which is much more pronounced than the subtle facial features of relatives like the Hairy-banded or Cloudy-winged Mining Bees."
+    },
+    {
+      "slug": "andrena-erythrogaster",
+      "commonName": "Red-tailed Mining Bee",
+      "scientificName": "Andrena erythrogaster",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/196402047/medium.jpg",
+      "distinction": "Among the many Andrena mining bees in New England, the Red-tailed Mining Bee stands out for its particularly vibrant and extensive reddish coloration on the abdomen."
+    },
+    {
+      "slug": "andrena-alleghaniensis",
+      "commonName": "Allegheny Mining Bee",
+      "scientificName": "Andrena alleghaniensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/386952591/medium.jpeg",
+      "distinction": "Among New England's many mining bee species, the Allegheny Mining Bee is distinguished by its preference for forested mountain habitats rather than open meadows or gardens."
+    },
+    {
+      "slug": "andrena-nuda",
+      "commonName": "Nude Mining Bee",
+      "scientificName": "Andrena nuda",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/77924694/medium.jpg",
+      "distinction": "Among the many Andrena species in New England, the Nude Mining Bee stands out for its notably sparse body hair, while most of its relatives like the Hairy-banded Mining Bee have obvious fuzzy bands or patches."
+    },
+    {
+      "slug": "andrena-parnassiae",
+      "commonName": "Parnassia Miner",
+      "scientificName": "Andrena parnassiae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/155781524/medium.jpg",
+      "distinction": "Among the many Andrena species in New England, the Parnassia Miner stands out for its wet habitat preferences and late summer flight period."
+    },
+    {
+      "slug": "andrena-rugosa",
+      "commonName": "Rugose Mining Bee",
+      "scientificName": "Andrena rugosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/369515639/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-braccata",
+      "commonName": "Andrena braccata",
+      "scientificName": "Andrena braccata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/160351201/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-thaspii",
+      "commonName": "Meadow Parsnip Miner Bee",
+      "scientificName": "Andrena thaspii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/299012803/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-erigeniae",
+      "commonName": "Spring Beauty Miner",
+      "scientificName": "Andrena erigeniae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/271677076/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-pruni",
+      "commonName": "Cherry Mining Bee",
+      "scientificName": "Andrena pruni",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/309205444/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-integra",
+      "commonName": "Bare Dogwood Miner",
+      "scientificName": "Andrena integra",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30243177/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-carolina",
+      "commonName": "Carolina Miner Bee",
+      "scientificName": "Andrena carolina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/279678764/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-erythronii",
+      "commonName": "Trout-lily Mining Bee",
+      "scientificName": "Andrena erythronii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/38170382/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-nivalis",
+      "commonName": "Snowy Mining Bee",
+      "scientificName": "Andrena nivalis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/97764884/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-kalmiae",
+      "commonName": "Kalmia Miner Bee",
+      "scientificName": "Andrena kalmiae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/138090348/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-robervalensis",
+      "commonName": "Andrena robervalensis",
+      "scientificName": "Andrena robervalensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/155652742/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-tridens",
+      "commonName": "Tridentate Miner",
+      "scientificName": "Andrena tridens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128286672/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-cressonii",
+      "commonName": "Cresson's Mining Bee",
+      "scientificName": "Andrena cressonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4954622/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-hippotes",
+      "commonName": "Orange-legged Miner Bee",
+      "scientificName": "Andrena hippotes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/375691765/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-aliciae",
+      "commonName": "Yellow-faced Miner Bee",
+      "scientificName": "Andrena aliciae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50053137/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-distans",
+      "commonName": "Cranesbill Miner",
+      "scientificName": "Andrena distans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/507645564/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-wellesleyana",
+      "commonName": "Wellesley Miner Bee",
+      "scientificName": "Andrena wellesleyana",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/375163352/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-canadensis",
+      "commonName": "Canadian Mining Bee",
+      "scientificName": "Andrena canadensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153272357/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-geranii",
+      "commonName": "Waterleaf Mining Bee",
+      "scientificName": "Andrena geranii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18681843/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-cornelli",
+      "commonName": "Azalea Mining Bee",
+      "scientificName": "Andrena cornelli",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/148059244/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-ziziae",
+      "commonName": "Golden-Alexanders Mining Bee",
+      "scientificName": "Andrena ziziae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18681593/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-regularis",
+      "commonName": "Regular Mining Bee",
+      "scientificName": "Andrena regularis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/132207095/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-brevipalpis",
+      "commonName": "Short-palped Miner",
+      "scientificName": "Andrena brevipalpis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210245209/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "andrena-fragilis",
+      "commonName": "Fragile Miner Bee",
+      "scientificName": "Andrena fragilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/208124515/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-arabis",
+      "commonName": "Mustard Miner Bee",
+      "scientificName": "Andrena arabis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/188720818/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-robertsonii",
+      "commonName": "Robertson's Miner Bee",
+      "scientificName": "Andrena robertsonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/251585904/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-virginiana",
+      "commonName": "Virginia Mining Bee",
+      "scientificName": "Andrena virginiana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/550030412/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-violae",
+      "commonName": "Violet Miner",
+      "scientificName": "Andrena violae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/364323547/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-mariae",
+      "commonName": "Maria Miner Bee",
+      "scientificName": "Andrena mariae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/297230969/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-forbesii",
+      "commonName": "Forbes' Mining Bee",
+      "scientificName": "Andrena forbesii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/270436472/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-hilaris",
+      "commonName": "Andrena hilaris",
+      "scientificName": "Andrena hilaris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1771989/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-placata",
+      "commonName": "Peaceful Miner Bee",
+      "scientificName": "Andrena placata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/111908139/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-chromotricha",
+      "commonName": "Pigmented Miner Bee",
+      "scientificName": "Andrena chromotricha",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/221696681/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-krigiana",
+      "commonName": "Dwarf-dandelion Mining Bee",
+      "scientificName": "Andrena krigiana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119390891/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-algida",
+      "commonName": "Icy Miner Bee",
+      "scientificName": "Andrena algida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/378754893/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-platyparia",
+      "commonName": "Plated Miner Bee",
+      "scientificName": "Andrena platyparia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/286664729/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-nigrihirta",
+      "commonName": "Black-haired Miner Bee",
+      "scientificName": "Andrena nigrihirta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128937895/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-mandibularis",
+      "commonName": "Toothed Miner Bee",
+      "scientificName": "Andrena mandibularis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/188720736/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-imitatrix",
+      "commonName": "Imitator Miner Bee",
+      "scientificName": "Andrena imitatrix",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14193151/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-barbilabris",
+      "commonName": "Long-lipped Miner",
+      "scientificName": "Andrena barbilabris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12211536/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-persimulata",
+      "commonName": "Protuberance Miner Bee",
+      "scientificName": "Andrena persimulata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/200701516/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-nigrae",
+      "commonName": "Andrena nigrae",
+      "scientificName": "Andrena nigrae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177042946/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-rehni",
+      "commonName": "Rehn's Miner Bee",
+      "scientificName": "Andrena rehni",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/339607410/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-barbara",
+      "commonName": "Barbara's Mining Bee",
+      "scientificName": "Andrena barbara",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/117867934/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "andrena-confederata",
+      "commonName": "Southern Mining Bee",
+      "scientificName": "Andrena confederata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35492147/medium.jpg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Andrena_asteris",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199008"
+}

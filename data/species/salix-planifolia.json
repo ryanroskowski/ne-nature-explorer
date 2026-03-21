@@ -1,0 +1,423 @@
+{
+  "slug": "salix-planifolia",
+  "taxonId": 78951,
+  "group": "plants",
+  "commonName": "tea-leafed willow",
+  "scientificName": "Salix planifolia",
+  "family": "Salicaceae",
+  "familyCommonName": "willow family",
+  "genus": "Salix",
+  "genusCommonName": "Willows",
+  "order": "Malpighiales",
+  "orderCommonName": "Nances, Willows, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Vascular Plants",
+      "rank": "phylum",
+      "slug": "explore/vascular-plants"
+    },
+    {
+      "label": "Dicots",
+      "rank": "class",
+      "slug": "explore/dicots"
+    },
+    {
+      "label": "Nances, Willows, and Allies",
+      "rank": "order",
+      "slug": "explore/nances-willows-and-allies"
+    },
+    {
+      "label": "willow family",
+      "rank": "family",
+      "slug": "explore/willow-family"
+    },
+    {
+      "label": "Willows",
+      "rank": "genus",
+      "slug": "explore/willows"
+    },
+    {
+      "label": "tea-leafed willow",
+      "rank": "species",
+      "slug": "species/salix-planifolia"
+    }
+  ],
+  "observationCount": 59,
+  "abundanceTier": "common",
+  "photos": [
+    {
+      "id": 62684194,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62684194/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62684194/large.jpeg",
+      "attribution": "(c) Serguei Ponomarenko, some rights reserved (CC BY-NC), uploaded by Serguei Ponomarenko",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7895109"
+    },
+    {
+      "id": 208551820,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/208551820/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/208551820/large.jpg",
+      "attribution": "(c) er-birds, some rights reserved (CC BY), uploaded by er-birds",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/7895101"
+    },
+    {
+      "id": 573052247,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/573052247/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/573052247/large.jpg",
+      "attribution": "(c) wanderingeden, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/317145010"
+    },
+    {
+      "id": 573052149,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/573052149/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/573052149/large.jpg",
+      "attribution": "(c) wanderingeden, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/317145010"
+    },
+    {
+      "id": 9374368,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9374368/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9374368/large.jpg",
+      "attribution": "(c) Susan, some rights reserved (CC BY-NC), uploaded by Susan",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7895107"
+    },
+    {
+      "id": 61857103,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61857103/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61857103/large.jpeg",
+      "attribution": "(c) Serguei Ponomarenko, some rights reserved (CC BY-NC), uploaded by Serguei Ponomarenko",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7895105"
+    },
+    {
+      "id": 21244144,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21244144/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21244144/large.jpeg",
+      "attribution": "(c) Andrew Simon, some rights reserved (CC BY-NC), uploaded by Andrew Simon",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7895104"
+    },
+    {
+      "id": 394384868,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/394384868/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/394384868/large.jpg",
+      "attribution": "(c) Scott Bailey, some rights reserved (CC BY-NC), uploaded by Scott Bailey",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7895102"
+    },
+    {
+      "id": 573052217,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/573052217/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/573052217/large.jpg",
+      "attribution": "(c) wanderingeden, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/317145010"
+    },
+    {
+      "id": 573052281,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/573052281/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/573052281/large.jpg",
+      "attribution": "(c) wanderingeden, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/317145010"
+    },
+    {
+      "id": 204822713,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/204822713/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/204822713/large.jpg",
+      "attribution": "(c) whiskyjake, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7895100"
+    },
+    {
+      "id": 18852680,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18852680/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18852680/large.jpeg",
+      "attribution": "(c) jozien, some rights reserved (CC BY-NC), uploaded by jozien",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7895110"
+    },
+    {
+      "id": 573052183,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/573052183/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/573052183/large.jpg",
+      "attribution": "(c) wanderingeden, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/317145010"
+    },
+    {
+      "id": 79954595,
+      "mediumUrl": "https://static.inaturalist.org/photos/79954595/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/79954595/large.jpg",
+      "attribution": "(c) Evan Warren, all rights reserved, uploaded by Evan Warren",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7895103"
+    },
+    {
+      "id": 14555805,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14555805/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14555805/large.jpg",
+      "attribution": "(c) Samuel Brinker, some rights reserved (CC BY-NC), uploaded by Samuel Brinker",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7895106"
+    },
+    {
+      "id": 79954515,
+      "mediumUrl": "https://static.inaturalist.org/photos/79954515/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/79954515/large.jpg",
+      "attribution": "(c) Evan Warren, all rights reserved, uploaded by Evan Warren",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7895108"
+    }
+  ],
+  "nameStory": "The tea-leafed willow gets its name from its distinctive leaves that look remarkably similar to those of tea plants - oval-shaped with a leathery texture and prominent veining. The 'planifolia' part of its scientific name literally means 'flat-leaved,' referring to how the leaves lie relatively flat rather than curling or twisting like many other willows. Some folks also call it diamondleaf willow because the leaves can appear diamond-shaped when viewed from certain angles.",
+  "description": "Tea-leafed willow is a hardy, low-growing shrub that thrives in some of New England's most challenging environments. This tough little willow typically stays under 6 feet tall, forming dense, spreading colonies that hug the ground in exposed mountain areas. Its distinctive flat, oval leaves and compact growth habit make it quite different from the tall, graceful willows you might picture along streams. This is a plant built for survival in harsh, cold conditions where few other woody plants can thrive.",
+  "idTips": [
+    {
+      "label": "Leaves",
+      "description": "Oval to diamond-shaped leaves that feel thick and leathery to the touch, with prominent parallel veins running from base to tip - very similar to tea plant leaves in appearance and texture",
+      "isPrimary": true
+    },
+    {
+      "label": "Growth Habit",
+      "description": "Low, spreading shrub that rarely exceeds 6 feet tall, often forming dense colonies that appear to creep along the ground rather than growing upright",
+      "isPrimary": false
+    },
+    {
+      "label": "Flowers",
+      "description": "Small catkins (fuzzy, elongated flower clusters) that appear before the leaves in early spring, with male and female flowers on separate plants",
+      "isPrimary": false
+    },
+    {
+      "label": "Bark",
+      "description": "Smooth, reddish-brown to gray bark on young stems that feels firm and doesn't easily peel or flake off when rubbed",
+      "isPrimary": false
+    },
+    {
+      "label": "Buds",
+      "description": "Small, pointed winter buds that press closely against the stem and have a single scale covering them, often with a reddish tint",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "In New England, tea-leafed willow is found primarily in harsh, exposed locations at higher elevations - think rocky mountain slopes, alpine areas, and boggy spots where most other shrubs struggle to survive. It particularly loves areas with poor, acidic soils and can handle extreme cold and wind exposure. You're most likely to encounter it in the White Mountains of New Hampshire and similar rugged terrain in Vermont and Maine.",
+  "seasonality": {
+    "spring": "Small catkins appear before the leaves emerge, giving branches a fuzzy appearance in early spring when most other plants are still dormant.",
+    "summer": "The distinctive thick, leathery leaves are fully developed and easiest to identify, showing their characteristic tea-leaf appearance and prominent veining.",
+    "fall": "Leaves may turn yellow before dropping, and the plant begins to show its winter branching structure as foliage thins.",
+    "winter": "Bare branches reveal the low, spreading growth pattern and small, closely-pressed buds that help distinguish it from other winter shrubs."
+  },
+  "funFact": "This tough little willow can survive temperatures that would kill most other woody plants, growing happily in places where the ground may be frozen for 8-9 months of the year - it's essentially New England's version of arctic tundra vegetation!",
+  "confusionNotes": "Most easily confused with other low willows like bearberry willow, but tea-leafed willow's thick, prominently-veined leaves that really do look like tea plant leaves are the giveaway - run your finger along a leaf and feel for those distinct parallel veins running from base to tip.",
+  "contextualKnowledge": "Despite being in the same family as towering weeping willows and streamside pussy willows, this species represents the willow family's incredible adaptability - showing how the same plant group can produce everything from graceful riverside trees to hardy mountain survivors.",
+  "compareHints": "Unlike the familiar pussy willow with its large, fuzzy catkins and broad leaves, or the water-loving black willow with its narrow leaves, tea-leafed willow has those distinctive thick, oval leaves with prominent parallel veining. While most willows in our region prefer moist areas, this species thrives in harsh, exposed mountain conditions where its relatives would struggle to survive.",
+  "relatedSpecies": [
+    {
+      "slug": "salix-discolor",
+      "commonName": "pussy willow",
+      "scientificName": "Salix discolor",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/65143489/medium.jpg",
+      "distinction": "Among New England's many willow species, pussy willow stands out for its exceptionally soft, silvery catkins that appear before the leaves."
+    },
+    {
+      "slug": "salix-uva-ursi",
+      "commonName": "bearberry willow",
+      "scientificName": "Salix uva-ursi",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/377110/medium.jpg",
+      "distinction": "Bearberry willow is instantly distinguished from all other New England willows by its unique prostrate growth - every other willow species grows upright as shrubs or trees."
+    },
+    {
+      "slug": "salix-eriocephala",
+      "commonName": "heart-leaved willow",
+      "scientificName": "Salix eriocephala",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/149309765/medium.jpeg",
+      "distinction": "Among New England's willows, heart-leaved willow stands out for its combination of thick, persistently fuzzy-bottomed leaves with heart-shaped bases."
+    },
+    {
+      "slug": "salix-bebbiana",
+      "commonName": "bebb's willow",
+      "scientificName": "Salix bebbiana",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/202952406/medium.jpeg",
+      "distinction": "Among New England's willows, Bebb's willow stands out for its dense thicket-forming habit and adaptability to various soil types."
+    },
+    {
+      "slug": "salix-atrocinerea",
+      "commonName": "Rusty Willow",
+      "scientificName": "Salix atrocinerea",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/1910665/medium.jpg",
+      "distinction": "Among New England willows, rusty willow is most similar to grey willow (Salix cinerea), but rusty willow's twigs have that distinctive reddish-brown coloration versus grey willow's more grayish twigs."
+    },
+    {
+      "slug": "salix-nigra",
+      "commonName": "black willow",
+      "scientificName": "Salix nigra",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17363461/medium.jpg",
+      "distinction": "Among New England's many willow species, black willow stands out as the largest tree form with the darkest bark."
+    },
+    {
+      "slug": "salix-humilis",
+      "commonName": "Prairie Willow",
+      "scientificName": "Salix humilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135719946/medium.jpeg",
+      "distinction": "Among New England willows, prairie willow is unique in preferring dry, sunny sites while most others need moist to wet conditions."
+    },
+    {
+      "slug": "salix-cinerea",
+      "commonName": "Grey Willow",
+      "scientificName": "Salix cinerea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/99054997/medium.jpeg",
+      "distinction": "Grey willow differs from native pussy willow by having much more pronounced silvery-gray, woolly leaf undersides and tends to form denser thickets."
+    },
+    {
+      "slug": "salix-sericea",
+      "commonName": "silky willow",
+      "scientificName": "Salix sericea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/424003088/medium.jpeg",
+      "distinction": "Among New England's many willows, silky willow stands out for its distinctly silky leaf undersides - most other willows have smooth or only lightly hairy leaf backs."
+    },
+    {
+      "slug": "salix-interior",
+      "commonName": "interior sandbar willow",
+      "scientificName": "Salix interior",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2018205/medium.JPG",
+      "distinction": "Interior sandbar willow stands out from other New England willows by having the narrowest leaves in the genus - much thinner than pussy willow's oval leaves or black willow's lance-shaped ones."
+    },
+    {
+      "slug": "salix-petiolaris",
+      "commonName": "meadow willow",
+      "scientificName": "Salix petiolaris",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/8986454/medium.jpg",
+      "distinction": "Meadow willow is much shorter and more colony-forming than most other New England willows like black willow or pussy willow."
+    },
+    {
+      "slug": "salix-lucida",
+      "commonName": "shining willow",
+      "scientificName": "Salix lucida",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/182253816/medium.jpg",
+      "distinction": "Among New England's willows, shining willow stands out for its exceptional height and mirror-like leaves."
+    },
+    {
+      "slug": "salix-purpurea",
+      "commonName": "Purple Willow",
+      "scientificName": "Salix purpurea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4819890/medium.jpg",
+      "distinction": "Among New England's willows, purple willow is unique for its purple-red bark and blue-green leaves - pussy willow has gray bark and broader leaves, while black willow has dark, furrowed bark."
+    },
+    {
+      "slug": "salix-candida",
+      "commonName": "Sage-leaf willow",
+      "scientificName": "Salix candida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/140334125/medium.jpg",
+      "distinction": "Among New England willows, sage-leaf willow is unique for its distinctly fuzzy, silvery leaves that truly resemble herb sage."
+    },
+    {
+      "slug": "salix-pyrifolia",
+      "commonName": "Balsam Willow",
+      "scientificName": "Salix pyrifolia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/309749114/medium.jpeg",
+      "distinction": "Among New England's many willows, balsam willow is unique for its strong balsam fragrance - most other willows are essentially scentless."
+    },
+    {
+      "slug": "salix-herbacea",
+      "commonName": "Least Willow",
+      "scientificName": "Salix herbacea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9405756/medium.jpg",
+      "distinction": "Among New England willows, least willow is unmistakable due to its ground-hugging growth - all other willows in our region grow as upright shrubs or trees."
+    },
+    {
+      "slug": "salix-pedicellaris",
+      "commonName": "bog willow",
+      "scientificName": "Salix pedicellaris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/512935218/medium.jpg",
+      "distinction": "Bog willow differs from its willow relatives by staying much shorter and preferring acidic bog conditions rather than streamside locations."
+    },
+    {
+      "slug": "salix-pellita",
+      "commonName": "Satiny willow",
+      "scientificName": "Salix pellita",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10976530/medium.jpeg",
+      "distinction": "Among New England's many willows, satiny willow stands out for having the most dramatically silvery leaf undersides—much more pronounced than the similar silky willow or sage-leaf willow."
+    },
+    {
+      "slug": "salix-alba",
+      "commonName": "white willow",
+      "scientificName": "Salix alba",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70159039/medium.jpeg",
+      "distinction": "Among New England's willows, white willow stands out for its especially silvery leaf undersides and larger mature size."
+    },
+    {
+      "slug": "salix-argyrocarpa",
+      "commonName": "Labrador willow",
+      "scientificName": "Salix argyrocarpa",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/150175167/medium.jpg",
+      "distinction": "Unlike the familiar pussy willow with its large, showy catkins and bigger leaves, or the tall black willow found along rivers, Labrador willow stays remarkably small and compact."
+    },
+    {
+      "slug": "salix-integra",
+      "commonName": "dappled willow",
+      "scientificName": "Salix integra",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/372920999/medium.jpeg",
+      "distinction": "Unlike native New England willows such as pussy willow or black willow, dappled willow has variegated foliage and often opposite leaves rather than alternate ones."
+    },
+    {
+      "slug": "salix-serissima",
+      "commonName": "Autumn Willow",
+      "scientificName": "Salix serissima",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/225176854/medium.jpg",
+      "distinction": "Among New England willows, autumn willow stands out for its completely hairless leaves and stems - unlike pussy willow's fuzzy twigs, silky willow's silky leaf undersides, or meadow willow's slightly hairy stems."
+    },
+    {
+      "slug": "salix-myricoides",
+      "commonName": "Blueleaf Willow",
+      "scientificName": "Salix myricoides",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/578061/medium.JPG",
+      "distinction": "Among New England's willows, blueleaf willow is distinguished by its blue-green foliage color - most other willows have bright green or silvery leaves."
+    },
+    {
+      "slug": "salix-babylonica",
+      "commonName": "weeping willow",
+      "scientificName": "Salix babylonica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21231731/medium.jpeg",
+      "distinction": "Unlike other New England willows such as pussy willow or black willow that have upright or spreading branches, weeping willow is unmistakable due to its pendulous, drooping branch structure."
+    },
+    {
+      "slug": "salix-amygdaloides",
+      "commonName": "peachleaf willow",
+      "scientificName": "Salix amygdaloides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30609383/medium.png",
+      "distinction": "Among New England's willows, peachleaf willow stands out for its impressive tree size - most of our native willows like pussy willow or silky willow are shrubs or small trees."
+    },
+    {
+      "slug": "salix-caprea",
+      "commonName": "goat willow",
+      "scientificName": "Salix caprea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52631800/medium.jpg",
+      "distinction": "Unlike most New England willows which have narrow, lance-shaped leaves, goat willow stands out with its broad, oval, wrinkled leaves that look more like those of a poplar or apple tree."
+    },
+    {
+      "slug": "salix-viminalis",
+      "commonName": "basket willow",
+      "scientificName": "Salix viminalis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/56645828/medium.jpeg",
+      "distinction": "Basket willow stands out among New England's willows for its extremely narrow leaves and exceptionally long, straight, flexible branches - most native willows like pussy willow or black willow have broader leaves and shorter, less flexible shoots."
+    },
+    {
+      "slug": "salix-gracilistyla",
+      "commonName": "rose-gold pussy willow",
+      "scientificName": "Salix gracilistyla",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1571002/medium.jpg",
+      "distinction": "Among New England's many willow species, rose-gold pussy willow stands out for its ornamental catkin colors - most native willows like common pussy willow have plain silver-gray catkins."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Salix_planifolia",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/78951"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "picoides-dorsalis",
+  "taxonId": 17638,
+  "group": "birds",
+  "commonName": "American Three-toed Woodpecker",
+  "scientificName": "Picoides dorsalis",
+  "family": "Picidae",
+  "familyCommonName": "Woodpeckers",
+  "genus": "Picoides",
+  "genusCommonName": "Three-toed Woodpeckers",
+  "order": "Piciformes",
+  "orderCommonName": "Woodpeckers and Allies",
+  "breadcrumb": [
+    {
+      "label": "Birds",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Chordates",
+      "rank": "phylum",
+      "slug": "explore/chordates"
+    },
+    {
+      "label": "Birds",
+      "rank": "class",
+      "slug": "explore/birds"
+    },
+    {
+      "label": "Woodpeckers and Allies",
+      "rank": "order",
+      "slug": "explore/woodpeckers-and-allies"
+    },
+    {
+      "label": "Woodpeckers",
+      "rank": "family",
+      "slug": "explore/woodpeckers"
+    },
+    {
+      "label": "Three-toed Woodpeckers",
+      "rank": "genus",
+      "slug": "explore/three-toed-woodpeckers"
+    },
+    {
+      "label": "American Three-toed Woodpecker",
+      "rank": "species",
+      "slug": "species/picoides-dorsalis"
+    }
+  ],
+  "observationCount": 4,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 274203697,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/274203697/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/274203697/large.jpg",
+      "attribution": "(c) Sylvie Martel, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/158682285"
+    },
+    {
+      "id": 244961,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244961/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244961/large.jpg",
+      "attribution": "(c) Bryan Pfeiffer, some rights reserved (CC BY-NC), uploaded by Bryan Pfeiffer",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/1763801"
+    },
+    {
+      "id": 4349403,
+      "mediumUrl": "https://static.inaturalist.org/photos/4349403/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/4349403/large.jpg",
+      "attribution": "(c) Judd Patterson, all rights reserved, uploaded by Judd Patterson",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/1763803"
+    },
+    {
+      "id": 4491996,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4491996/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4491996/large.jpg",
+      "attribution": "(c) Tracey Fandre, some rights reserved (CC BY-NC-ND), uploaded by Tracey Fandre",
+      "licenseCode": "cc-by-nc-nd",
+      "observationUrl": "https://www.inaturalist.org/observations/1763802"
+    },
+    {
+      "id": 53465854,
+      "mediumUrl": "https://static.inaturalist.org/photos/53465854/medium.jpeg",
+      "largeUrl": "https://static.inaturalist.org/photos/53465854/large.jpeg",
+      "attribution": "(c) Mason Maron, all rights reserved, uploaded by Mason Maron",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/1763800"
+    },
+    {
+      "id": 4891783,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4891783/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4891783/large.jpg",
+      "attribution": "(c) Fyn Kynd, some rights reserved (CC BY-SA), uploaded by Fyn Kynd",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/1763804"
+    }
+  ],
+  "nameStory": "This woodpecker gets its name from having just three toes on each foot instead of the usual four that most woodpeckers have. The missing toe is the back-facing one (called the hallux), which gives these birds a different grip on tree bark. It's like nature's version of a specialized climbing tool!",
+  "description": "The American Three-toed Woodpecker is a medium-sized woodpecker about the size of a Robin. Males have a distinctive yellow patch on their heads, while females lack this bright crown. Their backs are heavily barred with black and white stripes, and they have mostly white underparts. These are quiet, methodical birds that specialize in feeding on beetle larvae in dead or dying trees.",
+  "idTips": [
+    {
+      "label": "Three toes",
+      "description": "Look closely at their feet - you'll see only three toes instead of four, with no backward-pointing toe. This gives them a different, more tripod-like grip on bark that you might notice in their climbing posture.",
+      "isPrimary": true
+    },
+    {
+      "label": "Barred back",
+      "description": "The back shows bold black and white horizontal stripes that look like a zebra pattern. These bars are crisp and well-defined, creating a striking ladder-like appearance down the bird's back.",
+      "isPrimary": false
+    },
+    {
+      "label": "Male's yellow crown",
+      "description": "Males sport a bright golden-yellow patch on top of their heads that catches sunlight like a small beacon. Females have the same black and white head pattern but completely lack any yellow coloring.",
+      "isPrimary": false
+    },
+    {
+      "label": "Methodical foraging",
+      "description": "Watch for their distinctive feeding behavior - they systematically strip bark off dead trees in large patches, creating obvious rectangular scars. You'll often hear the scraping sound of bark being peeled away rather than rapid drumming.",
+      "isPrimary": false
+    },
+    {
+      "label": "White underparts",
+      "description": "The chest and belly are clean white to pale, contrasting sharply with the heavily patterned back. The sides may show some light barring but nothing like the bold stripes on the back.",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "In New England, American Three-toed Woodpeckers are found almost exclusively in boreal forests at higher elevations, particularly in areas with recent fire damage, disease, or storm damage that has created standing dead trees. They prefer coniferous forests dominated by spruce and fir, especially where bark beetles have created ideal feeding conditions in dying trees.",
+  "seasonality": {
+    "spring": "Adults become more vocal during breeding season, though their calls are still quiet compared to other woodpeckers. Look for fresh bark-stripping activity on dead conifers as they establish territories.",
+    "summer": "Peak time for observing their distinctive bark-peeling feeding behavior. Young birds may be seen learning to forage, creating smaller, less systematic bark removal patterns.",
+    "fall": "Family groups may be encountered together before dispersing. Fresh bark chips and rectangular scars on dead trees indicate recent feeding activity.",
+    "winter": "Often easier to spot against snow when working on dark dead trees. Their methodical bark removal continues through winter as they pursue beetle larvae beneath the bark."
+  },
+  "funFact": "American Three-toed Woodpeckers can actually remove bark so systematically that they sometimes completely strip entire dead trees, creating what foresters call 'peeled poles' - perfectly smooth, white tree trunks that look like they've been power-washed!",
+  "confusionNotes": "Most likely confused with the Black-backed Woodpecker, which also has three toes but has a solid black back instead of barred black and white. Memory trick: 'Barred back = three-toed, black back = black-backed.' Hairy Woodpeckers are more common but have four toes and completely different foraging behavior.",
+  "contextualKnowledge": "With only 4 recorded observations in New England, this is one of our region's rarest woodpeckers. Most sightings occur during irruptive years when northern populations move south, or in areas recovering from major forest disturbances that create ideal beetle-infested habitat.",
+  "compareHints": "Compared to its close relative the Black-backed Woodpecker, the American Three-toed has the distinctive barred back pattern instead of solid black, and tends to be even more methodical in its bark-removal feeding style. Both species share the three-toed foot structure and preference for beetle larvae in dead conifers, but the Black-backed is slightly larger and more likely to drum loudly on resonant dead wood.",
+  "relatedSpecies": [
+    {
+      "slug": "picoides-arcticus",
+      "commonName": "Black-backed Woodpecker",
+      "scientificName": "Picoides arcticus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/419064489/medium.jpeg",
+      "distinction": "The Black-backed Woodpecker differs from its close relative, the American Three-toed Woodpecker, primarily in its back pattern - solid black versus white-barred."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/American_three-toed_woodpecker",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17638"
+}

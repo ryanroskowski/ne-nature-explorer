@@ -1,0 +1,3233 @@
+{
+  "timestamp": "2026-03-01T12:50:03.829Z",
+  "totalSpecies": 4056,
+  "nameCheck": {
+    "checked": 4056,
+    "exact": 4010,
+    "fuzzy": 10,
+    "synonyms": 128,
+    "higherRank": 14,
+    "noMatch": 22,
+    "issues": [
+      {
+        "taxonId": 950598,
+        "ourName": "Anemonoides quinquefolia",
+        "commonName": "wood anemone",
+        "matchType": "EXACT",
+        "gbifName": "Anemonoides quinquefolia (L.) Holub",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Anemonoides quinquefolia\""
+      },
+      {
+        "taxonId": 63115,
+        "ourName": "Dennstaedtia punctilobula",
+        "commonName": "hay-scented fern",
+        "matchType": "EXACT",
+        "gbifName": "Dennstaedtia punctilobula (Michx.) T.Moore",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Dennstaedtia punctilobula\""
+      },
+      {
+        "taxonId": 63058,
+        "ourName": "Osmunda claytoniana",
+        "commonName": "interrupted fern",
+        "matchType": "EXACT",
+        "gbifName": "Osmunda claytoniana L.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Osmunda claytoniana\""
+      },
+      {
+        "taxonId": 127186,
+        "ourName": "Securigera varia",
+        "commonName": "purple crownvetch",
+        "matchType": "EXACT",
+        "gbifName": "Securigera varia (L.) Lassen",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Securigera varia\""
+      },
+      {
+        "taxonId": 81595,
+        "ourName": "Sibbaldiopsis tridentata",
+        "commonName": "three-toothed cinquefoil",
+        "matchType": "EXACT",
+        "gbifName": "Sibbaldiopsis tridentata (Aiton) Rydb.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Sibbaldiopsis tridentata\""
+      },
+      {
+        "taxonId": 59986,
+        "ourName": "Monotropa hypopitys",
+        "commonName": "pinesap",
+        "matchType": "EXACT",
+        "gbifName": "Monotropa hypopitys L.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Monotropa hypopitys\""
+      },
+      {
+        "taxonId": 287345,
+        "ourName": "Linaria canadensis",
+        "commonName": "Canada toadflax",
+        "matchType": "EXACT",
+        "gbifName": "Linaria canadensis (L.) Dum.Cours.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Linaria canadensis\""
+      },
+      {
+        "taxonId": 126698,
+        "ourName": "Rhus copallinum",
+        "commonName": "shining sumac",
+        "matchType": "FUZZY",
+        "gbifName": "Rhus copallina",
+        "gbifRank": "SPECIES",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 99,
+        "issue": "Fuzzy match — possible typo? GBIF suggests \"Rhus copallina\""
+      },
+      {
+        "taxonId": 836799,
+        "ourName": "Mononeuria groenlandica",
+        "commonName": "Greenland stitchwort",
+        "matchType": "EXACT",
+        "gbifName": "Mononeuria groenlandica (Retz.) Dillenb. & Kadereit",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Mononeuria groenlandica\""
+      },
+      {
+        "taxonId": 130751,
+        "ourName": "Rubus dalibarda",
+        "commonName": "dewdrop",
+        "matchType": "EXACT",
+        "gbifName": "Rubus dalibarda L.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Rubus dalibarda\""
+      },
+      {
+        "taxonId": 1569019,
+        "ourName": "Senega sanguinea",
+        "commonName": "field milkwort",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 62398,
+        "ourName": "Gratiola aurea",
+        "commonName": "golden hedge-hyssop",
+        "matchType": "EXACT",
+        "gbifName": "Gratiola aurea Pursh",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Gratiola aurea\""
+      },
+      {
+        "taxonId": 859236,
+        "ourName": "Hypericum virginicum",
+        "commonName": "Virginia marsh St. John's-wort",
+        "matchType": "EXACT",
+        "gbifName": "Hypericum virginicum L.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Hypericum virginicum\""
+      },
+      {
+        "taxonId": 204158,
+        "ourName": "Liatris novae-angliae",
+        "commonName": "New England blazing star",
+        "matchType": "EXACT",
+        "gbifName": "Liatris novae-angliae (Lunell) Shinners",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Liatris novae-angliae\""
+      },
+      {
+        "taxonId": 143409,
+        "ourName": "Rhododendron prinophyllum",
+        "commonName": "early azalea",
+        "matchType": "EXACT",
+        "gbifName": "Rhododendron prinophyllum (Small) Millais",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Rhododendron prinophyllum\""
+      },
+      {
+        "taxonId": 122054,
+        "ourName": "Woodwardia virginica",
+        "commonName": "Virginia chainfern",
+        "matchType": "EXACT",
+        "gbifName": "Woodwardia virginica (L.) Sm.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Woodwardia virginica\""
+      },
+      {
+        "taxonId": 1569097,
+        "ourName": "Senega polygama",
+        "commonName": "racemed milkwort",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 204152,
+        "ourName": "Eubotrys racemosus",
+        "commonName": "fetterbush",
+        "matchType": "FUZZY",
+        "gbifName": "Eubotrys racemosa",
+        "gbifRank": "SPECIES",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 99,
+        "issue": "Fuzzy match — possible typo? GBIF suggests \"Eubotrys racemosa\""
+      },
+      {
+        "taxonId": 118731,
+        "ourName": "Woodwardia areolata",
+        "commonName": "netted chain fern",
+        "matchType": "EXACT",
+        "gbifName": "Woodwardia areolata (L.) T.Moore",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Woodwardia areolata\""
+      },
+      {
+        "taxonId": 78930,
+        "ourName": "Salicornia depressa",
+        "commonName": "Virginia Glasswort",
+        "matchType": "EXACT",
+        "gbifName": "Salicornia depressa Standl.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Salicornia depressa\""
+      },
+      {
+        "taxonId": 123638,
+        "ourName": "Acer ginnala",
+        "commonName": "Amur Maple",
+        "matchType": "EXACT",
+        "gbifName": "Acer ginnala Maxim.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Acer ginnala\""
+      },
+      {
+        "taxonId": 894458,
+        "ourName": "Waldsteinia fragarioides",
+        "commonName": "Appalachian barren-strawberry",
+        "matchType": "EXACT",
+        "gbifName": "Waldsteinia fragarioides (Michx.) Tratt.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Waldsteinia fragarioides\""
+      },
+      {
+        "taxonId": 320575,
+        "ourName": "Bartramia pomiformis",
+        "commonName": "Common Apple-moss",
+        "matchType": "EXACT",
+        "gbifName": "Bartramia pomiformis F.Weber & D.Mohr",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Bartramia pomiformis\""
+      },
+      {
+        "taxonId": 1617172,
+        "ourName": "Anatherum virginicum",
+        "commonName": "broomsedge bluestem",
+        "matchType": "EXACT",
+        "gbifName": "Anatherum virginicum Spreng.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Anatherum virginicum\""
+      },
+      {
+        "taxonId": 460193,
+        "ourName": "Potentilla hebiichigo",
+        "commonName": "Lesser Mock-strawberry",
+        "matchType": "EXACT",
+        "gbifName": "Potentilla hebiichigo Yonek. & H.Ohashi",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Potentilla hebiichigo\""
+      },
+      {
+        "taxonId": 130951,
+        "ourName": "Nabalus altissimus",
+        "commonName": "tall rattlesnake root",
+        "matchType": "FUZZY",
+        "gbifName": "Nabalus altissima",
+        "gbifRank": "SPECIES",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 99,
+        "issue": "Fuzzy match — possible typo? GBIF suggests \"Nabalus altissima\""
+      },
+      {
+        "taxonId": 122091,
+        "ourName": "Woodsia obtusa",
+        "commonName": "blunt woodsia",
+        "matchType": "EXACT",
+        "gbifName": "Woodsia obtusa (Spreng.) Torr.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Woodsia obtusa\""
+      },
+      {
+        "taxonId": 78843,
+        "ourName": "Rhamnus alnifolia",
+        "commonName": "Alderleaf Buckthorn",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Rhamnaceae",
+        "gbifRank": "FAMILY",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to FAMILY level — species name not recognized"
+      },
+      {
+        "taxonId": 1617154,
+        "ourName": "Anatherum glomeratum",
+        "commonName": "Bushy Bluestem",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 76793,
+        "ourName": "Elodea canadensis",
+        "commonName": "Canadian Waterweed",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Tracheophyta",
+        "gbifRank": "PHYLUM",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to PHYLUM level — species name not recognized"
+      },
+      {
+        "taxonId": 1614093,
+        "ourName": "Chelidonium diphyllum",
+        "commonName": "Celandine Poppy",
+        "matchType": "EXACT",
+        "gbifName": "Chelidonium diphyllum Michx.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Chelidonium diphyllum\""
+      },
+      {
+        "taxonId": 84305,
+        "ourName": "Carya tomentosa",
+        "commonName": "mockernut",
+        "matchType": "EXACT",
+        "gbifName": "Carya tomentosa (Lam.) Nutt.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Carya tomentosa\""
+      },
+      {
+        "taxonId": 52739,
+        "ourName": "Vaccinium fuscatum",
+        "commonName": "Black Highbush Blueberry",
+        "matchType": "EXACT",
+        "gbifName": "Vaccinium fuscatum Aiton",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Vaccinium fuscatum\""
+      },
+      {
+        "taxonId": 355624,
+        "ourName": "Hypericum fraseri",
+        "commonName": "Fraser's marsh St. John's-wort",
+        "matchType": "EXACT",
+        "gbifName": "Hypericum fraseri (Spach) Steud.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Hypericum fraseri\""
+      },
+      {
+        "taxonId": 204155,
+        "ourName": "Huperzia appressa",
+        "commonName": "mountain firmoss",
+        "matchType": "EXACT",
+        "gbifName": "Huperzia appressa (La Pylaie ex Desv.) Á.Löve & D.Löve",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Huperzia appressa\""
+      },
+      {
+        "taxonId": 523985,
+        "ourName": "Waldsteinia ternata",
+        "commonName": "Siberian barren strawberry",
+        "matchType": "EXACT",
+        "gbifName": "Waldsteinia ternata (Stephan) Fritsch",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Waldsteinia ternata\""
+      },
+      {
+        "taxonId": 1569029,
+        "ourName": "Senega nuttallii",
+        "commonName": "Nuttall's milkwort",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 62642,
+        "ourName": "Solanum rostratum",
+        "commonName": "buffalo-bur",
+        "matchType": "EXACT",
+        "gbifName": "Solanum rostratum Dunal",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Solanum rostratum\""
+      },
+      {
+        "taxonId": 204243,
+        "ourName": "Arctous alpina",
+        "commonName": "alpine bearberry",
+        "matchType": "EXACT",
+        "gbifName": "Arctous alpina (L.) Nied.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Arctous alpina\""
+      },
+      {
+        "taxonId": 161858,
+        "ourName": "Dicranum fulvum",
+        "commonName": "boulder broom moss",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Dicranaceae",
+        "gbifRank": "FAMILY",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to FAMILY level — species name not recognized"
+      },
+      {
+        "taxonId": 161856,
+        "ourName": "Dicranum flagellare",
+        "commonName": "Whip Fork Moss",
+        "matchType": "EXACT",
+        "gbifName": "Dicranum flagellare Hedw.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Dicranum flagellare\""
+      },
+      {
+        "taxonId": 836798,
+        "ourName": "Mononeuria glabra",
+        "commonName": "Appalachian sandwort",
+        "matchType": "EXACT",
+        "gbifName": "Mononeuria glabra (Michx.) Dillenb. & Kadereit",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Mononeuria glabra\""
+      },
+      {
+        "taxonId": 559683,
+        "ourName": "Cleome houtteana",
+        "commonName": "Spider flower",
+        "matchType": "EXACT",
+        "gbifName": "Cleome houtteana Schltdl.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Cleome houtteana\""
+      },
+      {
+        "taxonId": 1568998,
+        "ourName": "Senega aquilonia",
+        "commonName": "cross polygala",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 1280793,
+        "ourName": "Cyperus engelmannii",
+        "commonName": "Engelmann's Flatsedge",
+        "matchType": "EXACT",
+        "gbifName": "Cyperus engelmannii Steud.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Cyperus engelmannii\""
+      },
+      {
+        "taxonId": 950617,
+        "ourName": "Anemonoides blanda",
+        "commonName": "Greek Anemone",
+        "matchType": "EXACT",
+        "gbifName": "Anemonoides blanda (Schott & Kotschy) Holub",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Anemonoides blanda\""
+      },
+      {
+        "taxonId": 1569067,
+        "ourName": "Senega officinalis",
+        "commonName": "Seneca snakeroot",
+        "matchType": "EXACT",
+        "gbifName": "Senega officinalis Spach",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Senega officinalis\""
+      },
+      {
+        "taxonId": 950603,
+        "ourName": "Anemonoides nemorosa",
+        "commonName": "wood anemone",
+        "matchType": "EXACT",
+        "gbifName": "Anemonoides nemorosa (L.) Holub",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Anemonoides nemorosa\""
+      },
+      {
+        "taxonId": 1597481,
+        "ourName": "Ranunculus caricetorum",
+        "commonName": "fen crowfoot",
+        "matchType": "EXACT",
+        "gbifName": "Ranunculus caricetorum Greene",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Ranunculus caricetorum\""
+      },
+      {
+        "taxonId": 142824,
+        "ourName": "Athyrium niponicum",
+        "commonName": "Japanese painted fern",
+        "matchType": "EXACT",
+        "gbifName": "Athyrium niponicum (Mett) Hance",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Athyrium niponicum\""
+      },
+      {
+        "taxonId": 1569118,
+        "ourName": "Senega verticillata",
+        "commonName": "Whorled Milkwort",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 54522,
+        "ourName": "Pisum sativum",
+        "commonName": "Common Pea",
+        "matchType": "EXACT",
+        "gbifName": "Pisum sativum L.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Pisum sativum\""
+      },
+      {
+        "taxonId": 204186,
+        "ourName": "Platanthera macrophylla",
+        "commonName": "Large-leaved Bog Orchid",
+        "matchType": "EXACT",
+        "gbifName": "Platanthera macrophylla (Goldie) P.M.Br.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Platanthera macrophylla\""
+      },
+      {
+        "taxonId": 62772,
+        "ourName": "Aristolochia macrophylla",
+        "commonName": "pipevine",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Aristolochiaceae",
+        "gbifRank": "FAMILY",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to FAMILY level — species name not recognized"
+      },
+      {
+        "taxonId": 204361,
+        "ourName": "Nabalus serpentaria",
+        "commonName": "lion's foot rattlesnake root",
+        "matchType": "FUZZY",
+        "gbifName": "Nabalus serpentarius",
+        "gbifRank": "SPECIES",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 99,
+        "issue": "Fuzzy match — possible typo? GBIF suggests \"Nabalus serpentarius\""
+      },
+      {
+        "taxonId": 204328,
+        "ourName": "Hypericum stragulum",
+        "commonName": "low St. John's wort",
+        "matchType": "EXACT",
+        "gbifName": "Hypericum stragulum P.B.Adams & N.Robson",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Hypericum stragulum\""
+      },
+      {
+        "taxonId": 553158,
+        "ourName": "Opuntia cespitosa",
+        "commonName": "Eastern Pricklypear",
+        "matchType": "EXACT",
+        "gbifName": "Opuntia cespitosa Raf.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Opuntia cespitosa\""
+      },
+      {
+        "taxonId": 157984,
+        "ourName": "Acorus americanus",
+        "commonName": "American Sweet-Flag",
+        "matchType": "EXACT",
+        "gbifName": "Acorus americanus (Raf.) Raf.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Acorus americanus\""
+      },
+      {
+        "taxonId": 1499350,
+        "ourName": "Carex billingsii",
+        "commonName": "Billings' sedge",
+        "matchType": "EXACT",
+        "gbifName": "Carex billingsii (O.W.Knight) Kirschb.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Carex billingsii\""
+      },
+      {
+        "taxonId": 1569105,
+        "ourName": "Senega ambigua",
+        "commonName": "ambiguous whorled milkwort",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 204199,
+        "ourName": "Spinulum canadense",
+        "commonName": "Northern Clubmoss",
+        "matchType": "EXACT",
+        "gbifName": "Spinulum canadense (Romhild ex Nessel) A.Haines",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Spinulum canadense\""
+      },
+      {
+        "taxonId": 204316,
+        "ourName": "Eupatorium novae-angliae",
+        "commonName": "New England Boneset",
+        "matchType": "FUZZY",
+        "gbifName": "Eupatorium novaeangliae",
+        "gbifRank": "SPECIES",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 98,
+        "issue": "Fuzzy match — possible typo? GBIF suggests \"Eupatorium novaeangliae\""
+      },
+      {
+        "taxonId": 1506724,
+        "ourName": "Sagittaria spongiosa",
+        "commonName": "Spongy Arrowhead",
+        "matchType": "FUZZY",
+        "gbifName": "Sagittaria spongiosus",
+        "gbifRank": "SPECIES",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 99,
+        "issue": "Fuzzy match — possible typo? GBIF suggests \"Sagittaria spongiosus\""
+      },
+      {
+        "taxonId": 165091,
+        "ourName": "Malaxis brachypoda",
+        "commonName": "White Adder's-mouth",
+        "matchType": "EXACT",
+        "gbifName": "Malaxis brachypoda (A.Gray) Fernald",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Malaxis brachypoda\""
+      },
+      {
+        "taxonId": 859269,
+        "ourName": "Veronica umbrosa",
+        "commonName": "Creeping Speedwell",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Veronica",
+        "gbifRank": "GENUS",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to GENUS level — species name not recognized"
+      },
+      {
+        "taxonId": 1104093,
+        "ourName": "Xanthidium wewahitchkense",
+        "commonName": "Xanthidium wewahitchkense",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 164247,
+        "ourName": "Jubula pennsylvanica",
+        "commonName": "Jubula pennsylvanica",
+        "matchType": "EXACT",
+        "gbifName": "Jubula pennsylvanica (Steph.) A.Evans",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Jubula pennsylvanica\""
+      },
+      {
+        "taxonId": 159498,
+        "ourName": "Bryhnia novae-angliae",
+        "commonName": "New England Bryhnia Moss",
+        "matchType": "EXACT",
+        "gbifName": "Bryhnia novae-angliae (Sull. & Lesq.) Grout",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Bryhnia novae-angliae\""
+      },
+      {
+        "taxonId": 161864,
+        "ourName": "Dicranum montanum",
+        "commonName": "Montane Dicranum Moss",
+        "matchType": "EXACT",
+        "gbifName": "Dicranum montanum Hedw.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Dicranum montanum\""
+      },
+      {
+        "taxonId": 169490,
+        "ourName": "Symphyotrichum tradescanti",
+        "commonName": "Tradescant's aster",
+        "matchType": "FUZZY",
+        "gbifName": "Symphyotrichum tradescantii",
+        "gbifRank": "SPECIES",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 99,
+        "issue": "Fuzzy match — possible typo? GBIF suggests \"Symphyotrichum tradescantii\""
+      },
+      {
+        "taxonId": 62770,
+        "ourName": "Aristolochia tomentosa",
+        "commonName": "woolly Dutchman's pipe",
+        "matchType": "EXACT",
+        "gbifName": "Aristolochia tomentosa Sims",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Aristolochia tomentosa\""
+      },
+      {
+        "taxonId": 169667,
+        "ourName": "Thamnobryum alleghaniense",
+        "commonName": "Alleghany Thamnobryum Moss",
+        "matchType": "EXACT",
+        "gbifName": "Thamnobryum alleghaniense (Müll.Hal.) Nieuwl.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Thamnobryum alleghaniense\""
+      },
+      {
+        "taxonId": 549981,
+        "ourName": "Primula meadia",
+        "commonName": "eastern shooting star",
+        "matchType": "EXACT",
+        "gbifName": "Primula meadia (L.) A.R.Mast & Reveal",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Primula meadia\""
+      },
+      {
+        "taxonId": 950596,
+        "ourName": "Anemonoides ranunculoides",
+        "commonName": "Yellow Anemone",
+        "matchType": "EXACT",
+        "gbifName": "Anemonoides ranunculoides (L.) Holub",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Anemonoides ranunculoides\""
+      },
+      {
+        "taxonId": 543069,
+        "ourName": "Anomodon tristis",
+        "commonName": "Anomodon tristis",
+        "matchType": "EXACT",
+        "gbifName": "Anomodon tristis (Ces.) Sull.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Anomodon tristis\""
+      },
+      {
+        "taxonId": 166550,
+        "ourName": "Peucedanum palustre",
+        "commonName": "Milk Parsley",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Apiaceae",
+        "gbifRank": "FAMILY",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to FAMILY level — species name not recognized"
+      },
+      {
+        "taxonId": 126887,
+        "ourName": "Berberis aquifolium",
+        "commonName": "Oregon grape",
+        "matchType": "EXACT",
+        "gbifName": "Berberis aquifolium Pursh",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Berberis aquifolium\""
+      },
+      {
+        "taxonId": 1562069,
+        "ourName": "Mutarda arvensis",
+        "commonName": "charlock",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 162293,
+        "ourName": "Elymus wiegandii",
+        "commonName": "Wiegand's wild rye",
+        "matchType": "EXACT",
+        "gbifName": "Elymus wiegandii Fernald",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Elymus wiegandii\""
+      },
+      {
+        "taxonId": 204184,
+        "ourName": "Eupatorium pubescens",
+        "commonName": "roundleaf thoroughwort",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Asteraceae",
+        "gbifRank": "FAMILY",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to FAMILY level — species name not recognized"
+      },
+      {
+        "taxonId": 204239,
+        "ourName": "Anthoxanthum hirtum",
+        "commonName": "northern sweetgrass",
+        "matchType": "EXACT",
+        "gbifName": "Anthoxanthum hirtum (Schrank) Y.Schouten & Veldkamp",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Anthoxanthum hirtum\""
+      },
+      {
+        "taxonId": 204378,
+        "ourName": "Persicaria puritanorum",
+        "commonName": "Puritan Smartweed",
+        "matchType": "EXACT",
+        "gbifName": "Persicaria puritanorum (Fernald) Soják",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Persicaria puritanorum\""
+      },
+      {
+        "taxonId": 1121982,
+        "ourName": "Ptychostomum capillare",
+        "commonName": "Capillary Thread-moss",
+        "matchType": "EXACT",
+        "gbifName": "Ptychostomum capillare (Hedw.) Holyoak & N.Pedersen",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Ptychostomum capillare\""
+      },
+      {
+        "taxonId": 154562,
+        "ourName": "Xanthium echinatum",
+        "commonName": "Beach Cocklebur",
+        "matchType": "EXACT",
+        "gbifName": "Xanthium echinatum Murray",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Xanthium echinatum\""
+      },
+      {
+        "taxonId": 157560,
+        "ourName": "Helodium blandovii",
+        "commonName": "Blandow's Bog Moss",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 164569,
+        "ourName": "Lespedeza frutescens",
+        "commonName": "violet bush clover",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Lespedeza",
+        "gbifRank": "GENUS",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to GENUS level — species name not recognized"
+      },
+      {
+        "taxonId": 204277,
+        "ourName": "Crataegus biltmoreana",
+        "commonName": "Biltmore Hawthorn",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Crataegus",
+        "gbifRank": "GENUS",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to GENUS level — species name not recognized"
+      },
+      {
+        "taxonId": 468209,
+        "ourName": "Coelastrum pulchrum",
+        "commonName": "Coelastrum pulchrum",
+        "matchType": "EXACT",
+        "gbifName": "Coelastrum pulchrum Schmidle",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Coelastrum pulchrum\""
+      },
+      {
+        "taxonId": 159058,
+        "ourName": "Atriplex acadiensis",
+        "commonName": "Maritime Saltbush",
+        "matchType": "EXACT",
+        "gbifName": "Atriplex acadiensis Tascher.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Atriplex acadiensis\""
+      },
+      {
+        "taxonId": 1555489,
+        "ourName": "Mutarda nigra",
+        "commonName": "Black Mustard",
+        "matchType": "EXACT",
+        "gbifName": "Mutarda nigra (L.) Bernh.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Mutarda nigra\""
+      },
+      {
+        "taxonId": 160829,
+        "ourName": "Conioselinum chinense",
+        "commonName": "hemlock-parsley",
+        "matchType": "EXACT",
+        "gbifName": "Conioselinum chinense (L.) Britton, Sterns & Poggenb.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Conioselinum chinense\""
+      },
+      {
+        "taxonId": 1580871,
+        "ourName": "Crataegus pisifera",
+        "commonName": "Pea Hawthorn",
+        "matchType": "EXACT",
+        "gbifName": "Crataegus pisifera Sarg.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Crataegus pisifera\""
+      },
+      {
+        "taxonId": 118523,
+        "ourName": "Cerastium strictum",
+        "commonName": "American Field Chickweed",
+        "matchType": "EXACT",
+        "gbifName": "Cerastium strictum L.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Cerastium strictum\""
+      },
+      {
+        "taxonId": 244877,
+        "ourName": "Ranunculus septentrionalis",
+        "commonName": "Swamp Buttercup",
+        "matchType": "EXACT",
+        "gbifName": "Ranunculus septentrionalis F.Debray",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Ranunculus septentrionalis\""
+      },
+      {
+        "taxonId": 1552247,
+        "ourName": "Dasya pedicellata",
+        "commonName": "Chenille Weed",
+        "matchType": "EXACT",
+        "gbifName": "Dasya pedicellata (C.Agardh) C.Agardh",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Dasya pedicellata\""
+      },
+      {
+        "taxonId": 277657,
+        "ourName": "Berberis bealei",
+        "commonName": "leatherleaf mahonia",
+        "matchType": "EXACT",
+        "gbifName": "Berberis bealei Fortune",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Berberis bealei\""
+      },
+      {
+        "taxonId": 564939,
+        "ourName": "Vertebrata fucoides",
+        "commonName": "Vertebrata fucoides",
+        "matchType": "EXACT",
+        "gbifName": "Vertebrata fucoides (Huds.) Kuntze",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Vertebrata fucoides\""
+      },
+      {
+        "taxonId": 1363874,
+        "ourName": "Alchemilla australis",
+        "commonName": "Slender parsley-piert",
+        "matchType": "EXACT",
+        "gbifName": "Alchemilla australis (Rydb.) Bomble",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Alchemilla australis\""
+      },
+      {
+        "taxonId": 1629982,
+        "ourName": "Crataegus stonei",
+        "commonName": "Stone's Hawthorn",
+        "matchType": "EXACT",
+        "gbifName": "Crataegus stonei Sarg.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Crataegus stonei\""
+      },
+      {
+        "taxonId": 55736,
+        "ourName": "Sanguisorba minor",
+        "commonName": "Salad Burnet",
+        "matchType": "EXACT",
+        "gbifName": "Sanguisorba minor Scop.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Sanguisorba minor\""
+      },
+      {
+        "taxonId": 61202,
+        "ourName": "Elymus trachycaulus",
+        "commonName": "slender wheat grass",
+        "matchType": "EXACT",
+        "gbifName": "Elymus trachycaulus (Link) Gould ex Shinners",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Elymus trachycaulus\""
+      },
+      {
+        "taxonId": 159528,
+        "ourName": "Bryum dichotomum",
+        "commonName": "Bicoloured Bryum",
+        "matchType": "EXACT",
+        "gbifName": "Bryum dichotomum Hedw.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Bryum dichotomum\""
+      },
+      {
+        "taxonId": 274972,
+        "ourName": "Campyliadelphus chrysophyllus",
+        "commonName": "Golden Feather-moss",
+        "matchType": "EXACT",
+        "gbifName": "Campyliadelphus chrysophyllus (Brid.) Kanda",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Campyliadelphus chrysophyllus\""
+      },
+      {
+        "taxonId": 873948,
+        "ourName": "Pteridium latiusculum",
+        "commonName": "eastern brackenfern",
+        "matchType": "EXACT",
+        "gbifName": "Pteridium latiusculum (Desv.) Hieron.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Pteridium latiusculum\""
+      },
+      {
+        "taxonId": 889836,
+        "ourName": "Planotaenium interruptum",
+        "commonName": "Planotaenium interruptum",
+        "matchType": "EXACT",
+        "gbifName": "Planotaenium interruptum (Brébisson ex Ralfs) Petlovany & Palamar-Mordvintseva",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Planotaenium interruptum\""
+      },
+      {
+        "taxonId": 1497465,
+        "ourName": "Trichostema coeruleum",
+        "commonName": "pennyroyal bluecurls",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 1650107,
+        "ourName": "Monactinus biwae",
+        "commonName": "Monactinus biwae",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 54461,
+        "ourName": "Aristolochia serpentaria",
+        "commonName": "Virginia snakeroot",
+        "matchType": "EXACT",
+        "gbifName": "Aristolochia serpentaria L.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Aristolochia serpentaria\""
+      },
+      {
+        "taxonId": 60973,
+        "ourName": "Leontodon saxatilis",
+        "commonName": "Hairy Hawkbit",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Asteraceae",
+        "gbifRank": "FAMILY",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to FAMILY level — species name not recognized"
+      },
+      {
+        "taxonId": 129655,
+        "ourName": "Racomitrium aciculare",
+        "commonName": "Yellow Fringe-moss",
+        "matchType": "EXACT",
+        "gbifName": "Racomitrium aciculare (Hedw.) Brid.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Racomitrium aciculare\""
+      },
+      {
+        "taxonId": 163335,
+        "ourName": "Glyceria laxa",
+        "commonName": "limp mannagrass",
+        "matchType": "EXACT",
+        "gbifName": "Glyceria laxa (Scribn.) Scribn.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Glyceria laxa\""
+      },
+      {
+        "taxonId": 167735,
+        "ourName": "Ranunculus lapponicus",
+        "commonName": "Lapland Buttercup",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Ranunculaceae",
+        "gbifRank": "FAMILY",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to FAMILY level — species name not recognized"
+      },
+      {
+        "taxonId": 169254,
+        "ourName": "Spiraea septentrionalis",
+        "commonName": "Northern Meadowsweet",
+        "matchType": "EXACT",
+        "gbifName": "Spiraea septentrionalis (Fernald) Á.Löve & D.Löve",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Spiraea septentrionalis\""
+      },
+      {
+        "taxonId": 169725,
+        "ourName": "Thinopyrum pycnanthum",
+        "commonName": "Tick Quackgrass",
+        "matchType": "EXACT",
+        "gbifName": "Thinopyrum pycnanthum (Godr.) Barkworth",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Thinopyrum pycnanthum\""
+      },
+      {
+        "taxonId": 429957,
+        "ourName": "Acrosiphonia coalita",
+        "commonName": "green rope",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 446235,
+        "ourName": "Crocus sublimis",
+        "commonName": "Crocus sublimis",
+        "matchType": "EXACT",
+        "gbifName": "Crocus sublimis Herb.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Crocus sublimis\""
+      },
+      {
+        "taxonId": 468570,
+        "ourName": "Staurastrum wolleanum",
+        "commonName": "Staurastrum wolleanum",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 1550153,
+        "ourName": "Cuscuta saururi",
+        "commonName": "Cuscuta saururi",
+        "matchType": "EXACT",
+        "gbifName": "Cuscuta saururi Engelm.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Cuscuta saururi\""
+      },
+      {
+        "taxonId": 133396,
+        "ourName": "Rhododendron carolinianum",
+        "commonName": "Carolina Rhododendron",
+        "matchType": "EXACT",
+        "gbifName": "Rhododendron carolinianum Rehder",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Rhododendron carolinianum\""
+      },
+      {
+        "taxonId": 159965,
+        "ourName": "Carex gracilescens",
+        "commonName": "Slender Loose-flowered Sedge",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Carex",
+        "gbifRank": "GENUS",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to GENUS level — species name not recognized"
+      },
+      {
+        "taxonId": 160981,
+        "ourName": "Crataegus brainerdii",
+        "commonName": "Brainerd's Hawthorn",
+        "matchType": "EXACT",
+        "gbifName": "Crataegus brainerdii Sarg.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Crataegus brainerdii\""
+      },
+      {
+        "taxonId": 167679,
+        "ourName": "Racomitrium canescens",
+        "commonName": "Hoary Fringe-moss",
+        "matchType": "EXACT",
+        "gbifName": "Racomitrium canescens (Hedw.) Brid.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Racomitrium canescens\""
+      },
+      {
+        "taxonId": 169718,
+        "ourName": "Thermopsis divaricarpa",
+        "commonName": "spreadfruit goldenbanner",
+        "matchType": "EXACT",
+        "gbifName": "Thermopsis divaricarpa A.Nelson",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Thermopsis divaricarpa\""
+      },
+      {
+        "taxonId": 276157,
+        "ourName": "Lindernia anagallidea",
+        "commonName": "Slender False Pimpernel",
+        "matchType": "EXACT",
+        "gbifName": "Lindernia anagallidea (Michx.) Pennell",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Lindernia anagallidea\""
+      },
+      {
+        "taxonId": 924430,
+        "ourName": "Rubus repens",
+        "commonName": "Robin Runaway",
+        "matchType": "EXACT",
+        "gbifName": "Rubus repens (L.) Kuntze",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Rubus repens\""
+      },
+      {
+        "taxonId": 1342822,
+        "ourName": "Xanthidium scrobiculatum",
+        "commonName": "Xanthidium scrobiculatum",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 1396475,
+        "ourName": "Astilbe chinensis",
+        "commonName": "Tall false-buck's-beard",
+        "matchType": "EXACT",
+        "gbifName": "Astilbe chinensis (Maxim.) Knoll",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Astilbe chinensis\""
+      },
+      {
+        "taxonId": 1415326,
+        "ourName": "Coelastrum cruciatum",
+        "commonName": "Coelastrum cruciatum",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 1455144,
+        "ourName": "Asarum shuttleworthii",
+        "commonName": "largeflower heartleaf",
+        "matchType": "EXACT",
+        "gbifName": "Asarum shuttleworthii Britten & Baker fil.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Asarum shuttleworthii\""
+      },
+      {
+        "taxonId": 1557568,
+        "ourName": "Boreolithothamnion glaciale",
+        "commonName": "Boreolithothamnion glaciale",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 1593093,
+        "ourName": "Euphrosyne xanthiifolia",
+        "commonName": "Marshelder",
+        "matchType": "EXACT",
+        "gbifName": "Euphrosyne xanthiifolia (Nutt.) A.Gray",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Euphrosyne xanthiifolia\""
+      },
+      {
+        "taxonId": 1648336,
+        "ourName": "Chlamydocapsa ampla",
+        "commonName": "Chlamydocapsa ampla",
+        "matchType": "EXACT",
+        "gbifName": "Chlamydocapsa ampla (Kütz.) Fott",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Chlamydocapsa ampla\""
+      },
+      {
+        "taxonId": 76755,
+        "ourName": "Echinochloa colona",
+        "commonName": "Jungle Rice",
+        "matchType": "FUZZY",
+        "gbifName": "Echinochloa colonum",
+        "gbifRank": "SPECIES",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 99,
+        "issue": "Fuzzy match — possible typo? GBIF suggests \"Echinochloa colonum\""
+      },
+      {
+        "taxonId": 77623,
+        "ourName": "Landoltia punctata",
+        "commonName": "dotted duckweed",
+        "matchType": "EXACT",
+        "gbifName": "Landoltia punctata (G.Mey.) Les & D.J.Crawford",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Landoltia punctata\""
+      },
+      {
+        "taxonId": 79492,
+        "ourName": "Verbena pulchella",
+        "commonName": "moss verbena",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Verbena",
+        "gbifRank": "GENUS",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to GENUS level — species name not recognized"
+      },
+      {
+        "taxonId": 81793,
+        "ourName": "Glandularia canadensis",
+        "commonName": "rose vervain",
+        "matchType": "EXACT",
+        "gbifName": "Glandularia canadensis (L.) Nutt.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Glandularia canadensis\""
+      },
+      {
+        "taxonId": 84972,
+        "ourName": "Dasistoma macrophylla",
+        "commonName": "mullein foxglove",
+        "matchType": "FUZZY",
+        "gbifName": "Dasistoma macrophyllum",
+        "gbifRank": "SPECIES",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 99,
+        "issue": "Fuzzy match — possible typo? GBIF suggests \"Dasistoma macrophyllum\""
+      },
+      {
+        "taxonId": 127359,
+        "ourName": "Malus sargentii",
+        "commonName": "Sargent Crabapple",
+        "matchType": "EXACT",
+        "gbifName": "Malus sargentii Rehder",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Malus sargentii\""
+      },
+      {
+        "taxonId": 158401,
+        "ourName": "Anomodon rugelii",
+        "commonName": "Rugel's anomodon moss",
+        "matchType": "EXACT",
+        "gbifName": "Anomodon rugelii (Müll.Hal.) Keissl.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Anomodon rugelii\""
+      },
+      {
+        "taxonId": 159496,
+        "ourName": "Bryhnia graminicolor",
+        "commonName": "Bryhnia Moss",
+        "matchType": "EXACT",
+        "gbifName": "Bryhnia graminicolor (Brid.) Grout",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Bryhnia graminicolor\""
+      },
+      {
+        "taxonId": 160359,
+        "ourName": "Ceratotheca triloba",
+        "commonName": "South African foxglove",
+        "matchType": "EXACT",
+        "gbifName": "Ceratotheca triloba (Bernh.) Hook.fil.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Ceratotheca triloba\""
+      },
+      {
+        "taxonId": 160709,
+        "ourName": "Cleome spinosa",
+        "commonName": "Spiny Spider-flower",
+        "matchType": "HIGHERRANK",
+        "gbifName": "Tarenaya",
+        "gbifRank": "GENUS",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 100,
+        "issue": "Only matched to GENUS level — species name not recognized"
+      },
+      {
+        "taxonId": 163993,
+        "ourName": "Hypnum curvifolium",
+        "commonName": "Curveleaf Hypnum Moss",
+        "matchType": "EXACT",
+        "gbifName": "Hypnum curvifolium Hedw.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Hypnum curvifolium\""
+      },
+      {
+        "taxonId": 167509,
+        "ourName": "Pseudotaxiphyllum distichaceum",
+        "commonName": "Two-ranked Moss",
+        "matchType": "EXACT",
+        "gbifName": "Pseudotaxiphyllum distichaceum (Mitt.) Z.Iwats.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Pseudotaxiphyllum distichaceum\""
+      },
+      {
+        "taxonId": 167675,
+        "ourName": "Racomitrium affine",
+        "commonName": "Lesser Fringe-moss",
+        "matchType": "EXACT",
+        "gbifName": "Racomitrium affine (Schleich. ex F.Weber & D.Mohr) Lindb.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Racomitrium affine\""
+      },
+      {
+        "taxonId": 167695,
+        "ourName": "Racomitrium sudeticum",
+        "commonName": "Slender Fringe-moss",
+        "matchType": "EXACT",
+        "gbifName": "Racomitrium sudeticum (Funck) Bruch & Schimp.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Racomitrium sudeticum\""
+      },
+      {
+        "taxonId": 168054,
+        "ourName": "Rubus fraternalis",
+        "commonName": "northeastern dewberry",
+        "matchType": "EXACT",
+        "gbifName": "Rubus × fraternalis L.H.Bailey",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Rubus fraternalis\""
+      },
+      {
+        "taxonId": 204287,
+        "ourName": "Crataegus keepii",
+        "commonName": "Keep's Hawthorn",
+        "matchType": "EXACT",
+        "gbifName": "Crataegus keepii Sarg.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Crataegus keepii\""
+      },
+      {
+        "taxonId": 204319,
+        "ourName": "Fallopia cristata",
+        "commonName": "Climbing Buckwheat",
+        "matchType": "EXACT",
+        "gbifName": "Fallopia cristata (Engelm. ex A.Gray) Holub",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Fallopia cristata\""
+      },
+      {
+        "taxonId": 204404,
+        "ourName": "Rubus jaysmithii",
+        "commonName": "Smith's blackberry",
+        "matchType": "EXACT",
+        "gbifName": "Rubus jaysmithii L.H.Bailey",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Rubus jaysmithii\""
+      },
+      {
+        "taxonId": 341039,
+        "ourName": "Iris albicans",
+        "commonName": "Cemetery Iris",
+        "matchType": "EXACT",
+        "gbifName": "Iris albicans Lange",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Iris albicans\""
+      },
+      {
+        "taxonId": 345106,
+        "ourName": "Rhizoclonium tortuosum",
+        "commonName": "Rhizoclonium tortuosum",
+        "matchType": "EXACT",
+        "gbifName": "Rhizoclonium tortuosum (Dillwyn) Kützing",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Rhizoclonium tortuosum\""
+      },
+      {
+        "taxonId": 429454,
+        "ourName": "Syringa meyeri",
+        "commonName": "korean lilac",
+        "matchType": "EXACT",
+        "gbifName": "Syringa meyeri C.K.Schneid.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Syringa meyeri\""
+      },
+      {
+        "taxonId": 493518,
+        "ourName": "Micrasterias nordstedtiana",
+        "commonName": "Micrasterias nordstedtiana",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 543857,
+        "ourName": "Hylomecon japonica",
+        "commonName": "Forest Poppy",
+        "matchType": "FUZZY",
+        "gbifName": "Hylomecon japonicum",
+        "gbifRank": "SPECIES",
+        "gbifStatus": "ACCEPTED",
+        "confidence": 99,
+        "issue": "Fuzzy match — possible typo? GBIF suggests \"Hylomecon japonicum\""
+      },
+      {
+        "taxonId": 553508,
+        "ourName": "Dichanthelium huachucae",
+        "commonName": "old-field panic grass",
+        "matchType": "EXACT",
+        "gbifName": "Dichanthelium huachucae (Ashe) G.Wilh. & Rericha",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Dichanthelium huachucae\""
+      },
+      {
+        "taxonId": 777243,
+        "ourName": "Tagetes patula",
+        "commonName": "French marigold",
+        "matchType": "EXACT",
+        "gbifName": "Tagetes patula L.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Tagetes patula\""
+      },
+      {
+        "taxonId": 786969,
+        "ourName": "Sanguisorba tenuifolia",
+        "commonName": "Siberian Burnet",
+        "matchType": "EXACT",
+        "gbifName": "Sanguisorba tenuifolia Fisch. ex Link",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Sanguisorba tenuifolia\""
+      },
+      {
+        "taxonId": 795205,
+        "ourName": "Pyropia leucosticta",
+        "commonName": "Pyropia leucosticta",
+        "matchType": "EXACT",
+        "gbifName": "Pyropia leucosticta (Thuret) Neefus & J.Brodie",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Pyropia leucosticta\""
+      },
+      {
+        "taxonId": 836805,
+        "ourName": "Mononeuria caroliniana",
+        "commonName": "pine-barren sandwort",
+        "matchType": "EXACT",
+        "gbifName": "Mononeuria caroliniana (Walter) Dillenb. & Rabeler",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Mononeuria caroliniana\""
+      },
+      {
+        "taxonId": 950619,
+        "ourName": "Anemonoides apennina",
+        "commonName": "Blue Anemone",
+        "matchType": "EXACT",
+        "gbifName": "Anemonoides apennina (L.) Holub",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Anemonoides apennina\""
+      },
+      {
+        "taxonId": 1006669,
+        "ourName": "Ptychostomum imbricatulum",
+        "commonName": "Tufted Thread-moss",
+        "matchType": "EXACT",
+        "gbifName": "Ptychostomum imbricatulum (Müll.Hal.) Holyoak & N.Pedersen",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Ptychostomum imbricatulum\""
+      },
+      {
+        "taxonId": 1010072,
+        "ourName": "Staurastrum anchora",
+        "commonName": "Staurastrum anchora",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 1032186,
+        "ourName": "Staurodesmus longispinus",
+        "commonName": "Staurodesmus longispinus",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 1040840,
+        "ourName": "Thalictrum confine",
+        "commonName": "Thalictrum confine",
+        "matchType": "EXACT",
+        "gbifName": "Thalictrum confine Fernald",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Thalictrum confine\""
+      },
+      {
+        "taxonId": 1106274,
+        "ourName": "Sphaerozosma filiforme",
+        "commonName": "Sphaerozosma filiforme",
+        "matchType": "EXACT",
+        "gbifName": "Sphaerozosma filiforme Ralfs",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Sphaerozosma filiforme\""
+      },
+      {
+        "taxonId": 1234583,
+        "ourName": "Micrasterias floridensis",
+        "commonName": "Micrasterias floridensis",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 1266145,
+        "ourName": "Pseudopediastrum cornutum",
+        "commonName": "Pseudopediastrum cornutum",
+        "matchType": "EXACT",
+        "gbifName": "Pseudopediastrum cornutum (Racib.) Lenarczyk, 2020",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Pseudopediastrum cornutum\""
+      },
+      {
+        "taxonId": 1455147,
+        "ourName": "Asarum arifolium",
+        "commonName": "Little Brown Jugs",
+        "matchType": "EXACT",
+        "gbifName": "Asarum arifolium Michx.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Asarum arifolium\""
+      },
+      {
+        "taxonId": 1503473,
+        "ourName": "Cosmarium panduriforme",
+        "commonName": "Cosmarium panduriforme",
+        "matchType": "NONE",
+        "confidence": 0,
+        "issue": "No match in GBIF — name may be invalid or very recently described"
+      },
+      {
+        "taxonId": 1611066,
+        "ourName": "Chelone speciosa",
+        "commonName": "rose turtlehead",
+        "matchType": "EXACT",
+        "gbifName": "Chelone speciosa Lodd.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Chelone speciosa\""
+      },
+      {
+        "taxonId": 1626108,
+        "ourName": "Achillea borealis",
+        "commonName": "Boreal Yarrow",
+        "matchType": "EXACT",
+        "gbifName": "Achillea borealis Bong.",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Achillea borealis\""
+      },
+      {
+        "taxonId": 1629442,
+        "ourName": "Crataegus straminea",
+        "commonName": "Straw-Fruited Hawthorn",
+        "matchType": "EXACT",
+        "gbifName": "Crataegus straminea Beadle",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Crataegus straminea\""
+      },
+      {
+        "taxonId": 1656098,
+        "ourName": "Crataegus boyntonii",
+        "commonName": "Stinking Hawthorn",
+        "matchType": "EXACT",
+        "gbifName": "Crataegus boyntonii Beadle",
+        "gbifStatus": "SYNONYM",
+        "confidence": 100,
+        "issue": "Synonym — GBIF accepted name is \"Crataegus boyntonii\""
+      }
+    ]
+  },
+  "bloomCheck": {
+    "checked": 500,
+    "correct": 280,
+    "offByOne": 72,
+    "wrong": 148,
+    "issues": [
+      {
+        "taxonId": 64540,
+        "scientificName": "Celastrus orbiculatus",
+        "commonName": "Asian bittersweet",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 10,
+        "peakMonthName": "October",
+        "expectedPeriod": "fall",
+        "issue": "We say \"late-spring\" but peak observations are in October (→ \"fall\")"
+      },
+      {
+        "taxonId": 83799,
+        "scientificName": "Mitchella repens",
+        "commonName": "partridgeberry",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 48098,
+        "scientificName": "Acer rubrum",
+        "commonName": "red maple",
+        "ourBloomPeriod": "early-spring",
+        "peakMonth": 10,
+        "peakMonthName": "October",
+        "expectedPeriod": "fall",
+        "issue": "We say \"early-spring\" but peak observations are in October (→ \"fall\")"
+      },
+      {
+        "taxonId": 47192,
+        "scientificName": "Cornus canadensis",
+        "commonName": "Canadian bunchberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 55972,
+        "scientificName": "Frangula alnus",
+        "commonName": "alder buckthorn",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 78882,
+        "scientificName": "Rosa multiflora",
+        "commonName": "multiflora rose",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 48599,
+        "scientificName": "Phytolacca americana",
+        "commonName": "American pokeweed",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 167829,
+        "scientificName": "Rhus typhina",
+        "commonName": "staghorn sumac",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 62376,
+        "scientificName": "Gaultheria procumbens",
+        "commonName": "Eastern Teaberry",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 4,
+        "peakMonthName": "April",
+        "expectedPeriod": "early-spring",
+        "issue": "We say \"summer\" but peak observations are in April (→ \"early-spring\")"
+      },
+      {
+        "taxonId": 53041,
+        "scientificName": "Kalmia angustifolia",
+        "commonName": "sheep laurel",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 62997,
+        "scientificName": "Viburnum acerifolium",
+        "commonName": "mapleleaf viburnum",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 54779,
+        "scientificName": "Quercus alba",
+        "commonName": "white oak",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"spring\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 121031,
+        "scientificName": "Comptonia peregrina",
+        "commonName": "sweetfern",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 49397,
+        "scientificName": "Kalmia latifolia",
+        "commonName": "mountain laurel",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 49005,
+        "scientificName": "Quercus rubra",
+        "commonName": "northern red oak",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 10,
+        "peakMonthName": "October",
+        "expectedPeriod": "fall",
+        "issue": "We say \"spring\" but peak observations are in October (→ \"fall\")"
+      },
+      {
+        "taxonId": 52543,
+        "scientificName": "Acer saccharum",
+        "commonName": "sugar maple",
+        "ourBloomPeriod": "early-spring",
+        "peakMonth": 10,
+        "peakMonthName": "October",
+        "expectedPeriod": "fall",
+        "issue": "We say \"early-spring\" but peak observations are in October (→ \"fall\")"
+      },
+      {
+        "taxonId": 117433,
+        "scientificName": "Euonymus alatus",
+        "commonName": "winged euonymus",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 10,
+        "peakMonthName": "October",
+        "expectedPeriod": "fall",
+        "issue": "We say \"spring\" but peak observations are in October (→ \"fall\")"
+      },
+      {
+        "taxonId": 55757,
+        "scientificName": "Chelidonium majus",
+        "commonName": "Greater celandine",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 5,
+        "peakMonthName": "May",
+        "expectedPeriod": "late-spring",
+        "issue": "We say \"summer\" but peak observations are in May (→ \"late-spring\")"
+      },
+      {
+        "taxonId": 54795,
+        "scientificName": "Sassafras albidum",
+        "commonName": "sassafras",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 61119,
+        "scientificName": "Ilex verticillata",
+        "commonName": "winterberry holly",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"late-spring\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 130888,
+        "scientificName": "Erechtites hieraciifolius",
+        "commonName": "American burnweed",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 50790,
+        "scientificName": "Linaria vulgaris",
+        "commonName": "common toadflax",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 52651,
+        "scientificName": "Sarracenia purpurea",
+        "commonName": "purple pitcher plant",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 49186,
+        "scientificName": "Castanea dentata",
+        "commonName": "American chestnut",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 79484,
+        "scientificName": "Veratrum viride",
+        "commonName": "green false hellebore",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 5,
+        "peakMonthName": "May",
+        "expectedPeriod": "late-spring",
+        "issue": "We say \"summer\" but peak observations are in May (→ \"late-spring\")"
+      },
+      {
+        "taxonId": 711103,
+        "scientificName": "Pilosella aurantiaca",
+        "commonName": "orange hawkweed",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 50278,
+        "scientificName": "Parthenocissus quinquefolia",
+        "commonName": "Virginia creeper",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"early-summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 54811,
+        "scientificName": "Rhamnus cathartica",
+        "commonName": "common buckthorn",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"late-spring\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 56088,
+        "scientificName": "Robinia pseudoacacia",
+        "commonName": "black locust",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 82580,
+        "scientificName": "Lysimachia quadrifolia",
+        "commonName": "whorled loosestrife",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 81595,
+        "scientificName": "Sibbaldiopsis tridentata",
+        "commonName": "three-toothed cinquefoil",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 63062,
+        "scientificName": "Actaea pachypoda",
+        "commonName": "white baneberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 8,
+        "peakMonthName": "August",
+        "expectedPeriod": "late-summer",
+        "issue": "We say \"late-spring\" but peak observations are in August (→ \"late-summer\")"
+      },
+      {
+        "taxonId": 54839,
+        "scientificName": "Populus grandidentata",
+        "commonName": "bigtooth aspen",
+        "ourBloomPeriod": "early-spring",
+        "peakMonth": 10,
+        "peakMonthName": "October",
+        "expectedPeriod": "fall",
+        "issue": "We say \"early-spring\" but peak observations are in October (→ \"fall\")"
+      },
+      {
+        "taxonId": 64544,
+        "scientificName": "Morella pensylvanica",
+        "commonName": "northern bayberry",
+        "ourBloomPeriod": "early-spring",
+        "peakMonth": 8,
+        "peakMonthName": "August",
+        "expectedPeriod": "late-summer",
+        "issue": "We say \"early-spring\" but peak observations are in August (→ \"late-summer\")"
+      },
+      {
+        "taxonId": 60746,
+        "scientificName": "Smilax rotundifolia",
+        "commonName": "roundleaf greenbrier",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 84300,
+        "scientificName": "Sambucus canadensis",
+        "commonName": "American black elderberry",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 57278,
+        "scientificName": "Ailanthus altissima",
+        "commonName": "tree-of-heaven",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"early-summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 59986,
+        "scientificName": "Monotropa hypopitys",
+        "commonName": "pinesap",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 180413,
+        "scientificName": "Rhododendron groenlandicum",
+        "commonName": "Bog Labrador Tea",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 54854,
+        "scientificName": "Tilia americana",
+        "commonName": "basswood",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 165994,
+        "scientificName": "Oxalis montana",
+        "commonName": "mountain woodsorrel",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 56312,
+        "scientificName": "Vaccinium vitis-idaea",
+        "commonName": "Lingonberry",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 1405994,
+        "scientificName": "Viburnum cassinoides",
+        "commonName": "northern wild raisin",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 204237,
+        "scientificName": "Ampelopsis glandulosa",
+        "commonName": "Porcelain Berry",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 143803,
+        "scientificName": "Persicaria longiseta",
+        "commonName": "low smartweed",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 67983,
+        "scientificName": "Diervilla lonicera",
+        "commonName": "northern bush honeysuckle",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 125489,
+        "scientificName": "Rubus occidentalis",
+        "commonName": "black raspberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 52927,
+        "scientificName": "Commelina communis",
+        "commonName": "Asiatic dayflower",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 48726,
+        "scientificName": "Iris versicolor",
+        "commonName": "northern blue flag",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 54805,
+        "scientificName": "Fraxinus americana",
+        "commonName": "white ash",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 55851,
+        "scientificName": "Lamium purpureum",
+        "commonName": "red deadnettle",
+        "ourBloomPeriod": "fall",
+        "peakMonth": 4,
+        "peakMonthName": "April",
+        "expectedPeriod": "early-spring",
+        "issue": "We say \"fall\" but peak observations are in April (→ \"early-spring\")"
+      },
+      {
+        "taxonId": 62236,
+        "scientificName": "Chimaphila umbellata",
+        "commonName": "pipsissewa",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 4,
+        "peakMonthName": "April",
+        "expectedPeriod": "early-spring",
+        "issue": "We say \"summer\" but peak observations are in April (→ \"early-spring\")"
+      },
+      {
+        "taxonId": 146717,
+        "scientificName": "Solidago bicolor",
+        "commonName": "silverrod",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 144183,
+        "scientificName": "Diapensia lapponica",
+        "commonName": "Diapensia",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 130737,
+        "scientificName": "Quercus ilicifolia",
+        "commonName": "bear oak",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 153208,
+        "scientificName": "Ilex mucronata",
+        "commonName": "Mountain holly",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 8,
+        "peakMonthName": "August",
+        "expectedPeriod": "late-summer",
+        "issue": "We say \"late-spring\" but peak observations are in August (→ \"late-summer\")"
+      },
+      {
+        "taxonId": 83154,
+        "scientificName": "Zizia aurea",
+        "commonName": "golden Alexanders",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 5,
+        "peakMonthName": "May",
+        "expectedPeriod": "late-spring",
+        "issue": "We say \"early-summer\" but peak observations are in May (→ \"late-spring\")"
+      },
+      {
+        "taxonId": 53374,
+        "scientificName": "Corylus cornuta",
+        "commonName": "beaked hazelnut",
+        "ourBloomPeriod": "early-spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 116361,
+        "scientificName": "Acer spicatum",
+        "commonName": "Mountain Maple",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 55969,
+        "scientificName": "Viburnum opulus",
+        "commonName": "guelder-rose",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 8,
+        "peakMonthName": "August",
+        "expectedPeriod": "late-summer",
+        "issue": "We say \"late-spring\" but peak observations are in August (→ \"late-summer\")"
+      },
+      {
+        "taxonId": 740984,
+        "scientificName": "Silene flos-cuculi",
+        "commonName": "ragged-robin",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 55882,
+        "scientificName": "Hedera helix",
+        "commonName": "common ivy",
+        "ourBloomPeriod": "fall",
+        "peakMonth": 4,
+        "peakMonthName": "April",
+        "expectedPeriod": "early-spring",
+        "issue": "We say \"fall\" but peak observations are in April (→ \"early-spring\")"
+      },
+      {
+        "taxonId": 85325,
+        "scientificName": "Geum canadense",
+        "commonName": "white avens",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 82310,
+        "scientificName": "Carex lurida",
+        "commonName": "sallow sedge",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 62685,
+        "scientificName": "Epifagus virginiana",
+        "commonName": "Beechdrops",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 68049,
+        "scientificName": "Arctostaphylos uva-ursi",
+        "commonName": "bearberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 8,
+        "peakMonthName": "August",
+        "expectedPeriod": "late-summer",
+        "issue": "We say \"late-spring\" but peak observations are in August (→ \"late-summer\")"
+      },
+      {
+        "taxonId": 53460,
+        "scientificName": "Gaultheria hispidula",
+        "commonName": "creeping snowberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 8,
+        "peakMonthName": "August",
+        "expectedPeriod": "late-summer",
+        "issue": "We say \"late-spring\" but peak observations are in August (→ \"late-summer\")"
+      },
+      {
+        "taxonId": 132625,
+        "scientificName": "Lyonia ligustrina",
+        "commonName": "He-huckleberry",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 63749,
+        "scientificName": "Vaccinium macrocarpon",
+        "commonName": "American Cranberry",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 54764,
+        "scientificName": "Rhus glabra",
+        "commonName": "smooth sumac",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 204148,
+        "scientificName": "Capnoides sempervirens",
+        "commonName": "rock harlequin",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 5,
+        "peakMonthName": "May",
+        "expectedPeriod": "late-spring",
+        "issue": "We say \"summer\" but peak observations are in May (→ \"late-spring\")"
+      },
+      {
+        "taxonId": 128805,
+        "scientificName": "Gaylussacia baccata",
+        "commonName": "black huckleberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 84227,
+        "scientificName": "Rubus phoenicolasius",
+        "commonName": "wineberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 54762,
+        "scientificName": "Acer saccharinum",
+        "commonName": "silver maple",
+        "ourBloomPeriod": "early-spring",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"early-spring\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 53582,
+        "scientificName": "Liriodendron tulipifera",
+        "commonName": "American tuliptree",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 119825,
+        "scientificName": "Aralia hispida",
+        "commonName": "bristly sarsaparilla",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 64714,
+        "scientificName": "Vaccinium uliginosum",
+        "commonName": "bog bilberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"late-spring\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 53195,
+        "scientificName": "Rumex acetosella",
+        "commonName": "Sheep's sorrel",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 5,
+        "peakMonthName": "May",
+        "expectedPeriod": "late-spring",
+        "issue": "We say \"summer\" but peak observations are in May (→ \"late-spring\")"
+      },
+      {
+        "taxonId": 52119,
+        "scientificName": "Populus deltoides",
+        "commonName": "Eastern Cottonwood",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"spring\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 49662,
+        "scientificName": "Platanus occidentalis",
+        "commonName": "American sycamore",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"spring\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 120356,
+        "scientificName": "Eriophorum virginicum",
+        "commonName": "tawny cottongrass",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 8,
+        "peakMonthName": "August",
+        "expectedPeriod": "late-summer",
+        "issue": "We say \"early-summer\" but peak observations are in August (→ \"late-summer\")"
+      },
+      {
+        "taxonId": 49870,
+        "scientificName": "Actaea rubra",
+        "commonName": "red baneberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 128095,
+        "scientificName": "Carex intumescens",
+        "commonName": "bladder sedge",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 49006,
+        "scientificName": "Quercus velutina",
+        "commonName": "black oak",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"spring\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 76812,
+        "scientificName": "Empetrum nigrum",
+        "commonName": "black crowberry",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 8,
+        "peakMonthName": "August",
+        "expectedPeriod": "late-summer",
+        "issue": "We say \"spring\" but peak observations are in August (→ \"late-summer\")"
+      },
+      {
+        "taxonId": 82203,
+        "scientificName": "Myrica gale",
+        "commonName": "bog myrtle",
+        "ourBloomPeriod": "early-spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 52720,
+        "scientificName": "Dactylis glomerata",
+        "commonName": "orchard grass",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 63371,
+        "scientificName": "Rumex obtusifolius",
+        "commonName": "broad-leaved dock",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 4,
+        "peakMonthName": "April",
+        "expectedPeriod": "early-spring",
+        "issue": "We say \"summer\" but peak observations are in April (→ \"early-spring\")"
+      },
+      {
+        "taxonId": 47779,
+        "scientificName": "Iris pseudacorus",
+        "commonName": "Yellow Iris",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 128686,
+        "scientificName": "Quercus montana",
+        "commonName": "chestnut oak",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 10,
+        "peakMonthName": "October",
+        "expectedPeriod": "fall",
+        "issue": "We say \"spring\" but peak observations are in October (→ \"fall\")"
+      },
+      {
+        "taxonId": 79460,
+        "scientificName": "Turritis glabra",
+        "commonName": "Tower Mustard",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 5,
+        "peakMonthName": "May",
+        "expectedPeriod": "late-spring",
+        "issue": "We say \"summer\" but peak observations are in May (→ \"late-spring\")"
+      },
+      {
+        "taxonId": 54802,
+        "scientificName": "Nyssa sylvatica",
+        "commonName": "Black Tupelo",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"late-spring\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 81711,
+        "scientificName": "Hydrophyllum virginianum",
+        "commonName": "Virginia waterleaf",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 57131,
+        "scientificName": "Lilium canadense",
+        "commonName": "Canada lily",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 158724,
+        "scientificName": "Artemisia stelleriana",
+        "commonName": "Hoary Mugwort",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 124544,
+        "scientificName": "Anthriscus sylvestris",
+        "commonName": "Cow Parsley",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 53039,
+        "scientificName": "Pogonia ophioglossoides",
+        "commonName": "Rose Pogonia",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 77780,
+        "scientificName": "Linnaea borealis",
+        "commonName": "Twinflower",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 865984,
+        "scientificName": "Kalmia polifolia",
+        "commonName": "Swamp Laurel",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 54504,
+        "scientificName": "Juglans nigra",
+        "commonName": "eastern black walnut",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"late-spring\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 62310,
+        "scientificName": "Hudsonia tomentosa",
+        "commonName": "woolly beachheather",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 54265,
+        "scientificName": "Sorbus americana",
+        "commonName": "American mountain ash",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"late-spring\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 75377,
+        "scientificName": "Alnus incana",
+        "commonName": "grey alder",
+        "ourBloomPeriod": "early-spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 130751,
+        "scientificName": "Rubus dalibarda",
+        "commonName": "dewdrop",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 204160,
+        "scientificName": "Ligustrum obtusifolium",
+        "commonName": "border privet",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 54770,
+        "scientificName": "Corylus americana",
+        "commonName": "American hazelnut",
+        "ourBloomPeriod": "early-spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 54807,
+        "scientificName": "Fraxinus nigra",
+        "commonName": "black ash",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 8,
+        "peakMonthName": "August",
+        "expectedPeriod": "late-summer",
+        "issue": "We say \"spring\" but peak observations are in August (→ \"late-summer\")"
+      },
+      {
+        "taxonId": 54436,
+        "scientificName": "Rubus idaeus",
+        "commonName": "red raspberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 56090,
+        "scientificName": "Morus alba",
+        "commonName": "white mulberry",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 54792,
+        "scientificName": "Juglans cinerea",
+        "commonName": "Butternut",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 69713,
+        "scientificName": "Rubus hispidus",
+        "commonName": "swamp dewberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 82097,
+        "scientificName": "Potentilla simplex",
+        "commonName": "common cinquefoil",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 881527,
+        "scientificName": "Anemonastrum canadense",
+        "commonName": "Canada anemone",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 166162,
+        "scientificName": "Parthenocissus tricuspidata",
+        "commonName": "Japanese creeper",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 79358,
+        "scientificName": "Thlaspi arvense",
+        "commonName": "field penny-cress",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 5,
+        "peakMonthName": "May",
+        "expectedPeriod": "late-spring",
+        "issue": "We say \"early-summer\" but peak observations are in May (→ \"late-spring\")"
+      },
+      {
+        "taxonId": 204163,
+        "scientificName": "Micranthes pensylvanica",
+        "commonName": "Swamp Saxifrage",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 5,
+        "peakMonthName": "May",
+        "expectedPeriod": "late-spring",
+        "issue": "We say \"early-summer\" but peak observations are in May (→ \"late-spring\")"
+      },
+      {
+        "taxonId": 54797,
+        "scientificName": "Gleditsia triacanthos",
+        "commonName": "honey locust",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"spring\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 131000,
+        "scientificName": "Dichanthelium clandestinum",
+        "commonName": "deertongue",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 78387,
+        "scientificName": "Peltandra virginica",
+        "commonName": "Green Arrow Arum",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 58749,
+        "scientificName": "Cornus amomum",
+        "commonName": "silky dogwood",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 8,
+        "peakMonthName": "August",
+        "expectedPeriod": "late-summer",
+        "issue": "We say \"late-spring\" but peak observations are in August (→ \"late-summer\")"
+      },
+      {
+        "taxonId": 83059,
+        "scientificName": "Rhododendron maximum",
+        "commonName": "great rhododendron",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 54787,
+        "scientificName": "Carya cordiformis",
+        "commonName": "bitternut hickory",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"late-spring\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 59980,
+        "scientificName": "Conopholis americana",
+        "commonName": "American cancer-root",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 126369,
+        "scientificName": "Anemone virginiana",
+        "commonName": "tall thimbleweed",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 82300,
+        "scientificName": "Rhododendron viscosum",
+        "commonName": "swamp azalea",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 52741,
+        "scientificName": "Vaccinium myrtilloides",
+        "commonName": "velvetleaf blueberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 7,
+        "peakMonthName": "July",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in July (→ \"summer\")"
+      },
+      {
+        "taxonId": 76158,
+        "scientificName": "Catalpa speciosa",
+        "commonName": "northern catalpa",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 81831,
+        "scientificName": "Smilax glauca",
+        "commonName": "sawbrier",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 8,
+        "peakMonthName": "August",
+        "expectedPeriod": "late-summer",
+        "issue": "We say \"spring\" but peak observations are in August (→ \"late-summer\")"
+      },
+      {
+        "taxonId": 154524,
+        "scientificName": "Smilax herbacea",
+        "commonName": "smooth carrionflower",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 48688,
+        "scientificName": "Setaria pumila",
+        "commonName": "yellow foxtail",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 82247,
+        "scientificName": "Viburnum dentatum",
+        "commonName": "southern arrowwood",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 82110,
+        "scientificName": "Rubus allegheniensis",
+        "commonName": "Allegheny blackberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 60460,
+        "scientificName": "Calla palustris",
+        "commonName": "marsh calla",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 84031,
+        "scientificName": "Hylotelephium telephium",
+        "commonName": "Orpine",
+        "ourBloomPeriod": "late-summer",
+        "peakMonth": 5,
+        "peakMonthName": "May",
+        "expectedPeriod": "late-spring",
+        "issue": "We say \"late-summer\" but peak observations are in May (→ \"late-spring\")"
+      },
+      {
+        "taxonId": 56064,
+        "scientificName": "Ranunculus acris",
+        "commonName": "meadow buttercup",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-summer\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 57920,
+        "scientificName": "Xanthium strumarium",
+        "commonName": "rough cocklebur",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 54767,
+        "scientificName": "Toxicodendron vernix",
+        "commonName": "poison sumac",
+        "ourBloomPeriod": "spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 75371,
+        "scientificName": "Allium vineale",
+        "commonName": "wild garlic",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 4,
+        "peakMonthName": "April",
+        "expectedPeriod": "early-spring",
+        "issue": "We say \"early-summer\" but peak observations are in April (→ \"early-spring\")"
+      },
+      {
+        "taxonId": 119892,
+        "scientificName": "Andromeda polifolia",
+        "commonName": "Wild Rosemary",
+        "ourBloomPeriod": "early-summer",
+        "peakMonth": 5,
+        "peakMonthName": "May",
+        "expectedPeriod": "late-spring",
+        "issue": "We say \"early-summer\" but peak observations are in May (→ \"late-spring\")"
+      },
+      {
+        "taxonId": 51807,
+        "scientificName": "Aquilegia vulgaris",
+        "commonName": "common columbine",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 58729,
+        "scientificName": "Toxicodendron rydbergii",
+        "commonName": "western poison ivy",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 48229,
+        "scientificName": "Ranunculus repens",
+        "commonName": "Creeping buttercup",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 5,
+        "peakMonthName": "May",
+        "expectedPeriod": "late-spring",
+        "issue": "We say \"summer\" but peak observations are in May (→ \"late-spring\")"
+      },
+      {
+        "taxonId": 128808,
+        "scientificName": "Salix eriocephala",
+        "commonName": "heart-leaved willow",
+        "ourBloomPeriod": "early-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"early-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 67820,
+        "scientificName": "Erigeron philadelphicus",
+        "commonName": "Philadelphia fleabane",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 126560,
+        "scientificName": "Vaccinium oxycoccos",
+        "commonName": "bog cranberry",
+        "ourBloomPeriod": "late-spring",
+        "peakMonth": 6,
+        "peakMonthName": "June",
+        "expectedPeriod": "summer",
+        "issue": "We say \"late-spring\" but peak observations are in June (→ \"summer\")"
+      },
+      {
+        "taxonId": 53211,
+        "scientificName": "Senecio vulgaris",
+        "commonName": "common groundsel",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 4,
+        "peakMonthName": "April",
+        "expectedPeriod": "early-spring",
+        "issue": "We say \"summer\" but peak observations are in April (→ \"early-spring\")"
+      },
+      {
+        "taxonId": 447069,
+        "scientificName": "Persicaria extremiorientalis",
+        "commonName": "Far Eastern smartweed",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 9,
+        "peakMonthName": "September",
+        "expectedPeriod": "fall",
+        "issue": "We say \"summer\" but peak observations are in September (→ \"fall\")"
+      },
+      {
+        "taxonId": 59991,
+        "scientificName": "Comandra umbellata",
+        "commonName": "bastard toadflax",
+        "ourBloomPeriod": "summer",
+        "peakMonth": 5,
+        "peakMonthName": "May",
+        "expectedPeriod": "late-spring",
+        "issue": "We say \"summer\" but peak observations are in May (→ \"late-spring\")"
+      }
+    ]
+  },
+  "summary": [
+    "SCIENTIFIC NAMES: 95.7% exact valid matches out of 4056 checked",
+    "  - 4010 exact matches (128 are synonyms)",
+    "  - 10 fuzzy matches (possible typos)",
+    "  - 14 matched only to higher rank",
+    "  - 22 no match at all",
+    "\nBLOOM PERIODS: 70.4% correct or off-by-one out of 500 checked",
+    "  - 280 exact match",
+    "  - 72 off by one period (adjacent season)",
+    "  - 148 wrong (2+ seasons off)"
+  ]
+}

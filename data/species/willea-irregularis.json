@@ -1,0 +1,133 @@
+{
+  "slug": "willea-irregularis",
+  "taxonId": 1266210,
+  "group": "plants",
+  "commonName": "Willea irregularis",
+  "scientificName": "Willea irregularis",
+  "family": "Oocystaceae",
+  "familyCommonName": "Oocystaceae",
+  "genus": "Willea",
+  "genusCommonName": "Willea",
+  "order": "Chlorellales",
+  "orderCommonName": "Chlorellales",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "green algae",
+      "rank": "phylum",
+      "slug": "explore/green-algae"
+    },
+    {
+      "label": "Trebouxiophyceae",
+      "rank": "class",
+      "slug": "explore/trebouxiophyceae"
+    },
+    {
+      "label": "Chlorellales",
+      "rank": "order",
+      "slug": "explore/chlorellales"
+    },
+    {
+      "label": "Oocystaceae",
+      "rank": "family",
+      "slug": "explore/oocystaceae"
+    },
+    {
+      "label": "Willea",
+      "rank": "genus",
+      "slug": "explore/willea"
+    },
+    {
+      "label": "Willea irregularis",
+      "rank": "species",
+      "slug": "species/willea-irregularis"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 5054493,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5054493/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5054493/large.jpg",
+      "attribution": "(c) Damon Tighe, some rights reserved (CC BY-NC), uploaded by Damon Tighe",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/126621000"
+    },
+    {
+      "id": 228198695,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/228198695/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/228198695/large.jpg",
+      "attribution": "(c) MikeN, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/133928956"
+    },
+    {
+      "id": 228198972,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/228198972/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/228198972/large.jpg",
+      "attribution": "(c) MikeN, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/133928956"
+    },
+    {
+      "id": 44360142,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/44360142/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/44360142/large.jpg",
+      "attribution": "(c) Bryan Milstead, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/28456324"
+    }
+  ],
+  "nameStory": "**UNCERTAINTY FLAG**: I don't have reliable information about Willea irregularis in my training data. This appears to be a microscopic green algae, not a plant that typical nature explorers would encounter in the field. The name likely refers to its irregular cell shape, distinguishing it from its more geometric relatives.",
+  "description": "**UNCERTAINTY FLAG**: Willea irregularis appears to be a single-celled green algae that's invisible to the naked eye. These microscopic organisms live in freshwater environments and can only be observed under a microscope. They're part of the vast world of algae that forms the foundation of aquatic food webs. Individual cells are extremely small, measured in micrometers.",
+  "idTips": [
+    {
+      "label": "Microscopic size",
+      "description": "**UNCERTAINTY FLAG**: Cannot be seen without magnification - requires a microscope to observe individual cells",
+      "isPrimary": true
+    },
+    {
+      "label": "Irregular cell shape",
+      "description": "**UNCERTAINTY FLAG**: Cells have an irregular, asymmetrical outline rather than geometric shapes",
+      "isPrimary": false
+    },
+    {
+      "label": "Green coloration",
+      "description": "**UNCERTAINTY FLAG**: Contains chlorophyll giving cells a green color under microscopic examination",
+      "isPrimary": false
+    },
+    {
+      "label": "Freshwater habitat",
+      "description": "**UNCERTAINTY FLAG**: Found in ponds, lakes, and slow-moving streams rather than saltwater",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "**UNCERTAINTY FLAG**: Likely found in freshwater environments throughout New England including ponds, lakes, and quiet streams. With only 2 recorded observations, this species appears to be quite rare or overlooked in the region.",
+  "seasonality": {
+    "spring": "**UNCERTAINTY FLAG**: May become more active as water temperatures warm, but requires microscopic examination to detect.",
+    "summer": "**UNCERTAINTY FLAG**: Potentially most abundant during warmer months when algae populations typically peak.",
+    "fall": "**UNCERTAINTY FLAG**: Populations may decline as temperatures cool and daylight decreases.",
+    "winter": "**UNCERTAINTY FLAG**: Likely present but dormant or in reduced numbers under ice-covered waters."
+  },
+  "funFact": "**UNCERTAINTY FLAG**: This microscopic algae is so small that millions could fit in a single drop of pond water, yet each cell is a complete living organism capable of photosynthesis!",
+  "confusionNotes": "**UNCERTAINTY FLAG**: Could be confused with other microscopic green algae, particularly its relative Willea rectangularis, which has more geometric cell shapes. Proper identification requires microscopic examination by trained specialists.",
+  "contextualKnowledge": "**UNCERTAINTY FLAG**: This represents the hidden microscopic world that most nature explorers never see - the vast majority of life on Earth exists at scales invisible to our eyes, forming the foundation of ecosystems we observe.",
+  "compareHints": "**UNCERTAINTY FLAG**: Willea irregularis differs from its close relative Willea rectangularis primarily in cell shape - irregularis has asymmetrical, irregular cell outlines while rectangularis has more geometric, angular cells. Both require microscopic identification and are part of the diverse world of freshwater algae.",
+  "relatedSpecies": [
+    {
+      "slug": "willea-rectangularis",
+      "commonName": "Willea rectangularis",
+      "scientificName": "Willea rectangularis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/380493289/medium.jpeg",
+      "distinction": "**UNCERTAINTY FLAG**: Compared to its relative Willea irregularis, this species would have more regular, rectangular cell shapes rather than irregular forms."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1266210"
+}

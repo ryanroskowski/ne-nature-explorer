@@ -1,0 +1,441 @@
+{
+  "slug": "mycena-pura",
+  "taxonId": 63473,
+  "group": "fungi",
+  "commonName": "Lilac Bonnet",
+  "scientificName": "Mycena pura",
+  "family": "Mycenaceae",
+  "familyCommonName": "Mycenaceae",
+  "genus": "Mycena",
+  "genusCommonName": "Bonnets",
+  "order": "Agaricales",
+  "orderCommonName": "Common Gilled Mushrooms and Allies",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Basidiomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/basidiomycete-fungi"
+    },
+    {
+      "label": "Mushrooms, Bracket Fungi, Puffballs, and Allies",
+      "rank": "class",
+      "slug": "explore/mushrooms-bracket-fungi-puffballs-and-allies"
+    },
+    {
+      "label": "Common Gilled Mushrooms and Allies",
+      "rank": "order",
+      "slug": "explore/common-gilled-mushrooms-and-allies"
+    },
+    {
+      "label": "Mycenaceae",
+      "rank": "family",
+      "slug": "explore/mycenaceae"
+    },
+    {
+      "label": "Bonnets",
+      "rank": "genus",
+      "slug": "explore/bonnets"
+    },
+    {
+      "label": "Lilac Bonnet",
+      "rank": "species",
+      "slug": "species/mycena-pura"
+    }
+  ],
+  "observationCount": 44,
+  "abundanceTier": "very-common",
+  "photos": [
+    {
+      "id": 26988956,
+      "mediumUrl": "https://static.inaturalist.org/photos/26988956/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/26988956/large.jpg",
+      "attribution": "(c) gernotkunz, all rights reserved, uploaded by gernotkunz",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/6347300"
+    },
+    {
+      "id": 255904833,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/255904833/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/255904833/large.jpeg",
+      "attribution": "(c) Mandy Hackney, some rights reserved (CC BY), uploaded by Mandy Hackney",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/6347301"
+    },
+    {
+      "id": 4135046,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135046/medium.",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135046/large.",
+      "attribution": "(c) Christian Schwarz, some rights reserved (CC BY-NC), uploaded by Christian Schwarz",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/6347302"
+    },
+    {
+      "id": 4159721,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159721/medium.",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159721/large.",
+      "attribution": "(c) noah_siegel, some rights reserved (CC BY-NC-SA), uploaded by noah_siegel",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/6347303"
+    },
+    {
+      "id": 4133226,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133226/medium.",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133226/large.",
+      "attribution": "(c) Christian Schwarz, some rights reserved (CC BY-NC), uploaded by Christian Schwarz",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/6347304"
+    },
+    {
+      "id": 31017378,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31017378/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31017378/large.jpg",
+      "attribution": "(c) tombigelow, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/20085624"
+    },
+    {
+      "id": 329741964,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329741964/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329741964/large.jpg",
+      "attribution": "(c) Mari Sanborn, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/188404327"
+    },
+    {
+      "id": 329742003,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329742003/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329742003/large.jpg",
+      "attribution": "(c) Mari Sanborn, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/188404327"
+    },
+    {
+      "id": 329742037,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329742037/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329742037/large.jpg",
+      "attribution": "(c) Mari Sanborn, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/188404327"
+    },
+    {
+      "id": 329742062,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329742062/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329742062/large.jpg",
+      "attribution": "(c) Mari Sanborn, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/188404327"
+    },
+    {
+      "id": 239860636,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/239860636/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/239860636/large.jpeg",
+      "attribution": "(c) kerfuffles, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/140150988"
+    },
+    {
+      "id": 237763694,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237763694/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237763694/large.jpeg",
+      "attribution": "(c) Robert,Karen,Gillian, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/139055395"
+    },
+    {
+      "id": 237763748,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237763748/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237763748/large.jpeg",
+      "attribution": "(c) Robert,Karen,Gillian, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/139055395"
+    },
+    {
+      "id": 237763777,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237763777/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237763777/large.jpeg",
+      "attribution": "(c) Robert,Karen,Gillian, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/139055395"
+    },
+    {
+      "id": 233688624,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/233688624/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/233688624/large.jpeg",
+      "attribution": "(c) Matt Pulk, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/136883765"
+    },
+    {
+      "id": 233688641,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/233688641/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/233688641/large.jpeg",
+      "attribution": "(c) Matt Pulk, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/136883765"
+    }
+  ],
+  "nameStory": "",
+  "description": "Mycena pura, commonly known as the Lilac Bonnet, is a small delicate mushroom characterized by its distinctive lilac or pale purple coloring throughout the fruiting body. This member of the Mycenaceae family is commonly found in New England woodlands during the growing season.",
+  "idTips": [
+    {
+      "label": "Lilac Coloration",
+      "description": "Caps and stems display a consistent pale lilac to purple hue, which fades with age",
+      "isPrimary": true
+    },
+    {
+      "label": "Small Size",
+      "description": "Fruiting bodies are typically 1-3 cm in diameter with thin, fragile stems",
+      "isPrimary": false
+    },
+    {
+      "label": "Radish Odor",
+      "description": "Fresh specimens emit a distinctive musty or radish-like smell when crushed",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Mycena pura grows on decaying wood, leaf litter, and mossy areas in deciduous and mixed forests throughout New England, preferring cool, moist conditions.",
+  "seasonality": {
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
+  },
+  "funFact": "Despite its attractive appearance, Mycena pura contains toxic compounds and should never be consumed, as ingestion can cause gastrointestinal distress and neurological effects.",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
+  "relatedSpecies": [
+    {
+      "slug": "mycena-leana",
+      "commonName": "orange mycena",
+      "scientificName": "Mycena leana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5037215/medium.jpg",
+      "distinction": "Among the bonnet family (Mycena), orange mycena is unique for its vibrant orange coloration - most other bonnets are brown, gray, or white."
+    },
+    {
+      "slug": "mycena-haematopus",
+      "commonName": "Bleeding Fairy Helmet",
+      "scientificName": "Mycena haematopus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/335243815/medium.jpg",
+      "distinction": "Among its many Mycena relatives in New England, the Bleeding Fairy Helmet is unique for its red latex - most other bonnets like the Common Bonnet or Milking Bonnet produce white or clear liquids when broken."
+    },
+    {
+      "slug": "mycena-epipterygia",
+      "commonName": "Yellowleg Bonnet",
+      "scientificName": "Mycena epipterygia",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/339231780/medium.jpg",
+      "distinction": "Unlike its relatives the Milking Bonnet (which releases white 'milk' when cut) or the Bleeding Bonnet (which bleeds reddish liquid), the Yellowleg Bonnet doesn't produce colored juices when damaged."
+    },
+    {
+      "slug": "mycena-corticola",
+      "commonName": "Bark Mycena",
+      "scientificName": "Mycena corticola",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/58927227/medium.jpg",
+      "distinction": "Unlike Common Bonnet which grows on fallen logs and has a more brownish cap, or Milking Bonnet which releases white latex when broken, Bark Mycena stays distinctly pale and grows exclusively on standing bark."
+    },
+    {
+      "slug": "mycena-inclinata",
+      "commonName": "clustered bonnet",
+      "scientificName": "Mycena inclinata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28633778/medium.jpg",
+      "distinction": "Unlike its relatives the common bonnet and bleeding fairy helmet, clustered bonnet stands out with its reddish-brown coloration and obligate clustering behavior."
+    },
+    {
+      "slug": "mycena-galericulata",
+      "commonName": "common bonnet",
+      "scientificName": "Mycena galericulata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10270823/medium.jpg",
+      "distinction": "Among its many bonnet relatives, the common bonnet stands out for being the most variable in appearance and the most likely to grow in large clusters."
+    },
+    {
+      "slug": "mycena-subcaerulea",
+      "commonName": "Mycena subcaerulea",
+      "scientificName": "Mycena subcaerulea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28314765/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "mycena-meliigena",
+      "commonName": "mauve bonnet",
+      "scientificName": "Mycena meliigena",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28155790/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "mycena-rosea",
+      "commonName": "Rosy Bonnet",
+      "scientificName": "Mycena rosea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/333447195/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "mycena-filopes",
+      "commonName": "Iodine Bonnet",
+      "scientificName": "Mycena filopes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/170907441/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "mycena-leptocephala",
+      "commonName": "Nitrous Bonnet",
+      "scientificName": "Mycena leptocephala",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31199121/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "mycena-sanguinolenta",
+      "commonName": "Bleeding Bonnet",
+      "scientificName": "Mycena sanguinolenta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/178319342/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "mycena-alcalina",
+      "commonName": "Alkaline Mycena",
+      "scientificName": "Mycena alcalina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23404951/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-rutilantiformis",
+      "commonName": "Mycena rutilantiformis",
+      "scientificName": "Mycena rutilantiformis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133808/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-atkinsoniana",
+      "commonName": "Mycena atkinsoniana",
+      "scientificName": "Mycena atkinsoniana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/443693339/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-robusta",
+      "commonName": "Mycena robusta",
+      "scientificName": "Mycena robusta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176160154/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-purpureofusca",
+      "commonName": "purple-edge bonnet",
+      "scientificName": "Mycena purpureofusca",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/331117932/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-amicta",
+      "commonName": "Bluefoot Bonnet",
+      "scientificName": "Mycena amicta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14325212/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-rosella",
+      "commonName": "pink bonnet",
+      "scientificName": "Mycena rosella",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/324007147/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-stipata",
+      "commonName": "Stump fairy helmet",
+      "scientificName": "Mycena stipata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32079067/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-stylobates",
+      "commonName": "bulbous bonnet",
+      "scientificName": "Mycena stylobates",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/252514583/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-griseoviridis",
+      "commonName": "Mycena griseoviridis",
+      "scientificName": "Mycena griseoviridis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13072776/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-galopus",
+      "commonName": "Milking Bonnet",
+      "scientificName": "Mycena galopus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12823847/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-clavicularis",
+      "commonName": "needle bonnet",
+      "scientificName": "Mycena clavicularis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21630285/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-maculata",
+      "commonName": "Red-spotted Mycena",
+      "scientificName": "Mycena maculata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14207757/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-murina",
+      "commonName": "Mycena murina",
+      "scientificName": "Mycena murina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2893605/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-semivestipes",
+      "commonName": "Mycena semivestipes",
+      "scientificName": "Mycena semivestipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1386087/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-overholtsii",
+      "commonName": "Mycena overholtsii",
+      "scientificName": "Mycena overholtsii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133649/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-niveipes",
+      "commonName": "Mycena niveipes",
+      "scientificName": "Mycena niveipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222551777/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-subcana",
+      "commonName": "Mycena subcana",
+      "scientificName": "Mycena subcana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/453829326/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-albiceps",
+      "commonName": "Mycena albiceps",
+      "scientificName": "Mycena albiceps",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43070519/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "mycena-atroalboides",
+      "commonName": "Mycena atroalboides",
+      "scientificName": "Mycena atroalboides",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/51062406/medium.jpg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Mycena_pura",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/63473"
+}

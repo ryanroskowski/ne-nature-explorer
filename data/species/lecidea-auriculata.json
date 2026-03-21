@@ -1,0 +1,135 @@
+{
+  "slug": "lecidea-auriculata",
+  "taxonId": 222986,
+  "group": "lichens",
+  "commonName": "Lecidea auriculata",
+  "scientificName": "Lecidea auriculata",
+  "family": "Lecideaceae",
+  "familyCommonName": "Lecideaceae",
+  "genus": "Lecidea",
+  "genusCommonName": "Tile Lichens",
+  "order": "Lecideales",
+  "orderCommonName": "Lecideales",
+  "breadcrumb": [
+    {
+      "label": "Lichens",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Ascomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/ascomycete-fungi"
+    },
+    {
+      "label": "Common Lichens",
+      "rank": "class",
+      "slug": "explore/common-lichens"
+    },
+    {
+      "label": "Lecideales",
+      "rank": "order",
+      "slug": "explore/lecideales"
+    },
+    {
+      "label": "Lecideaceae",
+      "rank": "family",
+      "slug": "explore/lecideaceae"
+    },
+    {
+      "label": "Tile Lichens",
+      "rank": "genus",
+      "slug": "explore/tile-lichens"
+    },
+    {
+      "label": "Lecidea auriculata",
+      "rank": "species",
+      "slug": "species/lecidea-auriculata"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 24954074,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24954074/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24954074/large.jpg",
+      "attribution": "(c) Rob Curtis, some rights reserved (CC BY-NC-SA), uploaded by Rob Curtis",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/22298600"
+    }
+  ],
+  "nameStory": "The name 'auriculata' comes from the Latin word for 'eared,' referring to the distinctive ear-like or lobed appearance of this lichen's fruiting bodies. Like other members of the tile lichen genus, it forms a crusty, tile-like pattern on rock surfaces, creating natural mosaics that early naturalists thought resembled ceramic work.",
+  "description": "Lecidea auriculata is a crustose lichen that forms thin, grayish patches directly on rock surfaces, looking almost painted on. This small lichen creates colonies just a few inches across, with a smooth to slightly bumpy texture. Its most notable feature is its black, disk-shaped fruiting bodies (called apothecia) that often have slightly raised, ear-like margins. It's part of a large group of rock-loving lichens that help slowly break down stone surfaces over decades.",
+  "idTips": [
+    {
+      "label": "Ear-like fruiting bodies",
+      "description": "Look for small black disks with slightly raised, curved edges that create an ear-like or cupped appearance when viewed from the side",
+      "isPrimary": true
+    },
+    {
+      "label": "Crustose growth form",
+      "description": "Forms thin, paint-like patches that are impossible to peel off rock without damaging - feels completely fused to the surface when you run your finger over it",
+      "isPrimary": false
+    },
+    {
+      "label": "Gray thallus color",
+      "description": "The main body appears pale gray to whitish-gray, sometimes with a slightly greenish tint when damp",
+      "isPrimary": false
+    },
+    {
+      "label": "Rock substrate preference",
+      "description": "Almost exclusively found on hard rock surfaces, particularly granite, schist, or other acidic stones that feel rough and granular",
+      "isPrimary": false
+    },
+    {
+      "label": "Small colony size",
+      "description": "Individual patches typically measure 1-3 inches across, though several may grow near each other on suitable rock faces",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "This lichen grows on exposed rock faces and boulders in New England's mountains and rocky areas, particularly favoring acidic rocks like granite and schist. Look for it on cliff faces, large glacial erratics, and stone outcrops from sea level up to mountain peaks. It prefers locations with good air circulation and some exposure to rain, avoiding heavily shaded or constantly wet surfaces.",
+  "seasonality": {
+    "spring": "Fruiting bodies may appear fresh and prominent as the lichen becomes active with spring moisture. The gray thallus often appears more vibrant and greenish after spring rains.",
+    "summer": "During dry periods, the lichen appears more dormant and grayish, but the black fruiting bodies remain visible and diagnostic. This is often the easiest time to spot the distinctive ear-like margins on the apothecia.",
+    "fall": "Increased moisture may stimulate new growth and the development of fresh fruiting bodies. The contrast between the dark apothecia and lighter thallus is often most pronounced in fall light.",
+    "winter": "The lichen remains visible and identifiable under snow cover, though it may appear more gray and less active. Ice and snow actually help protect it from winter damage."
+  },
+  "funFact": "**Uncertainty note: Limited reference material available** This lichen can survive being completely frozen solid for months, then resume photosynthesis within minutes of thawing - essentially coming back to life faster than you can make a cup of coffee on a winter morning!",
+  "confusionNotes": "**Uncertainty note: Limited reference material available** It can be confused with other tile lichens, but the ear-like raised margins on its black fruiting bodies are distinctive - remember 'auriculata = ears' to distinguish it from flat-topped relatives like Gray-orange Disk Lichen.",
+  "contextualKnowledge": "**Uncertainty note: Limited reference material available** With only one recorded observation in New England, this lichen is either extremely rare in our region or significantly under-reported, possibly due to its small size and similarity to other tile lichens. It may be more common than records suggest, simply overlooked by casual observers.",
+  "compareHints": "**Uncertainty note: Limited reference material available** Unlike Gray-orange Disk Lichen which has flatter, orange-tinged fruiting bodies, Lecidea auriculata has distinctly raised, ear-like margins on its black apothecia. Tile Lichen tends to form more geometric, tessellated patterns, while L. auriculata creates more irregular patches. The ear-like fruiting body margins are the key distinguishing feature from all its tile lichen relatives.",
+  "relatedSpecies": [
+    {
+      "slug": "lecidea-lapicida",
+      "commonName": "Gray-orange Disk Lichen",
+      "scientificName": "Lecidea lapicida",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/84543987/medium.jpg",
+      "distinction": "Compared to its close relative Tile Lichen, Gray-orange Disk Lichen has the distinctive orange tones mixed with gray, while Tile Lichen tends to be more uniformly gray or whitish."
+    },
+    {
+      "slug": "lecidea-tessellata",
+      "commonName": "Tile Lichen",
+      "scientificName": "Lecidea tessellata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110875620/medium.jpg",
+      "distinction": "Tile Lichen differs from its relatives like Gray-orange Disk Lichen by its distinctive tessellated surface pattern and more neutral coloration."
+    },
+    {
+      "slug": "lecidea-atrobrunnea",
+      "commonName": "Brown Tile Lichen",
+      "scientificName": "Lecidea atrobrunnea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110875459/medium.jpg",
+      "distinction": "Brown Tile Lichen differs from its relatives like Gray-orange Disk Lichen by its distinctly brownish (rather than grayish-orange) coloration and its preference for high-elevation rock faces."
+    },
+    {
+      "slug": "lecidea-nylanderi",
+      "commonName": "Nylander's Tile Lichen",
+      "scientificName": "Lecidea nylanderi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17226156/medium.jpg",
+      "distinction": "**Comparisons uncertain due to limited New England data:** Compared to other tile lichens in the Lecidea genus, Nylander's Tile Lichen likely has the most consistently black fruiting bodies without orange or brown tones that characterize Gray-orange Disk Lichen or Brown Tile Lichen."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/222986"
+}

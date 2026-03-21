@@ -1,0 +1,114 @@
+{
+  "slug": "astarte-crenata",
+  "taxonId": 253432,
+  "group": "mollusks",
+  "commonName": "Crenulate Astarte",
+  "scientificName": "Astarte crenata",
+  "family": "Astartidae",
+  "familyCommonName": "Astarte Clams",
+  "genus": "Astarte",
+  "genusCommonName": "Astartes",
+  "order": "Carditida",
+  "orderCommonName": "Carditida",
+  "breadcrumb": [
+    {
+      "label": "Mollusks",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Molluscs",
+      "rank": "phylum",
+      "slug": "explore/molluscs"
+    },
+    {
+      "label": "Bivalves",
+      "rank": "class",
+      "slug": "explore/bivalves"
+    },
+    {
+      "label": "Carditida",
+      "rank": "order",
+      "slug": "explore/carditida"
+    },
+    {
+      "label": "Astarte Clams",
+      "rank": "family",
+      "slug": "explore/astarte-clams"
+    },
+    {
+      "label": "Astartes",
+      "rank": "genus",
+      "slug": "explore/astartes"
+    },
+    {
+      "label": "Crenulate Astarte",
+      "rank": "species",
+      "slug": "species/astarte-crenata"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 107953771,
+      "mediumUrl": "https://static.inaturalist.org/photos/107953771/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/107953771/large.jpg",
+      "attribution": "(c) Terry Gosliner, all rights reserved, uploaded by Terry Gosliner",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/25343200"
+    }
+  ],
+  "nameStory": "The Crenulate Astarte gets its name from the tiny, tooth-like ridges (called crenulations) that line the inner edge of its shell, like a miniature saw blade. The genus name Astarte comes from an ancient Mediterranean goddess of love and fertility, reflecting the reverence early naturalists had for these beautiful, symmetrical shells.",
+  "description": "The Crenulate Astarte is a small, thick-shelled clam that lives buried in sandy and muddy seafloors along New England's coast. This compact bivalve typically measures about half an inch to an inch across, with a distinctly triangular or heart-shaped outline when viewed from the side. Its sturdy, white to pale brown shell has prominent growth rings that create a ribbed texture, and it's built to withstand the harsh conditions of cold northern waters.",
+  "idTips": [
+    {
+      "label": "Crenulated shell margin",
+      "description": "Run your finger along the inside edge where the two shell halves meet - you'll feel tiny, regular ridges like the edge of a dime, giving it a distinctly toothed texture",
+      "isPrimary": true
+    },
+    {
+      "label": "Triangular shape",
+      "description": "The shell forms a compact triangle or heart shape when viewed from the side, much more angular than typical round clams",
+      "isPrimary": false
+    },
+    {
+      "label": "Prominent growth rings",
+      "description": "The shell surface feels ridged with distinct concentric lines that you can catch your fingernail on, like the rings of a tree trunk",
+      "isPrimary": false
+    },
+    {
+      "label": "Thick, solid shell",
+      "description": "The shell feels surprisingly heavy for its size and makes a solid 'clink' when tapped, much denser than typical beach clams",
+      "isPrimary": false
+    },
+    {
+      "label": "White to pale brown color",
+      "description": "Fresh shells are chalky white to cream-colored, often with brownish staining near the hinge area",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for Crenulate Astarte shells washed up on sandy beaches and in muddy intertidal areas along New England's rocky coastlines, particularly in Maine and northern Massachusetts. Living specimens burrow in sandy-muddy bottoms in deeper, colder waters offshore, typically 20-200 feet deep. They prefer areas with good water circulation and are often found near rocky substrates where currents bring plenty of food particles.",
+  "seasonality": {
+    "spring": "Fresh shells may wash up on beaches after winter storms, often mixed with other cold-water species. This is when you're most likely to find intact specimens with clear crenulations.",
+    "summer": "Beach-combing yields the best results as increased boat traffic and summer storms bring up shells from deeper waters. Look in wrack lines after high tides.",
+    "fall": "Storm activity increases shell deposits on beaches. Shells found now often show good preservation before winter weathering begins.",
+    "winter": "Harsh weather breaks up shells, but protected coves and harbors may still yield good specimens. Living clams are most active in deeper waters during this season."
+  },
+  "funFact": "Despite being tiny, Crenulate Astartes can live for over 30 years, making them some of the longest-lived small clams in New England waters - some specimens are older than the teenagers who find their shells on the beach!",
+  "confusionNotes": "Most commonly confused with small quahog or littleneck clam shells, but the Crenulate Astarte's triangular shape and distinctive toothed inner edge immediately set it apart from the round, smooth-margined shells of common edible clams. Memory trick: 'Astarte has teeth like a shark-te!'",
+  "contextualKnowledge": "The name 'astarte' appears in many ancient cultures and the scientific naming reflects 19th-century naturalists' classical education, but these clams have no connection to Mediterranean mythology - they're purely cold-water, northern Atlantic species that would have been unknown to ancient civilizations.",
+  "compareHints": "The Crenulate Astarte is much smaller and more triangular than its relative the Wavy Astarte, which grows larger and has a more oval shape with wavy growth lines rather than sharp ridges. The crenulated (toothed) inner shell margin is much more pronounced in the Crenulate Astarte, while the Wavy Astarte has a smoother internal edge.",
+  "relatedSpecies": [
+    {
+      "slug": "astarte-undata",
+      "commonName": "Wavy Astarte",
+      "scientificName": "Astarte undata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/250155097/medium.jpg",
+      "distinction": "Compared to its close relative the Crenulate Astarte, the Wavy Astarte has smoother, more flowing ridges rather than sharp, angular ones."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/253432"
+}

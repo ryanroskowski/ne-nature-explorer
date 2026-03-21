@@ -1,0 +1,143 @@
+{
+  "slug": "coturnix-japonica",
+  "taxonId": 791,
+  "group": "birds",
+  "commonName": "Japanese Quail",
+  "scientificName": "Coturnix japonica",
+  "family": "Phasianidae",
+  "familyCommonName": "Pheasants, Grouse, and Allies",
+  "genus": "Coturnix",
+  "genusCommonName": "Typical Old World Quails",
+  "order": "Galliformes",
+  "orderCommonName": "Landfowl",
+  "breadcrumb": [
+    {
+      "label": "Birds",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Chordates",
+      "rank": "phylum",
+      "slug": "explore/chordates"
+    },
+    {
+      "label": "Birds",
+      "rank": "class",
+      "slug": "explore/birds"
+    },
+    {
+      "label": "Landfowl",
+      "rank": "order",
+      "slug": "explore/landfowl"
+    },
+    {
+      "label": "Pheasants, Grouse, and Allies",
+      "rank": "family",
+      "slug": "explore/pheasants-grouse-and-allies"
+    },
+    {
+      "label": "Typical Old World Quails",
+      "rank": "genus",
+      "slug": "explore/typical-old-world-quails"
+    },
+    {
+      "label": "Japanese Quail",
+      "rank": "species",
+      "slug": "species/coturnix-japonica"
+    }
+  ],
+  "observationCount": 4,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 246386400,
+      "mediumUrl": "https://static.inaturalist.org/photos/246386400/medium.jpeg",
+      "largeUrl": "https://static.inaturalist.org/photos/246386400/large.jpeg",
+      "attribution": "(c) Lucas Shiu, all rights reserved, uploaded by Lucas Shiu",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/79102"
+    },
+    {
+      "id": 455759568,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/455759568/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/455759568/large.jpg",
+      "attribution": "(c) terence zahner, some rights reserved (CC BY-NC), uploaded by terence zahner",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/79100"
+    },
+    {
+      "id": 457709236,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/457709236/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/457709236/large.jpeg",
+      "attribution": "(c) 小铖/Smalltown, some rights reserved (CC BY-NC), uploaded by 小铖/Smalltown",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/79101"
+    },
+    {
+      "id": 522193388,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/522193388/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/522193388/large.jpg",
+      "attribution": "(c) Aster, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/290286371"
+    },
+    {
+      "id": 87630365,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/87630365/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/87630365/large.jpg",
+      "attribution": "(c) cubits, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/55049374"
+    }
+  ],
+  "nameStory": "The Japanese Quail gets its name from its origins in East Asia, where it was first recognized as distinct from other quail species. Originally called the 'coturnix quail' after its scientific genus name Coturnix, this small ground bird was long thought to be just a subspecies of the common quail until scientists realized it deserved its own species status.",
+  "description": "The Japanese Quail is a small, plump ground bird about the size of a hamster, weighing roughly as much as a stick of butter. These compact birds have mottled brown and cream plumage that helps them blend into grasslands and agricultural areas. They're much more likely to run than fly when startled, scurrying through vegetation on their short, sturdy legs. In New England, you'll almost certainly encounter domesticated varieties that have escaped from farms or been released, rather than truly wild birds.",
+  "idTips": [
+    {
+      "label": "Size and Shape",
+      "description": "Tiny and round like a feathered tennis ball, much smaller than a pigeon but chunkier than a sparrow, with a short neck that makes the head seem to sit right on the body",
+      "isPrimary": true
+    },
+    {
+      "label": "Plumage Pattern",
+      "description": "Intricate mottled pattern of browns, tans, and creams that looks like scattered autumn leaves, with darker streaking that creates a camouflaged effect",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Prefers to run rather than fly, moving in quick bursts through grass with head bobbing like a tiny chicken, freezing motionless when threatened",
+      "isPrimary": false
+    },
+    {
+      "label": "Legs and Feet",
+      "description": "Bright orange or yellowish legs that seem oversized for the bird's body, perfect for scratching through leaf litter and dirt",
+      "isPrimary": false
+    },
+    {
+      "label": "Call",
+      "description": "Soft 'turr-turr-turr' or quiet peeping sounds, much gentler and higher-pitched than a chicken's cluck",
+      "isPrimary": false
+    },
+    {
+      "label": "Flight Style",
+      "description": "When forced to fly, launches almost vertically with whirring wingbeats before gliding back down quickly to cover",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "In New England, Japanese Quail are almost exclusively found around farms, particularly those raising game birds or poultry, where escaped or released birds may establish temporary populations. They prefer open grasslands, agricultural fields, and weedy areas with good ground cover for hiding. You might spot them along field edges, in overgrown pastures, or near rural homesteads with mixed farming operations.",
+  "seasonality": {
+    "spring": "Escaped or released birds may be more active and visible as they search for mates, with males making soft territorial calls from hidden spots in tall grass.",
+    "summer": "Peak activity time when any established birds will be foraging actively in early morning and evening, often with young following adults in small family groups.",
+    "fall": "Most likely season to encounter escapees as hunting preserves and farms transport birds, though New England's climate makes long-term survival unlikely.",
+    "winter": "Very rare to encounter as these birds cannot survive New England winters without human care and shelter."
+  },
+  "funFact": "Japanese Quail have been domesticated for over 800 years and were the first birds to successfully breed in space - Japanese quail chicks hatched aboard a Russian spacecraft in 1990, making them pioneer astronaut birds!",
+  "confusionNotes": "Most likely confused with young chickens or other domestic poultry, but Japanese Quail are much smaller and more delicately built. Remember: if it's robin-sized and acting like a tiny chicken, it's probably a quail, but if it's bigger than your fist, it's likely young poultry.",
+  "contextualKnowledge": "Japanese Quail in New England are essentially always domestic escapees rather than wild populations, as our climate is too harsh for them to establish permanently. Many color varieties exist in captivity (like Pharaoh, Italian, and Manchurian types) that look quite different from the wild brown pattern, so don't expect them all to look the same.",
+  "compareHints": "Since no other Coturnix quail live in New England, compare Japanese Quail to our native Bobwhite Quail, which is significantly larger (about twice the size), has a distinctive white throat patch on males, and makes the famous 'bob-WHITE' call. Japanese Quail are much more secretive and make softer sounds, plus they're more likely to be found near human habitation rather than in wild brushy areas.",
+  "relatedSpecies": [],
+  "isNative": false,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Japanese_quail",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/791"
+}

@@ -1,0 +1,594 @@
+{
+  "slug": "erysiphe-necator",
+  "taxonId": 801144,
+  "group": "fungi",
+  "commonName": "Grape Powdery Mildew",
+  "scientificName": "Erysiphe necator",
+  "family": "Erysiphaceae",
+  "familyCommonName": "Powdery Mildews",
+  "genus": "Erysiphe",
+  "genusCommonName": "Erysiphe",
+  "order": "Helotiales",
+  "orderCommonName": "Helotiales",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Ascomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/ascomycete-fungi"
+    },
+    {
+      "label": "Leotiomycetes",
+      "rank": "class",
+      "slug": "explore/leotiomycetes"
+    },
+    {
+      "label": "Helotiales",
+      "rank": "order",
+      "slug": "explore/helotiales"
+    },
+    {
+      "label": "Powdery Mildews",
+      "rank": "family",
+      "slug": "explore/powdery-mildews"
+    },
+    {
+      "label": "Erysiphe",
+      "rank": "genus",
+      "slug": "explore/erysiphe"
+    },
+    {
+      "label": "Grape Powdery Mildew",
+      "rank": "species",
+      "slug": "species/erysiphe-necator"
+    }
+  ],
+  "observationCount": 8,
+  "abundanceTier": "common",
+  "photos": [
+    {
+      "id": 430180822,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/430180822/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/430180822/large.jpeg",
+      "attribution": "(c) James Kameron Mitchell, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/241377392"
+    },
+    {
+      "id": 310186026,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310186026/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310186026/large.jpg",
+      "attribution": "(c) Bill MacIndewar, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/178274737"
+    },
+    {
+      "id": 310186051,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310186051/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310186051/large.jpg",
+      "attribution": "(c) Bill MacIndewar, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/178274737"
+    },
+    {
+      "id": 183944971,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183944971/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183944971/large.jpeg",
+      "attribution": "(c) Юрій Бенгус, some rights reserved (CC BY-NC), uploaded by Юрій Бенгус",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/80114400"
+    },
+    {
+      "id": 310185998,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310185998/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310185998/large.jpg",
+      "attribution": "(c) Bill MacIndewar, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/178274737"
+    },
+    {
+      "id": 98816958,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98816958/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98816958/large.jpeg",
+      "attribution": "(c) Steven Bodzin, some rights reserved (CC BY), uploaded by Steven Bodzin",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/80114401"
+    },
+    {
+      "id": 32037284,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32037284/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32037284/large.jpeg",
+      "attribution": "(c) 大肚魚, some rights reserved (CC BY-NC), uploaded by 大肚魚",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/80114402"
+    },
+    {
+      "id": 310186087,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310186087/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310186087/large.jpg",
+      "attribution": "(c) Bill MacIndewar, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/178274737"
+    },
+    {
+      "id": 437891120,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/437891120/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/437891120/large.jpeg",
+      "attribution": "(c) James Kameron Mitchell, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/245395629"
+    },
+    {
+      "id": 569819155,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/569819155/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/569819155/large.jpg",
+      "attribution": "no rights reserved",
+      "licenseCode": "cc0",
+      "observationUrl": "https://www.inaturalist.org/observations/315431974"
+    },
+    {
+      "id": 159236695,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/159236695/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/159236695/large.jpg",
+      "attribution": "(c) Susan J. Hewitt, some rights reserved (CC BY-NC), uploaded by Susan J. Hewitt",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/80114404"
+    },
+    {
+      "id": 430428165,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/430428165/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/430428165/large.jpeg",
+      "attribution": "(c) James Kameron Mitchell, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/241506822"
+    },
+    {
+      "id": 430428081,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/430428081/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/430428081/large.jpeg",
+      "attribution": "(c) James Kameron Mitchell, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/241506786"
+    },
+    {
+      "id": 430428211,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/430428211/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/430428211/large.jpeg",
+      "attribution": "(c) James Kameron Mitchell, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/241506876"
+    },
+    {
+      "id": 437774943,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/437774943/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/437774943/large.jpeg",
+      "attribution": "(c) gabrielmamdani, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/245336890"
+    }
+  ],
+  "nameStory": "",
+  "description": "Grape powdery mildew (Erysiphe necator) is a fungal disease that affects grapevines by coating leaves, stems, and fruit with a white, powdery fungal growth. It is one of the most economically damaging diseases in New England vineyards, particularly affecting wine and table grape production.",
+  "idTips": [
+    {
+      "label": "White Powdery Coating",
+      "description": "A distinctive white to grayish powdery substance covers affected plant parts, appearing on both leaf surfaces and easily rubbing off with a finger.",
+      "isPrimary": true
+    },
+    {
+      "label": "Distorted Leaf Growth",
+      "description": "Infected leaves may become curled, stunted, or show yellowing around affected areas, with young shoots appearing twisted or malformed.",
+      "isPrimary": false
+    },
+    {
+      "label": "Fruit Impact",
+      "description": "Berries develop a white coating early in the season and may crack or split as they mature, becoming less marketable.",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Grape powdery mildew thrives in New England's cool to moderate temperatures (59-77°F), high humidity, and shaded vineyard areas with poor air circulation.",
+  "seasonality": {
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
+  },
+  "funFact": "Unlike many powdery mildews, Erysiphe necator actually prefers cooler conditions and high humidity over dry heat, making it particularly problematic in the moisture-rich New England climate.",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
+  "relatedSpecies": [
+    {
+      "slug": "erysiphe-syringae",
+      "commonName": "Erysiphe syringae",
+      "scientificName": "Erysiphe syringae",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/54438047/medium.jpg",
+      "distinction": "Unlike other Erysiphe species that attack different host plants, lilac powdery mildew is quite host-specific and rarely strays from lilacs and close relatives."
+    },
+    {
+      "slug": "erysiphe-trifoliorum",
+      "commonName": "Clover Powdery Mildew",
+      "scientificName": "Erysiphe trifoliorum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/328265296/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-extensa",
+      "commonName": "Erysiphe extensa",
+      "scientificName": "Erysiphe extensa",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/424434195/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-vaccinii",
+      "commonName": "Erysiphe vaccinii",
+      "scientificName": "Erysiphe vaccinii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243442262/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-alliariicola",
+      "commonName": "Erysiphe alliariicola",
+      "scientificName": "Erysiphe alliariicola",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/449786795/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-aquilegiae",
+      "commonName": "Erysiphe aquilegiae",
+      "scientificName": "Erysiphe aquilegiae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/444869480/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-castaneae",
+      "commonName": "Erysiphe castaneae",
+      "scientificName": "Erysiphe castaneae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/303647354/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-sedi",
+      "commonName": "Erysiphe sedi",
+      "scientificName": "Erysiphe sedi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408102297/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-platani",
+      "commonName": "Sycamore Powdery Mildew",
+      "scientificName": "Erysiphe platani",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/301250978/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-howeana",
+      "commonName": "Erysiphe howeana",
+      "scientificName": "Erysiphe howeana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/84243367/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-ornata",
+      "commonName": "Erysiphe ornata",
+      "scientificName": "Erysiphe ornata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/431230966/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-paeoniae",
+      "commonName": "Peony Powdery Mildew",
+      "scientificName": "Erysiphe paeoniae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/451855706/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-polygoni",
+      "commonName": "Erysiphe polygoni",
+      "scientificName": "Erysiphe polygoni",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/338405330/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-macrospora",
+      "commonName": "Erysiphe macrospora",
+      "scientificName": "Erysiphe macrospora",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/448221351/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-vanbruntiana",
+      "commonName": "Erysiphe vanbruntiana",
+      "scientificName": "Erysiphe vanbruntiana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/240391334/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-cornigena",
+      "commonName": "Erysiphe cornigena",
+      "scientificName": "Erysiphe cornigena",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/446954576/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-ampelopsidis",
+      "commonName": "Erysiphe ampelopsidis",
+      "scientificName": "Erysiphe ampelopsidis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/326204163/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-biuncinata",
+      "commonName": "Erysiphe biuncinata",
+      "scientificName": "Erysiphe biuncinata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/422156978/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-amphicarpaeicola",
+      "commonName": "Erysiphe amphicarpaeicola",
+      "scientificName": "Erysiphe amphicarpaeicola",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47865632/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-magnifica",
+      "commonName": "Erysiphe magnifica",
+      "scientificName": "Erysiphe magnifica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55570844/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-ostryae",
+      "commonName": "Erysiphe ostryae",
+      "scientificName": "Erysiphe ostryae",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/570621767/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-pseudoextensa",
+      "commonName": "Erysiphe pseudoextensa",
+      "scientificName": "Erysiphe pseudoextensa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/447809244/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-liriodendri",
+      "commonName": "Erysiphe liriodendri",
+      "scientificName": "Erysiphe liriodendri",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/336585553/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-erineophila",
+      "commonName": "Erysiphe erineophila",
+      "scientificName": "Erysiphe erineophila",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/423912964/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-nemopanthi",
+      "commonName": "Erysiphe nemopanthi",
+      "scientificName": "Erysiphe nemopanthi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168671146/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "erysiphe-urticae",
+      "commonName": "Nettle Powdery Mildew",
+      "scientificName": "Erysiphe urticae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51882190/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-macleayae",
+      "commonName": "Erysiphe macleayae",
+      "scientificName": "Erysiphe macleayae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/562809528/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-pulchra",
+      "commonName": "Erysiphe pulchra",
+      "scientificName": "Erysiphe pulchra",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/260282497/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-flexuosa",
+      "commonName": "Horse-Chestnut Powdery Mildew",
+      "scientificName": "Erysiphe flexuosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/541720554/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-semitosta",
+      "commonName": "Erysiphe semitosta",
+      "scientificName": "Erysiphe semitosta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/326954997/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-pisi",
+      "commonName": "Pea Powdery Mildew",
+      "scientificName": "Erysiphe pisi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1881827/medium.JPG",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-lonicerae",
+      "commonName": "Erysiphe lonicerae",
+      "scientificName": "Erysiphe lonicerae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/93088055/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-euonymicola",
+      "commonName": "Spindletree powdery mildew",
+      "scientificName": "Erysiphe euonymicola",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1213470/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-ravenelii",
+      "commonName": "Erysiphe ravenelii",
+      "scientificName": "Erysiphe ravenelii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/56059427/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-viburni",
+      "commonName": "Erysiphe viburni",
+      "scientificName": "Erysiphe viburni",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/449736618/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-capreae",
+      "commonName": "sallow mildew",
+      "scientificName": "Erysiphe capreae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/433555109/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-parvula",
+      "commonName": "Erysiphe parvula",
+      "scientificName": "Erysiphe parvula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/230021636/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-juglandis-nigrae",
+      "commonName": "Erysiphe juglandis-nigrae",
+      "scientificName": "Erysiphe juglandis-nigrae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/415538620/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-lentaginis",
+      "commonName": "Erysiphe lentaginis",
+      "scientificName": "Erysiphe lentaginis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/165420599/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-alphitoides",
+      "commonName": "Erysiphe alphitoides",
+      "scientificName": "Erysiphe alphitoides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/432089089/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-abbreviata",
+      "commonName": "Erysiphe abbreviata",
+      "scientificName": "Erysiphe abbreviata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/320712636/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-convolvuli",
+      "commonName": "Bindweed Powdery Mildew",
+      "scientificName": "Erysiphe convolvuli",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/434099463/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-adunca",
+      "commonName": "Erysiphe adunca",
+      "scientificName": "Erysiphe adunca",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/580244777/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-clintonii",
+      "commonName": "Erysiphe clintonii",
+      "scientificName": "Erysiphe clintonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/423679168/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-ellisii",
+      "commonName": "Erysiphe ellisii",
+      "scientificName": "Erysiphe ellisii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/567784340/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-symphoricarpi",
+      "commonName": "snowberry powdery mildew",
+      "scientificName": "Erysiphe symphoricarpi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/211816971/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-berberidis",
+      "commonName": "Erysiphe berberidis",
+      "scientificName": "Erysiphe berberidis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50708424/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-calocladophora",
+      "commonName": "Erysiphe calocladophora",
+      "scientificName": "Erysiphe calocladophora",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/435891018/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-akebiae",
+      "commonName": "Erysiphe akebiae",
+      "scientificName": "Erysiphe akebiae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/298316960/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-cornutae",
+      "commonName": "Erysiphe cornutae",
+      "scientificName": "Erysiphe cornutae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9586402/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-coryli-americanae",
+      "commonName": "Erysiphe coryli-americanae",
+      "scientificName": "Erysiphe coryli-americanae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227080548/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-alnicola",
+      "commonName": "Erysiphe alnicola",
+      "scientificName": "Erysiphe alnicola",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/240643030/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-neglecta",
+      "commonName": "Erysiphe neglecta",
+      "scientificName": "Erysiphe neglecta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/444572415/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-radulescui",
+      "commonName": "Erysiphe radulescui",
+      "scientificName": "Erysiphe radulescui",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/465285408/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "erysiphe-caryae",
+      "commonName": "Erysiphe caryae",
+      "scientificName": "Erysiphe caryae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/435584169/medium.jpeg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Uncinula_necator",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/801144"
+}

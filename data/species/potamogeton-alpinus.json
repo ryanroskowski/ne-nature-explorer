@@ -1,0 +1,395 @@
+{
+  "slug": "potamogeton-alpinus",
+  "taxonId": 78704,
+  "group": "plants",
+  "commonName": "Northern Pondweed",
+  "scientificName": "Potamogeton alpinus",
+  "family": "Potamogetonaceae",
+  "familyCommonName": "pondweed family",
+  "genus": "Potamogeton",
+  "genusCommonName": "Pondweeds",
+  "order": "Alismatales",
+  "orderCommonName": "Aroids, Water Plantains, Seagrass, and allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Vascular Plants",
+      "rank": "phylum",
+      "slug": "explore/vascular-plants"
+    },
+    {
+      "label": "Monocots",
+      "rank": "class",
+      "slug": "explore/monocots"
+    },
+    {
+      "label": "Aroids, Water Plantains, Seagrass, and allies",
+      "rank": "order",
+      "slug": "explore/aroids-water-plantains-seagrass-and-allies"
+    },
+    {
+      "label": "pondweed family",
+      "rank": "family",
+      "slug": "explore/pondweed-family"
+    },
+    {
+      "label": "Pondweeds",
+      "rank": "genus",
+      "slug": "explore/pondweeds"
+    },
+    {
+      "label": "Northern Pondweed",
+      "rank": "species",
+      "slug": "species/potamogeton-alpinus"
+    }
+  ],
+  "observationCount": 7,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 547520579,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/547520579/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/547520579/large.jpg",
+      "attribution": "(c) Vojtěch Blažek, some rights reserved (CC BY-NC), uploaded by Vojtěch Blažek",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7870400"
+    },
+    {
+      "id": 141705709,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/141705709/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/141705709/large.jpeg",
+      "attribution": "(c) Vladimir Bryukhov, some rights reserved (CC BY-NC), uploaded by Vladimir Bryukhov",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7870406"
+    },
+    {
+      "id": 244145460,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244145460/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244145460/large.jpeg",
+      "attribution": "(c) Matthias Buck, some rights reserved (CC BY-NC), uploaded by Matthias Buck",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7870404"
+    },
+    {
+      "id": 553128,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/553128/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/553128/large.jpeg",
+      "attribution": "(c) Biopix, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7870405"
+    },
+    {
+      "id": 311324599,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/311324599/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/311324599/large.jpeg",
+      "attribution": "(c) Alex Karasoulos, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/178879007"
+    },
+    {
+      "id": 141705826,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/141705826/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/141705826/large.jpeg",
+      "attribution": "(c) Vladimir Bryukhov, some rights reserved (CC BY-NC), uploaded by Vladimir Bryukhov",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7870407"
+    },
+    {
+      "id": 251717945,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/251717945/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/251717945/large.jpeg",
+      "attribution": "(c) Christian Gilli, some rights reserved (CC BY-NC), uploaded by Christian Gilli",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7870401"
+    },
+    {
+      "id": 291127050,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/291127050/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/291127050/large.jpg",
+      "attribution": "(c) mike_miller, some rights reserved (CC BY-NC), uploaded by mike_miller",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7870408"
+    },
+    {
+      "id": 311324585,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/311324585/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/311324585/large.jpeg",
+      "attribution": "(c) Alex Karasoulos, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/178879007"
+    },
+    {
+      "id": 553127,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/553127/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/553127/large.jpeg",
+      "attribution": "(c) Biopix, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7870402"
+    },
+    {
+      "id": 92407755,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92407755/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92407755/large.jpeg",
+      "attribution": "(c) Nadezhda Nayanova, some rights reserved (CC BY-NC), uploaded by Nadezhda Nayanova",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7870410"
+    },
+    {
+      "id": 311324578,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/311324578/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/311324578/large.jpeg",
+      "attribution": "(c) Alex Karasoulos, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/178879007"
+    },
+    {
+      "id": 311324565,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/311324565/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/311324565/large.jpeg",
+      "attribution": "(c) Alex Karasoulos, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/178879007"
+    },
+    {
+      "id": 176127789,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176127789/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176127789/large.jpeg",
+      "attribution": "(c) stefan___, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7870409"
+    },
+    {
+      "id": 251718000,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/251718000/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/251718000/large.jpeg",
+      "attribution": "(c) Christian Gilli, some rights reserved (CC BY-NC), uploaded by Christian Gilli",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7870411"
+    },
+    {
+      "id": 311948560,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/311948560/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/311948560/large.jpg",
+      "attribution": "(c) Li Jianong, some rights reserved (CC BY-NC), uploaded by Li Jianong",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/7870403"
+    }
+  ],
+  "nameStory": "Northern pondweed gets its name from its preference for the cooler waters of northern regions, thriving in places where many other aquatic plants can't handle the chill. It's also called 'red pondweed' because its stems and leaf bases often develop a distinctive reddish tinge, especially in cooler water or during fall. The 'alpine' part of its scientific name hints at its love for high-quality, pristine waters you'd find in mountain lakes and clean northern streams.",
+  "description": "Northern pondweed is an underwater aquatic plant that lives completely submerged in clean lakes and rivers throughout New England's cooler waters. This perennial plant has long, ribbon-like leaves that grow alternately along reddish-tinged stems, creating graceful underwater meadows. The plant typically grows 1-3 feet tall from the lake or river bottom, with leaves that feel smooth and slightly rubbery when you run them between your fingers. Like other pondweeds, it produces small flower spikes that poke above the water surface during summer.",
+  "idTips": [
+    {
+      "label": "Stems",
+      "description": "Look for the telltale reddish or pinkish coloration on stems and leaf bases - this red tinge is often the best clue you're looking at northern pondweed rather than its relatives",
+      "isPrimary": true
+    },
+    {
+      "label": "Leaves",
+      "description": "Underwater leaves are long and narrow (ribbon-like), feeling smooth and slightly rubbery to the touch, growing alternately along the stem rather than in pairs",
+      "isPrimary": false
+    },
+    {
+      "label": "Flowers",
+      "description": "Small, inconspicuous greenish flower spikes emerge above the water surface in summer, looking like tiny corn cobs on stalks",
+      "isPrimary": false
+    },
+    {
+      "label": "Growth Habit",
+      "description": "Forms underwater colonies rooted to the bottom, with long flexible stems that sway gracefully in the current",
+      "isPrimary": false
+    },
+    {
+      "label": "Habitat Preference",
+      "description": "Found only in clean, high-quality water - if the water is polluted or murky, you won't find this picky plant",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Northern pondweed thrives in the clean, cool waters of New England's pristine lakes, ponds, and slow-moving rivers. You'll find it rooted in sandy or rocky bottoms in water depths of 3-15 feet, often in the same waters where trout thrive. This plant is actually an indicator of good water quality - its presence tells you the water is clean and well-oxygenated.",
+  "seasonality": {
+    "spring": "New growth begins as water temperatures rise, with fresh reddish stems and bright green leaves emerging from overwintering rootstocks.",
+    "summer": "Peak growing season with full underwater foliage and small flower spikes poking above the surface. This is the best time to spot the characteristic red-tinged stems.",
+    "fall": "Stems and leaves may become more intensely reddish as temperatures cool. Plants begin to die back but remain visible underwater.",
+    "winter": "Most above-ground parts die back, but rootstocks survive under ice, ready to regrow in spring."
+  },
+  "funFact": "Northern pondweed is like a canary in a coal mine for water quality - it's so sensitive to pollution that scientists use its presence (or absence) to monitor the health of lakes and rivers, making it nature's own water quality detective!",
+  "confusionNotes": "Northern pondweed is easily confused with other ribbon-leaved pondweeds, but remember 'red for northern' - the reddish stems and leaf bases are your best clue. If you're looking at plain green stems, you're probably seeing a different pondweed species.",
+  "contextualKnowledge": "With 24 different pondweed species in New England, this group can be overwhelming for beginners! The good news is that northern pondweed is one of the easier ones to identify thanks to its distinctive red coloring. Don't worry about memorizing all the species - focus on the obvious features first.",
+  "compareHints": "Among New England's many pondweeds, northern pondweed stands out with its reddish stem coloration - most other species like ribbon-leaved pondweed or grass-leaved pondweed have plain green stems. While floating-leaved pondweed has broad floating leaves on the surface, northern pondweed keeps all its narrow leaves underwater. The red tinge combined with its preference for very clean water makes it fairly distinctive once you know what to look for.",
+  "relatedSpecies": [
+    {
+      "slug": "potamogeton-epihydrus",
+      "commonName": "ribbon-leaved pondweed",
+      "scientificName": "Potamogeton epihydrus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/553140/medium.jpg",
+      "distinction": "Among New England's many pondweeds, ribbon-leaved pondweed stands out for its distinctly long, narrow leaves that are much more ribbon-like than grass-like."
+    },
+    {
+      "slug": "potamogeton-natans",
+      "commonName": "floating-leaved pondweed",
+      "scientificName": "Potamogeton natans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/416619931/medium.jpg",
+      "distinction": "Among New England's many pondweeds, floating-leaved pondweed is unique in having large, obvious floating leaves - most other pondweeds have only thin underwater leaves or much smaller floating leaves."
+    },
+    {
+      "slug": "potamogeton-amplifolius",
+      "commonName": "Broad-leaved Pondweed",
+      "scientificName": "Potamogeton amplifolius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/410147852/medium.jpeg",
+      "distinction": "Among New England's many pondweeds, broad-leaved pondweed is distinguished by having some of the widest underwater leaves with the most veins."
+    },
+    {
+      "slug": "potamogeton-crispus",
+      "commonName": "Curly-leaf Pondweed",
+      "scientificName": "Potamogeton crispus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/341749943/medium.jpeg",
+      "distinction": "Unlike floating-leaved pondweed which has oval leaves that float on the surface, or ribbon-leaved pondweed with its narrow straight leaves, curly-leaf pondweed's leaves stay completely underwater and have those unmistakable wavy, crimped edges."
+    },
+    {
+      "slug": "potamogeton-robbinsii",
+      "commonName": "robbins' pondweed",
+      "scientificName": "Potamogeton robbinsii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/423805901/medium.jpeg",
+      "distinction": "Unlike ribbon-leaved and floating-leaved pondweeds which produce leaves that reach the water surface, Robbins' pondweed stays completely submerged throughout its life cycle."
+    },
+    {
+      "slug": "potamogeton-perfoliatus",
+      "commonName": "Perfoliate Pondweed",
+      "scientificName": "Potamogeton perfoliatus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/235755272/medium.jpeg",
+      "distinction": "Unlike floating-leaved pondweed which has leaves that float on the surface, perfoliate pondweed stays completely submerged."
+    },
+    {
+      "slug": "potamogeton-nodosus",
+      "commonName": "Longleaf Pondweed",
+      "scientificName": "Potamogeton nodosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288992682/medium.jpeg",
+      "distinction": "Among New England's many pondweed species, longleaf pondweed stands out for having both underwater and floating leaves on long stalks - most relatives specialize in just one leaf type."
+    },
+    {
+      "slug": "potamogeton-richardsonii",
+      "commonName": "Richardson's pondweed",
+      "scientificName": "Potamogeton richardsonii",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/437376804/medium.jpeg",
+      "distinction": "Among the pondweeds, Richardson's stands out for its relatively broad, crinkly-edged underwater leaves - much wider than grass-leaved or ribbon-leaved pondweed, but not as broad as the truly wide-leaved species like broad-leaved pondweed."
+    },
+    {
+      "slug": "potamogeton-spirillus",
+      "commonName": "Spiral Pondweed",
+      "scientificName": "Potamogeton spirillus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/9807437/medium.jpg",
+      "distinction": "Among the many pondweed species in New England, spiral pondweed is unique for its twisted flower spikes – no other pondweed has this corkscrew feature."
+    },
+    {
+      "slug": "potamogeton-gramineus",
+      "commonName": "grass-leaved pondweed",
+      "scientificName": "Potamogeton gramineus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222667137/medium.jpeg",
+      "distinction": "Among New England's many pondweed species, grass-leaved pondweed stands out for its consistently narrow, grass-like submerged leaves that vary in length on the same plant."
+    },
+    {
+      "slug": "potamogeton-zosteriformis",
+      "commonName": "eel-grass pondweed",
+      "scientificName": "Potamogeton zosteriformis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/531318080/medium.jpg",
+      "distinction": "Among the many New England pondweeds, eel-grass pondweed stands out for its extremely narrow, ribbon-like leaves that never float on the surface."
+    },
+    {
+      "slug": "potamogeton-bicupulatus",
+      "commonName": "snailseed pondweed",
+      "scientificName": "Potamogeton bicupulatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47201459/medium.jpg",
+      "distinction": "Among New England's many pondweeds, snailseed pondweed is most similar to other narrow-leaved species like Berchtold's and small pondweed, sharing the thin, linear leaves and small stature."
+    },
+    {
+      "slug": "potamogeton-berchtoldii",
+      "commonName": "Berchtold's pondweed",
+      "scientificName": "Potamogeton berchtoldii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/553138/medium.jpg",
+      "distinction": "Berchtold's pondweed stands out from other New England pondweeds by having the narrowest leaves in the genus - much thinner than the ribbon-like leaves of ribbon-leaved pondweed or the broader blades of floating-leaved pondweed."
+    },
+    {
+      "slug": "potamogeton-praelongus",
+      "commonName": "white-stemmed pondweed",
+      "scientificName": "Potamogeton praelongus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/325486323/medium.jpeg",
+      "distinction": "Among the many pondweed species in New England, white-stemmed pondweed is distinguished by its pale stems and preference for deeper, clearer water."
+    },
+    {
+      "slug": "potamogeton-oakesianus",
+      "commonName": "Oakes' Pondweed",
+      "scientificName": "Potamogeton oakesianus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/418291722/medium.jpg",
+      "distinction": "Among New England's pondweeds, Oakes' stands out for its extremely narrow, delicate leaves that are much thinner than the ribbon-like leaves of grass-leaved pondweed or the broader leaves of floating-leaved species."
+    },
+    {
+      "slug": "potamogeton-pulcher",
+      "commonName": "Spotted Pondweed",
+      "scientificName": "Potamogeton pulcher",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28129268/medium.jpg",
+      "distinction": "Among New England's many pondweed species, spotted pondweed is the only one with translucent windows in its leaves."
+    },
+    {
+      "slug": "potamogeton-foliosus",
+      "commonName": "leafy pondweed",
+      "scientificName": "Potamogeton foliosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/228698317/medium.jpeg",
+      "distinction": "Among New England's many pondweeds, leafy pondweed stands out for its extremely thin, hair-like leaves - much finer than broad-leaved pondweed's oval leaves or curly-leaf pondweed's wavy, serrated foliage."
+    },
+    {
+      "slug": "potamogeton-obtusifolius",
+      "commonName": "Bluntleaf Pondweed",
+      "scientificName": "Potamogeton obtusifolius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14784587/medium.jpeg",
+      "distinction": "Among New England's many pondweeds, Bluntleaf Pondweed stands out for its consistently blunt leaf tips, while most others like Ribbon-leaved Pondweed have pointed tips."
+    },
+    {
+      "slug": "potamogeton-pusillus",
+      "commonName": "small pondweed",
+      "scientificName": "Potamogeton pusillus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/303445809/medium.jpeg",
+      "distinction": "Among its many pondweed relatives, small pondweed stands out for having the most thread-like, delicate leaves - much thinner than grass-leaved pondweed or spiral pondweed."
+    },
+    {
+      "slug": "potamogeton-hillii",
+      "commonName": "Hill's pondweed",
+      "scientificName": "Potamogeton hillii",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/220803695/medium.jpeg",
+      "distinction": "Among the many pondweed species in New England, Hill's pondweed stands out for its strict requirement for alkaline water and its rarity."
+    },
+    {
+      "slug": "potamogeton-confervoides",
+      "commonName": "Algae-like Pondweed",
+      "scientificName": "Potamogeton confervoides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29782028/medium.jpeg",
+      "distinction": "Among all the pondweeds, this species stands out for having by far the thinnest leaves – other pondweeds have ribbon-like, oval, or broader linear leaves, but none approach the hair-fine texture of Algae-like Pondweed."
+    },
+    {
+      "slug": "potamogeton-illinoensis",
+      "commonName": "shining pondweed",
+      "scientificName": "Potamogeton illinoensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/78534145/medium.jpeg",
+      "distinction": "Among New England's many pondweed species, shining pondweed stands out for its consistently glossy leaves - most other pondweeds have matte or only slightly shiny foliage."
+    },
+    {
+      "slug": "potamogeton-vaseyi",
+      "commonName": "Vasey's Pondweed",
+      "scientificName": "Potamogeton vaseyi",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/9267956/medium.jpg",
+      "distinction": "Among the thin-leaved pondweeds, Vasey's pondweed is distinguished by very specific technical features of its fruits and stipules (small leaf-like structures at the leaf base)."
+    },
+    {
+      "slug": "potamogeton-strictifolius",
+      "commonName": "Straightleaf Pondweed",
+      "scientificName": "Potamogeton strictifolius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/553126/medium.jpeg",
+      "distinction": "Among New England's many pondweed species, Straightleaf Pondweed stands out for its rigid, upright leaf posture - most other pondweeds have either floating leaves, wavy underwater leaves, or much more flexible foliage."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Potamogeton_alpinus",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/78704"
+}

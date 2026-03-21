@@ -1,0 +1,128 @@
+{
+  "slug": "coenagrion-interrogatum",
+  "taxonId": 98275,
+  "group": "insects",
+  "commonName": "Subarctic Bluet",
+  "scientificName": "Coenagrion interrogatum",
+  "family": "Coenagrionidae",
+  "familyCommonName": "Narrow-winged Damselflies",
+  "genus": "Coenagrion",
+  "genusCommonName": "Northern Bluets",
+  "order": "Odonata",
+  "orderCommonName": "Dragonflies and Damselflies",
+  "breadcrumb": [
+    {
+      "label": "Insects",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Insects",
+      "rank": "class",
+      "slug": "explore/insects"
+    },
+    {
+      "label": "Dragonflies and Damselflies",
+      "rank": "order",
+      "slug": "explore/dragonflies-and-damselflies"
+    },
+    {
+      "label": "Narrow-winged Damselflies",
+      "rank": "family",
+      "slug": "explore/narrow-winged-damselflies"
+    },
+    {
+      "label": "Northern Bluets",
+      "rank": "genus",
+      "slug": "explore/northern-bluets"
+    },
+    {
+      "label": "Subarctic Bluet",
+      "rank": "species",
+      "slug": "species/coenagrion-interrogatum"
+    }
+  ],
+  "observationCount": 5,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 79225891,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/79225891/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/79225891/large.jpg",
+      "attribution": "(c) Cameron Eckert, some rights reserved (CC BY-NC), uploaded by Cameron Eckert",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/9827500"
+    },
+    {
+      "id": 558916,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/558916/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/558916/large.jpg",
+      "attribution": "(c) Jim Johnson, some rights reserved (CC BY-NC-ND), uploaded by Jim Johnson",
+      "licenseCode": "cc-by-nc-nd",
+      "observationUrl": "https://www.inaturalist.org/observations/9827502"
+    },
+    {
+      "id": 932655,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/932655/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/932655/large.jpg",
+      "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/9827501"
+    },
+    {
+      "id": 296534027,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/296534027/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/296534027/large.jpeg",
+      "attribution": "(c) Stephen Mirick, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/170923041"
+    }
+  ],
+  "nameStory": "",
+  "description": "The Subarctic Bluet is a small damselfly belonging to the Coenagrionidae family, characterized by its delicate build and predominantly blue coloration in males. Found in northern regions including parts of New England, this species is adapted to cool, northern climates and boreal habitats.",
+  "idTips": [
+    {
+      "label": "Abdominal Pattern",
+      "description": "Males display a distinctive blue and black pattern on the abdomen with characteristic segment markings that help distinguish this species from similar bluets",
+      "isPrimary": true
+    },
+    {
+      "label": "Facial Markings",
+      "description": "Look for the interrogation mark-like facial pattern (hence the scientific name 'interrogatum') on the frons and labrum",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Small damselfly, typically 28-33 mm in length, noticeably petite compared to many other damselfly species",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "The Subarctic Bluet inhabits cool, acidic wetlands, sphagnum bogs, and northern ponds with emergent vegetation, preferring areas with minimal pollution.",
+  "seasonality": {
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
+  },
+  "funFact": "This damselfly's range extends into the Arctic and subarctic regions, making it one of the northernmost damselfly species in North America.",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
+  "relatedSpecies": [
+    {
+      "slug": "coenagrion-resolutum",
+      "commonName": "Taiga Bluet",
+      "scientificName": "Coenagrion resolutum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/908274/medium.jpg",
+      "distinction": "The taiga bluet is extremely similar to its close relative, the Subarctic Bluet, and distinguishing them often requires expert examination of specific body segments and markings."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Coenagrion_interrogatum",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/98275"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "calicium-abietinum",
+  "taxonId": 117917,
+  "group": "lichens",
+  "commonName": "Calicium abietinum",
+  "scientificName": "Calicium abietinum",
+  "family": "Caliciaceae",
+  "familyCommonName": "Button and Allied Lichens",
+  "genus": "Calicium",
+  "genusCommonName": "Stubble Lichens",
+  "order": "Caliciales",
+  "orderCommonName": "button lichens, rosette lichens, and allies",
+  "breadcrumb": [
+    {
+      "label": "Lichens",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Ascomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/ascomycete-fungi"
+    },
+    {
+      "label": "Common Lichens",
+      "rank": "class",
+      "slug": "explore/common-lichens"
+    },
+    {
+      "label": "button lichens, rosette lichens, and allies",
+      "rank": "order",
+      "slug": "explore/button-lichens-rosette-lichens-and-allies"
+    },
+    {
+      "label": "Button and Allied Lichens",
+      "rank": "family",
+      "slug": "explore/button-and-allied-lichens"
+    },
+    {
+      "label": "Stubble Lichens",
+      "rank": "genus",
+      "slug": "explore/stubble-lichens"
+    },
+    {
+      "label": "Calicium abietinum",
+      "rank": "species",
+      "slug": "species/calicium-abietinum"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 12054821,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12054821/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12054821/large.jpeg",
+      "attribution": "(c) Tomás Curtis, some rights reserved (CC BY-NC), uploaded by Tomás Curtis",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/11791700"
+    }
+  ],
+  "nameStory": "The name 'fir pin' comes from this lichen's preference for growing on fir trees and its tiny pin-like fruiting structures that poke up from the bark surface. 'Black stubble' refers to how colonies of these dark, upright stalks can look like someone forgot to shave a tree trunk, creating a rough, bristly appearance on the bark.",
+  "description": "Fir pin is a crustose lichen that forms thin, crusty patches on tree bark with distinctive tiny black stalks poking upward. The main body of the lichen appears as a grayish or whitish crust that spreads across the bark surface. From this crust emerge numerous small, dark pin-like structures called apothecia that contain the lichen's reproductive spores. These colonies can spread several inches across the bark but remain quite thin and close to the surface.",
+  "idTips": [
+    {
+      "label": "Pin-like fruiting bodies",
+      "description": "Look for tiny black stalks, about the size of straight pins, standing upright from the bark surface - these feel firm and slightly rough when gently touched",
+      "isPrimary": true
+    },
+    {
+      "label": "Crusty base",
+      "description": "The underlying lichen body forms a thin, grayish-white crust that feels slightly powdery or granular when rubbed gently with your finger",
+      "isPrimary": false
+    },
+    {
+      "label": "Tree preference",
+      "description": "Almost always found on coniferous trees, especially firs, with the bark feeling typical of evergreen trees - somewhat rough and resinous-smelling",
+      "isPrimary": false
+    },
+    {
+      "label": "Colony pattern",
+      "description": "Forms irregular patches that can spread across several inches of bark, with the black pins scattered throughout like tiny fence posts",
+      "isPrimary": false
+    },
+    {
+      "label": "Surface texture",
+      "description": "The overall appearance is of a stubbled or bristly patch on smooth bark, creating a noticeably different texture you can feel by running your hand nearby",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Fir pin grows on the bark of coniferous trees throughout New England's forests, showing a strong preference for fir trees but also found on other evergreens. Look for it in mixed and coniferous forests at various elevations, from lowland areas to mountain slopes. It tends to favor trees in somewhat sheltered locations rather than those in completely exposed areas.",
+  "seasonality": {
+    "spring": "The black pin-like fruiting structures are most prominent and fresh-looking in spring as the lichen becomes more active with increased moisture and warming temperatures.",
+    "summer": "During dry summer periods, the lichen may appear less vibrant, with the crusty base looking more powdery and the pins sometimes less prominent.",
+    "fall": "Fall moisture often revitalizes the lichen, making both the crusty base and the dark pins more noticeable and well-defined on tree bark.",
+    "winter": "The lichen persists through winter and can actually be easier to spot against snow-covered bark, though growth slows considerably in cold temperatures."
+  },
+  "funFact": "This lichen is actually two organisms living together - a fungus that creates those distinctive black pins and an algae partner that lives invisibly within the crusty base, essentially farming sunlight to feed both of them in this unlikely tree-bark partnership that can last for decades.",
+  "confusionNotes": "Fir pin can be confused with other small, dark fungi growing on tree bark, but remember: lichens grow very slowly and form persistent crusty bases, while most bark fungi are temporary and lack the powdery, persistent crust. The pin-like structures of fir pin are also much more uniform and orderly than random fungal growths.",
+  "contextualKnowledge": "Despite being called 'fir pin,' this lichen isn't exclusive to fir trees and the common name can be misleading - it's found on various conifers worldwide. The scientific approach of examining both the crusty base and the pin-like structures together is more reliable than relying on tree species alone for identification.",
+  "compareHints": "Fir pin differs from its stubble lichen relatives primarily in its strong preference for coniferous trees and its particularly prominent black pins. Yellow Collar Stubble Lichen has yellowish coloring around its fruiting structures, while Yellow Soot Lichen tends to have more of a sooty, diffuse appearance rather than distinct pin-like projections. Fir pin's pins are typically more robust and numerous than those of its close relatives.",
+  "relatedSpecies": [
+    {
+      "slug": "calicium-trabinellum",
+      "commonName": "Yellow Collar Stubble Lichen",
+      "scientificName": "Calicium trabinellum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/191047566/medium.jpeg",
+      "distinction": "Yellow collar stubble lichen differs from its cousin yellow soot lichen by having that distinctive yellow pruina collar and growing primarily on wood rather than various surfaces."
+    },
+    {
+      "slug": "calicium-tigillare",
+      "commonName": "yellow soot lichen",
+      "scientificName": "Calicium tigillare",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7713326/medium.jpg",
+      "distinction": "Yellow soot lichen differs from its Calicium relatives primarily by its strong preference for dead wood rather than tree bark, and its consistently yellow spore production."
+    },
+    {
+      "slug": "calicium-salicinum",
+      "commonName": "Calicium salicinum",
+      "scientificName": "Calicium salicinum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3373933/medium.jpg",
+      "distinction": "Compared to its relatives like Yellow Collar Stubble Lichen, this species lacks the distinctive yellow coloring around the stalk bases."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Calicium_abietinum",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/117917"
+}

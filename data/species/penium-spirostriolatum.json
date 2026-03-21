@@ -1,0 +1,117 @@
+{
+  "slug": "penium-spirostriolatum",
+  "taxonId": 544338,
+  "group": "plants",
+  "commonName": "Penium spirostriolatum",
+  "scientificName": "Penium spirostriolatum",
+  "family": "Peniaceae",
+  "familyCommonName": "Peniaceae",
+  "genus": "Penium",
+  "genusCommonName": "Penium",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Peniaceae",
+      "rank": "family",
+      "slug": "explore/peniaceae"
+    },
+    {
+      "label": "Penium",
+      "rank": "genus",
+      "slug": "explore/penium"
+    },
+    {
+      "label": "Penium spirostriolatum",
+      "rank": "species",
+      "slug": "species/penium-spirostriolatum"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 204584856,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/204584856/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/204584856/large.jpg",
+      "attribution": "(c) wleurs, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/54433800"
+    },
+    {
+      "id": 7463381,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7463381/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7463381/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC), uploaded by Karolina Fucikova",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/54433801"
+    }
+  ],
+  "nameStory": "Penium spirostriolatum doesn't have a widely-used common name because it's a microscopic single-celled organism that most people never encounter directly. The scientific name 'Penium' comes from the Latin word for 'thread' or 'yarn,' referring to its elongated shape, while 'spirostriolatum' means 'spiral-striped,' describing the delicate spiral markings that decorate its cell wall.",
+  "description": "[UNCERTAIN: Limited training data on this specific microscopic organism] Penium spirostriolatum is not actually a plant, but a single-celled green algae that lives in freshwater environments. These tiny organisms are shaped like elongated cylinders and are so small you'd need a microscope to see them clearly - each cell is only about 10-50 micrometers long (much smaller than the width of a human hair). They're part of a group called desmids, which are known for their beautiful, symmetrical shapes and intricate surface patterns.",
+  "idTips": [
+    {
+      "label": "Spiral striations",
+      "description": "[UNCERTAIN] Under a microscope, look for delicate spiral lines that wrap around the cylindrical cell like candy cane stripes - these are unique ridges in the cell wall",
+      "isPrimary": true
+    },
+    {
+      "label": "Cylindrical shape",
+      "description": "[UNCERTAIN] The cell appears as a smooth, elongated cylinder that's several times longer than it is wide, without the pinched waist that many other desmids have",
+      "isPrimary": false
+    },
+    {
+      "label": "Green coloration",
+      "description": "The cell appears bright green due to chloroplasts (the parts that do photosynthesis) distributed throughout the interior",
+      "isPrimary": false
+    },
+    {
+      "label": "Single-celled",
+      "description": "[UNCERTAIN] Each individual organism is just one complete cell, though you might find several floating together in the same water sample",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "[UNCERTAIN] Penium spirostriolatum lives in clean, freshwater environments like pristine ponds, slow-moving streams, and bog pools throughout New England. You'd typically find it in slightly acidic water with low nutrient levels, often associated with sphagnum moss and other acid-loving plants.",
+  "seasonality": {
+    "spring": "[UNCERTAIN] Populations begin to grow as water temperatures warm and daylight increases, making this a good time to find them in freshwater samples.",
+    "summer": "[UNCERTAIN] Peak growing season when populations are most abundant and active, reproducing both sexually and asexually in warm water.",
+    "fall": "[UNCERTAIN] Still present but populations may begin to decline as temperatures cool and daylight decreases.",
+    "winter": "[UNCERTAIN] May persist in small numbers under ice, entering a dormant state until spring conditions return."
+  },
+  "funFact": "[UNCERTAIN] Despite being invisible to the naked eye, Penium spirostriolatum and its relatives are considered some of the most beautiful organisms on Earth - Victorian-era microscopists were so enchanted by desmids' intricate patterns that they arranged them into artistic displays, creating living kaleidoscopes!",
+  "confusionNotes": "[UNCERTAIN] This species is easily confused with other cylindrical desmids in the genus Penium, but the spiral striations are the key distinguishing feature - most other Penium species have straight ridges or different surface patterns rather than the characteristic spiral lines.",
+  "contextualKnowledge": "Many people are surprised to learn that single-celled organisms like this are classified separately from both plants and animals - they're part of a diverse group called protists that includes many microscopic freshwater life forms that are neither plant, animal, nor fungus.",
+  "compareHints": "[UNCERTAIN] Penium spirostriolatum differs from its close relative Penium margaritaceum by having spiral ridges instead of the pearl-like bumps (suggested by 'margaritaceum' meaning 'pearly') found on P. margaritaceum's surface. Both species share the same basic cylindrical shape, but the surface ornamentation is distinctly different when viewed under a microscope.",
+  "relatedSpecies": [
+    {
+      "slug": "penium-margaritaceum",
+      "commonName": "Penium margaritaceum",
+      "scientificName": "Penium margaritaceum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173020166/medium.jpg",
+      "distinction": "Penium margaritaceum differs from its close relative Penium spirostriolatum primarily in cell wall ornamentation - margaritaceum has completely smooth walls while spirostriolatum has fine spiral ridges or striations running around the cell."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/544338"
+}

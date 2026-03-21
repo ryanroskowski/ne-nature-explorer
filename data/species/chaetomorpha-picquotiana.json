@@ -1,0 +1,128 @@
+{
+  "slug": "chaetomorpha-picquotiana",
+  "taxonId": 430343,
+  "group": "plants",
+  "commonName": "Chaetomorpha picquotiana",
+  "scientificName": "Chaetomorpha picquotiana",
+  "family": "Cladophoraceae",
+  "familyCommonName": "Cladophoraceae",
+  "genus": "Chaetomorpha",
+  "genusCommonName": "Chaetomorpha",
+  "order": "Cladophorales",
+  "orderCommonName": "Cladophorales",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "green algae",
+      "rank": "phylum",
+      "slug": "explore/green-algae"
+    },
+    {
+      "label": "Ulvophycean green algae",
+      "rank": "class",
+      "slug": "explore/ulvophycean-green-algae"
+    },
+    {
+      "label": "Cladophorales",
+      "rank": "order",
+      "slug": "explore/cladophorales"
+    },
+    {
+      "label": "Cladophoraceae",
+      "rank": "family",
+      "slug": "explore/cladophoraceae"
+    },
+    {
+      "label": "Chaetomorpha",
+      "rank": "genus",
+      "slug": "explore/chaetomorpha"
+    },
+    {
+      "label": "Chaetomorpha picquotiana",
+      "rank": "species",
+      "slug": "species/chaetomorpha-picquotiana"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 283233505,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/283233505/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/283233505/large.jpeg",
+      "attribution": "(c) Roger Rittmaster, some rights reserved (CC BY), uploaded by Roger Rittmaster",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/43034300"
+    }
+  ],
+  "nameStory": "Chaetomorpha picquotiana doesn't have a widely-used common name, which is typical for many marine algae species. The scientific name Chaetomorpha comes from Greek words meaning 'hair-like form,' referring to its stringy, thread-like appearance. This particular species was named 'picquotiana' after a botanist, following the tradition of honoring scientists who contributed to algae research.",
+  "description": "Chaetomorpha picquotiana is a green marine algae that forms tangled masses of unbranched, hair-like threads in shallow coastal waters. Each strand is made up of large, barrel-shaped cells lined up end-to-end like green beads on a string. The algae typically grows in clumps that can range from a few inches to over a foot across. It's part of the group called green algae, which get their color from the same chlorophyll that makes land plants green.",
+  "idTips": [
+    {
+      "label": "Thread-like strands",
+      "description": "Long, unbranched green threads that feel slightly slimy and springy when wet, like coarse wet hair",
+      "isPrimary": true
+    },
+    {
+      "label": "Large visible cells",
+      "description": "Under close inspection, individual barrel-shaped cells are visible to the naked eye, giving strands a segmented appearance like tiny green sausage links",
+      "isPrimary": false
+    },
+    {
+      "label": "Tangled growth pattern",
+      "description": "Forms loose, unorganized clumps rather than structured branching patterns, with threads twisted together randomly",
+      "isPrimary": false
+    },
+    {
+      "label": "Bright green color",
+      "description": "Vibrant grass-green color when healthy and submerged, may appear duller or yellowish when dried out",
+      "isPrimary": false
+    },
+    {
+      "label": "Texture when handled",
+      "description": "Feels slippery but not slimy when wet, with a slight resistance when pulled apart, similar to wet cotton candy",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in shallow tidal pools, rocky intertidal zones, and protected coastal areas along New England's rocky shores. Prefers areas with good water circulation but some protection from strong wave action. Often grows attached to rocks, shells, or other hard surfaces in the lower intertidal zone where it's regularly submerged.",
+  "seasonality": {
+    "spring": "Most actively growing as water temperatures begin to warm, appearing bright green and robust in tidal pools.",
+    "summer": "Peak growing season when masses are most visible and vibrant, easily spotted in shallow coastal waters during low tide.",
+    "fall": "Still present but may begin to show signs of die-back as water temperatures cool and storm activity increases.",
+    "winter": "Least conspicuous season, with many populations reduced or dormant, though some may persist in protected areas."
+  },
+  "funFact": "**Note: Limited information available for this specific species** Each cell in these hair-like strands can be large enough to see individual cell walls with the naked eye, making this one of the few organisms where you can actually observe cellular structure without a microscope.",
+  "confusionNotes": "Most likely to be confused with other hair-like green algae, especially Sea Hair (Chaetomorpha linum). The key difference is in cell size and strand thickness - examine the individual segments closely to distinguish between species in this genus.",
+  "contextualKnowledge": "**Note: This species has very limited observation records in New England** Marine algae identification can be challenging and often requires microscopic examination for definitive species-level identification. Many Chaetomorpha species look very similar and may require expert consultation to distinguish.",
+  "compareHints": "**Note: Limited comparative data available** Compared to Sea Hair (Chaetomorpha linum), this species may have different cell dimensions and strand characteristics, but distinguishing between Chaetomorpha species typically requires microscopic measurement of cell size and other technical features. Field identification to genus level is often the most reliable approach for casual observers.",
+  "relatedSpecies": [
+    {
+      "slug": "chaetomorpha-linum",
+      "commonName": "Sea Hair",
+      "scientificName": "Chaetomorpha linum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1541273/medium.jpg",
+      "distinction": "Sea Hair differs from its relatives in the Chaetomorpha genus by its specific thread-like, unbranched form and relatively coarse texture."
+    },
+    {
+      "slug": "chaetomorpha-melagonium",
+      "commonName": "Chaetomorpha melagonium",
+      "scientificName": "Chaetomorpha melagonium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1541294/medium.jpg",
+      "distinction": "Compared to its close relative Sea Hair (Chaetomorpha linum), this species has noticeably thicker, coarser filaments and tends toward darker green coloration."
+    },
+    {
+      "slug": "chaetomorpha-ligustica",
+      "commonName": "Chaetomorpha ligustica",
+      "scientificName": "Chaetomorpha ligustica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222772356/medium.jpg",
+      "distinction": "Compared to the much more common Sea Hair (Chaetomorpha linum), this species has slightly thicker, more rigid filaments and tends to form denser mats."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/430343"
+}

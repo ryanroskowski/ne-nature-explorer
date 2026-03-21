@@ -1,0 +1,149 @@
+{
+  "slug": "desmidium-graciliceps",
+  "taxonId": 1104997,
+  "group": "plants",
+  "commonName": "Desmidium graciliceps",
+  "scientificName": "Desmidium graciliceps",
+  "family": "Desmidiaceae",
+  "familyCommonName": "Desmidiaceae",
+  "genus": "Desmidium",
+  "genusCommonName": "Desmidium",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Desmidiaceae",
+      "rank": "family",
+      "slug": "explore/desmidiaceae"
+    },
+    {
+      "label": "Desmidium",
+      "rank": "genus",
+      "slug": "explore/desmidium"
+    },
+    {
+      "label": "Desmidium graciliceps",
+      "rank": "species",
+      "slug": "species/desmidium-graciliceps"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 81705751,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/81705751/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/81705751/large.jpg",
+      "attribution": "(c) flask ehrlenmeyer, some rights reserved (CC BY-NC), uploaded by flask ehrlenmeyer",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/110499700"
+    }
+  ],
+  "nameStory": "Desmidium graciliceps gets its scientific name from Greek 'desmos' meaning chain or bond, referring to how these microscopic algae link together in delicate chains. The species name 'graciliceps' means 'slender-headed,' describing the elegant, narrow shape of each individual cell in the chain.",
+  "description": "Desmidium graciliceps is a microscopic freshwater green alga that forms beautiful spiral chains visible to the naked eye as thin, silky green threads. Each tiny cell in the chain has a distinctive constricted middle, giving it an hourglass or dumbbell shape when viewed under magnification. These delicate organisms are typically just a few millimeters long as visible chains, though individual cells are microscopic. You'll need a hand lens or microscope to truly appreciate their intricate beauty.",
+  "idTips": [
+    {
+      "label": "Chain Formation",
+      "description": "Look for thin, delicate green threads or filaments floating in still water that feel slippery between your fingers",
+      "isPrimary": true
+    },
+    {
+      "label": "Spiral Twist",
+      "description": "The chains have a subtle spiral or twisted appearance, like a very loose green corkscrew when examined closely",
+      "isPrimary": false
+    },
+    {
+      "label": "Texture",
+      "description": "Feels distinctly slimy and slippery to the touch, more so than typical pond scum or other algae",
+      "isPrimary": false
+    },
+    {
+      "label": "Color",
+      "description": "Bright to medium green color, often with a translucent, jewel-like quality when held up to light",
+      "isPrimary": false
+    },
+    {
+      "label": "Fragility",
+      "description": "Extremely delicate - chains break apart easily when disturbed, fragmenting into smaller pieces",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in clean, still freshwater environments like ponds, quiet stream backwaters, and bog pools throughout New England. Prefers soft, slightly acidic water with low nutrient levels, often in shaded areas or among aquatic plants. This species is quite rare, with only one confirmed observation in New England, suggesting it may prefer very specific water chemistry conditions.",
+  "seasonality": {
+    "spring": "Most visible during spring warming when growth resumes, forming new chains that appear as fresh green threads in clear water.",
+    "summer": "Peak growing season when chains are longest and most abundant, though they prefer cooler, shaded waters during hot weather.",
+    "fall": "Still present but beginning to fragment and decline as temperatures drop and daylight hours shorten.",
+    "winter": "Largely dormant or present only as microscopic resting stages, not visible as the characteristic chains."
+  },
+  "funFact": "Each cell in a Desmidium chain is actually made of two identical halves that fit together like a tiny pill capsule - when the cell reproduces, it literally splits apart at this seam and each half grows a new matching piece!",
+  "confusionNotes": "Most easily confused with other filamentous green algae like Spirogyra, but Desmidium's chains feel much more slippery and break apart more easily when touched. Remember: 'Desmidium = Delicate and super Slippery' compared to the tougher, more cotton-like texture of most pond algae.",
+  "contextualKnowledge": "Despite being called an alga, Desmidium belongs to a special group called desmids that are actually more closely related to land plants than to typical pond algae. They're considered living jewels of the microscopic world and are prized by microscopists for their geometric beauty.",
+  "compareHints": "Desmidium graciliceps differs from its relatives like D. swartzii and D. baileyi mainly in the shape and proportions of individual cells - graciliceps has more slender, elongated cells with less pronounced constrictions. The spiral twist of the chains is also typically tighter and more regular than in most other Desmidium species. Without microscopic examination, they're nearly impossible to distinguish in the field.",
+  "relatedSpecies": [
+    {
+      "slug": "desmidium-swartzii",
+      "commonName": "Desmidium swartzii",
+      "scientificName": "Desmidium swartzii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2078953/medium.jpg",
+      "distinction": "Desmidium swartzii differs from its relatives like D."
+    },
+    {
+      "slug": "desmidium-baileyi",
+      "commonName": "Desmidium baileyi",
+      "scientificName": "Desmidium baileyi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61278974/medium.jpg",
+      "distinction": "Bailey's desmidium differs from other desmidium species primarily in cell shape details visible only under magnification - the field observer will need microscopy to distinguish between species."
+    },
+    {
+      "slug": "desmidium-aptogonum",
+      "commonName": "Desmidium aptogonum",
+      "scientificName": "Desmidium aptogonum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41431370/medium.jpg",
+      "distinction": "Desmidium aptogonum forms the most regular, geometric chains among New England desmids, with cells that fit together like precision-cut puzzle pieces."
+    },
+    {
+      "slug": "desmidium-grevillei",
+      "commonName": "Desmidium grevillei",
+      "scientificName": "Desmidium grevillei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2082492/medium.jpg",
+      "distinction": "Desmidium grevillei forms more tightly twisted spiral chains compared to its relatives like D."
+    },
+    {
+      "slug": "desmidium-asymmetricum",
+      "commonName": "Desmidium asymmetricum",
+      "scientificName": "Desmidium asymmetricum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41428568/medium.jpg",
+      "distinction": "Desmidium asymmetricum differs from its relatives like D."
+    },
+    {
+      "slug": "desmidium-coarctatum",
+      "commonName": "Desmidium coarctatum",
+      "scientificName": "Desmidium coarctatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288866185/medium.jpg",
+      "distinction": "Desmidium coarctatum differs from its relatives by having completely smooth cell walls, while D."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1104997"
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "miniellus-stramineus",
+  "taxonId": 1545633,
+  "group": "fish",
+  "commonName": "Sand Shiner",
+  "scientificName": "Miniellus stramineus",
+  "family": "Leuciscidae",
+  "familyCommonName": "True Minnows",
+  "genus": "Miniellus",
+  "genusCommonName": "Miniellus",
+  "order": "Cypriniformes",
+  "orderCommonName": "Minnows, Suckers, Carps, and Loaches",
+  "breadcrumb": [
+    {
+      "label": "Fish",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Chordates",
+      "rank": "phylum",
+      "slug": "explore/chordates"
+    },
+    {
+      "label": "Ray-finned Fishes",
+      "rank": "class",
+      "slug": "explore/ray-finned-fishes"
+    },
+    {
+      "label": "Minnows, Suckers, Carps, and Loaches",
+      "rank": "order",
+      "slug": "explore/minnows-suckers-carps-and-loaches"
+    },
+    {
+      "label": "True Minnows",
+      "rank": "family",
+      "slug": "explore/true-minnows"
+    },
+    {
+      "label": "Miniellus",
+      "rank": "genus",
+      "slug": "explore/miniellus"
+    },
+    {
+      "label": "Sand Shiner",
+      "rank": "species",
+      "slug": "species/miniellus-stramineus"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 457771733,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/457771733/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/457771733/large.jpg",
+      "attribution": "(c) jimdinvt, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/255449082"
+    },
+    {
+      "id": 109991260,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109991260/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109991260/large.jpeg",
+      "attribution": "(c) Owen Strickland, some rights reserved (CC BY), uploaded by Owen Strickland",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/154563300"
+    },
+    {
+      "id": 227227577,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227227577/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227227577/large.jpeg",
+      "attribution": "(c) Alexis Desmarais, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/133404421"
+    }
+  ],
+  "nameStory": "The sand shiner gets its name from its preferred habitat - clear streams with sandy bottoms where it spends its days. Like a tiny aquatic nomad, this little fish has adapted perfectly to life over sand, where its coloring helps it blend seamlessly with the streambed below.",
+  "description": "The sand shiner is a small, slender freshwater fish that rarely grows longer than your pinky finger. This delicate minnow has a streamlined body built for life in flowing water, with fins positioned perfectly for navigating currents. You'll typically find these social fish swimming together in small schools, darting about in the clear, sandy-bottomed streams they call home. Their modest size and schooling behavior make them an important food source for larger fish, birds, and other aquatic predators.",
+  "idTips": [
+    {
+      "label": "Habitat",
+      "description": "Lives exclusively in clear, flowing streams with sandy bottoms - if you're looking in muddy water or still ponds, you won't find this species",
+      "isPrimary": true
+    },
+    {
+      "label": "Body Shape",
+      "description": "Slender, streamlined body that feels firm but delicate when gently handled, built like a tiny torpedo for cutting through current",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Small minnow typically measuring 2-4 inches long - about the length of your thumb to pinky finger",
+      "isPrimary": false
+    },
+    {
+      "label": "Color",
+      "description": "Pale, sandy coloration that matches streambed substrate, with a silvery sheen that catches light as the fish moves",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Swims in loose schools in open water, often seen feeding actively near the surface or mid-water column rather than hugging the bottom",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Sand shiners inhabit clear, flowing streams with clean sandy or gravelly bottoms throughout their New England range. They prefer open water areas where current keeps the water well-oxygenated and the substrate free of silt. You're most likely to spot them in medium-sized streams rather than tiny brooks or large rivers.",
+  "seasonality": {
+    "spring": "Spawning season brings increased activity as schools gather in shallow areas over sandy substrate. Fish may appear more active and concentrated during this reproductive period.",
+    "summer": "Most active feeding period when schools are easily observed in open water, pursuing flying insects that fall onto the stream surface or diving for bottom-dwelling prey.",
+    "fall": "Schools begin to move toward deeper pools and slower water as temperatures drop, though they remain active feeders on warm days.",
+    "winter": "Fish retreat to deeper, slower sections of streams and become less active, making them harder to observe during cold months."
+  },
+  "funFact": "Sand shiners are like tiny underwater vacuum cleaners - they feed on 'bottom ooze,' the nutritious layer of decomposed organic matter mixed with microscopic algae called diatoms that coats stream bottoms.",
+  "confusionNotes": "Sand shiners can be confused with other small minnows, but their strong preference for sandy-bottomed, clear streams is a dead giveaway. Remember: sand shiner, sandy streams - if you find a similar-looking minnow in muddy water or weedy areas, it's likely a different species.",
+  "contextualKnowledge": "The sand shiner belongs to the huge minnow family, which includes many species that look superficially similar. Don't let the name 'shiner' fool you - while they do have a silvery sheen, they're much less flashy than their more colorful minnow relatives.",
+  "compareHints": "As the only member of its genus Miniellus in New England, sand shiners are most easily confused with other small stream minnows in the Leuciscidae family. However, most other small minnows prefer different habitats - sand shiners are specialists of clear, sandy streams while their relatives often favor muddy bottoms, weedy areas, or still water. Their schooling behavior in open water also distinguishes them from bottom-hugging species.",
+  "relatedSpecies": [],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sand_shiner",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1545633"
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "crustulina-altera",
+  "taxonId": 153760,
+  "group": "arachnids",
+  "commonName": "Crustulina altera",
+  "scientificName": "Crustulina altera",
+  "family": "Theridiidae",
+  "familyCommonName": "Comb-footed Spiders",
+  "genus": "Crustulina",
+  "genusCommonName": "Crustulina",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Comb-footed Spiders",
+      "rank": "family",
+      "slug": "explore/comb-footed-spiders"
+    },
+    {
+      "label": "Crustulina",
+      "rank": "genus",
+      "slug": "explore/crustulina"
+    },
+    {
+      "label": "Crustulina altera",
+      "rank": "species",
+      "slug": "species/crustulina-altera"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 243850852,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243850852/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243850852/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/142253314"
+    },
+    {
+      "id": 3711818,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3711818/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3711818/large.jpg",
+      "attribution": "(c) deroche, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/15376000"
+    }
+  ],
+  "nameStory": "Crustulina altera doesn't have a widely recognized common name, which is typical for many small, lesser-known spider species. The genus name Crustulina comes from the Latin 'crustulum,' meaning 'little crust,' likely referring to the small, crusty appearance of these tiny spiders. The species name 'altera' simply means 'other' or 'alternative,' suggesting it was the second species described in this genus.",
+  "description": "Crustulina altera is a tiny cobweb spider that belongs to the comb-footed spider family, the same group that includes black widows and house spiders. These are extremely small spiders that most people would overlook entirely, measuring just a few millimeters across. Like other cobweb spiders, they build irregular, messy-looking webs rather than the classic orb webs many people picture when they think of spider webs. This species is quite rare in New England, with only a couple of confirmed sightings.",
+  "idTips": [
+    {
+      "label": "Size",
+      "description": "Extremely tiny, typically just 2-3 millimeters in body length - about the size of a pinhead or small ant",
+      "isPrimary": true
+    },
+    {
+      "label": "Web",
+      "description": "Creates small, irregular cobwebs with sticky capture threads that feel tacky to the touch when accidentally walked into",
+      "isPrimary": false
+    },
+    {
+      "label": "Body Shape",
+      "description": "Round, globular abdomen typical of cobweb spiders, with relatively thin legs that appear delicate",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Extremely secretive and quick to hide when disturbed, often dropping from web on a silk line when threatened",
+      "isPrimary": false
+    },
+    {
+      "label": "Habitat",
+      "description": "Found in protected microhabitats like under bark, in leaf litter, or in small crevices where humidity stays consistent",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "This spider seeks out protected microenvironments in New England's forests and woodlands, particularly areas with consistent moisture levels. Look for them under loose bark of hardwood trees, in deep leaf litter, or tucked into small rock crevices. They prefer spots that stay relatively humid and are sheltered from direct sunlight and heavy rain.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, beginning to establish small webs in protected locations. This is when mating typically occurs.",
+    "summer": "Peak activity period when adults are most likely to be encountered, though still extremely rarely due to their secretive nature and tiny size.",
+    "fall": "Adults prepare for winter by seeking even more protected locations, with egg sacs likely produced during this time.",
+    "winter": "Likely overwinters as eggs or very young spiders in protected microhabitats, remaining dormant until spring warmth returns."
+  },
+  "funFact": "This spider is so rarely encountered that there have been only two confirmed observations in all of New England - making it potentially rarer to spot than many endangered birds or mammals in the region!",
+  "confusionNotes": "Due to its extremely small size and secretive nature, this spider is most likely to be confused with other tiny cobweb spiders or even dismissed as a speck of dirt or debris. The key is recognizing the tiny, irregular web structure and the spider's quick movement when disturbed - dead material doesn't scurry away when poked gently with a twig.",
+  "contextualKnowledge": "Many tiny spider species like this one are significantly understudied and underreported, not because they're necessarily rare in nature, but because they require specialized knowledge and equipment to properly identify. What appears to be rarity might actually reflect the challenges of detecting and studying such small arachnids.",
+  "compareHints": "Crustulina altera is most easily distinguished from its relative the Brownblack Cobweb Weaver (Crustulina sticta) by subtle differences in body proportions and coloration that require magnification to see clearly. Both species share the same extremely small size and secretive habits, making field identification to species level nearly impossible without microscopic examination. Among cobweb spiders generally, Crustulina species are distinguished by their particularly tiny size and preference for highly protected microhabitats rather than the more open locations chosen by house spiders and their relatives.",
+  "relatedSpecies": [
+    {
+      "slug": "crustulina-sticta",
+      "commonName": "Brownblack Cobweb Weaver",
+      "scientificName": "Crustulina sticta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/66079880/medium.jpg",
+      "distinction": "The closely related Crustulina altera is also found in North America and would be nearly impossible to distinguish in the field without microscopic examination of reproductive structures."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Crustulina_altera",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/153760"
+}

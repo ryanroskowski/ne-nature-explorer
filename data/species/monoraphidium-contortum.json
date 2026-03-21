@@ -1,0 +1,125 @@
+{
+  "slug": "monoraphidium-contortum",
+  "taxonId": 567966,
+  "group": "plants",
+  "commonName": "Monoraphidium contortum",
+  "scientificName": "Monoraphidium contortum",
+  "family": "Selenastraceae",
+  "familyCommonName": "Selenastraceae",
+  "genus": "Monoraphidium",
+  "genusCommonName": "Monoraphidium",
+  "order": "Sphaeropleales",
+  "orderCommonName": "Sphaeropleales",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "green algae",
+      "rank": "phylum",
+      "slug": "explore/green-algae"
+    },
+    {
+      "label": "Chlorophycean green algae",
+      "rank": "class",
+      "slug": "explore/chlorophycean-green-algae"
+    },
+    {
+      "label": "Sphaeropleales",
+      "rank": "order",
+      "slug": "explore/sphaeropleales"
+    },
+    {
+      "label": "Selenastraceae",
+      "rank": "family",
+      "slug": "explore/selenastraceae"
+    },
+    {
+      "label": "Monoraphidium",
+      "rank": "genus",
+      "slug": "explore/monoraphidium"
+    },
+    {
+      "label": "Monoraphidium contortum",
+      "rank": "species",
+      "slug": "species/monoraphidium-contortum"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 217809539,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/217809539/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/217809539/large.jpg",
+      "attribution": "(c) zookanthos, some rights reserved (CC BY), uploaded by zookanthos",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/56796600"
+    },
+    {
+      "id": 64089625,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64089625/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64089625/large.jpg",
+      "attribution": "(c) zookanthos, some rights reserved (CC BY), uploaded by zookanthos",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/56796601"
+    },
+    {
+      "id": 484944408,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/484944408/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/484944408/large.jpeg",
+      "attribution": "no rights reserved",
+      "licenseCode": "cc0",
+      "observationUrl": "https://www.inaturalist.org/observations/269695766"
+    },
+    {
+      "id": 484944413,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/484944413/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/484944413/large.jpeg",
+      "attribution": "no rights reserved",
+      "licenseCode": "cc0",
+      "observationUrl": "https://www.inaturalist.org/observations/269695766"
+    }
+  ],
+  "nameStory": "I need to flag uncertainty here - Monoraphidium contortum appears to be a microscopic freshwater algae, not a plant that New England Nature Explorer would typically cover. The name likely refers to its single, twisted or contorted shape under microscopic view, but I'm uncertain about featuring this species on a plant identification website.",
+  "description": "**UNCERTAINTY FLAG**: This appears to be a single-celled freshwater algae that's only visible under a microscope, not a plant you'd encounter while hiking in New England. It's part of the phytoplankton community in ponds and lakes. This species would be completely invisible to the naked eye and isn't something nature explorers would typically identify in the field.",
+  "idTips": [
+    {
+      "label": "Microscopic Size",
+      "description": "Completely invisible without magnification - you'd never see this while exploring outdoors",
+      "isPrimary": true
+    },
+    {
+      "label": "Aquatic Habitat",
+      "description": "Lives floating in freshwater - not something you'd find on land or trails",
+      "isPrimary": false
+    },
+    {
+      "label": "Single-celled",
+      "description": "Not a multi-cellular plant but a microscopic organism",
+      "isPrimary": false
+    },
+    {
+      "label": "Laboratory Identification",
+      "description": "Requires specialized equipment and expertise to observe and identify",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "**UNCERTAINTY FLAG**: This microscopic algae would be found floating in freshwater bodies like ponds, lakes, and slow-moving streams throughout New England. However, with only one recorded observation, its actual distribution and habitat preferences in the region are unclear.",
+  "seasonality": {
+    "spring": "**UNCERTAINTY FLAG**: Likely present in plankton communities, but not observable without microscopy.",
+    "summer": "**UNCERTAINTY FLAG**: May be more abundant in warmer water, but still requires laboratory identification.",
+    "fall": "**UNCERTAINTY FLAG**: Possibly present but declining with cooler temperatures and reduced light.",
+    "winter": "**UNCERTAINTY FLAG**: May persist in unfrozen water bodies but at reduced levels."
+  },
+  "funFact": "**UNCERTAINTY FLAG**: This tiny organism is part of the invisible underwater world that produces much of the oxygen we breathe - microscopic algae like this contribute significantly to global oxygen production, yet most people never know they exist!",
+  "confusionNotes": "**UNCERTAINTY FLAG**: This microscopic species could only be confused with other single-celled algae under laboratory conditions. Field confusion isn't applicable since it's not visible to nature explorers.",
+  "contextualKnowledge": "**IMPORTANT NOTE**: This appears to be microscopic freshwater algae, not a plant species appropriate for a general nature identification website. It requires specialized microscopy and expertise to observe and identify. Consider whether this fits the New England Nature Explorer's mission of helping people identify plants they encounter while exploring outdoors.",
+  "compareHints": "**UNCERTAINTY FLAG**: Without other Monoraphidium species in the dataset and given the microscopic nature of this organism, meaningful field comparisons aren't possible. This species would only be distinguishable from related algae through microscopic examination of cellular characteristics.",
+  "relatedSpecies": [],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/567966"
+}

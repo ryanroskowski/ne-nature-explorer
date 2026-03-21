@@ -1,0 +1,348 @@
+{
+  "slug": "veronica-officinalis",
+  "taxonId": 129020,
+  "group": "plants",
+  "commonName": "heath speedwell",
+  "scientificName": "Veronica officinalis",
+  "family": "Plantaginaceae",
+  "familyCommonName": "Plantain Family",
+  "genus": "Veronica",
+  "genusCommonName": "speedwells",
+  "order": "Lamiales",
+  "orderCommonName": "Mints, Plantains, Olives, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Vascular Plants",
+      "rank": "phylum",
+      "slug": "explore/vascular-plants"
+    },
+    {
+      "label": "Dicots",
+      "rank": "class",
+      "slug": "explore/dicots"
+    },
+    {
+      "label": "Mints, Plantains, Olives, and Allies",
+      "rank": "order",
+      "slug": "explore/mints-plantains-olives-and-allies"
+    },
+    {
+      "label": "Plantain Family",
+      "rank": "family",
+      "slug": "explore/plantain-family"
+    },
+    {
+      "label": "speedwells",
+      "rank": "genus",
+      "slug": "explore/speedwells"
+    },
+    {
+      "label": "heath speedwell",
+      "rank": "species",
+      "slug": "species/veronica-officinalis"
+    }
+  ],
+  "observationCount": 4494,
+  "abundanceTier": "very-common",
+  "photos": [
+    {
+      "id": 3867971,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3867971/medium.JPG",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3867971/large.JPG",
+      "attribution": "(c) Jakob Fahr, some rights reserved (CC BY-NC), uploaded by Jakob Fahr",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12902000"
+    },
+    {
+      "id": 3873981,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3873981/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3873981/large.jpg",
+      "attribution": "(c) Tero Laakso, some rights reserved (CC BY-SA)",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/12902004"
+    },
+    {
+      "id": 29312850,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29312850/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29312850/large.jpg",
+      "attribution": "(c) Barry Walter, some rights reserved (CC BY), uploaded by Barry Walter",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/12902003"
+    },
+    {
+      "id": 11992877,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11992877/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11992877/large.jpg",
+      "attribution": "(c) pamdarrow, some rights reserved (CC BY-NC-SA), uploaded by pamdarrow",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/12902008"
+    },
+    {
+      "id": 7850040,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7850040/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7850040/large.jpg",
+      "attribution": "(c) Michael Ellis, some rights reserved (CC BY), uploaded by Michael Ellis",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/12902005"
+    },
+    {
+      "id": 205477748,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/205477748/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/205477748/large.jpg",
+      "attribution": "(c) Misha Zitser, some rights reserved (CC BY-NC), uploaded by Misha Zitser",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12902010"
+    },
+    {
+      "id": 516639960,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/516639960/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/516639960/large.jpg",
+      "attribution": "(c) jsep1, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/287346852"
+    },
+    {
+      "id": 171064577,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/171064577/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/171064577/large.jpeg",
+      "attribution": "(c) Phil Benstead, some rights reserved (CC BY-NC), uploaded by Phil Benstead",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12902001"
+    },
+    {
+      "id": 516639990,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/516639990/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/516639990/large.jpg",
+      "attribution": "(c) jsep1, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/287346852"
+    },
+    {
+      "id": 19566412,
+      "mediumUrl": "https://static.inaturalist.org/photos/19566412/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/19566412/large.jpg",
+      "attribution": "(c) ctclark, all rights reserved",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12902002"
+    },
+    {
+      "id": 8143698,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8143698/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8143698/large.jpg",
+      "attribution": "(c) Aleyah Aragon, some rights reserved (CC BY-NC), uploaded by Aleyah Aragon",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12902006"
+    },
+    {
+      "id": 134548609,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/134548609/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/134548609/large.jpeg",
+      "attribution": "(c) Tom Norton, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/82002168"
+    },
+    {
+      "id": 134548628,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/134548628/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/134548628/large.jpeg",
+      "attribution": "(c) Tom Norton, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/82002168"
+    },
+    {
+      "id": 3661258,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3661258/medium.JPG",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3661258/large.JPG",
+      "attribution": "(c) Sara Rall, some rights reserved (CC BY-NC), uploaded by Sara Rall",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12902009"
+    },
+    {
+      "id": 516640016,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/516640016/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/516640016/large.jpg",
+      "attribution": "(c) jsep1, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/287346852"
+    },
+    {
+      "id": 1230465,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1230465/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1230465/large.jpg",
+      "attribution": "(c) Susan Elliott, some rights reserved (CC BY-NC), uploaded by Susan Elliott",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12902007"
+    }
+  ],
+  "nameStory": "The name 'speedwell' comes from an old farewell blessing - 'speed well' meant 'may you prosper on your journey.' Travelers would often find this hardy little plant along roadsides and trails, making it a perfect symbol for safe travels. The 'heath' part refers to its love of open, scrubby areas where it forms dense mats.",
+  "description": "Heath speedwell is a low-growing perennial that creeps along the ground, forming dense carpets just a few inches tall. This introduced European plant has small, oval leaves arranged in opposite pairs along fuzzy stems that can spread up to a foot wide. In late spring and summer, it produces tiny pale blue or white flowers with four petals that cluster along short upright spikes. It's a tough little survivor that thrives in poor soils where other plants struggle.",
+  "idTips": [
+    {
+      "label": "Flowers",
+      "description": "Tiny pale blue, lilac, or white flowers with four petals arranged in short, dense spikes that stick up from the mat-like plant. Each flower is only about 1/4 inch across with darker veins visible on close inspection.",
+      "isPrimary": true
+    },
+    {
+      "label": "Leaves",
+      "description": "Small, oval leaves arranged in opposite pairs along the stem, with a soft, fuzzy texture that feels almost woolly when you rub them between your fingers. The edges have small teeth and the leaves are grayish-green.",
+      "isPrimary": false
+    },
+    {
+      "label": "Growth Habit",
+      "description": "Forms dense, creeping mats that hug the ground, rarely growing more than 4-6 inches tall. The stems root at joints where they touch soil, creating thick carpets that can cover large areas.",
+      "isPrimary": false
+    },
+    {
+      "label": "Stems",
+      "description": "Distinctly hairy stems that feel soft and slightly sticky to the touch. The stems are often reddish-tinged and trail along the ground before turning upward at the tips.",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for heath speedwell in dry, sandy, or rocky soils in open areas like fields, roadsides, trail edges, and disturbed ground. It thrives in acidic soils and partial shade, often forming extensive colonies in areas where grass struggles to grow. You'll commonly find it mixed with wild strawberry, moss, and other low-growing plants in clearings and woodland edges.",
+  "seasonality": {
+    "spring": "New growth emerges early with fresh green leaves appearing in dense mats. Flower buds begin forming in late spring as short spikes rise above the foliage.",
+    "summer": "Peak blooming period with tiny pale blue flowers opening along the upright spikes from June through August. The fuzzy leaves remain prominent throughout the growing season.",
+    "fall": "Flowers fade and small seed capsules develop. The evergreen leaves often take on reddish or purplish tints as temperatures cool but remain visible.",
+    "winter": "The tough little plant stays somewhat green through winter in protected spots, though it may die back to the ground in harsh conditions, returning from creeping roots in spring."
+  },
+  "funFact": "Heath speedwell was once considered so medicinally valuable that it was called 'Paul's betony' after the apostle Paul, and European folk wisdom claimed that drinking speedwell tea would help you live to be 150 years old - though there's no scientific evidence to back up that ambitious promise!",
+  "confusionNotes": "Heath speedwell's creeping, mat-forming habit and fuzzy leaves help distinguish it from other speedwells, most of which grow more upright. The key memory trick: if it's making a soft, fuzzy carpet on the ground with tiny blue flowers poking up, it's likely heath speedwell.",
+  "contextualKnowledge": "Despite being called 'common speedwell' in some regions, heath speedwell is actually an introduced species from Europe that has become naturalized across North America. It's not considered invasive since it typically grows in disturbed areas and doesn't displace native plants in healthy ecosystems.",
+  "compareHints": "Among New England's speedwells, heath speedwell is unique for its distinctly creeping, mat-forming growth habit and very fuzzy stems and leaves. Most other speedwells like thyme-leaved speedwell grow more upright, while American brooklime prefers wet areas rather than the dry soils heath speedwell loves. The combination of ground-hugging growth and soft, woolly texture makes this species easy to distinguish from its relatives.",
+  "relatedSpecies": [
+    {
+      "slug": "veronica-serpyllifolia",
+      "commonName": "thyme-leaved speedwell",
+      "scientificName": "Veronica serpyllifolia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9573/medium.jpg",
+      "distinction": "Among New England's speedwells, thyme-leaved speedwell is unique in its strongly creeping, mat-forming habit - most other speedwells grow more upright."
+    },
+    {
+      "slug": "veronica-chamaedrys",
+      "commonName": "Germander Speedwell",
+      "scientificName": "Veronica chamaedrys",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/291786073/medium.jpg",
+      "distinction": "Among the speedwells, germander speedwell stands out for having the brightest blue flowers and the most prominent flower stalks that clearly rise above the foliage."
+    },
+    {
+      "slug": "veronica-arvensis",
+      "commonName": "corn speedwell",
+      "scientificName": "Veronica arvensis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/70848855/medium.jpg",
+      "distinction": "Among the speedwells, corn speedwell is distinguished by its fuzzy leaves and very small size - it's one of the tiniest in the genus."
+    },
+    {
+      "slug": "veronica-scutellata",
+      "commonName": "Marsh Speedwell",
+      "scientificName": "Veronica scutellata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156209118/medium.jpeg",
+      "distinction": "Among the speedwells, marsh speedwell is distinctive for its wetland habitat and very narrow leaves."
+    },
+    {
+      "slug": "veronica-persica",
+      "commonName": "bird's-eye speedwell",
+      "scientificName": "Veronica persica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/472978578/medium.jpeg",
+      "distinction": "Bird's-eye speedwell stands out from its many speedwell relatives by having the brightest, most intensely blue flowers with the most prominent dark radiating lines."
+    },
+    {
+      "slug": "veronica-americana",
+      "commonName": "American brooklime",
+      "scientificName": "Veronica americana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/378688063/medium.jpg",
+      "distinction": "Among the many speedwells in New England, American brooklime is the water-lover of the group."
+    },
+    {
+      "slug": "veronica-peregrina",
+      "commonName": "Purslane Speedwell",
+      "scientificName": "Veronica peregrina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277734030/medium.jpeg",
+      "distinction": "Among New England's many speedwell species, purslane speedwell stands out for its highly variable leaf shapes on a single plant and its preference for the most disturbed habitats."
+    },
+    {
+      "slug": "veronica-filiformis",
+      "commonName": "Slender speedwell",
+      "scientificName": "Veronica filiformis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/41454372/medium.jpeg",
+      "distinction": "Unlike the upright thyme-leaved speedwell or the larger-flowered Germander speedwell, slender speedwell stays flat to the ground with its characteristic thread-thin stems."
+    },
+    {
+      "slug": "veronica-longifolia",
+      "commonName": "Long-leaved Speedwell",
+      "scientificName": "Veronica longifolia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/571064/medium.jpg",
+      "distinction": "Long-leaved Speedwell towers over most other New England speedwells - while species like Thyme-leaved Speedwell hug the ground and Germander Speedwell stays low in lawns, this species stands tall with substantial flower spikes."
+    },
+    {
+      "slug": "veronica-umbrosa",
+      "commonName": "Creeping Speedwell",
+      "scientificName": "Veronica umbrosa",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/100101754/medium.jpeg",
+      "distinction": "Unlike most other New England speedwells that are annual weeds or die back completely in winter, creeping speedwell is a true perennial that forms permanent mats."
+    },
+    {
+      "slug": "veronica-teucrium",
+      "commonName": "Broadleaf Speedwell",
+      "scientificName": "Veronica teucrium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/79518348/medium.jpeg",
+      "distinction": "Among New England speedwells, broadleaf speedwell stands out for its relatively large, oval leaves and dense flower spikes - most other speedwells have much smaller, narrower leaves and more open flower arrangements."
+    },
+    {
+      "slug": "veronica-anagallis-aquatica",
+      "commonName": "blue water-speedwell",
+      "scientificName": "Veronica anagallis-aquatica",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/762694/medium.jpg",
+      "distinction": "Among New England's many speedwells, blue water-speedwell is unique in its aquatic lifestyle - while American brooklime also likes wet areas, it grows taller and has larger flowers."
+    },
+    {
+      "slug": "veronica-hederifolia",
+      "commonName": "Ivy-leaved Speedwell",
+      "scientificName": "Veronica hederifolia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67478465/medium.jpg",
+      "distinction": "Among New England's speedwells, ivy-leaved speedwell is easily distinguished by its distinctive lobed leaves that look like tiny ivy leaves."
+    },
+    {
+      "slug": "veronica-wormskjoldii",
+      "commonName": "American alpine speedwell",
+      "scientificName": "Veronica wormskjoldii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/175813222/medium.jpg",
+      "distinction": "Unlike its lowland speedwell relatives that grow in fields and gardens, American alpine speedwell is the mountain specialist of the family."
+    },
+    {
+      "slug": "veronica-spicata",
+      "commonName": "Spiked Speedwell",
+      "scientificName": "Veronica spicata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/571065/medium.jpg",
+      "distinction": "Spiked speedwell towers over its New England speedwell relatives, most of which are small, creeping, or prostrate plants with much smaller flower clusters."
+    },
+    {
+      "slug": "veronica-sublobata",
+      "commonName": "Pink Ivy-leaved Speedwell",
+      "scientificName": "Veronica sublobata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/66341426/medium.jpg",
+      "distinction": "Among the many speedwells in New England, Pink Ivy-leaved Speedwell stands out for its distinctly lobed, ivy-like leaves - most other speedwells have simple, unlobed leaves."
+    },
+    {
+      "slug": "veronica-polita",
+      "commonName": "Grey Field-speedwell",
+      "scientificName": "Veronica polita",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60189261/medium.jpeg",
+      "distinction": "Grey field-speedwell stands out from its speedwell relatives primarily by its grayish leaf color and extremely small size."
+    },
+    {
+      "slug": "veronica-catenata",
+      "commonName": "chain speedwell",
+      "scientificName": "Veronica catenata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/261854581/medium.jpeg",
+      "distinction": "Among the speedwells, chain speedwell is unique for its strong preference for aquatic habitats and its creeping, often floating growth habit."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Veronica_officinalis",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/129020"
+}

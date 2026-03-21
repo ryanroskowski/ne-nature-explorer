@@ -1,0 +1,504 @@
+{
+  "slug": "sphagnum-fimbriatum",
+  "taxonId": 132823,
+  "group": "plants",
+  "commonName": "Fringed Bogmoss",
+  "scientificName": "Sphagnum fimbriatum",
+  "family": "Sphagnaceae",
+  "familyCommonName": "peat moss family",
+  "genus": "Sphagnum",
+  "genusCommonName": "Sphagnum mosses",
+  "order": "Sphagnales",
+  "orderCommonName": "Peat mosses and allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Mosses",
+      "rank": "phylum",
+      "slug": "explore/mosses"
+    },
+    {
+      "label": "Peat mosses and allies",
+      "rank": "class",
+      "slug": "explore/peat-mosses-and-allies"
+    },
+    {
+      "label": "Peat mosses and allies",
+      "rank": "order",
+      "slug": "explore/peat-mosses-and-allies"
+    },
+    {
+      "label": "peat moss family",
+      "rank": "family",
+      "slug": "explore/peat-moss-family"
+    },
+    {
+      "label": "Sphagnum mosses",
+      "rank": "genus",
+      "slug": "explore/sphagnum-mosses"
+    },
+    {
+      "label": "Fringed Bogmoss",
+      "rank": "species",
+      "slug": "species/sphagnum-fimbriatum"
+    }
+  ],
+  "observationCount": 22,
+  "abundanceTier": "moderate",
+  "photos": [
+    {
+      "id": 464507956,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/464507956/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/464507956/large.jpg",
+      "attribution": "(c) Morten Christensen, some rights reserved (CC BY-NC), uploaded by Morten Christensen",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/13282301"
+    },
+    {
+      "id": 162685315,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/162685315/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/162685315/large.jpeg",
+      "attribution": "(c) Helen Waterman, some rights reserved (CC BY), uploaded by Helen Waterman",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/13282300"
+    },
+    {
+      "id": 173299164,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173299164/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173299164/large.jpeg",
+      "attribution": "(c) Stefan Gey, some rights reserved (CC BY-NC), uploaded by Stefan Gey",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/13282303"
+    },
+    {
+      "id": 148941566,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/148941566/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/148941566/large.jpeg",
+      "attribution": "(c) Rob Routledge, some rights reserved (CC BY-NC), uploaded by Rob Routledge",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/13282310"
+    },
+    {
+      "id": 437328972,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/437328972/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/437328972/large.jpeg",
+      "attribution": "(c) A Emmerson, some rights reserved (CC BY-NC), uploaded by A Emmerson",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/13282311"
+    },
+    {
+      "id": 161019971,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/161019971/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/161019971/large.jpg",
+      "attribution": "(c) Tom Neily, some rights reserved (CC BY-NC), uploaded by Tom Neily",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/13282302"
+    },
+    {
+      "id": 98798707,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98798707/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98798707/large.jpg",
+      "attribution": "(c) amandammvt, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/61723604"
+    },
+    {
+      "id": 98798861,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98798861/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98798861/large.jpg",
+      "attribution": "(c) amandammvt, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/61723604"
+    },
+    {
+      "id": 401127009,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/401127009/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/401127009/large.jpg",
+      "attribution": "(c) Jarrod Whiteman, some rights reserved (CC BY-NC), uploaded by Jarrod Whiteman",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/13282304"
+    },
+    {
+      "id": 98798734,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98798734/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98798734/large.jpg",
+      "attribution": "(c) amandammvt, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/61723604"
+    },
+    {
+      "id": 98798775,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98798775/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98798775/large.jpg",
+      "attribution": "(c) amandammvt, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/61723604"
+    },
+    {
+      "id": 558677168,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/558677168/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/558677168/large.jpg",
+      "attribution": "(c) Janet Wright, some rights reserved (CC BY-NC), uploaded by Janet Wright",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/13282309"
+    },
+    {
+      "id": 327161514,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/327161514/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/327161514/large.jpg",
+      "attribution": "(c) petit_bonnier, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/13282307"
+    }
+  ],
+  "nameStory": "The \"fringed\" in Fringed Bogmoss comes from the delicate, hair-like fringe along the upper edges of its stem leaves - like tiny botanical eyelashes! The \"bog\" part tells us where it loves to live, in those spongy, waterlogged places where it helps create the very peat that defines a bog. It's sometimes called a \"peat moss\" because it literally builds peat deposits over time, creating the foundation for entire wetland ecosystems.",
+  "description": "Fringed Bogmoss is a small, cushiony moss that grows up to 4 inches tall in soft, spongy carpets across wetlands. Unlike the mosses you might see on tree bark, this one loves to keep its feet wet, forming loose, pillow-like mounds that feel springy underfoot. It's part of the amazing sphagnum moss family - those \"super-sponge\" mosses that can hold up to 20 times their weight in water! The individual plants range from slender to moderately chunky, creating a textured carpet that's surprisingly soft to the touch.",
+  "idTips": [
+    {
+      "label": "Fringed stem leaves",
+      "description": "Look closely at the leaves that wrap around the main stem - they have tiny, delicate fringes along their upper edges that look like microscopic eyelashes. These fringes are the plant's signature feature and feel slightly rough when you gently rub them between your fingers.",
+      "isPrimary": true
+    },
+    {
+      "label": "Spongy texture",
+      "description": "Press gently on a patch and feel it spring back like a natural sponge. When squeezed, it releases surprising amounts of water with a soft squelching sound, and the moss bounces back to its original shape.",
+      "isPrimary": false
+    },
+    {
+      "label": "Loose carpet growth",
+      "description": "Forms soft, uneven carpets rather than tight mats, with individual plants loosely woven together. You can often lift sections easily, and they feel light and airy rather than dense and compact.",
+      "isPrimary": false
+    },
+    {
+      "label": "Wetland habitat",
+      "description": "Always found in consistently moist to wet areas - never on dry surfaces. The ground beneath will typically squish underfoot and may have standing water nearby or feel saturated.",
+      "isPrimary": false
+    },
+    {
+      "label": "Variable coloring",
+      "description": "Ranges from bright green in shady spots to yellowish or even reddish-brown tones in sunnier locations. The color often changes subtly across a single patch depending on light exposure.",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for Fringed Bogmoss in New England's damp woodlands, wetland edges, and partially shaded boggy areas where the soil stays consistently moist. It particularly loves the transitional zones between dry land and full wetlands, often growing alongside sedges, ferns, and woodland wildflowers. You'll find it thriving in the cool, humid spots where other plants struggle - from shaded stream banks to the edges of beaver ponds and woodland seeps.",
+  "seasonality": {
+    "spring": "Fresh green growth emerges as snow melts, and the moss looks particularly lush and vibrant. This is when it's most actively growing and the fringed stem leaves are easiest to see on new growth.",
+    "summer": "Maintains its spongy texture and may show color variations from green to yellowish depending on sun exposure. The moss stays consistently moist even during dry spells due to its water-holding abilities.",
+    "fall": "Often takes on warmer tones of yellow, orange, or reddish-brown, especially in areas with more sunlight. The fringed leaves remain visible and diagnostic throughout the season.",
+    "winter": "Remains visible under snow and stays green in protected areas. When snow melts reveal patches, the moss springs back to life quickly, often showing bright green color against the brown winter landscape."
+  },
+  "funFact": "This tiny moss is actually a ecosystem engineer that hosts nitrogen-fixing bacteria in its tissues - essentially carrying around its own fertilizer factory! Like having tiny bacterial partners living inside its leaves, these microscopic helpers pull nitrogen from the air and convert it into food, making Fringed Bogmoss one of the few plants that can thrive in nutrient-poor wetlands while actually enriching the soil for other plants.",
+  "confusionNotes": "Most easily confused with its close relative Girgensohn's Peatmoss, but remember \"Fringed has fringes\" - Girgensohn's has rectangular stem leaves that are only fringed at the very tip, while Fringed Bogmoss has fringes running along the entire upper edge of its stem leaves. Think of it like comparing a crew cut (Girgensohn's) to shaggy bangs (Fringed).",
+  "contextualKnowledge": "All sphagnum mosses are sometimes called \"peat mosses\" because they literally create peat over time - those compressed layers of organic matter that gardeners buy in bags! What's growing in your local wetland today might become tomorrow's potting soil, as these mosses have been building peat deposits for thousands of years since the last ice age.",
+  "compareHints": "Among New England's many sphagnum species, Fringed Bogmoss stands out for its consistently fringed stem leaves along the entire upper margin, unlike most relatives that have smooth stem leaves or fringes only at the tips. While Red Peatmoss might show similar coloring in sunny spots, it lacks the distinctive fringing, and Northern Peatmoss tends to form tighter, more compact cushions rather than the loose carpets that Fringed Bogmoss prefers.",
+  "relatedSpecies": [
+    {
+      "slug": "sphagnum-squarrosum",
+      "commonName": "Crome Sphagnum",
+      "scientificName": "Sphagnum squarrosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244502769/medium.jpg",
+      "distinction": "Among New England's many Sphagnum species, Crome Sphagnum stands out for its dramatically spreading branch leaves that give it a spiky, disheveled appearance - most other peat mosses have leaves that lie closer to their stems."
+    },
+    {
+      "slug": "sphagnum-girgensohnii",
+      "commonName": "Girgensohn's Peatmoss",
+      "scientificName": "Sphagnum girgensohnii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/75732897/medium.jpg",
+      "distinction": "Girgensohn's Peatmoss is more robust and has looser, more open branching than most of its New England relatives."
+    },
+    {
+      "slug": "sphagnum-palustre",
+      "commonName": "Prairie Peatmoss",
+      "scientificName": "Sphagnum palustre",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/482504751/medium.jpeg",
+      "distinction": "Among New England's many sphagnum species, Prairie Peatmoss stands out for its preference for forested wetlands over open bogs and its distinctly blunt-tipped leaves."
+    },
+    {
+      "slug": "sphagnum-capillifolium",
+      "commonName": "Northern Peatmoss",
+      "scientificName": "Sphagnum capillifolium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/44739636/medium.jpg",
+      "distinction": "Among New England's many peat moss species, Northern Peatmoss stands out with its distinctive sweeping, outward-curving branches that look like flowing tresses—most other sphagnums have more upright or irregularly spreading branches."
+    },
+    {
+      "slug": "sphagnum-rubellum",
+      "commonName": "Red Peatmoss",
+      "scientificName": "Sphagnum rubellum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29019138/medium.jpg",
+      "distinction": "Among New England's many peat moss species, Red Peatmoss stands out for its preference for the wettest, most open bog conditions and its tendency toward reddish colors."
+    },
+    {
+      "slug": "sphagnum-cuspidatum",
+      "commonName": "toothed peatmoss",
+      "scientificName": "Sphagnum cuspidatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/433946906/medium.jpeg",
+      "distinction": "Among New England's many peat mosses, toothed peatmoss stands out for its combination of pointed leaf tips and feathery, open growth form."
+    },
+    {
+      "slug": "sphagnum-fallax",
+      "commonName": "Flat-top Bogmoss",
+      "scientificName": "Sphagnum fallax",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/179821/medium.jpg",
+      "distinction": "Among the 40+ sphagnum species in New England, Flat-top Bogmoss stands out for its distinctly flattened branch tips - most relatives like Red Peatmoss or Northern Peatmoss have more pointed or rounded branch clusters."
+    },
+    {
+      "slug": "sphagnum-russowii",
+      "commonName": "Russow's Peatmoss",
+      "scientificName": "Sphagnum russowii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/318554010/medium.jpeg",
+      "distinction": "Russow's Peatmoss is part of a large and complex group where species differences often involve microscopic leaf cell arrangements and spore capsule details."
+    },
+    {
+      "slug": "sphagnum-wulfianum",
+      "commonName": "Wulf's Peatmoss",
+      "scientificName": "Sphagnum wulfianum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/26917794/medium.jpg",
+      "distinction": "Among New England's many peat mosses, Wulf's stands out for its unusually high branch count per fascicle – while most peat mosses have 3-5 branches per cluster, Wulf's distinctive 6-12 branches make it relatively easy to identify once you know what to count."
+    },
+    {
+      "slug": "sphagnum-compactum",
+      "commonName": "Low Peatmoss",
+      "scientificName": "Sphagnum compactum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/159913306/medium.jpg",
+      "distinction": "Among New England's many sphagnum species, Low Peatmoss stands out for its particularly compact growth - much tighter than the loose, fluffy cushions of Giant Peatmoss or the more open structure of Girgensohn's Peatmoss."
+    },
+    {
+      "slug": "sphagnum-pylaesii",
+      "commonName": "Simple Peatmoss",
+      "scientificName": "Sphagnum pylaesii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/352618128/medium.jpeg",
+      "distinction": "Among New England's many sphagnum species, Simple Peatmoss stands out for its relatively open, uncomplicated appearance."
+    },
+    {
+      "slug": "sphagnum-flavicomans",
+      "commonName": "Northeastern Peatmoss",
+      "scientificName": "Sphagnum flavicomans",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/104117592/medium.jpeg",
+      "distinction": "Among New England's many sphagnum species, Northeastern Peatmoss stands out for its consistently yellowish branch tips - Red Peatmoss has reddish tips, Brown Peatmoss has brownish tops, and most others are simply green."
+    },
+    {
+      "slug": "sphagnum-fuscum",
+      "commonName": "Brown Peatmoss",
+      "scientificName": "Sphagnum fuscum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/394853750/medium.jpg",
+      "distinction": "Among New England's many peat moss species, Brown Peatmoss stands out for its hummock-forming habit and consistent brown coloration."
+    },
+    {
+      "slug": "sphagnum-torreyanum",
+      "commonName": "Giant Peatmoss",
+      "scientificName": "Sphagnum torreyanum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/96328240/medium.jpeg",
+      "distinction": "Giant Peatmoss stands out from its Sphagnum relatives primarily by its impressive size and robust growth form - most other peat mosses form much shorter, more delicate cushions."
+    },
+    {
+      "slug": "sphagnum-papillosum",
+      "commonName": "Papillose Peatmoss",
+      "scientificName": "Sphagnum papillosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/219198704/medium.jpg",
+      "distinction": "Among New England's many sphagnum species, Papillose Peatmoss stands out for its particularly short, blunt branches and compact growth form."
+    },
+    {
+      "slug": "sphagnum-pulchrum",
+      "commonName": "Beautiful Peatmoss",
+      "scientificName": "Sphagnum pulchrum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/47510033/medium.jpeg",
+      "distinction": "Beautiful Peatmoss can be distinguished from its many Sphagnum relatives primarily through microscopic features of its leaves and capsules, making field identification to species level quite challenging for beginners."
+    },
+    {
+      "slug": "sphagnum-affine",
+      "commonName": "Imbricate Bog-moss",
+      "scientificName": "Sphagnum affine",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10511436/medium.jpeg",
+      "distinction": "Among New England's many sphagnum species, imbricate bog-moss is distinguished by its yellowish coloration - more yellow than the bright green of Girgensohn's peatmoss or the reddish tones of red peatmoss."
+    },
+    {
+      "slug": "sphagnum-recurvum",
+      "commonName": "Recurved Peatmoss",
+      "scientificName": "Sphagnum recurvum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/112375897/medium.jpg",
+      "distinction": "Among its Sphagnum relatives, Recurved Peatmoss is distinguished by its distinctly backward-curving branch leaves, while Giant Peatmoss has much larger, more robust growth and Red Peatmoss develops obvious reddish coloration."
+    },
+    {
+      "slug": "sphagnum-tenellum",
+      "commonName": "Delicate Peatmoss",
+      "scientificName": "Sphagnum tenellum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/356335282/medium.jpeg",
+      "distinction": "Unlike the chunky, spongy cushions of Giant Peatmoss or the dense mats of Red Peatmoss, Delicate Peatmoss maintains a consistently fine, almost wispy appearance."
+    },
+    {
+      "slug": "sphagnum-subsecundum",
+      "commonName": "Orange Peatmoss",
+      "scientificName": "Sphagnum subsecundum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/174528537/medium.jpeg",
+      "distinction": "Among New England's many peat mosses, Orange Peatmoss stands out for its distinctive orange-salmon coloration, while most others tend toward greens, reds, or browns."
+    },
+    {
+      "slug": "sphagnum-austinii",
+      "commonName": "Austin's Sphagnum",
+      "scientificName": "Sphagnum austinii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235465232/medium.jpg",
+      "distinction": "Austin's sphagnum is extremely difficult to distinguish from other sphagnum species without microscopic examination of leaf cells and spore structures."
+    },
+    {
+      "slug": "sphagnum-lescurii",
+      "commonName": "yellow peatmoss",
+      "scientificName": "Sphagnum lescurii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/16466399/medium.jpeg",
+      "distinction": "Yellow peatmoss stands out from its many Sphagnum relatives primarily by its consistent pale yellow coloration - most other peat mosses in New England are green, red, brown, or mixed colors."
+    },
+    {
+      "slug": "sphagnum-teres",
+      "commonName": "Rigid Bog-moss",
+      "scientificName": "Sphagnum teres",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/160203/medium.jpg",
+      "distinction": "Among New England's many sphagnum species, Rigid Bog-moss stands out for its combination of a prominently visible terminal bud and notably firm texture."
+    },
+    {
+      "slug": "sphagnum-flexuosum",
+      "commonName": "Flexuous Peatmoss",
+      "scientificName": "Sphagnum flexuosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237582060/medium.jpg",
+      "distinction": "Flexuous Peatmoss differs from other sphagnum species primarily in its curved, winding branch pattern - most relatives like Girgensohn's Peatmoss or Northern Peatmoss have straighter, more upright growth."
+    },
+    {
+      "slug": "sphagnum-angermanicum",
+      "commonName": "Angerman's sphagnum",
+      "scientificName": "Sphagnum angermanicum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/144973916/medium.jpg",
+      "distinction": "Angerman's sphagnum differs from most other New England sphagnums by forming particularly low, dense cushions rather than the taller, more upright growth of species like Giant Peatmoss or the looser mats of Flat-top Bogmoss."
+    },
+    {
+      "slug": "sphagnum-centrale",
+      "commonName": "central sphagnum moss",
+      "scientificName": "Sphagnum centrale",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34826294/medium.jpeg",
+      "distinction": "Unlike Red Peatmoss or Northern Peatmoss which can turn vibrant red or pink, central sphagnum maintains its pale green color year-round."
+    },
+    {
+      "slug": "sphagnum-angustifolium",
+      "commonName": "Narrowleaf Peatmoss",
+      "scientificName": "Sphagnum angustifolium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/323743944/medium.jpeg",
+      "distinction": "Among New England's many peat moss species, Narrowleaf Peatmoss stands out for having no more than four branches per fascicle - count carefully! Recurved Peatmoss and other close relatives typically have five or more branches per cluster."
+    },
+    {
+      "slug": "sphagnum-subfulvum",
+      "commonName": "Sphagnum subfulvum",
+      "scientificName": "Sphagnum subfulvum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2404156/medium.jpg",
+      "distinction": "Among the many sphagnum species in New England, subfulvum stands out for its particular brownish-yellow coloration - it's not as red as Red Peatmoss, not as purely brown as Brown Peatmoss, and not as green as most others."
+    },
+    {
+      "slug": "sphagnum-beothuk",
+      "commonName": "Sphagnum beothuk",
+      "scientificName": "Sphagnum beothuk",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/231697981/medium.jpeg",
+      "distinction": "Beothuk Sphagnum differs from its more common relatives by its consistently low, cushioned growth form and pale coloration."
+    },
+    {
+      "slug": "sphagnum-missouricum",
+      "commonName": "Sphagnum missouricum",
+      "scientificName": "Sphagnum missouricum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136412243/medium.jpeg",
+      "distinction": "Missouri Peat Moss is distinguished from other Sphagnum species primarily through microscopic features that require expert examination."
+    },
+    {
+      "slug": "sphagnum-divinum",
+      "commonName": "Divine Bogmoss",
+      "scientificName": "Sphagnum divinum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/95902039/medium.jpeg",
+      "distinction": "Divine Bogmoss is distinguished from its many sphagnum relatives primarily through microscopic features that require expert examination."
+    },
+    {
+      "slug": "sphagnum-quinquefarium",
+      "commonName": "Five-ranked Bogmoss",
+      "scientificName": "Sphagnum quinquefarium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92332585/medium.jpeg",
+      "distinction": "Among New England's many peat moss species, Five-ranked Bogmoss is unique in preferring woodland over wetland habitats."
+    },
+    {
+      "slug": "sphagnum-majus",
+      "commonName": "Greater Peatmoss",
+      "scientificName": "Sphagnum majus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/450139659/medium.jpeg",
+      "distinction": "Among New England's many Sphagnum species, Greater Peatmoss stands out for its robust, full appearance with more pronounced hanging branches compared to the smaller, more delicate forms of species like Delicate Peatmoss."
+    },
+    {
+      "slug": "sphagnum-warnstorfii",
+      "commonName": "Fen Peatmoss",
+      "scientificName": "Sphagnum warnstorfii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/355513619/medium.jpeg",
+      "distinction": "Distinguishing Fen Peatmoss from its many relatives requires microscopic examination of leaf cell structure and spore capsule features that aren't visible to the naked eye."
+    },
+    {
+      "slug": "sphagnum-strictum",
+      "commonName": "Pale Bog-moss",
+      "scientificName": "Sphagnum strictum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61844052/medium.jpeg",
+      "distinction": "Among New England's sphagnum mosses, Pale Bog-moss stands out for its combination of very pale coloration and compact, rigid growth form."
+    },
+    {
+      "slug": "sphagnum-contortum",
+      "commonName": "Twisted Bog-moss",
+      "scientificName": "Sphagnum contortum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/267100618/medium.jpeg",
+      "distinction": "Among the 40+ sphagnum species in New England, twisted bog-moss stands out for its spirally twisted leaves that wrap around the stem like a tiny rope."
+    },
+    {
+      "slug": "sphagnum-riparium",
+      "commonName": "Streamside Sphagnum",
+      "scientificName": "Sphagnum riparium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31047556/medium.jpg",
+      "distinction": "Unlike its bog-dwelling relatives such as Red Peatmoss or Brown Peatmoss, Streamside Sphagnum stays consistently green rather than developing reddish or brownish colors."
+    },
+    {
+      "slug": "sphagnum-medium",
+      "commonName": "Sphagnum medium",
+      "scientificName": "Sphagnum medium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/570140708/medium.jpg",
+      "distinction": "Medium Peat Moss falls right in the middle size-wise among New England sphagnums - larger than delicate species like Delicate Peatmoss but smaller than giants like Giant Peatmoss."
+    },
+    {
+      "slug": "sphagnum-subtile",
+      "commonName": "Sphagnum subtile",
+      "scientificName": "Sphagnum subtile",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137562106/medium.jpeg",
+      "distinction": "Compared to other sphagnum species in New England, Sphagnum subtile is among the most delicate and low-growing, forming thinner mats than robust species like Giant Peatmoss."
+    },
+    {
+      "slug": "sphagnum-subnitens",
+      "commonName": "Lustrous Bog-moss",
+      "scientificName": "Sphagnum subnitens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/469072777/medium.jpeg",
+      "distinction": "Among New England's many sphagnum species, Lustrous Bog-moss stands out primarily for its enhanced shine compared to relatives like Girgensohn's Peatmoss or Northern Peatmoss."
+    },
+    {
+      "slug": "sphagnum-bartlettianum",
+      "commonName": "Bartlett's Peatmoss",
+      "scientificName": "Sphagnum bartlettianum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/228966923/medium.jpeg",
+      "distinction": "Bartlett's Peatmoss differs from its many Sphagnum relatives primarily in microscopic features that require expert identification."
+    },
+    {
+      "slug": "sphagnum-rubiginosum",
+      "commonName": "Variegated peat moss",
+      "scientificName": "Sphagnum rubiginosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/73499407/medium.jpg",
+      "distinction": "Among New England's many peat mosses, variegated peat moss stands out for its distinctive color patchwork - most relatives like Red Peatmoss or Brown Peatmoss tend toward single dominant colors."
+    },
+    {
+      "slug": "sphagnum-trinitense",
+      "commonName": "Trinity sphagnum",
+      "scientificName": "Sphagnum trinitense",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/252957761/medium.jpeg",
+      "distinction": "**Comparison uncertain due to limited reference material."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Sphagnum_fimbriatum",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/132823"
+}

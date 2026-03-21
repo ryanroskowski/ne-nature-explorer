@@ -1,0 +1,247 @@
+{
+  "slug": "closterium-venus",
+  "taxonId": 471657,
+  "group": "plants",
+  "commonName": "Closterium venus",
+  "scientificName": "Closterium venus",
+  "family": "Closteriaceae",
+  "familyCommonName": "Closteriaceae",
+  "genus": "Closterium",
+  "genusCommonName": "Closterium",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Closteriaceae",
+      "rank": "family",
+      "slug": "explore/closteriaceae"
+    },
+    {
+      "label": "Closterium",
+      "rank": "genus",
+      "slug": "explore/closterium"
+    },
+    {
+      "label": "Closterium venus",
+      "rank": "species",
+      "slug": "species/closterium-venus"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 7320704,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7320704/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7320704/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC), uploaded by Karolina Fucikova",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/47165700"
+    }
+  ],
+  "nameStory": "Closterium venus gets its name from the Greek word 'kloster' meaning spindle, referring to its distinctive crescent or spindle shape. The species name 'venus' likely honors the Roman goddess of beauty, perhaps reflecting the elegant, graceful curves of this microscopic organism when viewed under magnification.",
+  "description": "Closterium venus is a single-celled green alga that belongs to a group called desmids - tiny aquatic organisms that look like living jewels under a microscope. Each cell is shaped like a delicate crescent moon or banana, typically measuring between 200-400 micrometers long (about 4 times thinner than a human hair). These microscopic beauties are bright green due to their chlorophyll and live freely floating in freshwater environments. You'll need a microscope or strong magnifying glass to see individual cells, though sometimes they form visible green films on water surfaces.",
+  "idTips": [
+    {
+      "label": "Crescent Shape",
+      "description": "Under magnification, cells appear as elegant crescents or slightly curved spindles, tapering to pointed ends like tiny green bananas",
+      "isPrimary": true
+    },
+    {
+      "label": "Bright Green Color",
+      "description": "Cells are distinctly bright green due to chlorophyll, creating emerald-colored patches or films when concentrated",
+      "isPrimary": false
+    },
+    {
+      "label": "Smooth Cell Wall",
+      "description": "The cell surface appears smooth and glassy under magnification, lacking the ridges or ornamentations found in some relatives",
+      "isPrimary": false
+    },
+    {
+      "label": "Size Range",
+      "description": "Individual cells measure 200-400 micrometers long - visible as tiny specks to the naked eye but requiring magnification for identification",
+      "isPrimary": false
+    },
+    {
+      "label": "Floating Habit",
+      "description": "Found freely floating in water rather than attached to surfaces, often forming thin green films or suspended particles",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Closterium venus inhabits quiet freshwater environments throughout New England, including shallow ponds, slow-moving streams, marshes, and bog pools. It prefers slightly acidic to neutral water and is often found in nutrient-rich areas where organic matter accumulates. Look for it in calm waters among cattails, water lilies, and other aquatic vegetation where it drifts freely in the water column.",
+  "seasonality": {
+    "spring": "Populations begin to increase as water temperatures warm and daylight lengthens, often forming the first green tinge in previously clear winter waters.",
+    "summer": "Peak abundance occurs during warm months when green films or patches may become visible on pond surfaces, especially in early morning before wind disturbs the water.",
+    "fall": "Numbers typically decline as temperatures cool and daylight decreases, though some populations persist until the first hard freeze.",
+    "winter": "Largely dormant or present in very low numbers under ice cover, surviving as resistant cells until spring conditions return."
+  },
+  "funFact": "Despite being invisible to the naked eye, Closterium venus and its relatives are considered living compasses - they can actually sense and orient themselves to magnetic fields, helping them navigate through their watery world using Earth's magnetism just like migrating birds do!",
+  "confusionNotes": "Closterium venus can be confused with other crescent-shaped desmids, but its smooth cell wall and specific size range help distinguish it. Remember: 'Venus is vain about her smooth skin' - unlike some relatives that have ridged or ornamented cell walls, venus maintains a perfectly smooth, polished appearance.",
+  "contextualKnowledge": "Many people don't realize that these microscopic algae are actually sophisticated single-celled organisms that can photosynthesize like plants, move independently, and even reproduce sexually. They represent some of the most beautiful and geometrically perfect forms in nature, though their beauty can only be fully appreciated through magnification.",
+  "compareHints": "Closterium venus differs from its relatives by having a relatively smooth, unornamented cell wall and a moderate size range. Closterium lunula is much larger and more dramatically curved, while Closterium aciculare is needle-straight rather than crescent-shaped. The smooth wall surface distinguishes venus from species like Closterium striolatum, which has distinctive striped patterns.",
+  "relatedSpecies": [
+    {
+      "slug": "closterium-navicula",
+      "commonName": "Closterium navicula",
+      "scientificName": "Closterium navicula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/86297075/medium.jpg",
+      "distinction": "Closterium navicula is more gently curved and smaller than its relatives like Closterium lunula, which has a more dramatic crescent shape."
+    },
+    {
+      "slug": "closterium-closterioides",
+      "commonName": "Closterium closterioides",
+      "scientificName": "Closterium closterioides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/124664991/medium.jpg",
+      "distinction": "Closterium closterioides differs from its many relatives by having a relatively simple, smooth cell wall without the elaborate ridges, grooves, or swellings found in species like C."
+    },
+    {
+      "slug": "closterium-kuetzingii",
+      "commonName": "Closterium kuetzingii",
+      "scientificName": "Closterium kuetzingii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/421003/medium.jpg",
+      "distinction": "Among its Closterium relatives in New England waters, C."
+    },
+    {
+      "slug": "closterium-gracile",
+      "commonName": "Closterium gracile",
+      "scientificName": "Closterium gracile",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7871570/medium.jpg",
+      "distinction": "Closterium gracile is more slender and delicate than most of its relatives in the same genus."
+    },
+    {
+      "slug": "closterium-ehrenbergii",
+      "commonName": "Closterium ehrenbergii",
+      "scientificName": "Closterium ehrenbergii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12287063/medium.jpg",
+      "distinction": "Closterium ehrenbergii is distinguished from its many relatives by its moderate size and gentle curve - it's not as needle-straight as C."
+    },
+    {
+      "slug": "closterium-rostratum",
+      "commonName": "Closterium rostratum",
+      "scientificName": "Closterium rostratum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61261037/medium.jpg",
+      "distinction": "Compared to other Closterium species in New England waters, rostratum has distinctly pointed ends (unlike the rounded tips of C."
+    },
+    {
+      "slug": "closterium-lunula",
+      "commonName": "Closterium lunula",
+      "scientificName": "Closterium lunula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/275695137/medium.jpg",
+      "distinction": "Closterium lunula differs from its relatives by its smooth, evenly curved crescent shape - C."
+    },
+    {
+      "slug": "closterium-aciculare",
+      "commonName": "Closterium aciculare",
+      "scientificName": "Closterium aciculare",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9846684/medium.jpg",
+      "distinction": "Closterium aciculare is much more slender and needle-like than most of its relatives in the same genus."
+    },
+    {
+      "slug": "closterium-acutum",
+      "commonName": "Closterium acutum",
+      "scientificName": "Closterium acutum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61354193/medium.jpg",
+      "distinction": "Compared to other Closterium species in New England waters, C."
+    },
+    {
+      "slug": "closterium-moniliferum",
+      "commonName": "Closterium moniliferum",
+      "scientificName": "Closterium moniliferum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2958425/medium.png",
+      "distinction": "Closterium moniliferum is more gently curved than the dramatically bent C."
+    },
+    {
+      "slug": "closterium-dianae",
+      "commonName": "Closterium dianae",
+      "scientificName": "Closterium dianae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/166085517/medium.jpg",
+      "distinction": "**[UNCERTAIN: Specific comparative features]** Closterium dianae differs from its relatives primarily in subtle features like cell dimensions, degree of curvature, and internal structure details that require expert microscopic examination."
+    },
+    {
+      "slug": "closterium-setaceum",
+      "commonName": "Closterium setaceum",
+      "scientificName": "Closterium setaceum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/592415440/medium.jpg",
+      "distinction": "Closterium setaceum is distinguished from its many relatives by its particularly slender, bristle-like proportions - it's much thinner than the more robust C."
+    },
+    {
+      "slug": "closterium-acerosum",
+      "commonName": "Closterium acerosum",
+      "scientificName": "Closterium acerosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/264039843/medium.jpg",
+      "distinction": "Closterium acerosum is distinguished from its many relatives by being exceptionally slender and needle-like - much thinner than the broad crescents of C."
+    },
+    {
+      "slug": "closterium-striolatum",
+      "commonName": "Closterium striolatum",
+      "scientificName": "Closterium striolatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33049842/medium.jpg",
+      "distinction": "Closterium striolatum differs from its relatives by having distinct fine striations along its length - most other Closterium species have smooth walls or different patterns."
+    },
+    {
+      "slug": "closterium-leibleinii",
+      "commonName": "Closterium leibleinii",
+      "scientificName": "Closterium leibleinii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/209031639/medium.jpg",
+      "distinction": "Closterium leibleinii differs from its relatives primarily in size and the degree of curvature in its crescent shape."
+    },
+    {
+      "slug": "closterium-incurvum",
+      "commonName": "Closterium incurvum",
+      "scientificName": "Closterium incurvum",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/368425189/medium.jpg",
+      "distinction": "Closterium incurvum is more gently curved than the tightly bent C."
+    },
+    {
+      "slug": "closterium-ralfsii",
+      "commonName": "Closterium ralfsii",
+      "scientificName": "Closterium ralfsii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177043312/medium.jpg",
+      "distinction": "Unlike the ridged Closterium striolatum or the swollen-middle Closterium lunula, C."
+    },
+    {
+      "slug": "closterium-intermedium",
+      "commonName": "Closterium intermedium",
+      "scientificName": "Closterium intermedium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/44334784/medium.jpg",
+      "distinction": "Closterium intermedium is moderate in most features compared to its relatives - not as tightly curved as C."
+    },
+    {
+      "slug": "closterium-angustatum",
+      "commonName": "Closterium angustatum",
+      "scientificName": "Closterium angustatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61354448/medium.jpg",
+      "distinction": "Closterium angustatum is much narrower and more delicate than the robust C."
+    },
+    {
+      "slug": "closterium-limneticum",
+      "commonName": "Closterium limneticum",
+      "scientificName": "Closterium limneticum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/162207712/medium.jpg",
+      "distinction": "Closterium limneticum differs from its many relatives primarily in its moderate size and smooth cell wall."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/471657"
+}

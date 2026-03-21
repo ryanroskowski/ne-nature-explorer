@@ -1,0 +1,680 @@
+{
+  "slug": "amanita-brunnescens",
+  "taxonId": 58692,
+  "group": "fungi",
+  "commonName": "Brown American Star-footed Amanita",
+  "scientificName": "Amanita brunnescens",
+  "family": "Amanitaceae",
+  "familyCommonName": "amanita mushrooms and allies",
+  "genus": "Amanita",
+  "genusCommonName": "amanita mushrooms",
+  "order": "Agaricales",
+  "orderCommonName": "Common Gilled Mushrooms and Allies",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Basidiomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/basidiomycete-fungi"
+    },
+    {
+      "label": "Mushrooms, Bracket Fungi, Puffballs, and Allies",
+      "rank": "class",
+      "slug": "explore/mushrooms-bracket-fungi-puffballs-and-allies"
+    },
+    {
+      "label": "Common Gilled Mushrooms and Allies",
+      "rank": "order",
+      "slug": "explore/common-gilled-mushrooms-and-allies"
+    },
+    {
+      "label": "amanita mushrooms and allies",
+      "rank": "family",
+      "slug": "explore/amanita-mushrooms-and-allies"
+    },
+    {
+      "label": "amanita mushrooms",
+      "rank": "genus",
+      "slug": "explore/amanita-mushrooms"
+    },
+    {
+      "label": "Brown American Star-footed Amanita",
+      "rank": "species",
+      "slug": "species/amanita-brunnescens"
+    }
+  ],
+  "observationCount": 258,
+  "abundanceTier": "very-common",
+  "photos": [
+    {
+      "id": 91170653,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/91170653/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/91170653/large.jpg",
+      "attribution": "(c) CDance, some rights reserved (CC BY-NC), uploaded by CDance",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5869200"
+    },
+    {
+      "id": 88614965,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/88614965/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/88614965/large.jpeg",
+      "attribution": "(c) Ken Sanderson, some rights reserved (CC BY-NC), uploaded by Ken Sanderson",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5869201"
+    },
+    {
+      "id": 161558,
+      "mediumUrl": "https://static.inaturalist.org/photos/161558/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/161558/large.jpg",
+      "attribution": "(c) lward, all rights reserved, uploaded by lward",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5869202"
+    },
+    {
+      "id": 92745523,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92745523/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92745523/large.jpg",
+      "attribution": "(c) ethancrenson, some rights reserved (CC BY-NC), uploaded by ethancrenson",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5869203"
+    },
+    {
+      "id": 86401705,
+      "mediumUrl": "https://static.inaturalist.org/photos/86401705/medium.jpeg",
+      "largeUrl": "https://static.inaturalist.org/photos/86401705/large.jpeg",
+      "attribution": "(c) Kathleen Vieira, all rights reserved, uploaded by Kathleen Vieira",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5869204"
+    },
+    {
+      "id": 88614916,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/88614916/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/88614916/large.jpeg",
+      "attribution": "(c) Ken Sanderson, some rights reserved (CC BY-NC), uploaded by Ken Sanderson",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/5869205"
+    },
+    {
+      "id": 324191316,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/324191316/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/324191316/large.jpg",
+      "attribution": "(c) Bill MacIndewar, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/185611277"
+    },
+    {
+      "id": 324191251,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/324191251/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/324191251/large.jpg",
+      "attribution": "(c) Bill MacIndewar, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/185611277"
+    },
+    {
+      "id": 324191288,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/324191288/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/324191288/large.jpg",
+      "attribution": "(c) Bill MacIndewar, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/185611277"
+    },
+    {
+      "id": 324191216,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/324191216/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/324191216/large.jpg",
+      "attribution": "(c) Bill MacIndewar, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/185611277"
+    },
+    {
+      "id": 4561898,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4561898/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4561898/large.jpg",
+      "attribution": "(c) Leslie Flint, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/3886519"
+    },
+    {
+      "id": 29804610,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29804610/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29804610/large.jpg",
+      "attribution": "(c) jlloret, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19379541"
+    },
+    {
+      "id": 46383332,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46383332/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46383332/large.jpg",
+      "attribution": "(c) suevanhook, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/29711660"
+    },
+    {
+      "id": 311589378,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/311589378/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/311589378/large.jpg",
+      "attribution": "(c) paulabk, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/179007867"
+    },
+    {
+      "id": 87215078,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/87215078/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/87215078/large.jpg",
+      "attribution": "(c) ethancrenson, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/54798686"
+    },
+    {
+      "id": 87215044,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/87215044/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/87215044/large.jpg",
+      "attribution": "(c) ethancrenson, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/54798686"
+    }
+  ],
+  "nameStory": "The 'star-footed' part of this mushroom's name comes from the distinctive way its volva (the cup-like structure at the stem base) splits into pointed, star-like segments. The 'brown American' part refers to both its tendency to bruise brown when handled and its status as a North American native, distinguishing it from similar European species.",
+  "description": "The Brown American Star-footed Amanita is a medium to large woodland mushroom with a classic toadstool appearance. It features a brown to grayish-brown cap that can reach 4-6 inches across, white gills underneath, and a tall white stem with a distinctive bulbous base. What makes this species particularly notable is its fragile, cup-like volva at the stem base that often splits into pointed segments, and its tendency to develop brown stains when bruised or aged.",
+  "idTips": [
+    {
+      "label": "Volva",
+      "description": "Look for the distinctive star-shaped, fragile cup at the stem base that often splits into 3-5 pointed segments - this is the key identifying feature and feels papery to the touch",
+      "isPrimary": true
+    },
+    {
+      "label": "Bruising",
+      "description": "The white flesh slowly develops brown stains when cut, bruised, or as the mushroom ages - this browning reaction is characteristic",
+      "isPrimary": false
+    },
+    {
+      "label": "Cap",
+      "description": "Brown to grayish-brown cap that feels smooth and may have small whitish patches, typically 3-6 inches across when mature",
+      "isPrimary": false
+    },
+    {
+      "label": "Stem",
+      "description": "White stem that's often tall and sturdy with a swollen bulbous base, may have a white ring near the top that can be fragile",
+      "isPrimary": false
+    },
+    {
+      "label": "Gills",
+      "description": "White gills that are free from the stem (don't attach to it) and remain white even as the mushroom matures",
+      "isPrimary": false
+    },
+    {
+      "label": "Safety",
+      "description": "NEVER eat any Amanita mushrooms - this genus includes some of the world's most deadly species and requires expert identification",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in mixed hardwood and conifer forests throughout New England, typically growing from soil near oak, pine, and other trees with which it forms mycorrhizal partnerships. Look for it in mature woodlands with rich, well-draining soil, often appearing singly or in small groups. It prefers areas with some canopy cover rather than completely open spaces.",
+  "seasonality": {
+    "spring": "Generally not fruiting yet, though mycelium may be active underground as soil warms.",
+    "summer": "Prime fruiting season, especially after warm rains in July and August when mushrooms emerge and are fresh and firm.",
+    "fall": "Continued fruiting through September and early October, though specimens may show more browning and weathering.",
+    "winter": "No above-ground fruiting, mushrooms have decomposed and mycelium remains dormant in soil."
+  },
+  "funFact": "This mushroom's 'star-footed' volva is so fragile that it often breaks apart just from the mushroom's own growth, leaving behind what looks like a scattered constellation of white paper fragments around the stem base - nature's own confetti!",
+  "confusionNotes": "Most dangerously confused with the deadly Death Cap (Amanita phalloides), but the Death Cap has a more persistent, sac-like volva that doesn't split into star points and typically doesn't bruise brown. Remember: 'Star splits and stains, Death Cap contains' - the Death Cap's volva stays as a complete cup.",
+  "contextualKnowledge": "The term 'volva' comes from Latin meaning 'wrapper' - it's the remnant of the universal veil that completely enclosed the young mushroom like an egg. Many people don't realize that this cup-like structure is actually crucial for safe Amanita identification and should never be ignored or left in the ground when collecting specimens for identification.",
+  "compareHints": "Unlike its deadly cousin the Death Cap which has a persistent sac-like volva, the Brown American Star-footed Amanita has a fragile, star-splitting volva and distinctive brown bruising. It differs from other brown-capped Amanitas like the Blusher by its specific volva structure and the pattern of its browning reactions. The White American Star-footed Amanita is nearly identical but lacks the brown coloration and bruising tendency.",
+  "relatedSpecies": [
+    {
+      "slug": "amanita-muscaria",
+      "commonName": "Fly Agaric",
+      "scientificName": "Amanita muscaria",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/111494893/medium.jpg",
+      "distinction": "Among its Amanita relatives, Fly Agaric is unique in New England for its bright red coloration."
+    },
+    {
+      "slug": "amanita-flavoconia",
+      "commonName": "Yellow Patches",
+      "scientificName": "Amanita flavoconia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/91430720/medium.jpeg",
+      "distinction": "Yellow Patches stands out from other New England amanitas by its vibrant orangish-yellow coloration - most relatives are either white (like Destroying Angels), red (like Fly Agaric), or brown tones."
+    },
+    {
+      "slug": "amanita-jacksonii",
+      "commonName": "Jackson's slender Caesar",
+      "scientificName": "Amanita jacksonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4714058/medium.jpeg",
+      "distinction": "Unlike most other amanitas in New England, Jackson's slender Caesar has bright yellow gills rather than white ones, making it fairly unique in the genus."
+    },
+    {
+      "slug": "amanita-frostiana",
+      "commonName": "Frost's Amanita",
+      "scientificName": "Amanita frostiana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12424069/medium.jpeg",
+      "distinction": "Frost's amanita is much smaller than most of its amanita relatives in New England - while species like Fly Agaric can reach 6-10 inches across, Frost's rarely exceeds 3 inches."
+    },
+    {
+      "slug": "amanita-flavorubens",
+      "commonName": "Yellow American Blusher",
+      "scientificName": "Amanita flavorubens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/155790381/medium.jpg",
+      "distinction": "Unlike the deadly Destroying Angels in its genus, the Yellow American Blusher has the distinctive yellow coloring and bruising reaction."
+    },
+    {
+      "slug": "amanita-crenulata",
+      "commonName": "Poison Champagne Amanita",
+      "scientificName": "Amanita crenulata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158596931/medium.jpg",
+      "distinction": "Compared to its amanita relatives, the Poison Champagne Amanita lacks the bright colors of Fly Agaric or Yellow Patches, and doesn't have the pure white appearance of Destroying Angels."
+    },
+    {
+      "slug": "amanita-bisporigera",
+      "commonName": "Eastern North American Destroying Angel",
+      "scientificName": "Amanita bisporigera",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158303/medium.jpg",
+      "distinction": "Unlike the colorful Fly Agaric with its red cap and white spots, or the orange Jackson's Slender Caesar, this destroying angel is entirely white."
+    },
+    {
+      "slug": "amanita-fulva",
+      "commonName": "Tawny Grisette",
+      "scientificName": "Amanita fulva",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/139544629/medium.jpg",
+      "distinction": "Unlike the deadly Destroying Angels which are pure white with rings, Tawny Grisettes have orange-brown caps and no ring."
+    },
+    {
+      "slug": "amanita-rubescens",
+      "commonName": "blusher",
+      "scientificName": "Amanita rubescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/161000598/medium.jpg",
+      "distinction": "Among New England's many amanitas, the blusher stands out for its distinctive pink bruising reaction - no other local amanita does this reliably."
+    },
+    {
+      "slug": "amanita-lavendula",
+      "commonName": "Coker's Lavender Staining Amanita",
+      "scientificName": "Amanita lavendula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/63107402/medium.jpeg",
+      "distinction": "Unlike the yellow-bruising Coker's Amanita, this species develops distinct purple-lavender stains."
+    },
+    {
+      "slug": "amanita-rhacopus",
+      "commonName": "Shaggy Legged Ringless Amanita",
+      "scientificName": "Amanita rhacopus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/159619776/medium.jpeg",
+      "distinction": "Unlike the smooth-stemmed Tawny Grisette or the ring-bearing Blusher, the Shaggy Legged Ringless Amanita is distinguished by its uniquely textured, scaly stem surface combined with the absence of a persistent ring."
+    },
+    {
+      "slug": "amanita-wellsii",
+      "commonName": "Salmon Amanita",
+      "scientificName": "Amanita wellsii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/146689288/medium.jpg",
+      "distinction": "Unlike the red-capped Fly Agaric with its white spots, or the orange Jackson's Slender Caesar which lacks a ring, the Salmon Amanita has that unique peachy-salmon coloration combined with both a ring and volva."
+    },
+    {
+      "slug": "amanita-canescens",
+      "commonName": "Golden Threads Lepidella",
+      "scientificName": "Amanita canescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10807195/medium.jpg",
+      "distinction": "Golden Threads Lepidella differs from its Amanita relatives by its characteristic golden thread-like cap patches, while species like Yellow Patches has more solid, chunky yellow decorations and Tawny Grisette lacks patches entirely."
+    },
+    {
+      "slug": "amanita-elongata",
+      "commonName": "Peck's Yellow Dust Amanita",
+      "scientificName": "Amanita elongata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/85342778/medium.jpeg",
+      "distinction": "Unlike the deadly Deathcap which has a smooth white cap, Peck's Yellow Dust Amanita has distinctive yellow powdery patches."
+    },
+    {
+      "slug": "amanita-phalloides",
+      "commonName": "Deathcap",
+      "scientificName": "Amanita phalloides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/111266235/medium.jpg",
+      "distinction": "Unlike the colorful fly agaric with its red cap and white spots, death caps are more subdued in color and lack any surface patches or warts."
+    },
+    {
+      "slug": "amanita-onusta",
+      "commonName": "Gunpowder Amanita",
+      "scientificName": "Amanita onusta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13566179/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-citrina",
+      "commonName": "False Death-cap",
+      "scientificName": "Amanita citrina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/331660393/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-erythrocephala",
+      "commonName": "Red-Headed Yellow Dust Amanita",
+      "scientificName": "Amanita erythrocephala",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/148251042/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-abrupta",
+      "commonName": "American Abrupt-bulbed Lepidella",
+      "scientificName": "Amanita abrupta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8968119/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-polypyramis",
+      "commonName": "Plateful of Pyramids Lepidella",
+      "scientificName": "Amanita polypyramis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/162142759/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-russuloides",
+      "commonName": "Russula-like Amanita",
+      "scientificName": "Amanita russuloides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7070239/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-cokeri",
+      "commonName": "Coker's amanita",
+      "scientificName": "Amanita cokeri",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46316421/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-aestivalis",
+      "commonName": "White American Star-Footed Amanita",
+      "scientificName": "Amanita aestivalis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4607034/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-submaculata",
+      "commonName": "Ball Gown Amanita",
+      "scientificName": "Amanita submaculata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7073137/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-sinicoflava",
+      "commonName": "Mandarin Yellow Ringless Amanita",
+      "scientificName": "Amanita sinicoflava",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2012446/medium.JPG",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-velatipes",
+      "commonName": "Great Funnel-Veil Amanita",
+      "scientificName": "Amanita velatipes",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/30765968/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-porphyria",
+      "commonName": "Grey-veiled Amanita",
+      "scientificName": "Amanita porphyria",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/179820114/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-amerivirosa",
+      "commonName": "Amanita amerivirosa",
+      "scientificName": "Amanita amerivirosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52082160/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-multisquamosa",
+      "commonName": "Small Funnel-Veil Amanita",
+      "scientificName": "Amanita multisquamosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92827049/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-farinosa",
+      "commonName": "American Floury Amanita",
+      "scientificName": "Amanita farinosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/56134815/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-morrisii",
+      "commonName": "Morris' Amanita",
+      "scientificName": "Amanita morrisii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/162500376/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-solaniolens",
+      "commonName": "Old Potato Amanita",
+      "scientificName": "Amanita solaniolens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5764941/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-spreta",
+      "commonName": "Hated Caesar",
+      "scientificName": "Amanita spreta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/143289039/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-atkinsoniana",
+      "commonName": "Atkinson's Lepidella",
+      "scientificName": "Amanita atkinsoniana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1056053/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-longipes",
+      "commonName": "Dog-Legged Lepidella",
+      "scientificName": "Amanita longipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11060634/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-ceciliae",
+      "commonName": "Snakeskin Grisette",
+      "scientificName": "Amanita ceciliae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/139604474/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-cinereopannosa",
+      "commonName": "Gray Rags Lepidella",
+      "scientificName": "Amanita cinereopannosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32035769/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-stranella",
+      "commonName": "Little Straw-Colored Amanita",
+      "scientificName": "Amanita stranella",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/174967267/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "amanita-subsolitaria",
+      "commonName": "American Solitary Lepidella",
+      "scientificName": "Amanita subsolitaria",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4158966/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-virginiana",
+      "commonName": "Virginian Little Caesar",
+      "scientificName": "Amanita virginiana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159388/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-albocreata",
+      "commonName": "Ringless Panther",
+      "scientificName": "Amanita albocreata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19024329/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-peckiana",
+      "commonName": "Amanita peckiana",
+      "scientificName": "Amanita peckiana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48715350/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-variicolor",
+      "commonName": "Piebald Ringless Amanita",
+      "scientificName": "Amanita variicolor",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/104640436/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-ristichii",
+      "commonName": "Ristich's Caesar",
+      "scientificName": "Amanita ristichii",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/295107821/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-volvata",
+      "commonName": "American Amidella",
+      "scientificName": "Amanita volvata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340563/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-magnivelaris",
+      "commonName": "Great Felt Skirt Destroying Angel",
+      "scientificName": "Amanita magnivelaris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/163679437/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-arkansana",
+      "commonName": "Arkansas Slender Caesar",
+      "scientificName": "Amanita arkansana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/83964103/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-cinereoconia",
+      "commonName": "American Gray Dust Lepidella",
+      "scientificName": "Amanita cinereoconia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13088295/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-suballiacea",
+      "commonName": "Garlic-odored Death Cap",
+      "scientificName": "Amanita suballiacea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13075300/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-brunneolocularis",
+      "commonName": "Mesoamerican Dark Volva Blusher",
+      "scientificName": "Amanita brunneolocularis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/54972541/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-pachysperma",
+      "commonName": "Gray-Capped Little Caesar",
+      "scientificName": "Amanita pachysperma",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/102808191/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-fuscozonata",
+      "commonName": "Amanita fuscozonata",
+      "scientificName": "Amanita fuscozonata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/419336906/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-constricta",
+      "commonName": "Constricted Grisette",
+      "scientificName": "Amanita constricta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4160643/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-murrilliana",
+      "commonName": "Murrill's Slender Caesar",
+      "scientificName": "Amanita murrilliana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/163503694/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-crocea",
+      "commonName": "Orange Grisette",
+      "scientificName": "Amanita crocea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/279772244/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-chlorinosma",
+      "commonName": "Chlorine Lepidella",
+      "scientificName": "Amanita chlorinosma",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/2175098/medium.JPG",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-ravenelii",
+      "commonName": "Ravenel's Lepidella",
+      "scientificName": "Amanita ravenelii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9129748/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-lignophila",
+      "commonName": "Amanita lignophila",
+      "scientificName": "Amanita lignophila",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/253562881/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-parcivolvata",
+      "commonName": "False Caesar's Mushroom",
+      "scientificName": "Amanita parcivolvata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13078818/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-cylindrispora",
+      "commonName": "Narrowest-Spored Limbed Lepidella",
+      "scientificName": "Amanita cylindrispora",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31361210/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-violettae",
+      "commonName": "White's Great Ringless Amanita",
+      "scientificName": "Amanita violettae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/102807878/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-limbatula",
+      "commonName": "Bas' Limbed Lepidella",
+      "scientificName": "Amanita limbatula",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/49351993/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-hygroscopica",
+      "commonName": "Pink-Gilled Destroying Angel",
+      "scientificName": "Amanita hygroscopica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109238201/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "amanita-deflexa",
+      "commonName": "Amanita deflexa",
+      "scientificName": "Amanita deflexa",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/48704941/medium.jpeg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amanita_brunnescens",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58692"
+}

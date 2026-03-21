@@ -1,0 +1,138 @@
+{
+  "slug": "lebbeus-groenlandicus",
+  "taxonId": 459599,
+  "group": "crustaceans",
+  "commonName": "Spiny Lebbeid",
+  "scientificName": "Lebbeus groenlandicus",
+  "family": "Thoridae",
+  "familyCommonName": "Thoridae",
+  "genus": "Lebbeus",
+  "genusCommonName": "Lebbeus",
+  "order": "Decapoda",
+  "orderCommonName": "Decapods",
+  "breadcrumb": [
+    {
+      "label": "Crustaceans",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Malacostracans",
+      "rank": "class",
+      "slug": "explore/malacostracans"
+    },
+    {
+      "label": "Decapods",
+      "rank": "order",
+      "slug": "explore/decapods"
+    },
+    {
+      "label": "Thoridae",
+      "rank": "family",
+      "slug": "explore/thoridae"
+    },
+    {
+      "label": "Lebbeus",
+      "rank": "genus",
+      "slug": "explore/lebbeus"
+    },
+    {
+      "label": "Spiny Lebbeid",
+      "rank": "species",
+      "slug": "species/lebbeus-groenlandicus"
+    }
+  ],
+  "observationCount": 3,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 128951887,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128951887/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128951887/large.jpg",
+      "attribution": "(c) smithsonian_marinegeo, some rights reserved (CC BY-NC-SA), uploaded by smithsonian_marinegeo",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/45959900"
+    },
+    {
+      "id": 11769384,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11769384/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11769384/large.jpg",
+      "attribution": "(c) aaronbaldwin, some rights reserved (CC BY-NC), uploaded by aaronbaldwin",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/45959901"
+    },
+    {
+      "id": 450910505,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/450910505/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/450910505/large.jpeg",
+      "attribution": "(c) chandlers, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/251947037"
+    },
+    {
+      "id": 450910546,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/450910546/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/450910546/large.jpeg",
+      "attribution": "(c) chandlers, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/251947037"
+    },
+    {
+      "id": 450910442,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/450910442/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/450910442/large.jpeg",
+      "attribution": "(c) chandlers, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/251947037"
+    }
+  ],
+  "nameStory": "The 'spiny' in Spiny Lebbeid refers to the sharp spines and pointed projections that cover this small shrimp's body, giving it a somewhat prickly appearance. The genus name Lebbeus honors a 19th-century naturalist, while 'groenlandicus' means 'of Greenland,' reflecting this cold-water species' Arctic origins.",
+  "description": "The Spiny Lebbeid is a small, translucent shrimp that lives in the cold waters off New England's coast. This crustacean has the typical shrimp body plan with a curved abdomen, long antennae, and ten legs (hence the order name Decapoda, meaning 'ten feet'). Its most distinctive feature is the array of sharp spines projecting from various parts of its shell-like exoskeleton. These northern shrimp are typically pale and semi-transparent, allowing you to see some of their internal structures.",
+  "idTips": [
+    {
+      "label": "Spiny projections",
+      "description": "Multiple sharp spines stick out from the carapace (shell) and rostrum (pointed snout), feeling prickly to the touch and clearly visible even on small specimens",
+      "isPrimary": true
+    },
+    {
+      "label": "Translucent body",
+      "description": "Body appears glassy or semi-transparent with a pale, whitish coloration that may have slight pink or orange tints",
+      "isPrimary": false
+    },
+    {
+      "label": "Curved abdomen",
+      "description": "The tail section curves downward under the body in the characteristic shrimp posture, flexible and segmented",
+      "isPrimary": false
+    },
+    {
+      "label": "Long antennae",
+      "description": "Two pairs of antennae extend from the head, often longer than the body itself and very thin and delicate feeling",
+      "isPrimary": false
+    },
+    {
+      "label": "Cold water habitat",
+      "description": "Found only in very cold northern waters, never in warm tide pools or shallow summer areas",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Spiny Lebbeids live in the cold, deep waters off New England's coast, typically found at significant depths where water temperatures remain consistently cold year-round. They prefer the continental shelf and deeper offshore waters rather than coastal tide pools or shallow bays. In New England, they're most likely encountered by deep-sea fishermen, marine researchers, or occasionally washed up after storms.",
+  "seasonality": {
+    "spring": "May be brought up in deep-water fishing gear as waters begin to warm but depths remain cold. Most active feeding period begins.",
+    "summer": "Despite warm surface waters, continues normal activity in cold deep waters. Rarely observed due to depth preference during warmest months.",
+    "fall": "Peak season for deep-water fishing may increase chances of observation. Preparing for winter reproduction cycles.",
+    "winter": "Most likely to be found in fishing nets or research trawls as they may move to slightly different depths. Breeding activity occurs in coldest months."
+  },
+  "funFact": "Despite being called a 'lobster' in some references, the Spiny Lebbeid is actually a true shrimp that survives in water so cold it would be painful for humans to touch for more than a few seconds - they're living ice-water specialists!",
+  "confusionNotes": "Most likely to be confused with other small cold-water shrimp species, but the prominent spines projecting from the body make identification relatively straightforward. Remember: if it's spiny and translucent in cold New England waters, you've likely found a Lebbeid.",
+  "contextualKnowledge": "There's some naming confusion with this species - it's sometimes called 'spiny lobster' in references, but true spiny lobsters are much larger, warm-water creatures that look quite different. This is actually a cold-water shrimp that just happens to be particularly spiny.",
+  "compareHints": "Since this is the only Lebbeus species documented in New England waters, compare it with other small cold-water shrimp in the family Thoridae. The key difference is those diagnostic spines - most other small shrimp in our waters have smooth or only slightly bumpy shells, while the Spiny Lebbeid looks like it's wearing armor with spikes.",
+  "relatedSpecies": [],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lebbeus_groenlandicus",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/459599"
+}

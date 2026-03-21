@@ -1,0 +1,356 @@
+{
+  "slug": "setophaga-dominica",
+  "taxonId": 145246,
+  "group": "birds",
+  "commonName": "Yellow-throated Warbler",
+  "scientificName": "Setophaga dominica",
+  "family": "Parulidae",
+  "familyCommonName": "New World Warblers",
+  "genus": "Setophaga",
+  "genusCommonName": "Setophaga Warblers",
+  "order": "Passeriformes",
+  "orderCommonName": "Perching Birds",
+  "breadcrumb": [
+    {
+      "label": "Birds",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Chordates",
+      "rank": "phylum",
+      "slug": "explore/chordates"
+    },
+    {
+      "label": "Birds",
+      "rank": "class",
+      "slug": "explore/birds"
+    },
+    {
+      "label": "Perching Birds",
+      "rank": "order",
+      "slug": "explore/perching-birds"
+    },
+    {
+      "label": "New World Warblers",
+      "rank": "family",
+      "slug": "explore/new-world-warblers"
+    },
+    {
+      "label": "Setophaga Warblers",
+      "rank": "genus",
+      "slug": "explore/setophaga-warblers"
+    },
+    {
+      "label": "Yellow-throated Warbler",
+      "rank": "species",
+      "slug": "species/setophaga-dominica"
+    }
+  ],
+  "observationCount": 101,
+  "abundanceTier": "moderate",
+  "photos": [
+    {
+      "id": 101410202,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101410202/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101410202/large.jpg",
+      "attribution": "(c) Rafael Rodríguez Brito, some rights reserved (CC BY-NC), uploaded by Rafael Rodríguez Brito",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14524600"
+    },
+    {
+      "id": 212381,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/212381/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/212381/large.jpg",
+      "attribution": "(c) BJ Stacey, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14524607"
+    },
+    {
+      "id": 226493,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226493/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226493/large.jpg",
+      "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14524602"
+    },
+    {
+      "id": 29295201,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29295201/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29295201/large.jpeg",
+      "attribution": "(c) Ron Payne, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19090954"
+    },
+    {
+      "id": 429418881,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/429418881/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/429418881/large.jpg",
+      "attribution": "(c) Karen Szafrajda, some rights reserved (CC BY), uploaded by Karen Szafrajda",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/14524601"
+    },
+    {
+      "id": 201822,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/201822/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/201822/large.jpg",
+      "attribution": "(c) BJ Stacey, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14524605"
+    },
+    {
+      "id": 11970775,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11970775/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11970775/large.jpg",
+      "attribution": "(c) Soheil Zendeh, some rights reserved (CC BY-NC-SA), uploaded by Soheil Zendeh",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/14524603"
+    },
+    {
+      "id": 81227,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/81227/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/81227/large.jpg",
+      "attribution": "(c) Victoria Gracia, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/14524604"
+    },
+    {
+      "id": 450808,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/450808/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/450808/large.jpg",
+      "attribution": "(c) Seth Wollney, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14524606"
+    },
+    {
+      "id": 29295192,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29295192/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29295192/large.jpeg",
+      "attribution": "(c) Ron Payne, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19090954"
+    },
+    {
+      "id": 684504,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/684504/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/684504/large.jpg",
+      "attribution": "(c) Marv Elliott, some rights reserved (CC BY-NC), uploaded by Marv Elliott",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14524608"
+    },
+    {
+      "id": 246003316,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/246003316/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/246003316/large.jpeg",
+      "attribution": "(c) Sam Darmstadt, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/143444411"
+    },
+    {
+      "id": 29295205,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29295205/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29295205/large.jpeg",
+      "attribution": "(c) Ron Payne, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19090954"
+    },
+    {
+      "id": 246003332,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/246003332/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/246003332/large.jpeg",
+      "attribution": "(c) Sam Darmstadt, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/143444411"
+    }
+  ],
+  "nameStory": "The Yellow-throated Warbler gets its name from the bright golden-yellow patch that decorates its throat like a colorful bib. This sunny throat marking is so distinctive that early naturalists chose it as the bird's defining feature, making identification easy even from a distance.",
+  "description": "The Yellow-throated Warbler is a small songbird about the size of a chickadee, measuring roughly 5-6 inches long. It sports a striking bright yellow throat and upper chest that contrasts beautifully with its gray back and white belly. Bold black stripes run through its eyes and down its sides, while white wing bars flash as it flits through the trees. Though small, this warbler has a relatively long bill compared to other warblers, perfect for picking insects from bark crevices.",
+  "idTips": [
+    {
+      "label": "Bright Yellow Throat",
+      "description": "The golden-yellow throat and upper chest glow like a tiny sun, even in dim forest light - this is the field mark that jumps out first",
+      "isPrimary": true
+    },
+    {
+      "label": "Bold Face Pattern",
+      "description": "Dark black stripes run through the eyes like a mask, with crisp white eyebrow stripes above and white cheek patches below the eye line",
+      "isPrimary": false
+    },
+    {
+      "label": "Side Streaking",
+      "description": "Black streaks run down the white sides like racing stripes, creating a clean, organized pattern that's easy to see when the bird turns sideways",
+      "isPrimary": false
+    },
+    {
+      "label": "Long Bill",
+      "description": "The bill appears noticeably longer and more pointed than most warblers, almost tweezers-like for probing into bark cracks",
+      "isPrimary": false
+    },
+    {
+      "label": "Wing Bars",
+      "description": "Two bright white wing bars stand out against the gray wings, flashing like tiny mirrors when the bird moves through branches",
+      "isPrimary": false
+    },
+    {
+      "label": "Foraging Behavior",
+      "description": "Moves methodically along tree trunks and larger branches like a mini-nuthatch, often staying higher in the canopy than ground-foraging warblers",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "In New England, Yellow-throated Warblers are quite rare but occasionally found in mature deciduous and mixed forests, particularly those with large oaks, maples, and pines. They prefer areas near water sources like wooded swamps, stream corridors, and forest edges where tall trees provide high canopy foraging opportunities. Most New England sightings occur during migration in coastal areas and river valleys.",
+  "seasonality": {
+    "spring": "Very rare spring migrant from late April through May, when birds may appear briefly in tall trees during their northward journey. Listen for their distinctive ringing song echoing from high in the canopy.",
+    "summer": "Extremely uncommon summer resident, with only occasional breeding records in southern New England. Any summer sighting would be noteworthy and worth reporting to local birding organizations.",
+    "fall": "Rare fall migrant from August through September, often quieter and harder to detect than in spring. Young birds may lack the bright adult plumage intensity.",
+    "winter": "Not present in New England during winter months, as these birds migrate to warmer southern regions and Central America."
+  },
+  "funFact": "Yellow-throated Warblers have been expanding their range northward over the past few decades, possibly due to climate change, making each New England sighting a small piece of ornithological history in the making!",
+  "confusionNotes": "Most likely confused with Pine Warblers, which also have yellow throats but lack the bold black face stripes and have more olive-yellow coloring overall. Remember: Yellow-throated Warblers look like they're wearing a black mask, while Pine Warblers have a gentler, more blended face pattern.",
+  "contextualKnowledge": "Despite its name suggesting it's common, the Yellow-throated Warbler is actually one of the rarer warblers in New England, with only about 101 recorded observations. This makes every sighting special - if you think you've found one, take photos and report it to eBird!",
+  "compareHints": "Unlike its common cousin the Pine Warbler, which has a more olive-yellow throat and lacks bold face stripes, the Yellow-throated Warbler is much more dramatically marked with its bright golden throat and black mask. It also differs from the Northern Yellow Warbler by having gray (not olive-green) upperparts and the distinctive facial striping pattern that makes it unmistakable when seen well.",
+  "relatedSpecies": [
+    {
+      "slug": "setophaga-coronata",
+      "commonName": "Yellow-rumped Warbler",
+      "scientificName": "Setophaga coronata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128439522/medium.jpg",
+      "distinction": "Unlike the bright, all-yellow American Goldfinch, Yellow-rumped Warblers have more complex patterns and are smaller with thinner bills."
+    },
+    {
+      "slug": "setophaga-aestiva",
+      "commonName": "Northern Yellow Warbler",
+      "scientificName": "Setophaga aestiva",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/191200854/medium.jpg",
+      "distinction": "Among its Setophaga relatives, Yellow Warbler is the most uniformly yellow – Pine Warblers have white wing bars and are less bright, while Yellow-rumped Warblers only have yellow patches rather than being yellow all over."
+    },
+    {
+      "slug": "setophaga-ruticilla",
+      "commonName": "American Redstart",
+      "scientificName": "Setophaga ruticilla",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31539046/medium.jpg",
+      "distinction": "Among the Setophaga warblers, American redstarts are unique for their hyperactive tail-fanning behavior and contrasting black-and-orange (or gray-and-yellow) pattern."
+    },
+    {
+      "slug": "setophaga-palmarum",
+      "commonName": "Palm Warbler",
+      "scientificName": "Setophaga palmarum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/496238324/medium.jpeg",
+      "distinction": "Among the Setophaga warblers, Palm Warbler is unique for its ground-foraging behavior and constant tail-pumping."
+    },
+    {
+      "slug": "setophaga-virens",
+      "commonName": "Black-throated Green Warbler",
+      "scientificName": "Setophaga virens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/506673183/medium.jpg",
+      "distinction": "Among its Setophaga cousins, the Black-throated Green is distinguished by its combination of yellow face and black throat - the Black-throated Blue lacks yellow entirely, while the Blackburnian Warbler has fiery orange instead of yellow."
+    },
+    {
+      "slug": "setophaga-pinus",
+      "commonName": "Pine Warbler",
+      "scientificName": "Setophaga pinus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235937/medium.jpg",
+      "distinction": "Among its Setophaga warbler relatives, the Pine Warbler is notably less hyperactive than species like the American Redstart or Magnolia Warbler, and lacks the bold patterns of Black-throated Green or Chestnut-sided Warblers."
+    },
+    {
+      "slug": "setophaga-pensylvanica",
+      "commonName": "Chestnut-sided Warbler",
+      "scientificName": "Setophaga pensylvanica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/131621127/medium.jpg",
+      "distinction": "Among New England's Setophaga warblers, the Chestnut-sided is unique in combining white underparts with chestnut side markings - Bay-breasted Warblers have chestnut but also on the head and throat, while other common species like Yellow and Black-throated Green Warblers lack chestnut entirely."
+    },
+    {
+      "slug": "setophaga-americana",
+      "commonName": "Northern Parula",
+      "scientificName": "Setophaga americana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135474901/medium.jpg",
+      "distinction": "Among the Setophaga warblers, Northern Parulas are unique for their blue-gray backs combined with yellow underparts - most other yellow warblers in this genus have olive or green backs instead."
+    },
+    {
+      "slug": "setophaga-caerulescens",
+      "commonName": "Black-throated Blue Warbler",
+      "scientificName": "Setophaga caerulescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101579504/medium.jpg",
+      "distinction": "Among its Setophaga warbler relatives, the male Black-throated Blue is unique for its solid blue upperparts and white belly combination - Black-throated Green Warblers have yellow faces and olive backs, while Northern Parulas have yellow throats and white wing bars."
+    },
+    {
+      "slug": "setophaga-magnolia",
+      "commonName": "Magnolia Warbler",
+      "scientificName": "Setophaga magnolia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/323550530/medium.jpg",
+      "distinction": "Among the Setophaga warblers, Magnolia Warblers are unique with their combination of white wing patches (not just bars), yellow underparts with black streaking, and distinctive tail pattern."
+    },
+    {
+      "slug": "setophaga-striata",
+      "commonName": "Blackpoll Warbler",
+      "scientificName": "Setophaga striata",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/40556924/medium.jpg",
+      "distinction": "Among New England's Setophaga warblers, breeding male Blackpolls are unique with their solid black caps and white cheeks - no other warbler in the region has this exact pattern."
+    },
+    {
+      "slug": "setophaga-fusca",
+      "commonName": "Blackburnian Warbler",
+      "scientificName": "Setophaga fusca",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135287597/medium.jpg",
+      "distinction": "Among its Setophaga relatives, the Blackburnian's orange throat is completely unique - no other warbler in this genus has anything close to that fiery coloration."
+    },
+    {
+      "slug": "setophaga-discolor",
+      "commonName": "Prairie Warbler",
+      "scientificName": "Setophaga discolor",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110791626/medium.jpg",
+      "distinction": "Among the yellow Setophaga warblers in New England, Prairie Warbler stands out with its bold black side streaks - Yellow Warblers lack these stripes entirely, while Pine Warblers have much fainter, less distinct markings."
+    },
+    {
+      "slug": "setophaga-tigrina",
+      "commonName": "Cape May Warbler",
+      "scientificName": "Setophaga tigrina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128439622/medium.jpg",
+      "distinction": "Among the many Setophaga warblers, Cape May Warblers stand out with their unique curved bill and specialized nectar-feeding behavior that most of their relatives don't share."
+    },
+    {
+      "slug": "setophaga-castanea",
+      "commonName": "Bay-breasted Warbler",
+      "scientificName": "Setophaga castanea",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/84348/medium.jpg",
+      "distinction": "Among its Setophaga relatives, the Bay-breasted Warbler is unique in having that rich chestnut breast coloring in breeding plumage."
+    },
+    {
+      "slug": "setophaga-citrina",
+      "commonName": "Hooded Warbler",
+      "scientificName": "Setophaga citrina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/309846331/medium.jpg",
+      "distinction": "Among its Setophaga relatives, the Hooded Warbler is unique for its combination of a black hood (males) and white outer tail feathers that both sexes constantly flash."
+    },
+    {
+      "slug": "setophaga-cerulea",
+      "commonName": "Cerulean Warbler",
+      "scientificName": "Setophaga cerulea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/196225341/medium.jpeg",
+      "distinction": "Among its Setophaga warbler relatives, the Cerulean is unique for its pure blue and white coloring with the black chest band - most other warblers in this group are yellow-based (like Yellow Warbler) or have different patterns entirely (like the Black-throated Blue's dark throat and flanks)."
+    },
+    {
+      "slug": "setophaga-townsendi",
+      "commonName": "Townsend's Warbler",
+      "scientificName": "Setophaga townsendi",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/287427783/medium.jpg",
+      "distinction": "Among its Setophaga relatives in New England, Townsend's Warbler is most similar to Black-throated Green Warbler but shows more extensive yellow coloring and bolder black face markings."
+    },
+    {
+      "slug": "setophaga-nigrescens",
+      "commonName": "Black-throated Gray Warbler",
+      "scientificName": "Setophaga nigrescens",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/194575344/medium.jpg",
+      "distinction": "Unlike the Black-throated Green Warbler which has yellow on the face and olive upperparts, the Gray Warbler maintains its monochrome palette."
+    },
+    {
+      "slug": "setophaga-occidentalis",
+      "commonName": "Hermit Warbler",
+      "scientificName": "Setophaga occidentalis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70054/medium.jpg",
+      "distinction": "Among its Setophaga relatives in New England, Hermit Warbler is most similar to Black-throated Green Warbler but lacks the green tones entirely, showing gray instead."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Yellow-throated_warbler",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145246"
+}

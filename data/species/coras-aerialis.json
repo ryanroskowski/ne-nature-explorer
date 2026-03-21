@@ -1,0 +1,135 @@
+{
+  "slug": "coras-aerialis",
+  "taxonId": 217578,
+  "group": "arachnids",
+  "commonName": "Coras aerialis",
+  "scientificName": "Coras aerialis",
+  "family": "Agelenidae",
+  "familyCommonName": "Funnel Weavers",
+  "genus": "Coras",
+  "genusCommonName": "Coras",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Funnel Weavers",
+      "rank": "family",
+      "slug": "explore/funnel-weavers"
+    },
+    {
+      "label": "Coras",
+      "rank": "genus",
+      "slug": "explore/coras"
+    },
+    {
+      "label": "Coras aerialis",
+      "rank": "species",
+      "slug": "species/coras-aerialis"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 182591347,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182591347/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182591347/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC), uploaded by Tom Murray",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/21757800"
+    }
+  ],
+  "nameStory": "The name 'aerialis' comes from the Latin word for 'of the air,' likely referring to this spider's elevated web-building habits or its preference for well-ventilated spaces. Many funnel weavers in the Coras genus were named for their seemingly ethereal, delicate webs that shimmer in morning dew.",
+  "description": "Coras aerialis is a funnel weaver spider that builds the classic sheet webs with funnel-shaped retreats that many people notice in their gardens. Like other members of its family, it has a moderately robust body with relatively long legs compared to orb weavers. This species is part of a group of closely related spiders that can be challenging to distinguish without close examination. As a funnel weaver, it waits in its silken retreat for prey to stumble across the web's surface.",
+  "idTips": [
+    {
+      "label": "Web",
+      "description": "Creates a flat, sheet-like web with a distinctive funnel-shaped retreat at one corner where the spider hides, usually built in vegetation or ground cover",
+      "isPrimary": true
+    },
+    {
+      "label": "Body Shape",
+      "description": "Moderately robust spider body with long, relatively thin legs that feel delicate if handled, typical of funnel weavers",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Rushes out quickly from funnel retreat when prey touches web, then rapidly drags catch back to the safety of the tunnel",
+      "isPrimary": false
+    },
+    {
+      "label": "Eyes",
+      "description": "Eight eyes arranged in two rows, with the back row noticeably curved when viewed from above",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Medium-sized spider with legs that can span roughly the size of a quarter when fully extended",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in various habitats throughout New England, typically building webs in low vegetation, shrubs, or among ground cover plants. Prefers areas with some shelter from direct weather, such as the edges of wooded areas or gardens with dense plantings.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, beginning to establish territories and build webs in suitable vegetation.",
+    "summer": "Peak activity period when webs are most visible and spiders are actively hunting, with mating typically occurring during warm months.",
+    "fall": "Adults may still be active into early fall, with egg sacs potentially being produced before cold weather arrives.",
+    "winter": "Likely overwinters in protected locations, with activity greatly reduced or dormant during coldest months."
+  },
+  "funFact": "Despite being called 'aerialis' meaning 'of the air,' this spider actually relies on vibrations transmitted through its web's silk threads to detect prey - it's essentially reading a complex network of tripwires with its feet!",
+  "confusionNotes": "Very difficult to distinguish from other Coras species without microscopic examination of reproductive structures. All Coras funnel weavers look remarkably similar and build nearly identical webs, so location and habitat context become important clues.",
+  "contextualKnowledge": "This species has only been recorded once in New England according to current data, making it either genuinely rare in the region or possibly under-surveyed. Many funnel weaver species are easily overlooked because their webs blend into vegetation and the spiders themselves are secretive.",
+  "compareHints": "Coras aerialis is virtually indistinguishable in the field from its relatives like Coras medicinalis and Coras montanus without examining reproductive structures under magnification. All share the same funnel web architecture, similar body proportions, and secretive behavior. The main differences lie in microscopic details of their reproductive anatomy and subtle variations in preferred microhabitats.",
+  "relatedSpecies": [
+    {
+      "slug": "coras-medicinalis",
+      "commonName": "Coras medicinalis",
+      "scientificName": "Coras medicinalis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101178589/medium.jpeg",
+      "distinction": "Distinguishing Coras medicinalis from its close relatives like Coras lamellosus or the Northern Spurred Woodland Funnelweaver requires examining fine details of body structure that are difficult to see in the field."
+    },
+    {
+      "slug": "coras-lamellosus",
+      "commonName": "Coras lamellosus",
+      "scientificName": "Coras lamellosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182592859/medium.jpeg",
+      "distinction": "Distinguishing between different Coras species requires close examination of anatomical features that are difficult to see in the field."
+    },
+    {
+      "slug": "coras-montanus",
+      "commonName": "Northern Spurred Woodland Funnelweaver",
+      "scientificName": "Coras montanus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182593855/medium.jpeg",
+      "distinction": "The Northern Spurred Woodland Funnelweaver can be distinguished from its Coras relatives primarily by the male's distinctive leg spurs and its preference for higher elevation, cooler woodland habitats."
+    },
+    {
+      "slug": "coras-juvenilis",
+      "commonName": "Coras juvenilis",
+      "scientificName": "Coras juvenilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182591804/medium.jpg",
+      "distinction": "Distinguishing Coras juvenilis from its close relatives like Coras medicinalis or Coras montanus requires expert examination of reproductive structures and other microscopic features."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Coras_aerialis",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/217578"
+}

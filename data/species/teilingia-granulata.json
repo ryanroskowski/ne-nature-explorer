@@ -1,0 +1,133 @@
+{
+  "slug": "teilingia-granulata",
+  "taxonId": 471354,
+  "group": "plants",
+  "commonName": "Teilingia granulata",
+  "scientificName": "Teilingia granulata",
+  "family": "Desmidiaceae",
+  "familyCommonName": "Desmidiaceae",
+  "genus": "Teilingia",
+  "genusCommonName": "Teilingia",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Desmidiaceae",
+      "rank": "family",
+      "slug": "explore/desmidiaceae"
+    },
+    {
+      "label": "Teilingia",
+      "rank": "genus",
+      "slug": "explore/teilingia"
+    },
+    {
+      "label": "Teilingia granulata",
+      "rank": "species",
+      "slug": "species/teilingia-granulata"
+    }
+  ],
+  "observationCount": 4,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 41433062,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41433062/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41433062/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC), uploaded by Karolina Fucikova",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/47135400"
+    },
+    {
+      "id": 289112759,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/289112759/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/289112759/large.jpg",
+      "attribution": "(c) MikeN, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/166932271"
+    },
+    {
+      "id": 2336799,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2336799/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2336799/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/1913544"
+    },
+    {
+      "id": 289118494,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/289118494/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/289118494/large.jpg",
+      "attribution": "(c) MikeN, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/166932271"
+    },
+    {
+      "id": 2292105,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2292105/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2292105/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/1880635"
+    }
+  ],
+  "nameStory": "Teilingia granulata gets its name from German botanist Karl Teiling, who studied these tiny algae in the early 1900s. The species name 'granulata' comes from Latin meaning 'grainy' or 'granulated,' referring to the bumpy, textured surface of these microscopic cells that looks like it's covered in tiny grains.",
+  "description": "Teilingia granulata is a single-celled freshwater alga that's part of a group called desmids - essentially microscopic green jewels that float in clean ponds and lakes. Each cell is incredibly tiny, invisible to the naked eye at only about 20-30 micrometers across (that's smaller than the width of a human hair!). Under a microscope, these emerald-green cells look like tiny decorated boxes or ornate pillows with intricate surface patterns. They're actually quite beautiful, resembling miniature works of art crafted by nature.",
+  "idTips": [
+    {
+      "label": "Cell Shape",
+      "description": "Rectangular to slightly oval cells that look like tiny green cushions or pillows when viewed under a microscope, with a distinctive constricted middle section",
+      "isPrimary": true
+    },
+    {
+      "label": "Surface Texture",
+      "description": "Cell walls covered with small granules or bumps that give a rough, sandpaper-like appearance - this granulated texture is the key identifying feature",
+      "isPrimary": false
+    },
+    {
+      "label": "Color",
+      "description": "Bright emerald to deep forest green color from chloroplasts (the parts that make food from sunlight) scattered throughout each cell",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Extremely small - you'll need at least 400x magnification on a microscope to see the diagnostic granulated surface clearly",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found floating in the clear, unpolluted waters of New England's mountain ponds, pristine lakes, and slow-moving streams, especially in areas with soft, acidic water. These algae prefer cool, nutrient-poor waters at higher elevations where the water stays clean and oxygen-rich. Look for them in the same types of waters where you might find wild trout - they're both indicators of excellent water quality.",
+  "seasonality": {
+    "spring": "Most abundant as waters warm and daylight increases, perfect time to collect samples from melting mountain ponds and newly ice-free lakes.",
+    "summer": "Populations peak in cool, shaded waters during warm months. Best viewing in early morning collections when cells are most active.",
+    "fall": "Still present but populations declining as temperatures drop and daylight decreases. Late fall collections may show cells preparing for winter dormancy.",
+    "winter": "Rare and mostly dormant under ice cover, though some may persist in deeper waters that don't freeze completely."
+  },
+  "funFact": "Despite being single-celled organisms smaller than dust particles, Teilingia granulata cells can actually reproduce by literally splitting themselves in half lengthwise - and each half regenerates the missing portion to create two identical 'twin' cells, like biological photocopying!",
+  "confusionNotes": "Most likely confused with other granulated desmids like some Cosmarium species, but Teilingia has a much more rectangular overall shape rather than round, and the granules are more evenly distributed across the entire cell surface. Think 'grainy rectangle' versus 'bumpy circle' to tell them apart.",
+  "contextualKnowledge": "These microscopic algae are actually pollution indicators - finding them in a water body is a sign of excellent water quality, since they can't survive in polluted or nutrient-rich waters. Scientists use their presence as a natural water quality test.",
+  "compareHints": "Since Teilingia granulata appears to be the only species in its genus found in New England, compare it to other desmids in the same family. Unlike the smooth, crescent-shaped Closterium or the star-shaped Micrasterias, Teilingia has that distinctive rectangular shape with granulated surface texture. It's much smaller and more box-like than most other desmids you'll encounter.",
+  "relatedSpecies": [],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/471354"
+}

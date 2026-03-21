@@ -1,0 +1,514 @@
+{
+  "slug": "lasioglossum-coriaceum",
+  "taxonId": 199103,
+  "group": "insects",
+  "commonName": "Leathery Sweat Bee",
+  "scientificName": "Lasioglossum coriaceum",
+  "family": "Halictidae",
+  "familyCommonName": "Sweat Bees",
+  "genus": "Lasioglossum",
+  "genusCommonName": "Lasioglossum",
+  "order": "Hymenoptera",
+  "orderCommonName": "Ants, Bees, Wasps, and Sawflies",
+  "breadcrumb": [
+    {
+      "label": "Insects",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Insects",
+      "rank": "class",
+      "slug": "explore/insects"
+    },
+    {
+      "label": "Ants, Bees, Wasps, and Sawflies",
+      "rank": "order",
+      "slug": "explore/ants-bees-wasps-and-sawflies"
+    },
+    {
+      "label": "Sweat Bees",
+      "rank": "family",
+      "slug": "explore/sweat-bees"
+    },
+    {
+      "label": "Lasioglossum",
+      "rank": "genus",
+      "slug": "explore/lasioglossum"
+    },
+    {
+      "label": "Leathery Sweat Bee",
+      "rank": "species",
+      "slug": "species/lasioglossum-coriaceum"
+    }
+  ],
+  "observationCount": 211,
+  "abundanceTier": "moderate",
+  "photos": [
+    {
+      "id": 12204891,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12204891/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12204891/large.jpg",
+      "attribution": "(c) Heather Holm, some rights reserved (CC BY-NC), uploaded by Heather Holm",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19910300"
+    },
+    {
+      "id": 115700659,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/115700659/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/115700659/large.jpeg",
+      "attribution": "(c) Stuart Tingley, some rights reserved (CC BY-NC), uploaded by Stuart Tingley",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19910301"
+    },
+    {
+      "id": 51972479,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51972479/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51972479/large.jpg",
+      "attribution": "(c) Bill MacIndewar, some rights reserved (CC BY-NC), uploaded by Bill MacIndewar",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19910302"
+    },
+    {
+      "id": 50962555,
+      "mediumUrl": "https://static.inaturalist.org/photos/50962555/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/50962555/large.jpg",
+      "attribution": "(c) Clarence Holmes, all rights reserved, uploaded by Clarence Holmes",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19910303"
+    },
+    {
+      "id": 40913163,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/40913163/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/40913163/large.jpeg",
+      "attribution": "(c) Jason M Crockwell, some rights reserved (CC BY-NC-ND), uploaded by Jason M Crockwell",
+      "licenseCode": "cc-by-nc-nd",
+      "observationUrl": "https://www.inaturalist.org/observations/19910304"
+    },
+    {
+      "id": 115700647,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/115700647/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/115700647/large.jpeg",
+      "attribution": "(c) Stuart Tingley, some rights reserved (CC BY-NC), uploaded by Stuart Tingley",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19910305"
+    },
+    {
+      "id": 59741072,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59741072/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59741072/large.jpg",
+      "attribution": "(c) raho, some rights reserved (CC BY-NC-ND), uploaded by raho",
+      "licenseCode": "cc-by-nc-nd",
+      "observationUrl": "https://www.inaturalist.org/observations/19910306"
+    },
+    {
+      "id": 54983503,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/54983503/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/54983503/large.jpeg",
+      "attribution": "(c) Brendan Burke, some rights reserved (CC BY-NC), uploaded by Brendan Burke",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/19910307"
+    },
+    {
+      "id": 207981708,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207981708/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207981708/large.jpeg",
+      "attribution": "(c) Bernie Paquette, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/122814724"
+    },
+    {
+      "id": 207982301,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207982301/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207982301/large.jpeg",
+      "attribution": "(c) Bernie Paquette, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/122814724"
+    },
+    {
+      "id": 207982390,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207982390/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207982390/large.jpeg",
+      "attribution": "(c) Bernie Paquette, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/122814724"
+    },
+    {
+      "id": 207982499,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207982499/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207982499/large.jpeg",
+      "attribution": "(c) Bernie Paquette, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/122814724"
+    },
+    {
+      "id": 207982822,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207982822/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207982822/large.jpeg",
+      "attribution": "(c) Bernie Paquette, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/122814724"
+    },
+    {
+      "id": 207983027,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207983027/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207983027/large.jpeg",
+      "attribution": "(c) Bernie Paquette, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/122814724"
+    },
+    {
+      "id": 207983154,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207983154/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207983154/large.jpeg",
+      "attribution": "(c) Bernie Paquette, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/122814724"
+    },
+    {
+      "id": 207983429,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207983429/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207983429/large.jpeg",
+      "attribution": "(c) Bernie Paquette, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/122814724"
+    }
+  ],
+  "nameStory": "The 'leathery' part of this bee's name comes from its distinctive tough, matte appearance that sets it apart from its shinier metallic relatives. Unlike many sweat bees that gleam like tiny jewels, this species has a more subdued, leather-like texture to its body. The 'sweat bee' part of the name comes from the family's habit of being attracted to human perspiration for its salt content.",
+  "description": "The Leathery Sweat Bee is a small, dark native bee that's part of New England's diverse sweat bee family. Unlike their flashy metallic cousins, these bees have a more muted appearance with a distinctly matte, leathery texture to their bodies. They're typically dark brown to blackish in color and measure about a quarter to half an inch long. These solitary ground-nesting bees are important pollinators of wildflowers and garden plants throughout the region.",
+  "idTips": [
+    {
+      "label": "Leathery Texture",
+      "description": "The body has a distinctly matte, non-reflective surface that feels rough-looking, like old leather rather than the shiny metallic sheen of related species",
+      "isPrimary": true
+    },
+    {
+      "label": "Dark Coloration",
+      "description": "Overall dark brown to blackish body color without the bright metallic greens or blues of other sweat bees",
+      "isPrimary": false
+    },
+    {
+      "label": "Small Size",
+      "description": "Compact body about the size of a small honeybee worker, easily fitting on your thumbnail with room to spare",
+      "isPrimary": false
+    },
+    {
+      "label": "Ground Behavior",
+      "description": "Often seen hovering low over bare soil or landing on sunny patches of dirt, especially near garden beds or trail edges",
+      "isPrimary": false
+    },
+    {
+      "label": "Flower Visiting",
+      "description": "Frequently found on small, open flowers like asters and goldenrod, moving with quick, darting movements between blooms",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Leathery Sweat Bees prefer open, sunny areas with well-drained soil where they can excavate their ground nests. Look for them in gardens, meadow edges, woodland clearings, and along sunny trails where wildflowers bloom nearby. They're particularly common in areas with mixed habitats - places where open ground meets flowering plants like field edges and suburban gardens.",
+  "seasonality": {
+    "spring": "Early emerging adults begin appearing in late spring, with females busy excavating nest burrows in sunny, bare soil patches.",
+    "summer": "Peak activity period when adults are most visible visiting flowers for nectar and pollen, especially on warm, sunny days.",
+    "fall": "Activity continues into early fall as late-season flowers provide resources, though numbers typically decline as temperatures drop.",
+    "winter": "Adults die off and the species overwinters as larvae or pupae in underground nest cells, completely inactive until spring warmth returns."
+  },
+  "funFact": "Despite being called 'sweat bees,' these tiny pollinators are actually attracted to the salt in human perspiration rather than the moisture - they need sodium for their metabolism just like we do, making that gentle landing on your arm a mineral-mining mission!",
+  "confusionNotes": "Most easily confused with other dark sweat bees in the same genus, but the leathery, matte texture is the key difference from the metallic sheen of species like the Deep-blue Sweat Bee or Black-and-green Metallic Sweat Bee. Memory trick: 'Leathery looks lackluster' - if it's not shiny, it might be your leathery friend.",
+  "contextualKnowledge": "The genus name Lasioglossum means 'hairy tongue' in Greek, referring to the bee's fuzzy proboscis used for collecting nectar. With over 40 species of Lasioglossum in New England, this is one of our most diverse bee genera, though many species require expert examination to distinguish reliably.",
+  "compareHints": "Among its many Lasioglossum relatives, the Leathery Sweat Bee stands out for its notably matte, non-metallic appearance - most other species in this genus have at least some metallic sheen or bright coloration. While the Dark-winged Sweat Bee is also relatively dull, it typically has darker wing membranes, and the various metallic species like the Deep-blue or Black-and-green have obvious glossy, jewel-like surfaces that catch the light.",
+  "relatedSpecies": [
+    {
+      "slug": "lasioglossum-fuscipenne",
+      "commonName": "Dark-winged Sweat Bee",
+      "scientificName": "Lasioglossum fuscipenne",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101885503/medium.jpg",
+      "distinction": "Among its many Lasioglossum relatives, the Dark-winged Sweat Bee stands out primarily for its wing coloration—most other species in this genus have clear or lightly tinted wings."
+    },
+    {
+      "slug": "lasioglossum-leucozonium",
+      "commonName": "White-banded Sweat Bee",
+      "scientificName": "Lasioglossum leucozonium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210241430/medium.jpeg",
+      "distinction": "Among New England's many Lasioglossum sweat bees, the White-banded Sweat Bee is distinguished by its particularly crisp, bright white abdominal bands."
+    },
+    {
+      "slug": "lasioglossum-vierecki",
+      "commonName": "Viereck's Sweat Bee",
+      "scientificName": "Lasioglossum vierecki",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/228333706/medium.jpeg",
+      "distinction": "Among the many Lasioglossum species in New England, Viereck's Sweat Bee stands out for its strong preference for sandy habitats and association with goldenrod."
+    },
+    {
+      "slug": "lasioglossum-pectinatum",
+      "commonName": "ground cherry sweat bee",
+      "scientificName": "Lasioglossum pectinatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/208245210/medium.jpg",
+      "distinction": "Among its many Lasioglossum relatives in New England, the ground cherry sweat bee is distinguished by its strong association with ground cherry plants and its particular shade of dark metallic coloring."
+    },
+    {
+      "slug": "lasioglossum-pectorale",
+      "commonName": "Rugose-chested Sweat Bee",
+      "scientificName": "Lasioglossum pectorale",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/44520592/medium.jpg",
+      "distinction": "Among the many Lasioglossum sweat bees in New England, the Rugose-chested Sweat Bee stands out for its distinctly textured thorax, while relatives like the Deep-blue Sweat Bee show metallic coloration and the White-banded Sweat Bee displays obvious pale stripes."
+    },
+    {
+      "slug": "lasioglossum-quebecense",
+      "commonName": "Quebec Sweat Bee",
+      "scientificName": "Lasioglossum quebecense",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/63156963/medium.jpeg",
+      "distinction": "Among its many Lasioglossum relatives, Quebec Sweat Bee lacks the bright metallic green or blue coloration of species like the Deep-blue Sweat Bee, and is generally darker than the White-banded Sweat Bee."
+    },
+    {
+      "slug": "lasioglossum-imitatum",
+      "commonName": "Bristle Sweat Bee",
+      "scientificName": "Lasioglossum imitatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35791609/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-coeruleum",
+      "commonName": "Deep-blue Sweat Bee",
+      "scientificName": "Lasioglossum coeruleum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/16377371/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-nigroviride",
+      "commonName": "Black-and-green Metallic-Sweat bee",
+      "scientificName": "Lasioglossum nigroviride",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/122794476/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-oenotherae",
+      "commonName": "Evening Primrose Sweat Bee",
+      "scientificName": "Lasioglossum oenotherae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29764498/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-cressonii",
+      "commonName": "Cresson's Sweat Bee",
+      "scientificName": "Lasioglossum cressonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/49025691/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-acuminatum",
+      "commonName": "Pointed Sweat Bee",
+      "scientificName": "Lasioglossum acuminatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/606719236/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-pilosum",
+      "commonName": "Hairy Sweat Bee",
+      "scientificName": "Lasioglossum pilosum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5539536/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-versatum",
+      "commonName": "Experienced Sweat Bee",
+      "scientificName": "Lasioglossum versatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4957610/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-zephyrus",
+      "commonName": "Zephyr Sweat Bee",
+      "scientificName": "Lasioglossum zephyrus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/321378448/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-truncatum",
+      "commonName": "Truncate Sweat Bee",
+      "scientificName": "Lasioglossum truncatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/199849845/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-tegulare",
+      "commonName": "Epaulette Metallic Sweat Bee",
+      "scientificName": "Lasioglossum tegulare",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/82612176/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-marinum",
+      "commonName": "Lasioglossum marinum",
+      "scientificName": "Lasioglossum marinum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/304960219/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-nelumbonis",
+      "commonName": "water-lily sweat bee",
+      "scientificName": "Lasioglossum nelumbonis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/219036007/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-cinctipes",
+      "commonName": "Lasioglossum cinctipes",
+      "scientificName": "Lasioglossum cinctipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/279592173/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-anomalum",
+      "commonName": "Anomalous Metallic Sweat Bee",
+      "scientificName": "Lasioglossum anomalum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/297092016/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-bruneri",
+      "commonName": "Bruner's Sweat Bee",
+      "scientificName": "Lasioglossum bruneri",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/130311890/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-oblongum",
+      "commonName": "Oblong Sweat Bee",
+      "scientificName": "Lasioglossum oblongum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/553286748/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "lasioglossum-versans",
+      "commonName": "Friendless Sweat Bee",
+      "scientificName": "Lasioglossum versans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207655766/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-lineatulum",
+      "commonName": "Lineated Metallic Sweat Bee",
+      "scientificName": "Lasioglossum lineatulum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/95430080/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-oceanicum",
+      "commonName": "Lasioglossum oceanicum",
+      "scientificName": "Lasioglossum oceanicum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/257674583/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-leucocomus",
+      "commonName": "White-haired Golden Sweat Bee",
+      "scientificName": "Lasioglossum leucocomus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/197111514/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-hitchensi",
+      "commonName": "Hitchens's Sweat Bee",
+      "scientificName": "Lasioglossum hitchensi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41548818/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-ephialtum",
+      "commonName": "Nightmare Sweat Bee",
+      "scientificName": "Lasioglossum ephialtum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/414997616/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-subviridatum",
+      "commonName": "Lasioglossum subviridatum",
+      "scientificName": "Lasioglossum subviridatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18525859/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-zonulus",
+      "commonName": "Bull-headed Furrow Bee",
+      "scientificName": "Lasioglossum zonulus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/93540956/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-gotham",
+      "commonName": "Gotham Sweat Bee",
+      "scientificName": "Lasioglossum gotham",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/111969879/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-admirandum",
+      "commonName": "Admirable Sweat Bee",
+      "scientificName": "Lasioglossum admirandum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/143625115/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-albipenne",
+      "commonName": "white-winged sweat bee",
+      "scientificName": "Lasioglossum albipenne",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/230165199/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-michiganense",
+      "commonName": "Michigan sweat bee",
+      "scientificName": "Lasioglossum michiganense",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4953519/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-lionotum",
+      "commonName": "smooth-backed sweat bee",
+      "scientificName": "Lasioglossum lionotum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4952534/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-weemsi",
+      "commonName": "Weems's Sweat Bee",
+      "scientificName": "Lasioglossum weemsi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23910643/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-cephalotes",
+      "commonName": "Band-footed Sweat Bee",
+      "scientificName": "Lasioglossum cephalotes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/544667503/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-atwoodi",
+      "commonName": "Atwood's Sweat Bee",
+      "scientificName": "Lasioglossum atwoodi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/602039478/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-obscurum",
+      "commonName": "Obscure Sweat Bee",
+      "scientificName": "Lasioglossum obscurum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/600654046/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "lasioglossum-izawsum",
+      "commonName": "Awesome Sweat Bee",
+      "scientificName": "Lasioglossum izawsum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/590245192/medium.jpg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Lasioglossum_coriaceum",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199103"
+}

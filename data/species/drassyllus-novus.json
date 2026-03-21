@@ -1,0 +1,119 @@
+{
+  "slug": "drassyllus-novus",
+  "taxonId": 218717,
+  "group": "arachnids",
+  "commonName": "Drassyllus novus",
+  "scientificName": "Drassyllus novus",
+  "family": "Gnaphosidae",
+  "familyCommonName": "Stealthy Ground Spiders",
+  "genus": "Drassyllus",
+  "genusCommonName": "Drassyllus",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Stealthy Ground Spiders",
+      "rank": "family",
+      "slug": "explore/stealthy-ground-spiders"
+    },
+    {
+      "label": "Drassyllus",
+      "rank": "genus",
+      "slug": "explore/drassyllus"
+    },
+    {
+      "label": "Drassyllus novus",
+      "rank": "species",
+      "slug": "species/drassyllus-novus"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 182845049,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182845049/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182845049/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC), uploaded by Tom Murray",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/21871700"
+    }
+  ],
+  "nameStory": "The name 'Stealthy Ground Spider' comes from this spider's secretive hunting style - it doesn't build webs to catch prey, but instead prowls silently along the ground at night like a tiny ninja. The word 'Drassyllus' comes from Greek, meaning 'to grasp' or 'seize,' referring to how these spiders grab their prey with their strong front legs.",
+  "description": "The Stealthy Ground Spider is a small, dark hunter that roams the forest floor at night looking for tiny insects to catch. These spiders are typically dark brown to blackish with a somewhat flattened body that helps them slip under bark and rocks during the day. They're quite small, usually less than half an inch long including their legs, making them easy to overlook as they scurry across leaf litter.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Compact, somewhat flattened body that feels firm to the touch, with relatively thick front legs that are noticeably stouter than the back legs",
+      "isPrimary": true
+    },
+    {
+      "label": "Markings",
+      "description": "Dark brown to blackish coloration with a slight metallic sheen when caught in flashlight beam, abdomen may have faint chevron patterns",
+      "isPrimary": false
+    },
+    {
+      "label": "Web",
+      "description": "No web for catching prey, but spins a small silken retreat under rocks or bark that feels papery and smooth to gentle touch",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Body length about 1/4 inch, total span with legs roughly the size of a dime or smaller",
+      "isPrimary": false
+    },
+    {
+      "label": "Eyes",
+      "description": "Eight dark eyes arranged in two rows, with the front row eyes appearing larger and more prominent when viewed with magnification",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Active at night, moves in quick bursts across the ground then freezes motionless when disturbed, often found under peeling bark or stones during day",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for these spiders in mature deciduous and mixed forests with plenty of fallen logs and leaf litter. They prefer areas with loose, well-drained soil where they can easily slip under rocks, bark, and decomposing wood during the day. You'll most often find them in oak-hickory forests and maple woodlands at low to moderate elevations.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, emerging from winter hiding spots under deep bark crevices and beginning to hunt at night.",
+    "summer": "Peak activity period when adults are most easily spotted during nighttime searches with flashlights, and mating occurs.",
+    "fall": "Females create egg sacs in their silk retreats, and spiders prepare for winter by seeking deeper shelter under logs and rocks.",
+    "winter": "Adults hibernate in protected spots like deep bark crevices or under large stones, remaining dormant until spring warmth returns."
+  },
+  "funFact": "These tiny spiders are like eight-legged bloodhounds - they can track down prey insects by following their chemical trails across the forest floor, sometimes pursuing a scent trail for several feet before pouncing on their unsuspecting victim!",
+  "confusionNotes": "Often confused with small wolf spiders, but ground spiders have a more flattened body and thicker front legs, while wolf spiders are more robust overall. Remember: ground spiders look like they've been gently pressed flat, while wolf spiders look chunky and athletic.",
+  "contextualKnowledge": "Despite being called 'ground spiders,' these arachnids are excellent climbers and will readily scale tree bark and even venture into low shrubs when hunting, so don't be surprised to find them a few feet off the ground.",
+  "compareHints": "Drassyllus novus is extremely similar to its relative Drassyllus depressus and requires expert examination to distinguish reliably. Both are small, dark ground spiders with flattened bodies, but novus tends to be slightly more robust in build. For practical field identification, consider them as part of the same group of stealthy ground hunters.",
+  "relatedSpecies": [
+    {
+      "slug": "drassyllus-depressus",
+      "commonName": "Drassyllus depressus",
+      "scientificName": "Drassyllus depressus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182844900/medium.jpeg",
+      "distinction": "Compared to its close relative Drassyllus novus, the Flattened Ground Spider has a more pronounced compressed body shape and tends to be slightly darker in coloration."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Drassyllus_novus",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/218717"
+}

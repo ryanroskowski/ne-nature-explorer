@@ -1,0 +1,128 @@
+{
+  "slug": "leptogium-laceroides",
+  "taxonId": 223467,
+  "group": "lichens",
+  "commonName": "Leptogium laceroides",
+  "scientificName": "Leptogium laceroides",
+  "family": "Collemataceae",
+  "familyCommonName": "Collemataceae",
+  "genus": "Leptogium",
+  "genusCommonName": "Skin Lichens",
+  "order": "Peltigerales",
+  "orderCommonName": "Peltigerales",
+  "breadcrumb": [
+    {
+      "label": "Lichens",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Ascomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/ascomycete-fungi"
+    },
+    {
+      "label": "Common Lichens",
+      "rank": "class",
+      "slug": "explore/common-lichens"
+    },
+    {
+      "label": "Peltigerales",
+      "rank": "order",
+      "slug": "explore/peltigerales"
+    },
+    {
+      "label": "Collemataceae",
+      "rank": "family",
+      "slug": "explore/collemataceae"
+    },
+    {
+      "label": "Skin Lichens",
+      "rank": "genus",
+      "slug": "explore/skin-lichens"
+    },
+    {
+      "label": "Leptogium laceroides",
+      "rank": "species",
+      "slug": "species/leptogium-laceroides"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 8999627,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8999627/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8999627/large.jpg",
+      "attribution": "(c) Tomás Curtis, some rights reserved (CC BY-NC), uploaded by Tomás Curtis",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/22346700"
+    }
+  ],
+  "nameStory": "This lichen doesn't have a widely-used common name, so it goes by its scientific name Leptogium laceroides. The genus name \"Leptogium\" means \"thin skin\" in Greek, referring to the paper-thin, skin-like appearance of these lichens. The species name \"laceroides\" suggests something torn or ragged-looking, hinting at its delicate, fragmented edges.",
+  "description": "Leptogium laceroides is a foliose lichen that forms thin, leaf-like lobes pressed against tree bark or rock surfaces. When dry, it appears grayish-brown and papery, but transforms to a blue-green or olive color when wet. The lichen forms small to medium-sized patches, typically 2-4 inches across, with irregularly shaped lobes that have a somewhat wrinkled or bumpy texture. Like other skin lichens, it contains blue-green algae that give it its distinctive color change when moistened.",
+  "idTips": [
+    {
+      "label": "Color Change",
+      "description": "Dramatically shifts from dull grayish-brown when dry to vibrant blue-green or olive when wet - this color transformation is your best clue for identifying skin lichens",
+      "isPrimary": true
+    },
+    {
+      "label": "Growth Form",
+      "description": "Forms thin, leaf-like lobes that lie flat against the surface like wet tissue paper, with edges that may appear torn or irregular",
+      "isPrimary": false
+    },
+    {
+      "label": "Surface Texture",
+      "description": "Feels papery and delicate when dry, becoming soft and gelatinous when thoroughly wet - handle gently as it tears easily",
+      "isPrimary": false
+    },
+    {
+      "label": "Substrate",
+      "description": "Grows on smooth bark of deciduous trees, particularly favoring maple, ash, and other trees with relatively smooth bark in humid locations",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Forms patches typically 2-4 inches across, with individual lobes measuring about half an inch wide",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for this rare lichen on the smooth bark of deciduous trees in humid, sheltered locations throughout New England's forests. It particularly favors maple, ash, and other smooth-barked trees in valleys, ravines, or north-facing slopes where moisture lingers. You're most likely to spot it in mature forests with good canopy cover that maintains consistent humidity.",
+  "seasonality": {
+    "spring": "Most vibrant after spring rains when frequent moisture keeps it in its blue-green state. Look for it during misty mornings when the color change is most dramatic.",
+    "summer": "Often appears dry and grayish-brown during hot weather, but transforms quickly after summer thunderstorms. Early morning dew may provide enough moisture to see the color change.",
+    "fall": "Autumn's increased humidity and frequent rains make this an excellent time to observe the lichen in its colorful, hydrated state.",
+    "winter": "Visible year-round but may be brittle when frozen. Snow melt and winter thaws can trigger the characteristic color transformation to blue-green."
+  },
+  "funFact": "**[UNCERTAIN CLAIM]** This lichen is so rare in New England that it's been documented only once in the region - making any sighting a potentially significant scientific discovery worth reporting to local naturalist groups!",
+  "confusionNotes": "Most easily confused with other skin lichens like Blue Jellyskin, but **[UNCERTAIN]** Leptogium laceroides tends to have more irregular, torn-looking lobe edges and may be smaller overall. When in doubt, note the exact location and take photos - with only one known New England record, any sighting deserves documentation.",
+  "contextualKnowledge": "**[UNCERTAIN]** The extreme rarity of this species in New England means that field identification should be approached with caution - what appears to be Leptogium laceroides might be a more common relative, and definitive identification may require expert confirmation or microscopic examination.",
+  "compareHints": "**[UNCERTAIN]** Compared to the more common Blue Jellyskin in the same genus, Leptogium laceroides appears to have more fragmented, irregularly torn lobe margins and may be overall smaller in size. Unlike Stretched Jellyskin, it lacks the distinctly granular surface texture and maintains the smooth, skin-like appearance typical of the genus.",
+  "relatedSpecies": [
+    {
+      "slug": "leptogium-cyanescens",
+      "commonName": "Blue Jellyskin",
+      "scientificName": "Leptogium cyanescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62646765/medium.jpg",
+      "distinction": "Blue Jellyskin differs from its Jellyskin relatives by its distinctive blue color when wet—other species in the genus tend to turn brown, olive, or dark green when moist."
+    },
+    {
+      "slug": "leptogium-milligranum",
+      "commonName": "Stretched Jellyskin",
+      "scientificName": "Leptogium milligranum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7985530/medium.jpg",
+      "distinction": "Stretched Jellyskin differs from Blue Jellyskin by being thinner and more tightly attached to bark, while Blue Jellyskin tends to have more pronounced lobes that lift away from the surface."
+    },
+    {
+      "slug": "leptogium-acadiense",
+      "commonName": "Leptogium acadiense",
+      "scientificName": "Leptogium acadiense",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9670456/medium.jpeg",
+      "distinction": "Unlike Blue Jellyskin which has a more distinctly bluish cast when wet, this species tends toward brownish-gray tones."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/223467"
+}

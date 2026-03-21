@@ -1,0 +1,570 @@
+{
+  "slug": "cladonia-pyxidata",
+  "taxonId": 123894,
+  "group": "lichens",
+  "commonName": "Pebbled Pixie Cup",
+  "scientificName": "Cladonia pyxidata",
+  "family": "Cladoniaceae",
+  "familyCommonName": "spindles and structured lichens",
+  "genus": "Cladonia",
+  "genusCommonName": "pixie cup and reindeer lichens",
+  "order": "Lecanorales",
+  "orderCommonName": "shield lichens, rim lichens, and allies",
+  "breadcrumb": [
+    {
+      "label": "Lichens",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Ascomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/ascomycete-fungi"
+    },
+    {
+      "label": "Common Lichens",
+      "rank": "class",
+      "slug": "explore/common-lichens"
+    },
+    {
+      "label": "shield lichens, rim lichens, and allies",
+      "rank": "order",
+      "slug": "explore/shield-lichens-rim-lichens-and-allies"
+    },
+    {
+      "label": "spindles and structured lichens",
+      "rank": "family",
+      "slug": "explore/spindles-and-structured-lichens"
+    },
+    {
+      "label": "pixie cup and reindeer lichens",
+      "rank": "genus",
+      "slug": "explore/pixie-cup-and-reindeer-lichens"
+    },
+    {
+      "label": "Pebbled Pixie Cup",
+      "rank": "species",
+      "slug": "species/cladonia-pyxidata"
+    }
+  ],
+  "observationCount": 12,
+  "abundanceTier": "common",
+  "photos": [
+    {
+      "id": 23978647,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23978647/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23978647/large.jpeg",
+      "attribution": "(c) Luis Alberto, some rights reserved (CC BY-NC), uploaded by Luis Alberto",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12389411"
+    },
+    {
+      "id": 223688997,
+      "mediumUrl": "https://static.inaturalist.org/photos/223688997/medium.jpeg",
+      "largeUrl": "https://static.inaturalist.org/photos/223688997/large.jpeg",
+      "attribution": "(c) Luc Talluau, all rights reserved, uploaded by Luc Talluau",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12389401"
+    },
+    {
+      "id": 454019071,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/454019071/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/454019071/large.jpg",
+      "attribution": "(c) Hans Ritter, some rights reserved (CC BY-NC), uploaded by Hans Ritter",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12389404"
+    },
+    {
+      "id": 314215359,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/314215359/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/314215359/large.jpg",
+      "attribution": "(c) Kat Halsey, some rights reserved (CC BY-NC), uploaded by Kat Halsey",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12389409"
+    },
+    {
+      "id": 163996065,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/163996065/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/163996065/large.jpg",
+      "attribution": "(c) Bjørn Moe, some rights reserved (CC BY-NC), uploaded by Bjørn Moe",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12389400"
+    },
+    {
+      "id": 319429348,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/319429348/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/319429348/large.jpeg",
+      "attribution": "(c) Hans Ritter, some rights reserved (CC BY-NC), uploaded by Hans Ritter",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12389410"
+    },
+    {
+      "id": 254683443,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254683443/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254683443/large.jpeg",
+      "attribution": "(c) Zeke Marshall, some rights reserved (CC BY), uploaded by Zeke Marshall",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/12389407"
+    },
+    {
+      "id": 389578885,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/389578885/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/389578885/large.jpeg",
+      "attribution": "(c) Rachel Cheatham-McFadden, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/220064057"
+    },
+    {
+      "id": 466353273,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/466353273/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/466353273/large.jpg",
+      "attribution": "(c) Borja Fierro, some rights reserved (CC BY), uploaded by Borja Fierro",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/12389402"
+    },
+    {
+      "id": 244690650,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244690650/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244690650/large.jpg",
+      "attribution": "(c) Hans Ritter, some rights reserved (CC BY-NC), uploaded by Hans Ritter",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12389405"
+    },
+    {
+      "id": 389578937,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/389578937/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/389578937/large.jpeg",
+      "attribution": "(c) Rachel Cheatham-McFadden, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/220064057"
+    },
+    {
+      "id": 37611636,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/37611636/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/37611636/large.jpg",
+      "attribution": "(c) Denis Doucet, some rights reserved (CC BY-NC), uploaded by Denis Doucet",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12389403"
+    },
+    {
+      "id": 18320030,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18320030/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18320030/large.jpg",
+      "attribution": "(c) Tomás Curtis, some rights reserved (CC BY-NC), uploaded by Tomás Curtis",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12389406"
+    },
+    {
+      "id": 106470072,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106470072/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106470072/large.jpeg",
+      "attribution": "(c) Nicola van Berkel, some rights reserved (CC BY-SA), uploaded by Nicola van Berkel",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/12389408"
+    },
+    {
+      "id": 7608749,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7608749/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7608749/large.jpg",
+      "attribution": "(c) Erika Mitchell, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/6082749"
+    },
+    {
+      "id": 460830847,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/460830847/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/460830847/large.jpg",
+      "attribution": "(c) Siler Russ, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/256953106"
+    }
+  ],
+  "nameStory": "The 'pixie cup' name comes from the tiny cup-shaped structures that look like miniature goblets fit for woodland fairies. The 'pebbled' part refers to the rough, bumpy texture on the cup's surface, like tiny pebbles have been pressed into the lichen. It's part of a whole family of 'pixie cup' lichens that early naturalists thought resembled fairy dinnerware.",
+  "description": "Pebbled Pixie Cup is a small, cup-shaped lichen that grows from the ground in mossy areas and rotting wood. It starts as tiny gray-green scales, then sends up hollow, funnel-shaped cups that are usually less than an inch tall. The cups have distinctively rough, granular surfaces that feel gritty to the touch. Like other cup lichens, it's actually two organisms living together: a fungus that forms the structure and algae that provide food through photosynthesis.",
+  "idTips": [
+    {
+      "label": "Growth Form",
+      "description": "Small hollow cups or funnels rising from scaly base patches, usually under 1 inch tall with flared, open tops",
+      "isPrimary": true
+    },
+    {
+      "label": "Surface Texture",
+      "description": "Cups have a distinctly rough, pebbled surface that feels gritty when rubbed gently with your finger",
+      "isPrimary": false
+    },
+    {
+      "label": "Color",
+      "description": "Gray-green to brownish-gray when dry, becoming more vibrant green when wet from rain or dew",
+      "isPrimary": false
+    },
+    {
+      "label": "Substrate",
+      "description": "Grows directly from soil, moss, or well-rotted wood in shaded areas, often forming small colonies",
+      "isPrimary": false
+    },
+    {
+      "label": "Reproductive Structures",
+      "description": "Brown, disc-like structures sometimes appear on the cup rim, looking like tiny chocolate chips",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for Pebbled Pixie Cup in mossy areas of mixed and coniferous forests, especially on acidic soil and rotting logs. It thrives in the humid understory of New England's woodlands, from sea level to mountain elevations. You'll often find it growing alongside other mosses and small lichens in areas that stay consistently moist but not waterlogged.",
+  "seasonality": {
+    "spring": "Cups are most vibrant green after spring rains, making them easier to spot against brown leaf litter. New growth begins as tiny scale patches.",
+    "summer": "During dry spells, the lichen becomes more gray and less noticeable, but the distinctive cup shape remains clear for identification.",
+    "fall": "Often becomes more visible again with autumn moisture, standing out nicely against fallen leaves in the forest understory.",
+    "winter": "Remains present and identifiable under snow, though the gray winter coloration makes it blend in more with surroundings."
+  },
+  "funFact": "This tiny lichen can live for decades, growing incredibly slowly at just a few millimeters per year - that innocent-looking quarter-sized patch might be older than you are!",
+  "confusionNotes": "Most easily confused with other pixie cup species, but the distinctly rough, pebbled texture on the cup surface sets it apart from the smoother Mealy Pixie Cup. Remember: if it feels gritty, it's probably pebbled!",
+  "contextualKnowledge": "The Cladonia genus contains many species that look quite similar, and positive identification often requires close examination or even chemical tests. Don't worry if you can't tell all the pixie cups apart - even experienced lichenologists sometimes need a microscope!",
+  "compareHints": "Unlike its smooth-surfaced cousin the Mealy Pixie Cup, this species has that distinctive gritty texture. It's smaller and more cup-shaped than the British Soldier Lichen, which has bright red caps on its tips. The various reindeer lichens in the same genus are much more branched and shrubby, lacking the simple cup form entirely.",
+  "relatedSpecies": [
+    {
+      "slug": "cladonia-cristatella",
+      "commonName": "British soldier lichen",
+      "scientificName": "Cladonia cristatella",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/443166324/medium.jpg",
+      "distinction": "British soldier lichen differs from its Cladonia relatives by having consistently red-topped reproductive structures rather than brown or yellow ones."
+    },
+    {
+      "slug": "cladonia-stellaris",
+      "commonName": "Star-tipped Reindeer Lichen",
+      "scientificName": "Cladonia stellaris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/87561/medium.jpg",
+      "distinction": "Star-tipped Reindeer Lichen stands out from its Cladonia cousins by forming the most distinctly cushion-shaped colonies with the densest branching pattern."
+    },
+    {
+      "slug": "cladonia-rangiferina",
+      "commonName": "gray reindeer lichen",
+      "scientificName": "Cladonia rangiferina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12131823/medium.jpeg",
+      "distinction": "Gray reindeer lichen differs from other Cladonia species by its consistently gray color and terrestrial growth habit - most pixie cup lichens are smaller and many grow on rotting wood."
+    },
+    {
+      "slug": "cladonia-boryi",
+      "commonName": "Fishnet Cladonia",
+      "scientificName": "Cladonia boryi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67588730/medium.jpg",
+      "distinction": "Among all the Cladonia species in New England, fishnet cladonia is unique for its wide, perforated stalks - no other pixie cup or reindeer lichen has this Swiss cheese appearance."
+    },
+    {
+      "slug": "cladonia-coniocraea",
+      "commonName": "Common Powderhorn",
+      "scientificName": "Cladonia coniocraea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/317075846/medium.jpeg",
+      "distinction": "Common Powderhorn differs from its pixie cup relatives by its consistently powdery, granular surface texture - Pebbled Pixie Cup is much bumpier, while Mealy Pixie Cup is smoother."
+    },
+    {
+      "slug": "cladonia-maxima",
+      "commonName": "Giant Cladonia Lichen",
+      "scientificName": "Cladonia maxima",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4317394/medium.jpeg",
+      "distinction": "Giant Cladonia stands apart from its genus relatives primarily through sheer size—while British Soldier lichens top out around 2 inches and most reindeer lichens form low, branching mats, Giant Cladonia towers above them all."
+    },
+    {
+      "slug": "cladonia-squamosa",
+      "commonName": "Dragon Horn",
+      "scientificName": "Cladonia squamosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34311804/medium.jpeg",
+      "distinction": "Unlike the bright red caps of British Soldier lichen or the branched, coral-like growth of reindeer lichens, Dragon Horn has a unique two-tier structure with scaly bases and pointed projections."
+    },
+    {
+      "slug": "cladonia-arbuscula",
+      "commonName": "Green Reindeer Lichen",
+      "scientificName": "Cladonia arbuscula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60843982/medium.jpeg",
+      "distinction": "Green Reindeer Lichen differs from Gray Reindeer Lichen mainly in color (more greenish tints when wet) and slightly more complex branching patterns."
+    },
+    {
+      "slug": "cladonia-pleurota",
+      "commonName": "Red-fruited Pixie Cup",
+      "scientificName": "Cladonia pleurota",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/324001000/medium.jpeg",
+      "distinction": "Unlike British Soldier lichen with its bright red caps on straight stalks, Red-fruited Pixie Cup has an actual cup or goblet shape with red fruiting bodies around the rim."
+    },
+    {
+      "slug": "cladonia-furcata",
+      "commonName": "many-forked cladonia",
+      "scientificName": "Cladonia furcata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/567852370/medium.jpg",
+      "distinction": "Many-forked cladonia branches more frequently and regularly than most of its Cladonia relatives—while British soldiers have simple stalks topped with red caps, and reindeer lichens have more irregular branching, many-forked cladonia creates dense networks of repeated Y-shaped forks."
+    },
+    {
+      "slug": "cladonia-uncialis",
+      "commonName": "Thorn Lichen",
+      "scientificName": "Cladonia uncialis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72747522/medium.jpg",
+      "distinction": "Unlike pixie cup lichens that form neat goblet shapes, Thorn Lichen branches end in sharp points."
+    },
+    {
+      "slug": "cladonia-subtenuis",
+      "commonName": "Dixie Reindeer Lichen",
+      "scientificName": "Cladonia subtenuis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110144310/medium.jpg",
+      "distinction": "Dixie Reindeer Lichen is distinguished from other Cladonia species by its consistently small size and extremely fine, dense branching pattern."
+    },
+    {
+      "slug": "cladonia-macilenta",
+      "commonName": "Lipstick Powderhorn",
+      "scientificName": "Cladonia macilenta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/308268644/medium.jpg",
+      "distinction": "Unlike its cousin the British Soldier Lichen which has bright red caps on shorter, more robust stalks, Lipstick Powderhorn has taller, more slender trumpet-shaped stalks."
+    },
+    {
+      "slug": "cladonia-fimbriata",
+      "commonName": "Trumpet Lichen",
+      "scientificName": "Cladonia fimbriata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/433112906/medium.jpg",
+      "distinction": "Among its Cladonia relatives, trumpet lichen's fringed cup edges help distinguish it from the smoother Pebbled Pixie Cup and the bright red-capped British Soldier lichen."
+    },
+    {
+      "slug": "cladonia-incrassata",
+      "commonName": "Powder-foot British Soldiers",
+      "scientificName": "Cladonia incrassata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/353753983/medium.jpeg",
+      "distinction": "Powder-foot British Soldiers differs from regular British Soldier lichen by its distinctive white powdery base coating on the stalks."
+    },
+    {
+      "slug": "cladonia-verticillata",
+      "commonName": "Ladder Lichen",
+      "scientificName": "Cladonia verticillata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/319062449/medium.jpg",
+      "distinction": "Unlike the bright red caps of British Soldier Lichen or the dense, spongy masses of Reindeer Lichens, Ladder Lichen has a more delicate, architectural appearance."
+    },
+    {
+      "slug": "cladonia-ochrochlora",
+      "commonName": "Smooth-footed Powderhorn",
+      "scientificName": "Cladonia ochrochlora",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/1662782/medium.JPG",
+      "distinction": "Among the powderhorn group of Cladonia lichens, Smooth-footed stands out for its clean, uncoated stems and preference for very rotten wood."
+    },
+    {
+      "slug": "cladonia-submitis",
+      "commonName": "Dune Reindeer Lichen",
+      "scientificName": "Cladonia submitis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/16315623/medium.jpg",
+      "distinction": "Compared to its close relative Gray Reindeer Lichen, Dune Reindeer Lichen is much smaller and more delicate, forming low cushions rather than tall, prominent clumps."
+    },
+    {
+      "slug": "cladonia-chlorophaea",
+      "commonName": "Mealy Pixie Cup",
+      "scientificName": "Cladonia chlorophaea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/474041062/medium.jpeg",
+      "distinction": "Unlike the smooth, waxy Pebbled Pixie Cup or the bright red-capped British Soldier lichen, Mealy Pixie Cup is distinguished by its powdery, dusty coating and consistently pale coloration."
+    },
+    {
+      "slug": "cladonia-caespiticia",
+      "commonName": "Stubby-stalked Cladonia",
+      "scientificName": "Cladonia caespiticia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4908999/medium.jpg",
+      "distinction": "Unlike the tall, elegant cups of Trumpet Lichen or the branching antler-like forms of reindeer lichens, Stubby-stalked Cladonia keeps a low profile with its characteristic short stalks."
+    },
+    {
+      "slug": "cladonia-parasitica",
+      "commonName": "Fence-rail Cladonia",
+      "scientificName": "Cladonia parasitica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/268496939/medium.jpeg",
+      "distinction": "Unlike cup-forming cladonias such as pixie cups or powderhorns, fence-rail cladonia lacks the distinctive cup or funnel shapes at branch tips."
+    },
+    {
+      "slug": "cladonia-gracilis",
+      "commonName": "Smooth Horn Lichen",
+      "scientificName": "Cladonia gracilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/294232650/medium.jpeg",
+      "distinction": "Unlike the branched antler-like structures of reindeer lichens or the cup-shaped forms of pixie cup lichens, Smooth Horn Lichen produces simple, unbranched tubes."
+    },
+    {
+      "slug": "cladonia-floerkeana",
+      "commonName": "Gritty British soldiers lichen",
+      "scientificName": "Cladonia floerkeana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48847521/medium.jpeg",
+      "distinction": "Gritty British soldiers differs from regular British soldier lichen by its distinctly rough, gritty stalk texture and lack of powdery soredia."
+    },
+    {
+      "slug": "cladonia-amaurocraea",
+      "commonName": "Quill Lichen",
+      "scientificName": "Cladonia amaurocraea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/174018345/medium.jpg",
+      "distinction": "Unlike the wider cups of Pebbled Pixie Cup or the branched trumpets of Trumpet Lichen, Quill Lichen produces distinctively narrow, unbranched tubes."
+    },
+    {
+      "slug": "cladonia-apodocarpa",
+      "commonName": "Stalkless Cladonia",
+      "scientificName": "Cladonia apodocarpa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/66073826/medium.jpg",
+      "distinction": "Unlike the British Soldier lichens with their bright red caps, or the Pebbled Pixie Cups with their eventual tall stalks, Stalkless Cladonia stays perpetually low and cup-shaped."
+    },
+    {
+      "slug": "cladonia-strepsilis",
+      "commonName": "Olive Cladonia",
+      "scientificName": "Cladonia strepsilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/355780151/medium.jpg",
+      "distinction": "Among the many Cladonia species in New England, Olive Cladonia stands out for its distinctive olive-green coloration - most other cup lichens are gray-green (like Mealy Pixie Cup) or have bright red tips (like British Soldier Lichen)."
+    },
+    {
+      "slug": "cladonia-scabriuscula",
+      "commonName": "Mealy Forked Cladonia",
+      "scientificName": "Cladonia scabriuscula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/315944982/medium.jpeg",
+      "distinction": "Among its Cladonia relatives, Mealy Forked Cladonia stands out for its powdery coating - most other forked species like Many-forked Cladonia have smooth surfaces."
+    },
+    {
+      "slug": "cladonia-rei",
+      "commonName": "Wand Lichen",
+      "scientificName": "Cladonia rei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/321730578/medium.jpeg",
+      "distinction": "Unlike British soldier lichen with its bright red caps or the branching patterns of reindeer lichens, wand lichen maintains simple, unbranched points."
+    },
+    {
+      "slug": "cladonia-stygia",
+      "commonName": "Black-footed Reindeer Lichen",
+      "scientificName": "Cladonia stygia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/373403517/medium.jpeg",
+      "distinction": "Among the reindeer lichens, Black-footed stands out with its dark base coloration - Gray Reindeer Lichen is uniformly pale, while Star-tipped Reindeer Lichen has distinctive star-shaped branch tips."
+    },
+    {
+      "slug": "cladonia-cenotea",
+      "commonName": "Powdered Funnel Lichen",
+      "scientificName": "Cladonia cenotea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/317147880/medium.jpeg",
+      "distinction": "Unlike the bright red caps of British Soldier Lichen or the branching antler-like form of reindeer lichens, Powdered Funnel Lichen has simple, unbranched cups with a distinctive powdery coating."
+    },
+    {
+      "slug": "cladonia-multiformis",
+      "commonName": "Sieve Lichen",
+      "scientificName": "Cladonia multiformis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340554/medium.jpg",
+      "distinction": "Unlike the solid-walled Pebbled Pixie Cup or Mealy Pixie Cup, Sieve Lichen's perforated walls are unmistakable once you know what to look for."
+    },
+    {
+      "slug": "cladonia-bellidiflora",
+      "commonName": "Toy Soldiers",
+      "scientificName": "Cladonia bellidiflora",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/276667118/medium.jpeg",
+      "distinction": "Unlike the bright red caps of British Soldiers or the branching antler-like growth of Reindeer Lichens, Toy Soldiers maintains the simple cup form throughout its life cycle."
+    },
+    {
+      "slug": "cladonia-turgida",
+      "commonName": "Crazy Scale Lichen",
+      "scientificName": "Cladonia turgida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322873257/medium.jpeg",
+      "distinction": "Unlike the neat cup-forming pixie cups or the branching reindeer lichens in its genus, Crazy Scale Lichen stays low and scaly throughout its life."
+    },
+    {
+      "slug": "cladonia-digitata",
+      "commonName": "Finger Cup Lichen",
+      "scientificName": "Cladonia digitata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/190429785/medium.jpeg",
+      "distinction": "Unlike the unbranched cups of pebbled pixie cup or the red-capped British soldier lichen, finger cup lichen always shows distinctive branching projections from its cups."
+    },
+    {
+      "slug": "cladonia-labradorica",
+      "commonName": "Labrador Prostrate Cladonia",
+      "scientificName": "Cladonia labradorica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41693749/medium.jpeg",
+      "distinction": "Unlike the familiar gray reindeer lichen which grows in tall, branching cushions, Labrador Prostrate Cladonia stays flat against the ground."
+    },
+    {
+      "slug": "cladonia-ramulosa",
+      "commonName": "Branched Pixie-cup Lichen",
+      "scientificName": "Cladonia ramulosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/184299746/medium.jpg",
+      "distinction": "Unlike the common Pebbled Pixie Cup which has simple unbranched cups, Branched Pixie-cup develops complex networks of forked branches from its cups."
+    },
+    {
+      "slug": "cladonia-sulphurina",
+      "commonName": "Greater Sulphur-cup Lichen",
+      "scientificName": "Cladonia sulphurina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/481355241/medium.jpeg",
+      "distinction": "Among its Cladonia relatives, Greater Sulphur-cup stands out for its intense yellow coloring - much brighter than the pale yellows of Common Powderhorn or the reds of British Soldier Lichen."
+    },
+    {
+      "slug": "cladonia-rappii",
+      "commonName": "Slender Ladder Lichen",
+      "scientificName": "Cladonia rappii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8313077/medium.jpeg",
+      "distinction": "Among the ladder-forming Cladonias, Slender Ladder Lichen is distinguished by its particularly thin stalks and compact size."
+    },
+    {
+      "slug": "cladonia-crispata",
+      "commonName": "Organ-pipe Lichen",
+      "scientificName": "Cladonia crispata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/462506041/medium.jpg",
+      "distinction": "Among its Cladonia relatives, Organ-pipe Lichen stands out for its dramatically flared cup openings - while Trumpet Lichen and various powderhorns have tubes, none have the distinctive organ-pipe flare."
+    },
+    {
+      "slug": "cladonia-cervicornis",
+      "commonName": "Browned Pixie-cup Lichen",
+      "scientificName": "Cladonia cervicornis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/105525517/medium.jpeg",
+      "distinction": "Among the many Cladonia species in New England, Browned Pixie-cup stands out for its brownish cup coloration - most of its relatives like Pebbled Pixie Cup or Mealy Pixie Cup have gray or whitish cups."
+    },
+    {
+      "slug": "cladonia-subulata",
+      "commonName": "Antlered Powderhorn",
+      "scientificName": "Cladonia subulata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/452573008/medium.jpg",
+      "distinction": "Unlike the bright red caps of British Soldier Lichen or the obvious cups of Pebbled Pixie Cup, Antlered Powderhorn focuses its energy on intricate branching rather than showy reproductive structures."
+    },
+    {
+      "slug": "cladonia-transcendens",
+      "commonName": "Cladonia transcendens",
+      "scientificName": "Cladonia transcendens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/255852090/medium.jpeg",
+      "distinction": "Unlike the common Pebbled Pixie Cup which forms simple, single cups, graduated cup lichen creates distinctive tiered structures."
+    },
+    {
+      "slug": "cladonia-peziziformis",
+      "commonName": "turban cup lichen",
+      "scientificName": "Cladonia peziziformis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/145638305/medium.jpg",
+      "distinction": "Unlike the bright red caps of British Soldier lichen or the branching antler-like forms of reindeer lichens, turban cup lichen maintains a simple cup-on-stalk structure."
+    },
+    {
+      "slug": "cladonia-botrytes",
+      "commonName": "Wooden Soldiers Lichen",
+      "scientificName": "Cladonia botrytes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/306635385/medium.jpeg",
+      "distinction": "Unlike British Soldier lichen which has bright red caps and grows on various surfaces, Wooden Soldiers lacks colorful tops and sticks strictly to decaying wood."
+    },
+    {
+      "slug": "cladonia-didyma",
+      "commonName": "Southern Soldiers",
+      "scientificName": "Cladonia didyma",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/30850776/medium.jpg",
+      "distinction": "Unlike the more common British Soldier lichen which has distinctly cup-shaped structures before developing red caps, Southern Soldiers tends to branch more directly into its red-topped forms."
+    },
+    {
+      "slug": "cladonia-macrophylla",
+      "commonName": "Fig-leaved Pixie Lichen",
+      "scientificName": "Cladonia macrophylla",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60250068/medium.jpg",
+      "distinction": "Fig-leaved Pixie Lichen stands out from its Cladonia relatives by having proportionally larger, more distinctly leaf-shaped basal scales compared to species like British Soldier Lichen or Common Powderhorn."
+    },
+    {
+      "slug": "cladonia-oricola",
+      "commonName": "Cladonia oricola",
+      "scientificName": "Cladonia oricola",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101539953/medium.jpeg",
+      "distinction": "Unlike the common British Soldier lichen with its bright red caps, or the branching reindeer lichens, this species maintains the classic small cup shape but in a much more diminutive package."
+    },
+    {
+      "slug": "cladonia-pocillum",
+      "commonName": "Rosette Pixie-cup Lichen",
+      "scientificName": "Cladonia pocillum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/16215315/medium.jpg",
+      "distinction": "Among its Cladonia relatives, Rosette Pixie-cup stands out for its neat rosette clustering pattern, unlike the more randomly scattered cups of Pebbled Pixie Cup or the branching, antler-like forms of reindeer lichens."
+    },
+    {
+      "slug": "cladonia-terrae-novae",
+      "commonName": "Reindeer Lichen",
+      "scientificName": "Cladonia terrae-novae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1445976/medium.jpeg",
+      "distinction": "Reindeer Lichen differs from its close relative Gray Reindeer Lichen by its denser, more cushion-like growth form and tendency to branch in groups of 3-4 rather than mainly in pairs."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cladonia_pyxidata",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/123894"
+}

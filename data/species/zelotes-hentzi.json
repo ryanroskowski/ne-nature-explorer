@@ -1,0 +1,122 @@
+{
+  "slug": "zelotes-hentzi",
+  "taxonId": 153629,
+  "group": "arachnids",
+  "commonName": "Zelotes hentzi",
+  "scientificName": "Zelotes hentzi",
+  "family": "Gnaphosidae",
+  "familyCommonName": "Stealthy Ground Spiders",
+  "genus": "Zelotes",
+  "genusCommonName": "Zelotes",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Stealthy Ground Spiders",
+      "rank": "family",
+      "slug": "explore/stealthy-ground-spiders"
+    },
+    {
+      "label": "Zelotes",
+      "rank": "genus",
+      "slug": "explore/zelotes"
+    },
+    {
+      "label": "Zelotes hentzi",
+      "rank": "species",
+      "slug": "species/zelotes-hentzi"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 182910524,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182910524/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182910524/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/108617559"
+    },
+    {
+      "id": 20747920,
+      "mediumUrl": "https://static.inaturalist.org/photos/20747920/medium.jpeg",
+      "largeUrl": "https://static.inaturalist.org/photos/20747920/large.jpeg",
+      "attribution": "(c) cheins1, all rights reserved, uploaded by cheins1",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/15362900"
+    }
+  ],
+  "nameStory": "This spider is named after Nicholas Marcellus Hentz, a pioneering 19th-century arachnologist who described many North American spider species. The genus name 'Zelotes' comes from Greek meaning 'zealous' or 'eager,' perhaps referring to these spiders' active hunting behavior rather than waiting in webs for prey.",
+  "description": "Zelotes hentzi is a small, dark ground spider that hunts actively rather than building webs to catch prey. These compact spiders typically have a sleek, somewhat flattened body that's well-suited for squeezing under rocks and bark. They're generally dark brown to nearly black in color, with a somewhat shiny appearance. Like other ground spiders, they're relatively small, usually measuring less than half an inch in total length.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Compact and somewhat flattened body that feels firm to the touch, built for squeezing into tight spaces under rocks and logs",
+      "isPrimary": true
+    },
+    {
+      "label": "Markings",
+      "description": "Dark brown to nearly black coloration with a subtle shiny or slightly iridescent sheen that catches light",
+      "isPrimary": false
+    },
+    {
+      "label": "Web",
+      "description": "No web for catching prey - instead creates small silk retreats under rocks or bark that feel like tiny silk tubes",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Small spider, typically less than half an inch long including legs, about the size of a pea",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Active nocturnal hunter that scurries quickly when disturbed, often found pressed flat against surfaces",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for Zelotes hentzi in dry, rocky areas with loose stones, fallen logs, and leaf litter where they can easily hide during the day. They prefer well-drained soils and are often found under flat rocks that have been warmed by the sun. These spiders favor areas with some vegetation nearby but aren't typically found in dense, moist forests.",
+  "seasonality": {
+    "spring": "Adults become more active as temperatures warm, emerging from winter retreats under rocks and beginning to hunt more frequently.",
+    "summer": "Peak activity period when adults are most likely to be encountered hunting at night or found under stones during the day.",
+    "fall": "Mating season occurs, and spiders may be seen more often as males search for females before creating winter shelters.",
+    "winter": "Inactive, sheltering in silk-lined retreats deep under rocks, logs, or in soil crevices until spring warmth returns."
+  },
+  "funFact": "These tiny spiders are like miniature vampires - they inject digestive enzymes into their prey and then suck out the liquefied contents, leaving behind a perfectly intact but completely empty insect shell!",
+  "confusionNotes": "Could be confused with other small, dark ground spiders in the same family, but the combination of the sleek, flattened body shape and shiny dark coloration helps distinguish Zelotes species from their relatives.",
+  "contextualKnowledge": "Despite being called 'ground spiders,' these arachnids are excellent climbers and are often found on vertical surfaces like tree bark and rock faces, not just on the ground.",
+  "compareHints": "Zelotes hentzi is very similar to its relative Zelotes fratris and other Zelotes species, but exact identification often requires examining microscopic features of their reproductive structures. In the field, habitat preferences and geographic distribution can provide clues, but many Zelotes species look nearly identical to the casual observer.",
+  "relatedSpecies": [
+    {
+      "slug": "zelotes-fratris",
+      "commonName": "Zelotes fratris",
+      "scientificName": "Zelotes fratris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/468338731/medium.jpeg",
+      "distinction": "Zelotes fratris is extremely similar to its relative Zelotes hentzi and can be nearly impossible to distinguish without microscopic examination of reproductive structures."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zelotes_hentzi",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/153629"
+}

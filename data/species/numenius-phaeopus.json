@@ -1,0 +1,146 @@
+{
+  "slug": "numenius-phaeopus",
+  "taxonId": 3901,
+  "group": "birds",
+  "commonName": "Eurasian Whimbrel",
+  "scientificName": "Numenius phaeopus",
+  "family": "Scolopacidae",
+  "familyCommonName": "Sandpipers and Allies",
+  "genus": "Numenius",
+  "genusCommonName": "Curlews",
+  "order": "Charadriiformes",
+  "orderCommonName": "Shorebirds and Allies",
+  "breadcrumb": [
+    {
+      "label": "Birds",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Chordates",
+      "rank": "phylum",
+      "slug": "explore/chordates"
+    },
+    {
+      "label": "Birds",
+      "rank": "class",
+      "slug": "explore/birds"
+    },
+    {
+      "label": "Shorebirds and Allies",
+      "rank": "order",
+      "slug": "explore/shorebirds-and-allies"
+    },
+    {
+      "label": "Sandpipers and Allies",
+      "rank": "family",
+      "slug": "explore/sandpipers-and-allies"
+    },
+    {
+      "label": "Curlews",
+      "rank": "genus",
+      "slug": "explore/curlews"
+    },
+    {
+      "label": "Eurasian Whimbrel",
+      "rank": "species",
+      "slug": "species/numenius-phaeopus"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 588065881,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/588065881/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/588065881/large.jpg",
+      "attribution": "(c) Pierre Dalous, some rights reserved (CC BY-SA)",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/390100"
+    },
+    {
+      "id": 110849392,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110849392/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110849392/large.jpg",
+      "attribution": "(c) Ravisara Jayamanna, some rights reserved (CC BY-NC), uploaded by Ravisara Jayamanna",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/390103"
+    },
+    {
+      "id": 559583901,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/559583901/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/559583901/large.jpg",
+      "attribution": "(c) andfas, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/390104"
+    },
+    {
+      "id": 156761264,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156761264/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156761264/large.jpg",
+      "attribution": "(c) Pavel Shukov, some rights reserved (CC BY-NC), uploaded by Pavel Shukov",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/390102"
+    },
+    {
+      "id": 11454582,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11454582/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11454582/large.jpeg",
+      "attribution": "(c) garyallport, some rights reserved (CC BY-NC), uploaded by garyallport",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/390101"
+    }
+  ],
+  "nameStory": "The Whimbrel gets its name from its distinctive call, which sounds like a whistled 'whim-whim-whim' that carries across coastal mudflats and marshes. This onomatopoeia (a word that sounds like what it describes) has been used by birdwatchers for centuries to identify this elegant shorebird by ear. The name 'Eurasian' distinguishes it from its close cousin, the Hudsonian Whimbrel, which breeds in North America.",
+  "description": "The Eurasian Whimbrel is a large, graceful shorebird about the size of a crow, with long legs perfect for wading through shallow water. Its most striking feature is a dramatically curved bill that sweeps downward like a crescent moon, designed for probing deep into sand and mud for hidden prey. The bird's plumage is beautifully mottled in browns, buffs, and whites, creating excellent camouflage against sandy beaches and mudflats. With only one recorded sighting in New England, this is truly a rare treat for local birdwatchers.",
+  "idTips": [
+    {
+      "label": "Curved Bill",
+      "description": "The long, distinctly downward-curved bill is unmistakable - about 3-4 inches long and dark-tipped, looking like a delicate surgical instrument designed for precise probing",
+      "isPrimary": true
+    },
+    {
+      "label": "Head Pattern",
+      "description": "Look for bold dark stripes running through the eye and across the crown, creating a distinctive 'capped' appearance that stands out even at a distance",
+      "isPrimary": false
+    },
+    {
+      "label": "Call Notes",
+      "description": "Listen for the characteristic rapid 'whim-whim-whim-whim' call - a liquid, musical whistle that sounds almost like someone calling for attention",
+      "isPrimary": false
+    },
+    {
+      "label": "Flight Pattern",
+      "description": "In flight, shows a distinctive white rump patch and calls frequently, with steady wingbeats and legs extending slightly beyond the tail",
+      "isPrimary": false
+    },
+    {
+      "label": "Feeding Behavior",
+      "description": "Uses that curved bill like tweezers, methodically probing soft mud and sand with deliberate, measured steps - quite different from the frantic picking of smaller sandpipers",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "In New England, you'd most likely spot this rarity along coastal mudflats, salt marshes, and tidal pools where the retreating tide exposes rich feeding grounds. They prefer areas with soft substrate where their specialized bills can easily probe for marine worms, crabs, and mollusks. Occasionally they might venture to large freshwater marshes or flooded fields during migration.",
+  "seasonality": {
+    "spring": "Peak migration time in May when birds might stop briefly while heading to Arctic breeding grounds. Watch for birds actively feeding and calling along the coast.",
+    "summer": "Extremely rare, as most birds are on northern breeding grounds. Any summer sighting would be exceptional and worth reporting to local birding groups.",
+    "fall": "Best chance for sightings from August through September during southward migration. Birds may linger longer at productive feeding sites during this season.",
+    "winter": "Virtually absent from New England, having continued south to warmer coastal areas of the southern United States and beyond."
+  },
+  "funFact": "Eurasian Whimbrels are incredible long-distance travelers that can fly non-stop for over 2,000 miles during migration, using their bills not just for feeding but as sensitive probing instruments that can detect the slightest vibrations of prey moving beneath the sand.",
+  "confusionNotes": "Most likely confused with the much more common Hudsonian Whimbrel, but Eurasians typically show warmer, more rufous (reddish-brown) tones in their plumage and have slightly different head stripe patterns. Remember: if you think you see a Whimbrel in New England, it's almost certainly the Hudsonian species unless proven otherwise!",
+  "contextualKnowledge": "Until recently, many field guides treated Eurasian and Hudsonian Whimbrels as the same species, so older birders might refer to both simply as 'Whimbrel.' The split into separate species means that Eurasian Whimbrel sightings in New England are now considered significant rarities worth documenting with photos and detailed notes.",
+  "compareHints": "Compared to its close relative the Hudsonian Whimbrel, the Eurasian shows warmer brown and rufous tones rather than the grayer appearance of the Hudsonian. The head stripes are often more distinct in Eurasian birds, and they tend to be slightly smaller overall. However, these differences can be subtle and require experience to distinguish reliably in the field.",
+  "relatedSpecies": [
+    {
+      "slug": "numenius-hudsonicus",
+      "commonName": "Hudsonian Whimbrel",
+      "scientificName": "Numenius hudsonicus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181895941/medium.jpg",
+      "distinction": "Compared to its close relative the Eurasian Whimbrel, the Hudsonian Whimbrel has a slightly warmer, more buffy tone to its plumage and subtly different head stripe patterns."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Whimbrel",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3901"
+}

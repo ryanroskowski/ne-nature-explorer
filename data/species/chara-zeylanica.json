@@ -1,0 +1,143 @@
+{
+  "slug": "chara-zeylanica",
+  "taxonId": 470731,
+  "group": "plants",
+  "commonName": "Chara zeylanica",
+  "scientificName": "Chara zeylanica",
+  "family": "Characeae",
+  "familyCommonName": "Stoneworts",
+  "genus": "Chara",
+  "genusCommonName": "muskgrass",
+  "order": "Charales",
+  "orderCommonName": "Charales",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Charophyceae",
+      "rank": "class",
+      "slug": "explore/charophyceae"
+    },
+    {
+      "label": "Charales",
+      "rank": "order",
+      "slug": "explore/charales"
+    },
+    {
+      "label": "Stoneworts",
+      "rank": "family",
+      "slug": "explore/stoneworts"
+    },
+    {
+      "label": "muskgrass",
+      "rank": "genus",
+      "slug": "explore/muskgrass"
+    },
+    {
+      "label": "Chara zeylanica",
+      "rank": "species",
+      "slug": "species/chara-zeylanica"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 2202782,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2202782/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2202782/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC), uploaded by Karolina Fucikova",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/47073100"
+    },
+    {
+      "id": 5433940,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5433940/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5433940/large.jpg",
+      "attribution": "(c) andyeli, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/4497092"
+    }
+  ],
+  "nameStory": "Chara zeylanica gets its scientific name from the island of Ceylon (now Sri Lanka), where it was first scientifically described. Like other members of the muskgrass family, it can produce a distinctive musky, skunky smell when crushed or disturbed. This earthy odor comes from sulfur compounds the plant produces, making it unmistakable once you've experienced it.",
+  "description": "Chara zeylanica is an aquatic plant that looks more like a green underwater Christmas tree than a typical plant. It grows completely submerged in freshwater, forming bushy clusters of segmented, branching stems that can reach 12-18 inches tall. Despite being called a stonewort, it's not actually related to true plants with flowers - it's a type of green algae that's evolved to look remarkably plant-like. The whole structure feels rough and gritty to the touch due to calcium carbonate deposits on its surface.",
+  "idTips": [
+    {
+      "label": "Musky odor",
+      "description": "When pulled from water or crushed, produces a strong skunky or garlicky smell that's unmistakable and can be detected from several feet away",
+      "isPrimary": true
+    },
+    {
+      "label": "Gritty texture",
+      "description": "Stems and branches feel rough and sandy between your fingers due to lime deposits, quite different from the smooth feel of most aquatic plants",
+      "isPrimary": false
+    },
+    {
+      "label": "Whorled branches",
+      "description": "Side branches emerge in circular arrangements (whorls) around the main stem, typically 6-8 branches per whorl, creating a layered Christmas tree effect",
+      "isPrimary": false
+    },
+    {
+      "label": "Segmented stems",
+      "description": "Main stems are clearly divided into sections with visible joints, like bamboo but much smaller and more delicate",
+      "isPrimary": false
+    },
+    {
+      "label": "Brittle when dry",
+      "description": "Fresh specimens are flexible underwater but become extremely brittle and crumble easily when dried out",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in shallow, clear freshwater lakes, ponds, and slow-moving streams throughout New England, typically in water 1-6 feet deep. Prefers hard water with high mineral content and often grows in areas with sandy or rocky bottoms. Commonly found alongside other submerged aquatics like pondweeds and water milfoils.",
+  "seasonality": {
+    "spring": "New growth begins as water warms, with fresh green shoots emerging from overwintered structures. Best time to observe the characteristic branching pattern as plants are actively growing.",
+    "summer": "Peak growing season with full, bushy growth visible underwater. Reproductive structures may be present as small, round capsules on the branches.",
+    "fall": "Plants begin to decline but are still identifiable. The musky odor becomes more pronounced as parts of the plant start to decompose.",
+    "winter": "Most above-ground portions die back, leaving only resting structures in the sediment that are difficult to identify without expertise."
+  },
+  "funFact": "Chara zeylanica is so good at extracting calcium from water that it essentially builds itself a limestone skeleton while alive, making some specimens heavy enough to sink like rocks when pulled from the water.",
+  "confusionNotes": "Most likely confused with other underwater plants like water milfoils or pondweeds, but the distinctive musky smell when disturbed is a dead giveaway - no other aquatic plant produces this skunky odor. Remember: \"If it stinks, it's a stonewort.\"",
+  "contextualKnowledge": "Despite being called stoneworts and looking like complex plants, these are actually advanced green algae that evolved plant-like structures independently. They're considered living fossils, with relatives dating back over 400 million years, making them much older than flowering plants.",
+  "compareHints": "Chara zeylanica is extremely rare in New England with only 2 recorded observations, making it much less common than fragile stonewort or common stonewort. It tends to have more robust, thicker stems than delicate stonewort and lacks the distinctive star-shaped reproductive structures of Braun's stonewort. The specific identification often requires microscopic examination of reproductive structures by experts.",
+  "relatedSpecies": [
+    {
+      "slug": "chara-globularis",
+      "commonName": "fragile stonewort",
+      "scientificName": "Chara globularis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/399478797/medium.jpeg",
+      "distinction": "Fragile stonewort is distinguished from its relatives like common stonewort and Braun's stonewort primarily through microscopic features of its reproductive structures, which have distinctive surface patterns."
+    },
+    {
+      "slug": "chara-vulgaris",
+      "commonName": "common stonewort",
+      "scientificName": "Chara vulgaris",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/490307317/medium.jpg",
+      "distinction": "Common stonewort can be distinguished from fragile stonewort by its distinctive spikes between the bark cells - fragile stonewort lacks these tiny projections and feels slightly less rough."
+    },
+    {
+      "slug": "chara-virgata",
+      "commonName": "delicate stonewort",
+      "scientificName": "Chara virgata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30418087/medium.jpg",
+      "distinction": "Compared to its relatives, delicate stonewort is the most fragile of the New England stoneworts - much more so than the sturdier common stonewort or even fragile stonewort."
+    },
+    {
+      "slug": "chara-braunii",
+      "commonName": "Braun's stonewort",
+      "scientificName": "Chara braunii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/111021860/medium.jpg",
+      "distinction": "Braun's stonewort differs from its relatives like common stonewort and fragile stonewort by lacking cortication - the bark-like ridged coating that makes other species feel textured along their main stems."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/470731"
+}

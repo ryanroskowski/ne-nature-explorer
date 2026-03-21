@@ -1,0 +1,205 @@
+{
+  "slug": "staurodesmus-lobatus",
+  "taxonId": 996353,
+  "group": "plants",
+  "commonName": "Staurodesmus lobatus",
+  "scientificName": "Staurodesmus lobatus",
+  "family": "Desmidiaceae",
+  "familyCommonName": "Desmidiaceae",
+  "genus": "Staurodesmus",
+  "genusCommonName": "Staurodesmus",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Desmidiaceae",
+      "rank": "family",
+      "slug": "explore/desmidiaceae"
+    },
+    {
+      "label": "Staurodesmus",
+      "rank": "genus",
+      "slug": "explore/staurodesmus"
+    },
+    {
+      "label": "Staurodesmus lobatus",
+      "rank": "species",
+      "slug": "species/staurodesmus-lobatus"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 226533989,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226533989/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226533989/large.jpg",
+      "attribution": "(c) MikeN, some rights reserved (CC BY-NC), uploaded by MikeN",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/99635300"
+    }
+  ],
+  "nameStory": "Staurodesmus lobatus doesn't have a widely-used common name, but its scientific name tells an interesting story. 'Staurodesmus' comes from Greek words meaning 'cross-chain,' describing how these microscopic algae can link together, while 'lobatus' means 'lobed,' referring to the distinctive rounded projections on each cell. Think of it as the 'lobed cross-chain alga' - a name that captures both its shape and social behavior!",
+  "description": "This is a microscopic single-celled green alga that you'll never see with the naked eye - it's only about 20-40 micrometers across (that's smaller than the thickness of a human hair!). Each cell looks like a tiny green jewel with distinctive lobed sides and often has small spines or projections. These little organisms live in freshwater and are part of a group called desmids, which are known for their beautiful, symmetrical shapes. You'd need a microscope to appreciate their intricate geometric beauty.",
+  "idTips": [
+    {
+      "label": "Cell shape",
+      "description": "Under a microscope, cells appear roughly oval or elliptical with distinctive rounded lobes on the sides, giving them a pinched or constricted appearance in the middle",
+      "isPrimary": true
+    },
+    {
+      "label": "Size",
+      "description": "Extremely tiny at 20-40 micrometers - completely invisible without magnification, much smaller than most pond organisms you might see",
+      "isPrimary": false
+    },
+    {
+      "label": "Color",
+      "description": "Bright green color due to chloroplasts (the parts that do photosynthesis), often with a slightly translucent appearance",
+      "isPrimary": false
+    },
+    {
+      "label": "Surface features",
+      "description": "Cell wall may have small bumps, granules, or short spines that give it texture under high magnification",
+      "isPrimary": false
+    },
+    {
+      "label": "Symmetry",
+      "description": "Perfectly symmetrical - if you drew a line down the middle, both halves would be mirror images",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Lives in clean, slightly acidic freshwater like ponds, slow streams, and bog pools throughout New England's forests and wetlands. Prefers soft water with low mineral content, often found in the same habitats as sphagnum moss and other acid-loving plants. Most commonly discovered in quiet, undisturbed water bodies away from pollution.",
+  "seasonality": {
+    "spring": "Population begins growing as water warms and daylight increases. This is when you're most likely to find them if you're sampling pond water with a microscope.",
+    "summer": "Peak growing season when populations are most abundant and active. Cells may be found dividing or forming chains more frequently during warm weather.",
+    "fall": "Still present but populations may begin to decline. Some cells may form resistant stages to survive winter conditions.",
+    "winter": "Populations drop to low levels, but some cells persist under ice. Activity slows dramatically in cold water."
+  },
+  "funFact": "Despite being invisible to our eyes, these tiny algae are master architects - each cell builds its own intricate glass house! The cell wall is made of cellulose embedded with silica (the same stuff in glass), creating microscopic works of art that have inspired jewelry designers and architects with their perfect geometric patterns.",
+  "confusionNotes": "Under the microscope, it can be confused with other desmid algae in the same family, but the distinctive lobed shape and specific proportions help distinguish it. The key is looking for that characteristic 'pinched waist' appearance with rounded lobes - other desmids might be more angular or have different projection patterns.",
+  "contextualKnowledge": "This organism represents a fascinating intersection of plant and protist - while it photosynthesizes like a plant, it's actually classified as a type of green alga. The extreme rarity of observations in New England (only one recorded!) doesn't mean it's actually rare - it just reflects how few people are looking at pond water under microscopes and identifying these tiny organisms.",
+  "compareHints": "Compared to its Staurodesmus relatives, S. lobatus has more pronounced rounded lobes rather than sharp spines or angular projections. While S. octocornis has eight distinct horn-like projections and S. triangularis is more triangular, S. lobatus maintains that characteristic smooth, lobed appearance. The 'lobatus' species tends to be less spiky and more smoothly curved than many of its spiny cousins in the genus.",
+  "relatedSpecies": [
+    {
+      "slug": "staurodesmus-extensus",
+      "commonName": "Staurodesmus extensus",
+      "scientificName": "Staurodesmus extensus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/81115416/medium.jpg",
+      "distinction": "Staurodesmus extensus differs from its relatives by having the longest spines in the genus - hence 'extensus' meaning extended."
+    },
+    {
+      "slug": "staurodesmus-octocornis",
+      "commonName": "Staurodesmus octocornis",
+      "scientificName": "Staurodesmus octocornis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/269785279/medium.jpg",
+      "distinction": "Unlike Staurodesmus triangularis which has three main projections, or S."
+    },
+    {
+      "slug": "staurodesmus-convergens",
+      "commonName": "Staurodesmus convergens",
+      "scientificName": "Staurodesmus convergens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/464041006/medium.jpg",
+      "distinction": "Staurodesmus convergens differs from its relatives by having relatively short spines and a specific cell outline shape - S."
+    },
+    {
+      "slug": "staurodesmus-megacanthus",
+      "commonName": "Staurodesmus megacanthus",
+      "scientificName": "Staurodesmus megacanthus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226976684/medium.jpg",
+      "distinction": "Among its Staurodesmus relatives, megacanthus stands out for having the longest, most prominent spines - much more dramatic than the shorter projections of species like S."
+    },
+    {
+      "slug": "staurodesmus-cuspidatus",
+      "commonName": "Staurodesmus cuspidatus",
+      "scientificName": "Staurodesmus cuspidatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/344889916/medium.jpg",
+      "distinction": "Staurodesmus cuspidatus has more prominent, sharper spines than most of its relatives in the genus."
+    },
+    {
+      "slug": "staurodesmus-dickiei",
+      "commonName": "Staurodesmus dickiei",
+      "scientificName": "Staurodesmus dickiei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41272990/medium.jpg",
+      "distinction": "Staurodesmus dickiei is distinguished from its relatives by its specific spine arrangement and overall cell proportions."
+    },
+    {
+      "slug": "staurodesmus-incus",
+      "commonName": "Staurodesmus incus",
+      "scientificName": "Staurodesmus incus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/204754563/medium.jpg",
+      "distinction": "Staurodesmus incus differs from its relatives by having a smoother outline and less pronounced spines compared to species like S."
+    },
+    {
+      "slug": "staurodesmus-brevispina",
+      "commonName": "Staurodesmus brevispina",
+      "scientificName": "Staurodesmus brevispina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2354555/medium.jpg",
+      "distinction": "Staurodesmus brevispina stands out from its relatives by having the shortest spines in the genus - while species like S."
+    },
+    {
+      "slug": "staurodesmus-validus",
+      "commonName": "Staurodesmus validus",
+      "scientificName": "Staurodesmus validus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2460296/medium.jpg",
+      "distinction": "Staurodesmus validus is distinguished from its relatives by its particularly robust cell walls and smooth margins without spines or projections."
+    },
+    {
+      "slug": "staurodesmus-triangularis",
+      "commonName": "Staurodesmus triangularis",
+      "scientificName": "Staurodesmus triangularis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/273956921/medium.jpg",
+      "distinction": "Compared to its relatives like Staurodesmus octocornis which has eight prominent corner projections, S."
+    },
+    {
+      "slug": "staurodesmus-glaber",
+      "commonName": "Staurodesmus glaber",
+      "scientificName": "Staurodesmus glaber",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41234178/medium.jpg",
+      "distinction": "Unlike its spiny relatives such as Staurodesmus megacanthus which bristles with prominent spines, S."
+    },
+    {
+      "slug": "staurodesmus-bulnheimii",
+      "commonName": "Staurodesmus bulnheimii",
+      "scientificName": "Staurodesmus bulnheimii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/138378349/medium.jpg",
+      "distinction": "Staurodesmus bulnheimii differs from its relatives by having shorter, more blunt projections compared to species like S."
+    },
+    {
+      "slug": "staurodesmus-longispinus",
+      "commonName": "Staurodesmus longispinus",
+      "scientificName": "Staurodesmus longispinus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61281700/medium.jpg",
+      "distinction": "Among its Staurodesmus relatives, longispinus stands out for having the longest spines relative to its body size - hence the name."
+    },
+    {
+      "slug": "staurodesmus-quiriferus",
+      "commonName": "Staurodesmus quiriferus",
+      "scientificName": "Staurodesmus quiriferus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/287098017/medium.jpg",
+      "distinction": "Staurodesmus quiriferus differs from its relatives by its particularly pronounced cross-shaped outline and the specific arrangement of its spines."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/996353"
+}

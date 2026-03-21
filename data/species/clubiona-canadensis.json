@@ -1,0 +1,157 @@
+{
+  "slug": "clubiona-canadensis",
+  "taxonId": 217228,
+  "group": "arachnids",
+  "commonName": "Canada Sac Spider",
+  "scientificName": "Clubiona canadensis",
+  "family": "Clubionidae",
+  "familyCommonName": "Sac Spiders",
+  "genus": "Clubiona",
+  "genusCommonName": "Leafcurling Sac Spiders",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Sac Spiders",
+      "rank": "family",
+      "slug": "explore/sac-spiders"
+    },
+    {
+      "label": "Leafcurling Sac Spiders",
+      "rank": "genus",
+      "slug": "explore/leafcurling-sac-spiders"
+    },
+    {
+      "label": "Canada Sac Spider",
+      "rank": "species",
+      "slug": "species/clubiona-canadensis"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 182745017,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182745017/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182745017/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC), uploaded by Tom Murray",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/21722800"
+    },
+    {
+      "id": 34383969,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34383969/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34383969/large.jpg",
+      "attribution": "(c) Léo-Guy de Repentigny, some rights reserved (CC BY-NC), uploaded by Léo-Guy de Repentigny",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/21722801"
+    }
+  ],
+  "nameStory": "The Canada Sac Spider gets its name from its northern range, extending well into Canada, and its habit of living in silken sacs rather than traditional webs. These spiders spin flat, papery retreats that look like tiny sleeping bags tucked under bark or in rolled leaves.",
+  "description": "The Canada Sac Spider is a medium-sized hunting spider that doesn't spin catching webs like many of its cousins. Instead, it actively hunts for prey at night and retreats to a silken sac during the day. These spiders have elongated bodies with relatively long legs and tend to be pale yellowish to light brown in color. They're part of a large family of sac spiders found throughout North America.",
+  "idTips": [
+    {
+      "label": "Web",
+      "description": "Creates flat, papery silk retreats rather than catching webs - these sacs feel thin and delicate, like tissue paper, tucked under loose bark or in curled leaves",
+      "isPrimary": true
+    },
+    {
+      "label": "Body Shape",
+      "description": "Elongated oval abdomen with a relatively narrow, cylindrical appearance - legs are proportionally long and slender for their body size",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Generally pale yellowish to light brown coloration with subtle darker markings - legs often slightly paler than the body",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Active nighttime hunter that moves with quick, darting motions when disturbed - retreats quickly to its silk sac when threatened",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Medium-sized spider with body length typically less than half an inch, but appears larger due to long legs",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in wooded areas throughout New England, particularly favoring deciduous and mixed forests with loose bark and leaf litter. They commonly hide their silk retreats under the peeling bark of dead or dying trees, in rolled leaves, or among fallen logs. These spiders prefer slightly moist environments but not overly wet areas.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, emerging from overwintering sites to hunt and mate. Look for fresh silk sacs appearing under bark.",
+    "summer": "Peak activity period when hunting behavior is most noticeable at night. Egg sacs are typically produced during mid to late summer.",
+    "fall": "Adults continue hunting into early fall before seeking protected overwintering sites. Young spiders may still be developing in their silk retreats.",
+    "winter": "Inactive, overwintering in protected locations like deep bark crevices or under fallen logs, often in a state of reduced activity."
+  },
+  "funFact": "Canada Sac Spiders are essentially eight-legged architects, regularly redecorating their silk retreats by adding new layers and occasionally moving to entirely new locations - some individuals have been observed maintaining up to three different retreat sites simultaneously!",
+  "confusionNotes": "Most easily confused with other sac spiders in the Clubiona genus, which share similar coloration and silk retreat behavior. The key is often habitat preference and subtle differences in leg proportions, though definitive identification may require expert examination of reproductive structures.",
+  "contextualKnowledge": "Despite being called the 'Canada' Sac Spider, this species is actually found throughout much of the northern United States as well as Canada. The name simply reflects where it was first scientifically described, not the limits of its range.",
+  "compareHints": "Compared to other Clubiona species in New England, the Canada Sac Spider tends to favor slightly drier woodland habitats than the Riparian Sac Spider, which prefers areas near water sources. It's generally similar in size to most of its relatives, making habitat preference one of the more reliable distinguishing features in the field.",
+  "relatedSpecies": [
+    {
+      "slug": "clubiona-spiralis",
+      "commonName": "Clubiona spiralis",
+      "scientificName": "Clubiona spiralis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/80656757/medium.jpg",
+      "distinction": "Clubiona spiralis is most similar to other Clubiona species like the Canada Sac Spider and Riparian Sac Spider, sharing the same general pale coloration and body proportions."
+    },
+    {
+      "slug": "clubiona-riparia",
+      "commonName": "Riparian Sac Spider",
+      "scientificName": "Clubiona riparia",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/46233352/medium.jpeg",
+      "distinction": "Unlike the Canada Sac Spider which prefers drier woodland habitats, the riparian sac spider sticks close to water sources."
+    },
+    {
+      "slug": "clubiona-obesa",
+      "commonName": "Clubiona obesa",
+      "scientificName": "Clubiona obesa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182749031/medium.jpeg",
+      "distinction": "Clubiona obesa stands out from its relatives like the Canada Sac Spider and Riparian Sac Spider by its notably thick, swollen abdomen - while other Clubiona species have more typical slender abdomens."
+    },
+    {
+      "slug": "clubiona-maritima",
+      "commonName": "Clubiona maritima",
+      "scientificName": "Clubiona maritima",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182748587/medium.jpg",
+      "distinction": "Compared to its inland relatives like the Canada sac spider or riparian sac spider, the maritime sac spider is distinguished primarily by its coastal habitat preference."
+    },
+    {
+      "slug": "clubiona-kastoni",
+      "commonName": "Kaston Sac Spider",
+      "scientificName": "Clubiona kastoni",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182745513/medium.jpeg",
+      "distinction": "Among its Clubiona relatives in New England, the Kaston Sac Spider is most similar to the Canada Sac Spider but tends to be slightly smaller and paler."
+    },
+    {
+      "slug": "clubiona-bishopi",
+      "commonName": "Clubiona bishopi",
+      "scientificName": "Clubiona bishopi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182744155/medium.jpeg",
+      "distinction": "Bishop's Sac Spider differs from its more common relatives like the Canada Sac Spider and Riparian Sac Spider primarily in its rarity and subtle coloration differences."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Clubiona_canadensis",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/217228"
+}

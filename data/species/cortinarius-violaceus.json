@@ -1,0 +1,994 @@
+{
+  "slug": "cortinarius-violaceus",
+  "taxonId": 124344,
+  "group": "fungi",
+  "commonName": "violet webcap",
+  "scientificName": "Cortinarius violaceus",
+  "family": "Cortinariaceae",
+  "familyCommonName": "Webcaps",
+  "genus": "Cortinarius",
+  "genusCommonName": "Webcaps",
+  "order": "Agaricales",
+  "orderCommonName": "Common Gilled Mushrooms and Allies",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Basidiomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/basidiomycete-fungi"
+    },
+    {
+      "label": "Mushrooms, Bracket Fungi, Puffballs, and Allies",
+      "rank": "class",
+      "slug": "explore/mushrooms-bracket-fungi-puffballs-and-allies"
+    },
+    {
+      "label": "Common Gilled Mushrooms and Allies",
+      "rank": "order",
+      "slug": "explore/common-gilled-mushrooms-and-allies"
+    },
+    {
+      "label": "Webcaps",
+      "rank": "family",
+      "slug": "explore/webcaps"
+    },
+    {
+      "label": "Webcaps",
+      "rank": "genus",
+      "slug": "explore/webcaps"
+    },
+    {
+      "label": "violet webcap",
+      "rank": "species",
+      "slug": "species/cortinarius-violaceus"
+    }
+  ],
+  "observationCount": 348,
+  "abundanceTier": "very-common",
+  "photos": [
+    {
+      "id": 13725813,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13725813/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13725813/large.jpg",
+      "attribution": "(c) tombigelow, some rights reserved (CC BY-NC), uploaded by tombigelow",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12434403"
+    },
+    {
+      "id": 6986315,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6986315/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6986315/large.jpg",
+      "attribution": "(c) Alex Abair, some rights reserved (CC BY), uploaded by Alex Abair",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/12434404"
+    },
+    {
+      "id": 29156501,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29156501/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29156501/large.jpeg",
+      "attribution": "(c) Davide Puddu, some rights reserved (CC BY), uploaded by Davide Puddu",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/12434402"
+    },
+    {
+      "id": 5215086,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5215086/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5215086/large.jpg",
+      "attribution": "(c) Michael Bailey, some rights reserved (CC BY-NC), uploaded by Michael Bailey",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12434405"
+    },
+    {
+      "id": 227604788,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227604788/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227604788/large.jpg",
+      "attribution": "(c) Elan Trybuch, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/133607029"
+    },
+    {
+      "id": 119988828,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119988828/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119988828/large.jpg",
+      "attribution": "(c) Federico Calledda, some rights reserved (CC BY-NC), uploaded by Federico Calledda",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12434400"
+    },
+    {
+      "id": 458755951,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/458755951/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/458755951/large.jpeg",
+      "attribution": "(c) laurajg, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/255935572"
+    },
+    {
+      "id": 227409742,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227409742/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227409742/large.jpeg",
+      "attribution": "no rights reserved",
+      "licenseCode": "cc0",
+      "observationUrl": "https://www.inaturalist.org/observations/133504281"
+    },
+    {
+      "id": 23939110,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23939110/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23939110/large.jpg",
+      "attribution": "(c) arethusa, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/15988681"
+    },
+    {
+      "id": 227604905,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227604905/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227604905/large.jpg",
+      "attribution": "(c) Elan Trybuch, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/133607029"
+    },
+    {
+      "id": 55147724,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55147724/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55147724/large.jpeg",
+      "attribution": "(c) Anna Henning, some rights reserved (CC BY-NC), uploaded by Anna Henning",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12434401"
+    },
+    {
+      "id": 5189170,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5189170/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5189170/large.jpg",
+      "attribution": "(c) Carita Bergman, some rights reserved (CC BY-NC-ND), uploaded by Carita Bergman",
+      "licenseCode": "cc-by-nc-nd",
+      "observationUrl": "https://www.inaturalist.org/observations/12434406"
+    },
+    {
+      "id": 234254362,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/234254362/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/234254362/large.jpeg",
+      "attribution": "(c) Amy Guala, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/137192512"
+    },
+    {
+      "id": 471649474,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/471649474/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/471649474/large.jpg",
+      "attribution": "(c) Christine Young, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/262621090"
+    },
+    {
+      "id": 471649453,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/471649453/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/471649453/large.jpg",
+      "attribution": "(c) Christine Young, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/262621090"
+    }
+  ],
+  "nameStory": "The violet webcap gets its name from its striking deep purple color that covers the entire mushroom from cap to stem. The 'webcap' part refers to the cobweb-like veil (called a cortina) that stretches between the cap edge and stem when young, which is a signature feature of all Cortinarius mushrooms.",
+  "description": "The violet webcap is a stunning deep purple mushroom that looks like it's been dipped in royal paint. These eye-catching fungi can grow quite large, with caps reaching up to 6 inches across and stems stretching 2-5 inches tall. The entire mushroom maintains its rich violet-purple color, making it one of the most distinctive and beautiful mushrooms you'll encounter in New England forests. Despite their royal appearance, they have a pleasant cedar-like fragrance.",
+  "idTips": [
+    {
+      "label": "Cap",
+      "description": "Deep violet-purple color throughout, up to 6 inches across, with a dry surface that feels slightly velvety to the touch",
+      "isPrimary": true
+    },
+    {
+      "label": "Gills",
+      "description": "Purple gills that become rusty brown as spores mature, attached to the stem and fairly well-spaced",
+      "isPrimary": false
+    },
+    {
+      "label": "Stem",
+      "description": "Thick, club-shaped stem that's the same deep purple as the cap, often with a slightly swollen base, feeling firm and solid",
+      "isPrimary": false
+    },
+    {
+      "label": "Spore Print",
+      "description": "Rusty brown spore print, which contrasts dramatically with the purple mushroom",
+      "isPrimary": false
+    },
+    {
+      "label": "Smell",
+      "description": "Distinctive pleasant cedar wood aroma that becomes more noticeable when the mushroom is cut or crushed",
+      "isPrimary": false
+    },
+    {
+      "label": "Cortina",
+      "description": "Young specimens show cobweb-like purple veil remnants connecting cap edge to stem - a key webcap family feature",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for violet webcaps in both coniferous and mixed forests throughout New England, where they form partnerships with tree roots. They seem to have flexible preferences, growing with both pine trees and deciduous species like oaks and maples. You'll typically find them fruiting from the soil in well-established forests with rich organic matter.",
+  "seasonality": {
+    "spring": "Rarely seen in spring as these mushrooms prefer the consistent moisture of late summer and fall seasons.",
+    "summer": "May begin appearing in late summer, especially after periods of warm, humid weather followed by gentle rains.",
+    "fall": "Peak season for violet webcaps, when they're most commonly spotted pushing up through fallen leaves and forest duff.",
+    "winter": "Completely absent, though old dried specimens may persist as darkened remnants on the forest floor."
+  },
+  "funFact": "This gorgeous purple mushroom was one of the very first fungi ever scientifically described - Carl Linnaeus himself named it in 1753, making it over 270 years old in the scientific record and a true founding member of mycology!",
+  "confusionNotes": "The all-over deep purple coloration makes this species quite distinctive, but some other purple Cortinarius species exist in the region. The key difference is that true violet webcaps maintain their intense purple color throughout the entire mushroom - if you see any significant brown, yellow, or other colors mixed in, you're likely looking at a different webcap species.",
+  "contextualKnowledge": "While sometimes listed as edible in older field guides, webcaps as a group include some dangerously toxic species that can cause kidney failure. The violet webcap's edibility status is uncertain, and its resemblance to other webcaps makes identification risky for novices.",
+  "compareHints": "Among New England's many webcap species, the violet webcap stands out for its uniform deep purple coloration throughout the entire fruiting body. Most other local webcaps like the viscid violet cort show mixed colors or have slimy caps, while species like the red-banded webcap have distinctive color bands rather than uniform coloring. The cedar-like smell also helps distinguish it from most of its relatives.",
+  "relatedSpecies": [
+    {
+      "slug": "cortinarius-iodes",
+      "commonName": "Viscid Violet Cort",
+      "scientificName": "Cortinarius iodes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/196480/medium.jpg",
+      "distinction": "Among New England's many webcaps, the Viscid Violet Cort stands out for its combination of small size, intensely slimy cap, and violet colors that develop yellow mottling."
+    },
+    {
+      "slug": "cortinarius-corrugatus",
+      "commonName": "wrinkled cortinarius",
+      "scientificName": "Cortinarius corrugatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/87032/medium.jpg",
+      "distinction": "Among the many New England webcaps, wrinkled cortinarius stands out for its corrugated cap texture - most relatives like violet webcap or red-banded webcap have smooth caps."
+    },
+    {
+      "slug": "cortinarius-semisanguineus",
+      "commonName": "Surprise Webcap",
+      "scientificName": "Cortinarius semisanguineus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/161151149/medium.jpeg",
+      "distinction": "Among New England's webcaps, the Surprise Webcap stands out for its dramatic red gills paired with the plain brown cap."
+    },
+    {
+      "slug": "cortinarius-armillatus",
+      "commonName": "red-banded webcap",
+      "scientificName": "Cortinarius armillatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/105998802/medium.jpg",
+      "distinction": "Unlike the violet webcap which is deep purple all over, or the deadly webcap which lacks distinctive stem bands, the red-banded webcap's colorful stem rings make it unique among New England webcaps."
+    },
+    {
+      "slug": "cortinarius-caperatus",
+      "commonName": "Wrinkled Cortinarius",
+      "scientificName": "Cortinarius caperatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/419846412/medium.jpg",
+      "distinction": "Unlike most other webcaps which have cobwebby veils when young, the Wrinkled Cortinarius has a proper membranous ring that persists."
+    },
+    {
+      "slug": "cortinarius-alboviolaceus",
+      "commonName": "Silvery-violet Cort",
+      "scientificName": "Cortinarius alboviolaceus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/139181778/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-bolaris",
+      "commonName": "dappled webcap",
+      "scientificName": "Cortinarius bolaris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/49533956/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-lewisii",
+      "commonName": "Cortinarius lewisii",
+      "scientificName": "Cortinarius lewisii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1161274/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-traganus",
+      "commonName": "gassy webcap",
+      "scientificName": "Cortinarius traganus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159185/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-evernius",
+      "commonName": "silky webcap",
+      "scientificName": "Cortinarius evernius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106383959/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-flexipes",
+      "commonName": "pine pelargonium webcap",
+      "scientificName": "Cortinarius flexipes",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/411037636/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-croceus",
+      "commonName": "saffron webcap",
+      "scientificName": "Cortinarius croceus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/156594613/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-mucosus",
+      "commonName": "orange webcap",
+      "scientificName": "Cortinarius mucosus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/27413722/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-harrisonii",
+      "commonName": "Cortinarius harrisonii",
+      "scientificName": "Cortinarius harrisonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/91968208/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-obliquus",
+      "commonName": "Cortinarius obliquus",
+      "scientificName": "Cortinarius obliquus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43928877/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-sanguineus",
+      "commonName": "bloodred webcap",
+      "scientificName": "Cortinarius sanguineus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154966463/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-collinitus",
+      "commonName": "blue-girdled webcap",
+      "scientificName": "Cortinarius collinitus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128948305/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-torvus",
+      "commonName": "stocking webcap",
+      "scientificName": "Cortinarius torvus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/103064816/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-distans",
+      "commonName": "Cortinarius distans",
+      "scientificName": "Cortinarius distans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/231340596/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-tinctorum",
+      "commonName": "Cortinarius tinctorum",
+      "scientificName": "Cortinarius tinctorum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101606873/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-cinnamomeus",
+      "commonName": "cinnamon webcap",
+      "scientificName": "Cortinarius cinnamomeus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/109442500/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-pholideus",
+      "commonName": "scaly webcap",
+      "scientificName": "Cortinarius pholideus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/242519245/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-rubellus",
+      "commonName": "deadly webcap",
+      "scientificName": "Cortinarius rubellus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106833656/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-angelesianus",
+      "commonName": "Cortinarius angelesianus",
+      "scientificName": "Cortinarius angelesianus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106383607/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-appalachiensis",
+      "commonName": "Cortinarius appalachiensis",
+      "scientificName": "Cortinarius appalachiensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329528372/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-sp-ny05",
+      "commonName": "Cortinarius sp. 'NY05'",
+      "scientificName": "Cortinarius sp. 'NY05'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/240930669/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-cruentiphyllus",
+      "commonName": "Cortinarius cruentiphyllus",
+      "scientificName": "Cortinarius cruentiphyllus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/233858553/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-acutus",
+      "commonName": "peaked webcap",
+      "scientificName": "Cortinarius acutus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101853157/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-quarciticus",
+      "commonName": "quartzy webcap",
+      "scientificName": "Cortinarius quarciticus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23972322/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-huronensis",
+      "commonName": "Cortinarius huronensis",
+      "scientificName": "Cortinarius huronensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48780968/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-mucifluus",
+      "commonName": "slimy webcap",
+      "scientificName": "Cortinarius mucifluus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48451666/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "cortinarius-iodeoides",
+      "commonName": "Cortinarius iodeoides",
+      "scientificName": "Cortinarius iodeoides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12425317/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-anomalus",
+      "commonName": "variable webcap",
+      "scientificName": "Cortinarius anomalus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101852213/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-hemitrichus",
+      "commonName": "frosty webcap",
+      "scientificName": "Cortinarius hemitrichus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11962928/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-ma03",
+      "commonName": "Cortinarius sp. 'MA03'",
+      "scientificName": "Cortinarius sp. 'MA03'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/441063787/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-que01",
+      "commonName": "Cortinarius sp. 'QUE01'",
+      "scientificName": "Cortinarius sp. 'QUE01'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/229021048/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-aureifolius",
+      "commonName": "Cortinarius aureifolius",
+      "scientificName": "Cortinarius aureifolius",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/55529205/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-malicorius",
+      "commonName": "saffron-colored webcap",
+      "scientificName": "Cortinarius malicorius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159022/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-camphoratus",
+      "commonName": "goatcheese webcap",
+      "scientificName": "Cortinarius camphoratus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109189486/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-perviolaceus",
+      "commonName": "Cortinarius perviolaceus",
+      "scientificName": "Cortinarius perviolaceus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48522550/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-in48",
+      "commonName": "Cortinarius sp. 'IN48'",
+      "scientificName": "Cortinarius sp. 'IN48'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/306345819/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-in49",
+      "commonName": "Cortinarius sp. 'IN49'",
+      "scientificName": "Cortinarius sp. 'IN49'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/340226687/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-trivialis",
+      "commonName": "girdled webcap",
+      "scientificName": "Cortinarius trivialis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/175404295/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-phoeniceus",
+      "commonName": "Cortinarius phoeniceus",
+      "scientificName": "Cortinarius phoeniceus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13081817/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-squamulosus",
+      "commonName": "Cortinarius squamulosus",
+      "scientificName": "Cortinarius squamulosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159405/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-ominosus",
+      "commonName": "Cortinarius ominosus",
+      "scientificName": "Cortinarius ominosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/249592380/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-simulatus",
+      "commonName": "Cortinarius simulatus",
+      "scientificName": "Cortinarius simulatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/565588126/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-absarokensis",
+      "commonName": "Cortinarius absarokensis",
+      "scientificName": "Cortinarius absarokensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/416106186/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-deceptivus",
+      "commonName": "Cortinarius deceptivus",
+      "scientificName": "Cortinarius deceptivus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61881060/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-quercophilus",
+      "commonName": "Cortinarius quercophilus",
+      "scientificName": "Cortinarius quercophilus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/155468945/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-odoritraganus",
+      "commonName": "Cortinarius odoritraganus",
+      "scientificName": "Cortinarius odoritraganus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/253952873/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-pseudophlegma",
+      "commonName": "Cortinarius pseudophlegma",
+      "scientificName": "Cortinarius pseudophlegma",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/326648430/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-vanduzerensis",
+      "commonName": "Cortinarius vanduzerensis",
+      "scientificName": "Cortinarius vanduzerensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/760426/medium.JPG",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-argenteopileatus",
+      "commonName": "Cortinarius argenteopileatus",
+      "scientificName": "Cortinarius argenteopileatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5672132/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-cinnabarinus",
+      "commonName": "cinnabar webcap",
+      "scientificName": "Cortinarius cinnabarinus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108971006/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-luteus",
+      "commonName": "Cortinarius luteus",
+      "scientificName": "Cortinarius luteus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159194/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-delibutus",
+      "commonName": "yellow webcap",
+      "scientificName": "Cortinarius delibutus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159945/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-subtortus",
+      "commonName": "incense webcap",
+      "scientificName": "Cortinarius subtortus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92603636/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-lilacinus",
+      "commonName": "Cortinarius lilacinus",
+      "scientificName": "Cortinarius lilacinus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/15295752/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-pulchrifolius",
+      "commonName": "Cortinarius pulchrifolius",
+      "scientificName": "Cortinarius pulchrifolius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14834326/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-armeniacus",
+      "commonName": "Cortinarius armeniacus",
+      "scientificName": "Cortinarius armeniacus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52778015/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-tubarius",
+      "commonName": "Cortinarius tubarius",
+      "scientificName": "Cortinarius tubarius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/96934012/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-hesleri",
+      "commonName": "Cortinarius hesleri",
+      "scientificName": "Cortinarius hesleri",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23993357/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-tortuosus",
+      "commonName": "Cortinarius tortuosus",
+      "scientificName": "Cortinarius tortuosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/232120147/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-caesioarmeniacus",
+      "commonName": "Cortinarius caesioarmeniacus",
+      "scientificName": "Cortinarius caesioarmeniacus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235904556/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-venetus",
+      "commonName": "Cortinarius venetus",
+      "scientificName": "Cortinarius venetus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109108563/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-brunneus",
+      "commonName": "Cortinarius brunneus",
+      "scientificName": "Cortinarius brunneus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50272237/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-alboluteus",
+      "commonName": "Cortinarius alboluteus",
+      "scientificName": "Cortinarius alboluteus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24283793/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-comptulus",
+      "commonName": "Cortinarius comptulus",
+      "scientificName": "Cortinarius comptulus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/442306019/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-umbrinolens",
+      "commonName": "Cortinarius umbrinolens",
+      "scientificName": "Cortinarius umbrinolens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/99685970/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-flabellus",
+      "commonName": "Pelargonium webcap",
+      "scientificName": "Cortinarius flabellus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177809932/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-inconspicuus",
+      "commonName": "Cortinarius inconspicuus",
+      "scientificName": "Cortinarius inconspicuus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/242229527/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-fragrantissimus",
+      "commonName": "Cortinarius fragrantissimus",
+      "scientificName": "Cortinarius fragrantissimus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48639870/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-olivaceoluteus",
+      "commonName": "Cortinarius olivaceoluteus",
+      "scientificName": "Cortinarius olivaceoluteus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48737554/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-distortus",
+      "commonName": "Distorted Webcap",
+      "scientificName": "Cortinarius distortus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/55589747/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-croceoconus",
+      "commonName": "Cortinarius croceoconus",
+      "scientificName": "Cortinarius croceoconus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154887722/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-clintonianus",
+      "commonName": "Cortinarius clintonianus",
+      "scientificName": "Cortinarius clintonianus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/159173288/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-compressus",
+      "commonName": "Cortinarius compressus",
+      "scientificName": "Cortinarius compressus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/166502862/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-mammillatus",
+      "commonName": "Cortinarius mammillatus",
+      "scientificName": "Cortinarius mammillatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156875237/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-veregregius",
+      "commonName": "Cortinarius veregregius",
+      "scientificName": "Cortinarius veregregius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173153484/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-pyrophyllus",
+      "commonName": "Cortinarius pyrophyllus",
+      "scientificName": "Cortinarius pyrophyllus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/165016061/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-subrimosus",
+      "commonName": "Cortinarius subrimosus",
+      "scientificName": "Cortinarius subrimosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/164404050/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-anocorium",
+      "commonName": "Cortinarius anocorium",
+      "scientificName": "Cortinarius anocorium",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/161531007/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-lindstroemii",
+      "commonName": "Cortinarius lindstroemii",
+      "scientificName": "Cortinarius lindstroemii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/236583219/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-aureovelatus",
+      "commonName": "Cortinarius aureovelatus",
+      "scientificName": "Cortinarius aureovelatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/240858248/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-squamivenetus",
+      "commonName": "Cortinarius squamivenetus",
+      "scientificName": "Cortinarius squamivenetus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/253911211/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-orasericeus",
+      "commonName": "Cortinarius orasericeus",
+      "scientificName": "Cortinarius orasericeus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156875123/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-flaureifolius",
+      "commonName": "Cortinarius flaureifolius",
+      "scientificName": "Cortinarius flaureifolius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/343888040/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-floridaensis",
+      "commonName": "Cortinarius floridaensis",
+      "scientificName": "Cortinarius floridaensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248313768/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-grandirubellus",
+      "commonName": "Cortinarius grandirubellus",
+      "scientificName": "Cortinarius grandirubellus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/253026079/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-rubeus",
+      "commonName": "Cortinarius rubeus",
+      "scientificName": "Cortinarius rubeus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/460322753/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-dryobalaustinus",
+      "commonName": "Cortinarius dryobalaustinus",
+      "scientificName": "Cortinarius dryobalaustinus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/105530529/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-fl10",
+      "commonName": "Cortinarius sp. 'FL10'",
+      "scientificName": "Cortinarius sp. 'FL10'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/457546039/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-fl15",
+      "commonName": "Cortinarius sp. 'FL15'",
+      "scientificName": "Cortinarius sp. 'FL15'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/347986332/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-in115",
+      "commonName": "Cortinarius sp. 'IN115'",
+      "scientificName": "Cortinarius sp. 'IN115'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/228320923/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-in43",
+      "commonName": "Cortinarius sp. 'IN43'",
+      "scientificName": "Cortinarius sp. 'IN43'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/249254427/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-in53",
+      "commonName": "Cortinarius sp. 'IN53'",
+      "scientificName": "Cortinarius sp. 'IN53'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/161531111/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-in87",
+      "commonName": "Cortinarius sp. 'IN87'",
+      "scientificName": "Cortinarius sp. 'IN87'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/167869551/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-iumq3767",
+      "commonName": "Cortinarius sp. 'IUMQ3767'",
+      "scientificName": "Cortinarius sp. 'IUMQ3767'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/422038819/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-ma01",
+      "commonName": "Cortinarius sp. 'MA01'",
+      "scientificName": "Cortinarius sp. 'MA01'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/331501534/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-nb09",
+      "commonName": "Cortinarius sp. 'NB09'",
+      "scientificName": "Cortinarius sp. 'NB09'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/330558193/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-nb13",
+      "commonName": "Cortinarius sp. 'NB13'",
+      "scientificName": "Cortinarius sp. 'NB13'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/451195475/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-nh01",
+      "commonName": "Cortinarius sp. 'NH01'",
+      "scientificName": "Cortinarius sp. 'NH01'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/333250154/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-obtusus-nb01",
+      "commonName": "Cortinarius sp. 'obtusus-NB01'",
+      "scientificName": "Cortinarius sp. 'obtusus-NB01'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/457620769/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-oh06",
+      "commonName": "Cortinarius sp. 'OH06'",
+      "scientificName": "Cortinarius sp. 'OH06'",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/253913840/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-pa01",
+      "commonName": "Cortinarius sp. 'PA01'",
+      "scientificName": "Cortinarius sp. 'PA01'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/325119000/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-pa04",
+      "commonName": "Cortinarius sp. 'PA04'",
+      "scientificName": "Cortinarius sp. 'PA04'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/326835839/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-stillatitius-pa01",
+      "commonName": "Cortinarius sp. 'stillatitius-PA01'",
+      "scientificName": "Cortinarius sp. 'stillatitius-PA01'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/333312514/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-torvus-02",
+      "commonName": "Cortinarius sp. 'torvus-02'",
+      "scientificName": "Cortinarius sp. 'torvus-02'",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/409405048/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "cortinarius-sp-turgidoides-pa01",
+      "commonName": "Cortinarius sp. 'turgidoides-PA01'",
+      "scientificName": "Cortinarius sp. 'turgidoides-PA01'",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/253345126/medium.jpeg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cortinarius_violaceus",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/124344"
+}

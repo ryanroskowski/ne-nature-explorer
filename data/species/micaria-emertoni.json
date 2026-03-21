@@ -1,0 +1,114 @@
+{
+  "slug": "micaria-emertoni",
+  "taxonId": 225051,
+  "group": "arachnids",
+  "commonName": "Micaria emertoni",
+  "scientificName": "Micaria emertoni",
+  "family": "Gnaphosidae",
+  "familyCommonName": "Stealthy Ground Spiders",
+  "genus": "Micaria",
+  "genusCommonName": "Micaria",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Stealthy Ground Spiders",
+      "rank": "family",
+      "slug": "explore/stealthy-ground-spiders"
+    },
+    {
+      "label": "Micaria",
+      "rank": "genus",
+      "slug": "explore/micaria"
+    },
+    {
+      "label": "Micaria emertoni",
+      "rank": "species",
+      "slug": "species/micaria-emertoni"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 80121413,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/80121413/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/80121413/large.jpg",
+      "attribution": "(c) John Dobyns, some rights reserved (CC BY-NC), uploaded by John Dobyns",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/22505100"
+    }
+  ],
+  "nameStory": "The \"stealthy ground spider\" name perfectly captures this little hunter's lifestyle - it prowls silently across the forest floor at night, using stealth rather than webs to catch prey. The genus name Micaria comes from the Greek word \"mikros\" meaning small, reflecting these spiders' tiny size that helps them stay hidden.",
+  "description": "Emerton's stealthy ground spider is a tiny, dark hunter that roams the forest floor at night. These small spiders are typically only 2-4mm long (about the size of a peppercorn) with a sleek, elongated body that's usually dark brown to black. Unlike web-building spiders, they're active hunters that stalk their prey on foot, relying on speed and stealth rather than silk traps.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Compact, elongated body with a distinctly narrow waist between the front and back sections, feeling firm and cylindrical if gently handled",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Dark brown to black coloration with a subtle metallic sheen that catches light like polished leather, sometimes with faint chevron patterns on the abdomen",
+      "isPrimary": true
+    },
+    {
+      "label": "Size",
+      "description": "Very small at 2-4mm body length - roughly the size of a small ant or peppercorn, easily overlooked without close inspection",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Runs quickly in short bursts when disturbed, then freezes motionless - no web building, purely a ground-hunting predator",
+      "isPrimary": false
+    },
+    {
+      "label": "Web",
+      "description": "No capture web at all - may produce a small silk retreat under stones or bark that feels like thin tissue paper",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in mature deciduous and mixed forests throughout New England, particularly under loose bark, fallen logs, and leaf litter where the soil stays consistently moist. They prefer areas with rich, dark humus soil and seem to favor spots near decomposing oak and maple logs.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, emerging from winter retreats under bark and stones. This is peak mating season when they're most likely to be found wandering in the open.",
+    "summer": "Most active period for hunting, though they remain largely nocturnal. Egg sacs are produced and guarded under bark or in silk retreats during mid-summer.",
+    "fall": "Activity continues into early fall as they hunt to build energy reserves. Adults seek overwintering sites under deep bark crevices and stone piles.",
+    "winter": "Dormant in silk-lined chambers under bark or stones, occasionally visible on warm winter days when they may briefly emerge."
+  },
+  "funFact": "These tiny spiders can leap several times their own body length to pounce on prey - imagine a house cat jumping the length of a school bus with the same proportional ability!",
+  "confusionNotes": "Most easily confused with small wolf spiders or other dark ground hunters, but stealthy ground spiders have that distinctive metallic sheen and much more elongated body shape. Remember: \"Stealthy and shiny\" versus the matte, stockier build of wolf spiders.",
+  "contextualKnowledge": "Named after James Henry Emerton, a pioneering American arachnologist who documented New England spiders in the late 1800s. The extremely low observation count suggests this species is either very rare in New England or significantly under-reported due to its tiny size and secretive nature.",
+  "compareHints": "Micaria emertoni differs from its relative Micaria longipes mainly in leg proportions - emertoni has more normally-proportioned legs while longipes has noticeably elongated legs as the name suggests. Both share the characteristic metallic sheen and ground-hunting behavior, but longipes appears more \"leggy\" and spider-like in overall appearance.",
+  "relatedSpecies": [
+    {
+      "slug": "micaria-longipes",
+      "commonName": "Micaria longipes",
+      "scientificName": "Micaria longipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182908727/medium.jpg",
+      "distinction": "Micaria longipes differs from its relative Micaria emertoni primarily in leg length proportions and subtle body measurements that require close examination."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/225051"
+}

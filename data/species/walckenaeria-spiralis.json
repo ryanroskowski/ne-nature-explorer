@@ -1,0 +1,143 @@
+{
+  "slug": "walckenaeria-spiralis",
+  "taxonId": 233637,
+  "group": "arachnids",
+  "commonName": "Spiraling Sheet-web Weaver",
+  "scientificName": "Walckenaeria spiralis",
+  "family": "Linyphiidae",
+  "familyCommonName": "Sheetweb and Dwarf Weavers",
+  "genus": "Walckenaeria",
+  "genusCommonName": "Walckenaeria",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Sheetweb and Dwarf Weavers",
+      "rank": "family",
+      "slug": "explore/sheetweb-and-dwarf-weavers"
+    },
+    {
+      "label": "Walckenaeria",
+      "rank": "genus",
+      "slug": "explore/walckenaeria"
+    },
+    {
+      "label": "Spiraling Sheet-web Weaver",
+      "rank": "species",
+      "slug": "species/walckenaeria-spiralis"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 21639704,
+      "mediumUrl": "https://static.inaturalist.org/photos/21639704/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/21639704/large.jpg",
+      "attribution": "(c) cheins1, all rights reserved, uploaded by cheins1",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/23363700"
+    },
+    {
+      "id": 183549612,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183549612/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183549612/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/108957551"
+    }
+  ],
+  "nameStory": "The Spiraling Sheet-web Weaver gets its name from the distinctive spiral pattern it creates in its flat, sheet-like web. Unlike the perfect geometric spirals of orb weavers, this tiny spider's web has a more subtle, flowing spiral arrangement that catches the morning dew beautifully. The name perfectly captures both the web architecture and the spider's incredible weaving skills.",
+  "description": "The Spiraling Sheet-web Weaver is a minuscule spider that's easily overlooked due to its tiny size. This diminutive arachnid typically measures just 2-3 millimeters in body length, making it smaller than most ants. It has a brownish to pale coloration that helps it blend seamlessly with leaf litter and soil. Despite its small stature, it's a master architect, creating delicate horizontal sheet webs with subtle spiral elements.",
+  "idTips": [
+    {
+      "label": "Web",
+      "description": "Creates a horizontal sheet web close to the ground with a subtle spiral pattern that feels papery-thin when accidentally touched",
+      "isPrimary": true
+    },
+    {
+      "label": "Size",
+      "description": "Extremely small at 2-3mm body length - about the size of a pinky nail, easily mistaken for a speck of dirt",
+      "isPrimary": false
+    },
+    {
+      "label": "Body Shape",
+      "description": "Compact, rounded abdomen with a relatively large head section that feels firm if gently touched with a blade of grass",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Pale brown to brownish coloration with subtle darker patterns that can appear almost translucent in bright light",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Hangs upside down beneath its sheet web, dropping to the ground and playing dead when disturbed",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for this tiny spider in moist soil areas with abundant leaf litter, particularly in deciduous and mixed forests throughout New England. They prefer spots where fallen leaves create a thick, slightly damp carpet that smells earthy and rich. You'll often find their webs stretched between low vegetation, fallen twigs, and decomposing leaves just inches above the forest floor.",
+  "seasonality": {
+    "spring": "Adults become active as soil warms, creating fresh webs among emerging vegetation. Look for dewdrops highlighting their delicate webs in early morning.",
+    "summer": "Peak web-building season when their sheet webs are most visible and well-maintained. Adults are most active and easiest to spot.",
+    "fall": "Mating occurs and egg sacs are produced before cold weather. Webs may become tattered but spiders remain active until first frost.",
+    "winter": "Adults typically die off, but eggs overwinter in protected locations within the leaf litter to emerge next spring."
+  },
+  "funFact": "Despite being so tiny you could fit a dozen on a penny, the Spiraling Sheet-web Weaver can detect vibrations from prey landing on its web that are smaller than the width of a human hair - making it one of nature's most sensitive motion detectors!",
+  "confusionNotes": "With only one recorded observation in New England, this species is extremely rare and easily confused with its more common relatives like Walckenaeria communis. The key difference is the subtle spiral pattern in the web - other Walckenaeria species create more uniform sheet webs without the spiral element.",
+  "contextualKnowledge": "This spider belongs to the Linyphiidae family, often called 'money spiders' in folklore because finding one was thought to bring financial luck. The scientific name Walckenaeria honors Baron Charles Athanase Walckenaer, a 19th-century French arachnologist who pioneered spider classification.",
+  "compareHints": "The Spiraling Sheet-web Weaver differs from its Walckenaeria relatives primarily in its web architecture - while W. communis and W. directa create simple horizontal sheets, W. spiralis incorporates that telltale spiral pattern. W. castanea tends to be slightly darker in coloration, and W. pallida is noticeably paler, almost whitish in appearance.",
+  "relatedSpecies": [
+    {
+      "slug": "walckenaeria-castanea",
+      "commonName": "Walckenaeria castanea",
+      "scientificName": "Walckenaeria castanea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183547842/medium.jpeg",
+      "distinction": "Walckenaeria castanea can be distinguished from its relatives by its distinctly chestnut-brown coloration - W."
+    },
+    {
+      "slug": "walckenaeria-communis",
+      "commonName": "Walckenaeria communis",
+      "scientificName": "Walckenaeria communis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183548432/medium.jpeg",
+      "distinction": "Distinguishing this species from its Walckenaeria relatives like the Spiraling Sheet-web Weaver requires expert examination of reproductive structures under a microscope."
+    },
+    {
+      "slug": "walckenaeria-directa",
+      "commonName": "Walckenaeria directa",
+      "scientificName": "Walckenaeria directa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183548734/medium.jpeg",
+      "distinction": "Distinguishing W."
+    },
+    {
+      "slug": "walckenaeria-pallida",
+      "commonName": "Walckenaeria pallida",
+      "scientificName": "Walckenaeria pallida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183549212/medium.jpeg",
+      "distinction": "Distinguished from its Walckenaeria relatives by its particularly pale coloration - Walckenaeria castanea is much darker and more chestnut-brown, while Walckenaeria communis tends to have more distinct markings."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Walckenaeria_spiralis",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/233637"
+}

@@ -1,0 +1,434 @@
+{
+  "slug": "crataegus-phaenopyrum",
+  "taxonId": 141714,
+  "group": "plants",
+  "commonName": "Washington hawthorn",
+  "scientificName": "Crataegus phaenopyrum",
+  "family": "Rosaceae",
+  "familyCommonName": "rose family",
+  "genus": "Crataegus",
+  "genusCommonName": "hawthorns",
+  "order": "Rosales",
+  "orderCommonName": "Roses, Elms, Figs, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Vascular Plants",
+      "rank": "phylum",
+      "slug": "explore/vascular-plants"
+    },
+    {
+      "label": "Dicots",
+      "rank": "class",
+      "slug": "explore/dicots"
+    },
+    {
+      "label": "Roses, Elms, Figs, and Allies",
+      "rank": "order",
+      "slug": "explore/roses-elms-figs-and-allies"
+    },
+    {
+      "label": "rose family",
+      "rank": "family",
+      "slug": "explore/rose-family"
+    },
+    {
+      "label": "hawthorns",
+      "rank": "genus",
+      "slug": "explore/hawthorns"
+    },
+    {
+      "label": "Washington hawthorn",
+      "rank": "species",
+      "slug": "species/crataegus-phaenopyrum"
+    }
+  ],
+  "observationCount": 16,
+  "abundanceTier": "moderate",
+  "photos": [
+    {
+      "id": 247968980,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/247968980/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/247968980/large.jpeg",
+      "attribution": "(c) Michael John Oldham, some rights reserved (CC BY-NC), uploaded by Michael John Oldham",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14171404"
+    },
+    {
+      "id": 40169042,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/40169042/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/40169042/large.jpeg",
+      "attribution": "no rights reserved, uploaded by Adam Kranz",
+      "licenseCode": "cc0",
+      "observationUrl": "https://www.inaturalist.org/observations/14171401"
+    },
+    {
+      "id": 40169038,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/40169038/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/40169038/large.jpeg",
+      "attribution": "no rights reserved, uploaded by Adam Kranz",
+      "licenseCode": "cc0",
+      "observationUrl": "https://www.inaturalist.org/observations/14171402"
+    },
+    {
+      "id": 15579455,
+      "mediumUrl": "https://static.inaturalist.org/photos/15579455/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/15579455/large.jpg",
+      "attribution": "(c) Gregg Treinish, all rights reserved, uploaded by Gregg Treinish",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14171400"
+    },
+    {
+      "id": 330565715,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/330565715/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/330565715/large.jpg",
+      "attribution": "(c) rollinbresson, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14171410"
+    },
+    {
+      "id": 87119015,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/87119015/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/87119015/large.jpeg",
+      "attribution": "(c) Nate Weston, some rights reserved (CC BY-NC), uploaded by Nate Weston",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14171408"
+    },
+    {
+      "id": 398897,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/398897/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/398897/large.jpg",
+      "attribution": "(c) \"<a href=\"\"http://www.pwrc.usgs.gov/WLI/\"\">USDA NRCS Wetland Science Institute</a>.\", some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/14171405"
+    },
+    {
+      "id": 208621176,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/208621176/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/208621176/large.jpg",
+      "attribution": "(c) darrelltomkins, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14171406"
+    },
+    {
+      "id": 571134472,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/571134472/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/571134472/large.jpg",
+      "attribution": "(c) teampamet, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/316128210"
+    },
+    {
+      "id": 571134507,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/571134507/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/571134507/large.jpg",
+      "attribution": "(c) teampamet, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/316128210"
+    },
+    {
+      "id": 571134384,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/571134384/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/571134384/large.jpg",
+      "attribution": "(c) teampamet, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/316128210"
+    },
+    {
+      "id": 571134417,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/571134417/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/571134417/large.jpg",
+      "attribution": "(c) teampamet, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/316128210"
+    },
+    {
+      "id": 571134457,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/571134457/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/571134457/large.jpg",
+      "attribution": "(c) teampamet, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/316128210"
+    },
+    {
+      "id": 160155351,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/160155351/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/160155351/large.jpg",
+      "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/14171403"
+    },
+    {
+      "id": 153590237,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153590237/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153590237/large.jpeg",
+      "attribution": "(c) J. Richard Abbott, some rights reserved (CC BY-NC), uploaded by J. Richard Abbott",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/14171407"
+    }
+  ],
+  "nameStory": "Washington hawthorn gets its name from Washington, D.C., where this native species was particularly well-known and appreciated. The \"hawthorn\" part comes from the Old English \"haegthorn,\" meaning \"hedge thorn,\" referring to these spiny shrubs that were traditionally used to create living fences. This tree earned its presidential connection by being especially prominent in the Mid-Atlantic region where our nation's capital sits.",
+  "description": "Washington hawthorn is a small, thorny tree that typically grows 15-25 feet tall, though it can reach up to 32 feet. It belongs to the rose family and has the classic hawthorn look: dense clusters of small white flowers in spring, followed by bright red berry-like fruits that persist into winter. The tree has a rounded crown and is armed with sharp thorns along its branches, making it both beautiful and formidable. Originally native to the southeastern United States, it's now widely planted as an ornamental throughout New England.",
+  "idTips": [
+    {
+      "label": "Fruit",
+      "description": "Small bright red berries clustered tightly together in large, showy groups that persist well into winter. Each berry is about the size of a pea and has a mild, slightly sweet taste when ripe.",
+      "isPrimary": true
+    },
+    {
+      "label": "Flowers",
+      "description": "Dense, flat-topped clusters of small white flowers, each with five petals and a strong, somewhat unpleasant smell that attracts flies and beetles for pollination.",
+      "isPrimary": false
+    },
+    {
+      "label": "Leaves",
+      "description": "Triangular to oval leaves with 3-5 pointed lobes and serrated edges. They feel smooth and thin, turning orange to red in fall.",
+      "isPrimary": false
+    },
+    {
+      "label": "Thorns",
+      "description": "Sharp, straight thorns up to 2 inches long scattered along the branches. They're strong enough to puncture skin easily, so handle with care!",
+      "isPrimary": false
+    },
+    {
+      "label": "Bark",
+      "description": "Gray to brown bark that becomes scaly and slightly furrowed with age. On younger branches, the bark is smooth and reddish-brown.",
+      "isPrimary": false
+    },
+    {
+      "label": "Growth Habit",
+      "description": "Small tree or large shrub with a dense, rounded crown and somewhat irregular branching pattern. Often wider than it is tall when mature.",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Washington hawthorn thrives in sunny locations and adapts to various soil types, from clay to sandy soils. In New England, you'll most commonly find it planted in yards, parks, and along streets as an ornamental tree. It occasionally escapes cultivation and can be found growing wild in open areas, forest edges, and disturbed sites.",
+  "seasonality": {
+    "spring": "Showy white flower clusters bloom in May, creating a spectacular but briefly pungent-smelling display that attracts various pollinators.",
+    "summer": "Green foliage provides dense shade while small green fruits begin developing from the spent flowers.",
+    "fall": "Leaves turn brilliant orange to red, and the bright red berry clusters ripen, creating a stunning two-toned display.",
+    "winter": "Persistent red berries remain clustered on bare branches, providing food for birds and easy identification even in snow."
+  },
+  "funFact": "The berries of Washington hawthorn can be made into a surprisingly tasty jelly or crushed to brew a mild tea, and they're packed with antioxidants - making this thorny ornamental tree an unexpected source of homemade treats that birds and squirrels have been enjoying all along!",
+  "confusionNotes": "Washington hawthorn can be confused with other hawthorn species, but its triangular, deeply lobed leaves and persistent bright red fruit clusters help distinguish it. Remember: \"Washington's triangle leaves\" - the triangular leaf shape with pointed lobes is more pronounced than in most other hawthorns.",
+  "contextualKnowledge": "While called Washington hawthorn, this species is actually native to the southeastern United States, not Washington state or D.C. The confusion comes from its historical prominence around the nation's capital. Don't let the rose family connection fool you - those thorns are serious business and much more dangerous than rose thorns!",
+  "compareHints": "Among the many hawthorn species in New England, Washington hawthorn stands out with its distinctly triangular, deeply lobed leaves (rather than the more oval or rounded leaves of species like dotted hawthorn). Its fruit clusters are also particularly dense and showy, persisting longer into winter than most relatives. The combination of triangular leaves and exceptionally persistent, bright red fruit clusters makes it one of the easier hawthorns to identify with confidence.",
+  "relatedSpecies": [
+    {
+      "slug": "crataegus-punctata",
+      "commonName": "dotted hawthorn",
+      "scientificName": "Crataegus punctata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/151813250/medium.jpeg",
+      "distinction": "Dotted hawthorn stands out from its many New England relatives primarily by its spotted fruits."
+    },
+    {
+      "slug": "crataegus-monogyna",
+      "commonName": "common hawthorn",
+      "scientificName": "Crataegus monogyna",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/73530064/medium.jpeg",
+      "distinction": "Among New England's many hawthorn species, common hawthorn stands out for having just one seed per fruit (most others have 2-5 seeds) and deeply lobed leaves with 3-7 divisions."
+    },
+    {
+      "slug": "crataegus-crus-galli",
+      "commonName": "cockspur hawthorn",
+      "scientificName": "Crataegus crus-galli",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/342993113/medium.jpeg",
+      "distinction": "Among New England's many hawthorn species, cockspur stands out with the longest thorns - much longer than dotted hawthorn's short spines or Washington hawthorn's modest thorns."
+    },
+    {
+      "slug": "crataegus-macrosperma",
+      "commonName": "Big-fruit Hawthorn",
+      "scientificName": "Crataegus macrosperma",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/472835402/medium.jpg",
+      "distinction": "Among New England's many hawthorn species, big-fruit hawthorn stands out for its notably larger berries and earlier bloom time."
+    },
+    {
+      "slug": "crataegus-macracantha",
+      "commonName": "Large-thorn hawthorn",
+      "scientificName": "Crataegus macracantha",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/151745575/medium.jpeg",
+      "distinction": "Among New England hawthorns, large-thorn hawthorn stands out primarily for its exceptionally long, straight thorns that dwarf those of relatives like dotted hawthorn or common hawthorn."
+    },
+    {
+      "slug": "crataegus-pruinosa",
+      "commonName": "waxy-fruited hawthorn",
+      "scientificName": "Crataegus pruinosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/280854106/medium.jpeg",
+      "distinction": "Among New England's many hawthorn species, waxy-fruited hawthorn stands out primarily for its distinctively coated berries - no other local hawthorn has that waxy, frosted appearance on the fruits."
+    },
+    {
+      "slug": "crataegus-chrysocarpa",
+      "commonName": "fireberry hawthorn",
+      "scientificName": "Crataegus chrysocarpa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3985476/medium.jpg",
+      "distinction": "Among New England's many hawthorns, fireberry hawthorn stands out for its golden-yellow unripe fruits - most relatives like dotted hawthorn or cockspur hawthorn have green unripe fruits that turn red."
+    },
+    {
+      "slug": "crataegus-coccinioides",
+      "commonName": "Large-flowered Cockspurthorn",
+      "scientificName": "Crataegus coccinioides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128986948/medium.jpeg",
+      "distinction": "Large-flowered cockspurthorn stands out from its many hawthorn relatives primarily by its notably large flowers - nearly twice the size of most other hawthorns."
+    },
+    {
+      "slug": "crataegus-flabellata",
+      "commonName": "Fanleaf Hawthorn",
+      "scientificName": "Crataegus flabellata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/40960394/medium.jpeg",
+      "distinction": "Among New England hawthorns, fanleaf hawthorn is distinguished by its broader, more fan-shaped leaves compared to most relatives."
+    },
+    {
+      "slug": "crataegus-biltmoreana",
+      "commonName": "Biltmore Hawthorn",
+      "scientificName": "Crataegus biltmoreana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/54244962/medium.jpeg",
+      "distinction": "Among New England hawthorns, Biltmore hawthorn stands out for its green, yellow, or orange fruits - most others like dotted hawthorn, common hawthorn, and cockspur hawthorn have red fruits."
+    },
+    {
+      "slug": "crataegus-schizophylla",
+      "commonName": "Cleft-leaved Hawthorn",
+      "scientificName": "Crataegus schizophylla",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/283374968/medium.jpg",
+      "distinction": "Cleft-leaved hawthorn's leaves are much more deeply divided than most New England hawthorns - while dotted hawthorn has shallow lobes and cockspur hawthorn has barely any lobes at all, this species' leaves are cut nearly to the midrib."
+    },
+    {
+      "slug": "crataegus-pisifera",
+      "commonName": "Pea Hawthorn",
+      "scientificName": "Crataegus pisifera",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/281965758/medium.jpeg",
+      "distinction": "Among New England's hawthorns, pea hawthorn stands out for having the smallest fruits in the genus - significantly smaller than the cherry-sized fruits of dotted hawthorn or the larger berries of cockspur hawthorn."
+    },
+    {
+      "slug": "crataegus-mollis",
+      "commonName": "downy hawthorn",
+      "scientificName": "Crataegus mollis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136671/medium.jpg",
+      "distinction": "Among New England's many hawthorns, downy hawthorn stands out for its distinctly fuzzy leaf undersides - most others like dotted hawthorn or common hawthorn have smooth or only slightly hairy leaves."
+    },
+    {
+      "slug": "crataegus-irrasa",
+      "commonName": "Blanchard's Hawthorn",
+      "scientificName": "Crataegus irrasa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/205653645/medium.jpg",
+      "distinction": "Blanchard's hawthorn differs from the more common dotted hawthorn by having more deeply lobed leaves and longer thorns."
+    },
+    {
+      "slug": "crataegus-jonesiae",
+      "commonName": "Miss Jones' hawthorn",
+      "scientificName": "Crataegus jonesiae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/203204065/medium.jpg",
+      "distinction": "Miss Jones' hawthorn is distinguished from other New England hawthorns primarily by subtle differences in leaf shape, thorn characteristics, and fruit details that require close examination."
+    },
+    {
+      "slug": "crataegus-stonei",
+      "commonName": "Stone's Hawthorn",
+      "scientificName": "Crataegus stonei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/537233037/medium.jpg",
+      "distinction": "Stone's hawthorn differs from the more common dotted hawthorn by having more deeply lobed leaves and different fruit characteristics."
+    },
+    {
+      "slug": "crataegus-succulenta",
+      "commonName": "fleshy hawthorn",
+      "scientificName": "Crataegus succulenta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/507054747/medium.jpg",
+      "distinction": "Fleshy hawthorn stands out from its many hawthorn relatives by having the juiciest, most succulent berries in the group."
+    },
+    {
+      "slug": "crataegus-coccinea",
+      "commonName": "Scarlet Hawthorn",
+      "scientificName": "Crataegus coccinea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57132720/medium.jpeg",
+      "distinction": "Among New England's many hawthorn species, scarlet hawthorn is distinguished by its particularly prominent thorns and bright red fruits."
+    },
+    {
+      "slug": "crataegus-schuettei",
+      "commonName": "Schuette's Hawthorn",
+      "scientificName": "Crataegus schuettei",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/383544022/medium.jpeg",
+      "distinction": "Among New England's many hawthorn species, Schuette's hawthorn is distinguished by subtle characteristics that require expert identification."
+    },
+    {
+      "slug": "crataegus-aquilonaris",
+      "commonName": "Crataegus aquilonaris",
+      "scientificName": "Crataegus aquilonaris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/164029833/medium.jpeg",
+      "distinction": "Northern hawthorn differs from the more common dotted hawthorn by having less deeply lobed leaves and different fruit characteristics, though these distinctions can be subtle."
+    },
+    {
+      "slug": "crataegus-dodgei",
+      "commonName": "Dodge's Hawthorn",
+      "scientificName": "Crataegus dodgei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/200333303/medium.jpg",
+      "distinction": "Dodge's hawthorn differs from the more common dotted hawthorn by having less prominently marked leaves and typically fewer, larger thorns."
+    },
+    {
+      "slug": "crataegus-holmesiana",
+      "commonName": "Holmes' Hawthorn",
+      "scientificName": "Crataegus holmesiana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172843155/medium.jpg",
+      "distinction": "Holmes' hawthorn is most closely related to scarlet hawthorn but distinguished by its more elongated leaves and egg-shaped rather than round fruits."
+    },
+    {
+      "slug": "crataegus-persimilis",
+      "commonName": "Broad-leaved Cockspurthorn",
+      "scientificName": "Crataegus persimilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1983291/medium.JPG",
+      "distinction": "Among New England's many hawthorns, broad-leaved cockspurthorn stands out for its exceptionally broad, substantial leaves that are wider than most of its relatives."
+    },
+    {
+      "slug": "crataegus-submollis",
+      "commonName": "Hairy Cockspurthorn",
+      "scientificName": "Crataegus submollis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41014363/medium.jpeg",
+      "distinction": "Hairy cockspurthorn differs from its closest relative, downy hawthorn, primarily in having about 10 stamens per flower instead of 20, and the two species have separate native ranges."
+    },
+    {
+      "slug": "crataegus-brainerdii",
+      "commonName": "Brainerd's Hawthorn",
+      "scientificName": "Crataegus brainerdii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/91191809/medium.jpeg",
+      "distinction": "Among New England's many hawthorns, Brainerd's hawthorn is distinguished by its particularly long thorns (up to 1."
+    },
+    {
+      "slug": "crataegus-lucorum",
+      "commonName": "grove hawthorn",
+      "scientificName": "Crataegus lucorum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/510340961/medium.jpg",
+      "distinction": "Grove hawthorn differs from the more common dotted hawthorn by having longer thorns and less deeply cut leaves."
+    },
+    {
+      "slug": "crataegus-keepii",
+      "commonName": "Keep's Hawthorn",
+      "scientificName": "Crataegus keepii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/572322944/medium.jpg",
+      "distinction": "Keep's Hawthorn differs from common hawthorns like dotted hawthorn in subtle leaf lobe patterns and fruit characteristics that require expert knowledge to distinguish reliably."
+    },
+    {
+      "slug": "crataegus-populnea",
+      "commonName": "poplar hawthorn",
+      "scientificName": "Crataegus populnea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/286990580/medium.jpeg",
+      "distinction": "Among New England hawthorns, poplar hawthorn stands out immediately for its broad, oval, relatively unlobed leaves - most other hawthorns like dotted hawthorn or common hawthorn have deeply cut, lobed leaves."
+    },
+    {
+      "slug": "crataegus-straminea",
+      "commonName": "Straw-Fruited Hawthorn",
+      "scientificName": "Crataegus straminea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/282438853/medium.jpeg",
+      "distinction": "Unlike the common red-fruited hawthorns like dotted hawthorn or cockspur hawthorn, straw-fruited hawthorn produces distinctively pale yellow berries."
+    },
+    {
+      "slug": "crataegus-boyntonii",
+      "commonName": "Stinking Hawthorn",
+      "scientificName": "Crataegus boyntonii",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/200796031/medium.jpg",
+      "distinction": "Among New England's many hawthorn species, stinking hawthorn stands out for its yellow-green fruits with red markings rather than the solid red fruits of most others like dotted hawthorn or cockspur hawthorn."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Crataegus_phaenopyrum",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/141714"
+}

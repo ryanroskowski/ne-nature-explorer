@@ -1,0 +1,838 @@
+{
+  "months": {
+    "january": {
+      "season": "winter",
+      "highlights": [
+        {
+          "feature": "Evergreen Identification",
+          "description": "Conifers and broadleaf evergreens stand out in winter",
+          "icon": "🌲",
+          "species": [
+            {
+              "slug": "chthamalus-fragilis",
+              "commonName": "Fragile Barnacle",
+              "scientificName": "Chthamalus fragilis",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13551598/medium.jpg",
+              "abundanceTier": "common",
+              "note": "Barnacles remain tightly closed most of the time, appearing as dormant gray bumps. They can survive freezing and ice, though growth stops completely."
+            },
+            {
+              "slug": "jassa-marmorata",
+              "commonName": "Marbled Scud",
+              "scientificName": "Jassa marmorata",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210231408/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Reduced activity but still present. Many individuals remain in their tubes, making them less obvious but still detectable during winter low tides."
+            },
+            {
+              "slug": "chiridotea-tuftsii",
+              "commonName": "Long-horned Sandmole",
+              "scientificName": "Chiridotea tuftsii",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/184095100/medium.jpeg",
+              "abundanceTier": "rare",
+              "note": "Retreat deeper into sediments and become less active, making them very difficult to find during this season."
+            },
+            {
+              "slug": "derocheilocaris-typica",
+              "commonName": "Derocheilocaris typica",
+              "scientificName": "Derocheilocaris typica",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/232307624/medium.jpg",
+              "abundanceTier": "rare",
+              "note": "Likely present but dormant in sand, virtually impossible to detect without specialized equipment and techniques."
+            },
+            {
+              "slug": "bryocamptus-hutchinsoni",
+              "commonName": "Bryocamptus hutchinsoni",
+              "scientificName": "Bryocamptus hutchinsoni",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/265600604/medium.jpeg",
+              "abundanceTier": "rare",
+              "note": "Likely dormant or much less active in frozen moss, though may remain active in spring-fed areas that don't freeze. **Identification uncertain - winter survival strategy unknown.**"
+            },
+            {
+              "slug": "naushonia-crangonoides",
+              "commonName": "Naushonia crangonoides",
+              "scientificName": "Naushonia crangonoides",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/337029022/medium.jpg",
+              "abundanceTier": "rare",
+              "note": "Probably inactive or in deeper waters during coldest months, making winter encounters highly unlikely in New England."
+            }
+          ]
+        },
+        {
+          "feature": "Winter Buds",
+          "description": "Buds reveal which tree is which before spring arrives",
+          "icon": "🫑",
+          "species": [
+            {
+              "slug": "lepas-anserifera",
+              "commonName": "Goose Barnacle",
+              "scientificName": "Lepas anserifera",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9196331/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Frequent winter storms regularly deliver specimens to beaches, though cold temperatures mean the animals are often dead or dying by the time they reach shore."
+            },
+            {
+              "slug": "rhithropanopeus-harrisii",
+              "commonName": "White-tipped Mud Crab",
+              "scientificName": "Rhithropanopeus harrisii",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207642974/medium.jpeg",
+              "abundanceTier": "moderate",
+              "note": "Much less visible as they burrow deeper into mud or find shelter under rocks and debris to wait out the cold months."
+            },
+            {
+              "slug": "amphibalanus-eburneus",
+              "commonName": "Ivory Barnacle",
+              "scientificName": "Amphibalanus eburneus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6168581/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Barnacles remain sealed in their shells during cold weather and low tides, appearing completely inactive but still alive underneath."
+            },
+            {
+              "slug": "porcellionides-pruinosus",
+              "commonName": "Powder Blue Isopod",
+              "scientificName": "Porcellionides pruinosus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/343138210/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Largely inactive, hiding deep under logs, stones, or in soil where they enter a dormant state. Occasionally visible on unusually warm winter days near the surface of their hiding spots."
+            },
+            {
+              "slug": "eualus-pusiolus",
+              "commonName": "Doll Eualid",
+              "scientificName": "Eualus pusiolus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8876161/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Much less visible, likely moving to deeper waters or becoming less active in cold temperatures."
+            }
+          ]
+        }
+      ]
+    },
+    "february": {
+      "season": "winter",
+      "highlights": [
+        {
+          "feature": "Evergreen Identification",
+          "description": "Conifers and broadleaf evergreens stand out in winter",
+          "icon": "🌲",
+          "species": [
+            {
+              "slug": "chthamalus-fragilis",
+              "commonName": "Fragile Barnacle",
+              "scientificName": "Chthamalus fragilis",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13551598/medium.jpg",
+              "abundanceTier": "common",
+              "note": "Barnacles remain tightly closed most of the time, appearing as dormant gray bumps. They can survive freezing and ice, though growth stops completely."
+            },
+            {
+              "slug": "jassa-marmorata",
+              "commonName": "Marbled Scud",
+              "scientificName": "Jassa marmorata",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210231408/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Reduced activity but still present. Many individuals remain in their tubes, making them less obvious but still detectable during winter low tides."
+            },
+            {
+              "slug": "chiridotea-tuftsii",
+              "commonName": "Long-horned Sandmole",
+              "scientificName": "Chiridotea tuftsii",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/184095100/medium.jpeg",
+              "abundanceTier": "rare",
+              "note": "Retreat deeper into sediments and become less active, making them very difficult to find during this season."
+            },
+            {
+              "slug": "derocheilocaris-typica",
+              "commonName": "Derocheilocaris typica",
+              "scientificName": "Derocheilocaris typica",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/232307624/medium.jpg",
+              "abundanceTier": "rare",
+              "note": "Likely present but dormant in sand, virtually impossible to detect without specialized equipment and techniques."
+            },
+            {
+              "slug": "bryocamptus-hutchinsoni",
+              "commonName": "Bryocamptus hutchinsoni",
+              "scientificName": "Bryocamptus hutchinsoni",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/265600604/medium.jpeg",
+              "abundanceTier": "rare",
+              "note": "Likely dormant or much less active in frozen moss, though may remain active in spring-fed areas that don't freeze. **Identification uncertain - winter survival strategy unknown.**"
+            },
+            {
+              "slug": "naushonia-crangonoides",
+              "commonName": "Naushonia crangonoides",
+              "scientificName": "Naushonia crangonoides",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/337029022/medium.jpg",
+              "abundanceTier": "rare",
+              "note": "Probably inactive or in deeper waters during coldest months, making winter encounters highly unlikely in New England."
+            }
+          ]
+        },
+        {
+          "feature": "Winter Buds",
+          "description": "Buds reveal which tree is which before spring arrives",
+          "icon": "🫑",
+          "species": [
+            {
+              "slug": "lepas-anserifera",
+              "commonName": "Goose Barnacle",
+              "scientificName": "Lepas anserifera",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9196331/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Frequent winter storms regularly deliver specimens to beaches, though cold temperatures mean the animals are often dead or dying by the time they reach shore."
+            },
+            {
+              "slug": "rhithropanopeus-harrisii",
+              "commonName": "White-tipped Mud Crab",
+              "scientificName": "Rhithropanopeus harrisii",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207642974/medium.jpeg",
+              "abundanceTier": "moderate",
+              "note": "Much less visible as they burrow deeper into mud or find shelter under rocks and debris to wait out the cold months."
+            },
+            {
+              "slug": "amphibalanus-eburneus",
+              "commonName": "Ivory Barnacle",
+              "scientificName": "Amphibalanus eburneus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6168581/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Barnacles remain sealed in their shells during cold weather and low tides, appearing completely inactive but still alive underneath."
+            },
+            {
+              "slug": "porcellionides-pruinosus",
+              "commonName": "Powder Blue Isopod",
+              "scientificName": "Porcellionides pruinosus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/343138210/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Largely inactive, hiding deep under logs, stones, or in soil where they enter a dormant state. Occasionally visible on unusually warm winter days near the surface of their hiding spots."
+            },
+            {
+              "slug": "eualus-pusiolus",
+              "commonName": "Doll Eualid",
+              "scientificName": "Eualus pusiolus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8876161/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Much less visible, likely moving to deeper waters or becoming less active in cold temperatures."
+            }
+          ]
+        }
+      ]
+    },
+    "march": {
+      "season": "spring",
+      "highlights": [
+        {
+          "feature": "Emerging Leaves",
+          "description": "Fresh foliage unfurling on trees, shrubs, and herbs",
+          "icon": "🌱",
+          "species": [
+            {
+              "slug": "gammarus-fasciatus",
+              "commonName": "Gammarus fasciatus",
+              "scientificName": "Gammarus fasciatus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55592186/medium.jpeg",
+              "abundanceTier": "common",
+              "note": "Most active as water temperatures warm, often found in large numbers under stones in shallow stream margins. This is when they're easiest to spot as they emerge from winter hiding spots."
+            },
+            {
+              "slug": "palaemon-vulgaris",
+              "commonName": "Marsh Grass Shrimp",
+              "scientificName": "Palaemon vulgaris",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189305401/medium.jpeg",
+              "abundanceTier": "moderate",
+              "note": "Shrimp become more active as waters warm, with young juveniles appearing in shallow areas. This is when you'll start seeing them in tidal pools and marsh edges again."
+            },
+            {
+              "slug": "jassa-marmorata",
+              "commonName": "Marbled Scud",
+              "scientificName": "Jassa marmorata",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210231408/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Active reproduction begins, and you may notice fresh tube construction as populations expand. Look for new, lighter-colored tubes among the established colonies."
+            },
+            {
+              "slug": "armadilloniscus-ellipticus",
+              "commonName": "Common Driftclinger",
+              "scientificName": "Armadilloniscus ellipticus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173886354/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Most active as warming temperatures bring them out from winter hiding spots. Look under freshly deposited storm debris and driftwood."
+            },
+            {
+              "slug": "palaemon-paludosus",
+              "commonName": "Eastern Grass Shrimp",
+              "scientificName": "Palaemon paludosus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67303266/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Most active as waters warm, with adults becoming more visible in shallow areas. Peak breeding season begins, making them easier to spot in large numbers."
+            },
+            {
+              "slug": "polyphemus-pediculus",
+              "commonName": "Polyphemus pediculus",
+              "scientificName": "Polyphemus pediculus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23702189/medium.jpeg",
+              "abundanceTier": "moderate",
+              "note": "Populations begin to increase as water temperatures warm, making this a good time to find them in shallow areas that are warming up first."
+            },
+            {
+              "slug": "caprella-penantis",
+              "commonName": "Caprella penantis",
+              "scientificName": "Caprella penantis",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/399565430/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Begin to become more active and visible as water temperatures rise and seaweed growth increases, providing more habitat."
+            },
+            {
+              "slug": "carcinus-maenas",
+              "commonName": "European Green Crab",
+              "scientificName": "Carcinus maenas",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/577793778/medium.jpg",
+              "abundanceTier": "very-common",
+              "note": "Crabs become more active as waters warm, emerging from deeper winter refuges. This is prime time to spot them in tide pools and under rocks during low tide."
+            }
+          ]
+        },
+        {
+          "feature": "Tree Catkins & Pollen",
+          "description": "Trees releasing pollen via dangling catkins",
+          "icon": "🌾",
+          "species": [
+            {
+              "slug": "eubranchipus-bundyi",
+              "commonName": "Knobbedlip Fairy Shrimp",
+              "scientificName": "Eubranchipus bundyi",
+              "thumbnailUrl": "https://static.inaturalist.org/photos/262746704/medium.jpg",
+              "abundanceTier": "common",
+              "note": "Most active and visible from March through May when temporary pools are full of snowmelt. Adults are swimming, mating, and laying drought-resistant eggs."
+            },
+            {
+              "slug": "tumidotheres-maculatus",
+              "commonName": "Squatter Pea Crab",
+              "scientificName": "Tumidotheres maculatus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/533996/medium.jpg",
+              "abundanceTier": "common",
+              "note": "Active inside host mollusks as waters warm. This is when you're most likely to find them while collecting shellfish during low tides."
+            },
+            {
+              "slug": "balanus-balanus",
+              "commonName": "rough barnacle",
+              "scientificName": "Balanus balanus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/574815107/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Adults become more active as water temperatures rise, extending their feeding appendages more frequently during high tide."
+            }
+          ]
+        }
+      ]
+    },
+    "april": {
+      "season": "spring",
+      "highlights": [
+        {
+          "feature": "Emerging Leaves",
+          "description": "Fresh foliage unfurling on trees, shrubs, and herbs",
+          "icon": "🌱",
+          "species": [
+            {
+              "slug": "gammarus-fasciatus",
+              "commonName": "Gammarus fasciatus",
+              "scientificName": "Gammarus fasciatus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55592186/medium.jpeg",
+              "abundanceTier": "common",
+              "note": "Most active as water temperatures warm, often found in large numbers under stones in shallow stream margins. This is when they're easiest to spot as they emerge from winter hiding spots."
+            },
+            {
+              "slug": "palaemon-vulgaris",
+              "commonName": "Marsh Grass Shrimp",
+              "scientificName": "Palaemon vulgaris",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189305401/medium.jpeg",
+              "abundanceTier": "moderate",
+              "note": "Shrimp become more active as waters warm, with young juveniles appearing in shallow areas. This is when you'll start seeing them in tidal pools and marsh edges again."
+            },
+            {
+              "slug": "jassa-marmorata",
+              "commonName": "Marbled Scud",
+              "scientificName": "Jassa marmorata",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210231408/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Active reproduction begins, and you may notice fresh tube construction as populations expand. Look for new, lighter-colored tubes among the established colonies."
+            },
+            {
+              "slug": "armadilloniscus-ellipticus",
+              "commonName": "Common Driftclinger",
+              "scientificName": "Armadilloniscus ellipticus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173886354/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Most active as warming temperatures bring them out from winter hiding spots. Look under freshly deposited storm debris and driftwood."
+            },
+            {
+              "slug": "palaemon-paludosus",
+              "commonName": "Eastern Grass Shrimp",
+              "scientificName": "Palaemon paludosus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67303266/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Most active as waters warm, with adults becoming more visible in shallow areas. Peak breeding season begins, making them easier to spot in large numbers."
+            },
+            {
+              "slug": "polyphemus-pediculus",
+              "commonName": "Polyphemus pediculus",
+              "scientificName": "Polyphemus pediculus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23702189/medium.jpeg",
+              "abundanceTier": "moderate",
+              "note": "Populations begin to increase as water temperatures warm, making this a good time to find them in shallow areas that are warming up first."
+            },
+            {
+              "slug": "caprella-penantis",
+              "commonName": "Caprella penantis",
+              "scientificName": "Caprella penantis",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/399565430/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Begin to become more active and visible as water temperatures rise and seaweed growth increases, providing more habitat."
+            },
+            {
+              "slug": "carcinus-maenas",
+              "commonName": "European Green Crab",
+              "scientificName": "Carcinus maenas",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/577793778/medium.jpg",
+              "abundanceTier": "very-common",
+              "note": "Crabs become more active as waters warm, emerging from deeper winter refuges. This is prime time to spot them in tide pools and under rocks during low tide."
+            }
+          ]
+        },
+        {
+          "feature": "Tree Catkins & Pollen",
+          "description": "Trees releasing pollen via dangling catkins",
+          "icon": "🌾",
+          "species": [
+            {
+              "slug": "eubranchipus-bundyi",
+              "commonName": "Knobbedlip Fairy Shrimp",
+              "scientificName": "Eubranchipus bundyi",
+              "thumbnailUrl": "https://static.inaturalist.org/photos/262746704/medium.jpg",
+              "abundanceTier": "common",
+              "note": "Most active and visible from March through May when temporary pools are full of snowmelt. Adults are swimming, mating, and laying drought-resistant eggs."
+            },
+            {
+              "slug": "tumidotheres-maculatus",
+              "commonName": "Squatter Pea Crab",
+              "scientificName": "Tumidotheres maculatus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/533996/medium.jpg",
+              "abundanceTier": "common",
+              "note": "Active inside host mollusks as waters warm. This is when you're most likely to find them while collecting shellfish during low tides."
+            },
+            {
+              "slug": "balanus-balanus",
+              "commonName": "rough barnacle",
+              "scientificName": "Balanus balanus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/574815107/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Adults become more active as water temperatures rise, extending their feeding appendages more frequently during high tide."
+            }
+          ]
+        }
+      ]
+    },
+    "may": {
+      "season": "spring",
+      "highlights": [
+        {
+          "feature": "Emerging Leaves",
+          "description": "Fresh foliage unfurling on trees, shrubs, and herbs",
+          "icon": "🌱",
+          "species": [
+            {
+              "slug": "gammarus-fasciatus",
+              "commonName": "Gammarus fasciatus",
+              "scientificName": "Gammarus fasciatus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55592186/medium.jpeg",
+              "abundanceTier": "common",
+              "note": "Most active as water temperatures warm, often found in large numbers under stones in shallow stream margins. This is when they're easiest to spot as they emerge from winter hiding spots."
+            },
+            {
+              "slug": "palaemon-vulgaris",
+              "commonName": "Marsh Grass Shrimp",
+              "scientificName": "Palaemon vulgaris",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189305401/medium.jpeg",
+              "abundanceTier": "moderate",
+              "note": "Shrimp become more active as waters warm, with young juveniles appearing in shallow areas. This is when you'll start seeing them in tidal pools and marsh edges again."
+            },
+            {
+              "slug": "jassa-marmorata",
+              "commonName": "Marbled Scud",
+              "scientificName": "Jassa marmorata",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210231408/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Active reproduction begins, and you may notice fresh tube construction as populations expand. Look for new, lighter-colored tubes among the established colonies."
+            },
+            {
+              "slug": "armadilloniscus-ellipticus",
+              "commonName": "Common Driftclinger",
+              "scientificName": "Armadilloniscus ellipticus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173886354/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Most active as warming temperatures bring them out from winter hiding spots. Look under freshly deposited storm debris and driftwood."
+            },
+            {
+              "slug": "palaemon-paludosus",
+              "commonName": "Eastern Grass Shrimp",
+              "scientificName": "Palaemon paludosus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67303266/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Most active as waters warm, with adults becoming more visible in shallow areas. Peak breeding season begins, making them easier to spot in large numbers."
+            },
+            {
+              "slug": "polyphemus-pediculus",
+              "commonName": "Polyphemus pediculus",
+              "scientificName": "Polyphemus pediculus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23702189/medium.jpeg",
+              "abundanceTier": "moderate",
+              "note": "Populations begin to increase as water temperatures warm, making this a good time to find them in shallow areas that are warming up first."
+            },
+            {
+              "slug": "caprella-penantis",
+              "commonName": "Caprella penantis",
+              "scientificName": "Caprella penantis",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/399565430/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Begin to become more active and visible as water temperatures rise and seaweed growth increases, providing more habitat."
+            },
+            {
+              "slug": "carcinus-maenas",
+              "commonName": "European Green Crab",
+              "scientificName": "Carcinus maenas",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/577793778/medium.jpg",
+              "abundanceTier": "very-common",
+              "note": "Crabs become more active as waters warm, emerging from deeper winter refuges. This is prime time to spot them in tide pools and under rocks during low tide."
+            }
+          ]
+        },
+        {
+          "feature": "Tree Catkins & Pollen",
+          "description": "Trees releasing pollen via dangling catkins",
+          "icon": "🌾",
+          "species": [
+            {
+              "slug": "eubranchipus-bundyi",
+              "commonName": "Knobbedlip Fairy Shrimp",
+              "scientificName": "Eubranchipus bundyi",
+              "thumbnailUrl": "https://static.inaturalist.org/photos/262746704/medium.jpg",
+              "abundanceTier": "common",
+              "note": "Most active and visible from March through May when temporary pools are full of snowmelt. Adults are swimming, mating, and laying drought-resistant eggs."
+            },
+            {
+              "slug": "tumidotheres-maculatus",
+              "commonName": "Squatter Pea Crab",
+              "scientificName": "Tumidotheres maculatus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/533996/medium.jpg",
+              "abundanceTier": "common",
+              "note": "Active inside host mollusks as waters warm. This is when you're most likely to find them while collecting shellfish during low tides."
+            },
+            {
+              "slug": "balanus-balanus",
+              "commonName": "rough barnacle",
+              "scientificName": "Balanus balanus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/574815107/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Adults become more active as water temperatures rise, extending their feeding appendages more frequently during high tide."
+            }
+          ]
+        }
+      ]
+    },
+    "june": {
+      "season": "summer",
+      "highlights": [
+        {
+          "feature": "Summer Blooms",
+          "description": "Peak flowering season across meadows and gardens",
+          "icon": "🌻",
+          "species": [
+            {
+              "slug": "portunus-sayi",
+              "commonName": "Sargassum Swimming Crab",
+              "scientificName": "Portunus sayi",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1094589/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Most likely time to spot them when Gulf Stream eddies or warm water masses bring floating Sargassum close to shore or onto beaches."
+            },
+            {
+              "slug": "palaemon-vulgaris",
+              "commonName": "Marsh Grass Shrimp",
+              "scientificName": "Palaemon vulgaris",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189305401/medium.jpeg",
+              "abundanceTier": "moderate",
+              "note": "Peak activity season when they're most abundant and easiest to spot. Adults are actively feeding and reproducing, making them more visible in shallow waters."
+            },
+            {
+              "slug": "jassa-marmorata",
+              "commonName": "Marbled Scud",
+              "scientificName": "Jassa marmorata",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210231408/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Peak activity period with largest populations visible. Tubes are most abundant and obvious during summer low tides when intertidal areas are exposed."
+            },
+            {
+              "slug": "armadilloniscus-ellipticus",
+              "commonName": "Common Driftclinger",
+              "scientificName": "Armadilloniscus ellipticus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173886354/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Peak activity period when they're easiest to spot scurrying around coastal debris during low tide. Often found in small groups under the same piece of wood."
+            },
+            {
+              "slug": "palaemon-paludosus",
+              "commonName": "Eastern Grass Shrimp",
+              "scientificName": "Palaemon paludosus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67303266/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "At their most abundant and easiest to observe, gathering in shallow, warm waters among dense aquatic vegetation. Young shrimp appear, looking like tiny versions of adults."
+            },
+            {
+              "slug": "carcinus-maenas",
+              "commonName": "European Green Crab",
+              "scientificName": "Carcinus maenas",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/577793778/medium.jpg",
+              "abundanceTier": "very-common",
+              "note": "Peak activity season when they're most visible and aggressive. Mating occurs during summer months, and you might see females carrying orange egg masses under their abdomens."
+            }
+          ]
+        }
+      ]
+    },
+    "july": {
+      "season": "summer",
+      "highlights": [
+        {
+          "feature": "Summer Blooms",
+          "description": "Peak flowering season across meadows and gardens",
+          "icon": "🌻",
+          "species": [
+            {
+              "slug": "portunus-sayi",
+              "commonName": "Sargassum Swimming Crab",
+              "scientificName": "Portunus sayi",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1094589/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Most likely time to spot them when Gulf Stream eddies or warm water masses bring floating Sargassum close to shore or onto beaches."
+            },
+            {
+              "slug": "palaemon-vulgaris",
+              "commonName": "Marsh Grass Shrimp",
+              "scientificName": "Palaemon vulgaris",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189305401/medium.jpeg",
+              "abundanceTier": "moderate",
+              "note": "Peak activity season when they're most abundant and easiest to spot. Adults are actively feeding and reproducing, making them more visible in shallow waters."
+            },
+            {
+              "slug": "jassa-marmorata",
+              "commonName": "Marbled Scud",
+              "scientificName": "Jassa marmorata",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210231408/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Peak activity period with largest populations visible. Tubes are most abundant and obvious during summer low tides when intertidal areas are exposed."
+            },
+            {
+              "slug": "armadilloniscus-ellipticus",
+              "commonName": "Common Driftclinger",
+              "scientificName": "Armadilloniscus ellipticus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173886354/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Peak activity period when they're easiest to spot scurrying around coastal debris during low tide. Often found in small groups under the same piece of wood."
+            },
+            {
+              "slug": "palaemon-paludosus",
+              "commonName": "Eastern Grass Shrimp",
+              "scientificName": "Palaemon paludosus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67303266/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "At their most abundant and easiest to observe, gathering in shallow, warm waters among dense aquatic vegetation. Young shrimp appear, looking like tiny versions of adults."
+            },
+            {
+              "slug": "carcinus-maenas",
+              "commonName": "European Green Crab",
+              "scientificName": "Carcinus maenas",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/577793778/medium.jpg",
+              "abundanceTier": "very-common",
+              "note": "Peak activity season when they're most visible and aggressive. Mating occurs during summer months, and you might see females carrying orange egg masses under their abdomens."
+            }
+          ]
+        }
+      ]
+    },
+    "august": {
+      "season": "summer",
+      "highlights": [
+        {
+          "feature": "Summer Blooms",
+          "description": "Peak flowering season across meadows and gardens",
+          "icon": "🌻",
+          "species": [
+            {
+              "slug": "portunus-sayi",
+              "commonName": "Sargassum Swimming Crab",
+              "scientificName": "Portunus sayi",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1094589/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Most likely time to spot them when Gulf Stream eddies or warm water masses bring floating Sargassum close to shore or onto beaches."
+            },
+            {
+              "slug": "palaemon-vulgaris",
+              "commonName": "Marsh Grass Shrimp",
+              "scientificName": "Palaemon vulgaris",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189305401/medium.jpeg",
+              "abundanceTier": "moderate",
+              "note": "Peak activity season when they're most abundant and easiest to spot. Adults are actively feeding and reproducing, making them more visible in shallow waters."
+            },
+            {
+              "slug": "jassa-marmorata",
+              "commonName": "Marbled Scud",
+              "scientificName": "Jassa marmorata",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210231408/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Peak activity period with largest populations visible. Tubes are most abundant and obvious during summer low tides when intertidal areas are exposed."
+            },
+            {
+              "slug": "armadilloniscus-ellipticus",
+              "commonName": "Common Driftclinger",
+              "scientificName": "Armadilloniscus ellipticus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173886354/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Peak activity period when they're easiest to spot scurrying around coastal debris during low tide. Often found in small groups under the same piece of wood."
+            },
+            {
+              "slug": "palaemon-paludosus",
+              "commonName": "Eastern Grass Shrimp",
+              "scientificName": "Palaemon paludosus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67303266/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "At their most abundant and easiest to observe, gathering in shallow, warm waters among dense aquatic vegetation. Young shrimp appear, looking like tiny versions of adults."
+            },
+            {
+              "slug": "carcinus-maenas",
+              "commonName": "European Green Crab",
+              "scientificName": "Carcinus maenas",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/577793778/medium.jpg",
+              "abundanceTier": "very-common",
+              "note": "Peak activity season when they're most visible and aggressive. Mating occurs during summer months, and you might see females carrying orange egg masses under their abdomens."
+            }
+          ]
+        }
+      ]
+    },
+    "september": {
+      "season": "fall",
+      "highlights": []
+    },
+    "october": {
+      "season": "fall",
+      "highlights": []
+    },
+    "november": {
+      "season": "fall",
+      "highlights": []
+    },
+    "december": {
+      "season": "winter",
+      "highlights": [
+        {
+          "feature": "Evergreen Identification",
+          "description": "Conifers and broadleaf evergreens stand out in winter",
+          "icon": "🌲",
+          "species": [
+            {
+              "slug": "chthamalus-fragilis",
+              "commonName": "Fragile Barnacle",
+              "scientificName": "Chthamalus fragilis",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13551598/medium.jpg",
+              "abundanceTier": "common",
+              "note": "Barnacles remain tightly closed most of the time, appearing as dormant gray bumps. They can survive freezing and ice, though growth stops completely."
+            },
+            {
+              "slug": "jassa-marmorata",
+              "commonName": "Marbled Scud",
+              "scientificName": "Jassa marmorata",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210231408/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Reduced activity but still present. Many individuals remain in their tubes, making them less obvious but still detectable during winter low tides."
+            },
+            {
+              "slug": "chiridotea-tuftsii",
+              "commonName": "Long-horned Sandmole",
+              "scientificName": "Chiridotea tuftsii",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/184095100/medium.jpeg",
+              "abundanceTier": "rare",
+              "note": "Retreat deeper into sediments and become less active, making them very difficult to find during this season."
+            },
+            {
+              "slug": "derocheilocaris-typica",
+              "commonName": "Derocheilocaris typica",
+              "scientificName": "Derocheilocaris typica",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/232307624/medium.jpg",
+              "abundanceTier": "rare",
+              "note": "Likely present but dormant in sand, virtually impossible to detect without specialized equipment and techniques."
+            },
+            {
+              "slug": "bryocamptus-hutchinsoni",
+              "commonName": "Bryocamptus hutchinsoni",
+              "scientificName": "Bryocamptus hutchinsoni",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/265600604/medium.jpeg",
+              "abundanceTier": "rare",
+              "note": "Likely dormant or much less active in frozen moss, though may remain active in spring-fed areas that don't freeze. **Identification uncertain - winter survival strategy unknown.**"
+            },
+            {
+              "slug": "naushonia-crangonoides",
+              "commonName": "Naushonia crangonoides",
+              "scientificName": "Naushonia crangonoides",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/337029022/medium.jpg",
+              "abundanceTier": "rare",
+              "note": "Probably inactive or in deeper waters during coldest months, making winter encounters highly unlikely in New England."
+            }
+          ]
+        },
+        {
+          "feature": "Winter Buds",
+          "description": "Buds reveal which tree is which before spring arrives",
+          "icon": "🫑",
+          "species": [
+            {
+              "slug": "lepas-anserifera",
+              "commonName": "Goose Barnacle",
+              "scientificName": "Lepas anserifera",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9196331/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Frequent winter storms regularly deliver specimens to beaches, though cold temperatures mean the animals are often dead or dying by the time they reach shore."
+            },
+            {
+              "slug": "rhithropanopeus-harrisii",
+              "commonName": "White-tipped Mud Crab",
+              "scientificName": "Rhithropanopeus harrisii",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207642974/medium.jpeg",
+              "abundanceTier": "moderate",
+              "note": "Much less visible as they burrow deeper into mud or find shelter under rocks and debris to wait out the cold months."
+            },
+            {
+              "slug": "amphibalanus-eburneus",
+              "commonName": "Ivory Barnacle",
+              "scientificName": "Amphibalanus eburneus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6168581/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Barnacles remain sealed in their shells during cold weather and low tides, appearing completely inactive but still alive underneath."
+            },
+            {
+              "slug": "porcellionides-pruinosus",
+              "commonName": "Powder Blue Isopod",
+              "scientificName": "Porcellionides pruinosus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/343138210/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Largely inactive, hiding deep under logs, stones, or in soil where they enter a dormant state. Occasionally visible on unusually warm winter days near the surface of their hiding spots."
+            },
+            {
+              "slug": "eualus-pusiolus",
+              "commonName": "Doll Eualid",
+              "scientificName": "Eualus pusiolus",
+              "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8876161/medium.jpg",
+              "abundanceTier": "moderate",
+              "note": "Much less visible, likely moving to deeper waters or becoming less active in cold temperatures."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

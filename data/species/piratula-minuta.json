@@ -1,0 +1,130 @@
+{
+  "slug": "piratula-minuta",
+  "taxonId": 455061,
+  "group": "arachnids",
+  "commonName": "Piratula minuta",
+  "scientificName": "Piratula minuta",
+  "family": "Lycosidae",
+  "familyCommonName": "Wolf Spiders",
+  "genus": "Piratula",
+  "genusCommonName": "Piratula",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Wolf Spiders",
+      "rank": "family",
+      "slug": "explore/wolf-spiders"
+    },
+    {
+      "label": "Piratula",
+      "rank": "genus",
+      "slug": "explore/piratula"
+    },
+    {
+      "label": "Piratula minuta",
+      "rank": "species",
+      "slug": "species/piratula-minuta"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 64652444,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64652444/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64652444/large.jpg",
+      "attribution": "(c) Erika Mitchell, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/40785533"
+    },
+    {
+      "id": 8475710,
+      "mediumUrl": "https://static.inaturalist.org/photos/8475710/medium.jpeg",
+      "largeUrl": "https://static.inaturalist.org/photos/8475710/large.jpeg",
+      "attribution": "(c) cheins1, all rights reserved, uploaded by cheins1",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/45506100"
+    },
+    {
+      "id": 180094,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/180094/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/180094/large.jpeg",
+      "attribution": "(c) Gergin Blagoev, Biodiversity Institute of Ontario, some rights reserved (CC BY-SA)",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/45506101"
+    }
+  ],
+  "nameStory": "The name \"Minute Wolf Spider\" comes from the Latin word \"minutus,\" meaning small or tiny, which perfectly describes this diminutive member of the wolf spider family. Unlike their larger, more imposing wolf spider cousins that might remind you of miniature wolves prowling the forest floor, these little hunters are so small they're easily overlooked despite sharing the same predatory lifestyle.",
+  "description": "The Minute Wolf Spider is one of New England's tiniest wolf spiders, measuring only about 2-4mm in body length - roughly the size of a small ant. Despite its small stature, it has the characteristic robust, athletic build of wolf spiders, with relatively long legs and a compact body covered in fine hairs. Like all wolf spiders, it doesn't build webs to catch prey but instead actively hunts small insects and other tiny arthropods on the ground.",
+  "idTips": [
+    {
+      "label": "Size",
+      "description": "Extremely small for a wolf spider at only 2-4mm body length - you could easily fit several on your pinky fingernail with room to spare",
+      "isPrimary": true
+    },
+    {
+      "label": "Body Shape",
+      "description": "Compact, sturdy build typical of wolf spiders with a relatively narrow front section (cephalothorax) and rounded abdomen covered in fine, velvety hairs",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Generally dark brown to grayish-brown with subtle lighter markings that can be difficult to see without magnification due to the spider's tiny size",
+      "isPrimary": false
+    },
+    {
+      "label": "Eyes",
+      "description": "Eight eyes arranged in the classic wolf spider pattern with four small eyes in front row and four larger ones behind, though you'll need a hand lens to see this clearly",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Moves in quick, darting motions across soil and leaf litter, freezing suddenly when disturbed before scurrying to cover",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in moist soil environments including the edges of wetlands, boggy areas, and damp woodland floors with rich organic matter. Prefers areas with loose, soft soil where it can easily move between leaf litter and surface debris. Often discovered near small streams, pond margins, or in consistently moist microhabitats within mixed forests.",
+  "seasonality": {
+    "spring": "Adults become active as soil warms, moving actively through leaf litter in search of tiny prey like springtails and mites.",
+    "summer": "Peak activity period when adults are most easily observed hunting during daylight hours, especially in the morning.",
+    "fall": "Mating occurs and females may be seen carrying small egg sacs attached to their spinnerets before seeking overwintering sites.",
+    "winter": "Inactive, likely overwintering as juveniles or adults in protected soil crevices and under deep leaf litter."
+  },
+  "funFact": "Despite being one of the smallest wolf spiders in New England, the Minute Wolf Spider has proportionally the same powerful bite force relative to its size as its much larger relatives - it's like a microscopic version of a big game hunter, taking down prey nearly its own size with lightning-fast precision.",
+  "confusionNotes": "Most likely confused with juvenile wolf spiders of larger species, but adult Minute Wolf Spiders maintain their tiny size year-round whereas juveniles of other species will be noticeably growing larger throughout the season. Remember: if it stays ant-sized all summer, it's likely an adult Minute Wolf Spider.",
+  "contextualKnowledge": "This species is easily overlooked by casual observers because of its tiny size, which may explain why it has only been recorded once in New England - it's likely more common than records suggest but simply too small to notice without specifically looking for tiny arachnids.",
+  "compareHints": "The Minute Wolf Spider is significantly smaller than its relative the Lonely Wolf Spider (Piratula insularis), which is about twice the size at 4-6mm body length. While both species prefer moist habitats, the Lonely Wolf Spider is more commonly found in coastal areas and salt marshes, whereas the Minute Wolf Spider sticks to freshwater wetland edges and moist forest floors.",
+  "relatedSpecies": [
+    {
+      "slug": "piratula-insularis",
+      "commonName": "Lonely Wolf Spider",
+      "scientificName": "Piratula insularis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/258605337/medium.jpeg",
+      "distinction": "The Lonely Wolf Spider is smaller and more coastal-oriented than its relative Piratula minuta, which tends to prefer inland wetland edges and marshy areas."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/455061"
+}

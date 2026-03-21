@@ -1,0 +1,122 @@
+{
+  "slug": "robertus-pumilus",
+  "taxonId": 230297,
+  "group": "arachnids",
+  "commonName": "Robertus pumilus",
+  "scientificName": "Robertus pumilus",
+  "family": "Theridiidae",
+  "familyCommonName": "Comb-footed Spiders",
+  "genus": "Robertus",
+  "genusCommonName": "Robertus",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Comb-footed Spiders",
+      "rank": "family",
+      "slug": "explore/comb-footed-spiders"
+    },
+    {
+      "label": "Robertus",
+      "rank": "genus",
+      "slug": "explore/robertus"
+    },
+    {
+      "label": "Robertus pumilus",
+      "rank": "species",
+      "slug": "species/robertus-pumilus"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 243854074,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243854074/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243854074/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/142254820"
+    },
+    {
+      "id": 243853937,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243853937/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243853937/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC), uploaded by Tom Murray",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/23029700"
+    }
+  ],
+  "nameStory": "Robertus pumilus gets its genus name from Robert, likely honoring an early arachnologist, while 'pumilus' means 'dwarf' in Latin, referring to this spider's tiny size. Like many scientific names that become common names, most people simply call it the dwarf cobweb spider or refer to it by its full scientific name since it's so rarely encountered.",
+  "description": "The dwarf cobweb spider is a tiny member of the comb-footed spider family, barely noticeable to most casual observers. These minuscule spiders build the classic sticky, tangled webs we associate with cobwebs, but on a much smaller scale than their famous cousin, the black widow. They have the typical globular abdomen of their family, though much more modest in size and coloring. At full size, they're smaller than many gnats, making them true miniatures of the spider world.",
+  "idTips": [
+    {
+      "label": "Size",
+      "description": "Extremely small - body length typically under 3mm, making it one of the tiniest spiders you might encounter",
+      "isPrimary": true
+    },
+    {
+      "label": "Web",
+      "description": "Creates miniature cobwebs with irregular, sticky strands that feel tacky to the touch when accidentally walked into",
+      "isPrimary": false
+    },
+    {
+      "label": "Body Shape",
+      "description": "Typical theridiid build with a rounded, somewhat swollen abdomen and relatively thin legs",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Generally pale to medium brown coloration with subtle patterns that are difficult to see without magnification",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Extremely secretive and quick to drop from web when disturbed, often playing dead when touched",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in sheltered microhabitats like leaf litter, under logs, or in the corners of structures where they can build their tiny webs undisturbed. They prefer areas with consistent moisture and protection from direct sunlight. Given the extremely limited observation records in New England, they likely occupy very specific niche environments that make encounters quite rare.",
+  "seasonality": {
+    "spring": "Adults may become active as temperatures warm, though their small size makes spring detection unlikely without deliberate searching in appropriate microhabitats.",
+    "summer": "Peak activity period when adults are most likely to be found, though still requires careful observation due to their diminutive size.",
+    "fall": "May still be active into early fall, with females potentially carrying egg sacs before seeking overwintering sites.",
+    "winter": "Likely overwinter in protected locations like deep leaf litter or under bark, essentially dormant and undetectable."
+  },
+  "funFact": "With only 2 recorded observations in all of New England, finding a Robertus pumilus is rarer than spotting many endangered birds - you'd have better odds of seeing a bald eagle than this tiny spider!",
+  "confusionNotes": "Most likely to be confused with other tiny cobweb spiders or even dismissed as juvenile spiders of larger species. The key is the mature body proportions - even at tiny size, adults have the characteristic swollen abdomen shape rather than the more elongated form of most spider juveniles.",
+  "contextualKnowledge": "The extreme rarity of observations doesn't necessarily mean this species is endangered - it's more likely that their tiny size and secretive habits make them nearly impossible to detect without specialized sampling methods used by arachnologists.",
+  "compareHints": "Compared to its relative Robertus riparius, pumilus is generally smaller and has slightly different habitat preferences. Both species are extremely difficult to distinguish without microscopic examination of reproductive structures. Most field encounters with tiny cobweb spiders in New England are more likely to be common house spiders or other theridiids rather than either Robertus species.",
+  "relatedSpecies": [
+    {
+      "slug": "robertus-riparius",
+      "commonName": "Robertus riparius",
+      "scientificName": "Robertus riparius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243854721/medium.jpeg",
+      "distinction": "Robertus riparius differs from its close relative Robertus pumilus primarily in its stronger association with moist, riparian habitats, as suggested by its scientific name."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robertus_pumilus",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/230297"
+}

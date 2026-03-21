@@ -1,0 +1,136 @@
+{
+  "slug": "gonatozygon-pilosum",
+  "taxonId": 470513,
+  "group": "plants",
+  "commonName": "Gonatozygon pilosum",
+  "scientificName": "Gonatozygon pilosum",
+  "family": "Gonatozygaceae",
+  "familyCommonName": "Gonatozygaceae",
+  "genus": "Gonatozygon",
+  "genusCommonName": "Gonatozygon",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Gonatozygaceae",
+      "rank": "family",
+      "slug": "explore/gonatozygaceae"
+    },
+    {
+      "label": "Gonatozygon",
+      "rank": "genus",
+      "slug": "explore/gonatozygon"
+    },
+    {
+      "label": "Gonatozygon pilosum",
+      "rank": "species",
+      "slug": "species/gonatozygon-pilosum"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 2301313,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2301313/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2301313/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC), uploaded by Karolina Fucikova",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/47051300"
+    },
+    {
+      "id": 2079782,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2079782/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2079782/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/1716979"
+    }
+  ],
+  "nameStory": "Gonatozygon gets its name from Greek words meaning 'angled yoke,' referring to the distinctive bent or angled shape these tiny algae take when they reproduce. The species name 'pilosum' means 'hairy' in Latin, describing the fine bristles or hairs that cover the cell surface like microscopic fur.",
+  "description": "Gonatozygon pilosum is a microscopic freshwater alga that you'll need a magnifying glass or microscope to properly observe. These single-celled organisms are rod-shaped and covered in tiny hair-like projections, giving them a fuzzy appearance. Individual cells are extremely small, typically less than a tenth of a millimeter long, but they can sometimes form visible green films or mats in the water. Despite their tiny size, they're part of the same group as pond scum and other green algae.",
+  "idTips": [
+    {
+      "label": "Hairy cell surface",
+      "description": "Under magnification, cells appear fuzzy or bristly due to numerous fine hair-like projections covering the entire surface",
+      "isPrimary": true
+    },
+    {
+      "label": "Rod shape",
+      "description": "Individual cells are elongated and cylindrical, resembling tiny green rods or capsules",
+      "isPrimary": false
+    },
+    {
+      "label": "Single-celled form",
+      "description": "Each organism exists as an independent cell, not forming chains or colonies like many other algae",
+      "isPrimary": false
+    },
+    {
+      "label": "Green coloration",
+      "description": "Cells appear bright green due to chlorophyll, creating greenish tints in water when present in numbers",
+      "isPrimary": false
+    },
+    {
+      "label": "Freshwater habitat",
+      "description": "Found exclusively in clean, fresh water environments like ponds, slow streams, and bog pools",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "This microscopic alga lives in clean, acidic freshwater environments throughout New England, particularly in bog pools, quiet pond edges, and slow-moving streams. It prefers soft water with low mineral content and is often found in areas with sphagnum moss and other bog plants. Look for it in undisturbed wetlands and pristine mountain ponds where water quality is high.",
+  "seasonality": {
+    "spring": "Populations begin growing as water temperatures rise and daylight increases. Best time to find them as they multiply rapidly in fresh spring water.",
+    "summer": "Peak growing season when cells are most active and numerous. Warm temperatures and long days create ideal conditions for observation.",
+    "fall": "Populations may decline as temperatures drop and daylight decreases. Cells may form resting stages to survive winter.",
+    "winter": "Generally dormant or present in very low numbers. Cells may persist under ice in a resting state until spring returns."
+  },
+  "funFact": "Despite being invisible to the naked eye, these tiny algae are covered in what amounts to microscopic hair that actually helps them move through water - like a bacterium doing the breaststroke with thousands of tiny arms!",
+  "confusionNotes": "Under a microscope, it could be confused with other small rod-shaped algae, but the distinctive fuzzy, hair-covered appearance is unique among New England freshwater algae. Remember: if it looks like a tiny green hotdog wearing a fur coat, you've found your Gonatozygon pilosum.",
+  "contextualKnowledge": "This is a microscopic organism that requires magnification to identify properly, making it quite different from the typical plants most nature explorers encounter. It represents the hidden world of freshwater microorganisms that play crucial roles in aquatic ecosystems despite being largely invisible to casual observers.",
+  "compareHints": "Gonatozygon pilosum differs from its relatives like G. kinahanii and G. aculeatum primarily in the density and arrangement of its surface hairs - pilosum has the most uniformly fuzzy appearance. While G. aculeatum has more spine-like projections and G. brebissonii tends to be smoother, pilosum maintains its characteristic 'hairy' texture throughout its life cycle.",
+  "relatedSpecies": [
+    {
+      "slug": "gonatozygon-kinahanii",
+      "commonName": "Gonatozygon kinahanii",
+      "scientificName": "Gonatozygon kinahanii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2389246/medium.jpg",
+      "distinction": "**[UNCERTAIN: Specific differences from related species]** Gonatozygon kinahanii differs from its relatives G."
+    },
+    {
+      "slug": "gonatozygon-aculeatum",
+      "commonName": "Gonatozygon aculeatum",
+      "scientificName": "Gonatozygon aculeatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/179660412/medium.jpg",
+      "distinction": "**Comparison information is uncertain."
+    },
+    {
+      "slug": "gonatozygon-brebissonii",
+      "commonName": "Gonatozygon brebissonii",
+      "scientificName": "Gonatozygon brebissonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119131386/medium.jpg",
+      "distinction": "Differs from its relatives Gonatozygon kinahanii by its specific cell dimensions and shape details visible only under high magnification."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/470513"
+}

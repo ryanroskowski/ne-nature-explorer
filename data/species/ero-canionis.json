@@ -1,0 +1,122 @@
+{
+  "slug": "ero-canionis",
+  "taxonId": 60352,
+  "group": "arachnids",
+  "commonName": "Ero canionis",
+  "scientificName": "Ero canionis",
+  "family": "Mimetidae",
+  "familyCommonName": "Pirate Spiders",
+  "genus": "Ero",
+  "genusCommonName": "Pirate Spiders",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Pirate Spiders",
+      "rank": "family",
+      "slug": "explore/pirate-spiders"
+    },
+    {
+      "label": "Pirate Spiders",
+      "rank": "genus",
+      "slug": "explore/pirate-spiders"
+    },
+    {
+      "label": "Ero canionis",
+      "rank": "species",
+      "slug": "species/ero-canionis"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 308241631,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/308241631/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/308241631/large.jpg",
+      "attribution": "(c) Rod Crawford, some rights reserved (CC BY-NC), uploaded by Rod Crawford",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/6035200"
+    },
+    {
+      "id": 243431311,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243431311/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243431311/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/142026501"
+    }
+  ],
+  "nameStory": "Pirate spiders earned their swashbuckling name because they're spider pirates - they hunt and eat other spiders instead of catching flies and bugs like most spiders do! Just like pirates who raided other ships, these tiny arachnids sneak into other spiders' webs to steal their prey and sometimes even eat the web owners themselves.",
+  "description": "The pirate spider Ero canionis is a tiny, specialized hunter that preys exclusively on other spiders. These miniature predators are quite small, typically less than a quarter-inch long, with a compact, rounded abdomen and relatively long, spiny legs. Their bodies are usually pale yellow to light brown with subtle markings, and they have a distinctly different lifestyle from most spiders - they don't build webs to catch insects but instead hunt other spiders as their sole food source.",
+  "idTips": [
+    {
+      "label": "Behavior",
+      "description": "Watch for spiders that move deliberately through other spiders' webs without getting stuck, often carrying what looks like a small bundle - this is likely a pirate spider with its spider prey",
+      "isPrimary": true
+    },
+    {
+      "label": "Body Shape",
+      "description": "Compact, somewhat flattened body with a rounded abdomen that feels firm when gently touched, quite different from the soft, balloon-like abdomens of orb weavers",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Very small spider, roughly the size of a peppercorn or small bead, easily overlooked due to its tiny stature",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Pale yellowish to light brown coloration with subtle, often indistinct patterns - lacks the bold stripes or bright colors of many common spiders",
+      "isPrimary": false
+    },
+    {
+      "label": "Web",
+      "description": "Does not build a catching web of its own, but you might spot one carefully walking across other spiders' webs without triggering the sticky strands",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Pirate spiders are found wherever their spider prey lives, which means they can turn up in gardens, forests, and even around buildings where other spiders have built webs. Look for them in areas with dense spider populations - woodland edges, brushy areas, and gardens with plenty of web-building spiders like orb weavers and sheet web spiders.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm and other spider populations increase, beginning their hunting season as prey spiders emerge from winter refuges.",
+    "summer": "Peak activity period when both pirate spiders and their prey are most abundant and active, making this the best time to observe their unique hunting behavior.",
+    "fall": "Continues hunting through early fall, with mating activity occurring before winter temperatures arrive.",
+    "winter": "Adults likely overwinter in protected locations like under bark or in leaf litter, becoming inactive until spring warming."
+  },
+  "funFact": "Pirate spiders have evolved special techniques to avoid getting caught in their victims' webs - they can actually 'tune' the web strands by plucking them like guitar strings to mimic struggling prey, luring the web owner close enough to attack!",
+  "confusionNotes": "Because of their small size and pale coloration, pirate spiders are often overlooked or mistaken for young spiders of other species. The key difference is their behavior - if you see a tiny spider confidently walking through another spider's web without getting stuck, you've likely found a pirate spider.",
+  "contextualKnowledge": "Pirate spiders are extremely rare observations in New England, with only one recorded sighting of Ero canionis in the region. This doesn't necessarily mean they're absent - their tiny size and secretive hunting behavior make them very easy to overlook, so they may be more common than records suggest.",
+  "compareHints": "Ero canionis is very similar to its close relative Ero leonina, also found in New England, and distinguishing between them typically requires microscopic examination of their reproductive structures. Both species share the same pirate spider lifestyle and general appearance. In the field, focus on confirming you've found a pirate spider rather than trying to distinguish between these two very similar species.",
+  "relatedSpecies": [
+    {
+      "slug": "ero-leonina",
+      "commonName": "Ero leonina",
+      "scientificName": "Ero leonina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/212288302/medium.jpg",
+      "distinction": "Ero leonina is very similar to its relative Ero canionis, and distinguishing between them typically requires expert examination under magnification."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ero_canionis",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/60352"
+}

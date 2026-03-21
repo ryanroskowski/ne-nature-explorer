@@ -1,0 +1,114 @@
+{
+  "slug": "rehmia-lavata",
+  "taxonId": 1648959,
+  "group": "lichens",
+  "commonName": "Drenched Map Lichen",
+  "scientificName": "Rehmia lavata",
+  "family": "Rhizocarpaceae",
+  "familyCommonName": "Rhizocarpaceae",
+  "genus": "Rehmia",
+  "genusCommonName": "Rehmia",
+  "order": "Rhizocarpales",
+  "orderCommonName": "Rhizocarpales",
+  "breadcrumb": [
+    {
+      "label": "Lichens",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Ascomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/ascomycete-fungi"
+    },
+    {
+      "label": "Common Lichens",
+      "rank": "class",
+      "slug": "explore/common-lichens"
+    },
+    {
+      "label": "Rhizocarpales",
+      "rank": "order",
+      "slug": "explore/rhizocarpales"
+    },
+    {
+      "label": "Rhizocarpaceae",
+      "rank": "family",
+      "slug": "explore/rhizocarpaceae"
+    },
+    {
+      "label": "Rehmia",
+      "rank": "genus",
+      "slug": "explore/rehmia"
+    },
+    {
+      "label": "Drenched Map Lichen",
+      "rank": "species",
+      "slug": "species/rehmia-lavata"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 23567908,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23567908/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23567908/large.jpg",
+      "attribution": "(c) Tomás Curtis, some rights reserved (CC BY-NC), uploaded by Tomás Curtis",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/164895900"
+    }
+  ],
+  "nameStory": "The \"drenched\" in this lichen's name comes from its preference for consistently moist rocks and its water-soaked appearance when wet. The \"map\" part refers to the way its dark boundaries between patches create irregular shapes that look like borders on an old cartographer's chart. When you find it dripping wet after rain, you'll understand why early lichenologists thought it looked thoroughly soaked!",
+  "description": "Drenched Map Lichen is a crusty, flat lichen that forms thin patches on wet rocks and cliff faces. It appears as grayish to brownish crusty patches with dark, irregular boundary lines that create a map-like pattern across the rock surface. The patches typically spread 2-4 inches across, though several patches may merge to cover larger areas. Like all lichens, it's actually two organisms living together - a fungus and an algae working as a team.",
+  "idTips": [
+    {
+      "label": "Map-like pattern",
+      "description": "Dark, irregular lines create distinct boundaries between lighter patches, resembling borders on an old map when viewed up close",
+      "isPrimary": true
+    },
+    {
+      "label": "Wet rock preference",
+      "description": "Always found on consistently moist or dripping rock faces, never on dry surfaces - the rock feels damp to cool when you touch nearby areas",
+      "isPrimary": false
+    },
+    {
+      "label": "Crusty texture",
+      "description": "Forms a thin, flat crust that's firmly attached to rock - you can't peel it off like paper, and it feels slightly rough under your fingertip",
+      "isPrimary": false
+    },
+    {
+      "label": "Color when wet",
+      "description": "Becomes distinctly darker and more vibrant when wet, shifting from pale gray-brown to deeper brown or olive tones",
+      "isPrimary": false
+    },
+    {
+      "label": "Small fruiting bodies",
+      "description": "Tiny black dots (spore-producing structures) may be scattered across the surface, feeling like fine sandpaper when present",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for Drenched Map Lichen on consistently wet rock faces, especially near waterfalls, seeps, or north-facing cliff walls that stay moist year-round. It thrives on non-calcareous rocks like granite and schist in shaded, humid locations from sea level to moderate elevations. You'll often find it alongside mosses and other moisture-loving lichens in New England's ravines and gorges.",
+  "seasonality": {
+    "spring": "Most visible during wet spring months when increased moisture makes the map-like patterns more pronounced and colors more vibrant.",
+    "summer": "May appear faded or less distinct during dry periods, but becomes vivid again after summer thunderstorms soak the rocks.",
+    "fall": "Autumn rains revitalize the lichen, making it an excellent time to observe the characteristic mapping patterns as colors deepen.",
+    "winter": "Remains visible under snow and ice, often appearing dark against white snow on rock faces, though identification features may be muted."
+  },
+  "funFact": "This lichen can actually \"shut down\" during dry periods and appear nearly dead, then spring back to life within minutes of getting wet - it can go from completely dormant to actively photosynthesizing faster than you can make a cup of coffee!",
+  "confusionNotes": "Most easily confused with other map lichens that have dark boundary lines, but Drenched Map Lichen is the only one that's always found on consistently wet rocks. Memory trick: \"Drenched means damp\" - if the rock isn't noticeably moist, you're probably looking at a different map lichen species.",
+  "contextualKnowledge": "With only one recorded observation in New England, this is an exceptionally rare find that represents the northeastern edge of this species' range. Any sighting would be scientifically significant and worth documenting with photographs and precise location data.",
+  "compareHints": "Drenched Map Lichen differs from its relative Rehmia rubescens by its preference for wetter habitats and less reddish coloration. While both form map-like patterns, R. rubescens tends to have more pinkish or reddish tones and can tolerate slightly drier conditions. The dark boundary lines in Drenched Map Lichen are typically more prominent and well-defined than in its cousin.",
+  "relatedSpecies": [
+    {
+      "slug": "rehmia-rubescens",
+      "commonName": "Rehmia rubescens",
+      "scientificName": "Rehmia rubescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30686630/medium.jpg",
+      "distinction": "Unlike its relative the Drenched Map Lichen (Rehmia lavata), which tends toward grayer colors and prefers consistently moist conditions, Rehmia rubescens shows those characteristic reddish tones and tolerates drier exposures."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1648959"
+}

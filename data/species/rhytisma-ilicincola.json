@@ -1,0 +1,186 @@
+{
+  "slug": "rhytisma-ilicincola",
+  "taxonId": 1137953,
+  "group": "fungi",
+  "commonName": "Rhytisma ilicincola",
+  "scientificName": "Rhytisma ilicincola",
+  "family": "Rhytismataceae",
+  "familyCommonName": "Rhytismataceae",
+  "genus": "Rhytisma",
+  "genusCommonName": "Tar Spot Fungi",
+  "order": "Rhytismatales",
+  "orderCommonName": "Rhytismatales",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Ascomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/ascomycete-fungi"
+    },
+    {
+      "label": "Leotiomycetes",
+      "rank": "class",
+      "slug": "explore/leotiomycetes"
+    },
+    {
+      "label": "Rhytismatales",
+      "rank": "order",
+      "slug": "explore/rhytismatales"
+    },
+    {
+      "label": "Rhytismataceae",
+      "rank": "family",
+      "slug": "explore/rhytismataceae"
+    },
+    {
+      "label": "Tar Spot Fungi",
+      "rank": "genus",
+      "slug": "explore/tar-spot-fungi"
+    },
+    {
+      "label": "Rhytisma ilicincola",
+      "rank": "species",
+      "slug": "species/rhytisma-ilicincola"
+    }
+  ],
+  "observationCount": 5,
+  "abundanceTier": "moderate",
+  "photos": [
+    {
+      "id": 97304110,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/97304110/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/97304110/large.jpg",
+      "attribution": "(c) Christine Young, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/60838430"
+    },
+    {
+      "id": 227670548,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227670548/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227670548/large.jpeg",
+      "attribution": "(c) aarongunnar, some rights reserved (CC BY), uploaded by aarongunnar",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/113795300"
+    },
+    {
+      "id": 322474800,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322474800/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322474800/large.jpeg",
+      "attribution": "(c) noah_siegel, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/184719174"
+    },
+    {
+      "id": 322474845,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322474845/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322474845/large.jpeg",
+      "attribution": "(c) noah_siegel, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/184719174"
+    },
+    {
+      "id": 322474888,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322474888/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322474888/large.jpeg",
+      "attribution": "(c) noah_siegel, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/184719174"
+    },
+    {
+      "id": 97304118,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/97304118/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/97304118/large.jpg",
+      "attribution": "(c) Christine Young, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/60838430"
+    }
+  ],
+  "nameStory": "",
+  "description": "Rhytisma ilicincola is a fungal pathogen that causes tar spot disease on holly leaves, belonging to the Rhytismataceae family of ascomycete fungi. This disease is commonly observed on American holly and other Ilex species throughout New England during wet growing seasons.",
+  "idTips": [
+    {
+      "label": "Black tar-like spots",
+      "description": "Look for shiny, black, raised lesions on holly leaves that resemble spots of tar or paint",
+      "isPrimary": true
+    },
+    {
+      "label": "Leaf host specificity",
+      "description": "Disease appears exclusively on holly (Ilex) leaves, making host identification crucial for diagnosis",
+      "isPrimary": false
+    },
+    {
+      "label": "Seasonal appearance",
+      "description": "Spots develop in late summer and persist through fall and winter on infected leaves",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Rhytisma ilicincola thrives in moist environments on holly shrubs and small trees in woodlands, gardens, and landscapes throughout New England, particularly in areas with high humidity and frequent rainfall.",
+  "seasonality": {
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
+  },
+  "funFact": "Despite its dramatic appearance, tar spot on holly is primarily a cosmetic disease that rarely causes serious harm to the plant, though heavily infected leaves may drop prematurely during winter stress.",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
+  "relatedSpecies": [
+    {
+      "slug": "rhytisma-acerinum",
+      "commonName": "Black Tar Spot",
+      "scientificName": "Rhytisma acerinum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/165792656/medium.jpeg",
+      "distinction": "Black Tar Spot creates the largest and most solid-looking black spots compared to its relatives."
+    },
+    {
+      "slug": "rhytisma-punctatum",
+      "commonName": "Speckled Tar Spot",
+      "scientificName": "Rhytisma punctatum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/58678801/medium.jpeg",
+      "distinction": "Speckled Tar Spot creates numerous tiny raised dots, while Black Tar Spot forms larger solid patches that can cover significant portions of a leaf."
+    },
+    {
+      "slug": "rhytisma-americanum",
+      "commonName": "American Tar Spot",
+      "scientificName": "Rhytisma americanum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248272668/medium.jpg",
+      "distinction": "American Tar Spot creates larger, more irregular black patches compared to Black Tar Spot, which tends to form smaller, more circular spots."
+    },
+    {
+      "slug": "rhytisma-decolorans",
+      "commonName": "Rhytisma decolorans",
+      "scientificName": "Rhytisma decolorans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/240546772/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "rhytisma-prini",
+      "commonName": "Rhytisma prini",
+      "scientificName": "Rhytisma prini",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/55376859/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "rhytisma-vaccinii",
+      "commonName": "Rhytisma vaccinii",
+      "scientificName": "Rhytisma vaccinii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/218441208/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "rhytisma-salicinum",
+      "commonName": "Willow Tar Spot",
+      "scientificName": "Rhytisma salicinum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5847897/medium.jpg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1137953"
+}

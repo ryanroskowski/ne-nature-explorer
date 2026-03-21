@@ -1,0 +1,128 @@
+{
+  "slug": "cicurina-itasca",
+  "taxonId": 216973,
+  "group": "arachnids",
+  "commonName": "Cicurina itasca",
+  "scientificName": "Cicurina itasca",
+  "family": "Cicurinidae",
+  "familyCommonName": "cicurinid spiders",
+  "genus": "Cicurina",
+  "genusCommonName": "Cicurina",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "cicurinid spiders",
+      "rank": "family",
+      "slug": "explore/cicurinid-spiders"
+    },
+    {
+      "label": "Cicurina",
+      "rank": "genus",
+      "slug": "explore/cicurina"
+    },
+    {
+      "label": "Cicurina itasca",
+      "rank": "species",
+      "slug": "species/cicurina-itasca"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 182778105,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182778105/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182778105/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC), uploaded by Tom Murray",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/21697300"
+    }
+  ],
+  "nameStory": "The itasca spider gets its species name from Lake Itasca in Minnesota, likely where scientists first discovered and studied this particular spider. The name 'Cicurina' comes from Latin meaning 'to tame' or 'make gentle,' though these little spiders were never wild to begin with! Like many scientific names, this one tells us more about where researchers found it than what the spider actually does.",
+  "description": "The itasca spider is a small, rather secretive member of the funnel weaver family that most people never notice. These tiny spiders are typically pale brown to grayish in color and quite small, usually less than a quarter-inch in body length. They're part of a group called cicurinid spiders, which are known for being excellent hunters that don't rely heavily on webs to catch their prey. With only one recorded sighting in New England, this is truly one of our region's rarest arachnids.",
+  "idTips": [
+    {
+      "label": "Size",
+      "description": "Very small spider with a body typically under 6mm long, about the size of a pencil eraser or smaller",
+      "isPrimary": false
+    },
+    {
+      "label": "Body Shape",
+      "description": "Compact, somewhat flattened body that feels sturdy if gently handled, with relatively long legs compared to body size",
+      "isPrimary": true
+    },
+    {
+      "label": "Markings",
+      "description": "Pale brown to grayish coloration with subtle darker markings that may appear almost translucent in bright light",
+      "isPrimary": false
+    },
+    {
+      "label": "Web",
+      "description": "Does not build typical orb webs; may create small, irregular silk retreats in crevices that feel thin and papery to touch",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Active hunter that moves quickly when disturbed, often freezing motionless when sensing vibrations",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Based on its extremely rare occurrence in New England, this spider likely prefers very specific microhabitats that are uncommon in our region. It may be found in leaf litter, under rocks, or in soil crevices in undisturbed woodland areas. The single New England record suggests it's at the very edge of its range here, possibly occurring only in unique habitat conditions that match its preferred environment further west.",
+  "seasonality": {
+    "spring": "Adults may become active as temperatures warm, though with only one regional record, seasonal patterns in New England are unknown.",
+    "summer": "Peak activity period for most cicurinid spiders, when adults are most likely to be encountered if present.",
+    "fall": "May continue activity into early fall, potentially when mating occurs, though regional data is lacking.",
+    "winter": "Likely overwinters as juveniles or adults in protected locations like deep leaf litter or soil crevices."
+  },
+  "funFact": "This spider is so rare in New England that it's been recorded only once in the entire region, making anyone who finds one a genuine contributor to scientific knowledge about the species' distribution!",
+  "confusionNotes": "With only one New England record, confusion with other species is the main identification challenge. It could easily be mistaken for young wolf spiders or other small hunting spiders, but its cicurinid family traits include the lack of prominent web-building and its particular body proportions.",
+  "contextualKnowledge": "The family name Cicurinidae represents a group of spiders that were once lumped in with other funnel weavers but are now recognized as distinct. Many species in this family are poorly known, with limited distribution data, making field observations particularly valuable to science.",
+  "compareHints": "Distinguishing this species from its close relatives like Cicurina brevis or Cicurina robusta requires expert examination of reproductive structures under magnification. In the field, geographic location is your best clue, as different Cicurina species tend to have distinct ranges. The extremely rare occurrence of C. itasca in New England makes it the least likely of the regional cicurinids you might encounter.",
+  "relatedSpecies": [
+    {
+      "slug": "cicurina-brevis",
+      "commonName": "Cicurina brevis",
+      "scientificName": "Cicurina brevis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/65282463/medium.jpg",
+      "distinction": "Cicurina brevis is distinguished from its relatives like C."
+    },
+    {
+      "slug": "cicurina-pallida",
+      "commonName": "Cicurina pallida",
+      "scientificName": "Cicurina pallida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182778441/medium.jpeg",
+      "distinction": "Compared to other Cicurina species that might occur in New England, the pale cicurina lives up to its name with notably lighter coloration than its relatives."
+    },
+    {
+      "slug": "cicurina-robusta",
+      "commonName": "Cicurina robusta",
+      "scientificName": "Cicurina robusta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182779248/medium.jpeg",
+      "distinction": "Compared to its Cicurina relatives like C."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cicurina_itasca",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/216973"
+}

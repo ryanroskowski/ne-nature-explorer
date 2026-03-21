@@ -1,0 +1,130 @@
+{
+  "slug": "lepthyphantes-turbatrix",
+  "taxonId": 223423,
+  "group": "arachnids",
+  "commonName": "Lepthyphantes turbatrix",
+  "scientificName": "Lepthyphantes turbatrix",
+  "family": "Linyphiidae",
+  "familyCommonName": "Sheetweb and Dwarf Weavers",
+  "genus": "Lepthyphantes",
+  "genusCommonName": "Lepthyphantes",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Sheetweb and Dwarf Weavers",
+      "rank": "family",
+      "slug": "explore/sheetweb-and-dwarf-weavers"
+    },
+    {
+      "label": "Lepthyphantes",
+      "rank": "genus",
+      "slug": "explore/lepthyphantes"
+    },
+    {
+      "label": "Lepthyphantes turbatrix",
+      "rank": "species",
+      "slug": "species/lepthyphantes-turbatrix"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 243314181,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243314181/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243314181/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/141965079"
+    },
+    {
+      "id": 243314227,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243314227/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243314227/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/141965079"
+    },
+    {
+      "id": 102309496,
+      "mediumUrl": "https://static.inaturalist.org/photos/102309496/medium.jpeg",
+      "largeUrl": "https://static.inaturalist.org/photos/102309496/large.jpeg",
+      "attribution": "(c) cheins1, all rights reserved, uploaded by cheins1",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/22342300"
+    }
+  ],
+  "nameStory": "The scientific name 'turbatrix' comes from Latin meaning 'disturber' or 'troubler,' though this tiny spider is anything but troublesome to humans. Like many sheet web spiders, this species lacks a widely-used common name since it's so small and rarely noticed by most people.",
+  "description": "This is a minuscule sheet web spider, one of the smallest you'll encounter in New England. Like other members of the dwarf weaver family, it's typically only 2-3 millimeters long with a brownish or pale yellowish body. You're more likely to notice its delicate sheet web than the spider itself, as these tiny arachnids often go completely unnoticed despite being relatively common.",
+  "idTips": [
+    {
+      "label": "Web",
+      "description": "Creates a fine, flat sheet web that feels slightly sticky to the touch and catches tiny dewdrops beautifully in morning light",
+      "isPrimary": true
+    },
+    {
+      "label": "Size",
+      "description": "Extremely small at just 2-3 millimeters - about the size of a small pinhead or the period at the end of this sentence",
+      "isPrimary": false
+    },
+    {
+      "label": "Body Shape",
+      "description": "Compact, rounded abdomen with relatively long, thin legs that feel delicate if accidentally brushed",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Pale brownish to yellowish coloration, often so light it appears almost translucent in bright sunlight",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Moves quickly across its web when disturbed, often dropping to hide in vegetation below with a silk safety line",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in low vegetation, leaf litter, and among grasses in various habitats from forest edges to meadows. Often builds its tiny sheet webs close to the ground in protected spots under shrubs or in tall grass where the web won't be easily damaged by foot traffic.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, beginning to construct their characteristic sheet webs in protected spots among emerging vegetation.",
+    "summer": "Peak activity period when webs are most noticeable, especially with morning dew highlighting the delicate silk sheets.",
+    "fall": "Continues to be active into early fall, with egg-laying occurring before the first hard frosts arrive.",
+    "winter": "Overwinters in protected locations under bark, in leaf litter, or other sheltered microhabitats where they remain dormant."
+  },
+  "funFact": "Despite being found from New England all the way to Greenland, this tiny spider is so small that an entire population could live in your backyard without you ever knowing they're there - their webs are often mistaken for bits of lint or cobwebs.",
+  "confusionNotes": "Most easily confused with other tiny sheet web spiders in the same family, but the specific web construction and habitat preferences help distinguish it. Remember: if you can see individual details clearly without a magnifying glass, it's probably not this species!",
+  "contextualKnowledge": "This species represents the challenge of identifying micro-spiders - many tiny arachnids in the Linyphiidae family require microscopic examination for definitive identification. What matters most for nature explorers is recognizing the family characteristics and appreciating these often-overlooked ecosystem members.",
+  "compareHints": "Compared to its relative the Household Fine Sheetweaver (Lepthyphantes leprosus), this species is typically found outdoors rather than in buildings. Both create similar sheet webs, but the Household Fine Sheetweaver is more likely to be found in basements, garages, and other human structures, while turbatrix prefers natural outdoor habitats.",
+  "relatedSpecies": [
+    {
+      "slug": "lepthyphantes-leprosus",
+      "commonName": "Household Fine Sheetweaver",
+      "scientificName": "Lepthyphantes leprosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/96665169/medium.jpg",
+      "distinction": "The related Lepthyphantes turbatrix is extremely similar but tends to prefer more natural outdoor habitats rather than buildings."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lepthyphantes_turbatrix",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/223423"
+}

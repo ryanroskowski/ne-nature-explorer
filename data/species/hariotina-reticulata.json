@@ -1,0 +1,125 @@
+{
+  "slug": "hariotina-reticulata",
+  "taxonId": 1267194,
+  "group": "plants",
+  "commonName": "Hariotina reticulata",
+  "scientificName": "Hariotina reticulata",
+  "family": "Scenedesmaceae",
+  "familyCommonName": "Scenedesmaceae",
+  "genus": "Hariotina",
+  "genusCommonName": "Hariotina",
+  "order": "Sphaeropleales",
+  "orderCommonName": "Sphaeropleales",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "green algae",
+      "rank": "phylum",
+      "slug": "explore/green-algae"
+    },
+    {
+      "label": "Chlorophycean green algae",
+      "rank": "class",
+      "slug": "explore/chlorophycean-green-algae"
+    },
+    {
+      "label": "Sphaeropleales",
+      "rank": "order",
+      "slug": "explore/sphaeropleales"
+    },
+    {
+      "label": "Scenedesmaceae",
+      "rank": "family",
+      "slug": "explore/scenedesmaceae"
+    },
+    {
+      "label": "Hariotina",
+      "rank": "genus",
+      "slug": "explore/hariotina"
+    },
+    {
+      "label": "Hariotina reticulata",
+      "rank": "species",
+      "slug": "species/hariotina-reticulata"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 54790446,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/54790446/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/54790446/large.jpg",
+      "attribution": "(c) Proyecto Agua, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/126719400"
+    },
+    {
+      "id": 153675718,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153675718/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153675718/large.jpg",
+      "attribution": "(c) MikeN, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/92783114"
+    },
+    {
+      "id": 153675738,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153675738/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153675738/large.jpg",
+      "attribution": "(c) MikeN, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/92783114"
+    },
+    {
+      "id": 153675759,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153675759/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153675759/large.jpg",
+      "attribution": "(c) MikeN, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/92783114"
+    }
+  ],
+  "nameStory": "I need to flag uncertainty here - Hariotina reticulata appears to be a microscopic green algae, not a typical plant that New England Nature Explorer would cover. The scientific naming follows standard taxonomic conventions, but this species may be too specialized for a general nature identification website focused on plants people can observe in the field.",
+  "description": "**UNCERTAINTY FLAG**: Hariotina reticulata appears to be a microscopic freshwater green algae that forms small colonies. These tiny organisms are not visible to the naked eye and would require a microscope to observe properly. They typically exist as single cells or small clusters in freshwater environments, making them unsuitable for field identification by general nature enthusiasts.",
+  "idTips": [
+    {
+      "label": "Microscopic size",
+      "description": "**UNCERTAINTY FLAG**: Requires magnification to see - not observable without specialized equipment",
+      "isPrimary": true
+    },
+    {
+      "label": "Aquatic habitat",
+      "description": "**UNCERTAINTY FLAG**: Found in freshwater environments like ponds and streams",
+      "isPrimary": false
+    },
+    {
+      "label": "Colonial structure",
+      "description": "**UNCERTAINTY FLAG**: May form small clusters or colonies of cells",
+      "isPrimary": false
+    },
+    {
+      "label": "Green coloration",
+      "description": "**UNCERTAINTY FLAG**: Contains chlorophyll giving it a green appearance under magnification",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "**UNCERTAINTY FLAG**: Likely found in freshwater environments such as ponds, slow-moving streams, and other aquatic habitats throughout New England. As a microscopic organism, its presence would not be detectable without laboratory analysis of water samples.",
+  "seasonality": {
+    "spring": "**UNCERTAINTY FLAG**: Microscopic algae may be present but undetectable without magnification.",
+    "summer": "**UNCERTAINTY FLAG**: Potentially more active during warmer months when aquatic conditions favor growth.",
+    "fall": "**UNCERTAINTY FLAG**: May persist in aquatic environments but requires laboratory identification.",
+    "winter": "**UNCERTAINTY FLAG**: Likely dormant or less active in colder water temperatures."
+  },
+  "funFact": "**UNCERTAINTY FLAG**: This species appears to be microscopic algae with only one recorded observation in New England, making it extremely rare to encounter or potentially misidentified in databases.",
+  "confusionNotes": "**UNCERTAINTY FLAG**: As a microscopic organism, it would not be confused with any plants visible to nature explorers in the field. Any identification would require specialized taxonomic expertise and laboratory equipment.",
+  "contextualKnowledge": "**IMPORTANT NOTE**: This appears to be a microscopic algae species that is not appropriate for a general nature identification website. It cannot be identified in the field and requires specialized scientific equipment and expertise. This may be a database error or misclassification.",
+  "compareHints": "**UNCERTAINTY FLAG**: Without other Hariotina species in the dataset and given the microscopic nature of this organism, meaningful field comparisons cannot be provided. This species requires laboratory identification and is not suitable for general nature exploration guides.",
+  "relatedSpecies": [],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1267194"
+}

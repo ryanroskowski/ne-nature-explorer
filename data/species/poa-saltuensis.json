@@ -1,0 +1,172 @@
+{
+  "slug": "poa-saltuensis",
+  "taxonId": 167103,
+  "group": "plants",
+  "commonName": "drooping bluegrass",
+  "scientificName": "Poa saltuensis",
+  "family": "Poaceae",
+  "familyCommonName": "Grasses",
+  "genus": "Poa",
+  "genusCommonName": "Meadow-grasses",
+  "order": "Poales",
+  "orderCommonName": "Grasses, Sedges, Cattails, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Vascular Plants",
+      "rank": "phylum",
+      "slug": "explore/vascular-plants"
+    },
+    {
+      "label": "Monocots",
+      "rank": "class",
+      "slug": "explore/monocots"
+    },
+    {
+      "label": "Grasses, Sedges, Cattails, and Allies",
+      "rank": "order",
+      "slug": "explore/grasses-sedges-cattails-and-allies"
+    },
+    {
+      "label": "Grasses",
+      "rank": "family",
+      "slug": "explore/grasses"
+    },
+    {
+      "label": "Meadow-grasses",
+      "rank": "genus",
+      "slug": "explore/meadow-grasses"
+    },
+    {
+      "label": "drooping bluegrass",
+      "rank": "species",
+      "slug": "species/poa-saltuensis"
+    }
+  ],
+  "observationCount": 5,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 3980714,
+      "mediumUrl": "https://static.inaturalist.org/photos/3980714/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/3980714/large.jpg",
+      "attribution": "(c) Neil Vinson, all rights reserved, uploaded by Neil Vinson",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/16710300"
+    }
+  ],
+  "nameStory": "Drooping bluegrass gets its name from its distinctive nodding or drooping flower clusters that hang gracefully from the stem tips. The \"bluegrass\" part comes from the blue-green tint that many grasses in the Poa genus display, especially when viewed from a distance. The drooping habit makes this species stand out from its more upright meadow-grass cousins.",
+  "description": "Drooping bluegrass is a perennial grass that forms small tufts or clumps rather than spreading lawns. It typically grows 1-2 feet tall with slender stems that bend under the weight of their delicate flower clusters. The grass has a refined, almost ornamental appearance with its gracefully arching stems and soft-textured leaves. [Note: Limited reference material available - some details may need field verification]",
+  "idTips": [
+    {
+      "label": "Flowers",
+      "description": "Delicate, drooping flower clusters hang from arching stems like tiny chandeliers, with small spikelets that feel papery when touched and often have a subtle purplish tinge",
+      "isPrimary": true
+    },
+    {
+      "label": "Growth Habit",
+      "description": "Forms neat tufts or bunches rather than spreading, with stems that gracefully arch outward under the weight of the flower heads",
+      "isPrimary": false
+    },
+    {
+      "label": "Leaves",
+      "description": "Narrow, soft-textured blades that feel smooth to the touch and often show a blue-green color, especially in cooler weather",
+      "isPrimary": false
+    },
+    {
+      "label": "Seeds",
+      "description": "Tiny seeds develop in the drooping clusters and make a soft rustling sound when mature seed heads are gently shaken",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in rocky areas, cliff edges, and thin soils where other grasses struggle to establish. Prefers well-drained, often alkaline soils in partially shaded to sunny locations. Most likely encountered in mountainous regions of northern New England. [Note: Habitat details uncertain due to limited observations]",
+  "seasonality": {
+    "spring": "New shoots emerge as bright green tufts, with leaves unfurling from the base in a fountain-like pattern.",
+    "summer": "Distinctive drooping flower clusters appear and mature, creating the plant's most identifiable feature during peak growing season.",
+    "fall": "Seed heads turn golden-brown and become more pronounced as they dry, while leaves may take on subtle blue or purple tints.",
+    "winter": "Dried stems and seed heads may persist, appearing as small tan clumps against snow or among rocks."
+  },
+  "funFact": "With only 5 recorded observations in all of New England, finding drooping bluegrass is like discovering a botanical needle in a haystack - you're more likely to spot a wild moose than this elusive grass!",
+  "confusionNotes": "Most easily confused with other Poa species, but the drooping flower clusters are the giveaway - if the seed heads hang down instead of standing upright, you've likely found drooping bluegrass. Remember: \"drooping\" describes both the name and the appearance.",
+  "contextualKnowledge": "Despite being called \"bluegrass,\" this isn't the same as Kentucky bluegrass found in lawns. The Poa genus includes many species with varying growth habits, and drooping bluegrass represents one of the rarer members of this diverse grass family in our region.",
+  "compareHints": "Unlike the common smooth meadow-grass (Kentucky bluegrass) that forms dense lawns, or the weedy annual meadow-grass found in sidewalk cracks, drooping bluegrass stays in small clumps and has that characteristic drooping flower display. Most other Poa species hold their flower clusters upright or at angles, making the drooping habit quite distinctive.",
+  "relatedSpecies": [
+    {
+      "slug": "poa-bulbosa",
+      "commonName": "Bulbous Bluegrass",
+      "scientificName": "Poa bulbosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/374609883/medium.jpeg",
+      "distinction": "Unlike Kentucky Bluegrass (Smooth Meadow-grass) which spreads by underground runners and forms smooth lawns, Bulbous Bluegrass grows in distinct clumps and has those telltale swollen stem bases."
+    },
+    {
+      "slug": "poa-pratensis",
+      "commonName": "Smooth Meadow-grass",
+      "scientificName": "Poa pratensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/170918800/medium.jpg",
+      "distinction": "Among its meadow-grass relatives, smooth meadow-grass stands out for its completely smooth leaf sheaths and strong spreading habit through rhizomes."
+    },
+    {
+      "slug": "poa-annua",
+      "commonName": "Annual Meadow-grass",
+      "scientificName": "Poa annua",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119472992/medium.jpeg",
+      "distinction": "Among its meadow-grass relatives, Annual Meadow-grass is the softest to touch and stays the brightest green in cool weather."
+    },
+    {
+      "slug": "poa-compressa",
+      "commonName": "Canada bluegrass",
+      "scientificName": "Poa compressa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30487560/medium.jpg",
+      "distinction": "Among the bluegrasses, Canada bluegrass is the only one with truly flattened stems - all its relatives like Kentucky bluegrass and annual bluegrass have round stems."
+    },
+    {
+      "slug": "poa-alsodes",
+      "commonName": "Grove Meadow Grass",
+      "scientificName": "Poa alsodes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/131408057/medium.jpeg",
+      "distinction": "Compared to its Poa relatives like Kentucky Bluegrass and Annual Meadow-grass, Grove Meadow Grass is much more shade-tolerant and forms looser clumps rather than dense turf."
+    },
+    {
+      "slug": "poa-nemoralis",
+      "commonName": "Wood Meadow-grass",
+      "scientificName": "Poa nemoralis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/139030997/medium.jpg",
+      "distinction": "Among its Poa relatives, Wood Meadow-grass is distinguished by its shade tolerance and late-season growth habit."
+    },
+    {
+      "slug": "poa-palustris",
+      "commonName": "Swamp Meadow-grass",
+      "scientificName": "Poa palustris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/100147784/medium.jpeg",
+      "distinction": "Among its Poa relatives, Swamp Meadow-grass is the wetland specialist – while Smooth Meadow-grass (Kentucky bluegrass) prefers well-drained lawns and fields, and Canada bluegrass tolerates dry conditions, Swamp Meadow-grass needs consistently moist soil."
+    },
+    {
+      "slug": "poa-trivialis",
+      "commonName": "Rough Meadow-grass",
+      "scientificName": "Poa trivialis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/380159189/medium.jpeg",
+      "distinction": "Among the meadow-grasses (Poa species), rough meadow-grass is the only one with consistently rough-textured stems and leaf sheaths."
+    },
+    {
+      "slug": "poa-flexuosa",
+      "commonName": "Wavy Meadow-grass",
+      "scientificName": "Poa flexuosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21687567/medium.jpeg",
+      "distinction": "**[UNCERTAIN CLAIM]** Unlike the common Smooth Meadow-grass which has straight stems and spreads by runners, or Annual Meadow-grass which is much smaller and weedy, Wavy Meadow-grass has those unmistakable zigzag stems and grows in neat tufts."
+    },
+    {
+      "slug": "poa-glauca",
+      "commonName": "Glaucous Bluegrass",
+      "scientificName": "Poa glauca",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/408304796/medium.jpeg",
+      "distinction": "Among New England's bluegrasses, glaucous bluegrass stands out for its waxy blue-gray coating and extreme habitat preferences."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/167103"
+}

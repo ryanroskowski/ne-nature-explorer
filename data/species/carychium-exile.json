@@ -1,0 +1,127 @@
+{
+  "slug": "carychium-exile",
+  "taxonId": 216155,
+  "group": "mollusks",
+  "commonName": "Ice Thorn",
+  "scientificName": "Carychium exile",
+  "family": "Ellobiidae",
+  "familyCommonName": "Hollow-shelled Snails",
+  "genus": "Carychium",
+  "genusCommonName": "Carychium",
+  "order": "Ellobiida",
+  "orderCommonName": "Hollow-shelled, Ear-shaped, and Button Snails",
+  "breadcrumb": [
+    {
+      "label": "Mollusks",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Molluscs",
+      "rank": "phylum",
+      "slug": "explore/molluscs"
+    },
+    {
+      "label": "Gastropods",
+      "rank": "class",
+      "slug": "explore/gastropods"
+    },
+    {
+      "label": "Hollow-shelled, Ear-shaped, and Button Snails",
+      "rank": "order",
+      "slug": "explore/hollow-shelled-ear-shaped-and-button-snails"
+    },
+    {
+      "label": "Hollow-shelled Snails",
+      "rank": "family",
+      "slug": "explore/hollow-shelled-snails"
+    },
+    {
+      "label": "Carychium",
+      "rank": "genus",
+      "slug": "explore/carychium"
+    },
+    {
+      "label": "Ice Thorn",
+      "rank": "species",
+      "slug": "species/carychium-exile"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 7274557,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7274557/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7274557/large.jpg",
+      "attribution": "(c) Benjamin Schwartz, some rights reserved (CC BY-NC), uploaded by Benjamin Schwartz",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/21615500"
+    },
+    {
+      "id": 18904797,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18904797/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18904797/large.jpg",
+      "attribution": "(c) Barb Graham, some rights reserved (CC BY-NC), uploaded by Barb Graham",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/21615501"
+    }
+  ],
+  "nameStory": "The 'Ice Thorn' name likely comes from this tiny snail's crystalline, translucent shell that can look like a miniature icicle when caught in the right light. Its scientific name 'exile' suggests something banished or remote, fitting for a species so small and elusive that it's easy to overlook in the leaf litter where it lives.",
+  "description": "Ice Thorn is one of New England's tiniest land snails, so small you could fit several on your pinky nail. This microscopic mollusk has a delicate, cone-shaped shell that's nearly transparent and reaches only about 2 millimeters tall. It's a member of the hollow-shelled snail family, creatures that bridge the gap between land and water in their evolutionary history. Despite its diminutive size, it's a complete snail with all the usual parts, just shrunk down to almost invisible proportions.",
+  "idTips": [
+    {
+      "label": "Shell size",
+      "description": "Incredibly tiny at only 1.5-2mm tall - smaller than most grains of rice and easily mistaken for a bit of debris",
+      "isPrimary": true
+    },
+    {
+      "label": "Shell shape",
+      "description": "Elongated cone or bullet-shaped, much taller than it is wide, tapering to a sharp point at the top",
+      "isPrimary": false
+    },
+    {
+      "label": "Shell color",
+      "description": "Nearly colorless to pale amber, so translucent you can sometimes see the animal's body through the shell wall",
+      "isPrimary": false
+    },
+    {
+      "label": "Shell texture",
+      "description": "Smooth and glossy when fresh, feeling almost glassy if you can manage to touch something so small",
+      "isPrimary": false
+    },
+    {
+      "label": "Whorl count",
+      "description": "Usually 4-5 whorls (spiral turns) that are relatively flat against each other, not deeply separated",
+      "isPrimary": false
+    },
+    {
+      "label": "Aperture shape",
+      "description": "Opening is oval with a slightly thickened lip, taking up about 1/3 of the total shell height",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for Ice Thorn in consistently moist leaf litter, particularly in deciduous and mixed forests where fallen leaves stay damp year-round. They prefer areas with rich organic soil near streams, springs, or other water sources, often hiding under logs, stones, or deep in decomposing vegetation. **[UNCERTAIN]** - Limited observation data makes habitat preferences speculative.",
+  "seasonality": {
+    "spring": "Most active as temperatures warm and moisture increases from snowmelt. Look in freshly dampened leaf litter as they emerge to feed on decomposing organic matter.",
+    "summer": "May retreat deeper into soil and under logs during dry spells. Best found after rain when they come closer to the surface to graze on fungi and bacteria.",
+    "fall": "Active again as leaves fall and create fresh habitat. This may be the best time to spot them as they feed on newly decomposing material.",
+    "winter": "Likely inactive, sheltering deep in soil or under insulating leaf litter. **[UNCERTAIN]** - Winter behavior poorly documented for this species."
+  },
+  "funFact": "With only one confirmed observation recorded in all of New England, finding an Ice Thorn snail would make you part of an extremely exclusive club - you'd be among the first people to document this species in our region in recent memory!",
+  "confusionNotes": "Most likely to be confused with other minute snails in leaf litter, or simply overlooked entirely as a speck of debris. The Herald-snail (Carychium minimum) is similar but typically shorter and more robust-looking, while Ice Thorn is more elongated and needle-like.",
+  "contextualKnowledge": "The extremely low observation count (just 1 in New England) suggests this species is either incredibly rare in our region, very recently discovered here, or so small and cryptic that it's been overlooked by most naturalists. **[UNCERTAIN]** - Species status and distribution data should be verified.",
+  "compareHints": "Ice Thorn differs from its relative the Herald-snail by being more elongated and narrow, like comparing a bullet to a teardrop. **[UNCERTAIN]** - Direct comparison details are speculative due to limited data. Both are incredibly small, but Ice Thorn's more stretched-out proportions and slightly larger size help distinguish it when viewed under magnification.",
+  "relatedSpecies": [
+    {
+      "slug": "carychium-minimum",
+      "commonName": "Herald-snail",
+      "scientificName": "Carychium minimum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108704517/medium.jpg",
+      "distinction": "Herald-snail differs from its close relative the Ice Thorn (Carychium exile) primarily in size and shell proportions, though both are so tiny that distinguishing them usually requires microscopic examination."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/216155"
+}

@@ -1,0 +1,141 @@
+{
+  "slug": "messastrum-gracile",
+  "taxonId": 1092290,
+  "group": "plants",
+  "commonName": "Messastrum gracile",
+  "scientificName": "Messastrum gracile",
+  "family": "Selenastraceae",
+  "familyCommonName": "Selenastraceae",
+  "genus": "Messastrum",
+  "genusCommonName": "Messastrum",
+  "order": "Sphaeropleales",
+  "orderCommonName": "Sphaeropleales",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "green algae",
+      "rank": "phylum",
+      "slug": "explore/green-algae"
+    },
+    {
+      "label": "Chlorophycean green algae",
+      "rank": "class",
+      "slug": "explore/chlorophycean-green-algae"
+    },
+    {
+      "label": "Sphaeropleales",
+      "rank": "order",
+      "slug": "explore/sphaeropleales"
+    },
+    {
+      "label": "Selenastraceae",
+      "rank": "family",
+      "slug": "explore/selenastraceae"
+    },
+    {
+      "label": "Messastrum",
+      "rank": "genus",
+      "slug": "explore/messastrum"
+    },
+    {
+      "label": "Messastrum gracile",
+      "rank": "species",
+      "slug": "species/messastrum-gracile"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 212630350,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/212630350/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/212630350/large.jpg",
+      "attribution": "(c) MikeN, some rights reserved (CC BY-NC), uploaded by MikeN",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/109229000"
+    },
+    {
+      "id": 432113146,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/432113146/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/432113146/large.jpg",
+      "attribution": "(c) Glenn McGregor, some rights reserved (CC BY-NC), uploaded by Glenn McGregor",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/109229002"
+    },
+    {
+      "id": 432113633,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/432113633/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/432113633/large.jpg",
+      "attribution": "(c) Glenn McGregor, some rights reserved (CC BY-NC), uploaded by Glenn McGregor",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/109229003"
+    },
+    {
+      "id": 75536181,
+      "mediumUrl": "https://static.inaturalist.org/photos/75536181/medium.jpeg",
+      "largeUrl": "https://static.inaturalist.org/photos/75536181/large.jpeg",
+      "attribution": "(c) Palina Balcevič, all rights reserved, uploaded by Palina Balcevič",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/109229001"
+    },
+    {
+      "id": 277161392,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277161392/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277161392/large.jpeg",
+      "attribution": "(c) Lina Kaminskaitė, some rights reserved (CC BY-NC), uploaded by Lina Kaminskaitė",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/109229004"
+    },
+    {
+      "id": 238317639,
+      "mediumUrl": "https://static.inaturalist.org/photos/238317639/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/238317639/large.jpg",
+      "attribution": "(c) Travis, all rights reserved, uploaded by Travis",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/109229005"
+    }
+  ],
+  "nameStory": "I must flag uncertainty here - Messastrum gracile appears to be a microscopic freshwater algae, not a plant that New England nature explorers would typically encounter or identify in the field. The name 'Messastrum' likely refers to its clustered cell arrangement, but this species is only visible under magnification and wouldn't be suitable for a general audience plant identification guide.",
+  "description": "**UNCERTAINTY FLAG**: Messastrum gracile is a microscopic freshwater green algae, not a typical plant that hikers or nature enthusiasts would identify in the field. It consists of tiny single cells that form small colonies, invisible to the naked eye and requiring laboratory equipment to observe. This species lives in freshwater environments like ponds and lakes, but would not be detectable without specialized tools.",
+  "idTips": [
+    {
+      "label": "Microscopic Size",
+      "description": "**UNCERTAIN**: Cells are only visible under microscope magnification - you cannot see individual organisms with the naked eye",
+      "isPrimary": true
+    },
+    {
+      "label": "Aquatic Habitat",
+      "description": "**UNCERTAIN**: Found floating in freshwater environments, contributing to the invisible planktonic community",
+      "isPrimary": false
+    },
+    {
+      "label": "Green Coloration",
+      "description": "**UNCERTAIN**: Cells contain chlorophyll giving them a green color when viewed under magnification",
+      "isPrimary": false
+    },
+    {
+      "label": "Colonial Growth",
+      "description": "**UNCERTAIN**: Individual cells may cluster together in small groups or colonies",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "**UNCERTAINTY FLAG**: This microscopic algae would theoretically inhabit freshwater bodies like ponds, lakes, and slow-moving streams throughout New England. However, with only one recorded observation, its actual distribution and preferred conditions in the region are unclear.",
+  "seasonality": {
+    "spring": "**UNCERTAIN**: Microscopic algae populations may increase as water temperatures warm, but this would not be observable without laboratory analysis.",
+    "summer": "**UNCERTAIN**: Peak growing season for freshwater algae, but again not detectable to casual observers.",
+    "fall": "**UNCERTAIN**: Populations may decline as temperatures cool, but this requires microscopic monitoring to detect.",
+    "winter": "**UNCERTAIN**: Likely dormant or present in reduced numbers under ice cover, but not observable in field conditions."
+  },
+  "funFact": "**UNCERTAINTY FLAG**: While I cannot provide specific facts about this rare species, microscopic algae like Messastrum are part of the invisible world of phytoplankton that produces much of the oxygen we breathe - even in our New England ponds and lakes!",
+  "confusionNotes": "This microscopic species cannot be confused with any plants visible to nature explorers, as it requires laboratory equipment to observe and identify.",
+  "contextualKnowledge": "**IMPORTANT**: This entry highlights a limitation - Messastrum gracile is not actually a plant that New England nature explorers can identify in the field. It's a microscopic freshwater algae that would only be encountered in specialized scientific studies. The extremely low observation count (just 1) suggests this may be a data anomaly or research specimen rather than a species for general nature education.",
+  "compareHints": "**UNCERTAINTY FLAG**: Without other Messastrum species in the dataset and given the microscopic nature of this organism, meaningful field comparisons cannot be provided. This species would require laboratory identification techniques that are beyond the scope of general nature exploration.",
+  "relatedSpecies": [],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1092290"
+}

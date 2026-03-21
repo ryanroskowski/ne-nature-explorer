@@ -1,0 +1,149 @@
+{
+  "slug": "desmidium-coarctatum",
+  "taxonId": 494042,
+  "group": "plants",
+  "commonName": "Desmidium coarctatum",
+  "scientificName": "Desmidium coarctatum",
+  "family": "Desmidiaceae",
+  "familyCommonName": "Desmidiaceae",
+  "genus": "Desmidium",
+  "genusCommonName": "Desmidium",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Desmidiaceae",
+      "rank": "family",
+      "slug": "explore/desmidiaceae"
+    },
+    {
+      "label": "Desmidium",
+      "rank": "genus",
+      "slug": "explore/desmidium"
+    },
+    {
+      "label": "Desmidium coarctatum",
+      "rank": "species",
+      "slug": "species/desmidium-coarctatum"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 288866185,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288866185/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288866185/large.jpg",
+      "attribution": "(c) MikeN, some rights reserved (CC BY-NC), uploaded by MikeN",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/49404200"
+    }
+  ],
+  "nameStory": "Desmidium gets its name from the Greek word 'desmos' meaning 'chain' or 'bond,' referring to how these tiny algae link together in distinctive chains. The species name 'coarctatum' comes from Latin meaning 'compressed' or 'narrowed,' describing how each cell appears pinched or constricted in the middle.",
+  "description": "Desmidium coarctatum is a microscopic freshwater green alga that you'll need a magnifying glass or microscope to truly appreciate. These single-celled organisms link together in spiral, chain-like formations that can sometimes be visible as thin, greenish threads in clean pond water. Each individual cell is beautifully symmetrical and appears pinched in the middle like a tiny green hourglass. The chains can grow several millimeters long, making them just barely visible to sharp eyes in good light.",
+  "idTips": [
+    {
+      "label": "Spiral chain formation",
+      "description": "Cells connect end-to-end in distinctive twisted, corkscrew-like chains that spiral as they grow, visible as delicate green threads in water",
+      "isPrimary": true
+    },
+    {
+      "label": "Hourglass-shaped cells",
+      "description": "Under magnification, each cell has a pronounced constriction in the middle, creating two mirror-image halves that look like tiny green hourglasses",
+      "isPrimary": false
+    },
+    {
+      "label": "Smooth cell surface",
+      "description": "Cell walls appear completely smooth and glassy under magnification, lacking the bumps, spines, or decorative patterns found on many related algae",
+      "isPrimary": false
+    },
+    {
+      "label": "Bright green color",
+      "description": "Chains have a fresh, bright green appearance in healthy water, turning yellowish or brownish when stressed or dying",
+      "isPrimary": false
+    },
+    {
+      "label": "Clean water indicator",
+      "description": "Found only in pristine, unpolluted waters with low nutrient levels - their presence indicates excellent water quality",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Desmidium coarctatum thrives in clean, soft-water ponds, lakes, and slow-moving streams throughout New England's forests and mountains. Look for it in acidic to neutral waters with low mineral content, often in bog ponds, mountain tarns, or pristine woodland pools. It's typically found floating freely in the water column or loosely attached to submerged plants and rocks in shallow areas.",
+  "seasonality": {
+    "spring": "Populations begin growing as water warms, forming fresh green chains that are easiest to spot in clear, still water on sunny days.",
+    "summer": "Peak abundance occurs in warm months when chains are longest and most visible, especially in morning light before wind disturbs the water surface.",
+    "fall": "Chains may persist into early fall but become less abundant as water cools and daylight decreases.",
+    "winter": "Generally not visible in winter as populations die back or become dormant under ice cover."
+  },
+  "funFact": "Each cell of Desmidium coarctatum is actually two mirror-image halves that can split apart and regenerate into complete new cells - essentially making every individual capable of creating a perfect clone of itself by literally breaking in half!",
+  "confusionNotes": "Most easily confused with other chain-forming algae like Spirogyra, but Desmidium's spiral twist and hourglassed-shaped cells distinguish it from Spirogyra's straight chains and cylindrical cells. Remember: Desmidium spirals and squeezes (constricted), while Spirogyra stays straight and smooth.",
+  "contextualKnowledge": "Despite being called an 'alga,' desmids like this one are actually more closely related to land plants than to seaweeds or pond scums. They're considered living jewels of the microscopic world and are used by scientists as indicators of pristine environmental conditions.",
+  "compareHints": "Desmidium coarctatum differs from its relatives by having completely smooth cell walls, while D. swartzii has granular cell surfaces and D. baileyi shows distinct vertical ridges. The spiral chain formation is consistent across the genus, but coarctatum's cells have the most pronounced hourglass constriction, making the 'waist' very obvious even at low magnification.",
+  "relatedSpecies": [
+    {
+      "slug": "desmidium-swartzii",
+      "commonName": "Desmidium swartzii",
+      "scientificName": "Desmidium swartzii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2078953/medium.jpg",
+      "distinction": "Desmidium swartzii differs from its relatives like D."
+    },
+    {
+      "slug": "desmidium-baileyi",
+      "commonName": "Desmidium baileyi",
+      "scientificName": "Desmidium baileyi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61278974/medium.jpg",
+      "distinction": "Bailey's desmidium differs from other desmidium species primarily in cell shape details visible only under magnification - the field observer will need microscopy to distinguish between species."
+    },
+    {
+      "slug": "desmidium-aptogonum",
+      "commonName": "Desmidium aptogonum",
+      "scientificName": "Desmidium aptogonum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41431370/medium.jpg",
+      "distinction": "Desmidium aptogonum forms the most regular, geometric chains among New England desmids, with cells that fit together like precision-cut puzzle pieces."
+    },
+    {
+      "slug": "desmidium-grevillei",
+      "commonName": "Desmidium grevillei",
+      "scientificName": "Desmidium grevillei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2082492/medium.jpg",
+      "distinction": "Desmidium grevillei forms more tightly twisted spiral chains compared to its relatives like D."
+    },
+    {
+      "slug": "desmidium-asymmetricum",
+      "commonName": "Desmidium asymmetricum",
+      "scientificName": "Desmidium asymmetricum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41428568/medium.jpg",
+      "distinction": "Desmidium asymmetricum differs from its relatives like D."
+    },
+    {
+      "slug": "desmidium-graciliceps",
+      "commonName": "Desmidium graciliceps",
+      "scientificName": "Desmidium graciliceps",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/81705751/medium.jpg",
+      "distinction": "Desmidium graciliceps differs from its relatives like D."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/494042"
+}

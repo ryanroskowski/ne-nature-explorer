@@ -1,0 +1,890 @@
+{
+  "slug": "russula-brevipes",
+  "taxonId": 118179,
+  "group": "fungi",
+  "commonName": "Short-stemmed Russula",
+  "scientificName": "Russula brevipes",
+  "family": "Russulaceae",
+  "familyCommonName": "Milkcaps, Brittlegills and Allies",
+  "genus": "Russula",
+  "genusCommonName": "brittlegills",
+  "order": "Russulales",
+  "orderCommonName": "Russulales",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Basidiomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/basidiomycete-fungi"
+    },
+    {
+      "label": "Mushrooms, Bracket Fungi, Puffballs, and Allies",
+      "rank": "class",
+      "slug": "explore/mushrooms-bracket-fungi-puffballs-and-allies"
+    },
+    {
+      "label": "Russulales",
+      "rank": "order",
+      "slug": "explore/russulales"
+    },
+    {
+      "label": "Milkcaps, Brittlegills and Allies",
+      "rank": "family",
+      "slug": "explore/milkcaps-brittlegills-and-allies"
+    },
+    {
+      "label": "brittlegills",
+      "rank": "genus",
+      "slug": "explore/brittlegills"
+    },
+    {
+      "label": "Short-stemmed Russula",
+      "rank": "species",
+      "slug": "species/russula-brevipes"
+    }
+  ],
+  "observationCount": 54,
+  "abundanceTier": "very-common",
+  "photos": [
+    {
+      "id": 230535630,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/230535630/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/230535630/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/135185844"
+    },
+    {
+      "id": 5915965,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5915965/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5915965/large.jpg",
+      "attribution": "(c) Damon Tighe, some rights reserved (CC BY-NC), uploaded by Damon Tighe",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/11817902"
+    },
+    {
+      "id": 336295942,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/336295942/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/336295942/large.jpg",
+      "attribution": "(c) delognut, some rights reserved (CC BY)",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/191667093"
+    },
+    {
+      "id": 230535669,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/230535669/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/230535669/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/135185844"
+    },
+    {
+      "id": 230535644,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/230535644/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/230535644/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/135185844"
+    },
+    {
+      "id": 23537342,
+      "mediumUrl": "https://static.inaturalist.org/photos/23537342/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/23537342/large.jpg",
+      "attribution": "(c) zetapass, all rights reserved",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/11817900"
+    },
+    {
+      "id": 235220488,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235220488/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235220488/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/137698624"
+    },
+    {
+      "id": 7073810,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7073810/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7073810/large.jpeg",
+      "attribution": "(c) Erlon Bailey, some rights reserved (CC BY-SA), uploaded by Erlon Bailey",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/11817903"
+    },
+    {
+      "id": 4144341,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4144341/medium.",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4144341/large.",
+      "attribution": "(c) Christian Schwarz, some rights reserved (CC BY-NC), uploaded by Christian Schwarz",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/11817904"
+    },
+    {
+      "id": 4144342,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4144342/medium.",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4144342/large.",
+      "attribution": "(c) Christian Schwarz, some rights reserved (CC BY-NC), uploaded by Christian Schwarz",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/11817901"
+    },
+    {
+      "id": 50749289,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50749289/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50749289/large.jpg",
+      "attribution": "(c) Joe MacIndewar, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/32362151"
+    },
+    {
+      "id": 235220456,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235220456/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235220456/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/137698624"
+    },
+    {
+      "id": 235220417,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235220417/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235220417/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/137698624"
+    },
+    {
+      "id": 235220446,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235220446/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235220446/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/137698624"
+    },
+    {
+      "id": 50749323,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50749323/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50749323/large.jpg",
+      "attribution": "(c) Joe MacIndewar, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/32362151"
+    },
+    {
+      "id": 235220487,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235220487/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/235220487/large.jpeg",
+      "attribution": "(c) Emma Richter, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/137698624"
+    }
+  ],
+  "nameStory": "The Short-stemmed Russula gets its name from its notably stubby stem compared to other russulas - it's like nature's mushroom stool! While most mushrooms in this family stretch upward with elegant stems, this chunky fellow keeps things compact with a thick, short base that barely lifts its impressive cap off the ground.",
+  "description": "This is a hefty, white mushroom that looks like a pale dinner plate balanced on a thick, short stem. The caps can grow impressively large - anywhere from 7 to 30 centimeters wide (that's 3 to 12 inches!) - and start out rounded before flattening and sometimes becoming funnel-shaped. These are chunky, substantial mushrooms that have a solid, meaty appearance when you spot them poking through fallen leaves or pine needles. They're members of the brittlegill family, known for their crisp, chalk-like texture that snaps cleanly when broken.",
+  "idTips": [
+    {
+      "label": "Stem",
+      "description": "Thick, white, and notably short - usually no more than 8 cm tall but quite stout, sometimes developing a bluish band near the top",
+      "isPrimary": true
+    },
+    {
+      "label": "Cap",
+      "description": "Large white cap (7-30 cm wide) that starts convex but often becomes flat or funnel-shaped, with a smooth, dry surface",
+      "isPrimary": false
+    },
+    {
+      "label": "Gills",
+      "description": "Closely spaced white gills that may show a faint bluish tint, attached to the stem and brittle to the touch",
+      "isPrimary": false
+    },
+    {
+      "label": "Texture",
+      "description": "Firm, chalk-like flesh that snaps cleanly like a piece of fresh celery when broken - characteristic of all brittlegills",
+      "isPrimary": false
+    },
+    {
+      "label": "Spore Print",
+      "description": "White spore print with roughly spherical, warty spores visible under magnification",
+      "isPrimary": false
+    },
+    {
+      "label": "Safety Note",
+      "description": "While considered edible, it has a bland to bitter taste and should never be eaten without expert identification - always consult a mycologist before consuming any wild mushroom",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for these mushrooms in coniferous forests throughout New England, especially under fir, spruce, hemlock, and Douglas-fir trees where they form beneficial partnerships with tree roots. They often hide under thick layers of fallen leaves or pine needles, sometimes with just their white caps peeking through the forest duff. You'll find them in both lowland and mountain forests where conifers dominate the canopy.",
+  "seasonality": {
+    "spring": "Too early for fruiting - mycelia are developing underground partnerships with tree roots as trees leaf out.",
+    "summer": "Peak season begins with warm, humid weather and summer rains triggering the first flush of mushrooms in coniferous areas.",
+    "fall": "Prime hunting season continues through autumn as moisture from fall rains creates ideal fruiting conditions under the needle litter.",
+    "winter": "Dormant season - look for dried, weathered specimens that may persist but are not actively growing."
+  },
+  "funFact": "When infected by a bright orange parasitic mold called Hypomyces lactifluorum, these bland white mushrooms transform into the prized 'lobster mushrooms' that chefs love - the parasite actually makes them taste better and gives them a seafood-like flavor and bright orange-red color!",
+  "confusionNotes": "Most likely confused with other large white russulas, but the notably short, thick stem is the key distinguishing feature - if the stem looks proportionally stubby compared to the large cap, you're probably looking at brevipes. Memory trick: 'Brief' stem for 'brevipes.'",
+  "contextualKnowledge": "The scientific name 'brevipes' literally means 'short foot' in Latin, perfectly describing this mushroom's most obvious feature. Some forms develop a bluish band at the stem top and are sometimes called variety 'acrior,' but they're essentially the same species.",
+  "compareHints": "Among New England's many Russula species, Short-stemmed Russula stands out for its proportionally stubby stem - most other russulas have more elongated stems relative to their cap size. The Blackening Russula (R. nigricans) can be similarly large and white when young, but it turns black when bruised or aged, while Short-stemmed Russula stays white. Unlike the colorful caps of most russulas (reds, yellows, greens), this species maintains its plain white appearance throughout its life.",
+  "relatedSpecies": [
+    {
+      "slug": "russula-parvovirescens",
+      "commonName": "Blue-green Cracking Russula",
+      "scientificName": "Russula parvovirescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/305664210/medium.jpeg",
+      "distinction": "Unlike the more common Green Russula (R."
+    },
+    {
+      "slug": "russula-mariae",
+      "commonName": "purple-bloom russula",
+      "scientificName": "Russula mariae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159673/medium.",
+      "distinction": "Purple-bloom russula differs from Purple Brittlegill by having more variegated purple coloring with zones and patches rather than uniform color."
+    },
+    {
+      "slug": "russula-compacta",
+      "commonName": "Fishbiscuit Russula",
+      "scientificName": "Russula compacta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/45998024/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-ventricosipes",
+      "commonName": "Russula ventricosipes",
+      "scientificName": "Russula ventricosipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61878837/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-variata",
+      "commonName": "Variable Russula",
+      "scientificName": "Russula variata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/124835820/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-crustosa",
+      "commonName": "Green Quilt Russula",
+      "scientificName": "Russula crustosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310876725/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-mutabilis",
+      "commonName": "Orange Bile Mushroom",
+      "scientificName": "Russula mutabilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159337/medium.",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-dissimulans",
+      "commonName": "Russula dissimulans",
+      "scientificName": "Russula dissimulans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340117/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-cyanoxantha",
+      "commonName": "Charcoal Burner",
+      "scientificName": "Russula cyanoxantha",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128039200/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-claroflava",
+      "commonName": "Yellow Swamp Brittlegill",
+      "scientificName": "Russula claroflava",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106136093/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-decolorans",
+      "commonName": "Copper Brittlegill",
+      "scientificName": "Russula decolorans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23182779/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-albonigra",
+      "commonName": "Blackening Russula",
+      "scientificName": "Russula albonigra",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12705358/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-paludosa",
+      "commonName": "Hintapink",
+      "scientificName": "Russula paludosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/218540400/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-fragilis",
+      "commonName": "Fragile Brittlegill",
+      "scientificName": "Russula fragilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29240304/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-emetica",
+      "commonName": "the sickener",
+      "scientificName": "Russula emetica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109349419/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-fragrantissima",
+      "commonName": "Almond-scented Russula",
+      "scientificName": "Russula fragrantissima",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22549083/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-peckii",
+      "commonName": "Russula peckii",
+      "scientificName": "Russula peckii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48215305/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-albimarginata",
+      "commonName": "Russula albimarginata",
+      "scientificName": "Russula albimarginata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176358354/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-grata",
+      "commonName": "Almond-scented Russula",
+      "scientificName": "Russula grata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/107494762/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-aeruginea",
+      "commonName": "Green Brittlegill",
+      "scientificName": "Russula aeruginea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106503487/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-silvicola",
+      "commonName": "emetic russula",
+      "scientificName": "Russula silvicola",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/768924/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-ochroleucoides",
+      "commonName": "Russula ochroleucoides",
+      "scientificName": "Russula ochroleucoides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133287/medium.jpeg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-virescens",
+      "commonName": "Green Russula",
+      "scientificName": "Russula virescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/498772868/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-adusta",
+      "commonName": "Blackening Russula",
+      "scientificName": "Russula adusta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/105048597/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-pectinatoides",
+      "commonName": "Russula pectinatoides",
+      "scientificName": "Russula pectinatoides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340572/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-flavida",
+      "commonName": "Russula flavida",
+      "scientificName": "Russula flavida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/79878163/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "russula-xerampelina",
+      "commonName": "Shellfish-scented Russula",
+      "scientificName": "Russula xerampelina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329463336/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-nigricans",
+      "commonName": "Blackening Brittlegill",
+      "scientificName": "Russula nigricans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/178348470/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-modesta",
+      "commonName": "Modest Russula",
+      "scientificName": "Russula modesta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13064675/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-ornaticeps",
+      "commonName": "purple cap russula",
+      "scientificName": "Russula ornaticeps",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19796788/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-atropurpurea",
+      "commonName": "Purple Brittlegill",
+      "scientificName": "Russula atropurpurea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/246913575/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-brunneola",
+      "commonName": "Russula brunneola",
+      "scientificName": "Russula brunneola",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23283667/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-silvestris",
+      "commonName": "Russula silvestris",
+      "scientificName": "Russula silvestris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237658028/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-betularum",
+      "commonName": "Birch Brittlegill",
+      "scientificName": "Russula betularum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/159869608/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-amoenolens",
+      "commonName": "Camembert Brittlegill",
+      "scientificName": "Russula amoenolens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/316542801/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-abietina",
+      "commonName": "Russula abietina",
+      "scientificName": "Russula abietina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55323444/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-eccentrica",
+      "commonName": "Russula eccentrica",
+      "scientificName": "Russula eccentrica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13069578/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-pseudolepida",
+      "commonName": "Russula pseudolepida",
+      "scientificName": "Russula pseudolepida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72072598/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-rubescens",
+      "commonName": "Russula rubescens",
+      "scientificName": "Russula rubescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12444252/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-vinacea",
+      "commonName": "Blackish-red Russula",
+      "scientificName": "Russula vinacea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/583492/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-foetens",
+      "commonName": "Stinking Brittlegill",
+      "scientificName": "Russula foetens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/218769961/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-vesca",
+      "commonName": "The Flirt",
+      "scientificName": "Russula vesca",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/162220306/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-ballouii",
+      "commonName": "Russula ballouii",
+      "scientificName": "Russula ballouii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13079853/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-earlei",
+      "commonName": "Russula earlei",
+      "scientificName": "Russula earlei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159897/medium.",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-granulata",
+      "commonName": "Russula granulata",
+      "scientificName": "Russula granulata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13076381/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-redolens",
+      "commonName": "Russula redolens",
+      "scientificName": "Russula redolens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/396312250/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-sanguinaria",
+      "commonName": "Bloody Brittlegill",
+      "scientificName": "Russula sanguinaria",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/308751923/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-sanguinea",
+      "commonName": "bloody brittlegill",
+      "scientificName": "Russula sanguinea",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/439337543/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-cystidiosa",
+      "commonName": "Russula cystidiosa",
+      "scientificName": "Russula cystidiosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1461465/medium.JPG",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-flavisiccans",
+      "commonName": "Russula flavisiccans",
+      "scientificName": "Russula flavisiccans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72072320/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-bicolor",
+      "commonName": "Russula bicolor",
+      "scientificName": "Russula bicolor",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/92921927/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-fucosa",
+      "commonName": "Russula fucosa",
+      "scientificName": "Russula fucosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/26212911/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-integra",
+      "commonName": "Russula integra",
+      "scientificName": "Russula integra",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/171677785/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-grisea",
+      "commonName": "Russula grisea",
+      "scientificName": "Russula grisea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/78702107/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-parazurea",
+      "commonName": "Powdery Brittlegill",
+      "scientificName": "Russula parazurea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/359473881/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-sardonia",
+      "commonName": "Primrose Brittlegill",
+      "scientificName": "Russula sardonia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243251599/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-risigallina",
+      "commonName": "Golden Brittlegill",
+      "scientificName": "Russula risigallina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/175999156/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-densifolia",
+      "commonName": "Dense-gilled Russula",
+      "scientificName": "Russula densifolia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13536026/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-nigrescentipes",
+      "commonName": "Russula nigrescentipes",
+      "scientificName": "Russula nigrescentipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72072476/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-vinosa",
+      "commonName": "Darkening Brittlegill",
+      "scientificName": "Russula vinosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50273215/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-sericeonitens",
+      "commonName": "Russula sericeonitens",
+      "scientificName": "Russula sericeonitens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/320693974/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-heterophylla",
+      "commonName": "Greasy Green Brittlegill",
+      "scientificName": "Russula heterophylla",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4001006/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-clavipes",
+      "commonName": "Russula clavipes",
+      "scientificName": "Russula clavipes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52670590/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-foetentula",
+      "commonName": "Russula foetentula",
+      "scientificName": "Russula foetentula",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29592616/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-lutea",
+      "commonName": "Russula lutea",
+      "scientificName": "Russula lutea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/676419/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-subfoetens",
+      "commonName": "Russula subfoetens",
+      "scientificName": "Russula subfoetens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/163756380/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-aurea",
+      "commonName": "Gilded Brittlegill",
+      "scientificName": "Russula aurea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29157192/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-pulchra",
+      "commonName": "Russula pulchra",
+      "scientificName": "Russula pulchra",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/318646499/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-mustelina",
+      "commonName": "Russula mustelina",
+      "scientificName": "Russula mustelina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109190475/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-rugulosa",
+      "commonName": "Russula rugulosa",
+      "scientificName": "Russula rugulosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28966424/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-pulverulenta",
+      "commonName": "Russula pulverulenta",
+      "scientificName": "Russula pulverulenta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11258356/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-brunneoviolacea",
+      "commonName": "Russula brunneoviolacea",
+      "scientificName": "Russula brunneoviolacea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/146642143/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-seperina",
+      "commonName": "Russula seperina",
+      "scientificName": "Russula seperina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/127646026/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-odorata",
+      "commonName": "Russula odorata",
+      "scientificName": "Russula odorata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/319836104/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-aquosa",
+      "commonName": "red swamp brittlegill",
+      "scientificName": "Russula aquosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13066017/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-anomala",
+      "commonName": "Russula anomala",
+      "scientificName": "Russula anomala",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13074693/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-veternosa",
+      "commonName": "Russula veternosa",
+      "scientificName": "Russula veternosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/229741953/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-xantho",
+      "commonName": "Russula xantho",
+      "scientificName": "Russula xantho",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172776490/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-melliolens",
+      "commonName": "Russula melliolens",
+      "scientificName": "Russula melliolens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/112252406/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-font-queri",
+      "commonName": "Russula font-queri",
+      "scientificName": "Russula font-queri",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61882564/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-squalida",
+      "commonName": "Russula squalida",
+      "scientificName": "Russula squalida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59781121/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-uncialis",
+      "commonName": "Russula uncialis",
+      "scientificName": "Russula uncialis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/229608439/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-appalachiensis",
+      "commonName": "Russula appalachiensis",
+      "scientificName": "Russula appalachiensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/247397310/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-beardslei",
+      "commonName": "Russula beardslei",
+      "scientificName": "Russula beardslei",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72072042/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-cinerascens",
+      "commonName": "Russula cinerascens",
+      "scientificName": "Russula cinerascens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72072102/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-simulans",
+      "commonName": "Russula simulans",
+      "scientificName": "Russula simulans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72072822/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-subtenuiceps",
+      "commonName": "Russula subtenuiceps",
+      "scientificName": "Russula subtenuiceps",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/93636217/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-burlinghamiae",
+      "commonName": "Russula burlinghamiae",
+      "scientificName": "Russula burlinghamiae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/321736059/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-amerorecondita",
+      "commonName": "Russula amerorecondita",
+      "scientificName": "Russula amerorecondita",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/415135508/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-subsulphurea",
+      "commonName": "Russula subsulphurea",
+      "scientificName": "Russula subsulphurea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/220245313/medium.jpg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-corallina",
+      "commonName": "Russula corallina",
+      "scientificName": "Russula corallina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/290023220/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-amygdaloides",
+      "commonName": "Russula amygdaloides",
+      "scientificName": "Russula amygdaloides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/230080967/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-stricta",
+      "commonName": "Russula stricta",
+      "scientificName": "Russula stricta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/232731175/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "russula-lateritia",
+      "commonName": "Russula lateritia",
+      "scientificName": "Russula lateritia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/318173602/medium.jpeg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Russula_brevipes",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/118179"
+}

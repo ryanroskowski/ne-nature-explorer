@@ -1,0 +1,135 @@
+{
+  "slug": "anyphaena-celer",
+  "taxonId": 153541,
+  "group": "arachnids",
+  "commonName": "Anyphaena celer",
+  "scientificName": "Anyphaena celer",
+  "family": "Anyphaenidae",
+  "familyCommonName": "Ghost Spiders",
+  "genus": "Anyphaena",
+  "genusCommonName": "Anyphaena",
+  "order": "Araneae",
+  "orderCommonName": "Spiders",
+  "breadcrumb": [
+    {
+      "label": "Arachnids",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Arachnids",
+      "rank": "class",
+      "slug": "explore/arachnids"
+    },
+    {
+      "label": "Spiders",
+      "rank": "order",
+      "slug": "explore/spiders"
+    },
+    {
+      "label": "Ghost Spiders",
+      "rank": "family",
+      "slug": "explore/ghost-spiders"
+    },
+    {
+      "label": "Anyphaena",
+      "rank": "genus",
+      "slug": "explore/anyphaena"
+    },
+    {
+      "label": "Anyphaena celer",
+      "rank": "species",
+      "slug": "species/anyphaena-celer"
+    }
+  ],
+  "observationCount": 3,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 182701507,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182701507/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182701507/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC), uploaded by Tom Murray",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/15354100"
+    },
+    {
+      "id": 182701586,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182701586/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182701586/large.jpeg",
+      "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC), uploaded by Tom Murray",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/15354101"
+    },
+    {
+      "id": 5088981,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5088981/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5088981/large.jpeg",
+      "attribution": "(c) David Bruns, some rights reserved (CC BY-NC), uploaded by David Bruns",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/15354102"
+    }
+  ],
+  "nameStory": "Ghost spiders get their spooky name from their pale, translucent appearance and their habit of seeming to appear and disappear like phantoms. The 'celer' part of this spider's scientific name means 'swift' in Latin, hinting at how quickly these ghostly hunters can dart across surfaces when disturbed.",
+  "description": "The Swift Ghost Spider is a small, pale hunting spider that doesn't build webs to catch prey. Instead, it actively hunts insects at night, using its speed and stealth to ambush victims. These spiders typically measure about 6-8mm in body length, with a cream to light brown coloration that helps them blend into bark and plant surfaces where they hunt.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Elongated, somewhat flattened body that feels firm to the touch, with relatively long legs that span about twice the body length",
+      "isPrimary": false
+    },
+    {
+      "label": "Markings",
+      "description": "Pale cream to light brown coloration with subtle darker markings on the abdomen, often appearing almost translucent in bright light",
+      "isPrimary": true
+    },
+    {
+      "label": "Web",
+      "description": "No web for catching prey - only produces silk for draglines and egg sacs, leaving thin silk trails where they've traveled",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "Small spider with body about the size of a pencil eraser, total leg span roughly the size of a nickel",
+      "isPrimary": false
+    },
+    {
+      "label": "Eyes",
+      "description": "Eight dark eyes arranged in two rows, giving them excellent vision for hunting in low light conditions",
+      "isPrimary": false
+    },
+    {
+      "label": "Behavior",
+      "description": "Extremely quick movements when disturbed, often running in short bursts before freezing motionless against surfaces",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Swift Ghost Spiders prefer the rough bark of trees and shrubs where their pale coloration provides excellent camouflage. They're often found on oak, maple, and pine trees, tucked into bark crevices during the day. You might also spot them on wooden structures like fence posts or the sides of buildings with textured surfaces.",
+  "seasonality": {
+    "spring": "Adults become active as temperatures warm, emerging from winter hiding spots under bark or in leaf litter to begin hunting.",
+    "summer": "Peak activity period when adults are most commonly seen hunting at night on tree trunks and building walls.",
+    "fall": "Mating occurs and females create silk egg sacs, often hidden in bark crevices or under loose tree bark.",
+    "winter": "Adults seek shelter under bark, in rock crevices, or other protected spots, becoming inactive until spring warmth returns."
+  },
+  "funFact": "Ghost spiders can actually change their body color slightly over several days to better match their surroundings - a spider version of a slow-motion chameleon that helps them become nearly invisible against tree bark!",
+  "confusionNotes": "Often mistaken for young wolf spiders or nursery web spiders, but ghost spiders have a more flattened body and lack the robust, hairy appearance of those families. Remember: if it looks pale and ghostly with a flat profile, it's likely a ghost spider.",
+  "contextualKnowledge": "Despite their common name, ghost spiders are not related to the 'ghost' or 'cellar' spiders (Pholcidae) that build messy webs in basements. The name similarity is purely coincidental, referring to different pale appearances in completely different spider families.",
+  "compareHints": "Swift Ghost Spiders are extremely difficult to distinguish from their close relative, the Fraternal Ghost Spider (Anyphaena fraterna), without examining reproductive structures under magnification. Both species have nearly identical appearance, size, and behavior, making them one of New England's trickiest spider identification challenges even for experts.",
+  "relatedSpecies": [
+    {
+      "slug": "anyphaena-fraterna",
+      "commonName": "Anyphaena fraterna",
+      "scientificName": "Anyphaena fraterna",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28723982/medium.jpeg",
+      "distinction": "The fraternal ghost spider is extremely similar to its close relative Anyphaena celer, and distinguishing between them often requires expert examination of reproductive structures."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Anyphaena_celer",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/153541"
+}

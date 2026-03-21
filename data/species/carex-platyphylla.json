@@ -1,0 +1,1447 @@
+{
+  "slug": "carex-platyphylla",
+  "taxonId": 129491,
+  "group": "plants",
+  "commonName": "broad-leaved sedge",
+  "scientificName": "Carex platyphylla",
+  "family": "Cyperaceae",
+  "familyCommonName": "Sedges",
+  "genus": "Carex",
+  "genusCommonName": "true sedges",
+  "order": "Poales",
+  "orderCommonName": "Grasses, Sedges, Cattails, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Vascular Plants",
+      "rank": "phylum",
+      "slug": "explore/vascular-plants"
+    },
+    {
+      "label": "Monocots",
+      "rank": "class",
+      "slug": "explore/monocots"
+    },
+    {
+      "label": "Grasses, Sedges, Cattails, and Allies",
+      "rank": "order",
+      "slug": "explore/grasses-sedges-cattails-and-allies"
+    },
+    {
+      "label": "Sedges",
+      "rank": "family",
+      "slug": "explore/sedges"
+    },
+    {
+      "label": "true sedges",
+      "rank": "genus",
+      "slug": "explore/true-sedges"
+    },
+    {
+      "label": "broad-leaved sedge",
+      "rank": "species",
+      "slug": "species/carex-platyphylla"
+    }
+  ],
+  "observationCount": 377,
+  "abundanceTier": "very-common",
+  "photos": [
+    {
+      "id": 189807425,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189807425/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189807425/large.jpg",
+      "attribution": "(c) Tom Scavo, some rights reserved (CC BY), uploaded by Tom Scavo",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/12949104"
+    },
+    {
+      "id": 557304618,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/557304618/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/557304618/large.jpg",
+      "attribution": "(c) Sarah Wilson, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/308876292"
+    },
+    {
+      "id": 163654993,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/163654993/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/163654993/large.jpeg",
+      "attribution": "no rights reserved",
+      "licenseCode": "cc0",
+      "observationUrl": "https://www.inaturalist.org/observations/98315026"
+    },
+    {
+      "id": 189807446,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189807446/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189807446/large.jpg",
+      "attribution": "(c) Tom Scavo, some rights reserved (CC BY), uploaded by Tom Scavo",
+      "licenseCode": "cc-by",
+      "observationUrl": "https://www.inaturalist.org/observations/12949106"
+    },
+    {
+      "id": 502550190,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/502550190/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/502550190/large.jpg",
+      "attribution": "(c) Daniel Sembroski, some rights reserved (CC BY-NC), uploaded by Daniel Sembroski",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12949103"
+    },
+    {
+      "id": 2508679,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2508679/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2508679/large.jpg",
+      "attribution": "(c) James Mickley, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/2095685"
+    },
+    {
+      "id": 497748354,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/497748354/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/497748354/large.jpg",
+      "attribution": "(c) Daniel Sembroski, some rights reserved (CC BY-NC), uploaded by Daniel Sembroski",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12949100"
+    },
+    {
+      "id": 121707166,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/121707166/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/121707166/large.jpeg",
+      "attribution": "(c) Bonnie Kinder, some rights reserved (CC BY-NC), uploaded by Bonnie Kinder",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12949105"
+    },
+    {
+      "id": 64505979,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64505979/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64505979/large.jpg",
+      "attribution": "(c) arobey63, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/40691763"
+    },
+    {
+      "id": 70929962,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70929962/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70929962/large.jpg",
+      "attribution": "(c) Brian Maynard, Ph.D., some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/44741346"
+    },
+    {
+      "id": 557304619,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/557304619/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/557304619/large.jpg",
+      "attribution": "(c) Sarah Wilson, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/308876292"
+    },
+    {
+      "id": 195651372,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/195651372/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/195651372/large.jpg",
+      "attribution": "(c) Daniel Sembroski, some rights reserved (CC BY-NC), uploaded by Daniel Sembroski",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12949101"
+    },
+    {
+      "id": 163655316,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/163655316/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/163655316/large.jpeg",
+      "attribution": "no rights reserved",
+      "licenseCode": "cc0",
+      "observationUrl": "https://www.inaturalist.org/observations/98315026"
+    },
+    {
+      "id": 38739364,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/38739364/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/38739364/large.jpg",
+      "attribution": "(c) Susan Elliott, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/25035596"
+    },
+    {
+      "id": 3835772,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3835772/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3835772/large.jpeg",
+      "attribution": "(c) James Pagé, some rights reserved (CC BY-NC), uploaded by James Pagé",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/12949102"
+    },
+    {
+      "id": 56273712,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/56273712/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/56273712/large.jpg",
+      "attribution": "(c) Susan Elliott, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/25035596"
+    }
+  ],
+  "nameStory": "Broad-leaved sedge gets its name from having unusually wide leaves for a sedge - most sedges have narrow, grass-like foliage, but this one sports leaves that are notably broader and more prominent. It's also called silver sedge because its leaves have a distinctive silvery-green color that catches the light beautifully in shaded forest settings.",
+  "description": "Broad-leaved sedge is a low-growing perennial that forms attractive clumps in dry, shaded woodlands. Unlike typical grass-like sedges, this species has distinctly broad, silvery-green leaves that spread outward from the base. It typically grows 6-12 inches tall and produces inconspicuous brownish flower spikes in spring. This sedge is prized by gardeners for its unusual foliage and ability to thrive in difficult dry shade conditions.",
+  "idTips": [
+    {
+      "label": "Leaves",
+      "description": "Broad, silvery-green leaves that are much wider than typical sedges - feel smooth and somewhat papery to the touch, with prominent parallel veins running lengthwise",
+      "isPrimary": true
+    },
+    {
+      "label": "Growth Habit",
+      "description": "Forms neat clumps 6-12 inches tall with leaves spreading outward in a fountain-like pattern from the base",
+      "isPrimary": false
+    },
+    {
+      "label": "Flowers",
+      "description": "Small, inconspicuous brownish spikes that appear in early spring before leaves are fully developed - easily overlooked among the foliage",
+      "isPrimary": false
+    },
+    {
+      "label": "Habitat Preference",
+      "description": "Thrives in dry, shaded conditions where many other plants struggle - often found in the same forests as plantain-leaved sedge but on drier ground",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for broad-leaved sedge in dry, shaded deciduous and mixed forests throughout New England, particularly on well-drained slopes and ridges. It prefers areas with mature tree canopy that create deep shade, often growing alongside other shade-tolerant woodland plants. Unlike many sedges that prefer wet areas, this species specifically seeks out the drier spots in the forest.",
+  "seasonality": {
+    "spring": "Small brownish flower spikes appear in early spring, followed by the emergence of fresh silvery-green leaves that will persist through the growing season.",
+    "summer": "Foliage is at its most prominent, displaying the characteristic broad, silvery leaves that make this sedge so distinctive among woodland plants.",
+    "fall": "Leaves may take on subtle color changes but often remain somewhat evergreen, persisting into winter in protected locations.",
+    "winter": "In milder areas, some leaves may persist through winter, though most die back to the crown and re-emerge in spring."
+  },
+  "funFact": "This sedge is like nature's drought-resistant groundcover - it can survive bone-dry conditions under dense tree canopy where even tough weeds give up, making it a secret weapon for gardeners trying to beautify those impossible dry shade spots.",
+  "confusionNotes": "Most commonly confused with plantain-leaved sedge (Carex plantaginea), which has similar broad leaves but prefers wet areas rather than dry spots. Remember: if the soil is moist, it's probably plantain-leaved sedge; if it's dry, it's likely broad-leaved sedge.",
+  "contextualKnowledge": "Don't let the name 'sedge' fool you - while most sedges are associated with wet areas and have narrow, grass-like leaves, this species breaks both rules with its preference for dry conditions and broad foliage. This makes it unusual among the sedge family and particularly valuable for challenging garden situations.",
+  "compareHints": "Among New England's many sedge species, broad-leaved sedge stands out for its combination of broad leaves and dry habitat preference. While plantain-leaved sedge also has broad leaves, it seeks wet areas, and Pennsylvania sedge prefers dry conditions but has much narrower, more typical sedge-like foliage. The silvery leaf color also helps distinguish it from most other broad-leaved woodland sedges.",
+  "relatedSpecies": [
+    {
+      "slug": "carex-lurida",
+      "commonName": "sallow sedge",
+      "scientificName": "Carex lurida",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/11877147/medium.jpg",
+      "distinction": "Among New England's many sedges, sallow sedge is distinguished by its notably pale, inflated seed pods that look almost translucent."
+    },
+    {
+      "slug": "carex-intumescens",
+      "commonName": "bladder sedge",
+      "scientificName": "Carex intumescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21621776/medium.jpg",
+      "distinction": "Among New England's many Carex species, bladder sedge is distinguished by having the largest and most obviously inflated seed cases - they're much more balloon-like than the smaller, less inflated fruits of hop sedge or the bottle-shaped cases of bottlebrush sedge."
+    },
+    {
+      "slug": "carex-plantaginea",
+      "commonName": "plantainleaf sedge",
+      "scientificName": "Carex plantaginea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7572929/medium.jpg",
+      "distinction": "Among its many sedge relatives, plantainleaf sedge is unmistakable due to its broad leaves - most other Carex species have narrow, grass-like foliage."
+    },
+    {
+      "slug": "carex-bigelowii",
+      "commonName": "Bigelow's sedge",
+      "scientificName": "Carex bigelowii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/58398785/medium.jpg",
+      "distinction": "Among New England's many Carex species, Bigelow's sedge stands out for its extreme habitat preferences and compact growth form."
+    },
+    {
+      "slug": "carex-lupulina",
+      "commonName": "hop sedge",
+      "scientificName": "Carex lupulina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/280763568/medium.jpeg",
+      "distinction": "Among New England's sedges, hop sedge has some of the largest and most inflated seed pods, making it relatively easy to distinguish."
+    },
+    {
+      "slug": "carex-pensylvanica",
+      "commonName": "Pennsylvania sedge",
+      "scientificName": "Carex pensylvanica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1811877/medium.jpg",
+      "distinction": "Among New England's many Carex species, Pennsylvania sedge is distinctive for forming low, dense colonies in dry woodland conditions."
+    },
+    {
+      "slug": "carex-stricta",
+      "commonName": "tussock sedge",
+      "scientificName": "Carex stricta",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/195929675/medium.jpeg",
+      "distinction": "Among New England's many sedge species, tussock sedge is unique in forming such prominent, persistent tussocks - most other sedges grow in more typical clumps or spread by runners."
+    },
+    {
+      "slug": "carex-folliculata",
+      "commonName": "northern long sedge",
+      "scientificName": "Carex folliculata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/133039716/medium.jpeg",
+      "distinction": "Northern long sedge stands out from its many Carex relatives by its impressive size and broad, yellowish-green leaves."
+    },
+    {
+      "slug": "carex-swanii",
+      "commonName": "Swan's sedge",
+      "scientificName": "Carex swanii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/133661150/medium.jpg",
+      "distinction": "Swan's sedge differs from its many Carex relatives primarily in the specific arrangement and structure of its flower spikes and the shape of its seed cases (perigynia)."
+    },
+    {
+      "slug": "carex-comosa",
+      "commonName": "bristly sedge",
+      "scientificName": "Carex comosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2097792/medium.jpg",
+      "distinction": "Among New England's many Carex species, bristly sedge stands out for its exceptional tolerance of deep water and its unmistakably bristly seed heads."
+    },
+    {
+      "slug": "carex-pedunculata",
+      "commonName": "long-stalked sedge",
+      "scientificName": "Carex pedunculata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/199381124/medium.jpg",
+      "distinction": "Among New England's many Carex species, long-stalked sedge is unique for its dramatically elongated flower stalks - most related sedges like Pennsylvania sedge or plantainleaf sedge have flowers that sit much closer to their leaves."
+    },
+    {
+      "slug": "carex-vulpinoidea",
+      "commonName": "fox sedge",
+      "scientificName": "Carex vulpinoidea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41202772/medium.jpg",
+      "distinction": "Among New England's many sedge species, fox sedge stands out for its extremely dense, tangled flower clusters that look jumbled together rather than neatly arranged."
+    },
+    {
+      "slug": "carex-utriculata",
+      "commonName": "Northwest Territory sedge",
+      "scientificName": "Carex utriculata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/967436/medium.jpg",
+      "distinction": "Among the many Carex species in New England, Northwest Territory sedge stands out for having the most dramatically inflated, balloon-like seed pouches - much more swollen than bladder sedge or inflated sedge."
+    },
+    {
+      "slug": "carex-scabrata",
+      "commonName": "eastern rough sedge",
+      "scientificName": "Carex scabrata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/974239/medium.jpg",
+      "distinction": "Among New England's many sedge species, eastern rough sedge stands out for its notably scabrous (rough) texture - run your finger along most other sedges and they'll feel relatively smooth by comparison."
+    },
+    {
+      "slug": "carex-magellanica",
+      "commonName": "Tall Bog-sedge",
+      "scientificName": "Carex magellanica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/399379/medium.jpg",
+      "distinction": "Among its many sedge relatives, tall bog-sedge stands out for its preference for acidic bog conditions rather than neutral or alkaline wetlands."
+    },
+    {
+      "slug": "carex-scoparia",
+      "commonName": "pointed broom sedge",
+      "scientificName": "Carex scoparia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2131645/medium.jpg",
+      "distinction": "Among the many Carex species in New England, pointed broom sedge is distinguished by its relatively few, well-separated, distinctly pointed flower spikes arranged in a clear cluster at the stem tip."
+    },
+    {
+      "slug": "carex-pallescens",
+      "commonName": "pale sedge",
+      "scientificName": "Carex pallescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52577699/medium.jpeg",
+      "distinction": "Among its many Carex relatives, pale sedge stands out for its distinctly light-colored flower spikes - most other small woodland sedges have darker brown or green spikes."
+    },
+    {
+      "slug": "carex-stipata",
+      "commonName": "awl-fruited sedge",
+      "scientificName": "Carex stipata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/385661672/medium.jpeg",
+      "distinction": "Among New England's many Carex species, awl-fruited sedge stands out for its extremely crowded, densely-packed seed clusters with very sharp points."
+    },
+    {
+      "slug": "carex-crinita",
+      "commonName": "fringed sedge",
+      "scientificName": "Carex crinita",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/78360670/medium.jpeg",
+      "distinction": "Among New England's many sedge species, fringed sedge stands out for its gracefully drooping, distinctly fringed seed heads - most other sedges have more compact or upright flower clusters."
+    },
+    {
+      "slug": "carex-flava",
+      "commonName": "yellow-green sedge",
+      "scientificName": "Carex flava",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/547994829/medium.jpg",
+      "distinction": "Among New England's many sedge species, yellow-green sedge stands out for its bright yellowish flower color - most other sedges have brown, green, or whitish flowers."
+    },
+    {
+      "slug": "carex-hystericina",
+      "commonName": "bottlebrush sedge",
+      "scientificName": "Carex hystericina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/140769615/medium.jpg",
+      "distinction": "Among its many sedge relatives, bottlebrush sedge stands out dramatically with its spiky seed heads."
+    },
+    {
+      "slug": "carex-lasiocarpa",
+      "commonName": "woolly-fruited sedge",
+      "scientificName": "Carex lasiocarpa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11396770/medium.jpg",
+      "distinction": "Among its many sedge relatives, woolly-fruited sedge is most similar to inflated sedge and bladder sedge, which also have puffy seed cases."
+    },
+    {
+      "slug": "carex-gracillima",
+      "commonName": "graceful sedge",
+      "scientificName": "Carex gracillima",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8392148/medium.jpg",
+      "distinction": "Graceful sedge stands out among New England's 100+ sedge species for its particularly delicate, arching form - most other sedges grow more upright and stiff."
+    },
+    {
+      "slug": "carex-gynandra",
+      "commonName": "nodding sedge",
+      "scientificName": "Carex gynandra",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/79219604/medium.jpg",
+      "distinction": "Among its many Carex relatives in New England, nodding sedge stands out for its particularly graceful, drooping flower clusters that hang more delicately than the chunky, inflated seed heads of bladder sedge or the large, hop-like clusters of hop sedge."
+    },
+    {
+      "slug": "carex-sprengelii",
+      "commonName": "longbeak sedge",
+      "scientificName": "Carex sprengelii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2063546/medium.jpg",
+      "distinction": "Among New England's many Carex species, longbeak sedge stands out for its dramatically drooping seed heads and extra-long seed beaks."
+    },
+    {
+      "slug": "carex-debilis",
+      "commonName": "white-edge sedge",
+      "scientificName": "Carex debilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4049442/medium.jpg",
+      "distinction": "White-edge sedge is more delicate and woodland-loving than most of its Carex relatives."
+    },
+    {
+      "slug": "carex-canescens",
+      "commonName": "hoary sedge",
+      "scientificName": "Carex canescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/132463142/medium.jpeg",
+      "distinction": "Among New England's many Carex species, hoary sedge stands out for its particularly pale, silvery flower clusters - most other sedges have darker, more brownish or greenish flowers."
+    },
+    {
+      "slug": "carex-grayi",
+      "commonName": "Gray's sedge",
+      "scientificName": "Carex grayi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/42523496/medium.jpg",
+      "distinction": "Among New England's bladder sedges, Gray's sedge stands out with its exceptionally large, inflated seed cases that are arranged in dense, rounded clusters rather than loose spikes."
+    },
+    {
+      "slug": "carex-torta",
+      "commonName": "twisted sedge",
+      "scientificName": "Carex torta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/401411363/medium.jpg",
+      "distinction": "Among its many sedge relatives, twisted sedge is unique in its strongly curved growth habit - most other Carex species grow upright or only slightly arching."
+    },
+    {
+      "slug": "carex-lacustris",
+      "commonName": "lake sedge",
+      "scientificName": "Carex lacustris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11398286/medium.jpg",
+      "distinction": "Among New England's many sedge species, lake sedge stands out for its impressive height and aggressive spreading habit in wet areas."
+    },
+    {
+      "slug": "carex-trisperma",
+      "commonName": "threeseeded sedge",
+      "scientificName": "Carex trisperma",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147420/medium.JPG",
+      "distinction": "Among its many Carex relatives, three-seeded sedge stands out for its consistently small size and bog habitat preference."
+    },
+    {
+      "slug": "carex-echinata",
+      "commonName": "star sedge",
+      "scientificName": "Carex echinata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/390073570/medium.jpeg",
+      "distinction": "Among New England's many sedges, star sedge is uniquely identifiable by its spiky, star-shaped seed heads - most other Carex species have smooth, inflated, or bead-like fruits."
+    },
+    {
+      "slug": "carex-oligosperma",
+      "commonName": "few-seeded sedge",
+      "scientificName": "Carex oligosperma",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8487521/medium.jpg",
+      "distinction": "Among New England's many Carex species, few-seeded sedge stands out for its particularly sparse seed production and delicate growth habit."
+    },
+    {
+      "slug": "carex-retrorsa",
+      "commonName": "retrorse sedge",
+      "scientificName": "Carex retrorsa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4166327/medium.jpg",
+      "distinction": "Among the many New England sedges, retrorse sedge is most similar to hop sedge and bladder sedge, but its seed cases bend backward rather than standing upright or forward."
+    },
+    {
+      "slug": "carex-arctata",
+      "commonName": "drooping woodland sedge",
+      "scientificName": "Carex arctata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/203359432/medium.jpg",
+      "distinction": "Unlike Pennsylvania sedge which spreads by runners and forms carpets, drooping woodland sedge grows in distinct clumps and has those telltale nodding flower spikes."
+    },
+    {
+      "slug": "carex-pauciflora",
+      "commonName": "few-flowered sedge",
+      "scientificName": "Carex pauciflora",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147808022/medium.jpg",
+      "distinction": "Among New England's 100+ sedge species, few-flowered sedge stands out for its truly minimal flower production and exclusive bog habitat."
+    },
+    {
+      "slug": "carex-vesicaria",
+      "commonName": "inflated sedge",
+      "scientificName": "Carex vesicaria",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/440759/medium.jpg",
+      "distinction": "Among New England's inflated-fruited sedges, inflated sedge stands out for its robust size and prominently balloon-like seed cases."
+    },
+    {
+      "slug": "carex-communis",
+      "commonName": "fibrous-rooted sedge",
+      "scientificName": "Carex communis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/231825575/medium.jpeg",
+      "distinction": "Among New England's many Carex species, fibrous-rooted sedge stands out for its well-behaved clumping habit - it won't take over your garden like tussock sedge or spread into colonies like Pennsylvania sedge."
+    },
+    {
+      "slug": "carex-disperma",
+      "commonName": "two-seeded sedge",
+      "scientificName": "Carex disperma",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8467153/medium.jpg",
+      "distinction": "Two-seeded sedge is much more delicate and woodland-loving than most of its Carex relatives, which tend to prefer wetlands and form robust clumps."
+    },
+    {
+      "slug": "carex-virescens",
+      "commonName": "ribbed sedge",
+      "scientificName": "Carex virescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11306509/medium.jpg",
+      "distinction": "Among New England's many Carex species, ribbed sedge is distinguished by its prominent ribbed texture and woodland habitat."
+    },
+    {
+      "slug": "carex-bullata",
+      "commonName": "button sedge",
+      "scientificName": "Carex bullata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/395998462/medium.jpeg",
+      "distinction": "Among New England's many Carex species, button sedge stands out for having the most distinctly inflated, button-shaped perigynia."
+    },
+    {
+      "slug": "carex-silicea",
+      "commonName": "beach sedge",
+      "scientificName": "Carex silicea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3290080/medium.JPG",
+      "distinction": "Beach sedge is unique among New England's 150+ sedge species for its exclusive coastal habitat - it's the only Carex species you'll find thriving directly on ocean beaches."
+    },
+    {
+      "slug": "carex-bushii",
+      "commonName": "Bush's Sedge",
+      "scientificName": "Carex bushii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/364221/medium.jpg",
+      "distinction": "Among its Carex relatives, Bush's sedge is distinguished by having pistillate scales (the bracts around female flowers) that are at least as long as the perigynia (seed coverings)."
+    },
+    {
+      "slug": "carex-pseudocyperus",
+      "commonName": "Cyperus Sedge",
+      "scientificName": "Carex pseudocyperus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/225905790/medium.jpeg",
+      "distinction": "Among the many Carex species in New England, cyperus sedge stands out for its dramatically drooping seed clusters - most other sedges have upright or slightly nodding flower heads."
+    },
+    {
+      "slug": "carex-leptalea",
+      "commonName": "bristle-stalked sedge",
+      "scientificName": "Carex leptalea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43400813/medium.jpeg",
+      "distinction": "Among New England's many sedges, bristle-stalked sedge stands out for being remarkably more delicate and thread-like than its relatives."
+    },
+    {
+      "slug": "carex-brunnescens",
+      "commonName": "Brownish Sedge",
+      "scientificName": "Carex brunnescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/249275663/medium.jpeg",
+      "distinction": "Among New England's many sedges, brownish sedge is distinguished by its small size, preference for very wet acidic soils, and especially its dramatic appearance changes based on light conditions."
+    },
+    {
+      "slug": "carex-aurea",
+      "commonName": "golden sedge",
+      "scientificName": "Carex aurea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/223610365/medium.jpg",
+      "distinction": "Among its many sedge relatives, golden sedge stands out for its distinctly golden-colored fruits - most other Carex species have brown, green, or whitish seed heads."
+    },
+    {
+      "slug": "carex-albicans",
+      "commonName": "white-tinged sedge",
+      "scientificName": "Carex albicans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189535218/medium.jpeg",
+      "distinction": "Among the 150+ sedge species found in New England, white-tinged sedge stands out for preferring dry habitats rather than wet ones."
+    },
+    {
+      "slug": "carex-bromoides",
+      "commonName": "brome-like sedge",
+      "scientificName": "Carex bromoides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/203354497/medium.jpg",
+      "distinction": "Among New England's many Carex species, brome-like sedge stands out for its preference for drier woodland habitats rather than wetlands."
+    },
+    {
+      "slug": "carex-tuckermanii",
+      "commonName": "Tuckerman's sedge",
+      "scientificName": "Carex tuckermanii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98534915/medium.jpg",
+      "distinction": "Among New England's many sedges, Tuckerman's sedge is distinguished by its specific habitat preferences and growth form, but separating it from close relatives like hop sedge or bladder sedge often requires examining the detailed structure of the seed-bearing perigynia under magnification."
+    },
+    {
+      "slug": "carex-atlantica",
+      "commonName": "prickly bog sedge",
+      "scientificName": "Carex atlantica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/76216093/medium.jpg",
+      "distinction": "Among New England's many sedge species, prickly bog sedge stands out for its specific acidic wetland habitat and notably sharp leaves."
+    },
+    {
+      "slug": "carex-castanea",
+      "commonName": "chestnut sedge",
+      "scientificName": "Carex castanea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/42788515/medium.jpg",
+      "distinction": "Among woodland sedges, chestnut sedge is unique for its distinctly colored seed heads - most related species like plantainleaf sedge or Pennsylvania sedge have greenish or pale brown seed structures."
+    },
+    {
+      "slug": "carex-typhina",
+      "commonName": "cattail sedge",
+      "scientificName": "Carex typhina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210710120/medium.jpeg",
+      "distinction": "Among New England's many Carex species, cattail sedge stands out for its distinctive cylindrical flower spikes that actually look like something recognizable."
+    },
+    {
+      "slug": "carex-blanda",
+      "commonName": "eastern woodland sedge",
+      "scientificName": "Carex blanda",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/54934162/medium.jpg",
+      "distinction": "Among New England's many Carex species, eastern woodland sedge is distinguished by its woodland habitat preference and its specific spike arrangement - one terminal male spike with female spikes clustered closely below it."
+    },
+    {
+      "slug": "carex-novae-angliae",
+      "commonName": "New England sedge",
+      "scientificName": "Carex novae-angliae",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/132449572/medium.jpeg",
+      "distinction": "New England sedge is just one of over 150 sedge species in New England, making it one of the most diverse plant groups in the region."
+    },
+    {
+      "slug": "carex-buxbaumii",
+      "commonName": "Buxbaum's sedge",
+      "scientificName": "Carex buxbaumii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18432491/medium.jpeg",
+      "distinction": "Among New England's 100+ sedge species, Buxbaum's sedge stands out for its combination of tall stature, small leaves relative to stem height, and those distinctively rough gray-green seed pouches."
+    },
+    {
+      "slug": "carex-eburnea",
+      "commonName": "ivory sedge",
+      "scientificName": "Carex eburnea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18276527/medium.jpg",
+      "distinction": "Among New England's many sedges, ivory sedge stands out for its exceptionally narrow leaves and small stature."
+    },
+    {
+      "slug": "carex-baileyi",
+      "commonName": "Bailey's Sedge",
+      "scientificName": "Carex baileyi",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/84863425/medium.jpg",
+      "distinction": "Bailey's sedge differs from most other New England sedges by preferring drier, upland habitats rather than wetlands or boggy areas."
+    },
+    {
+      "slug": "carex-longii",
+      "commonName": "green-and-white sedge",
+      "scientificName": "Carex longii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/84219114/medium.jpeg",
+      "distinction": "Green-and-white sedge stands out from its many Carex relatives primarily through its distinctively patterned seed heads - most other sedges have uniformly colored heads in shades of brown, green, or tan."
+    },
+    {
+      "slug": "carex-rosea",
+      "commonName": "rosy sedge",
+      "scientificName": "Carex rosea",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/306443533/medium.jpeg",
+      "distinction": "Among New England's many sedge species, rosy sedge is distinguished by its small size, compact growth habit, and those telltale pinkish flower clusters."
+    },
+    {
+      "slug": "carex-nigra",
+      "commonName": "smooth black sedge",
+      "scientificName": "Carex nigra",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/78460772/medium.jpeg",
+      "distinction": "Among New England's many Carex species, smooth black sedge stands out for its completely hairless texture - most other sedges have some roughness or fuzziness to their leaves or stems."
+    },
+    {
+      "slug": "carex-cumulata",
+      "commonName": "clustered sedge",
+      "scientificName": "Carex cumulata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5068731/medium.jpeg",
+      "distinction": "Unlike fox sedge or awl-fruited sedge which have elongated flower clusters, clustered sedge's flowers form a distinctly compact, almost ball-like arrangement."
+    },
+    {
+      "slug": "carex-tonsa",
+      "commonName": "shaved sedge",
+      "scientificName": "Carex tonsa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/480546023/medium.jpg",
+      "distinction": "Among its sedge relatives, shaved sedge is notably smaller and smoother than Pennsylvania sedge, which is more robust and hairy."
+    },
+    {
+      "slug": "carex-normalis",
+      "commonName": "Greater Straw Sedge",
+      "scientificName": "Carex normalis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288989895/medium.jpg",
+      "distinction": "Greater straw sedge differs from fox sedge by having fewer, more compact flower clusters rather than the dense, spiky appearance of fox sedge."
+    },
+    {
+      "slug": "carex-prasina",
+      "commonName": "drooping sedge",
+      "scientificName": "Carex prasina",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/74629485/medium.jpeg",
+      "distinction": "Among its many Carex relatives in New England, drooping sedge is distinguished primarily by its hanging flower clusters - most other sedges like tussock sedge or Pennsylvania sedge hold their flowers upright or only slightly nodding."
+    },
+    {
+      "slug": "carex-annectens",
+      "commonName": "Yellow-fruited Sedge",
+      "scientificName": "Carex annectens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9415056/medium.jpg",
+      "distinction": "Among New England's many Carex species, yellow-fruited sedge stands out for its yellowish seed color - most related sedges like fox sedge or pointed broom sedge have brown or green seed heads."
+    },
+    {
+      "slug": "carex-michauxiana",
+      "commonName": "Michaux's sedge",
+      "scientificName": "Carex michauxiana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/346231019/medium.jpg",
+      "distinction": "Among New England's many sedge species, Michaux's sedge is distinguished by its yellowish flower color and preference for consistently wet habitats."
+    },
+    {
+      "slug": "carex-albursina",
+      "commonName": "White Bear Sedge",
+      "scientificName": "Carex albursina",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/41967344/medium.jpeg",
+      "distinction": "Among woodland sedges, White Bear Sedge has the broadest leaves - much wider than plantainleaf sedge or Pennsylvania sedge which also grow in forests."
+    },
+    {
+      "slug": "carex-pellita",
+      "commonName": "woolly sedge",
+      "scientificName": "Carex pellita",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135818236/medium.jpeg",
+      "distinction": "Among its many sedge relatives in New England, woolly sedge stands out for its distinctly fuzzy flower clusters - most other Carex species have smooth or only slightly hairy flowers."
+    },
+    {
+      "slug": "carex-limosa",
+      "commonName": "mud sedge",
+      "scientificName": "Carex limosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32306464/medium.jpg",
+      "distinction": "Among New England's many sedges, mud sedge stands out for its strict preference for acidic bog conditions – most other sedges are more flexible about soil chemistry."
+    },
+    {
+      "slug": "carex-scirpoidea",
+      "commonName": "Bulrush Sedge",
+      "scientificName": "Carex scirpoidea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/405462061/medium.jpg",
+      "distinction": "Among New England's many Carex species, Bulrush Sedge stands out for its extreme habitat preferences and dioecious nature."
+    },
+    {
+      "slug": "carex-cephalophora",
+      "commonName": "oval-headed sedge",
+      "scientificName": "Carex cephalophora",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277869261/medium.jpeg",
+      "distinction": "Among New England's many Carex species, oval-headed sedge is distinctive for its compact, football-shaped flower clusters."
+    },
+    {
+      "slug": "carex-billingsii",
+      "commonName": "Billings' sedge",
+      "scientificName": "Carex billingsii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4874205/medium.jpg",
+      "distinction": "Among New England's many sedges, Billings' sedge is distinguished by its preference for acidic bogs rather than neutral wetlands like many others."
+    },
+    {
+      "slug": "carex-deweyana",
+      "commonName": "Dewey's sedge",
+      "scientificName": "Carex deweyana",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/309632811/medium.jpeg",
+      "distinction": "Among New England's many sedge species, Dewey's sedge is distinguished by its woodland habitat preference and relatively delicate appearance compared to robust wetland species like tussock sedge or lake sedge."
+    },
+    {
+      "slug": "carex-oederi",
+      "commonName": "little green sedge",
+      "scientificName": "Carex oederi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/85035619/medium.jpeg",
+      "distinction": "Among New England's many Carex species, little green sedge stands out for its truly small size and compact growth habit."
+    },
+    {
+      "slug": "carex-lucorum",
+      "commonName": "Blue Ridge sedge",
+      "scientificName": "Carex lucorum",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/291783710/medium.jpeg",
+      "distinction": "Among woodland sedges, Blue Ridge sedge is distinguished by its particularly tight tussock growth form compared to the more spreading Pennsylvania sedge or the broader-leaved plantainleaf sedge."
+    },
+    {
+      "slug": "carex-paleacea",
+      "commonName": "chaffy sedge",
+      "scientificName": "Carex paleacea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/49749690/medium.jpeg",
+      "distinction": "Among New England's many Carex species, chaffy sedge stands out for its strong association with salt marshes - most other sedges prefer freshwater wetlands."
+    },
+    {
+      "slug": "carex-laxiculmis",
+      "commonName": "Spreading Sedge",
+      "scientificName": "Carex laxiculmis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/398441247/medium.jpeg",
+      "distinction": "Among its many sedge relatives in New England, spreading sedge is unique in its distinctly sprawling growth habit."
+    },
+    {
+      "slug": "carex-interior",
+      "commonName": "inland sedge",
+      "scientificName": "Carex interior",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/213779314/medium.jpeg",
+      "distinction": "Among the many Carex species in New England, inland sedge stands out for its particularly open, star-like flower arrangement and preference for lime-rich soils."
+    },
+    {
+      "slug": "carex-granularis",
+      "commonName": "Limestone Meadow sedge",
+      "scientificName": "Carex granularis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/54092322/medium.jpg",
+      "distinction": "Among New England's many sedge species, limestone meadow sedge stands out for its preference for alkaline conditions - most other sedges prefer acidic or neutral soils."
+    },
+    {
+      "slug": "carex-haydenii",
+      "commonName": "Hayden's sedge",
+      "scientificName": "Carex haydenii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248147311/medium.jpeg",
+      "distinction": "Among New England's many sedges, Hayden's sedge is distinguished by its preference for shady, wet locations and its relatively compact, clumping growth habit."
+    },
+    {
+      "slug": "carex-aestivalis",
+      "commonName": "summer sedge",
+      "scientificName": "Carex aestivalis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/313248967/medium.jpg",
+      "distinction": "Among New England's many sedges, summer sedge stands out primarily for its blooming season - while relatives like tussock sedge and fox sedge flower in late spring, summer sedge waits until July and August."
+    },
+    {
+      "slug": "carex-exilis",
+      "commonName": "meager sedge",
+      "scientificName": "Carex exilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/206634298/medium.jpeg",
+      "distinction": "Compared to other Carex species, meager sedge is notably smaller and more delicate than most of its relatives."
+    },
+    {
+      "slug": "carex-garberi",
+      "commonName": "Elk Sedge",
+      "scientificName": "Carex garberi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/73471634/medium.jpg",
+      "distinction": "Among New England sedges, elk sedge is distinguished by its preference for alkaline wetlands and its relatively robust growth habit."
+    },
+    {
+      "slug": "carex-conoidea",
+      "commonName": "open-field sedge",
+      "scientificName": "Carex conoidea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248147178/medium.jpeg",
+      "distinction": "Open-field sedge differs from most other New England sedges by its preference for dry, sunny habitats rather than wetlands or forests."
+    },
+    {
+      "slug": "carex-backii",
+      "commonName": "Back's sedge",
+      "scientificName": "Carex backii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19077310/medium.jpg",
+      "distinction": "Among its many sedge relatives in New England, Back's sedge is distinguished by being one of the smallest and most shade-dependent species."
+    },
+    {
+      "slug": "carex-projecta",
+      "commonName": "necklace sedge",
+      "scientificName": "Carex projecta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21027008/medium.jpeg",
+      "distinction": "Among its many Carex relatives, necklace sedge stands out with its distinctly drooping, loosely-arranged seed clusters that truly resemble scattered beads."
+    },
+    {
+      "slug": "carex-radiata",
+      "commonName": "bracted sedge",
+      "scientificName": "Carex radiata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129199726/medium.jpg",
+      "distinction": "Among New England's many Carex species, bracted sedge stands out for its particularly showy bracts and yellowish-green foliage color."
+    },
+    {
+      "slug": "carex-sparganioides",
+      "commonName": "bur reed sedge",
+      "scientificName": "Carex sparganioides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/987269/medium.jpg",
+      "distinction": "Among New England's many Carex species, bur reed sedge stands out for its woodland habitat preference - most sedges prefer wetlands, marshes, or meadows."
+    },
+    {
+      "slug": "carex-squarrosa",
+      "commonName": "squarrose sedge",
+      "scientificName": "Carex squarrosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/587071/medium.jpg",
+      "distinction": "Among its many sedge relatives in New England, squarrose sedge stands out for its distinctively spiky, outward-pointing seed clusters."
+    },
+    {
+      "slug": "carex-abscondita",
+      "commonName": "thicket sedge",
+      "scientificName": "Carex abscondita",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/398864270/medium.jpeg",
+      "distinction": "Among New England's many sedges, thicket sedge stands out for its specific habitat preference for shrubby areas rather than wetlands, prairies, or open woods."
+    },
+    {
+      "slug": "carex-vestita",
+      "commonName": "velvet sedge",
+      "scientificName": "Carex vestita",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/142870807/medium.jpeg",
+      "distinction": "Among New England's many Carex species, velvet sedge stands out for its exceptionally soft, fuzzy texture that most other sedges lack entirely."
+    },
+    {
+      "slug": "carex-appalachica",
+      "commonName": "Appalachian sedge",
+      "scientificName": "Carex appalachica",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/43625837/medium.jpg",
+      "distinction": "Within the massive Carex genus, Appalachian sedge belongs to the 'rosea complex,' a group of similar-looking woodland species."
+    },
+    {
+      "slug": "carex-cryptolepis",
+      "commonName": "northeastern sedge",
+      "scientificName": "Carex cryptolepis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/146515120/medium.jpeg",
+      "distinction": "Among the many Carex species in New England, northeastern sedge is distinguished by its specific habitat preferences and the tiny hidden scales on its seeds (hence 'cryptolepis')."
+    },
+    {
+      "slug": "carex-siccata",
+      "commonName": "dry land sedge",
+      "scientificName": "Carex siccata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/286174241/medium.jpeg",
+      "distinction": "Unlike most of its Carex relatives that love wet feet, dry land sedge thrives in well-drained soils, immediately setting it apart from wetland species like tussock sedge or lake sedge."
+    },
+    {
+      "slug": "carex-laxiflora",
+      "commonName": "loose-flowered sedge",
+      "scientificName": "Carex laxiflora",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/270931970/medium.jpg",
+      "distinction": "Among its many sedge relatives, loose-flowered sedge stands out for its distinctly drooping, openly-spaced flower spikes - most other woodland sedges like Pennsylvania sedge have more upright or tightly clustered flowers."
+    },
+    {
+      "slug": "carex-leptonervia",
+      "commonName": "Nerveless Woodland Sedge",
+      "scientificName": "Carex leptonervia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/298835541/medium.jpeg",
+      "distinction": "Among woodland sedges in New England, nerveless woodland sedge stands out for its smooth leaves that lack the obvious parallel veins of relatives like Pennsylvania sedge or plantainleaf sedge."
+    },
+    {
+      "slug": "carex-seorsa",
+      "commonName": "Weak Stellate Sedge",
+      "scientificName": "Carex seorsa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/906454/medium.JPG",
+      "distinction": "Compared to its sedge relatives, weak stellate sedge is much more delicate and smaller than common species like tussock sedge or fox sedge."
+    },
+    {
+      "slug": "carex-brevior",
+      "commonName": "Shortbeak Sedge",
+      "scientificName": "Carex brevior",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30273091/medium.jpg",
+      "distinction": "Among New England's many Carex species, shortbeak sedge stands out for its preference for dry, open habitats rather than wetlands."
+    },
+    {
+      "slug": "carex-diandra",
+      "commonName": "lesser tussock sedge",
+      "scientificName": "Carex diandra",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/342916055/medium.jpg",
+      "distinction": "Among New England's many sedges, lesser tussock sedge is distinguished by its small but distinct tussock growth form - most other sedges either grow in loose colonies or single stems rather than tight clumps."
+    },
+    {
+      "slug": "carex-livida",
+      "commonName": "livid sedge",
+      "scientificName": "Carex livida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13344638/medium.jpg",
+      "distinction": "Among its many Carex relatives, livid sedge is distinguished by its uniquely pale, bluish-green coloration and small size."
+    },
+    {
+      "slug": "carex-digitalis",
+      "commonName": "slender woodland sedge",
+      "scientificName": "Carex digitalis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/282626417/medium.jpeg",
+      "distinction": "Among woodland sedges, slender woodland sedge is more delicate and forms tighter clumps than the spreading Pennsylvania sedge."
+    },
+    {
+      "slug": "carex-trichocarpa",
+      "commonName": "Hairy-fruit Sedge",
+      "scientificName": "Carex trichocarpa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22454952/medium.jpg",
+      "distinction": "Among the 140+ sedge species in New England, hairy-fruited sedge stands out for its distinctly fuzzy seed cases - most other sedges have smooth or slightly rough perigynia."
+    },
+    {
+      "slug": "carex-hirsutella",
+      "commonName": "fuzzy wuzzy sedge",
+      "scientificName": "Carex hirsutella",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1340027/medium.JPG",
+      "distinction": "Among its sedge relatives, fuzzy wuzzy sedge stands out for its distinctly hairy texture - most other Carex species have smooth or only slightly rough leaves and stems."
+    },
+    {
+      "slug": "carex-spicata",
+      "commonName": "Spiked Sedge",
+      "scientificName": "Carex spicata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/136255504/medium.jpeg",
+      "distinction": "Among its many sedge relatives in New England, spiked sedge stands out for its tightly clustered, egg-shaped flower spikes - quite different from fox sedge's loose, branching clusters or tussock sedge's tall, single dense spikes."
+    },
+    {
+      "slug": "carex-amphibola",
+      "commonName": "Eastern Narrowleaf Sedge",
+      "scientificName": "Carex amphibola",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/112623608/medium.jpeg",
+      "distinction": "Among New England's 100+ sedge species, Eastern Narrowleaf Sedge stands out for its woodland habitat preference and distinctive gray-green perigynia."
+    },
+    {
+      "slug": "carex-cristatella",
+      "commonName": "crested sedge",
+      "scientificName": "Carex cristatella",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/291863875/medium.jpg",
+      "distinction": "Among its many sedge relatives, crested sedge stands out for its compact, truly crest-like flower clusters rather than the loose, drooping, or elongated spikes of most other Carex species."
+    },
+    {
+      "slug": "carex-formosa",
+      "commonName": "handsome sedge",
+      "scientificName": "Carex formosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3796720/medium.JPG",
+      "distinction": "Among its many Carex relatives, handsome sedge stands out for its woodland habitat preference, as most sedges favor wetlands, meadows, or bog edges."
+    },
+    {
+      "slug": "carex-hormathodes",
+      "commonName": "marsh straw sedge",
+      "scientificName": "Carex hormathodes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/42651647/medium.jpeg",
+      "distinction": "Marsh straw sedge differs from its more common relatives like tussock sedge by preferring less permanently flooded areas and having more delicate, arching foliage rather than forming large, dense tussocks."
+    },
+    {
+      "slug": "carex-lupuliformis",
+      "commonName": "false hop sedge",
+      "scientificName": "Carex lupuliformis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/233258299/medium.jpg",
+      "distinction": "Among its sedge relatives, false hop sedge's inflated fruits are much larger and more lantern-like than most other Carex species."
+    },
+    {
+      "slug": "carex-muehlenbergii",
+      "commonName": "Muhlenberg's Sedge",
+      "scientificName": "Carex muehlenbergii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4053976/medium.jpg",
+      "distinction": "Among New England's many sedges, Muhlenberg's sedge is distinguished by its preference for dry, sandy conditions - most other sedges prefer wet or moist areas."
+    },
+    {
+      "slug": "carex-tribuloides",
+      "commonName": "blunt broom sedge",
+      "scientificName": "Carex tribuloides",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/143982631/medium.jpeg",
+      "distinction": "Among New England's many Carex species, blunt broom sedge stands out for its distinctly rounded seed clusters - most other sedges have pointed or elongated seed heads."
+    },
+    {
+      "slug": "carex-atratiformis",
+      "commonName": "scabrous black sedge",
+      "scientificName": "Carex atratiformis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23703763/medium.jpeg",
+      "distinction": "Among New England's many sedges, scabrous black sedge stands out for its combination of very rough texture and exceptionally dark flower spikes."
+    },
+    {
+      "slug": "carex-grisea",
+      "commonName": "Inflated Narrow-leaved Sedge",
+      "scientificName": "Carex grisea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/382003864/medium.jpg",
+      "distinction": "Among New England's many sedge species, inflated narrow-leaved sedge is distinguished by its woodland habitat and moderately inflated seed pods."
+    },
+    {
+      "slug": "carex-aquatilis",
+      "commonName": "water sedge",
+      "scientificName": "Carex aquatilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/215795134/medium.jpeg",
+      "distinction": "Water sedge differs from most other New England Carex species by its strong preference for very wet conditions and its mat-forming growth habit rather than clumping."
+    },
+    {
+      "slug": "carex-tenuiflora",
+      "commonName": "sparse-flowered sedge",
+      "scientificName": "Carex tenuiflora",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4354543/medium.jpg",
+      "distinction": "Among its many sedge relatives, sparse-flowered sedge stands out for having fewer flower clusters than almost any other New England sedge - while tussock sedge forms dense clumps with many flower spikes, and fox sedge has numerous clustered flower heads, sparse-flowered sedge typically has just 2-4 widely-spaced, thin flower clusters."
+    },
+    {
+      "slug": "carex-hirtifolia",
+      "commonName": "hairy sedge",
+      "scientificName": "Carex hirtifolia",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/84991069/medium.jpg",
+      "distinction": "Among its many sedge relatives in New England, hairy sedge stands completely alone with its fuzzy coating - no other Carex species has this soft, hairy texture covering the entire plant."
+    },
+    {
+      "slug": "carex-panicea",
+      "commonName": "grass-like sedge",
+      "scientificName": "Carex panicea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/444018598/medium.jpg",
+      "distinction": "Unlike most other Carex sedges in New England which have green foliage, grass-like sedge stands out with its pale blue-green coloration on both leaf surfaces."
+    },
+    {
+      "slug": "carex-peckii",
+      "commonName": "Peck's sedge",
+      "scientificName": "Carex peckii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11271138/medium.jpg",
+      "distinction": "Among New England's many Carex species, Peck's sedge is distinguished by its small stature, woodland habitat, and especially those pale-margined seed scales."
+    },
+    {
+      "slug": "carex-glaucodea",
+      "commonName": "Blue Sedge",
+      "scientificName": "Carex glaucodea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/80207097/medium.jpeg",
+      "distinction": "Among New England's many Carex species, blue sedge stands out immediately due to its blue-green foliage - most relatives like fox sedge, tussock sedge, and Pennsylvania sedge have plain green leaves."
+    },
+    {
+      "slug": "carex-lenticularis",
+      "commonName": "lenticular sedge",
+      "scientificName": "Carex lenticularis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/304022043/medium.jpg",
+      "distinction": "Among New England's many Carex species, lenticular sedge is distinguished by its lakeside habitat and distinctive lens-shaped seeds."
+    },
+    {
+      "slug": "carex-argyrantha",
+      "commonName": "silvery-flowered sedge",
+      "scientificName": "Carex argyrantha",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/44980550/medium.jpeg",
+      "distinction": "Among the many Carex species in New England, silvery-flowered sedge stands out for its metallic flower clusters and rocky habitat preferences."
+    },
+    {
+      "slug": "carex-collinsii",
+      "commonName": "Collins' Sedge",
+      "scientificName": "Carex collinsii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19885170/medium.jpg",
+      "distinction": "Among its many sedge relatives, Collins' sedge is distinguished by its specific combination of habitat preferences and flower/seed arrangements, though these differences are quite subtle."
+    },
+    {
+      "slug": "carex-hirta",
+      "commonName": "hairy sedge",
+      "scientificName": "Carex hirta",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/78978619/medium.jpeg",
+      "distinction": "Among all the Carex species in New England, hairy sedge is unique for its distinctly fuzzy, hair-covered leaves and flowers - all other sedges in our region are smooth to the touch."
+    },
+    {
+      "slug": "carex-hitchcockiana",
+      "commonName": "Hitchcock's Sedge",
+      "scientificName": "Carex hitchcockiana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18618872/medium.jpg",
+      "distinction": "Among the many Carex species in New England, Hitchcock's sedge requires expert identification using technical features like the shape and size of its perigynia (seed cases)."
+    },
+    {
+      "slug": "carex-merritt-fernaldii",
+      "commonName": "Merritt Fernald's sedge",
+      "scientificName": "Carex merritt-fernaldii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33608778/medium.jpg",
+      "distinction": "Among New England's many sedges, Merritt Fernald's sedge is distinguished by characters that require expert botanical knowledge to properly assess."
+    },
+    {
+      "slug": "carex-striata",
+      "commonName": "Walter's Sedge",
+      "scientificName": "Carex striata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67904161/medium.jpeg",
+      "distinction": "Walter's sedge is distinguished from other New England sedges by its specific habitat preferences and seed characteristics, though positive identification often requires close examination of the seed structures (perigynia)."
+    },
+    {
+      "slug": "carex-arctogena",
+      "commonName": "Capitate Sedge",
+      "scientificName": "Carex arctogena",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13236568/medium.jpg",
+      "distinction": "Among New England's many sedges, capitate sedge stands out for its single flower head per stem and extreme alpine habitat."
+    },
+    {
+      "slug": "carex-waponahkikensis",
+      "commonName": "Dawn-land sedge",
+      "scientificName": "Carex waponahkikensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51025448/medium.jpg",
+      "distinction": "With over 100 sedge species in New England, Dawn-land sedge's main distinguishing feature is its extremely limited range rather than obvious physical differences."
+    },
+    {
+      "slug": "carex-crawfordii",
+      "commonName": "Crawford's sedge",
+      "scientificName": "Carex crawfordii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9234865/medium.jpeg",
+      "distinction": "Among New England's many Carex species, Crawford's sedge is distinguished by its small size and preference for calcareous wetlands."
+    },
+    {
+      "slug": "carex-houghtoniana",
+      "commonName": "Houghton's sedge",
+      "scientificName": "Carex houghtoniana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6630981/medium.jpg",
+      "distinction": "Houghton's sedge differs from more common New England sedges like tussock sedge by forming smaller, less prominent clumps and preferring different moisture conditions."
+    },
+    {
+      "slug": "carex-kobomugi",
+      "commonName": "Japanese sedge",
+      "scientificName": "Carex kobomugi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64569623/medium.jpg",
+      "distinction": "Japanese sedge stands out from other New England sedges primarily by its coastal habitat - most of our native sedges prefer wetlands, meadows, or woodlands rather than sandy beaches."
+    },
+    {
+      "slug": "carex-oronensis",
+      "commonName": "Orono sedge",
+      "scientificName": "Carex oronensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/296880300/medium.jpeg",
+      "distinction": "Among Maine's many sedge species, Orono sedge is most similar to pointed broom sedge and other meadow sedges, but its copper-colored inflorescence sets it apart from the more typical brown or greenish flower clusters of its relatives."
+    },
+    {
+      "slug": "carex-polymorpha",
+      "commonName": "variable sedge",
+      "scientificName": "Carex polymorpha",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8735716/medium.jpg",
+      "distinction": "Among the many Carex species in New England, variable sedge is distinguished by its extreme rarity and its adaptable growth form that changes significantly with environmental conditions."
+    },
+    {
+      "slug": "carex-prairea",
+      "commonName": "prairie sedge",
+      "scientificName": "Carex prairea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11400931/medium.jpg",
+      "distinction": "Among New England's many sedges, prairie sedge is unique in preferring dry, upland sites rather than wetlands like most of its relatives such as tussock sedge or lake sedge."
+    },
+    {
+      "slug": "carex-sterilis",
+      "commonName": "dioecious sedge",
+      "scientificName": "Carex sterilis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/180491670/medium.jpg",
+      "distinction": "Unlike most of its Carex relatives which have both male and female flowers on the same plant, dioecious sedge is unique in having completely separate male and female plants."
+    },
+    {
+      "slug": "carex-wiegandii",
+      "commonName": "Wiegand's sedge",
+      "scientificName": "Carex wiegandii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9788773/medium.jpeg",
+      "distinction": "Among New England's many sedges, Wiegand's sedge is distinguished by its specific habitat preferences and clumping growth pattern."
+    },
+    {
+      "slug": "carex-foenea",
+      "commonName": "straw sedge",
+      "scientificName": "Carex foenea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12858267/medium.jpeg",
+      "distinction": "Straw sedge differs from most other Carex species by preferring dry habitats rather than wet areas, and by its distinctively pale, straw-colored mature flower spikes."
+    },
+    {
+      "slug": "carex-bebbii",
+      "commonName": "Bebb's Sedge",
+      "scientificName": "Carex bebbii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/212554541/medium.jpeg",
+      "distinction": "Among New England's many sedges, Bebb's sedge is distinguished by its dense tufted growth habit and compact, brownish flower clusters."
+    },
+    {
+      "slug": "carex-albolutescens",
+      "commonName": "Greenwhite Sedge",
+      "scientificName": "Carex albolutescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/134747266/medium.jpeg",
+      "distinction": "Greenwhite sedge stands out from its many Carex relatives by its preference for acidic conditions and its distinctive pale flower color - most other New England sedges have brown, green, or yellowish flowers."
+    },
+    {
+      "slug": "carex-adusta",
+      "commonName": "swarthy sedge",
+      "scientificName": "Carex adusta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/20741708/medium.jpg",
+      "distinction": "Among New England's many sedge species, swarthy sedge is distinguished by its particularly dark, burnt-brown flower clusters - much darker than the pale brown of pointed broom sedge or the yellowish-brown of fox sedge."
+    },
+    {
+      "slug": "carex-capillaris",
+      "commonName": "hair-like sedge",
+      "scientificName": "Carex capillaris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/960650/medium.jpg",
+      "distinction": "Among New England's sedges, hair-like sedge is unique for its combination of tiny size and distinctively drooping flower spikes."
+    },
+    {
+      "slug": "carex-davisii",
+      "commonName": "Davis' sedge",
+      "scientificName": "Carex davisii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/139518211/medium.jpeg",
+      "distinction": "Among the many Carex species in New England, Davis' sedge is distinguished by its combination of woodland habitat, small graceful stature, and most importantly, the bristle-tipped seed cases (awns)."
+    },
+    {
+      "slug": "carex-mitchelliana",
+      "commonName": "Mitchell's sedge",
+      "scientificName": "Carex mitchelliana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/121246769/medium.jpg",
+      "distinction": "Mitchell's sedge is distinguished from other New England sedges primarily by its extreme rarity and specific habitat preferences."
+    },
+    {
+      "slug": "carex-oligocarpa",
+      "commonName": "Eastern Few-fruit Sedge",
+      "scientificName": "Carex oligocarpa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248131591/medium.jpeg",
+      "distinction": "Unlike dense-clustered sedges like fox sedge or awl-fruited sedge that pack many seed clusters tightly together, eastern few-fruit sedge space theirs out sparsely."
+    },
+    {
+      "slug": "carex-tenera",
+      "commonName": "Delicate Quill Sedge",
+      "scientificName": "Carex tenera",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/296726560/medium.jpg",
+      "distinction": "Delicate Quill Sedge is much smaller and more refined than most of its New England sedge relatives like Tussock Sedge or Fox Sedge, which form large, robust clumps."
+    },
+    {
+      "slug": "carex-umbellata",
+      "commonName": "parasol sedge",
+      "scientificName": "Carex umbellata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/512065469/medium.jpg",
+      "distinction": "Among its many sedge relatives, parasol sedge stands out for its extremely low, compact growth and that distinctive umbrella flower arrangement."
+    },
+    {
+      "slug": "carex-praegracilis",
+      "commonName": "field sedge",
+      "scientificName": "Carex praegracilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/350707752/medium.jpg",
+      "distinction": "Field sedge stands out from other New England Carex species by its preference for dry habitats and colony-forming growth pattern."
+    },
+    {
+      "slug": "carex-deflexa",
+      "commonName": "northern sedge",
+      "scientificName": "Carex deflexa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/347495117/medium.jpeg",
+      "distinction": "Among New England's many sedges, northern sedge is distinguished by its combination of very narrow pale green leaves, small clumping habit, and colorful rhizomes."
+    },
+    {
+      "slug": "carex-alopecoidea",
+      "commonName": "foxtail sedge",
+      "scientificName": "Carex alopecoidea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8334488/medium.jpeg",
+      "distinction": "Among the many Carex species in New England, foxtail sedge is distinguished by its single, dense, cylindrical flower spike that truly resembles a fox's tail."
+    },
+    {
+      "slug": "carex-cephaloidea",
+      "commonName": "thin-leaved sedge",
+      "scientificName": "Carex cephaloidea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5680514/medium.jpeg",
+      "distinction": "Thin-leaved sedge stands out from its Carex relatives by having exceptionally narrow leaves - much thinner than common species like tussock sedge or Pennsylvania sedge."
+    },
+    {
+      "slug": "carex-chordorrhiza",
+      "commonName": "creeping sedge",
+      "scientificName": "Carex chordorrhiza",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1559954/medium.jpg",
+      "distinction": "Among its many sedge relatives, creeping sedge is unique in its strongly rhizomatous growth pattern - most other bog sedges like few-seeded sedge or star sedge form distinct tufts or small clumps."
+    },
+    {
+      "slug": "carex-gracilescens",
+      "commonName": "Slender Loose-flowered Sedge",
+      "scientificName": "Carex gracilescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/860730/medium.jpg",
+      "distinction": "Among its many sedge relatives, slender loose-flowered sedge stands out for its combination of very narrow leaves and widely-spaced flower clusters."
+    },
+    {
+      "slug": "carex-gravida",
+      "commonName": "Heavy-fruited Sedge",
+      "scientificName": "Carex gravida",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/498957719/medium.jpeg",
+      "distinction": "Among New England's many Carex species, heavy-fruited sedge stands out for its exceptionally dense, weighty seed clusters - most other sedges have lighter, more delicate-feeling seed heads."
+    },
+    {
+      "slug": "carex-laevivaginata",
+      "commonName": "smooth-sheathed sedge",
+      "scientificName": "Carex laevivaginata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129257805/medium.jpeg",
+      "distinction": "Among New England sedges, smooth-sheathed sedge is distinguished by its completely smooth leaf sheaths - most other sedges have rough, hairy, or textured sheaths you can feel with your fingers."
+    },
+    {
+      "slug": "carex-molesta",
+      "commonName": "Troublesome Sedge",
+      "scientificName": "Carex molesta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2131696/medium.jpg",
+      "distinction": "Troublesome sedge differs from most other Carex species by its preference for disturbed, drier habitats rather than consistently wet areas."
+    },
+    {
+      "slug": "carex-retroflexa",
+      "commonName": "Reflexed Sedge",
+      "scientificName": "Carex retroflexa",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/66547419/medium.jpg",
+      "distinction": "Reflexed sedge stands out among its Carex relatives because of its uniquely backward-curving flower clusters - most other sedges have upright, drooping, or slightly nodding spikes."
+    },
+    {
+      "slug": "carex-richardsonii",
+      "commonName": "Richardson's Sedge",
+      "scientificName": "Carex richardsonii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/18289023/medium.jpg",
+      "distinction": "Unlike the more common tussock sedge which forms massive, hard-to-walk-through clumps, Richardson's sedge creates smaller, more manageable tufts."
+    },
+    {
+      "slug": "carex-saxatilis",
+      "commonName": "russet sedge",
+      "scientificName": "Carex saxatilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/83623851/medium.jpeg",
+      "distinction": "Among its many sedge relatives, russet sedge is distinguished by its preference for extremely harsh, rocky sites where most other sedges can't survive."
+    },
+    {
+      "slug": "carex-straminea",
+      "commonName": "Eastern Straw Sedge",
+      "scientificName": "Carex straminea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288744175/medium.jpg",
+      "distinction": "Among its many sedge relatives in New England, eastern straw sedge is distinguished by its compact growth habit and specific straw-colored flower clusters that appear in loose, irregular arrangements."
+    },
+    {
+      "slug": "carex-vaginata",
+      "commonName": "sheathed sedge",
+      "scientificName": "Carex vaginata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/343311130/medium.jpeg",
+      "distinction": "Among the many Carex species in New England, sheathed sedge is unique for its prominent bladeless sheaths that wrap the stem base."
+    },
+    {
+      "slug": "carex-willdenowii",
+      "commonName": "Willdenow's Sedge",
+      "scientificName": "Carex willdenowii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/251891093/medium.jpeg",
+      "distinction": "Among its many sedge relatives, Willdenow's sedge stands out for its dry habitat preference - most other New England sedges prefer wet soils, bogs, or stream edges."
+    },
+    {
+      "slug": "carex-frankii",
+      "commonName": "Frank's sedge",
+      "scientificName": "Carex frankii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8430747/medium.jpg",
+      "distinction": "Among New England's many sedges, Frank's sedge is distinguished by its preference for shady, wet areas and its substantial clumping growth habit."
+    },
+    {
+      "slug": "carex-alata",
+      "commonName": "Broadwing Sedge",
+      "scientificName": "Carex alata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/253562296/medium.jpeg",
+      "distinction": "Unlike hop sedge which has inflated, balloon-like seed cases, or bladder sedge with its swollen perigynia, broadwing sedge's seeds are flattened with thin wings extending from the sides."
+    },
+    {
+      "slug": "carex-disticha",
+      "commonName": "brown sedge",
+      "scientificName": "Carex disticha",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1559930/medium.jpg",
+      "distinction": "Among the many Carex species in New England, brown sedge stands out for its two-ranked leaf arrangement and compact, brownish flower heads."
+    },
+    {
+      "slug": "carex-emoryi",
+      "commonName": "Emory's sedge",
+      "scientificName": "Carex emoryi",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/15491077/medium.jpg",
+      "distinction": "Among New England's many sedge species, Emory's sedge is unique in its strong preference for flowing water and gravel bars - most other sedges prefer marshes, bogs, or still water."
+    },
+    {
+      "slug": "carex-festucacea",
+      "commonName": "fescue sedge",
+      "scientificName": "Carex festucacea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/200955639/medium.jpg",
+      "distinction": "Among the many Carex species in New England, fescue sedge stands out for its particularly soft, wispy appearance and distinctive zigzag interrupted spike."
+    },
+    {
+      "slug": "carex-muskingumensis",
+      "commonName": "palm sedge",
+      "scientificName": "Carex muskingumensis",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/137159408/medium.jpeg",
+      "distinction": "Among the many Carex species in New England, palm sedge is unmistakable due to its whorled leaf arrangement - other sedges have leaves that emerge directly from the base or are arranged alternately along the stem."
+    },
+    {
+      "slug": "carex-reznicekii",
+      "commonName": "Reznicek's Sedge",
+      "scientificName": "Carex reznicekii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17948258/medium.jpg",
+      "distinction": "Distinguishing Reznicek's sedge from its many Carex relatives requires expert-level examination of the flower and fruit structures under magnification."
+    },
+    {
+      "slug": "carex-schweinitzii",
+      "commonName": "Schweinitz's Sedge",
+      "scientificName": "Carex schweinitzii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2053194/medium.jpg",
+      "distinction": "Among the huge diversity of Carex species in New England, Schweinitz's sedge would need to be distinguished from more common wetland sedges like tussock sedge or lake sedge by examining the specific arrangement of its flower spikes and the detailed structure of its fruits."
+    },
+    {
+      "slug": "carex-shortiana",
+      "commonName": "Short's sedge",
+      "scientificName": "Carex shortiana",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3977278/medium.JPG",
+      "distinction": "Among New England's many Carex species, Short's sedge is distinguished by its preference for calcareous wetlands and its specific flower arrangement."
+    },
+    {
+      "slug": "carex-styloflexa",
+      "commonName": "Bent Sedge",
+      "scientificName": "Carex styloflexa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/279904801/medium.jpg",
+      "distinction": "Bent sedge stands out from its many sedge relatives by its distinctly drooping, loosely arranged flower clusters on flexible stalks."
+    },
+    {
+      "slug": "carex-tincta",
+      "commonName": "tinged sedge",
+      "scientificName": "Carex tincta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8744943/medium.jpeg",
+      "distinction": "Among New England's many sedges, tinged sedge is distinguished by its specific combination of small size, wetland habitat, and the subtle color variations in its flower spikes."
+    },
+    {
+      "slug": "carex-vacillans",
+      "commonName": "swinging sedge",
+      "scientificName": "Carex vacillans",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/143825915/medium.jpeg",
+      "distinction": "Among New England's many sedges, swinging sedge is distinguished by its small clumping habit and extreme rarity."
+    },
+    {
+      "slug": "carex-echinodes",
+      "commonName": "Prickly Quill Sedge",
+      "scientificName": "Carex echinodes",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/168793556/medium.jpeg",
+      "distinction": "Among New England's many Carex species, prickly quill sedge is distinguished by having the most aggressively spiky seed heads - much more prickly than star sedge or bristly sedge."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carex_platyphylla",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/129491"
+}

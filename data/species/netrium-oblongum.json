@@ -1,0 +1,109 @@
+{
+  "slug": "netrium-oblongum",
+  "taxonId": 1001039,
+  "group": "plants",
+  "commonName": "Netrium oblongum",
+  "scientificName": "Netrium oblongum",
+  "family": "Mesotaeniaceae",
+  "familyCommonName": "Mesotaeniaceae",
+  "genus": "Netrium",
+  "genusCommonName": "Netrium",
+  "order": "Zygnematales",
+  "orderCommonName": "Desmid",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "charophyte algae",
+      "rank": "phylum",
+      "slug": "explore/charophyte-algae"
+    },
+    {
+      "label": "Conjugating green algae",
+      "rank": "class",
+      "slug": "explore/conjugating-green-algae"
+    },
+    {
+      "label": "Desmid",
+      "rank": "order",
+      "slug": "explore/desmid"
+    },
+    {
+      "label": "Mesotaeniaceae",
+      "rank": "family",
+      "slug": "explore/mesotaeniaceae"
+    },
+    {
+      "label": "Netrium",
+      "rank": "genus",
+      "slug": "explore/netrium"
+    },
+    {
+      "label": "Netrium oblongum",
+      "rank": "species",
+      "slug": "species/netrium-oblongum"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 61262740,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61262740/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61262740/large.jpg",
+      "attribution": "(c) Karolina Fucikova, some rights reserved (CC BY-NC), uploaded by Karolina Fucikova",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/100103900"
+    }
+  ],
+  "nameStory": "**Uncertain claim**: Netrium oblongum doesn't have a widely recognized common name, as it's a microscopic single-celled algae that most people never encounter. The scientific name 'Netrium' likely comes from the Greek word for 'spindle,' referring to its elongated shape, while 'oblongum' means oblong or rectangular in Latin. If we had to give it a friendly name, 'spindle algae' would capture its distinctive form.",
+  "description": "**Uncertain claim**: Netrium oblongum is a tiny single-celled green algae that you'll need a microscope to see properly. This isn't a plant in the traditional sense - it's more like a microscopic green gem floating in freshwater. Each cell is elongated and spindle-shaped, typically measuring less than 0.1 millimeters long. You'd find it mixed in with pond scum or floating in still waters, contributing to that green tinge you see in quiet ponds.",
+  "idTips": [
+    {
+      "label": "Cell Shape",
+      "description": "**Uncertain claim**: Under a microscope, each cell looks like a tiny green spindle or elongated oval, much longer than it is wide",
+      "isPrimary": true
+    },
+    {
+      "label": "Color",
+      "description": "**Uncertain claim**: Bright green color from chlorophyll, similar to the green you'd see in fresh grass",
+      "isPrimary": false
+    },
+    {
+      "label": "Size",
+      "description": "**Uncertain claim**: Extremely small - invisible to the naked eye and requiring magnification of at least 100x to see clearly",
+      "isPrimary": false
+    },
+    {
+      "label": "Habitat Context",
+      "description": "**Uncertain claim**: Found floating freely in still freshwater, often mixed with other green algae and aquatic microorganisms",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "**Uncertain claim**: Netrium oblongum lives in quiet freshwater environments like ponds, slow-moving streams, and wetlands throughout New England. You'll find it in acidic to neutral waters, often in areas with soft sediments and minimal water movement. It's typically part of the plankton community floating near the surface where sunlight can reach it for photosynthesis.",
+  "seasonality": {
+    "spring": "**Uncertain claim**: Populations begin growing as waters warm and daylight increases, though you'd need a microscope to observe any seasonal changes.",
+    "summer": "**Uncertain claim**: Peak growing season when warm temperatures and long days create ideal conditions for this microscopic algae to thrive.",
+    "fall": "**Uncertain claim**: Still present but growth slows as temperatures drop and daylight decreases through autumn.",
+    "winter": "**Uncertain claim**: Survives in dormant or slow-growth state under ice, waiting for spring's return."
+  },
+  "funFact": "**Uncertain claim**: Despite being just a single cell, Netrium oblongum can perform the same basic life functions as complex plants - it photosynthesizes its own food, reproduces, and even responds to environmental changes, making it like a tiny green factory floating in your local pond!",
+  "confusionNotes": "**Uncertain claim**: Under a microscope, it could be confused with other single-celled green algae, but its distinctive spindle shape and solitary lifestyle help distinguish it from round algae like Chlorella or colonial forms that cluster together.",
+  "contextualKnowledge": "**Uncertain claim**: This is actually an algae, not a true plant, belonging to a group called desmids. While we often think of algae as pond scum, these microscopic organisms are crucial for aquatic ecosystems, producing oxygen and forming the base of many food webs.",
+  "compareHints": "**Uncertain claim**: Compared to its relative Netrium digitus, N. oblongum has a more uniformly oblong shape rather than the finger-like projections that give N. digitus its name. Both species are solitary single cells, but the overall cell proportions and end shapes differ when viewed under magnification.",
+  "relatedSpecies": [
+    {
+      "slug": "netrium-digitus",
+      "commonName": "Netrium digitus",
+      "scientificName": "Netrium digitus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29879190/medium.jpg",
+      "distinction": "Netrium digitus differs from its close relative N."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1001039"
+}

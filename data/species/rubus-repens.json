@@ -1,0 +1,334 @@
+{
+  "slug": "rubus-repens",
+  "taxonId": 924430,
+  "group": "plants",
+  "commonName": "Robin Runaway",
+  "scientificName": "Rubus repens",
+  "family": "Rosaceae",
+  "familyCommonName": "rose family",
+  "genus": "Rubus",
+  "genusCommonName": "brambles",
+  "order": "Rosales",
+  "orderCommonName": "Roses, Elms, Figs, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Vascular Plants",
+      "rank": "phylum",
+      "slug": "explore/vascular-plants"
+    },
+    {
+      "label": "Dicots",
+      "rank": "class",
+      "slug": "explore/dicots"
+    },
+    {
+      "label": "Roses, Elms, Figs, and Allies",
+      "rank": "order",
+      "slug": "explore/roses-elms-figs-and-allies"
+    },
+    {
+      "label": "rose family",
+      "rank": "family",
+      "slug": "explore/rose-family"
+    },
+    {
+      "label": "brambles",
+      "rank": "genus",
+      "slug": "explore/brambles"
+    },
+    {
+      "label": "Robin Runaway",
+      "rank": "species",
+      "slug": "species/rubus-repens"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 151531591,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/151531591/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/151531591/large.jpeg",
+      "attribution": "(c) Patrick Sweeney, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/91593759"
+    },
+    {
+      "id": 51354859,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51354859/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51354859/large.jpeg",
+      "attribution": "(c) Ming_Ni, some rights reserved (CC BY-NC), uploaded by Ming_Ni",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/92443000"
+    }
+  ],
+  "nameStory": "Robin runaway gets its charming name from its habit of \"running away\" across the forest floor through creeping stems, much like how a robin hops quickly from spot to spot. The plant spreads by sending out runners that root at intervals, creating new plants that seem to scamper away from the parent. It's also called \"false violet\" because its heart-shaped leaves can fool people into thinking they've found violets at first glance.",
+  "description": "Robin runaway is a low-growing perennial that hugs the forest floor like a living carpet. This delicate member of the rose family spreads by creeping stems, forming small colonies of heart-shaped leaves that rarely rise more than a few inches tall. Despite being related to raspberries and blackberries, it looks nothing like its thorny cousins, instead resembling a tiny violet plant with small white flowers and fuzzy, round fruits.",
+  "idTips": [
+    {
+      "label": "Leaves",
+      "description": "Heart-shaped leaves with rounded teeth along the edges, soft to the touch and resembling small violet leaves but growing on creeping stems rather than in clumps",
+      "isPrimary": true
+    },
+    {
+      "label": "Growth Habit",
+      "description": "Creeps along the ground on trailing stems that root at intervals, forming loose mats only 2-4 inches tall in shady spots",
+      "isPrimary": false
+    },
+    {
+      "label": "Flowers",
+      "description": "Small white flowers with 5 petals that appear singly on short stalks, delicate and papery to the touch, about the size of your pinky nail",
+      "isPrimary": false
+    },
+    {
+      "label": "Fruit",
+      "description": "Tiny cluster of fuzzy, dry red berries that feel almost velvety and don't look like typical juicy bramble fruits",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Look for robin runaway in cool, moist, acidic soils under the shade of northern hardwood and coniferous forests. It thrives in the same boggy, peaty conditions where you'd find wild ginger and bunchberry, often carpeting the forest floor in damp hollows. This plant prefers the deep shade and consistent moisture of old-growth or mature second-growth forests.",
+  "seasonality": {
+    "spring": "Heart-shaped leaves emerge fresh and bright green, followed by delicate white flowers in late spring that seem to glow in the dim forest light.",
+    "summer": "Flowers give way to small, fuzzy red berries while the creeping stems continue to spread and root, forming new patches.",
+    "fall": "Leaves may turn slightly reddish or bronze before dying back, and the dried fruits persist on the stems.",
+    "winter": "Dies back to ground level, leaving only the underground runners and root systems to survive until spring."
+  },
+  "funFact": "Robin runaway is so unusual that botanists can't agree whether it belongs with the brambles or deserves its own separate genus - it's like the botanical equivalent of a platypus, sharing DNA with raspberries but looking and acting completely different!",
+  "confusionNotes": "Most commonly mistaken for wild violets due to the heart-shaped leaves, but robin runaway has creeping stems that root along their length, while violets grow in clumps from a central crown. Memory trick: Robin runaway \"runs away\" on trailing stems, violets stay put in tidy bunches.",
+  "contextualKnowledge": "Some botanists place this species in its own genus called Dalibarda, named after French botanist Thomas-François Dalibard. You might see it listed as either Rubus repens or Dalibarda repens in field guides, reflecting this ongoing taxonomic debate about where exactly this odd little plant fits in the family tree.",
+  "compareHints": "Unlike its bramble relatives with their thorny canes, compound leaves, and juicy berries, robin runaway has no thorns, simple heart-shaped leaves, and dry fuzzy fruits. While other Rubus species grow upright or arch in canes, robin runaway stays flat to the ground and spreads by runners. It's the only member of the bramble genus that truly looks like it doesn't belong in the family.",
+  "relatedSpecies": [
+    {
+      "slug": "rubus-odoratus",
+      "commonName": "purple-flowered raspberry",
+      "scientificName": "Rubus odoratus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17302/medium.jpg",
+      "distinction": "Purple-flowered raspberry stands out from all other New England brambles because it's completely thornless and has those distinctive large magenta flowers."
+    },
+    {
+      "slug": "rubus-occidentalis",
+      "commonName": "black raspberry",
+      "scientificName": "Rubus occidentalis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2156440/medium.jpg",
+      "distinction": "Among New England's brambles, black raspberry is unique for its waxy blue-coated canes - red raspberries have brown or reddish canes without the coating, while blackberries have green to brown canes that are often more angular."
+    },
+    {
+      "slug": "rubus-phoenicolasius",
+      "commonName": "wineberry",
+      "scientificName": "Rubus phoenicolasius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/179403369/medium.jpg",
+      "distinction": "Among its bramble relatives, wineberry stands out with its distinctively fuzzy, reddish stems that look almost velvety compared to the smoother canes of black raspberry or the more prominently thorny stems of blackberries."
+    },
+    {
+      "slug": "rubus-dalibarda",
+      "commonName": "dewdrop",
+      "scientificName": "Rubus dalibarda",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310266667/medium.jpeg",
+      "distinction": "Unlike every other bramble in New England, dewdrop has no thorns and produces dry fruits instead of juicy berries."
+    },
+    {
+      "slug": "rubus-idaeus",
+      "commonName": "red raspberry",
+      "scientificName": "Rubus idaeus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/358785151/medium.jpg",
+      "distinction": "Among New England brambles, red raspberry is unique for its red, hollow-cored fruits."
+    },
+    {
+      "slug": "rubus-hispidus",
+      "commonName": "swamp dewberry",
+      "scientificName": "Rubus hispidus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/26609561/medium.jpeg",
+      "distinction": "Swamp dewberry stands out from other New England brambles by its preference for wet habitats and ground-hugging growth habit."
+    },
+    {
+      "slug": "rubus-pubescens",
+      "commonName": "dwarf raspberry",
+      "scientificName": "Rubus pubescens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3674707/medium.JPG",
+      "distinction": "Unlike all other Rubus species in New England, dwarf raspberry stays completely low to the ground and lacks any thorns or prickles."
+    },
+    {
+      "slug": "rubus-allegheniensis",
+      "commonName": "Allegheny blackberry",
+      "scientificName": "Rubus allegheniensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/302307079/medium.jpg",
+      "distinction": "Allegheny blackberry is the most robust and widespread of New England's blackberries, with larger thorns and taller growth than most dewberries, which tend to trail along the ground."
+    },
+    {
+      "slug": "rubus-flagellaris",
+      "commonName": "Common Dewberry",
+      "scientificName": "Rubus flagellaris",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28129/medium.jpg",
+      "distinction": "Among New England's many Rubus species, common dewberry is distinguished by its strongly trailing habit—while swamp dewberry also grows low, it's less robust and prefers wetter areas."
+    },
+    {
+      "slug": "rubus-chamaemorus",
+      "commonName": "cloudberry",
+      "scientificName": "Rubus chamaemorus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67069629/medium.jpg",
+      "distinction": "Cloudberry stands out dramatically from all other New England brambles by its tiny, ground-hugging stature and lack of thorny canes - while red raspberries, blackberries, and dewberries all form arching or trailing woody stems."
+    },
+    {
+      "slug": "rubus-laciniatus",
+      "commonName": "Cutleaf Blackberry",
+      "scientificName": "Rubus laciniatus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/401784546/medium.jpg",
+      "distinction": "Among all the brambles in New England, cutleaf blackberry stands out dramatically with its deeply divided, lacy leaves - no other Rubus species has anything close to this leaf shape."
+    },
+    {
+      "slug": "rubus-rosa",
+      "commonName": "rose blackberry",
+      "scientificName": "Rubus rosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/317756837/medium.jpeg",
+      "distinction": "Rose blackberry differs from red raspberry by having darker fruit that doesn't separate from the white core when picked."
+    },
+    {
+      "slug": "rubus-canadensis",
+      "commonName": "Smooth Blackberry",
+      "scientificName": "Rubus canadensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/391121937/medium.jpg",
+      "distinction": "Among New England's many Rubus species, smooth blackberry stands out for its nearly thornless stems - most relatives like Allegheny blackberry and black raspberry are heavily armed with thorns or prickles."
+    },
+    {
+      "slug": "rubus-cuneifolius",
+      "commonName": "sand blackberry",
+      "scientificName": "Rubus cuneifolius",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/144544887/medium.jpg",
+      "distinction": "Sand blackberry differs from its common relatives by its consistently low growth habit and distinctive wedge-shaped leaflets."
+    },
+    {
+      "slug": "rubus-armeniacus",
+      "commonName": "Armenian Blackberry",
+      "scientificName": "Rubus armeniacus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/174566736/medium.jpeg",
+      "distinction": "Among New England's many Rubus species, Armenian Blackberry stands out for its exceptional vigor and large fruit size."
+    },
+    {
+      "slug": "rubus-alumnus",
+      "commonName": "Old Field Blackberry",
+      "scientificName": "Rubus alumnus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/285424234/medium.jpeg",
+      "distinction": "Among the many New England blackberries, Old Field Blackberry is distinguished by its preference for disturbed, sunny habitats rather than forest settings."
+    },
+    {
+      "slug": "rubus-setosus",
+      "commonName": "Bristly Blackberry",
+      "scientificName": "Rubus setosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21153598/medium.jpg",
+      "distinction": "Among New England's many brambles, bristly blackberry stands out for its uniformly dense, fine bristles rather than scattered large thorns like Allegheny blackberry, or the smooth stems of smooth blackberry."
+    },
+    {
+      "slug": "rubus-caesius",
+      "commonName": "European dewberry",
+      "scientificName": "Rubus caesius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/20330/medium.jpg",
+      "distinction": "Unlike our native dewberries which have green to reddish canes, European dewberry's blue-white waxy coating is unmistakable."
+    },
+    {
+      "slug": "rubus-vermontanus",
+      "commonName": "Green Mountain Blackberry",
+      "scientificName": "Rubus vermontanus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1731481/medium.jpg",
+      "distinction": "Within the bramble family, Green Mountain Blackberry differs from red raspberries by its darker fruit and more aggressive bristles, and from dewberries by its upright rather than trailing growth habit."
+    },
+    {
+      "slug": "rubus-pensilvanicus",
+      "commonName": "Pennsylvania Blackberry",
+      "scientificName": "Rubus pensilvanicus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70314779/medium.jpg",
+      "distinction": "Pennsylvania Blackberry differs from black raspberries by having solid white pith in the canes (raspberries have hollow stems) and berries that don't separate from their white core when picked."
+    },
+    {
+      "slug": "rubus-parvifolius",
+      "commonName": "small-leaf bramble",
+      "scientificName": "Rubus parvifolius",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/171169735/medium.jpg",
+      "distinction": "Small-leaf bramble stands out from native New England brambles primarily by its much smaller leaflets and colored flowers."
+    },
+    {
+      "slug": "rubus-multispinus",
+      "commonName": "Rubus multispinus",
+      "scientificName": "Rubus multispinus",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/295189671/medium.jpeg",
+      "distinction": "Unlike the more common Allegheny blackberry or red raspberry found throughout New England, Rubus multispinus has significantly more spines per stem segment."
+    },
+    {
+      "slug": "rubus-pugnax",
+      "commonName": "pugnacious blackberry",
+      "scientificName": "Rubus pugnax",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/562842570/medium.jpg",
+      "distinction": "Pugnacious blackberry differs from red and black raspberries by having solid stems (raspberries are hollow) and berries that don't separate from their white core when picked."
+    },
+    {
+      "slug": "rubus-flavinanus",
+      "commonName": "Rubus flavinanus",
+      "scientificName": "Rubus flavinanus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/81096096/medium.jpeg",
+      "distinction": "Rubus flavinanus is believed to be intermediate between Allegheny blackberry (which is common and forms large colonies) and Bristly blackberry (which has notably bristly stems)."
+    },
+    {
+      "slug": "rubus-fraternalis",
+      "commonName": "northeastern dewberry",
+      "scientificName": "Rubus fraternalis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/566582627/medium.jpg",
+      "distinction": "Unlike the upright Allegheny blackberry or arching black raspberry, northeastern dewberry stays close to the ground with its trailing habit."
+    },
+    {
+      "slug": "rubus-frondosus",
+      "commonName": "Yankee Blackberry",
+      "scientificName": "Rubus frondosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/401709963/medium.jpeg",
+      "distinction": "Among New England's many blackberries, Yankee Blackberry is part of the 'true blackberry' group with upright to arching canes, as opposed to dewberries which trail along the ground."
+    },
+    {
+      "slug": "rubus-heterophyllus",
+      "commonName": "Ecotone Blackberry",
+      "scientificName": "Rubus heterophyllus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/412024000/medium.jpg",
+      "distinction": "Unlike upright blackberries like Allegheny Blackberry that form tall arching canes, Ecotone Blackberry stays low and trailing like other dewberries."
+    },
+    {
+      "slug": "rubus-invisus",
+      "commonName": "upland dewberry",
+      "scientificName": "Rubus invisus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/393781394/medium.jpg",
+      "distinction": "Among New England's many Rubus species, upland dewberry is distinguished by its preference for dry, upland sites combined with its trailing growth habit."
+    },
+    {
+      "slug": "rubus-semisetosus",
+      "commonName": "New England blackberry",
+      "scientificName": "Rubus semisetosus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/528948089/medium.jpg",
+      "distinction": "Among New England's many brambles, this species falls in the middle range for thorniness - more prickly than smooth blackberry but less aggressive than bristly blackberry."
+    },
+    {
+      "slug": "rubus-jaysmithii",
+      "commonName": "Smith's blackberry",
+      "scientificName": "Rubus jaysmithii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/134364331/medium.jpeg",
+      "distinction": "Smith's blackberry differs from the more common Allegheny blackberry in subtle details of leaf shape and flower structure, though these differences require close examination."
+    },
+    {
+      "slug": "rubus-permixtus",
+      "commonName": "Thicket dewberry",
+      "scientificName": "Rubus permixtus",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/549956178/medium.jpg",
+      "distinction": "Among New England's many Rubus species, thicket dewberry is distinguished by being the most committed to staying flat against the ground."
+    },
+    {
+      "slug": "rubus-bicknellii",
+      "commonName": "Bicknell's Bristleberry",
+      "scientificName": "Rubus bicknellii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/91786968/medium.jpeg",
+      "distinction": "Unlike the common Allegheny Blackberry with its sturdy thorns or the smooth-stemmed Red Raspberry, Bicknell's Bristleberry has that distinctive bristly texture without true thorns."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rubus_repens",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/924430"
+}

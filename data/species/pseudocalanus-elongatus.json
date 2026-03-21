@@ -1,0 +1,114 @@
+{
+  "slug": "pseudocalanus-elongatus",
+  "taxonId": 329013,
+  "group": "crustaceans",
+  "commonName": "Pseudocalanus elongatus",
+  "scientificName": "Pseudocalanus elongatus",
+  "family": "Clausocalanidae",
+  "familyCommonName": "Clausocalanidae",
+  "genus": "Pseudocalanus",
+  "genusCommonName": "Pseudocalanus",
+  "order": "Calanoida",
+  "orderCommonName": "Calanoid Copepods",
+  "breadcrumb": [
+    {
+      "label": "Crustaceans",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Barnacles and Copepods",
+      "rank": "class",
+      "slug": "explore/barnacles-and-copepods"
+    },
+    {
+      "label": "Calanoid Copepods",
+      "rank": "order",
+      "slug": "explore/calanoid-copepods"
+    },
+    {
+      "label": "Clausocalanidae",
+      "rank": "family",
+      "slug": "explore/clausocalanidae"
+    },
+    {
+      "label": "Pseudocalanus",
+      "rank": "genus",
+      "slug": "explore/pseudocalanus"
+    },
+    {
+      "label": "Pseudocalanus elongatus",
+      "rank": "species",
+      "slug": "species/pseudocalanus-elongatus"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 2635684,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2635684/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2635684/large.jpg",
+      "attribution": "(c) WoRMS Editorial Board, some rights reserved (CC BY-NC-SA)",
+      "licenseCode": "cc-by-nc-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/32901301"
+    },
+    {
+      "id": 7265559,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7265559/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7265559/large.jpg",
+      "attribution": "(c) Amy Lorenz, some rights reserved (CC BY-NC), uploaded by Amy Lorenz",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/32901300"
+    }
+  ],
+  "nameStory": "The name \"Pseudocalanus\" literally means \"false beautiful one\" in Greek, suggesting this tiny copepod might look similar to another group called Calanus but isn't quite the same. The species name \"elongatus\" refers to its stretched-out, elongated body shape. While it doesn't have a widely-used common name, marine biologists sometimes call it the \"elongated false copepod.\"",
+  "description": "Pseudocalanus elongatus is a tiny marine crustacean called a copepod that drifts in the ocean as part of the zooplankton community. These microscopic animals are typically less than 2 millimeters long - about the size of a grain of rice or smaller. They have a teardrop-shaped body with long antennae and swimming legs that help them paddle through the water. You'd need a microscope or very strong magnifying glass to see their detailed features, as they're invisible to the naked eye.",
+  "idTips": [
+    {
+      "label": "Body Shape",
+      "description": "Distinctly elongated, torpedo-like body that's noticeably longer and more stretched than other similar copepods",
+      "isPrimary": true
+    },
+    {
+      "label": "Size",
+      "description": "Extremely small, typically 1-2 millimeters long - about the width of a paperclip wire",
+      "isPrimary": false
+    },
+    {
+      "label": "Antennae",
+      "description": "Long, prominent first antennae that extend well beyond the body when viewed under magnification",
+      "isPrimary": false
+    },
+    {
+      "label": "Swimming Motion",
+      "description": "Jerky, stop-and-go swimming pattern typical of copepods, like tiny underwater jumping beans",
+      "isPrimary": false
+    },
+    {
+      "label": "Transparency",
+      "description": "Nearly transparent body that may appear glassy or crystal-clear in water samples",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Found in the cold waters of the Atlantic Ocean off New England's coast, particularly in deeper offshore waters. These copepods live in the open ocean water column, drifting with currents and moving up and down in the water throughout the day. You'd encounter them in plankton samples collected from boats or research vessels rather than from shore.",
+  "seasonality": {
+    "spring": "Populations begin to increase as water temperatures rise and phytoplankton blooms provide abundant food sources.",
+    "summer": "Peak abundance occurs during warm months when plankton communities are most active and diverse.",
+    "fall": "Numbers may decline as water temperatures drop and food becomes less abundant in the water column.",
+    "winter": "Populations persist but at lower densities in the cold Atlantic waters off New England."
+  },
+  "funFact": "Despite being smaller than most letters on this page, a single Pseudocalanus elongatus can filter and eat hundreds of even tinier phytoplankton cells every day, making these invisible ocean drifters some of the most important grazers in marine ecosystems.",
+  "confusionNotes": "Most easily confused with other small marine copepods in plankton samples, but the distinctly elongated body shape sets it apart from the more oval or rounded forms of common coastal species like Acartia or Centropages.",
+  "contextualKnowledge": "The term \"copepod\" comes from Greek meaning \"oar-foot,\" referring to their paddle-like swimming legs. While invisible to most ocean visitors, these tiny crustaceans are actually among the most abundant animals on Earth and form a crucial link in marine food webs.",
+  "compareHints": "Since this is the only Pseudocalanus species documented in New England waters, compare it with other small marine copepods in the family Clausocalanidae by looking for the characteristically elongated body shape. Most other local copepods have more compact, oval bodies, while P. elongatus appears stretched and torpedo-like under magnification.",
+  "relatedSpecies": [],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Pseudocalanus_elongatus",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/329013"
+}

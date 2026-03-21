@@ -1,0 +1,1254 @@
+{
+  "id": 47549,
+  "name": "Echinodermata",
+  "commonName": "Echinoderms",
+  "rank": "phylum",
+  "speciesCount": 23,
+  "children": [
+    {
+      "id": 481959,
+      "name": "Asterozoa",
+      "commonName": "Sea Stars and Brittle Stars",
+      "rank": "subphylum",
+      "speciesCount": 12,
+      "children": [
+        {
+          "id": 47668,
+          "name": "Asteroidea",
+          "commonName": "Sea Stars",
+          "rank": "class",
+          "speciesCount": 8,
+          "children": [
+            {
+              "id": 47672,
+              "name": "Forcipulatida",
+              "commonName": "Forcipulatidan Sea Stars",
+              "rank": "order",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 47671,
+                  "name": "Asteriidae",
+                  "commonName": "Asteriid Sea Stars",
+                  "rank": "family",
+                  "speciesCount": 3,
+                  "children": [
+                    {
+                      "id": 48903,
+                      "name": "Asterias",
+                      "commonName": "Asterias",
+                      "rank": "genus",
+                      "speciesCount": 2,
+                      "children": [
+                        {
+                          "id": 120138,
+                          "name": "Asterias rubens",
+                          "commonName": "Common Sea Star",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 120138,
+                              "name": "Asterias rubens",
+                              "commonName": "Common Sea Star",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "common-sea-star",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/486710101/medium.jpg"
+                            }
+                          ],
+                          "slug": "common-sea-star",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/486710101/medium.jpg"
+                        },
+                        {
+                          "id": 48902,
+                          "name": "Asterias forbesi",
+                          "commonName": "Forbes's Sea Star",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 48902,
+                              "name": "Asterias forbesi",
+                              "commonName": "Forbes's Sea Star",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "forbes-s-sea-star",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/58025/medium.jpg"
+                            }
+                          ],
+                          "slug": "forbes-s-sea-star",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/58025/medium.jpg"
+                        }
+                      ],
+                      "slug": "asterias",
+                      "description": "Asterias is a genus of large, robust sea stars commonly found along rocky shores and tide pools in New England waters. These five-armed echinoderms are among the most familiar starfish species, known for their ability to pry open shellfish like mussels and clams using their powerful tube feet.",
+                      "distinguishingFeatures": "Asterias sea stars are distinguished by their thick, sturdy arms and relatively large size compared to other local starfish species. They typically have prominent spines along their arms and can be identified by their mottled coloration patterns.",
+                      "funFact": "Asterias sea stars can regenerate entire lost arms, and remarkably, a single severed arm can sometimes grow into a completely new individual starfish."
+                    },
+                    {
+                      "id": 117697,
+                      "name": "Leptasterias",
+                      "commonName": "Leptasterias",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 255869,
+                          "name": "Leptasterias littoralis",
+                          "commonName": "Green Slender Sea Star",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 255869,
+                              "name": "Leptasterias littoralis",
+                              "commonName": "Green Slender Sea Star",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "green-slender-sea-star",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/143280630/medium.jpeg"
+                            }
+                          ],
+                          "slug": "green-slender-sea-star",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/143280630/medium.jpeg"
+                        }
+                      ],
+                      "slug": "leptasterias",
+                      "description": "Leptasterias is a genus of small, slender sea stars found in cold northern waters. These sea stars are characterized by their delicate build and relatively small size compared to many other starfish species. They are typically found in shallow coastal waters where they feed on small mollusks and other marine organisms.",
+                      "distinguishingFeatures": "Members of Leptasterias are distinguished by their slender, delicate arms and smaller overall size compared to most other sea star genera. They typically have a more fragile appearance with thinner arms relative to their central disc.",
+                      "funFact": "Unlike many sea stars that release their eggs and sperm into the water, some Leptasterias species are brooding parents that protect their developing young under their bodies until they're ready to survive on their own."
+                    }
+                  ],
+                  "slug": "asteriid-sea-stars",
+                  "description": "Asteriid sea stars are a family of familiar five-armed sea stars that are among the most common starfish found along New England's rocky shores. These robust echinoderms are active predators that use their tube feet to pry open shellfish like mussels and clams, then push their stomach out through their mouth to digest their prey externally.",
+                  "distinguishingFeatures": "Asteriid sea stars typically have thick, sturdy arms with prominent spines along their edges and surfaces, giving them a rougher texture than many other starfish families. They also possess powerful tube feet that allow them to maintain a strong grip on rocks even in heavy surf.",
+                  "funFact": "Some asteriid sea stars can regenerate entire arms if they're damaged or lost to predators, and remarkably, a severed arm can sometimes grow into a completely new starfish if it includes part of the central disc."
+                }
+              ],
+              "slug": "forcipulatidan-sea-stars",
+              "description": "Forcipulatidan sea stars are a group of sea stars characterized by their unique feeding appendages called pedicellariae, which look like tiny forceps or pincers scattered across their body surface. These small, jaw-like structures help keep the sea star's skin clean by removing debris and small organisms that might try to settle on them. This order includes some of the most familiar sea stars found along New England's rocky shores.",
+              "distinguishingFeatures": "Unlike other sea star orders, forcipulatidans have crossed pedicellariae that resemble miniature pliers, which can actively grab and manipulate small objects. They also typically have a flattened body form and well-developed tube feet for gripping rocky surfaces.",
+              "funFact": "The tiny pedicellariae on these sea stars are so effective at keeping their surfaces clean that they can actually grab and remove small crabs or other creatures that try to use the sea star as a hiding place!"
+            },
+            {
+              "id": 49501,
+              "name": "Valvatida",
+              "commonName": "Valvatidan Sea Stars",
+              "rank": "order",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 117698,
+                  "name": "Solasteridae",
+                  "commonName": "Solasterid Sun Stars",
+                  "rank": "family",
+                  "speciesCount": 2,
+                  "children": [
+                    {
+                      "id": 192688,
+                      "name": "Crossaster",
+                      "commonName": "Crossaster",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 192687,
+                          "name": "Crossaster papposus",
+                          "commonName": "Rose Sun Star",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 192687,
+                              "name": "Crossaster papposus",
+                              "commonName": "Rose Sun Star",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "rose-sun-star",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2240095/medium.jpg"
+                            }
+                          ],
+                          "slug": "rose-sun-star",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2240095/medium.jpg"
+                        }
+                      ],
+                      "slug": "crossaster",
+                      "description": "Crossaster is a genus of sea stars known for their distinctive multi-rayed appearance and vibrant colors. These starfish typically have 8-15 arms radiating from a central disc, giving them a sun-like appearance that earned them the common name 'sun stars.'",
+                      "distinguishingFeatures": "Unlike typical five-armed sea stars, Crossaster species have many more arms (usually 8-15) and display bright orange, red, or pink coloration with contrasting patterns.",
+                      "funFact": "The Rose Sun Star can actually shed and regenerate its arms when threatened by predators, and the lost arms can sometimes grow into entirely new starfish!"
+                    },
+                    {
+                      "id": 117699,
+                      "name": "Solaster",
+                      "commonName": "Smooth Sun Stars",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 371725,
+                          "name": "Solaster endeca",
+                          "commonName": "Purple Sun Star",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 371725,
+                              "name": "Solaster endeca",
+                              "commonName": "Purple Sun Star",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "purple-sun-star",
+                              "representativePhotoUrl": "https://static.inaturalist.org/photos/59056038/medium.jpeg"
+                            }
+                          ],
+                          "slug": "purple-sun-star",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/59056038/medium.jpeg"
+                        }
+                      ],
+                      "slug": "smooth-sun-stars",
+                      "description": "Smooth Sun Stars are multi-armed sea stars that typically have 8-13 arms radiating from a central disc, giving them a distinctive sun-like appearance. These echinoderms are found in cold northern waters and are known for their relatively smooth texture compared to other sea star groups. They are active predators that feed on other echinoderms, including smaller sea stars and sea urchins.",
+                      "distinguishingFeatures": "Unlike many other sea stars, Smooth Sun Stars have more than the typical five arms and possess a notably smooth surface with minimal spines or bumps. Their arms are relatively short and thick compared to their central disc size.",
+                      "funFact": "Purple Sun Stars are actually cannibalistic and will readily eat other sea stars, including members of their own species if the opportunity arises."
+                    }
+                  ],
+                  "slug": "solasterid-sun-stars",
+                  "description": "Solasterid sun stars are distinctive sea stars with more than the typical five arms, usually having 8-15 radiating arms that give them their sun-like appearance. These colorful echinoderms are found in cold northern waters and are active predators that feed on other sea stars, sea urchins, and various marine invertebrates. They have a flattened, star-shaped body with arms that are not clearly distinct from the central disc.",
+                  "distinguishingFeatures": "Unlike typical five-armed sea stars, solasterid sun stars have numerous arms (8-15) and possess specialized feeding structures called pedicellariae that help them capture and handle prey. Their arms are relatively short and thick compared to other multi-armed sea star families.",
+                  "funFact": "Sun stars are cannibalistic predators that can actually eat other sea stars by everting their stomach outside their body to digest prey that may be larger than themselves."
+                },
+                {
+                  "id": 63383,
+                  "name": "Poraniidae",
+                  "commonName": "Poraniidae",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 247122,
+                      "name": "Porania",
+                      "commonName": "Porania",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 255880,
+                          "name": "Porania pulvillus",
+                          "commonName": "Red Cushion Star",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 255880,
+                              "name": "Porania pulvillus",
+                              "commonName": "Red Cushion Star",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "red-cushion-star",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1594184/medium.jpg"
+                            }
+                          ],
+                          "slug": "red-cushion-star",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1594184/medium.jpg"
+                        }
+                      ],
+                      "slug": "porania",
+                      "description": "Porania is a genus of sea stars that includes thick, cushion-like species found in cold northern waters. These distinctive echinoderms have a plump, rounded body shape that sets them apart from the more familiar flat, thin-armed sea stars most people know.",
+                      "distinguishingFeatures": "Members of Porania are characterized by their inflated, cushion-like appearance with short, thick arms that blend smoothly into a bulky central disc, giving them an almost pillow-like shape.",
+                      "funFact": "The Red Cushion Star can live for over 20 years and is sometimes called the 'cushion star' because its puffy body shape resembles a small decorative pillow on the ocean floor."
+                    }
+                  ],
+                  "slug": "poraniidae",
+                  "description": "Poraniidae is a family of sea stars (starfish) that are characterized by their thick, cushion-like bodies and relatively short arms. These echinoderms have a distinctive pentagonal or star shape with five broad arms that merge smoothly into the central disc, giving them a plump, well-fed appearance.",
+                  "distinguishingFeatures": "Unlike many other sea stars with long, slender arms, poraniid sea stars have short, thick arms that create an almost pentagonal outline. Their bodies are notably thick and cushion-like compared to the flatter profile of most other starfish families.",
+                  "funFact": "The single New England species in this family, commonly known as the cushion star, can actually change its body color from orange to purple depending on its diet and environment."
+                }
+              ],
+              "slug": "valvatidan-sea-stars",
+              "description": "Valvatidan sea stars are a diverse group of sea stars that includes some of the most recognizable species in New England waters. These echinoderms are characterized by their well-developed skeletal plates and distinctive arm structures. They represent one of the major evolutionary lineages of sea stars found in marine environments worldwide.",
+              "distinguishingFeatures": "Valvatidan sea stars have overlapping skeletal plates called marginal plates along their arm edges, and their tube feet are arranged in distinct rows. Unlike some other sea star groups, they typically have well-defined arms and a relatively rigid body structure.",
+              "funFact": "Some valvatidan sea stars, like the sun stars in this group, can have more than the typical five arms - some species can have up to 15 arms radiating from their central disc!"
+            },
+            {
+              "id": 47667,
+              "name": "Spinulosida",
+              "commonName": "Spinulosida",
+              "rank": "order",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 47666,
+                  "name": "Echinasteridae",
+                  "commonName": "Echinasterid Sea Stars",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 47665,
+                      "name": "Henricia",
+                      "commonName": "Blood Stars",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 62364,
+                          "name": "Henricia sanguinolenta",
+                          "commonName": "Northern Blood Star",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 62364,
+                              "name": "Henricia sanguinolenta",
+                              "commonName": "Northern Blood Star",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "northern-blood-star",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46650214/medium.jpg"
+                            }
+                          ],
+                          "slug": "northern-blood-star",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46650214/medium.jpg"
+                        }
+                      ],
+                      "slug": "blood-stars",
+                      "description": "Blood Stars are sea stars known for their distinctive reddish coloration and smooth, velvety skin texture. These marine animals have five tapering arms and lack the obvious spines found on many other sea star species. They are typically found in deeper, cooler waters along rocky coastlines.",
+                      "distinguishingFeatures": "Blood Stars can be identified by their smooth, spine-free surface and characteristic red to orange coloration. Unlike many sea stars, they have a soft, almost fuzzy texture due to tiny skin projections called papulae.",
+                      "funFact": "Despite their name, Blood Stars don't actually contain blood - their red color comes from pigments in their skin, and like all echinoderms, they have a water-based circulatory system instead of blood."
+                    }
+                  ],
+                  "slug": "echinasterid-sea-stars",
+                  "description": "Echinasterid sea stars are a family of delicate-looking sea stars with long, slender arms that taper smoothly from the central disc. These sea stars are typically small to medium-sized and are often found in deeper waters along rocky bottoms and among marine vegetation.",
+                  "distinguishingFeatures": "Unlike many other sea star families, echinasterids have smooth, elongated arms without prominent spines, and their skeletal plates are arranged in a distinctive network pattern that gives them a more delicate appearance.",
+                  "funFact": "Blood stars in this family get their name from their bright red or orange coloration, and they're actually filter feeders that capture tiny particles from the water rather than hunting larger prey like many other sea stars."
+                }
+              ],
+              "slug": "spinulosida",
+              "description": "Spinulosida is an order of sea stars characterized by having small spines or granules scattered across their body surface, giving them a rough, textured appearance. These sea stars typically have five arms and belong to a group that includes some of the most common and widespread species found in marine environments worldwide.",
+              "distinguishingFeatures": "Members of this order are distinguished by their spinulose surface texture, with small spines and granules covering their body, rather than having smooth skin or large prominent spines like some other sea star groups.",
+              "funFact": "Despite being called 'spinulose' (meaning having small spines), many species in this order actually feel more rough and bumpy than truly spiny to the touch."
+            },
+            {
+              "id": 48239,
+              "name": "Paxillosida",
+              "commonName": "Paxillosidan Sea Stars",
+              "rank": "order",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 814179,
+                  "name": "Ctenodiscidae",
+                  "commonName": "Cookie-cutter Sea Stars",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 247079,
+                      "name": "Ctenodiscus",
+                      "commonName": "Cookie-cutter Sea Stars",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 255738,
+                          "name": "Ctenodiscus crispatus",
+                          "commonName": "Cookie-cutter Sea Star",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 255738,
+                              "name": "Ctenodiscus crispatus",
+                              "commonName": "Cookie-cutter Sea Star",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "cookie-cutter-sea-star",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/478120232/medium.jpg"
+                            }
+                          ],
+                          "slug": "cookie-cutter-sea-star",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/478120232/medium.jpg"
+                        }
+                      ],
+                      "slug": "cookie-cutter-sea-stars",
+                      "description": "Cookie-cutter sea stars are distinctive echinoderms that get their name from their unique feeding behavior and appearance. These sea stars have thick, cushion-like bodies with short, stubby arms that give them a pentagonal or cookie-like shape when viewed from above.",
+                      "distinguishingFeatures": "Unlike typical sea stars with long, slender arms, cookie-cutter sea stars have very short, thick arms that are barely distinguishable from their central disk, creating an almost circular outline.",
+                      "funFact": "Cookie-cutter sea stars are specialized mud-eaters that literally consume sediment from the ocean floor, digesting the organic matter and bacteria within it before expelling the cleaned sand and mud."
+                    }
+                  ],
+                  "slug": "cookie-cutter-sea-stars",
+                  "description": "Cookie-cutter Sea Stars are a small family of sea stars that get their name from their distinctive feeding behavior and appearance. These deep-sea echinoderms have relatively small, compact bodies with short, thick arms that give them a somewhat pentagonal or cookie-like shape when viewed from above.",
+                  "distinguishingFeatures": "Unlike most sea stars that have long, tapering arms, cookie-cutter sea stars have notably short, stubby arms that are almost triangular in shape. They also have a unique feeding style where they position themselves over prey and use their entire body like a living cookie cutter.",
+                  "funFact": "Cookie-cutter sea stars are specialized mud-dwellers that can literally 'cut out' cylindrical sections of sediment to access buried prey, earning them their baker-inspired common name."
+                }
+              ],
+              "slug": "paxillosidan-sea-stars",
+              "description": "Paxillosidan sea stars are a group of sea stars that live primarily on sandy or muddy ocean bottoms where they burrow and feed on small organisms in the sediment. They have a flattened body shape that helps them move through sand and soft substrates. These sea stars are well-adapted for life as sand-dwellers rather than living on rocky surfaces like many other sea star groups.",
+              "distinguishingFeatures": "Unlike most sea stars, paxillosidans have small, granule-like spines called paxillae covering their upper surface instead of larger spines or smooth skin. They also lack suckers on the tips of their tube feet, making them unable to cling to hard surfaces.",
+              "funFact": "These sea stars can actually 'swim' through sand by using their flexible arms in a coordinated undulating motion, almost like they're doing an underwater backstroke through the seafloor sediment."
+            }
+          ],
+          "slug": "sea-stars"
+        },
+        {
+          "id": 48836,
+          "name": "Ophiuroidea",
+          "commonName": "Brittle Stars",
+          "rank": "class",
+          "speciesCount": 4,
+          "children": [
+            {
+              "id": 774991,
+              "name": "Amphilepidida",
+              "commonName": "Amphilepididans",
+              "rank": "order",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 814187,
+                  "name": "Ophiopholidae",
+                  "commonName": "Ophiopholidae",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 56687,
+                      "name": "Ophiopholis",
+                      "commonName": "Ophiopholis",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 56685,
+                          "name": "Ophiopholis aculeata",
+                          "commonName": "Daisy Brittle Star",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 56685,
+                              "name": "Ophiopholis aculeata",
+                              "commonName": "Daisy Brittle Star",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "daisy-brittle-star",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/113003617/medium.jpeg"
+                            }
+                          ],
+                          "slug": "daisy-brittle-star",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/113003617/medium.jpeg"
+                        }
+                      ],
+                      "slug": "ophiopholis",
+                      "description": "Ophiopholis is a genus of brittle stars, which are marine animals closely related to sea stars but with long, flexible arms that can move independently. These echinoderms have a central disc-shaped body with five slender arms that they use for crawling along the seafloor and capturing food particles from the water.",
+                      "distinguishingFeatures": "Members of Ophiopholis are characterized by their distinctively spiny appearance, with numerous small spines covering both their central disc and arms, giving them a bristly texture that helps distinguish them from smoother brittle star species.",
+                      "funFact": "The name Ophiopholis means \"snake scale\" in Greek, referring to the scaly, overlapping plates that cover these brittle stars' bodies and arms."
+                    }
+                  ],
+                  "slug": "ophiopholidae",
+                  "description": "Ophiopholidae is a family of brittle stars, those distinctive five-armed echinoderms that look like starfish but with long, slender, flexible arms. These marine creatures are closely related to sea stars but can quickly coil and thrash their arms to move across the seafloor or escape predators. They're filter feeders and scavengers that play important roles in ocean ecosystems.",
+                  "distinguishingFeatures": "Members of this family have arms that are distinctly segmented and covered in small, overlapping plates or scales, giving them a more armored appearance than many other brittle star families. Their central disc is relatively small compared to their long, snake-like arms.",
+                  "funFact": "Brittle stars in this family can regenerate lost arms, and if grabbed by a predator, they'll deliberately shed an arm to escape - hence the name 'brittle' star!"
+                },
+                {
+                  "id": 55179,
+                  "name": "Amphiuridae",
+                  "commonName": "Long-armed Burrowing Brittle Stars",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 56669,
+                      "name": "Amphipholis",
+                      "commonName": "Amphipholis",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 56690,
+                          "name": "Amphipholis squamata",
+                          "commonName": "Dwarf Brittle Star",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 56690,
+                              "name": "Amphipholis squamata",
+                              "commonName": "Dwarf Brittle Star",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "dwarf-brittle-star",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158871985/medium.jpg"
+                            }
+                          ],
+                          "slug": "dwarf-brittle-star",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158871985/medium.jpg"
+                        }
+                      ],
+                      "slug": "amphipholis",
+                      "description": "Amphipholis is a genus of small brittle stars, which are marine animals related to sea stars but with long, thin, flexible arms that can move in snake-like motions. These echinoderms have a small central disk from which five slender arms extend, and they use these arms to crawl along the seafloor and capture food particles.",
+                      "distinguishingFeatures": "Members of Amphipholis are among the smallest brittle stars, typically measuring less than an inch across. They can be distinguished from other brittle star genera by their relatively short arms compared to their disk size and their ability to reproduce through arm fragmentation.",
+                      "funFact": "The Dwarf Brittle Star found in New England waters is one of the few brittle star species that can reproduce both sexually and asexually - it can literally split itself in half and regenerate into two complete individuals!"
+                    }
+                  ],
+                  "slug": "long-armed-burrowing-brittle-stars",
+                  "description": "Long-armed Burrowing Brittle Stars are a family of echinoderms that live buried in sandy or muddy seafloor sediments. These small, delicate creatures have extremely long, thin arms that can extend far out from their tiny central disc body. They use their flexible arms to capture food particles and plankton from the water while keeping their body safely hidden in the sediment.",
+                  "distinguishingFeatures": "Unlike other brittle stars, members of this family have exceptionally long arms relative to their body size and are specialized for a burrowing lifestyle. Their arms are more fragile and thread-like compared to the sturdier arms of surface-dwelling brittle star species.",
+                  "funFact": "These brittle stars can regenerate their incredibly long arms if they break off, and some species can actually reproduce by deliberately splitting their body in half, with each half growing into a complete new individual."
+                }
+              ],
+              "slug": "amphilepididans",
+              "description": "Amphilepididans are an order of brittle stars, those starfish relatives with long, flexible arms and small central discs. These marine creatures are found in ocean sediments where they use their serpentine arms to move through sand and mud or filter food from the water column.",
+              "distinguishingFeatures": "This group is characterized by having arm shields (protective plates) that are split or divided into smaller segments, giving them their scientific name which means 'around small scales.'",
+              "funFact": "Some amphilepididans can regenerate their entire arms if they break off, and the severed arm can continue moving for several minutes after detaching from the body!"
+            },
+            {
+              "id": 774990,
+              "name": "Ophiacanthida",
+              "commonName": "Ophiacanthida",
+              "rank": "order",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 56676,
+                  "name": "Ophiodermatidae",
+                  "commonName": "Ophiodermatidae",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 56677,
+                      "name": "Ophioderma",
+                      "commonName": "Ophioderma",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 192689,
+                          "name": "Ophioderma brevispina",
+                          "commonName": "Green Serpent Star",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 192689,
+                              "name": "Ophioderma brevispina",
+                              "commonName": "Green Serpent Star",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "green-serpent-star",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9367042/medium.jpeg"
+                            }
+                          ],
+                          "slug": "green-serpent-star",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9367042/medium.jpeg"
+                        }
+                      ],
+                      "slug": "ophioderma",
+                      "description": "Ophioderma is a genus of brittle stars, marine animals related to sea stars but with long, slender, flexible arms that branch out from a central disc-shaped body. These echinoderms live on the seafloor where they use their serpentine arm movements to crawl across surfaces and capture small food particles from the water or sediment.",
+                      "distinguishingFeatures": "Ophioderma species are characterized by their smooth, relatively thick arms that lack the spines found on many other brittle star genera. Their arms are also notably more robust and less fragile than those of most other brittle stars.",
+                      "funFact": "Despite being called 'brittle stars,' Ophioderma species are actually less brittle than many of their relatives, and their arms don't break off as easily when handled."
+                    }
+                  ],
+                  "slug": "ophiodermatidae",
+                  "description": "Ophiodermatidae is a family of brittle stars, which are marine animals closely related to starfish but with long, thin, flexible arms that they use for movement and feeding. These echinoderms have a central disc-shaped body from which five slender arms extend, and they're commonly found on sandy or muddy ocean bottoms where they burrow or hide under rocks and debris.",
+                  "distinguishingFeatures": "Members of this family are distinguished from other brittle stars by their smooth, leather-like skin without obvious plates or spines, and their ability to burrow into soft sediments using their flexible arms.",
+                  "funFact": "These brittle stars can regenerate lost arms, and if threatened, they will actually break off their own arms as a defense mechanism - which is how they got the name 'brittle' stars!"
+                }
+              ],
+              "slug": "ophiacanthida",
+              "description": "Ophiacanthida is an order of brittle stars, which are spiny-armed relatives of sea stars that live on the ocean floor. These echinoderms have a distinct central disc and five long, flexible arms that they use to crawl along the seafloor and capture food. Unlike sea stars, brittle stars move by rapidly wriggling their arms rather than using tube feet for locomotion.",
+              "distinguishingFeatures": "Members of this order are characterized by having arms that are clearly set off from the central disc and vertebrae-like arm segments that give the arms flexibility. They typically have arm spines and lack the ability to regenerate their central disc if it's damaged.",
+              "funFact": "Brittle stars in this group can move surprisingly quickly across the ocean floor, earning their name from their tendency to shed arm segments when threatened - a defense mechanism that allows them to escape predators."
+            },
+            {
+              "id": 48837,
+              "name": "Ophiurida",
+              "commonName": "Ophiurida",
+              "rank": "order",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 195681,
+                  "name": "Ophiuridae",
+                  "commonName": "Ophiuridae",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 195682,
+                      "name": "Ophiura",
+                      "commonName": "Ophiura",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 202051,
+                          "name": "Ophiura sarsii",
+                          "commonName": "Notched Brittle Star",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 202051,
+                              "name": "Ophiura sarsii",
+                              "commonName": "Notched Brittle Star",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "notched-brittle-star",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32534319/medium.jpg"
+                            }
+                          ],
+                          "slug": "notched-brittle-star",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32534319/medium.jpg"
+                        }
+                      ],
+                      "slug": "ophiura",
+                      "description": "Ophiura is a genus of brittle stars, which are marine animals related to sea stars but with long, thin, flexible arms that can move independently. These echinoderms have a distinct central disk and five slender arms that they use for crawling along the ocean floor and capturing food particles from the water.",
+                      "distinguishingFeatures": "Members of the genus Ophiura are characterized by their relatively robust central disk and arms that are clearly separated from the disk, unlike some brittle stars where the arms gradually merge with the body.",
+                      "funFact": "Brittle stars in the genus Ophiura can regenerate their arms if they break off, and they often deliberately shed arms when grabbed by predators as an escape mechanism."
+                    }
+                  ],
+                  "slug": "ophiuridae",
+                  "description": "Ophiuridae is a family of brittle stars, which are marine animals related to sea stars but with long, thin, flexible arms that are clearly separate from their central disc-shaped body. These echinoderms move by rapidly waving their snake-like arms rather than using tube feet like sea stars do. They are typically found on the ocean floor where they feed on small particles and organic matter.",
+                  "distinguishingFeatures": "Members of this family have relatively short, thick arms compared to other brittle star families, and their arm spines are typically small and pressed close to the arm segments. Their disc is usually covered with small scales or granules rather than large plates.",
+                  "funFact": "Brittle stars in this family can regenerate their arms if they break off, and they will sometimes deliberately shed an arm when grabbed by a predator - a behavior called autotomy that helps them escape!"
+                }
+              ],
+              "slug": "ophiurida",
+              "description": "Ophiurida is an order of brittle stars, which are echinoderms closely related to sea stars but with distinctly different body plans. These marine animals have a small, disk-shaped central body with five long, thin, flexible arms that can move independently and are clearly separate from the central disk. Unlike sea stars, brittle stars use their arms primarily for locomotion rather than feeding.",
+              "distinguishingFeatures": "Brittle stars in this order are distinguished from other echinoderms by their clearly defined central disk and long, slender arms that break off easily when handled (hence the name 'brittle'). Their arms are solid and jointed, moving in a snake-like fashion rather than the hydraulic tube feet movement seen in sea stars.",
+              "funFact": "Brittle stars can regenerate their arms completely if they break off, and they often intentionally shed arms as a defense mechanism to escape from predators while the detached arm continues to wiggle as a distraction."
+            }
+          ],
+          "slug": "brittle-stars"
+        }
+      ],
+      "slug": "sea-stars-and-brittle-stars"
+    },
+    {
+      "id": 774753,
+      "name": "Echinozoa",
+      "commonName": "sea urchins and sea cucumbers",
+      "rank": "subphylum",
+      "speciesCount": 11,
+      "children": [
+        {
+          "id": 47720,
+          "name": "Holothuroidea",
+          "commonName": "Sea Cucumbers",
+          "rank": "class",
+          "speciesCount": 8,
+          "children": [
+            {
+              "id": 49482,
+              "name": "Dendrochirotida",
+              "commonName": "Filtering sea cucumbers",
+              "rank": "order",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 67558,
+                  "name": "Cucumariidae",
+                  "commonName": "Cucumariidae",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 117700,
+                      "name": "Cucumaria",
+                      "commonName": "Cucumaria",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 192693,
+                          "name": "Cucumaria frondosa",
+                          "commonName": "Reddish Brown Sea Cucumber",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 192693,
+                              "name": "Cucumaria frondosa",
+                              "commonName": "Reddish Brown Sea Cucumber",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "reddish-brown-sea-cucumber",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14317481/medium.jpg"
+                            }
+                          ],
+                          "slug": "reddish-brown-sea-cucumber",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14317481/medium.jpg"
+                        }
+                      ],
+                      "slug": "cucumaria",
+                      "description": "Cucumaria is a genus of sea cucumbers that are soft-bodied marine animals living on the ocean floor. These echinoderms have elongated, cylindrical bodies with leathery skin and feed by extending branched tentacles to capture plankton and organic particles from the water.",
+                      "distinguishingFeatures": "Members of Cucumaria are distinguished by their dendritic (tree-like) feeding tentacles and their ability to retract completely into crevices when threatened. They typically have five rows of tube feet running along their body length.",
+                      "funFact": "When threatened, Cucumaria sea cucumbers can expel their internal organs through their mouth or anus as a defense mechanism, then regenerate these organs over several weeks!"
+                    }
+                  ],
+                  "slug": "cucumariidae",
+                  "description": "Cucumariidae is a family of sea cucumbers that are commonly found in marine environments around the world. These soft-bodied echinoderms have cylindrical bodies and use their branched tentacles around their mouth to filter food particles from the water. They play an important role in ocean ecosystems by processing sediment and organic matter on the seafloor.",
+                  "distinguishingFeatures": "Members of this family are characterized by having 10 branched tentacles around their mouth and typically possess tube feet arranged in distinct rows along their body. They lack the rigid plates found in some other sea cucumber families.",
+                  "funFact": "Sea cucumbers in this family can literally breathe through their bottom - they pump water in and out of their body cavity through their anus to extract oxygen from the water!"
+                },
+                {
+                  "id": 51696,
+                  "name": "Sclerodactylidae",
+                  "commonName": "Sclerodactylidae",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 247109,
+                      "name": "Sclerodactyla",
+                      "commonName": "Sclerodactyla",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 293150,
+                          "name": "Sclerodactyla briareus",
+                          "commonName": "Hard-fingered Sea Cucumber",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 293150,
+                              "name": "Sclerodactyla briareus",
+                              "commonName": "Hard-fingered Sea Cucumber",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "hard-fingered-sea-cucumber",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1094597/medium.jpg"
+                            }
+                          ],
+                          "slug": "hard-fingered-sea-cucumber",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1094597/medium.jpg"
+                        }
+                      ],
+                      "slug": "sclerodactyla",
+                      "description": "Sclerodactyla is a genus of sea cucumbers that are characterized by having hard, calcified structures in their skin and distinctive finger-like projections around their mouth. These marine animals are echinoderms, related to sea stars and sea urchins, and they crawl along the ocean floor feeding on organic matter in sediment.",
+                      "distinguishingFeatures": "Members of this genus have particularly rigid body walls due to heavy calcification, giving them their name which means 'hard finger.' They also have distinctive branched tentacles around their mouth that help them gather food particles.",
+                      "funFact": "Despite being called 'hard-fingered,' these sea cucumbers can still contract their bodies when threatened, pulling in their feeding tentacles completely for protection."
+                    }
+                  ],
+                  "slug": "sclerodactylidae",
+                  "description": "Sclerodactylidae is a small family of sea cucumbers that live buried in sandy or muddy ocean bottoms. These marine animals have elongated, worm-like bodies and are deposit feeders, meaning they consume organic matter from the sediment around them.",
+                  "distinguishingFeatures": "Members of this family are characterized by their distinctive calcareous spicules (tiny skeletal elements) and their ability to completely retract their feeding tentacles into their bodies when threatened.",
+                  "funFact": "Despite being sea cucumbers, these animals spend most of their lives completely buried in sediment with only their feeding tentacles extending above the surface to collect food particles."
+                },
+                {
+                  "id": 49483,
+                  "name": "Psolidae",
+                  "commonName": "Psolidae",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 49481,
+                      "name": "Psolus",
+                      "commonName": "Psolus",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 549101,
+                          "name": "Psolus fabricii",
+                          "commonName": "Scarlet Sea Cucumber",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 549101,
+                              "name": "Psolus fabricii",
+                              "commonName": "Scarlet Sea Cucumber",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "scarlet-sea-cucumber",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222990064/medium.jpg"
+                            }
+                          ],
+                          "slug": "scarlet-sea-cucumber",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222990064/medium.jpg"
+                        }
+                      ],
+                      "slug": "psolus",
+                      "description": "Psolus is a genus of sea cucumbers that have adapted to life on hard surfaces like rocks and shells. Unlike many sea cucumbers that burrow in sand or mud, these animals attach themselves firmly to solid substrates using specialized structures. They are filter feeders that capture tiny particles from the water using their branched tentacles.",
+                      "distinguishingFeatures": "Psolus sea cucumbers are distinguished by their flattened, scale-covered bodies and their ability to cement themselves permanently to hard surfaces. They have a unique body structure with a hardened upper surface and a soft underside for attachment.",
+                      "funFact": "Once a Psolus sea cucumber attaches to a rock or shell, it becomes essentially immobile for the rest of its life, making it one of the most sedentary animals in the ocean."
+                    }
+                  ],
+                  "slug": "psolidae",
+                  "description": "Psolidae are a family of sea cucumbers that have evolved a unique body form quite different from typical cylindrical sea cucumbers. These marine animals have flattened, scale-like bodies that allow them to live attached to hard surfaces on the seafloor. They are filter feeders that use specialized tentacles around their mouth to capture small particles and plankton from the water.",
+                  "distinguishingFeatures": "Unlike most sea cucumbers that are elongated and cylindrical, psolids have distinctly flattened, disc-like or scale-shaped bodies. They also live attached to rocks or other hard surfaces rather than crawling freely along the seafloor.",
+                  "funFact": "Psolid sea cucumbers are sometimes called \"sea biscuits\" because of their flattened, cookie-like appearance when viewed from above."
+                }
+              ],
+              "slug": "filtering-sea-cucumbers",
+              "description": "Filtering sea cucumbers are soft-bodied marine animals that live on the ocean floor and feed by filtering tiny particles from the water. They have branched, tree-like tentacles around their mouth that they use to capture plankton and organic matter from the surrounding water. These echinoderms are related to sea stars and sea urchins, but have elongated, cucumber-shaped bodies.",
+              "distinguishingFeatures": "Unlike other sea cucumber groups, filtering sea cucumbers have highly branched, dendritic (tree-like) feeding tentacles that can be retracted into their mouth. They are specialized filter feeders rather than deposit feeders that eat sediment.",
+              "funFact": "When threatened, some filtering sea cucumbers can expel their internal organs through their mouth or anus and later regenerate them completely!"
+            },
+            {
+              "id": 48045,
+              "name": "Apodida",
+              "commonName": "Apodids",
+              "rank": "order",
+              "speciesCount": 3,
+              "children": [
+                {
+                  "id": 48044,
+                  "name": "Synaptidae",
+                  "commonName": "Synaptidae",
+                  "rank": "family",
+                  "speciesCount": 2,
+                  "children": [
+                    {
+                      "id": 48043,
+                      "name": "Leptosynapta",
+                      "commonName": "Leptosynapta",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 129887,
+                          "name": "Leptosynapta tenuis",
+                          "commonName": "White Synapta",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 129887,
+                              "name": "Leptosynapta tenuis",
+                              "commonName": "White Synapta",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "white-synapta",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/130421/medium.jpg"
+                            }
+                          ],
+                          "slug": "white-synapta",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/130421/medium.jpg"
+                        }
+                      ],
+                      "slug": "leptosynapta",
+                      "description": "Leptosynapta is a genus of sea cucumbers that are long, thin, and worm-like in appearance. These soft-bodied marine animals burrow in sandy or muddy ocean bottoms, where they feed by swallowing sediment and digesting the organic matter within it.",
+                      "distinguishingFeatures": "Unlike other sea cucumbers, Leptosynapta species lack tube feet and have tiny anchor-shaped spicules (calcium carbonate structures) embedded in their skin that give them a sticky, rough texture.",
+                      "funFact": "When threatened or handled roughly, these sea cucumbers can literally fall apart by breaking their bodies into pieces, which can later regenerate into complete new animals."
+                    },
+                    {
+                      "id": 247046,
+                      "name": "Epitomapta",
+                      "commonName": "Epitomapta",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 255691,
+                          "name": "Epitomapta roseola",
+                          "commonName": "Epitomapta roseola",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 255691,
+                              "name": "Epitomapta roseola",
+                              "commonName": "Epitomapta roseola",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "epitomapta-roseola",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/93398488/medium.jpg"
+                            }
+                          ],
+                          "slug": "epitomapta-roseola",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/93398488/medium.jpg"
+                        }
+                      ],
+                      "slug": "epitomapta",
+                      "description": "Epitomapta is a small genus of moths in the family Geometridae, commonly known as geometer moths or inchworms. These delicate moths are characterized by their relatively small size and subtle wing patterns that help them blend in with their surroundings.",
+                      "distinguishingFeatures": "Members of this genus can be identified by their pale, muted coloration and fine, intricate wing markings that distinguish them from other geometer moths in the region.",
+                      "funFact": "The caterpillars of Epitomapta moths are 'loopers' that move by arching their bodies up in the middle, creating the characteristic inchworm motion that gives the family its common name."
+                    }
+                  ],
+                  "slug": "synaptidae",
+                  "description": "Synaptidae are a family of sea cucumbers that look more like worms than the typical cucumber-shaped echinoderms most people know. These soft-bodied marine animals burrow through sand and mud on the ocean floor, using their tentacles to feed on tiny organic particles. They lack the hard plates found in many other sea cucumbers, making them quite flexible and able to squeeze through tight spaces.",
+                  "distinguishingFeatures": "Unlike other sea cucumbers, synaptids have no respiratory trees and lack the rigid calcareous plates that give most sea cucumbers their firm texture. They also have anchor-shaped microscopic spicules in their skin that help with identification.",
+                  "funFact": "When threatened, these sea cucumbers can actually break apart into pieces and later regenerate the missing body parts - a dramatic escape strategy called autotomy."
+                },
+                {
+                  "id": 127651,
+                  "name": "Chiridotidae",
+                  "commonName": "Chiridotidae",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 127652,
+                      "name": "Chiridota",
+                      "commonName": "Chiridota",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 293127,
+                          "name": "Chiridota laevis",
+                          "commonName": "Chiridota laevis",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 293127,
+                              "name": "Chiridota laevis",
+                              "commonName": "Chiridota laevis",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "chiridota-laevis",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/573942021/medium.jpg"
+                            }
+                          ],
+                          "slug": "chiridota-laevis",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/573942021/medium.jpg"
+                        }
+                      ],
+                      "slug": "chiridota",
+                      "description": "Chiridota is a genus of sea cucumbers that are elongated, worm-like marine animals found in sandy and muddy ocean bottoms. These soft-bodied echinoderms lack the tube feet that many of their relatives possess, instead moving by contracting their muscular body wall. They are deposit feeders that burrow through sediment, ingesting organic matter and small particles.",
+                      "distinguishingFeatures": "Unlike most sea cucumbers, Chiridota species have no tube feet and possess distinctive anchor-shaped spicules (tiny calcium carbonate structures) embedded in their body wall. Their bodies are also more cylindrical and worm-like compared to the cucumber-shaped appearance of many other sea cucumber species.",
+                      "funFact": "When threatened, Chiridota can literally tie themselves in knots, contorting their flexible bodies into complex loops and tangles as a defense mechanism."
+                    }
+                  ],
+                  "slug": "chiridotidae",
+                  "description": "Chiridotidae is a family of sea cucumbers that have adapted to life by burrowing in sandy and muddy seafloor sediments. These elongated, worm-like echinoderms lack the tube feet found in many of their relatives, instead moving through sediment using muscular contractions of their body wall.",
+                  "distinguishingFeatures": "Unlike other sea cucumbers, chiridotids have no tube feet and possess distinctive anchor-shaped microscopic spicules (calcium carbonate structures) embedded in their skin that help them grip sediment as they burrow.",
+                  "funFact": "These sea cucumbers can literally tie themselves in knots when threatened, using their flexible bodies to create complex loops and tangles that may confuse predators."
+                }
+              ],
+              "slug": "apodids",
+              "description": "Apodids are a unique order of sea cucumbers that lack the tube feet typically found in other echinoderms. These soft-bodied marine animals have elongated, worm-like bodies and live buried in sand or mud on the ocean floor. They move by contracting their muscular body wall rather than using the suction-cup feet that their relatives possess.",
+              "distinguishingFeatures": "Unlike other sea cucumbers, apodids have no tube feet and instead rely on their flexible, muscular bodies for movement. They also tend to be smaller and more slender than their tube-footed cousins.",
+              "funFact": "Some apodids can actually swim by undulating their bodies like snakes, making them the most agile sea cucumbers in the ocean!"
+            },
+            {
+              "id": 152887,
+              "name": "Molpadida",
+              "commonName": "Molpadida",
+              "rank": "order",
+              "speciesCount": 2,
+              "children": [
+                {
+                  "id": 245323,
+                  "name": "Caudinidae",
+                  "commonName": "Caudinidae",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 247130,
+                      "name": "Caudina",
+                      "commonName": "Caudina",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 293195,
+                          "name": "Caudina arenata",
+                          "commonName": "Little Sea Cucumber",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 293195,
+                              "name": "Caudina arenata",
+                              "commonName": "Little Sea Cucumber",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "little-sea-cucumber",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28783444/medium.jpg"
+                            }
+                          ],
+                          "slug": "little-sea-cucumber",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28783444/medium.jpg"
+                        }
+                      ],
+                      "slug": "caudina",
+                      "description": "Caudina is a genus of sea cucumbers that are small, worm-like marine animals living in sandy or muddy ocean bottoms. These echinoderms have soft, elongated bodies and burrow through sediment, feeding on organic particles they filter from the sand and mud.",
+                      "distinguishingFeatures": "Caudina sea cucumbers are distinguished by their small size and specialized burrowing lifestyle, spending most of their time completely buried in sediment rather than crawling on the surface like many other sea cucumber species.",
+                      "funFact": "Despite being related to sea stars and sea urchins, Caudina sea cucumbers look more like chubby earthworms and can actually push themselves through sand like living bulldozers using their muscular body walls."
+                    }
+                  ],
+                  "slug": "caudinidae",
+                  "description": "Caudinidae is a family of sea cucumbers that are elongated, worm-like marine animals found burrowing in sandy or muddy ocean bottoms. These soft-bodied echinoderms lack the typical cucumber shape of many sea cucumbers and instead have a more cylindrical, tail-like appearance that helps them move through sediment.",
+                  "distinguishingFeatures": "Unlike other sea cucumber families, Caudinidae members have a distinctly elongated, almost worm-like body form and specialized burrowing adaptations that allow them to live completely buried in seafloor sediments.",
+                  "funFact": "These sea cucumbers are sometimes called 'tailed sea cucumbers' because of their distinctive elongated posterior end that gives them an almost tadpole-like appearance."
+                },
+                {
+                  "id": 245324,
+                  "name": "Molpadiidae",
+                  "commonName": "Molpadiidae",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 247077,
+                      "name": "Molpadia",
+                      "commonName": "Molpadia",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 255902,
+                          "name": "Molpadia oolitica",
+                          "commonName": "Molpadia oolitica",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 255902,
+                              "name": "Molpadia oolitica",
+                              "commonName": "Molpadia oolitica",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "molpadia-oolitica",
+                              "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32534060/medium.jpg"
+                            }
+                          ],
+                          "slug": "molpadia-oolitica",
+                          "representativePhotoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32534060/medium.jpg"
+                        }
+                      ],
+                      "slug": "molpadia",
+                      "description": "Molpadia is a genus of sea cucumbers that live buried in sandy or muddy ocean bottoms. These elongated, worm-like echinoderms have a distinctive tail-like projection and feed by swallowing sediment and extracting nutrients from it.",
+                      "distinguishingFeatures": "Unlike most sea cucumbers, Molpadia species have a long, narrow tail appendage and lack the tube feet that other sea cucumbers use for movement. They are specialized for a burrowing lifestyle in soft seafloor sediments.",
+                      "funFact": "Molpadia sea cucumbers can burrow up to 8 inches deep in the seafloor and create U-shaped tunnels, with their tail sticking up like a periscope to exchange water for breathing."
+                    }
+                  ],
+                  "slug": "molpadiidae",
+                  "description": "Molpadiidae are a family of sea cucumbers that live buried in sandy or muddy ocean bottoms. These soft-bodied marine animals are shaped like sausages or cucumbers and have a distinctive tail-like appendage at their rear end that helps them burrow through sediment.",
+                  "distinguishingFeatures": "Unlike other sea cucumbers, molpadiids have a prominent tail projection and lack the tube feet that many of their relatives use for crawling along the seafloor.",
+                  "funFact": "These sea cucumbers are sometimes called \"rat-tail cucumbers\" because of their distinctive tail-like appendage that sticks out of the sediment like a periscope while they feed."
+                }
+              ],
+              "slug": "molpadida",
+              "description": "Molpadida is an order of sea cucumbers that are specially adapted for life buried in sandy or muddy ocean bottoms. These soft-bodied marine animals have elongated, worm-like bodies and spend most of their time burrowing through sediment, feeding on organic matter they filter from the mud and sand.",
+              "distinguishingFeatures": "Unlike other sea cucumbers, molpadids have a distinctive tail-like posterior end and lack the branched tentacles around their mouth that many of their relatives possess. They also have specialized tube feet adapted for digging rather than crawling on surfaces.",
+              "funFact": "These sea cucumbers are like living vacuum cleaners of the seafloor - they can process enormous amounts of sediment through their bodies, helping to mix and aerate the ocean bottom while extracting tiny bits of food."
+            }
+          ],
+          "slug": "sea-cucumbers"
+        },
+        {
+          "id": 47548,
+          "name": "Echinoidea",
+          "commonName": "Sea Urchins, Sand Dollars, and Heart Urchins",
+          "rank": "class",
+          "speciesCount": 3,
+          "children": [
+            {
+              "id": 85508,
+              "name": "Camarodonta",
+              "commonName": "Camarodonta",
+              "rank": "order",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 48037,
+                  "name": "Strongylocentrotidae",
+                  "commonName": "Strongylocentrotidae",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 48036,
+                      "name": "Strongylocentrotus",
+                      "commonName": "Strongylocentrotus",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 120070,
+                          "name": "Strongylocentrotus droebachiensis",
+                          "commonName": "Arctic Green Sea Urchin",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 120070,
+                              "name": "Strongylocentrotus droebachiensis",
+                              "commonName": "Arctic Green Sea Urchin",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "arctic-green-sea-urchin",
+                              "representativePhotoUrl": "https://static.inaturalist.org/photos/88054286/medium.jpeg"
+                            }
+                          ],
+                          "slug": "arctic-green-sea-urchin",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/88054286/medium.jpeg"
+                        }
+                      ],
+                      "slug": "strongylocentrotus",
+                      "description": "Strongylocentrotus is a genus of sea urchins known for their robust, globe-shaped shells covered in moveable spines. These echinoderms are typically found in colder ocean waters and are important grazers in marine ecosystems, feeding primarily on algae and kelp.",
+                      "distinguishingFeatures": "Members of this genus are characterized by their relatively large size, thick test (shell), and dense covering of short to medium-length spines that are often blunt-tipped rather than needle-sharp.",
+                      "funFact": "The Arctic Green Sea Urchin can live for over 100 years, with some individuals estimated to be nearly 200 years old, making them among the longest-lived animals in New England's waters."
+                    }
+                  ],
+                  "slug": "strongylocentrotidae",
+                  "description": "Strongylocentrotidae is a family of sea urchins known for their robust, dome-shaped shells and relatively short, thick spines. These echinoderms are typically found in rocky intertidal and shallow subtidal waters where they graze on algae and other organic matter.",
+                  "distinguishingFeatures": "Members of this family are distinguished by their sturdy test (shell) construction and their preference for hard substrates in cooler waters. They tend to have more densely packed, shorter spines compared to other sea urchin families.",
+                  "funFact": "The Green Sea Urchin in this family can live for over 100 years and plays a crucial role in maintaining kelp forest balance by controlling algae growth."
+                }
+              ],
+              "slug": "camarodonta",
+              "description": "Camarodonta is an order of sea urchins that includes some of the most familiar round, spiny echinoderms found in coastal waters. These sea urchins have a distinctive jaw apparatus called Aristotle's lantern with grooved teeth that help them scrape algae and other food from rocks and surfaces. They are characterized by their robust, often dome-shaped shells covered in moveable spines.",
+              "distinguishingFeatures": "Members of Camarodonta can be distinguished from other sea urchin orders by their specific jaw structure with grooved teeth and their typically more rigid, substantial test (shell). Their spines are usually well-developed and arranged in distinct patterns around their spherical bodies.",
+              "funFact": "The jaw apparatus of these sea urchins is called 'Aristotle's lantern' because the ancient Greek philosopher was the first to describe this intricate feeding structure, which resembles a five-sided lantern when viewed from below."
+            },
+            {
+              "id": 1383599,
+              "name": "Echinolampadacea",
+              "commonName": "Sand Dollars",
+              "rank": "order",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 171461,
+                  "name": "Echinarachniidae",
+                  "commonName": "Echinarachniidae",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 171451,
+                      "name": "Echinarachnius",
+                      "commonName": "Echinarachnius",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 192690,
+                          "name": "Echinarachnius parma",
+                          "commonName": "Common Sand Dollar",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 192690,
+                              "name": "Echinarachnius parma",
+                              "commonName": "Common Sand Dollar",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "common-sand-dollar",
+                              "representativePhotoUrl": "https://static.inaturalist.org/photos/100977362/medium.jpeg"
+                            }
+                          ],
+                          "slug": "common-sand-dollar",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/100977362/medium.jpeg"
+                        }
+                      ],
+                      "slug": "echinarachnius",
+                      "description": "Echinarachnius is a genus of sand dollars, which are flattened sea urchins that live buried in sandy ocean floors. These disc-shaped echinoderms have a rigid skeleton covered in tiny spines and move through sand using tube feet on their underside. They filter small particles and plankton from the water for food.",
+                      "distinguishingFeatures": "Members of Echinarachnius are distinguished by their relatively large size compared to other sand dollars and their characteristic five-petaled flower pattern on top. They have a more robust, thicker test (shell) than many other sand dollar genera.",
+                      "funFact": "When sand dollars die and wash ashore, their skeletons bleach white in the sun, but living Echinarachnius sand dollars are actually covered in dark purple or brown fuzzy spines that help them burrow through sand."
+                    }
+                  ],
+                  "slug": "echinarachniidae",
+                  "description": "Echinarachniidae is a family of flat, disk-shaped sea urchins commonly known as sand dollars. These marine animals live buried in sandy ocean floors, where they feed on tiny organic particles and plankton by filtering them from the water and sediment.",
+                  "distinguishingFeatures": "Unlike typical spiny sea urchins, sand dollars have extremely flattened bodies and very short spines that give them a fuzzy, velvety texture. Their distinctive flower-like pattern of pores on top helps them breathe and move water through their bodies.",
+                  "funFact": "Living sand dollars are actually covered in tiny, moving spines and are typically dark purple or brown - the white 'sand dollars' people find on beaches are actually their bleached skeletons after the animal has died."
+                }
+              ],
+              "slug": "sand-dollars",
+              "description": "Sand dollars are flattened, disc-shaped sea urchins that live buried in sandy ocean bottoms. Unlike their spiny cousins, they have very short spines that create a fuzzy, velvety texture on their surface. They feed by filtering small particles and plankton from the water and sediment around them.",
+              "distinguishingFeatures": "Sand dollars are distinguished from other sea urchins by their extremely flattened, pancake-like shape and specialized petal-shaped patterns on their upper surface called petaloids. These petaloids contain modified tube feet used for respiration and feeding.",
+              "funFact": "The five-pointed star pattern you see on a sand dollar's shell represents the animal's mouth and digestive system - when alive, tiny spines help move food particles along these pathways to the centrally located mouth on the underside."
+            },
+            {
+              "id": 120867,
+              "name": "Arbacioida",
+              "commonName": "Arbacioida",
+              "rank": "order",
+              "speciesCount": 1,
+              "children": [
+                {
+                  "id": 120868,
+                  "name": "Arbaciidae",
+                  "commonName": "Arbaciidae",
+                  "rank": "family",
+                  "speciesCount": 1,
+                  "children": [
+                    {
+                      "id": 120869,
+                      "name": "Arbacia",
+                      "commonName": "Arbacia",
+                      "rank": "genus",
+                      "speciesCount": 1,
+                      "children": [
+                        {
+                          "id": 120866,
+                          "name": "Arbacia punctulata",
+                          "commonName": "Purple-brown Urchin",
+                          "rank": "species",
+                          "speciesCount": 1,
+                          "children": [
+                            {
+                              "id": 120866,
+                              "name": "Arbacia punctulata",
+                              "commonName": "Purple-brown Urchin",
+                              "rank": "species",
+                              "speciesCount": 1,
+                              "children": [],
+                              "slug": "purple-brown-urchin",
+                              "representativePhotoUrl": "https://static.inaturalist.org/photos/46856084/medium.jpg"
+                            }
+                          ],
+                          "slug": "purple-brown-urchin",
+                          "representativePhotoUrl": "https://static.inaturalist.org/photos/46856084/medium.jpg"
+                        }
+                      ],
+                      "slug": "arbacia",
+                      "description": "Arbacia is a genus of sea urchins characterized by their relatively small, rounded shells and distinctive spine patterns. These marine animals are bottom-dwellers that feed on algae and organic matter, playing an important role in marine ecosystems as both grazers and prey for fish and crabs.",
+                      "distinguishingFeatures": "Arbacia urchins have shorter, more uniform spines compared to many other sea urchin genera, and their shells typically display a distinctive pattern of tubercles (small bumps) arranged in regular rows.",
+                      "funFact": "The Purple-brown Urchin has been used extensively in biological research for over a century, particularly in studies of embryonic development, because their eggs are large and easy to observe under a microscope."
+                    }
+                  ],
+                  "slug": "arbaciidae",
+                  "description": "Arbaciidae is a family of sea urchins with sturdy, spherical shells covered in short spines. These marine animals live on rocky bottoms and in tide pools, using their spines and tube feet to move around and graze on algae and small organisms.",
+                  "distinguishingFeatures": "Members of this family have relatively thick, robust shells with uniformly distributed spines that are shorter and more club-shaped compared to other sea urchin families. Their shell plates are also more tightly fitted together, giving them a particularly solid appearance.",
+                  "funFact": "The purple sea urchin in this family can live for over 50 years and has five teeth that continuously grow throughout its life to replace what gets worn down from scraping algae off rocks."
+                }
+              ],
+              "slug": "arbacioida",
+              "description": "Arbacioida is an order of sea urchins characterized by their relatively simple test (shell) structure and distinctive spine arrangement. These echinoderms are typically small to medium-sized and live on rocky surfaces or in crevices along coastlines. They feed primarily on algae and small organic matter using their specialized feeding apparatus called Aristotle's lantern.",
+              "distinguishingFeatures": "Unlike many other sea urchin orders, Arbacioida have a relatively simple corona (test structure) with solid, non-perforated tubercles that support their spines. Their ambulacral plates are simple and compound, distinguishing them from more complex sea urchin groups.",
+              "funFact": "The single New England representative of this ancient order has remained virtually unchanged for millions of years, making it a living fossil that provides scientists with insights into early echinoderm evolution."
+            }
+          ],
+          "slug": "sea-urchins-sand-dollars-and-heart-urchins"
+        }
+      ],
+      "slug": "sea-urchins-and-sea-cucumbers"
+    }
+  ]
+}

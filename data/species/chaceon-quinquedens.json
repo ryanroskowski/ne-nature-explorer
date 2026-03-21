@@ -1,0 +1,146 @@
+{
+  "slug": "chaceon-quinquedens",
+  "taxonId": 459554,
+  "group": "crustaceans",
+  "commonName": "Red Deepsea Crab",
+  "scientificName": "Chaceon quinquedens",
+  "family": "Geryonidae",
+  "familyCommonName": "Geryonidae",
+  "genus": "Chaceon",
+  "genusCommonName": "Chaceon",
+  "order": "Decapoda",
+  "orderCommonName": "Decapods",
+  "breadcrumb": [
+    {
+      "label": "Crustaceans",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Arthropods",
+      "rank": "phylum",
+      "slug": "explore/arthropods"
+    },
+    {
+      "label": "Malacostracans",
+      "rank": "class",
+      "slug": "explore/malacostracans"
+    },
+    {
+      "label": "Decapods",
+      "rank": "order",
+      "slug": "explore/decapods"
+    },
+    {
+      "label": "Geryonidae",
+      "rank": "family",
+      "slug": "explore/geryonidae"
+    },
+    {
+      "label": "Chaceon",
+      "rank": "genus",
+      "slug": "explore/chaceon"
+    },
+    {
+      "label": "Red Deepsea Crab",
+      "rank": "species",
+      "slug": "species/chaceon-quinquedens"
+    }
+  ],
+  "observationCount": 2,
+  "abundanceTier": "uncommon",
+  "photos": [
+    {
+      "id": 243655826,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243655826/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243655826/large.jpg",
+      "attribution": "(c) Bgstevens, some rights reserved (CC BY-SA)",
+      "licenseCode": "cc-by-sa",
+      "observationUrl": "https://www.inaturalist.org/observations/45955400"
+    },
+    {
+      "id": 28225145,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28225145/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28225145/large.jpeg",
+      "attribution": "(c) Joe Kunkel, some rights reserved (CC BY-NC), uploaded by Joe Kunkel",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/45955401"
+    },
+    {
+      "id": 30280966,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30280966/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30280966/large.jpg",
+      "attribution": "(c) Gonzalo Mucientes Sandoval, some rights reserved (CC BY-NC), uploaded by Gonzalo Mucientes Sandoval",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/45955404"
+    },
+    {
+      "id": 27994032,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/27994032/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/27994032/large.jpeg",
+      "attribution": "(c) Joe Kunkel, some rights reserved (CC BY-NC), uploaded by Joe Kunkel",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/45955402"
+    },
+    {
+      "id": 30281009,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30281009/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30281009/large.jpeg",
+      "attribution": "(c) Gonzalo Mucientes Sandoval, some rights reserved (CC BY-NC), uploaded by Gonzalo Mucientes Sandoval",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/45955403"
+    },
+    {
+      "id": 65756276,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/65756276/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/65756276/large.jpg",
+      "attribution": "(c) hannahnor, some rights reserved (CC BY-NC)",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/41449200"
+    }
+  ],
+  "nameStory": "The Red Deepsea Crab gets its name from its brilliant reddish coloration and its preference for the deep waters of the continental shelf. While many shallow-water crabs are drab browns and greens for camouflage, this deep-dwelling species sports a striking red hue that helps it blend into the darker depths where red light doesn't penetrate.",
+  "description": "The Red Deepsea Crab is a large, robust crab with a distinctly reddish shell that lives in the deep waters off New England's coast. These impressive crustaceans can grow quite large, with their broad, oval-shaped shells reaching substantial sizes. They spend their lives hundreds of feet below the surface, making them a rare sight for most beachgoers. You're most likely to encounter one at a fish market or seafood restaurant, where they're prized for their sweet meat.",
+  "idTips": [
+    {
+      "label": "Reddish coloration",
+      "description": "The shell ranges from bright brick red to deep burgundy, often with orange tinges - much more vivid than the mottled browns and greens of shallow-water crabs",
+      "isPrimary": true
+    },
+    {
+      "label": "Broad, oval shell",
+      "description": "The carapace (shell) feels smooth and hard, wider than it is long, with gently rounded edges rather than sharp points",
+      "isPrimary": false
+    },
+    {
+      "label": "Large, robust claws",
+      "description": "Both claws are typically similar in size and feel heavy for their size, with thick, powerful-looking segments",
+      "isPrimary": false
+    },
+    {
+      "label": "Clean, unmarked shell",
+      "description": "Unlike shallow-water crabs often covered in algae or barnacles, deep-sea crabs have relatively clean shells that feel smooth to the touch",
+      "isPrimary": false
+    },
+    {
+      "label": "Substantial size",
+      "description": "These are impressively hefty crabs that feel dense and weighty when handled, much larger than most crabs found in tide pools",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "Red Deepsea Crabs live on muddy and sandy bottoms of the continental shelf and slope, typically 200-1,500 feet below the surface off New England's coast. They prefer the deeper, colder waters beyond the reach of most recreational divers, from the waters off North Carolina all the way up to Nova Scotia. You won't find these crabs in tide pools or shallow bays - they're strictly deep-water residents.",
+  "seasonality": {
+    "spring": "Commercial fishing boats may bring these crabs up from deep waters, making them more likely to appear in fish markets as the fishing season begins.",
+    "summer": "Peak fishing season means these deep-sea crabs are most commonly available at seafood markets and restaurants during summer months.",
+    "fall": "Continued availability at markets as commercial fishing continues, though these crabs live at consistent deep-water temperatures year-round.",
+    "winter": "Less commonly seen at markets due to harsh weather limiting deep-sea fishing, but the crabs remain active in their deep-water habitat where temperatures stay constant."
+  },
+  "funFact": "These crabs live in complete darkness at depths where the pressure is 20-50 times greater than at sea level - equivalent to having several elephants standing on every square inch of their shell!",
+  "confusionNotes": "At seafood markets, Red Deepsea Crabs might be confused with Jonah Crabs or Rock Crabs, but the deep-sea species are much redder and larger. Remember: if it's bright red and restaurant-sized, it probably came from the deep!",
+  "contextualKnowledge": "In seafood markets and restaurants, these crabs are often sold as 'Atlantic Red Crab' or simply 'Red Crab,' which can be confusing since there are other red-colored crab species. The 'deep-sea' part of their name is key - it tells you they're from far offshore waters, not the intertidal zone.",
+  "compareHints": "As the only Chaceon species in New England waters, Red Deepsea Crabs are most similar to other deep-water crabs in different families. They're much redder than most Jonah Crabs and significantly larger than Rock Crabs, with a smoother, more oval shell shape. Their deep-water origin means they lack the algae, barnacles, and wear patterns common on shallow-water crab species.",
+  "relatedSpecies": [],
+  "isNative": true,
+  "wikipediaUrl": "http://en.wikipedia.org/wiki/Chaceon_quinquedens",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/459554"
+}

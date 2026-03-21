@@ -1,0 +1,131 @@
+{
+  "slug": "clavaria-sphagnicola",
+  "taxonId": 989025,
+  "group": "fungi",
+  "commonName": "Clavaria sphagnicola",
+  "scientificName": "Clavaria sphagnicola",
+  "family": "Clavariaceae",
+  "familyCommonName": "antler and spindle fungi",
+  "genus": "Clavaria",
+  "genusCommonName": "Clavaria",
+  "order": "Agaricales",
+  "orderCommonName": "Common Gilled Mushrooms and Allies",
+  "breadcrumb": [
+    {
+      "label": "Fungi",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Basidiomycete Fungi",
+      "rank": "phylum",
+      "slug": "explore/basidiomycete-fungi"
+    },
+    {
+      "label": "Mushrooms, Bracket Fungi, Puffballs, and Allies",
+      "rank": "class",
+      "slug": "explore/mushrooms-bracket-fungi-puffballs-and-allies"
+    },
+    {
+      "label": "Common Gilled Mushrooms and Allies",
+      "rank": "order",
+      "slug": "explore/common-gilled-mushrooms-and-allies"
+    },
+    {
+      "label": "antler and spindle fungi",
+      "rank": "family",
+      "slug": "explore/antler-and-spindle-fungi"
+    },
+    {
+      "label": "Clavaria",
+      "rank": "genus",
+      "slug": "explore/clavaria"
+    },
+    {
+      "label": "Clavaria sphagnicola",
+      "rank": "species",
+      "slug": "species/clavaria-sphagnicola"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 445434986,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/445434986/medium.jpg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/445434986/large.jpg",
+      "attribution": "(c) Nicolas Schwab, some rights reserved (CC BY-NC), uploaded by Nicolas Schwab",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/98902500"
+    },
+    {
+      "id": 51388144,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51388144/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51388144/large.jpeg",
+      "attribution": "(c) Gennadiy Okatov, some rights reserved (CC BY-NC), uploaded by Gennadiy Okatov",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/98902501"
+    }
+  ],
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
+  "seasonality": {
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
+  },
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
+  "relatedSpecies": [
+    {
+      "slug": "clavaria-zollingeri",
+      "commonName": "violet coral fungus",
+      "scientificName": "Clavaria zollingeri",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/63133362/medium.jpg",
+      "distinction": "Violet coral stands out among its Clavaria relatives primarily due to its vivid purple color - most other species in this genus are white, yellow, or pinkish."
+    },
+    {
+      "slug": "clavaria-fragilis",
+      "commonName": "Fairy Fingers",
+      "scientificName": "Clavaria fragilis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6517/medium.jpg",
+      "distinction": "Unlike its colorful relatives like violet coral fungus (which is purple) or rose spindles (which are pink), fairy fingers are always white."
+    },
+    {
+      "slug": "clavaria-fumosa",
+      "commonName": "Smoky Spindles",
+      "scientificName": "Clavaria fumosa",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/26083403/medium.jpg",
+      "distinction": "Among its Clavaria relatives, Smoky Spindles stands out for its gray coloration – Fairy Fingers are white and more fragile, Rose Spindles are pinkish, and Violet Coral Fungus is purple and more branched."
+    },
+    {
+      "slug": "clavaria-rosea",
+      "commonName": "Rose Spindles",
+      "scientificName": "Clavaria rosea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/596754487/medium.jpg",
+      "distinction": "."
+    },
+    {
+      "slug": "clavaria-argillacea",
+      "commonName": "Moor Club",
+      "scientificName": "Clavaria argillacea",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/450096590/medium.jpeg",
+      "distinction": "undefined."
+    },
+    {
+      "slug": "clavaria-falcata",
+      "commonName": "Clavaria falcata",
+      "scientificName": "Clavaria falcata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14409705/medium.jpg",
+      "distinction": "undefined."
+    }
+  ],
+  "isNative": true,
+  "wikipediaUrl": null,
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/989025"
+}

@@ -1,0 +1,208 @@
+{
+  "slug": "cardamine-lyrata",
+  "taxonId": 817526,
+  "group": "plants",
+  "commonName": "Chinese Ivy",
+  "scientificName": "Cardamine lyrata",
+  "family": "Brassicaceae",
+  "familyCommonName": "mustard family",
+  "genus": "Cardamine",
+  "genusCommonName": "Bittercresses and Toothworts",
+  "order": "Brassicales",
+  "orderCommonName": "Mustards, Capers, and Allies",
+  "breadcrumb": [
+    {
+      "label": "Plants",
+      "rank": "kingdom",
+      "slug": "explore"
+    },
+    {
+      "label": "Vascular Plants",
+      "rank": "phylum",
+      "slug": "explore/vascular-plants"
+    },
+    {
+      "label": "Dicots",
+      "rank": "class",
+      "slug": "explore/dicots"
+    },
+    {
+      "label": "Mustards, Capers, and Allies",
+      "rank": "order",
+      "slug": "explore/mustards-capers-and-allies"
+    },
+    {
+      "label": "mustard family",
+      "rank": "family",
+      "slug": "explore/mustard-family"
+    },
+    {
+      "label": "Bittercresses and Toothworts",
+      "rank": "genus",
+      "slug": "explore/bittercresses-and-toothworts"
+    },
+    {
+      "label": "Chinese Ivy",
+      "rank": "species",
+      "slug": "species/cardamine-lyrata"
+    }
+  ],
+  "observationCount": 1,
+  "abundanceTier": "rare",
+  "photos": [
+    {
+      "id": 276932141,
+      "mediumUrl": "https://static.inaturalist.org/photos/276932141/medium.jpg",
+      "largeUrl": "https://static.inaturalist.org/photos/276932141/large.jpg",
+      "attribution": "(c) Shi Qi, all rights reserved, uploaded by Shi Qi",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/81752600"
+    },
+    {
+      "id": 127121416,
+      "mediumUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/127121416/medium.jpeg",
+      "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/127121416/large.jpeg",
+      "attribution": "(c) MP Zhou, some rights reserved (CC BY-NC), uploaded by MP Zhou",
+      "licenseCode": "cc-by-nc",
+      "observationUrl": "https://www.inaturalist.org/observations/81752601"
+    }
+  ],
+  "nameStory": "Chinese Ivy gets its name from its native homeland in eastern China, though it's also found in Siberia, Korea, and Japan. The \"ivy\" part comes from its ability to spread and trail like traditional ivy, even though it's actually a member of the mustard family, not related to true ivies at all!",
+  "description": "Chinese Ivy is an aquatic plant that thrives in cool, slow-moving water like marshes, ponds, and stream edges. This bushy, trailing plant can grow rapidly under the right conditions, creating dense mats of foliage. It's primarily known as an aquarium plant in New England, though it occasionally escapes cultivation. The plant produces small white flowers from May to June and can self-pollinate if insects don't visit.",
+  "idTips": [
+    {
+      "label": "Growth Habit",
+      "description": "Forms trailing, bushy mats that spread across water surfaces or grow submerged, with stems that feel soft and succulent when handled",
+      "isPrimary": true
+    },
+    {
+      "label": "Flowers",
+      "description": "Tiny white flowers typical of the mustard family, with four petals arranged in a cross shape, blooming from May through June",
+      "isPrimary": false
+    },
+    {
+      "label": "Leaves",
+      "description": "Small, rounded to oval leaves that feel tender and slightly fleshy, arranged alternately along the trailing stems",
+      "isPrimary": false
+    },
+    {
+      "label": "Habitat Preference",
+      "description": "Strictly aquatic, requiring cool water temperatures below 82°F and thriving in slow-moving or still water with good light",
+      "isPrimary": false
+    }
+  ],
+  "habitat": "In New England, Chinese Ivy is extremely rare in the wild, with only one recorded observation. When found, it would likely be in cool marshes, pond edges, or slow-moving streams where water temperatures remain moderate. It prefers areas with good sunlight penetration and may occasionally escape from aquarium or water garden cultivation.",
+  "seasonality": {
+    "spring": "New growth emerges and the plant begins its rapid growing season. White flowers appear in late spring, typically May.",
+    "summer": "Peak growing season with lush foliage formation. Flowers continue into early summer (June) and seeds develop through the season.",
+    "fall": "Seeds ripen and disperse through September. Growth slows as water temperatures cool, which the plant actually prefers.",
+    "winter": "In New England's climate, the plant likely dies back or goes dormant, unable to survive freezing temperatures."
+  },
+  "funFact": "This aquatic plant is so popular in the aquarium trade that fish keepers often have to trim it back weekly because it grows so fast - some fish actually help by nibbling on the leaves as a natural pruning service!",
+  "confusionNotes": "With only one recorded sighting in New England, confusion is unlikely, but it could be mistaken for other small aquatic plants. Look for the characteristic mustard family flowers (four petals in a cross) and the trailing, bushy growth habit in cool water to distinguish it from water cress or other aquatic plants.",
+  "contextualKnowledge": "Despite being called \"ivy,\" this plant is actually in the mustard family (Brassicaceae) and completely unrelated to true ivies (Hedera). The name is purely descriptive of its spreading growth habit. It's primarily known as an escaped aquarium plant rather than a naturalized wildflower in our region.",
+  "compareHints": "Chinese Ivy differs from other Cardamine species in New England by being strictly aquatic and having a trailing, mat-forming growth habit. Most of our native bittercresses and toothworts are terrestrial woodland or wetland edge plants that grow upright, while Chinese Ivy sprawls across water surfaces. Its aquatic lifestyle and bushy growth make it quite distinct from relatives like Two-leaved Toothwort or Pennsylvania Bittercress.",
+  "relatedSpecies": [
+    {
+      "slug": "cardamine-diphylla",
+      "commonName": "Two-leaved Toothwort",
+      "scientificName": "Cardamine diphylla",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/242366/medium.jpg",
+      "distinction": "Among New England's toothworts and bittercresses, two-leaved toothwort is unique for its simple three-parted leaves and paired leaf arrangement."
+    },
+    {
+      "slug": "cardamine-hirsuta",
+      "commonName": "hairy bittercress",
+      "scientificName": "Cardamine hirsuta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181993101/medium.jpg",
+      "distinction": "Among New England's bittercresses, hairy bittercress is distinguished by its small size, annual habit, and compound leaves with rounded leaflets."
+    },
+    {
+      "slug": "cardamine-impatiens",
+      "commonName": "narrow-leaved bittercress",
+      "scientificName": "Cardamine impatiens",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/133602090/medium.jpeg",
+      "distinction": "Among its bittercress relatives, narrow-leaved bittercress stands out for its particularly slender, lance-shaped leaflets—much narrower than the rounded leaflets of hairy bittercress or the broader segments of Pennsylvania bittercress."
+    },
+    {
+      "slug": "cardamine-pensylvanica",
+      "commonName": "Pennsylvania Bittercress",
+      "scientificName": "Cardamine pensylvanica",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7916320/medium.jpg",
+      "distinction": "Among New England's bittercresses, Pennsylvania bittercress stands out for its smooth leaves and taller stature."
+    },
+    {
+      "slug": "cardamine-concatenata",
+      "commonName": "cut-leaved toothwort",
+      "scientificName": "Cardamine concatenata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5903049/medium.jpg",
+      "distinction": "Among New England's toothworts, cut-leaved stands out with its three deeply-divided leaves arranged in a whorl, while two-leaved toothwort has just two broader, less-divided leaves."
+    },
+    {
+      "slug": "cardamine-pratensis",
+      "commonName": "Cuckooflower",
+      "scientificName": "Cardamine pratensis",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/601068973/medium.jpg",
+      "distinction": "Among its Cardamine relatives in New England, cuckooflower stands out for preferring wetter habitats than most bittercresses and toothworts."
+    },
+    {
+      "slug": "cardamine-bulbosa",
+      "commonName": "bulbous cress",
+      "scientificName": "Cardamine bulbosa",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119660081/medium.jpg",
+      "distinction": "Among its many Cardamine relatives in New England, bulbous cress stands out for its underground bulb and preference for very wet soils."
+    },
+    {
+      "slug": "cardamine-occulta",
+      "commonName": "Nursery bittercress",
+      "scientificName": "Cardamine occulta",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/226429622/medium.jpeg",
+      "distinction": "Among New England's bittercresses, nursery bittercress is distinguished by its completely smooth leaves and preference for disturbed garden soils."
+    },
+    {
+      "slug": "cardamine-maxima",
+      "commonName": "large toothwort",
+      "scientificName": "Cardamine maxima",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/71689285/medium.jpg",
+      "distinction": "Large toothwort differs from its close relative cut-leaved toothwort by having more finely divided, almost lacy leaflets and typically growing taller."
+    },
+    {
+      "slug": "cardamine-parviflora",
+      "commonName": "Sand Bittercress",
+      "scientificName": "Cardamine parviflora",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189984537/medium.jpeg",
+      "distinction": "Among its bittercress relatives, sand bittercress is distinguished by its preference for sandy, dry soils and its particularly small size."
+    },
+    {
+      "slug": "cardamine-bellidifolia",
+      "commonName": "alpine bittercress",
+      "scientificName": "Cardamine bellidifolia",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3365607/medium.jpg",
+      "distinction": "Alpine bittercress is dramatically different from its lowland Cardamine relatives in New England - while species like hairy bittercress and Pennsylvania bittercress are weedy annuals that pop up in gardens and disturbed areas, alpine bittercress is a specialized perennial that grows only in extreme mountain conditions."
+    },
+    {
+      "slug": "cardamine-longii",
+      "commonName": "Long's Bittercress",
+      "scientificName": "Cardamine longii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/312775302/medium.jpeg",
+      "distinction": "Long's Bittercress differs from its relatives by having the most finely divided leaves in the genus - almost thread-like compared to the broader leaflets of Two-leaved Toothwort or the simpler leaves of Hairy Bittercress."
+    },
+    {
+      "slug": "cardamine-douglassii",
+      "commonName": "Purple Cress",
+      "scientificName": "Cardamine douglassii",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17294221/medium.jpeg",
+      "distinction": "Among its Cardamine relatives in New England, Purple Cress is unique for its potential purple flower coloration - species like Two-leaved Toothwort and the various bittercresses typically stick to white or pale pink flowers."
+    },
+    {
+      "slug": "cardamine-dentata",
+      "commonName": "white cuckoo bitter-cress",
+      "scientificName": "Cardamine dentata",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/74252720/medium.jpeg",
+      "distinction": "Among the Cardamine genus in New England, white cuckoo bitter-cress has the most finely divided, feathery leaves - much more delicate than the broader leaflets of toothworts or the simpler leaves of other bitter-cresses."
+    }
+  ],
+  "isNative": false,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cardamine_lyrata",
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/817526"
+}
