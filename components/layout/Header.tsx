@@ -44,7 +44,7 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-50 bg-cream/95 backdrop-blur-sm border-b border-border" role="banner">
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="mx-auto px-4 sm:px-6 lg:px-10 xl:px-16">
         <div className="flex items-center justify-between h-14 sm:h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 group shrink-0" aria-label="NE Nature Explorer — Home">
@@ -57,7 +57,7 @@ export default function Header() {
           </Link>
 
           {/* Desktop Navigation */}
-          <nav aria-label="Main navigation" className="hidden md:flex items-center gap-1">
+          <nav aria-label="Main navigation" className="hidden md:flex items-center gap-1 lg:gap-2">
             {navItems.map((item) => {
               const isActive = pathname?.startsWith(item.href);
               return (

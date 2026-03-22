@@ -14,7 +14,7 @@ export default function LearnPage() {
   const articles = getContextualArticles();
 
   return (
-    <div className="max-w-4xl mx-auto px-4 sm:px-6 py-8">
+    <div className="max-w-5xl mx-auto px-4 sm:px-6 py-8">
       <Breadcrumbs
         items={[
           { label: "Home", rank: "page", slug: "" },

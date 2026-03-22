@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer className="border-t border-border mt-16 py-8" role="contentinfo">
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="flex flex-col items-center gap-3 text-sm text-text-secondary font-ui text-center sm:text-left">
           <div className="flex items-center gap-2">
             <span aria-hidden="true">🌲</span>

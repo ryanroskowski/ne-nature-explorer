@@ -62,7 +62,7 @@ export default function HomePage() {
             backgroundSize: "60px 60px",
           }} />
         </div>
-        <div className="relative max-w-4xl mx-auto px-4 sm:px-6 text-center">
+        <div className="relative max-w-5xl mx-auto px-4 sm:px-6 text-center">
           <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-4">
             Discover the Living World of New England
           </h1>
@@ -89,7 +89,7 @@ export default function HomePage() {
 
       {/* Stats bar */}
       <section className="bg-card border-b border-border py-4">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 flex items-center justify-center gap-4 sm:gap-8 text-xs sm:text-sm font-ui text-text-secondary">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-center gap-4 sm:gap-8 text-xs sm:text-sm font-ui text-text-secondary">
           <div className="text-center">
             <span className="block text-xl sm:text-2xl font-bold text-text-primary font-serif">
               {totalSpecies.toLocaleString()}
@@ -114,7 +114,7 @@ export default function HomePage() {
       </section>
 
       {/* Ways to Explore */}
-      <section className="max-w-4xl mx-auto px-4 sm:px-6 py-10">
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 py-10">
         <h2 className="font-serif text-2xl font-bold text-text-primary text-center mb-6">
           Ways to Explore
         </h2>
@@ -179,7 +179,7 @@ export default function HomePage() {
       </section>
 
       {/* Categories */}
-      <section className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 py-12">
         <h2 className="font-serif text-2xl font-bold text-text-primary text-center mb-8">
           What would you like to explore?
         </h2>
@@ -213,7 +213,7 @@ export default function HomePage() {
       </section>
 
       {/* Most Common Species */}
-      <section className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
         <div className="flex items-center justify-between mb-6">
           <h2 className="font-serif text-2xl font-bold text-text-primary">
             Most Common Species
@@ -244,7 +244,7 @@ export default function HomePage() {
 
       {/* Learn section */}
       {articles.length > 0 && (
-        <section className="max-w-4xl mx-auto px-4 sm:px-6 py-8">
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
           <div className="flex items-center justify-between mb-6">
             <h2 className="font-serif text-2xl font-bold text-text-primary">
               Good to Know
@@ -279,7 +279,7 @@ export default function HomePage() {
       )}
 
       {/* Call to action */}
-      <section className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
+      <section className="max-w-5xl mx-auto px-4 sm:px-6 py-12">
         <div className="bg-card border border-border rounded-2xl p-8 text-center">
           <h2 className="font-serif text-2xl font-bold text-text-primary mb-3">
             Ready to explore?

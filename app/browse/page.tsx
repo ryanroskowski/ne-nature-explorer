@@ -25,7 +25,7 @@ export default async function BrowsePage({
   const groupSuffix = group !== "plants" ? `?group=${group}` : "";
 
   return (
-    <div className="max-w-4xl mx-auto px-4 sm:px-6 py-8">
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
       <Breadcrumbs
         items={[
           { label: "Home", rank: "page", slug: "" },

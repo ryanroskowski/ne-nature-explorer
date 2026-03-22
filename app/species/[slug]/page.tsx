@@ -117,7 +117,7 @@ export default async function SpeciesPage({
   };
 
   return (
-    <article className="max-w-4xl mx-auto px-4 sm:px-6 pb-16">
+    <article className="max-w-5xl mx-auto px-4 sm:px-6 pb-16">
       {/* JSON-LD structured data */}
       <script
         type="application/ld+json"

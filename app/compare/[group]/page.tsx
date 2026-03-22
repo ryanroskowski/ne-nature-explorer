@@ -133,7 +133,7 @@ export default async function CompareGroupPage({
 
   if (!match || match.species.length < 2) {
     return (
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
         <Breadcrumbs
           items={[
             { label: "Compare", rank: "page", slug: "compare" },
@@ -178,7 +178,7 @@ export default async function CompareGroupPage({
   ];
 
   return (
-    <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
       <Breadcrumbs items={breadcrumbItems} />
 
       <header className="mb-8">

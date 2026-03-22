@@ -18,7 +18,7 @@ export default async function ExplorePage({
   const allTrees = getAllTaxonomyTrees();
 
   return (
-    <div className="max-w-4xl mx-auto px-4 sm:px-6 py-8">
+    <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
       <Breadcrumbs
         items={[
           { label: "Home", rank: "page", slug: "" },
