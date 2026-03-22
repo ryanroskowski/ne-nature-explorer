@@ -175,7 +175,7 @@ export default function SearchBar() {
           id={listboxId}
           role="listbox"
           aria-label="Search results"
-          className="absolute top-full left-0 right-0 mt-1 bg-card border border-border rounded-xl shadow-lg overflow-hidden z-50"
+          className="absolute top-full right-0 mt-1 bg-card border border-border rounded-xl shadow-lg overflow-hidden z-50 min-w-[320px]"
         >
           {results.map((entry, i) => (
             <button

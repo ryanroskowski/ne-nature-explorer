@@ -317,6 +317,23 @@ export default function NatureMap({ areas, speciesIndex }: NatureMapProps) {
         filters={filters}
         onFiltersChange={setFilters}
         totalAreas={filteredAreas.length}
+        areas={areas}
+        onSelectArea={(area) => {
+          selectArea(area);
+          const map = mapRef.current?.getMap();
+          if (map && area.bbox) {
+            map.fitBounds(
+              [[area.bbox[0], area.bbox[1]], [area.bbox[2], area.bbox[3]]],
+              { padding: 100, maxZoom: 15, duration: 1500 }
+            );
+          } else if (map && area.centroid) {
+            map.flyTo({
+              center: area.centroid as [number, number],
+              zoom: 14,
+              duration: 1500,
+            });
+          }
+        }}
       />
 
       {/* Map */}

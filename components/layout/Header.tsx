@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, useRef, useCallback } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { AnimatePresence, motion } from "framer-motion";
@@ -8,16 +8,39 @@ import SearchBar from "../ui/SearchBar";
 
 const navItems = [
   { href: "/explore", label: "Explore", icon: "🌳" },
-  { href: "/browse", label: "Browse", icon: "🔍" },
+  { href: "/browse", label: "Browse", icon: "📋" },
   { href: "/map", label: "Map", icon: "🗺️" },
-  { href: "/compare", label: "Compare", icon: "🔄" },
-  { href: "/common", label: "Common", icon: "⭐" },
+  { href: "/compare", label: "Compare", icon: "⚖️" },
+  { href: "/common", label: "Common", icon: "🏆" },
   { href: "/learn", label: "Learn", icon: "📖" },
 ];
 
 export default function Header() {
   const pathname = usePathname();
-  const [mobileSearchOpen, setMobileSearchOpen] = useState(false);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [menuAnimating, setMenuAnimating] = useState(false);
+  const menuRef = useRef<HTMLDivElement>(null);
+
+  // Close mobile menu on route change
+  useEffect(() => {
+    setMobileMenuOpen(false);
+  }, [pathname]);
+
+  const handleAnimationComplete = useCallback(() => {
+    setMenuAnimating(false);
+  }, []);
+
+  // Close mobile menu on click outside
+  useEffect(() => {
+    if (!mobileMenuOpen) return;
+    function handleClick(e: MouseEvent) {
+      if (menuRef.current && !menuRef.current.contains(e.target as Node)) {
+        setMobileMenuOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClick);
+    return () => document.removeEventListener("mousedown", handleClick);
+  }, [mobileMenuOpen]);
 
   return (
     <header className="sticky top-0 z-50 bg-cream/95 backdrop-blur-sm border-b border-border" role="banner">
@@ -33,8 +56,8 @@ export default function Header() {
             </span>
           </Link>
 
-          {/* Navigation */}
-          <nav aria-label="Main navigation" className="flex items-center gap-0.5 sm:gap-2">
+          {/* Desktop Navigation */}
+          <nav aria-label="Main navigation" className="hidden md:flex items-center gap-1">
             {navItems.map((item) => {
               const isActive = pathname?.startsWith(item.href);
               return (
@@ -42,15 +65,13 @@ export default function Header() {
                   key={item.href}
                   href={item.href}
                   aria-current={isActive ? "page" : undefined}
-                  className={`px-2 sm:px-3 py-1.5 rounded-lg text-sm font-ui font-medium transition-colors ${
+                  className={`px-3 py-1.5 rounded-lg text-sm font-ui font-medium transition-colors ${
                     isActive
                       ? "bg-forest text-white"
                       : "text-text-secondary hover:text-text-primary hover:bg-cream-dark"
                   }`}
                 >
-                  <span className="sm:hidden" aria-hidden="true">{item.icon}</span>
-                  <span className="hidden sm:inline">{item.label}</span>
-                  <span className="sr-only sm:hidden">{item.label}</span>
+                  {item.label}
                 </Link>
               );
             })}
@@ -61,41 +82,66 @@ export default function Header() {
             <SearchBar />
           </div>
 
-          {/* Mobile search toggle */}
-          <button
-            onClick={() => setMobileSearchOpen(!mobileSearchOpen)}
-            className="md:hidden p-2 text-text-secondary hover:text-text-primary transition-colors"
-            aria-label={mobileSearchOpen ? "Close search" : "Open search"}
-            aria-expanded={mobileSearchOpen}
-          >
-            {mobileSearchOpen ? (
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-              </svg>
-            ) : (
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-              </svg>
-            )}
-          </button>
+          {/* Mobile: search + hamburger */}
+          <div className="flex md:hidden items-center gap-1">
+            <button
+              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+              className="p-2 text-text-secondary hover:text-text-primary transition-colors"
+              aria-label={mobileMenuOpen ? "Close menu" : "Open menu"}
+              aria-expanded={mobileMenuOpen}
+            >
+              {mobileMenuOpen ? (
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              ) : (
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+              )}
+            </button>
+          </div>
         </div>
       </div>
 
-      {/* Mobile search dropdown */}
+      {/* Mobile menu dropdown */}
       <AnimatePresence>
-        {mobileSearchOpen && (
+        {mobileMenuOpen && (
           <motion.div
+            ref={menuRef}
             initial={{ height: 0, opacity: 0 }}
             animate={{ height: "auto", opacity: 1 }}
             exit={{ height: 0, opacity: 0 }}
-            transition={{ duration: 0.15 }}
-            className="md:hidden overflow-hidden border-t border-border"
-            role="search"
-            aria-label="Site search"
+            transition={{ duration: 0.2 }}
+            onAnimationStart={() => setMenuAnimating(true)}
+            onAnimationComplete={handleAnimationComplete}
+            className={`md:hidden border-t border-border bg-cream ${menuAnimating ? "overflow-hidden" : "overflow-visible"}`}
           >
-            <div className="px-4 py-3 bg-cream">
-              <SearchBar />
-            </div>
+            <nav aria-label="Mobile navigation" className="px-4 py-3">
+              <div className="space-y-1">
+                {navItems.map((item) => {
+                  const isActive = pathname?.startsWith(item.href);
+                  return (
+                    <Link
+                      key={item.href}
+                      href={item.href}
+                      aria-current={isActive ? "page" : undefined}
+                      className={`flex items-center gap-3 px-3 py-2.5 rounded-lg text-base font-ui font-medium transition-colors ${
+                        isActive
+                          ? "bg-forest text-white"
+                          : "text-text-secondary hover:text-text-primary hover:bg-cream-dark"
+                      }`}
+                    >
+                      <span aria-hidden="true" className="text-lg">{item.icon}</span>
+                      {item.label}
+                    </Link>
+                  );
+                })}
+              </div>
+              <div className="mt-3 pt-3 border-t border-border" role="search" aria-label="Site search">
+                <SearchBar />
+              </div>
+            </nav>
           </motion.div>
         )}
       </AnimatePresence>
