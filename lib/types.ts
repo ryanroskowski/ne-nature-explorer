@@ -153,11 +153,34 @@ export interface ContextualArticle {
   relatedSpeciesSlugs: string[];
 }
 
-export interface ArticleBlock {
-  type: "intro" | "section" | "tip";
-  heading?: string;
-  text: string;
-}
+export type ArticleBlock =
+  | { type: "intro"; text: string }
+  | { type: "section"; heading?: string; text: string }
+  | { type: "tip"; text: string }
+  | {
+      type: "audio";
+      heading?: string;
+      description?: string;
+      audioUrl: string;
+      attribution?: string;
+    }
+  | {
+      type: "image";
+      url: string;
+      alt?: string;
+      caption?: string;
+      attribution?: string;
+    }
+  | {
+      type: "image-grid";
+      images: {
+        url: string;
+        alt?: string;
+        caption?: string;
+        attribution?: string;
+      }[];
+      caption?: string;
+    };
 
 // ============================================================
 // Trait classification (from AI pipeline Stage 6)

@@ -100,6 +100,95 @@ export default async function LearnArticlePage({
             );
           }
 
+          if (block.type === "image") {
+            return (
+              <figure key={i} className="my-2">
+                <div className="relative w-full overflow-hidden rounded-xl border border-border bg-cream-dark">
+                  <Image
+                    src={block.url}
+                    alt={block.alt || ""}
+                    width={800}
+                    height={500}
+                    className="w-full h-auto object-cover"
+                    sizes="(max-width: 768px) 100vw, 800px"
+                    placeholder="blur"
+                    blurDataURL={blurDataURL}
+                    unoptimized
+                  />
+                </div>
+                {(block.caption || block.attribution) && (
+                  <figcaption className="mt-2 text-xs text-text-muted text-center">
+                    {block.caption && (
+                      <span className="text-text-secondary font-medium">
+                        {block.caption}
+                      </span>
+                    )}
+                    {block.caption && block.attribution && " — "}
+                    {block.attribution && <span>{block.attribution}</span>}
+                  </figcaption>
+                )}
+              </figure>
+            );
+          }
+
+          if (block.type === "image-grid") {
+            return (
+              <figure key={i} className="my-2">
+                <div
+                  className={`grid gap-3 ${
+                    block.images.length === 2
+                      ? "grid-cols-2"
+                      : block.images.length === 3
+                        ? "grid-cols-2 sm:grid-cols-3"
+                        : "grid-cols-2"
+                  }`}
+                >
+                  {block.images.map(
+                    (
+                      img: {
+                        url: string;
+                        alt?: string;
+                        caption?: string;
+                        attribution?: string;
+                      },
+                      j: number,
+                    ) => (
+                      <div key={j} className="flex flex-col">
+                        <div className="relative w-full aspect-square overflow-hidden rounded-xl border border-border bg-cream-dark">
+                          <Image
+                            src={img.url}
+                            alt={img.alt || ""}
+                            fill
+                            className="object-cover"
+                            sizes="(max-width: 768px) 50vw, 400px"
+                            placeholder="blur"
+                            blurDataURL={blurDataURL}
+                            unoptimized
+                          />
+                        </div>
+                        {img.caption && (
+                          <p className="mt-1.5 text-xs text-text-secondary text-center font-medium">
+                            {img.caption}
+                          </p>
+                        )}
+                        {img.attribution && (
+                          <p className="text-[10px] text-text-muted text-center">
+                            {img.attribution}
+                          </p>
+                        )}
+                      </div>
+                    ),
+                  )}
+                </div>
+                {block.caption && (
+                  <figcaption className="mt-2 text-xs text-text-secondary text-center font-medium">
+                    {block.caption}
+                  </figcaption>
+                )}
+              </figure>
+            );
+          }
+
           if (block.type === "audio") {
             return (
               <div

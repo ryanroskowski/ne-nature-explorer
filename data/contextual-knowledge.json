@@ -20,9 +20,23 @@
         "text": "Juniperus virginiana is our most common \"cedar.\" It's actually a juniper — the same genus that gives us juniper berries (used to flavor gin). You can tell by its blue-gray berry-like cones and its two types of leaves: sharp juvenile needles and flat, scale-like adult leaves. It thrives in abandoned fields and along fence rows."
       },
       {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160667498/medium.jpeg",
+        "alt": "Eastern red cedar (Juniperus virginiana) — actually a juniper, not a cedar at all",
+        "caption": "Eastern red cedar (Juniperus virginiana) — actually a juniper, not a cedar at all",
+        "attribution": "(c) i-am-tommy, some rights reserved (CC BY-NC)"
+      },
+      {
         "type": "section",
         "heading": "Atlantic White Cedar — A False Cypress",
         "text": "Chamaecyparis thyoides belongs to the false cypress genus. Found in swampy, boggy areas along the coast, it has tiny scale-like leaves pressed flat against its branchlets. Its wood is famously rot-resistant, which is why early colonists used it for shingles, boats, and fence posts."
+      },
+      {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88609715/medium.jpeg",
+        "alt": "Atlantic white cedar (Chamaecyparis thyoides) — restricted to coastal swamps",
+        "caption": "Atlantic white cedar (Chamaecyparis thyoides) — restricted to coastal swamps",
+        "attribution": "(c) Patrick Sweeney, some rights reserved (CC BY-NC)"
       },
       {
         "type": "section",
@@ -30,16 +44,51 @@
         "text": "Thuja occidentalis is an arborvitae (meaning \"tree of life\" — it reportedly saved Jacques Cartier's crew from scurvy in 1536). It has flat, fan-like sprays of scale leaves and is often planted as a hedge. In the wild, it loves wet, limy soils and rocky shorelines."
       },
       {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/258974756/medium.jpeg",
+        "alt": "Northern white-cedar (Thuja occidentalis) — flat, fan-like sprays of scale leaves",
+        "caption": "Northern white-cedar (Thuja occidentalis) — flat, fan-like sprays of scale leaves",
+        "attribution": "(c) Tom Norton, some rights reserved (CC BY)"
+      },
+      {
         "type": "section",
         "heading": "Why the Confusion?",
         "text": "Early European settlers in North America encountered aromatic, rot-resistant softwoods and called them \"cedar\" because they reminded them of the cedars they knew from the Old World. The name stuck, even though these trees are in completely different genera and even different families."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160667498/medium.jpeg",
+            "caption": "eastern redcedar",
+            "alt": "eastern redcedar",
+            "attribution": "(c) i-am-tommy, some rights reserved (CC BY-NC)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88609715/medium.jpeg",
+            "caption": "Atlantic white cedar",
+            "alt": "Atlantic white cedar",
+            "attribution": "(c) Patrick Sweeney, some rights reserved (CC BY-NC)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/258974756/medium.jpeg",
+            "caption": "northern whitecedar",
+            "alt": "northern whitecedar",
+            "attribution": "(c) Tom Norton, some rights reserved (CC BY)"
+          }
+        ],
+        "caption": "All three 'cedars' side by side — none are true cedars (Cedrus)"
       },
       {
         "type": "tip",
         "text": "Quick way to remember: If a tree is called \"cedar\" in New England, it's NOT a true cedar. Eastern Red Cedar = juniper. White Cedar = either arborvitae or false cypress. True cedars (Cedrus) are only found in gardens and parks here."
       }
     ],
-    "relatedSpeciesSlugs": ["juniperus-virginiana", "chamaecyparis-thyoides", "thuja-occidentalis"]
+    "relatedSpeciesSlugs": [
+      "juniperus-virginiana",
+      "chamaecyparis-thyoides",
+      "thuja-occidentalis"
+    ]
   },
   {
     "slug": "hemlock-tree-vs-poison",
@@ -57,9 +106,23 @@
         "text": "Eastern Hemlock is a beautiful, shade-tolerant evergreen conifer in the pine family. It has short, flat needles with two white stripes underneath and tiny oval cones. It's one of the most important trees in New England's forests, creating cool, shady ravines that support unique ecosystems. You can even make tea from its needles — they're rich in vitamin C."
       },
       {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490825429/medium.jpeg",
+        "alt": "Eastern hemlock (Tsuga canadensis) — graceful evergreen conifer",
+        "caption": "Eastern hemlock (Tsuga canadensis) — graceful evergreen conifer",
+        "attribution": "(c) Joel Stave, some rights reserved (CC BY-NC)"
+      },
+      {
         "type": "section",
         "heading": "The Poison: Poison Hemlock (Conium maculatum)",
         "text": "Poison hemlock is a flowering plant in the carrot family (Apiaceae) — the same family as parsley, carrots, and Queen Anne's lace. It's a tall herb with white umbrella-shaped flower clusters and purple-spotted hollow stems. This is the plant that killed Socrates. It contains coniine, a powerful neurotoxin."
+      },
+      {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18903791/medium.jpg",
+        "alt": "Poison hemlock (Conium maculatum) — deadly flowering plant with purple-spotted stems",
+        "caption": "Poison hemlock (Conium maculatum) — deadly flowering plant with purple-spotted stems",
+        "attribution": "(c) Kate Bullock, some rights reserved (CC BY-NC), uploaded by Kate Bullock"
       },
       {
         "type": "section",
@@ -71,7 +134,10 @@
         "text": "Bottom line: Hemlock trees are safe. They're big, evergreen conifers with needles and cones. Poison hemlock is a weedy herb with white flowers and spotted stems. If it has needles, it's the tree — and it's harmless."
       }
     ],
-    "relatedSpeciesSlugs": ["tsuga-canadensis", "tsuga-caroliniana"]
+    "relatedSpeciesSlugs": [
+      "tsuga-canadensis",
+      "tsuga-caroliniana"
+    ]
   },
   {
     "slug": "conifer-families",
@@ -89,9 +155,75 @@
         "text": "This is the big one. It includes pines, spruces, firs, hemlocks, larches, and Douglas-fir. The key feature: they all have needles (not scales) and their cones have woody scales arranged in a spiral. Pine needles come in bundles of 2, 3, or 5. Spruce needles are sharp and square in cross-section. Fir needles are flat and soft. Hemlock needles are short with white stripes underneath."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86806325/medium.jpeg",
+            "caption": "eastern white pine",
+            "alt": "eastern white pine",
+            "attribution": "(c) Tyler Ekholm, some rights reserved (CC BY), uploaded by Tyler Ekholm"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464914892/medium.jpeg",
+            "caption": "red pine",
+            "alt": "red pine",
+            "attribution": "(c) Tom Norton, some rights reserved (CC BY)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423364153/medium.jpeg",
+            "caption": "red spruce",
+            "alt": "red spruce",
+            "attribution": "(c) Robert Wernerehl, some rights reserved (CC BY-NC-SA)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/125412932/medium.jpg",
+            "caption": "eastern hemlock",
+            "alt": "eastern hemlock",
+            "attribution": "(c) Rachel V, some rights reserved (CC BY-NC)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8972302/medium.jpeg",
+            "caption": "balsam fir",
+            "alt": "balsam fir",
+            "attribution": "(c) cgbb2004, some rights reserved (CC BY-NC)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586467314/medium.jpg",
+            "caption": "tamarack",
+            "alt": "tamarack",
+            "attribution": "(c) Tom Scavo, some rights reserved (CC BY)"
+          }
+        ],
+        "caption": "Pine family: white pine, red pine, red spruce, hemlock, balsam fir, tamarack"
+      },
+      {
         "type": "section",
         "heading": "Cypress Family (Cupressaceae) — 7 Species",
         "text": "This family includes junipers, arborvitae, Atlantic white cedar, baldcypress, and dawn redwood. Most members have tiny scale-like leaves pressed flat against their branchlets (not needles). Junipers are the exception — they can have both sharp needles and scales. Their cones are often small and berry-like (especially in junipers) rather than the classic woody pine cone shape."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/258974756/medium.jpeg",
+            "caption": "northern whitecedar",
+            "alt": "northern whitecedar",
+            "attribution": "(c) Tom Norton, some rights reserved (CC BY)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160667498/medium.jpeg",
+            "caption": "eastern redcedar",
+            "alt": "eastern redcedar",
+            "attribution": "(c) i-am-tommy, some rights reserved (CC BY-NC)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88609715/medium.jpeg",
+            "caption": "Atlantic white cedar",
+            "alt": "Atlantic white cedar",
+            "attribution": "(c) Patrick Sweeney, some rights reserved (CC BY-NC)"
+          }
+        ],
+        "caption": "Cypress family: northern white-cedar, eastern red cedar, Atlantic white cedar"
       },
       {
         "type": "section",
@@ -103,7 +235,11 @@
         "text": "Three-step conifer ID: (1) Scale-like leaves? → Cypress family. (2) Red berry-like fruits? → Yew family. (3) Needles with woody cones? → Pine family."
       }
     ],
-    "relatedSpeciesSlugs": ["pinus-strobus", "juniperus-virginiana", "taxus-canadensis"]
+    "relatedSpeciesSlugs": [
+      "pinus-strobus",
+      "juniperus-virginiana",
+      "taxus-canadensis"
+    ]
   },
   {
     "slug": "evolutionary-timeline",
@@ -246,6 +382,30 @@
         "text": "If a tree's bark is peeling off in thin sheets, curls, or strips, you've immediately narrowed your options to a small group. Paper birch (Betula papyrifera) is the iconic peeler — brilliant white bark that curls away in papery horizontal strips, revealing orange-tan inner bark beneath. No other New England tree has this stark white, peeling bark. Yellow birch (Betula alleghaniensis) peels in thin, coppery-bronze to yellowish horizontal curls. The bark has a distinctive wintergreen smell if you scratch a young twig — this is a reliable field test even in deep winter. River birch (Betula nigra) peels in ragged, salmon-pink to reddish-brown sheets, giving the trunk a shaggy appearance. It's the only birch that naturally grows in floodplains and along riverbanks. Sycamore (Platanus occidentalis) has the most dramatic peeling bark of any tree. The outer bark flakes off in large irregular patches, revealing a mosaic of white, cream, olive, and tan. Mature sycamores look almost painted. The white upper trunk and branches are visible from a great distance in winter — if you see ghostly white limbs along a river, it's a sycamore."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11526723/medium.jpeg",
+            "caption": "paper birch",
+            "alt": "paper birch",
+            "attribution": "(c) Joanne Muis, some rights reserved (CC BY-NC), uploaded by Joanne Muis"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116616664/medium.jpg",
+            "caption": "yellow birch",
+            "alt": "yellow birch",
+            "attribution": "(c) pamdarrow, some rights reserved (CC BY-NC-SA), uploaded by pamdarrow"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3188379/medium.jpg",
+            "caption": "sweet birch",
+            "alt": "sweet birch",
+            "attribution": "(c) Rob Curtis, some rights reserved (CC BY-NC-SA), uploaded by Rob Curtis"
+          }
+        ],
+        "caption": "Birch bark: paper-white peeling, golden curls, dark cherry-like plates"
+      },
+      {
         "type": "section",
         "heading": "Shaggy and Plated Bark",
         "text": "Shagbark hickory (Carya ovata) is unmistakable. The bark splits into long, thick, vertical plates that curl away from the trunk at both ends, giving the tree a wonderfully shaggy appearance — like a tree wearing armor that's coming loose. No other common New England tree looks quite like this. Run your hand along it and the plates feel solid and woody, not papery like birch. Shellbark hickory (Carya laciniosa) is similar but even shaggier, with broader plates. It's much less common than shagbark and favors bottomlands and river floodplains. Black locust (Robinia pseudoacacia) has bark that splits into thick, fibrous, interwoven ridges that create a distinctly ropy texture. The ridges twist and cross each other in a pattern that looks almost braided. If you find a tree with this deeply furrowed, ropy bark and sharp thorns on younger branches, it's black locust."
@@ -256,14 +416,74 @@
         "text": "American beech (Fagus grandifolia) keeps its smooth, pale gray bark throughout its life — even centuries-old beeches remain remarkably unblemished. The bark looks almost like elephant skin: tight, unbroken, silvery-gray. This smoothness is why people have carved initials into beech trees for centuries (please don't — the wounds invite disease). Beech is the only large New England hardwood that stays truly smooth into maturity. Musclewood (Carpinus caroliniana) — also called blue beech or ironwood — has smooth, blue-gray bark with distinctive sinuous ridges that look like muscles or tendons flexing beneath the surface. It's a small understory tree, rarely more than 30 feet tall, and once you see the muscular trunk, you'll never forget it. Young red maples and sugar maples also have smooth, light gray bark, but they lose this smoothness with age. A smooth-barked, medium-sized tree in a New England forest is often a young maple — check for the opposite branching pattern (branches emerge in pairs on opposite sides of the twig) to confirm."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430844101/medium.jpeg",
+            "caption": "American beech",
+            "alt": "American beech",
+            "attribution": "(c) Deana Tempest Thomas, some rights reserved (CC BY)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13770408/medium.jpeg",
+            "caption": "sugar maple",
+            "alt": "sugar maple",
+            "attribution": "(c) emiliarb, some rights reserved (CC BY-NC), uploaded by emiliarb"
+          }
+        ],
+        "caption": "Smooth bark: elephant-gray beech vs. sugar maple"
+      },
+      {
         "type": "section",
         "heading": "Furrowed Bark: Deep Ridges and Valleys",
         "text": "This is the largest category and requires the most attention to detail, since many trees develop furrowed bark with age. The key is to look at the specific pattern of the ridges. White oak (Quercus alba) has light gray bark broken into loose, blocky, vertical strips that often appear slightly flaky or shaggy. The overall color is notably pale compared to other oaks. Red oak (Quercus rubra) develops dark gray-brown bark with broad, flat-topped ridges separated by shallow furrows. A classic field mark: look for \"ski trails\" — smooth, shiny strips running vertically down the trunk between the ridges. These are especially visible on young to middle-aged trees. Black oak (Quercus velutina) has very dark, almost black bark on older trees, with deep, blocky furrows. If you cut or scrape the inner bark, it's distinctly yellow-orange — this is the most definitive test for black oak, though it does wound the tree. White ash (Fraxinus americana) has bark that forms a distinctive tight diamond pattern — narrow, interlocking ridges that create a neat lattice of diamond-shaped furrows. This pattern is remarkably consistent and is one of the easiest bark IDs in the winter forest. Tulip tree (Liriodendron tulipifera) develops deep, interlocking ridges on mature trees, but the key is the overall silvery-white color between the dark furrows, creating a striking contrast. Young tulip trees have smooth, pale greenish-gray bark."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33756162/medium.jpeg",
+            "caption": "northern red oak",
+            "alt": "northern red oak",
+            "attribution": "(c) Tom Norton, some rights reserved (CC BY)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5282085/medium.jpg",
+            "caption": "white oak",
+            "alt": "white oak",
+            "attribution": "(c) theresa_golub, some rights reserved (CC BY-NC)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11496413/medium.jpeg",
+            "caption": "white ash",
+            "alt": "white ash",
+            "attribution": "(c) Donald F. Recklies, some rights reserved (CC BY-NC), uploaded by Donald F. Recklies"
+          }
+        ],
+        "caption": "Deep-furrowed bark: red oak, white oak, white ash"
+      },
+      {
         "type": "section",
         "heading": "Plated and Blocky Bark",
         "text": "Black cherry (Prunus serotina) is one of the easiest trees to learn. Young trees have smooth, reddish-brown bark with prominent horizontal lines called lenticels — pores that allow gas exchange. As the tree matures, the bark transforms into distinctive dark, flaky plates that curl at the edges, often described as looking like burnt cornflakes or potato chips. This \"burnt cornflake\" pattern is unique to black cherry. Sassafras (Sassafras albidum) has deeply furrowed, reddish-brown bark on mature trees. It can resemble red oak bark, but sassafras trees tend to be smaller, and if you scratch a twig, the spicy, root-beer-like scent is unmistakable — even in winter. Black tupelo (Nyssa sylvatica) — also called black gum — develops a distinctive blocky, almost alligator-skin bark pattern on mature trees. The thick, squarish blocks are separated by deep furrows, creating one of the most regular geometric patterns of any New England tree. Hackberry (Celtis occidentalis) has a unique bark pattern: smooth gray bark studded with corky, wart-like ridges and bumps. No other tree has quite this bumpy, irregular texture. It's most prominent on the trunk and lower branches."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/74554053/medium.jpg",
+            "caption": "black cherry",
+            "alt": "black cherry",
+            "attribution": "(c) John Brandauer, some rights reserved (CC BY-NC-ND)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245220939/medium.jpeg",
+            "caption": "eastern white pine",
+            "alt": "eastern white pine",
+            "attribution": "(c) Jack Cadwell, some rights reserved (CC BY-NC), uploaded by Jack Cadwell"
+          }
+        ],
+        "caption": "Plated bark: black cherry vs. eastern white pine"
       },
       {
         "type": "section",
@@ -274,6 +494,30 @@
         "type": "section",
         "heading": "Evergreen Bark: The Conifers",
         "text": "Conifers keep their needles in winter, so you might think bark ID is unnecessary. But bark is still useful for distant identification and for fallen logs. Eastern white pine (Pinus strobus) has dark, deeply furrowed bark on mature trees with broad, flat-topped ridges. Young trees have smoother, grayish-green bark. The bark of old-growth white pines can develop wide, irregular plates with a purplish-brown tint. Red pine (Pinus resinosa) has bark that separates into broad, flat, reddish-brown plates — almost like a jigsaw puzzle. The pinkish-red color of the flaky plates is distinctive and gives the tree its common name. Eastern hemlock (Tsuga canadensis) has bark with a warm, cinnamon-brown to reddish-brown color and broad, flat ridges. On mature trees, the bark is deeply furrowed with scaly ridges. The rich brown color contrasts sharply with the dark green foliage."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245220939/medium.jpeg",
+            "caption": "eastern white pine",
+            "alt": "eastern white pine",
+            "attribution": "(c) Jack Cadwell, some rights reserved (CC BY-NC), uploaded by Jack Cadwell"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58391221/medium.jpg",
+            "caption": "eastern hemlock",
+            "alt": "eastern hemlock",
+            "attribution": "(c) Erika Mitchell, some rights reserved (CC BY-NC)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423364013/medium.jpeg",
+            "caption": "red spruce",
+            "alt": "red spruce",
+            "attribution": "(c) Robert Wernerehl, some rights reserved (CC BY-NC-SA)"
+          }
+        ],
+        "caption": "Conifer bark: white pine, hemlock, red spruce"
       },
       {
         "type": "section",
@@ -289,6 +533,42 @@
         "type": "section",
         "heading": "A Starter Set: Five Barks to Learn First",
         "text": "If you're new to bark identification, start with five trees that are common, distinctive, and hard to confuse with anything else. First: American beech — the only large tree with smooth, silver-gray bark. Second: paper birch — bright white, peeling in horizontal sheets. Third: shagbark hickory — long, shaggy vertical plates curling away from the trunk. Fourth: black cherry — smooth reddish-brown with horizontal lenticels when young, burnt cornflake plates when mature. Fifth: white ash — tight diamond lattice pattern. Once you can reliably identify these five, you'll have anchor points that make learning the rest much faster."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11526723/medium.jpeg",
+            "caption": "paper birch",
+            "alt": "paper birch",
+            "attribution": "(c) Joanne Muis, some rights reserved (CC BY-NC), uploaded by Joanne Muis"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430844101/medium.jpeg",
+            "caption": "American beech",
+            "alt": "American beech",
+            "attribution": "(c) Deana Tempest Thomas, some rights reserved (CC BY)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33756162/medium.jpeg",
+            "caption": "northern red oak",
+            "alt": "northern red oak",
+            "attribution": "(c) Tom Norton, some rights reserved (CC BY)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102212771/medium.jpeg",
+            "caption": "shagbark hickory",
+            "alt": "shagbark hickory",
+            "attribution": "(c) Chuck Thomas, some rights reserved (CC BY-NC), uploaded by Chuck Thomas"
+          },
+          {
+            "url": "https://static.inaturalist.org/photos/58271768/medium.jpg",
+            "caption": "American sycamore",
+            "alt": "American sycamore",
+            "attribution": "(c) Aiden Dartley, all rights reserved, uploaded by Aiden Dartley"
+          }
+        ],
+        "caption": "Your starter set: paper birch, beech, red oak, shagbark hickory, sycamore"
       },
       {
         "type": "tip",
@@ -354,6 +634,30 @@
         "text": "Some New England species are genuinely ambiguous, and learning to recognize them is part of becoming a better naturalist. Witch hazel (Hamamelis virginiana) is the classic borderline case. It typically grows as a multi-stemmed large shrub, 15 to 20 feet tall, spreading widely in the forest understory. But occasionally you'll find one with a single trunk reaching 25 to 30 feet — distinctly tree-like. Most field guides call it a shrub, but some list it as a small tree. Serviceberry (Amelanchier) is a genus with species ranging from definite shrubs to definite trees. Running serviceberry (A. stolonifera) is a low, suckering shrub rarely over 5 feet. Downy serviceberry (A. arborea) grows to 40 feet with a single trunk — firmly a tree. Smooth serviceberry (A. laevis) and Canadian serviceberry (A. canadensis) fall right in the middle, routinely appearing as either multi-stemmed large shrubs or small single-trunked trees. Flowering dogwood (Cornus florida) is universally called a tree, but it's typically only 15 to 25 feet tall with a spreading, horizontal branching pattern. Alternate-leaf dogwood (Cornus alternifolia) is similar in size but often multi-stemmed. Meanwhile, red-osier dogwood (Cornus sericea) and silky dogwood (Cornus amomum) are firmly shrubs — dense, multi-stemmed thickets rarely exceeding 10 feet."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41409280/medium.jpeg",
+            "caption": "flowering dogwood",
+            "alt": "flowering dogwood",
+            "attribution": "(c) Casey Dodson, some rights reserved (CC BY-NC), uploaded by Casey Dodson"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/276721505/medium.jpeg",
+            "caption": "Canadian serviceberry",
+            "alt": "Canadian serviceberry",
+            "attribution": "(c) Karro Frost, some rights reserved (CC BY-NC)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172913838/medium.jpg",
+            "caption": "American hornbeam",
+            "alt": "American hornbeam",
+            "attribution": "(c) Rochelle Davis, some rights reserved (CC BY)"
+          }
+        ],
+        "caption": "On the border: flowering dogwood, serviceberry, musclewood"
+      },
+      {
         "type": "section",
         "heading": "When the Same Species Is Both",
         "text": "Here's what really breaks the tree-versus-shrub framework: many species can be either, depending on circumstances. Eastern redbud (Cercis canadensis) grows as a small, graceful tree with a single trunk in open settings, but forms multi-stemmed clumps at the edge of forests. Speckled alder (Alnus incana) is usually a dense, multi-stemmed shrub along stream banks, but in ideal conditions can develop a single trunk reaching 25 feet. Even common species like red maple (Acer rubrum) — one of New England's most abundant canopy trees, reaching 60 to 80 feet — will sometimes grow in swampy areas as a cluster of smaller stems that look shrubby. And willows span the entire range: weeping willow (Salix babylonica) and black willow (Salix nigra) are large trees, pussy willow (Salix discolor) is a large shrub, and bearberry willow (Salix uva-ursi) is a creeping mat barely two inches tall. Same genus, wildly different growth forms."
@@ -364,9 +668,69 @@
         "text": "Despite all the ambiguity in the middle, many New England species are unambiguously shrubs — they never develop a single trunk and they stay reliably short. Mountain laurel (Kalmia latifolia) is a dense, evergreen shrub with leathery leaves and spectacular pink-and-white flowers. It can reach 15 feet but always grows as a tangled, multi-stemmed thicket. Highbush blueberry (Vaccinium corymbosum) is a multi-stemmed shrub, 6 to 12 feet, with fine-textured branches. Spicebush (Lindera benzoin) is a graceful, aromatic understory shrub growing 6 to 12 feet with multiple slender stems — crush a twig and you'll smell a bright, citrusy-spicy fragrance. Winterberry (Ilex verticillata) — a deciduous holly — forms multi-stemmed clumps 6 to 15 feet tall, famous for its brilliant red berries that persist into winter after the leaves drop. Bayberry (Morella pensylvanica) is a coastal shrub with waxy, aromatic berries, 5 to 10 feet, always multi-stemmed. Ninebark (Physocarpus opulifolius) is named for its bark that peels in papery layers, a dense shrub 5 to 10 feet tall common along stream banks."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42745552/medium.jpg",
+            "caption": "mountain laurel",
+            "alt": "mountain laurel",
+            "attribution": "(c) pnorton, some rights reserved (CC BY-NC), uploaded by pnorton"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2520394/medium.JPG",
+            "caption": "winterberry holly",
+            "alt": "winterberry holly",
+            "attribution": "(c) Chia aka Cory Chiappone, some rights reserved (CC BY-NC), uploaded by Chia aka Cory Chiappone"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230414782/medium.jpg",
+            "caption": "southern arrowwood",
+            "alt": "southern arrowwood",
+            "attribution": "(c) samuel_juntunen, some rights reserved (CC BY-NC)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/214256717/medium.jpeg",
+            "caption": "great rhododendron",
+            "alt": "great rhododendron",
+            "attribution": "(c) Aidan Flinn, some rights reserved (CC BY-NC), uploaded by Aidan Flinn"
+          }
+        ],
+        "caption": "Definite shrubs: mountain laurel, winterberry, arrowwood, great rhododendron"
+      },
+      {
         "type": "section",
         "heading": "Definite Trees: The Species That Always Grow Big",
         "text": "At the other end, some species are always trees and never look shrub-like under normal conditions. White oak (Quercus alba), red oak (Quercus rubra), sugar maple (Acer saccharum), white pine (Pinus strobus), American beech (Fagus grandifolia), and tulip tree (Liriodendron tulipifera) always develop a single dominant trunk and a distinct crown. Even young specimens of these species have a clearly tree-like form — a central leader growing upward with lateral branches arranged around it. These are species whose genetics strongly favor the single-trunk growth habit."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141474860/medium.jpg",
+            "caption": "northern red oak",
+            "alt": "northern red oak",
+            "attribution": "(c) Tom Rogers, some rights reserved (CC BY-NC), uploaded by Tom Rogers"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237322696/medium.jpeg",
+            "caption": "sugar maple",
+            "alt": "sugar maple",
+            "attribution": "(c) Tom Norton, some rights reserved (CC BY)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164965655/medium.jpeg",
+            "caption": "American beech",
+            "alt": "American beech",
+            "attribution": "(c) lpagano, some rights reserved (CC BY-NC)"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/390760300/medium.jpeg",
+            "caption": "eastern white pine",
+            "alt": "eastern white pine",
+            "attribution": "no rights reserved, uploaded by Carter Dorscht"
+          }
+        ],
+        "caption": "Definite trees: red oak, sugar maple, American beech, white pine"
       },
       {
         "type": "section",
@@ -2607,6 +2971,13 @@
         "text": "American beech has what many consider the most elegant winter bud of any tree: long (nearly an inch), slender, lance-shaped, and wrapped in papery copper-brown scales that taper to a sharp point. The bud resembles a miniature cigar. No other New England tree has anything like it. The twig is slender and zigzags slightly between buds. Beech also holds many of its dead leaves through winter (a trait called marcescence), and the smooth, silver-gray bark is unmistakable at any season. Young beeches in the understory, still holding their pale tan leaves and displaying those gorgeous buds, are one of the most recognizable sights in a New England winter forest."
       },
       {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430844101/medium.jpeg",
+        "alt": "American beech — smooth gray bark unmistakable in winter",
+        "caption": "American beech — smooth gray bark unmistakable in winter",
+        "attribution": "(c) Deana Tempest Thomas, some rights reserved (CC BY)"
+      },
+      {
         "type": "section",
         "heading": "Oaks: Clustered Tips and Persistent Leaves",
         "text": "Oaks are alternate-budded and share a distinctive trait: buds cluster at the branch tip in a group of 3–5. This tip cluster alone says 'oak' even from a distance. Red oak buds are pointed, reddish-brown, and hairless — about a quarter inch long. White oak buds are rounded, smaller, and reddish-brown. Black oak buds are larger, angular, and covered in gray fuzz — the furriest oak buds in the region. Scarlet oak buds are small and dark with a few hairs near the tip. Like beech, many oaks hold their dead leaves into winter (especially young trees and lower branches), which helps with distant identification. The bark differences between red oak group (flat-topped ridges, 'ski tracks') and white oak group (lighter, scaly, or blocky) also help."
@@ -2615,6 +2986,36 @@
         "type": "section",
         "heading": "Birches: Bark Does the Work",
         "text": "Birches are usually identified by bark rather than buds, and for good reason — the bark is spectacular. Paper birch has bright white, peeling bark (the classic New England postcard tree). Yellow birch has coppery-gold bark that peels in thin, curly strips and has a strong wintergreen smell if you scratch a twig. Black (sweet) birch has dark, cherry-like bark on mature trees but also has that wintergreen smell — it's the original source of birch beer. Gray birch has chalky white bark that doesn't peel and has dark triangular patches beneath each branch (black 'mustaches'). Birch buds are small, pointed, and alternate, with visible scales — they're less distinctive than the bark but the combination of small pointed buds on a birch-barked tree seals the ID."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11526723/medium.jpeg",
+            "caption": "paper birch",
+            "alt": "paper birch",
+            "attribution": "(c) Joanne Muis, some rights reserved (CC BY-NC), uploaded by Joanne Muis"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116616664/medium.jpg",
+            "caption": "yellow birch",
+            "alt": "yellow birch",
+            "attribution": "(c) pamdarrow, some rights reserved (CC BY-NC-SA), uploaded by pamdarrow"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3188379/medium.jpg",
+            "caption": "sweet birch",
+            "alt": "sweet birch",
+            "attribution": "(c) Rob Curtis, some rights reserved (CC BY-NC-SA), uploaded by Rob Curtis"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/119528916/medium.jpg",
+            "caption": "river birch",
+            "alt": "river birch",
+            "attribution": "(c) NatureServe, some rights reserved (CC BY)"
+          }
+        ],
+        "caption": "Winter birch bark: paper, yellow, sweet, and river birch"
       },
       {
         "type": "section",
@@ -2635,6 +3036,24 @@
         "type": "section",
         "heading": "Sassafras, Tulip Tree, and Sycamore",
         "text": "Sassafras twigs are bright green and aromatic — scratch one and smell root beer. The buds are plump, green, and rounded. No other tree has green twigs with that scent. Tulip tree buds are unique: flat, duck-bill-shaped, like two cupped hands pressed together. They're smooth, dark reddish-brown, and about half an inch long. Once you see the duck-bill shape, you'll always recognize it. Sycamore is identified at a distance by its mottled, camouflage bark (cream, tan, olive, and brown patches where bark peels) and in close by its conical buds hidden inside the base of the leaf stalk — in winter, a single large bud sits above each round leaf scar, partially wrapped by a collar."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://static.inaturalist.org/photos/58271768/medium.jpg",
+            "caption": "American sycamore",
+            "alt": "American sycamore",
+            "attribution": "(c) Aiden Dartley, all rights reserved, uploaded by Aiden Dartley"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102212771/medium.jpeg",
+            "caption": "shagbark hickory",
+            "alt": "shagbark hickory",
+            "attribution": "(c) Chuck Thomas, some rights reserved (CC BY-NC), uploaded by Chuck Thomas"
+          }
+        ],
+        "caption": "Distinctive winter bark: sycamore camouflage and shagbark hickory plates"
       },
       {
         "type": "section",
@@ -2710,9 +3129,23 @@
         "text": "If you learn one fern first, make it Christmas fern (Polystichum acrostichoides). It's the most common fern in New England's forests, it's evergreen (hence the name — still green at Christmas), and it has a unique feature that makes it unmistakable: each pinna (leaflet) has a small lobe at the base that looks like a Christmas stocking or a thumb sticking out. Once you see this 'stocking thumb,' you'll never confuse it with anything else. Christmas fern forms neat, arching clumps on woodland slopes and is often the dominant ground cover in dry to mesic hardwood forests. The fertile fronds have noticeably narrower tips where the sori are concentrated."
       },
       {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/352092863/medium.jpg",
+        "alt": "Christmas fern — evergreen, with distinctive boot-shaped pinnae",
+        "caption": "Christmas fern — evergreen, with distinctive boot-shaped pinnae",
+        "attribution": "(c) Jenn M Smith, some rights reserved (CC BY-NC), uploaded by Jenn M Smith"
+      },
+      {
         "type": "section",
         "heading": "Sensitive Fern: The Odd One Out",
         "text": "Sensitive fern (Onoclea sensibilis) looks so different from other ferns that beginners often don't recognize it as a fern at all. Its fronds are barely divided — broad, almost triangular pinnae with wavy edges, connected by a winged rachis. It looks more like a weird leafy plant than a typical feathery fern. The name comes from its sensitivity to frost — it's one of the first ferns to die back in fall. Its spore-bearing structure is a separate, stiff, bead-like stalk that persists through winter and is easy to spot in dried flower arrangements. Sensitive fern loves wet areas: stream banks, pond margins, roadside ditches."
+      },
+      {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135157393/medium.jpg",
+        "alt": "Sensitive fern — broad, beaded fronds unlike typical ferns",
+        "caption": "Sensitive fern — broad, beaded fronds unlike typical ferns",
+        "attribution": "(c) pamonthego, some rights reserved (CC BY-NC)"
       },
       {
         "type": "section",
@@ -2725,9 +3158,45 @@
         "text": "These two large, elegant ferns are closely related and often grow together in wet woods and swamp edges. Cinnamon fern (Osmundastrum cinnamomeum) produces a separate, club-like fertile frond that turns bright cinnamon-brown — it looks like a fuzzy cinnamon stick rising from the center of the green fronds. Look for tufts of cinnamon-brown wool where the pinnae meet the rachis. Interrupted fern (Claytosmunda claytoniana) takes a different approach: its fertile pinnae grow in the MIDDLE of an otherwise normal-looking frond, creating a gap — an 'interruption' — where green pinnae are replaced by dark brown, spore-bearing ones. Once those release their spores, they wither away, leaving a literal gap in the frond."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/281364910/medium.jpg",
+            "caption": "cinnamon fern",
+            "alt": "cinnamon fern",
+            "attribution": "(c) Frank Morgan, some rights reserved (CC BY-SA), uploaded by Frank Morgan"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550830519/medium.jpg",
+            "caption": "Interrupted Fern",
+            "alt": "Interrupted Fern",
+            "attribution": "(c) Patty Parsley, some rights reserved (CC BY-NC)"
+          }
+        ],
+        "caption": "Cinnamon fern (left) vs. interrupted fern (right)"
+      },
+      {
         "type": "section",
         "heading": "Hay-Scented Fern: The Meadow Maker",
         "text": "Hay-scented fern (Dennstaedtia punctilobula) is the fern that forms vast, waist-high carpets on hillsides and in forest openings. Crush a frond and it smells like fresh-cut hay — a delightful and diagnostic scent. The fronds are lacy and finely divided (twice-cut), yellow-green rather than dark green, and taper to a point. Hay-scented fern is a colonizer that thrives where deer have eliminated competing understory plants. In heavily browsed forests, it can become almost the only ground cover — deer don't eat it. While beautiful in moderation, dense hay-scented fern carpets can prevent tree seedlings from establishing, creating a regeneration problem."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://static.inaturalist.org/photos/424205704/medium.jpeg",
+            "caption": "hay-scented fern",
+            "alt": "hay-scented fern",
+            "attribution": "(c) River, all rights reserved, uploaded by River"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/425840594/medium.jpg",
+            "caption": "common bracken",
+            "alt": "common bracken",
+            "attribution": "(c) Timothy McNitt, some rights reserved (CC BY), uploaded by Timothy McNitt"
+          }
+        ],
+        "caption": "Colony-forming ferns: hay-scented (left) vs. bracken (right)"
       },
       {
         "type": "section",
@@ -2740,6 +3209,13 @@
         "text": "Northern maidenhair fern (Adiantum pedatum) is widely considered the most beautiful fern in North America, and once you see one, you'll agree. The frond is shaped like an outstretched hand — a central stalk that branches into a fan of radiating, arching pinnae, each bearing delicate, fan-shaped pinnules. The stipe and rachis are wiry, shiny, and jet-black, creating a striking contrast with the bright green foliage. Maidenhair grows in rich, moist, shaded woods on neutral to alkaline soils — finding it often indicates good soil quality. It's unmistakable: no other New England fern has this circular, parasol-like architecture."
       },
       {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/189505995/medium.jpeg",
+        "alt": "Northern maidenhair — unmistakable circular frond arrangement",
+        "caption": "Northern maidenhair — unmistakable circular frond arrangement",
+        "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay"
+      },
+      {
         "type": "section",
         "heading": "The Wood Ferns: Dryopteris Trio",
         "text": "Three Dryopteris species dominate the forest floor and can be tricky to tell apart, but each has a reliable field mark. Marginal wood fern (Dryopteris marginalis) has sori arranged along the margins (edges) of the pinnules — flip a frond over and the dots line the outer edge. It's also somewhat evergreen, with blue-green, leathery fronds. Intermediate wood fern (Dryopteris intermedia) has sori centered on the pinnules (not marginal) and is finely cut with a lacy appearance. Its fronds are more delicate and a brighter green. Spinulose wood fern (Dryopteris carthusiana) is similar to intermediate but its lowest pinnae have an asymmetric, elongated lower pinnule — the bottom pinna looks lopsided. All three are common and beautiful."
@@ -2748,6 +3224,24 @@
         "type": "section",
         "heading": "Rock Polypody: The Wall Fern",
         "text": "Rock polypody (Polypodium virginianum) is the small, evergreen fern you see growing directly out of rock faces, stone walls, and boulder tops. Its fronds are simple — just once-cut, with rounded pinnae along a single rachis, rarely more than 8–10 inches long. The round sori on the underside lack a covering (indusium), which distinguishes it from similar-looking ferns. Polypody is tough enough to survive on exposed, dry rock surfaces where no other fern can grow, thanks to its ability to desiccate and revive when moisture returns. It's one of the most satisfying ferns to learn because it grows in such distinctive habitat — if it's on a rock, it's probably polypody."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8544705/medium.jpg",
+            "caption": "rock polypody",
+            "alt": "rock polypody",
+            "attribution": "(c) Benjamin Schwartz, some rights reserved (CC BY-NC), uploaded by Benjamin Schwartz"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/311150308/medium.jpg",
+            "caption": "marginal wood fern",
+            "alt": "marginal wood fern",
+            "attribution": "(c) Dan Spaulding, some rights reserved (CC BY-NC), uploaded by Dan Spaulding"
+          }
+        ],
+        "caption": "Evergreen ferns: rock polypody (left) vs. marginal wood fern (right)"
       },
       {
         "type": "section",
