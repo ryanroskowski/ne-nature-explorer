@@ -31,7 +31,23 @@ export default function HomePage() {
   const tree = getTaxonomyTree("plants");
   const topSpecies = commonality.slice(0, 6);
   const totalFamilies = new Set(commonality.map((s) => s.family)).size;
-  const articles = getContextualArticles();
+  const allArticles = getContextualArticles();
+  // Match the display order from the Learn page
+  const articleDisplayOrder = [
+    "reading-tree-bark", "winter-tree-id-buds-twigs", "trees-vs-shrubs",
+    "conifer-families", "cedar-confusion", "hemlock-tree-vs-poison",
+    "reading-animal-signs", "spring-ephemerals", "pollinator-scouting",
+    "vernal-pools", "night-sounds", "tidepool-life", "edible-toxic-lookalikes",
+    "succession", "stone-walls-forest-history", "decomposers",
+    "mycorrhizal-networks", "invasive-species", "bogs-fens-swamps",
+    "evolutionary-timeline", "lichen-symbiosis", "parasitic-plants-fungi",
+    "epiphytes-of-new-england", "galls", "fall-foliage-chemistry",
+    "seaweed-marine-algae",
+  ];
+  const articleMap = new Map(allArticles.map((a) => [a.slug, a]));
+  const articles = articleDisplayOrder
+    .map((slug) => articleMap.get(slug))
+    .filter((a): a is NonNullable<typeof a> => a != null);
 
   // Build dynamic categories from groups.json
   const availableGroups = getAvailableGroups();
