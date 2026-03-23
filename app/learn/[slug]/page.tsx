@@ -100,6 +100,48 @@ export default async function LearnArticlePage({
             );
           }
 
+          if (block.type === "audio") {
+            return (
+              <div
+                key={i}
+                className="bg-card border border-border rounded-xl p-5"
+              >
+                <div className="flex items-start gap-3 mb-3">
+                  <span
+                    className="text-lg shrink-0 mt-0.5"
+                    aria-hidden="true"
+                  >
+                    🔊
+                  </span>
+                  <div>
+                    <h3 className="font-serif font-semibold text-text-primary text-sm">
+                      {block.heading}
+                    </h3>
+                    {block.description && (
+                      <p className="text-xs text-text-secondary mt-1">
+                        {block.description}
+                      </p>
+                    )}
+                  </div>
+                </div>
+                {/* eslint-disable-next-line jsx-a11y/media-has-caption */}
+                <audio
+                  controls
+                  preload="none"
+                  className="w-full h-10"
+                  src={block.audioUrl}
+                >
+                  Your browser does not support the audio element.
+                </audio>
+                {block.attribution && (
+                  <p className="text-[10px] text-text-muted mt-2">
+                    {block.attribution}
+                  </p>
+                )}
+              </div>
+            );
+          }
+
           if (block.type === "tip") {
             return (
               <div

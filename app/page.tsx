@@ -36,13 +36,13 @@ export default function HomePage() {
   const articleDisplayOrder = [
     "reading-tree-bark", "winter-tree-id-buds-twigs", "trees-vs-shrubs",
     "conifer-families", "cedar-confusion", "hemlock-tree-vs-poison",
-    "reading-animal-signs", "spring-ephemerals", "pollinator-scouting",
-    "vernal-pools", "night-sounds", "tidepool-life", "edible-toxic-lookalikes",
+    "fern-id-beginners", "bird-song-basics", "reading-animal-signs", "spring-ephemerals", "pollinator-scouting",
+    "vernal-pools", "night-sounds", "tidepool-life", "reading-a-pond", "dragonflies-damselflies", "beach-wrack-line", "edible-toxic-lookalikes", "mushroom-foraging-101", "native-plants-vs-nursery",
     "succession", "stone-walls-forest-history", "decomposers",
-    "mycorrhizal-networks", "invasive-species", "bogs-fens-swamps",
+    "mycorrhizal-networks", "invasive-species", "bogs-fens-swamps", "edge-effects", "phenology-natures-calendar", "fire-in-new-england",
     "evolutionary-timeline", "lichen-symbiosis", "parasitic-plants-fungi",
     "epiphytes-of-new-england", "galls", "fall-foliage-chemistry",
-    "seaweed-marine-algae",
+    "seaweed-marine-algae", "moss-overlooked-kingdom",
   ];
   const articleMap = new Map(allArticles.map((a) => [a.slug, a]));
   const articles = articleDisplayOrder

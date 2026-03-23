@@ -21,18 +21,25 @@ const articleOrder: { category: string; slugs: string[] }[] = [
       "conifer-families",
       "cedar-confusion",
       "hemlock-tree-vs-poison",
+      "fern-id-beginners",
     ],
   },
   {
     category: "Field Skills & Observation",
     slugs: [
+      "bird-song-basics",
       "reading-animal-signs",
       "spring-ephemerals",
       "pollinator-scouting",
       "vernal-pools",
       "night-sounds",
       "tidepool-life",
+      "reading-a-pond",
+      "dragonflies-damselflies",
+      "beach-wrack-line",
       "edible-toxic-lookalikes",
+      "mushroom-foraging-101",
+      "native-plants-vs-nursery",
     ],
   },
   {
@@ -44,6 +51,9 @@ const articleOrder: { category: string; slugs: string[] }[] = [
       "mycorrhizal-networks",
       "invasive-species",
       "bogs-fens-swamps",
+      "edge-effects",
+      "phenology-natures-calendar",
+      "fire-in-new-england",
     ],
   },
   {
@@ -56,6 +66,7 @@ const articleOrder: { category: string; slugs: string[] }[] = [
       "galls",
       "fall-foliage-chemistry",
       "seaweed-marine-algae",
+      "moss-overlooked-kingdom",
     ],
   },
 ];
