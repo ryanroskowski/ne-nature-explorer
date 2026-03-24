@@ -1664,9 +1664,43 @@
         "text": "This is the classic cautionary pair. Golden chanterelles (Cantharellus cibarius) are among the most prized wild mushrooms — golden-yellow, funnel-shaped, with a fruity apricot scent and ridges (not true gills) running down the stem. Jack-o'-lantern mushrooms (Omphalotus illudens) are bright orange, grow in dense clusters at the base of trees or from buried wood, and have true, knife-sharp gills. Eating jack-o'-lantern won't kill you, but it causes violent vomiting and diarrhea lasting several hours. The key differences: chanterelles grow singly or in scattered groups from the ground (never in dense clusters from wood), have blunt, forking ridges that run down the stem, and are egg-yolk to pale gold. Jack-o'-lanterns grow in tight clusters from wood, have true paper-thin gills, and are deeper orange. Jack-o'-lantern gills also glow faintly in the dark (bioluminescence) — take a fresh specimen into a dark closet and wait for your eyes to adjust."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416937456/medium.jpeg",
+            "alt": "Golden chanterelle with blunt ridges and funnel shape growing from soil",
+            "caption": "Chanterelle (EDIBLE) — blunt ridges, grows from soil",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22330674/medium.jpg",
+            "alt": "Jack-o-lantern mushroom with true gills growing in cluster on wood",
+            "caption": "Jack-o'-Lantern (TOXIC) — true gills, clusters on wood",
+            "attribution": "iNaturalist CC"
+          }
+        ]
+      },
+      {
         "type": "section",
         "heading": "Morels vs. False Morels",
         "text": "True morels (Morchella species) are the holy grail of spring mushroom hunting — honeycomb-patterned, hollow from cap to stem, and delicious. False morels (Gyromitra esculenta and relatives) fruit at the same time in similar habitats but contain gyromitrin, which the body converts to monomethylhydrazine — literally rocket fuel. It can cause liver failure and death. The critical test: cut the mushroom in half lengthwise. A true morel is completely hollow inside, like a rubber tube — the cap attaches directly to the stem at the bottom. A Gyromitra has a brain-like, wrinkled, lobed cap (not honeycomb pits) and when cut open, the interior is chambered with cottony flesh, not cleanly hollow. Half-free morels (Morchella punctipes) and Verpa species add confusion — Verpa bohemica has a wrinkled cap that hangs free like a skirt, attached only at the top, and the stem is stuffed with cottony fibers, not hollow. When in doubt: hollow throughout, pitted like honeycomb, cap fused to stem = true morel."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/39397454/medium.jpeg",
+            "alt": "True morel with honeycomb-patterned cap, completely hollow when cut",
+            "caption": "True Morel (EDIBLE) — honeycomb pits, hollow inside",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1865611/medium.jpg",
+            "alt": "False morel with wrinkled brain-like cap",
+            "caption": "False Morel (DEADLY) — wrinkled lobes, not hollow",
+            "attribution": "iNaturalist CC"
+          }
+        ]
       },
       {
         "type": "section",
@@ -1674,14 +1708,46 @@
         "text": "The destroying angel (Amanita bisporigera) is responsible for the majority of fatal mushroom poisonings in North America. It's an all-white mushroom with a cap, gills, ring on the stem, and a sac (volva) at the base — and it can be confused with edible meadow mushrooms (Agaricus campestris), puffballs, or paddy straw mushrooms. The toxin, alpha-amanitin, causes no symptoms for 6-12 hours after ingestion, then violent gastrointestinal distress, followed by a deceptive period of apparent recovery — then catastrophic liver and kidney failure on days 3-5. By the time symptoms are severe, the damage is often irreversible. Key identification: destroying angels have pure white gills (Agaricus gills start pink and turn chocolate brown), a white spore print (Agaricus prints are dark brown), a skirt-like ring on the upper stem, and critically, a sac-like volva at the very base — which you'll only see if you dig up the entire mushroom. Never cut a white mushroom at ground level; always dig it up to check for the volva."
       },
       {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/158303/medium.jpg",
+        "alt": "Destroying angel mushroom, pure white with ring and volva at base",
+        "caption": "Destroying Angel — pure white, with a ring on the stem and a sac-like volva at the base. Responsible for most fatal mushroom poisonings in North America.",
+        "attribution": "iNaturalist CC"
+      },
+      {
         "type": "section",
         "heading": "Death Cap: The Imported Killer",
         "text": "The death cap (Amanita phalloides) is not native to New England but has been spreading through the region, likely imported with European trees. It's greenish-yellow to olive-colored with white gills, a ring, and the telltale volva at the base. It contains the same amatoxins as the destroying angel and is equally deadly. Death caps are particularly dangerous because they reportedly taste pleasant — there's no warning bitterness. They can be confused with green-capped Russula species, Asian paddy straw mushrooms (a particular risk for immigrant foragers familiar with edible species from their home countries), or even Caesar's mushroom (Amanita jacksonii), which is edible and has a similar structure but orange-red cap and yellow gills. The death cap's spread into New England is a relatively recent phenomenon, and many experienced local foragers may not have grown up encountering it. If you find a green-olive Amanita near imported oaks or in urban plantings, be extremely cautious."
       },
       {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289673781/medium.jpg",
+        "alt": "Death cap mushroom with greenish-yellow cap, white gills, and ring on stem",
+        "caption": "Death Cap — greenish-yellow cap with a volva at the base. Contains the same amatoxins as the destroying angel.",
+        "attribution": "iNaturalist CC"
+      },
+      {
         "type": "section",
         "heading": "Honey Mushrooms vs. Deadly Galerina",
         "text": "Honey mushrooms (Armillaria mellea complex) are a popular fall edible — golden-brown caps in clusters on wood, with a ring on the stem. The problem: deadly galerina (Galerina marginata) also grows in clusters on wood, is brown, and can have a ring. But Galerina contains amatoxins — the same deadly compounds as destroying angels. This is a potentially fatal mix-up. Key differences: honey mushrooms grow in large, dense clusters, have white spore prints, a noticeable ring, and the cap often has small dark scales in the center. Galerina tends to grow in smaller groups (though it can cluster), has a rusty-brown spore print, a less prominent ring that may disappear with age, and lacks the scaly cap center. The spore print is the most reliable test — white for Armillaria, brown for Galerina. Many experienced foragers won't collect honey mushrooms from logs where other brown mushrooms are growing nearby, because Galerina can fruit right alongside them and end up mixed in the basket."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10028/medium.jpg",
+            "alt": "Honey mushroom cluster growing on wood with tan caps",
+            "caption": "Honey Mushroom (EDIBLE) — white spore print",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6084054/medium.jpeg",
+            "alt": "Deadly Galerina small brown mushrooms on decaying wood",
+            "caption": "Deadly Galerina (FATAL) — rusty-brown spore print",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Both grow in clusters on wood — a spore print is the critical test"
       },
       {
         "type": "section",
@@ -1699,9 +1765,51 @@
         "text": "This is the deadliest plant lookalike situation in New England. Queen Anne's lace (Daucus carota) — wild carrot — has an edible root and is common in fields and roadsides. Poison hemlock (Conium maculatum) and water hemlock (Cicuta maculata) look similar at a glance: all three have white umbrella-shaped flower clusters and compound leaves. But hemlock species are among the most toxic plants in North America. Poison hemlock killed Socrates. Water hemlock has been called the most violently toxic plant on the continent — a single bite of the root can kill an adult. Distinguishing features: Queen Anne's lace has a hairy stem, a single dark red-purple flower in the center of its cluster, and a carrot smell when the root is crushed. Poison hemlock has a smooth stem with distinctive reddish-purple blotches, no red center flower, and smells musty, not like carrot. Water hemlock grows in wet areas (stream banks, marshes), has a chambered root (hollow with cross-partitions visible when cut lengthwise), and purple-streaked stems. The safe rule: never eat any white-flowered umbellifer unless you can positively rule out both hemlock species."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/143862733/medium.jpg",
+            "alt": "Wild carrot (Queen Anne's lace) with flat white flower cluster",
+            "caption": "Wild Carrot (EDIBLE root) — flat white flower head",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18903791/medium.jpg",
+            "alt": "Poison hemlock with white flowers and purple-blotched stem",
+            "caption": "Poison Hemlock (DEADLY) — purple-blotched stem",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Both have white umbrella-shaped flowers — check the stem: purple blotches = poison hemlock"
+      },
+      {
         "type": "section",
         "heading": "Ramps vs. Lily of the Valley vs. False Hellebore",
         "text": "Ramps (Allium tricoccum) are the darling of spring foraging — broad green leaves emerging from the forest floor in April and May, with a powerful garlic-onion scent. The problem: lily of the valley (Convallaria majalis) and false hellebore (Veratrum viride) have similar-looking leaves and emerge at the same time in similar habitats. Lily of the valley contains cardiac glycosides that can cause fatal heart rhythm disturbances. False hellebore contains steroidal alkaloids that cause severe poisoning. The test is dead simple: crush a leaf and smell it. Ramps have an unmistakable, strong garlic-onion odor that's impossible to miss. Lily of the valley leaves have no allium smell — they smell green and faintly floral. False hellebore leaves are much larger, ribbed with prominent parallel veins, and grow in a rosette pattern rather than the flat, paired leaves of ramps. If there is no garlic smell, do not eat the leaf. Smell is your best and most reliable field test here, and it works every time."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41677/medium.jpg",
+            "alt": "Ramps with broad green leaves and red-purple stems in forest",
+            "caption": "Ramps (EDIBLE) — strong garlic/onion smell",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129833718/medium.jpeg",
+            "alt": "Lily of the valley with similar broad leaves but white bell flowers",
+            "caption": "Lily of the Valley (TOXIC) — no onion smell",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154600900/medium.jpg",
+            "alt": "False hellebore with large pleated leaves in wet area",
+            "caption": "False Hellebore (TOXIC) — pleated, clasping leaves",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "The smell test is definitive: ramps smell strongly of garlic/onion. The toxic lookalikes have no onion scent."
       },
       {
         "type": "section",
@@ -1712,6 +1820,24 @@
         "type": "section",
         "heading": "Baneberries: Beautiful and Deadly",
         "text": "White baneberry (Actaea pachypoda), also called doll's eyes, and red baneberry (Actaea rubra) are common woodland plants in New England — and their berries are dangerously toxic. Doll's eyes is unmistakable when fruiting: clusters of white berries with a conspicuous black dot on each, held on thick red stalks. It looks like something from a horror movie, and that's a useful instinct — the berries contain cardiogenic toxins that can cause cardiac arrest. Red baneberry has glossy red berries on thin stalks. Both species have compound, sharply toothed leaves that could be confused with various edible plants in early spring before fruiting. The berries are particularly dangerous because they're eye-catching to children. Just six berries can be lethal to a child. Fortunately, the bitter taste usually limits consumption. The key safety lesson: in New England's forests, never eat any berry you can't positively identify, especially red or white berries on woodland plants."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://static.inaturalist.org/photos/272540207/medium.jpg",
+            "alt": "White baneberry with distinctive white berries on thick red stalks",
+            "caption": "White Baneberry (\"Doll's Eyes\") — toxic",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://static.inaturalist.org/photos/141074893/medium.jpeg",
+            "alt": "Red baneberry with clusters of shiny red berries",
+            "caption": "Red Baneberry — equally toxic",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Baneberries are beautiful but deadly — the white species is called \"doll's eyes\" for its eerie appearance"
       },
       {
         "type": "section",
@@ -1918,6 +2044,24 @@
         "text": "The white, volcano-shaped bumps encrusting every rock above the tideline are barnacles — and they're not mollusks, they're crustaceans, related to crabs and lobsters. Charles Darwin spent eight years studying barnacles and called them \"little creatures that kick food into their mouths with their legs.\" That's exactly what they do: a barnacle cements itself headfirst to rock as a larva, builds a limestone shell, and spends its adult life lying on its back, extending feathery legs (cirri) to sweep plankton from the water. Northern rock barnacle (Semibalanus balanoides) is the dominant species on New England's rocky shores — the whitish-gray cones blanketing the upper intertidal. When the tide is out, they seal their shell plates shut to conserve moisture. When water covers them, the plates crack open and the cirri emerge in a rhythmic sweeping motion. A dense barnacle colony can filter enormous volumes of water, making them important players in nearshore plankton dynamics."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9304313/medium.jpg",
+            "alt": "Northern rock barnacles encrusting a rocky shore, white volcano-shaped cones",
+            "caption": "Northern Rock Barnacles",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3505861/medium.jpg",
+            "alt": "Common periwinkle snails on rocky shore",
+            "caption": "Common Periwinkles",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "The upper intertidal: barnacles cement themselves to rock; periwinkles graze algae with their radula"
+      },
+      {
         "type": "section",
         "heading": "Periwinkles: The Rocky Shore Grazers",
         "text": "Common periwinkles (Littorina littorea) are the small, dark, spiral-shelled snails that crunch underfoot on almost every New England rocky shore. They're actually European invaders — likely arriving with Viking or early colonial ships — but they've been here so long they feel native. Periwinkles graze on algal films using a rasping tongue called a radula, slowly scraping microalgae off rock surfaces. They're incredibly abundant: a single square meter of mid-intertidal rock might host hundreds. Smooth periwinkles (Littorina obtusata) are smaller, rounder, and come in beautiful color varieties — yellow, orange, olive, brown, even checkered — that match the rockweed fronds they live on. This color polymorphism is thought to be driven by predation pressure from green crabs: snails that match their background survive better. Rough periwinkles (Littorina saxatilis) live highest on the shore, barely in the splash zone, and give live birth instead of releasing eggs into the water — an adaptation to spending most of their lives out of the sea."
@@ -1928,14 +2072,46 @@
         "text": "Blue mussels (Mytilus edulis) form dense, dark beds in the mid-intertidal zone, attached to rock (and to each other) by tough, stretchy threads called byssal threads. These protein fibers are so strong and flexible that material scientists study them for bio-inspired adhesives. A mussel bed isn't just mussels — it's an ecosystem. The spaces between mussels shelter worms, small crabs, amphipods, and snails. The mussels themselves filter enormous quantities of water, removing plankton and particulates. Blue mussels are edible and commercially harvested, but wild ones in tidepools serve an important ecological role: they're a primary food source for sea stars, dog whelks, and crabs, forming a key link in the intertidal food web. Dog whelks (Nucella lapillus) drill neat round holes through mussel shells using a combination of acid secretion and mechanical rasping — if you find a mussel shell with a small, perfectly round hole, a dog whelk made it."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/376240731/medium.jpg",
+            "alt": "Blue mussel bed on rocky shore, dense dark clusters attached to rock",
+            "caption": "Blue Mussel Bed",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2611810/medium.JPG",
+            "alt": "Dog whelk snail with spiral shell on rock",
+            "caption": "Dog Whelk — drills holes through mussel shells",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Mussels form dense reef-like beds; dog whelks prey on them by drilling through the shell"
+      },
+      {
         "type": "section",
         "heading": "Sea Stars: The Keystone Predators",
         "text": "The common sea star (Asterias forbesi in southern New England, Asterias rubens in the north) is the iconic tidepool animal — five-armed, slow-moving, and fascinating to watch hunt. Sea stars are keystone predators: they eat mussels, and by keeping mussel populations in check, they prevent mussels from monopolizing space and allow other species to coexist. A sea star eats a mussel by wrapping its arms around the shell, applying steady suction-cup pressure with its tube feet, and once a tiny gap opens, everting its stomach through its mouth and into the shell to digest the mussel alive. This process takes hours but is relentless. Blood stars (Henricia sanguinolenta) are smaller, more delicate, and typically brick-red to orange — they feed on sponges and bacterial films rather than mussels. If you find a sea star in a pool, flip it gently (then replace it) to see the tube feet — hundreds of tiny hydraulic structures on the underside of each arm that provide movement and grip."
       },
       {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150543784/medium.jpg",
+        "alt": "Common sea star with five arms in a tidepool",
+        "caption": "Common sea star — the iconic keystone predator that keeps mussel populations in check",
+        "attribution": "iNaturalist CC"
+      },
+      {
         "type": "section",
         "heading": "Green Crabs: The Invader That Changed Everything",
         "text": "The European green crab (Carcinus maenas) arrived in New England in the early 1800s and has reshaped rocky shore ecology ever since. It's now one of the most common animals in tidepools — an aggressive, adaptable predator that eats mussels, clams, snails, small crabs, and almost anything else it can grab. Green crabs are responsible for the collapse of New England's soft-shell clam industry in many areas, and they've altered the distribution patterns of native species throughout the intertidal zone. Despite their name, green crabs aren't always green — they range from green to yellow to orange to red, with belly color often indicating how recently they molted (green/yellow = recent molt, red/orange = older shell). You'll find them under rocks, in seaweed, and scuttling through pools. The Asian shore crab (Hemigrapsus sanguineus), a more recent invader, is displacing even the green crab in some areas — it's smaller, with spotted claws and banded legs."
+      },
+      {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577793778/medium.jpg",
+        "alt": "European green crab on rocky shore",
+        "caption": "European green crab — the invasive species that reshaped New England's intertidal ecology",
+        "attribution": "iNaturalist CC"
       },
       {
         "type": "section",
@@ -1948,9 +2124,34 @@
         "text": "Sea anemones look like flowers but are predatory animals armed with stinging cells (cnidocytes) on their tentacles. Frilled anemone (Metridium senile) is the most conspicuous species in New England — its lobed, feathery crown of tentacles can be white, orange, or brown, waving gently in the current like an underwater chrysanthemum. It attaches to rocks, dock pilings, and mussel shells in the low intertidal and subtidal zones. Striped anemone (Diadumene lineata), originally from East Asia, is smaller and often found in tidepools — it's translucent olive-green with orange vertical stripes. Anemones feed by catching tiny organisms and particles in their tentacles, firing microscopic harpoon-like nematocysts into the prey, and drawing it into their central mouth. Touch a large anemone's tentacles gently and you'll feel a slight stickiness — that's the nematocysts firing, though most species can't penetrate human skin. Anemones can reproduce by splitting in half, so clusters of identical anemones on a rock are often clones."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3627665/medium.JPG",
+            "alt": "Frilled anemone with white tentacles in tidepool",
+            "caption": "Frilled Anemone",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60003/medium.jpg",
+            "alt": "Green sea urchin with spines on rocky substrate",
+            "caption": "Green Sea Urchin",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Anemones sting prey with tentacles; urchins graze algae with a five-toothed structure called Aristotle's lantern"
+      },
+      {
         "type": "section",
         "heading": "Hermit Crabs: House Hunters of the Shore",
         "text": "Hermit crabs are crustaceans with a soft, vulnerable abdomen that they protect by living inside empty snail shells. As they grow, they must find progressively larger shells — and this creates one of the most entertaining dramas on the rocky shore. Long-clawed hermit crab (Pagurus longicarpus) is the most common species in southern New England tidepools, often occupying periwinkle or mud snail shells. Acadian hermit crab (Pagurus acadianus) is larger and found in cooler northern waters. Watch a group of hermit crabs and you may witness a \"vacancy chain\": when a crab finds a new, larger shell and vacates its old one, the next-biggest crab moves into the discarded shell, and so on down the line — a cascade of real estate transactions. Some hermit crabs carry hydroids or anemones on their shells for camouflage and protection (the stinging cells deter predators), and some anemones specialize in living on hermit crab shells, benefiting from the scraps of the crab's meals."
+      },
+      {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/155460965/medium.jpeg",
+        "alt": "Long-clawed hermit crab in borrowed snail shell in tidepool",
+        "caption": "Long-clawed hermit crab — these crustaceans must find larger shells as they grow",
+        "attribution": "iNaturalist CC"
       },
       {
         "type": "section",
@@ -1963,6 +2164,24 @@
         "text": "Moon jellyfish (Aurelia aurita) are the translucent, saucer-shaped jellyfish with four horseshoe-shaped gonads visible through their bells — they wash into New England harbors and bays throughout summer. Their sting is mild, barely noticeable to most people. Lion's mane jellyfish (Cyanea capillata) is the giant of the North Atlantic — its bell can reach over two feet across, trailing tentacles many feet long, and its sting is genuinely painful (think bad bee sting). They're most common in Maine's colder waters. Hydroids are the colonial relatives of jellyfish — tiny, branching, plant-like animals that encrust rocks, seaweed, and shells. Snail fur (Hydractinia) forms fuzzy pinkish coatings on hermit crab shells. Obelia forms delicate, fern-like colonies on kelp fronds and dock pilings. Hydroids are easy to mistake for seaweed, but under a hand lens you can see the individual polyps — tiny cups with tentacles, each one a separate feeding animal within the colony."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://static.inaturalist.org/photos/128613708/medium.jpg",
+            "alt": "Moon jellyfish with translucent bell and visible four-leaf-clover gonads",
+            "caption": "Moon Jellyfish",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112465681/medium.jpeg",
+            "alt": "Lion's mane jellyfish with long trailing tentacles",
+            "caption": "Lion's Mane Jellyfish — can sting",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Moon jellies are mostly harmless; lion's mane tentacles can trail 100+ feet and deliver a painful sting"
+      },
+      {
         "type": "section",
         "heading": "The Lobster: New England's Marine Icon",
         "text": "American lobster (Homarus americanus) is the heavyweight of New England's coast, and while you won't typically find adults in tidepools, juvenile lobsters shelter in rocky crevices and under boulders in the low intertidal zone. A lobster that fits in your palm is likely 5-7 years old — they grow slowly, molting their exoskeleton annually. Lobsters are fascinating biologically: they can regenerate lost claws, they continue growing throughout their lives (there's no maximum size), and they show negligible senescence — meaning they don't appear to age in the way most animals do. Their two claws are specialized: the larger \"crusher\" claw has molar-like teeth for breaking shells, while the smaller \"cutter\" claw has sharp edges for tearing soft food. If you're lucky enough to spot a juvenile lobster under a rock in a deep tidepool, watch it — they're surprisingly fast when startled, propelling backward with powerful tail flicks."
@@ -1971,6 +2190,30 @@
         "type": "section",
         "heading": "Sand Dollars, Brittle Stars, and Sea Cucumbers",
         "text": "Beyond sea stars and urchins, New England has several other echinoderms worth knowing. Sand dollars (Echinarachnius parma) are the flat, round, disc-shaped relatives of sea urchins — alive, they're covered in short, velvety brown-purple spines and buried just beneath the sand surface in subtidal areas. The white \"shells\" you find on beaches are their bleached skeletons (called tests). Brittle stars (Ophiopholis aculeata is the most common) look like sea stars with thin, snake-like arms that move with a sinuous, almost alarming speed. They hide under rocks and in crevices and are easily overlooked — lift a rock in the low intertidal gently and you may see them slithering away. Orange-footed sea cucumber (Cucumaria frondosa) is New England's largest sea cucumber — a sausage-shaped echinoderm that extends feathery tentacles from one end to catch plankton. They're dark brown to black and often wedged into rock crevices in the low intertidal. All echinoderms share a unique feature: a water vascular system that powers their tube feet through hydraulic pressure."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/84766148/medium.jpg",
+            "alt": "Sand dollar tests washed up on beach",
+            "caption": "Sand Dollar",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://static.inaturalist.org/photos/32039705/medium.jpg",
+            "alt": "Daisy brittle star with banded arms on rocky substrate",
+            "caption": "Daisy Brittle Star",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/229947436/medium.jpg",
+            "alt": "Orange-footed sea cucumber on rocky bottom",
+            "caption": "Orange-footed Sea Cucumber",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Echinoderms: sand dollars, brittle stars, and sea cucumbers are all relatives of sea stars"
       },
       {
         "type": "section",
@@ -3153,6 +3396,13 @@
         "text": "Ostrich fern (Matteuccia struthiopteris) is the large, vase-shaped fern that forms dramatic colonies along rivers and in floodplain forests. Fronds can reach 4–5 feet tall, tapering at both top AND bottom (like an ostrich plume — hence the name). The key ID feature is the deep, U-shaped groove running along the front of the stipe. This is the fern whose fiddleheads are harvested and eaten in spring — a New England culinary tradition, especially in Maine and Vermont. Only harvest ostrich fern fiddleheads (not all ferns are safe to eat), and only take a few from each crown to avoid killing the plant."
       },
       {
+        "type": "image",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4099950/medium.jpg",
+        "alt": "Ostrich fern showing dramatic vase-shaped colony with tall fronds tapering at both ends",
+        "caption": "Ostrich fern — the edible fiddlehead fern, forming vase-shaped colonies in floodplains",
+        "attribution": "iNaturalist CC"
+      },
+      {
         "type": "section",
         "heading": "Cinnamon Fern and Interrupted Fern: The Osmunda Pair",
         "text": "These two large, elegant ferns are closely related and often grow together in wet woods and swamp edges. Cinnamon fern (Osmundastrum cinnamomeum) produces a separate, club-like fertile frond that turns bright cinnamon-brown — it looks like a fuzzy cinnamon stick rising from the center of the green fronds. Look for tufts of cinnamon-brown wool where the pinnae meet the rachis. Interrupted fern (Claytosmunda claytoniana) takes a different approach: its fertile pinnae grow in the MIDDLE of an otherwise normal-looking frond, creating a gap — an 'interruption' — where green pinnae are replaced by dark brown, spore-bearing ones. Once those release their spores, they wither away, leaving a literal gap in the frond."
@@ -3254,9 +3504,51 @@
         "text": "Spleenworts (Asplenium species) are small ferns, usually under a foot tall, that grow on rocks and walls. Ebony spleenwort (Asplenium platyneuron) is the most common — an upright fern with a shiny, dark purple-brown (ebony) stipe and small, alternate, ear-shaped pinnae. It grows on rock outcrops, stone walls, and even in sidewalk cracks. Maidenhair spleenwort (Asplenium trichomanes) is smaller and daintier, with round, bead-like pinnae on a dark, wiry stem — it tucks into shaded rock crevices and is a delight to find. Walking fern (Asplenium rhizophyllum) is the strangest: undivided, strap-shaped fronds that taper to a long tip that touches the ground and roots, forming a new plant — it literally 'walks' across rock surfaces."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://static.inaturalist.org/photos/2082822/medium.jpg",
+            "alt": "Lady fern with graceful arching lacy fronds",
+            "caption": "Lady Fern",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/200084519/medium.jpg",
+            "alt": "Ebony spleenwort with dark purple-brown stipe and small alternate pinnae",
+            "caption": "Ebony Spleenwort",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Lady fern's graceful arching habit (left) vs. ebony spleenwort's dark, upright stipe (right)"
+      },
+      {
         "type": "section",
         "heading": "Clubmosses: Fern Allies on the Forest Floor",
         "text": "Clubmosses aren't true ferns, but they're close relatives that you'll encounter on the same forest walks. They look like tiny evergreen trees — miniature conifers no more than 6–8 inches tall. Ground cedar (Diphasiastrum complanatum) has flat, fan-shaped branches that look like tiny cedar sprays. Running clubmoss (Lycopodium clavatum) has long, creeping stems with upright, bristly branches tipped by spore-bearing cones called strobili. Shining firmoss (Huperzia lucidula) has upright, un-branched shoots with glossy, dark green leaves. Clubmosses are ancient — their ancestors were tree-sized giants that formed the coal deposits of the Carboniferous period 300 million years ago. Today's species are the miniature descendants of those forest titans."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432497112/medium.jpg",
+            "alt": "Ground cedar clubmoss with flat fan-shaped branches resembling tiny cedar sprays",
+            "caption": "Ground Cedar",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://static.inaturalist.org/photos/93549245/medium.jpg",
+            "alt": "Running clubmoss with creeping stems and upright bristly branches tipped by strobili",
+            "caption": "Running Clubmoss",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108940546/medium.jpeg",
+            "alt": "Shining firmoss with upright unbranched glossy dark green shoots",
+            "caption": "Shining Firmoss",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Clubmosses — miniature descendants of 300-million-year-old forest giants"
       },
       {
         "type": "section",
@@ -3435,14 +3727,80 @@
         "text": "This is the most important distinction to learn. Dragonflies (suborder Anisoptera) are generally larger and more robust, with eyes that touch or nearly touch at the top of the head, and they hold their wings out flat to the sides when perched — like an airplane. Damselflies (suborder Zygoptera) are more slender and delicate, with eyes widely separated on either side of the head, and most species fold their wings together over their back when perched — like a closed book. There are exceptions: spreadwing damselflies (Lestes) hold their wings partially open, and some small dragonflies can look damselfly-like at a glance. But the eye position is the most reliable clue — touching eyes means dragonfly, separated eyes means damselfly."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4896206/medium.jpg",
+            "alt": "Twelve-spotted Skimmer dragonfly perched with wings spread flat showing white and dark spots",
+            "caption": "Twelve-spotted Skimmer (dragonfly) — wings held flat",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/309468288/medium.jpg",
+            "alt": "Ebony Jewelwing damselfly with metallic green body and dark wings held together",
+            "caption": "Ebony Jewelwing (damselfly) — wings held together",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "The key difference: dragonflies hold wings flat to the sides at rest; damselflies fold wings together over the body"
+      },
+      {
         "type": "section",
         "heading": "The Major Dragonfly Families",
         "text": "New England's dragonflies fall into a handful of families you can learn to recognize at a distance. Darners (Aeshnidae) are the largest — 3 to 4 inches long, powerful fliers that patrol back and forth along a beat, rarely landing. The common green darner is the species most people notice first, with its bright green thorax and blue abdomen. Skimmers (Libellulidae) are the most diverse family — they perch frequently on twigs and stems, making them easier to observe. The twelve-spotted skimmer, widow skimmer, and eastern pondhawk are common examples. Clubtails (Gomphidae) have widely separated eyes (unusual for dragonflies) and club-shaped abdomen tips; they often perch flat on rocks and the ground near rivers. Emeralds (Corduliidae) are forest-dwelling dragonflies with brilliant metallic green eyes, often seen flying at dusk along woodland paths. Spiketails (Cordulegastridae) are large, boldly striped yellow-and-black dragonflies that patrol forest streams."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://static.inaturalist.org/photos/487933/medium.jpg",
+            "alt": "Common Green Darner dragonfly, large with green thorax and blue abdomen",
+            "caption": "Common Green Darner (Darner family)",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://static.inaturalist.org/photos/27959033/medium.jpg",
+            "alt": "Widow Skimmer dragonfly with broad dark wing patches and white pruinose body",
+            "caption": "Widow Skimmer (Skimmer family)",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199054/medium.jpg",
+            "alt": "Dragonhunter, large black and yellow dragonfly",
+            "caption": "Dragonhunter (Clubtail family)",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Three major dragonfly families: darners (large, strong fliers), skimmers (common pond dragons), clubtails (stream specialists)"
+      },
+      {
         "type": "section",
         "heading": "The Major Damselfly Families",
         "text": "Damselflies are trickier to identify because many species look similar, but the families are distinctive. Broad-winged damselflies (Calopterygidae) are the showstoppers — the ebony jewelwing has metallic green body and entirely black wings, making it unmistakable along shaded forest streams. Spreadwings (Lestidae) are medium-sized damselflies that hold their wings at 45 degrees when perched; they're common at ponds and marshes. Pond damselflies (Coenagrionidae) are the most diverse group — this family includes the bluets (Enallagma), tiny blue-and-black damselflies that swarm by the hundreds over pond margins, as well as the forktails (Ischnura), dancers (Argia), and the aurora damselfly (Chromagrion conditum) with its striking blue-and-black pattern."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140998827/medium.jpg",
+            "alt": "Familiar Bluet damselfly, bright blue with black markings",
+            "caption": "Familiar Bluet (Pond damselfly)",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156997173/medium.jpeg",
+            "alt": "Variable Dancer damselfly with violet-blue coloring",
+            "caption": "Variable Dancer (Broad-winged damselfly)",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93909061/medium.jpg",
+            "alt": "Spotted Spreadwing damselfly with clear wings held at angle",
+            "caption": "Spotted Spreadwing (Spreadwing family)",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Three damselfly families: bluets (tiny, brilliant blue), dancers (stream-loving), spreadwings (hold wings at 45°)"
       },
       {
         "type": "section",
@@ -3475,6 +3833,36 @@
         "text": "Start with these ten species that are widespread and distinctive. Common green darner (Anax junius): our largest and most recognizable, with green thorax and blue abdomen — also a migrant that travels south in fall. Twelve-spotted skimmer (Libellula pulchella): distinctive white and brown wing spots. Widow skimmer (Libellula luctuosa): broad dark basal wing patches with white centers in males. Eastern pondhawk (Erythemis simplicicollis): jade-green females, powdery blue males. Blue dasher (Pachydiplax longipennis): small skimmer with blue abdomen and green eyes. Autumn meadowhawk (Sympetrum vicinum): the last dragonfly flying in fall, often seen into November. Ebony jewelwing (Calopteryx maculata): metallic green body, solid black wings, found along every shaded stream. Familiar bluet (Enallagma civile): tiny blue-and-black damselfly seen in massive numbers at pond margins. Eastern forktail (Ischnura verticalis): green-and-black damselfly found at nearly every body of water. Spotted spreadwing (Lestes congener): medium damselfly with metallic body, wings held at 45 degrees."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/155069998/medium.jpg",
+            "alt": "Autumn Meadowhawk, small red dragonfly perched on vegetation",
+            "caption": "Autumn Meadowhawk",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/83883247/medium.jpg",
+            "alt": "Eastern Amberwing, tiny dragonfly with amber-colored wings",
+            "caption": "Eastern Amberwing",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2301163/medium.jpg",
+            "alt": "Calico Pennant dragonfly with red and yellow spotted wings",
+            "caption": "Calico Pennant",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8815161/medium.jpeg",
+            "alt": "Dot-tailed Whiteface dragonfly with distinctive white face and black body with yellow dot",
+            "caption": "Dot-tailed Whiteface",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Four more species to know: meadowhawks turn red in fall, amberwings mimic wasps, pennants flag from perches, whitefaces favor bogs"
+      },
+      {
         "type": "section",
         "heading": "Dragonflies as Environmental Indicators",
         "text": "Because their nymphs are aquatic for years and have varying pollution tolerances, dragonfly diversity is one of the best biological indicators of water quality. A pond with 30+ species likely has clean, well-oxygenated water with diverse habitat structure. A pond with only a few tolerant species (like common green darners and eastern pondhawks) may have degraded water quality. Clubtails and spiketails, which require clean streams with sandy or rocky bottoms, are particularly sensitive indicators. Emeralds, which need forested wetlands, indicate intact surrounding habitat. Tracking which species use a water body over the season gives you a detailed portrait of its ecological health — more informative than a single water chemistry test."
@@ -3483,6 +3871,24 @@
         "type": "section",
         "heading": "Migration: The Hidden Phenomenon",
         "text": "Few people realize that some dragonflies migrate. The common green darner is the most notable New England migrant — in September and October, massive swarms of green darners move south along the Atlantic coast, sometimes numbering in the thousands. They travel hundreds of miles, roosting in trees at night, and eventually reach the southern states where they breed. Their offspring fly north the following spring to repopulate New England ponds. The wandering glider (Pantala flavescens) may be the most traveled animal on Earth — it crosses oceans, using thermals and storm fronts to travel between continents. On a clear fall day, stand at a coastal promontory and watch the sky — you may see strings of green darners heading south, silhouetted against the blue."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/180989775/medium.jpg",
+            "alt": "Wandering Glider dragonfly in flight, pale golden-orange",
+            "caption": "Wandering Glider — crosses oceans",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59856936/medium.jpeg",
+            "alt": "Black Saddlebags dragonfly with dark wing patches",
+            "caption": "Black Saddlebags — migratory swarms in fall",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Migratory dragonflies: wandering gliders travel between continents; saddlebags form visible fall swarms along coastlines"
       },
       {
         "type": "section",
@@ -3887,6 +4293,36 @@
         "text": "Experienced foragers talk about the 'Foolproof Four' — species so distinctive that once you learn them, misidentification is nearly impossible. They are: chicken of the woods (Laetiporus sulphureus) — bright orange-and-yellow shelving brackets on trees, unmistakable; hen of the woods / maitake (Grifola frondosa) — a large rosette of gray-brown overlapping caps at the base of oaks; giant puffball (Calvatia gigantea) — a white ball the size of a soccer ball or larger, with uniform white flesh inside (no gills, no stem); and chanterelles (Cantharellus cibarius and relatives) — golden, funnel-shaped, with blunt ridges (not true gills) running down the stem, and a fruity apricot-like smell. To this list, many add lion's mane (Hericium species) — cascading white icicle-like teeth on hardwood trees — and oyster mushrooms (Pleurotus ostreatus) — white to gray shelf-like caps with decurrent gills on dead hardwood."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/151257149/medium.jpeg",
+            "alt": "Chicken of the Woods mushroom showing bright orange and yellow brackets on a tree",
+            "caption": "Chicken of the Woods",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/99085994/medium.jpg",
+            "alt": "Hen of the Woods mushroom showing gray-brown overlapping rosette at base of tree",
+            "caption": "Hen of the Woods (Maitake)",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51450983/medium.jpg",
+            "alt": "Giant Puffball mushroom, large white sphere on forest floor",
+            "caption": "Giant Puffball",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416937456/medium.jpeg",
+            "alt": "Golden Chanterelle mushroom showing funnel shape and blunt ridges",
+            "caption": "Golden Chanterelle",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "The Foolproof Four — four beginner-safe species with no dangerous lookalikes"
+      },
+      {
         "type": "section",
         "heading": "Chicken of the Woods: The Beginner's Trophy",
         "text": "Chicken of the woods (Laetiporus sulphureus) is probably the best first wild mushroom to learn. It's large, vividly colored (bright orange on top, sulfur-yellow underneath), grows in shelving brackets on trees, and has no dangerous lookalikes. It fruits from late spring through fall on oaks and other hardwoods. The closely related Laetiporus cincinnatus grows at the base of trees rather than on the trunk and is white underneath instead of yellow — equally edible and some say even better tasting. Young specimens are tender and moist; old ones become tough and chalky. Harvest only young, fresh specimens from hardwoods (those growing on conifers, eucalyptus, or locust can cause digestive upset in some people). The flavor and texture genuinely resemble chicken breast, especially when sautéed in butter."
@@ -3897,9 +4333,45 @@
         "text": "Chanterelles are the gold standard of wild mushroom cuisine. The golden chanterelle (Cantharellus cibarius) has a yellow to orange cap, blunt forking ridges (not blade-like gills) running down the stem, white flesh when cut, and a distinctive fruity apricot aroma. The smooth chanterelle (C. lateritius) is similar but with a smoother underside. The cinnabar chanterelle (C. cinnabarinus) is small and bright red-orange. They fruit from July through October in oak and beech forests, often in moss. The main lookalike is the jack-o-lantern mushroom (Omphalotus illudens) — it's orange but grows in dense clusters on wood (often buried roots), has true blade-like gills, and will make you violently ill. The false chanterelle (Hygrophoropsis aurantiaca) has true forking gills and grows on decaying wood. Key rule: real chanterelles grow from soil, have blunt ridges, and smell like apricots."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416937456/medium.jpeg",
+            "alt": "Golden Chanterelle with blunt ridges and funnel shape",
+            "caption": "Golden Chanterelle (SAFE)",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22330674/medium.jpg",
+            "alt": "Jack-o-lantern mushroom with true blade-like gills growing in cluster",
+            "caption": "Jack-o'-Lantern (TOXIC)",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Know the difference: chanterelles have blunt ridges and grow from soil; jack-o'-lanterns have true gills and grow in clusters on wood"
+      },
+      {
         "type": "section",
         "heading": "Morels: Spring's Prize",
         "text": "Morels (Morchella species) are the most prized spring mushrooms, fruiting in April and May when few other edible species are up. They have a distinctive honeycomb-patterned cap that is completely hollow when sliced lengthwise — cap and stem form one continuous hollow chamber. They favor disturbed areas: old apple orchards, burned areas, elm trees (alive or recently dead), tulip poplars, and ash trees. The critical lookalike is the false morel (Gyromitra esculenta), which has a wrinkled, brain-like cap (not a honeycomb pattern) and is not hollow when cut — the interior has cottony fibers. False morels contain gyromitrin, a compound that metabolizes to monomethylhydrazine (rocket fuel) and can cause liver failure. The hollow-test is simple and definitive: slice it top to bottom. True morel = hollow. False morel = not hollow."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/39397454/medium.jpeg",
+            "alt": "True morel mushroom with honeycomb-patterned cap",
+            "caption": "True Morel (SAFE) — honeycomb pattern, hollow inside",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1865611/medium.jpg",
+            "alt": "False morel with wrinkled brain-like cap",
+            "caption": "False Morel (DEADLY) — wrinkled, not hollow",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "The hollow test: slice top to bottom. True morel = completely hollow. False morel = cottony interior."
       },
       {
         "type": "section",
@@ -3907,9 +4379,51 @@
         "text": "Black trumpets (Craterellus fallax in eastern North America) are among the finest edible mushrooms and possibly the safest — they have zero dangerous lookalikes. The challenge is finding them: they're thin, dark gray to black, funnel-shaped, and grow directly from the forest floor in oak and beech woods, perfectly camouflaged against dark leaf litter. They fruit from July through October, often in the same spots year after year. Once you find a patch, mark it — they're reliable perennials. Their flavor is rich, smoky, and almost truffle-like when dried. They dehydrate beautifully and reconstitute well. The trick to finding them is to look for moist areas with thin leaf cover in hardwood forests, especially on slopes — once your eye calibrates to their dark color against dark ground, you'll suddenly see dozens."
       },
       {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://static.inaturalist.org/photos/9889892/medium.jpg",
+            "alt": "Black trumpet mushrooms, dark funnel-shaped, camouflaged against leaf litter",
+            "caption": "Black Trumpets — zero dangerous lookalikes",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55208721/medium.jpg",
+            "alt": "Lion's Mane mushroom with cascading white icicle-like teeth on hardwood",
+            "caption": "Lion's Mane — unmistakable on hardwoods",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Two more nearly foolproof species to add to your repertoire"
+      },
+      {
         "type": "section",
         "heading": "The Deadly Species You Must Know",
         "text": "Three species in New England can kill you. The death cap (Amanita phalloides) is a medium-sized mushroom with a greenish to yellowish cap, white gills, a ring (skirt) on the stem, and a sack-like volva at the base. It contains amatoxins that destroy the liver over 3–5 days, often after a deceptive period of feeling better. There is no antidote — treatment is supportive and sometimes requires liver transplant. The destroying angel (Amanita bisporigera) is similar but pure white, equally deadly. Both grow on the ground near oaks and other hardwoods in summer and fall. The deadly Galerina (Galerina marginata) is a small brown mushroom that grows in clusters on decaying wood — it contains the same amatoxins as the death cap. It can be confused with honey mushrooms. Always spore-print any brown mushroom growing on wood: Galerina prints rusty-brown, honey mushroom prints white."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289673781/medium.jpg",
+            "alt": "Death Cap mushroom with greenish cap and white gills",
+            "caption": "Death Cap — often fatal",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/158303/medium.jpg",
+            "alt": "Destroying Angel mushroom, pure white with ring on stem",
+            "caption": "Destroying Angel — equally deadly",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6084054/medium.jpeg",
+            "alt": "Deadly Galerina mushroom, small brown mushrooms on wood",
+            "caption": "Deadly Galerina — same toxins as death cap",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Learn to recognize these three species on sight — they contain amatoxins that can be fatal"
       },
       {
         "type": "section",
@@ -3920,6 +4434,24 @@
         "type": "section",
         "heading": "Boletes: A Safer Group to Explore",
         "text": "Boletes — mushrooms with a spongy pore surface instead of gills — are a relatively safe group for advancing beginners. The king bolete or porcini (Boletus edulis) is the most prized, with a brown cap, thick white stem with fine netting, and white pores that don't bruise blue. Birch boletes (Leccinum scabrum) have a brown cap with dark scabers (rough scales) on a white stem, always under birches. Painted suillus (Suillus spraguei) has a distinctive red and yellow shaggy cap and grows only under eastern white pine. The general bolete safety rule: avoid any bolete with red or orange pore surfaces, any that stain blue intensely when cut, and any that taste bitter. While very few boletes are truly dangerous, the bitter bolete is common, disgusting, and easily confused with porcini — a taste test of a tiny raw piece (spit it out) instantly reveals the vile bitterness."
+      },
+      {
+        "type": "image-grid",
+        "images": [
+          {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148026039/medium.jpeg",
+            "alt": "King Bolete (Porcini) with brown cap and thick white stem",
+            "caption": "King Bolete (Porcini)",
+            "attribution": "iNaturalist CC"
+          },
+          {
+            "url": "https://static.inaturalist.org/photos/181141120/medium.jpeg",
+            "alt": "Lobster Mushroom with bright orange-red exterior",
+            "caption": "Lobster Mushroom",
+            "attribution": "iNaturalist CC"
+          }
+        ],
+        "caption": "Boletes have spongy pores instead of gills — a safer group for advancing beginners"
       },
       {
         "type": "section",
