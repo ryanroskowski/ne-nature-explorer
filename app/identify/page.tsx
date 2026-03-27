@@ -301,7 +301,6 @@ export default function IdentifyPage() {
               type="file"
               accept="image/*"
               multiple
-              capture="environment"
               onChange={(e) => e.target.files && addImages(e.target.files)}
               className="hidden"
             />
