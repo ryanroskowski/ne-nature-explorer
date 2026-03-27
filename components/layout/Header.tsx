@@ -7,6 +7,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import SearchBar from "../ui/SearchBar";
 
 const navItems = [
+  { href: "/identify", label: "Identify", icon: "📷" },
   { href: "/explore", label: "Explore", icon: "🌳" },
   { href: "/browse", label: "Browse", icon: "📋" },
   { href: "/map", label: "Map", icon: "🗺️" },
