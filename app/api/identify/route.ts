@@ -1,5 +1,13 @@
 import { NextResponse, type NextRequest } from "next/server";
 
+// Allow larger body for multi-image uploads (default is 1MB in Next.js)
+export const config = {
+  api: { bodyParser: false },
+};
+
+// Increase max duration for Vercel serverless (free tier max 10s)
+export const maxDuration = 10;
+
 const PLANTNET_API_KEY = process.env.PLANTNET_API_KEY;
 const PLANTNET_URL = "https://my-api.plantnet.org/v2/identify/all";
 

@@ -47,7 +47,6 @@ function scientificNameToSlug(name: string): string {
 }
 
 export default function IdentifyPage() {
-  const [images, setImages] = useState<File[]>([]);
   const [previews, setPreviews] = useState<string[]>([]);
   const [organ, setOrgan] = useState<OrganType>("auto");
   const [results, setResults] = useState<PlantNetResult[] | null>(null);
@@ -82,32 +81,90 @@ export default function IdentifyPage() {
     }
   }, []);
 
+  // Compress image to max 1600px and JPEG to keep uploads small (mobile photos can be 5-10MB)
+  const compressImage = useCallback((file: File): Promise<File> => {
+    return new Promise((resolve) => {
+      // If already small enough, skip compression
+      if (file.size < 500 * 1024) {
+        resolve(file);
+        return;
+      }
+      const img = new Image();
+      const url = URL.createObjectURL(file);
+      img.onload = () => {
+        URL.revokeObjectURL(url);
+        const canvas = document.createElement("canvas");
+        const maxDim = 1600;
+        let { width, height } = img;
+        if (width > maxDim || height > maxDim) {
+          if (width > height) {
+            height = Math.round((height * maxDim) / width);
+            width = maxDim;
+          } else {
+            width = Math.round((width * maxDim) / height);
+            height = maxDim;
+          }
+        }
+        canvas.width = width;
+        canvas.height = height;
+        const ctx = canvas.getContext("2d")!;
+        ctx.drawImage(img, 0, 0, width, height);
+        canvas.toBlob(
+          (blob) => {
+            if (blob) {
+              resolve(new File([blob], file.name.replace(/\.\w+$/, ".jpg"), { type: "image/jpeg" }));
+            } else {
+              resolve(file);
+            }
+          },
+          "image/jpeg",
+          0.85
+        );
+      };
+      img.onerror = () => {
+        URL.revokeObjectURL(url);
+        resolve(file);
+      };
+      img.src = url;
+    });
+  }, []);
+
+  // Convert data URL to Blob for FormData upload
+  const dataUrlToBlob = useCallback((dataUrl: string): Blob => {
+    const [header, base64] = dataUrl.split(",");
+    const mime = header.match(/:(.*?);/)?.[1] || "image/jpeg";
+    const bytes = atob(base64);
+    const arr = new Uint8Array(bytes.length);
+    for (let i = 0; i < bytes.length; i++) arr[i] = bytes.charCodeAt(i);
+    return new Blob([arr], { type: mime });
+  }, []);
+
   const addImages = useCallback((files: FileList | File[]) => {
     const newFiles = Array.from(files).filter(
       (f) => f.type.startsWith("image/") && f.size < 10 * 1024 * 1024
     );
     if (newFiles.length === 0) return;
 
-    setImages((prev) => {
-      const combined = [...prev, ...newFiles].slice(0, 5);
-      return combined;
+    // Compress images then store as data URLs — more reliable on mobile
+    // where File/Blob object refs can be garbage collected when the browser
+    // backgrounds the page to open the camera app
+    Promise.all(newFiles.map(compressImage)).then((compressed) => {
+      for (const file of compressed) {
+        const reader = new FileReader();
+        reader.onload = (e) => {
+          const dataUrl = e.target?.result as string;
+          setPreviews((prev) => [...prev, dataUrl].slice(0, 5));
+        };
+        reader.readAsDataURL(file);
+      }
     });
-
-    for (const file of newFiles) {
-      const reader = new FileReader();
-      reader.onload = (e) => {
-        setPreviews((prev) => [...prev, e.target?.result as string].slice(0, 5));
-      };
-      reader.readAsDataURL(file);
-    }
 
     // Clear previous results
     setResults(null);
     setError(null);
-  }, []);
+  }, [compressImage]);
 
   const removeImage = (index: number) => {
-    setImages((prev) => prev.filter((_, i) => i !== index));
     setPreviews((prev) => prev.filter((_, i) => i !== index));
     setResults(null);
     setError(null);
@@ -139,7 +196,7 @@ export default function IdentifyPage() {
   };
 
   const identify = async () => {
-    if (images.length === 0) return;
+    if (previews.length === 0) return;
 
     setLoading(true);
     setError(null);
@@ -147,10 +204,9 @@ export default function IdentifyPage() {
 
     try {
       const formData = new FormData();
-      for (const image of images) {
-        formData.append("images", image);
-      }
-      for (let i = 0; i < images.length; i++) {
+      for (let i = 0; i < previews.length; i++) {
+        const blob = dataUrlToBlob(previews[i]);
+        formData.append("images", blob, `photo-${i}.jpg`);
         formData.append("organs", organ);
       }
 
@@ -188,7 +244,8 @@ export default function IdentifyPage() {
         scientificNameToSlug(r.species.scientificNameWithoutAuthor)
       );
       checkSpeciesExistence(slugs);
-    } catch {
+    } catch (err) {
+      console.error("Identify fetch error:", err);
       setError("Failed to connect to identification service. Please try again.");
     } finally {
       setLoading(false);
@@ -196,12 +253,12 @@ export default function IdentifyPage() {
   };
 
   const reset = () => {
-    setImages([]);
     setPreviews([]);
     setResults(null);
     setError(null);
     setSpeciesExistence({});
     if (fileInputRef.current) fileInputRef.current.value = "";
+    if (cameraInputRef.current) cameraInputRef.current.value = "";
   };
 
   return (
@@ -302,7 +359,10 @@ export default function IdentifyPage() {
               type="file"
               accept="image/*"
               multiple
-              onChange={(e) => e.target.files && addImages(e.target.files)}
+              onChange={(e) => {
+                if (e.target.files) addImages(e.target.files);
+                e.target.value = "";  // Reset so same file can be re-selected
+              }}
               className="hidden"
             />
             {/* Camera input (capture=environment) */}
@@ -311,7 +371,10 @@ export default function IdentifyPage() {
               type="file"
               accept="image/*"
               capture="environment"
-              onChange={(e) => e.target.files && addImages(e.target.files)}
+              onChange={(e) => {
+                if (e.target.files) addImages(e.target.files);
+                e.target.value = "";  // Reset so camera can be used again
+              }}
               className="hidden"
             />
 
@@ -386,7 +449,7 @@ export default function IdentifyPage() {
           <div className="flex gap-3 mt-5">
             <button
               onClick={identify}
-              disabled={images.length === 0 || loading || isExhausted}
+              disabled={previews.length === 0 || loading || isExhausted}
               className="flex-1 bg-forest text-white font-ui font-medium py-3 px-6 rounded-xl hover:bg-forest-light transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
             >
               {loading ? (
@@ -418,7 +481,7 @@ export default function IdentifyPage() {
                 "Identify Plant"
               )}
             </button>
-            {(images.length > 0 || results) && (
+            {(previews.length > 0 || results) && (
               <button
                 onClick={reset}
                 className="px-5 py-3 rounded-xl border border-border text-text-secondary font-ui hover:bg-cream transition-colors"
