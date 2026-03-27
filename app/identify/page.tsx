@@ -322,19 +322,21 @@ export default function IdentifyPage() {
                   Upload a plant photo to identify
                 </p>
                 <div className="flex flex-col sm:flex-row gap-3 justify-center">
+                  {/* Take Photo — mobile only (on desktop capture just opens file picker) */}
                   <button
                     type="button"
                     onClick={() => cameraInputRef.current?.click()}
-                    className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg bg-forest text-white font-ui font-medium text-sm hover:bg-forest-light transition-colors"
+                    className="sm:hidden inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg bg-forest text-white font-ui font-medium text-sm hover:bg-forest-light transition-colors"
                   >
                     📷 Take Photo
                   </button>
                   <button
                     type="button"
                     onClick={() => fileInputRef.current?.click()}
-                    className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg border border-border text-text-primary font-ui font-medium text-sm hover:bg-cream transition-colors"
+                    className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg border border-border text-text-primary font-ui font-medium text-sm hover:bg-cream transition-colors sm:bg-forest sm:text-white sm:border-forest sm:hover:bg-forest-light"
                   >
-                    🖼️ Choose from Library
+                    <span className="sm:hidden">🖼️ Choose from Library</span>
+                    <span className="hidden sm:inline">📷 Upload Photo</span>
                   </button>
                 </div>
                 <p className="text-xs text-text-secondary mt-4">
