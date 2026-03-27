@@ -57,6 +57,7 @@ export default function IdentifyPage() {
   const [speciesExistence, setSpeciesExistence] = useState<Record<string, boolean>>({});
   const [remainingIds, setRemainingIds] = useState<number | null>(null);
   const fileInputRef = useRef<HTMLInputElement>(null);
+  const cameraInputRef = useRef<HTMLInputElement>(null);
 
   const isExhausted = remainingIds !== null && remainingIds <= 0;
 
@@ -289,13 +290,13 @@ export default function IdentifyPage() {
             }}
             onDragLeave={() => setDragActive(false)}
             onDrop={handleDrop}
-            onClick={() => fileInputRef.current?.click()}
-            className={`relative border-2 border-dashed rounded-xl p-8 text-center cursor-pointer transition-all ${
+            className={`relative border-2 border-dashed rounded-xl p-8 text-center transition-all ${
               dragActive
                 ? "border-forest bg-forest/5"
-                : "border-border hover:border-forest/50 hover:bg-cream"
+                : "border-border"
             }`}
           >
+            {/* Gallery input (no capture) */}
             <input
               ref={fileInputRef}
               type="file"
@@ -304,14 +305,39 @@ export default function IdentifyPage() {
               onChange={(e) => e.target.files && addImages(e.target.files)}
               className="hidden"
             />
+            {/* Camera input (capture=environment) */}
+            <input
+              ref={cameraInputRef}
+              type="file"
+              accept="image/*"
+              capture="environment"
+              onChange={(e) => e.target.files && addImages(e.target.files)}
+              className="hidden"
+            />
 
             {previews.length === 0 ? (
               <div>
-                <div className="text-4xl mb-3">📷</div>
-                <p className="text-text-primary font-ui font-medium">
-                  Tap to take a photo or upload
+                <div className="text-4xl mb-3">🌿</div>
+                <p className="text-text-primary font-ui font-medium mb-4">
+                  Upload a plant photo to identify
                 </p>
-                <p className="text-sm text-text-secondary mt-1">
+                <div className="flex flex-col sm:flex-row gap-3 justify-center">
+                  <button
+                    type="button"
+                    onClick={() => cameraInputRef.current?.click()}
+                    className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg bg-forest text-white font-ui font-medium text-sm hover:bg-forest-light transition-colors"
+                  >
+                    📷 Take Photo
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => fileInputRef.current?.click()}
+                    className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg border border-border text-text-primary font-ui font-medium text-sm hover:bg-cream transition-colors"
+                  >
+                    🖼️ Choose from Library
+                  </button>
+                </div>
+                <p className="text-xs text-text-secondary mt-4">
                   Drag & drop also works · Up to 5 images · JPEG or PNG
                 </p>
               </div>
