@@ -149,18 +149,6 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
 
       {/* Player area */}
       <div className="p-4 sm:p-5">
-        {/* Sonogram image */}
-        {current.sonogramUrl && (
-          <div className="mb-4 rounded-lg overflow-hidden bg-gray-900">
-            <img
-              src={current.sonogramUrl}
-              alt={`Sonogram of ${commonName} ${current.type}`}
-              className="w-full h-auto opacity-90"
-              loading="lazy"
-            />
-          </div>
-        )}
-
         {/* Play button + progress */}
         <div className="flex items-center gap-3">
           <button
