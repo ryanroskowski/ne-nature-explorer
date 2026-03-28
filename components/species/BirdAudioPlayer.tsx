@@ -6,6 +6,7 @@ import type { SpeciesAudio } from "@/lib/types";
 interface BirdAudioPlayerProps {
   audio: SpeciesAudio[];
   commonName: string;
+  xenoCantoUrl?: string;
 }
 
 const TYPE_LABELS: Record<string, { label: string; icon: string }> = {
@@ -27,7 +28,7 @@ function parseDuration(length: string): number {
   return parts.length === 2 ? parts[0] * 60 + parts[1] : 0;
 }
 
-export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerProps) {
+export default function BirdAudioPlayer({ audio, commonName, xenoCantoUrl }: BirdAudioPlayerProps) {
   const [activeIndex, setActiveIndex] = useState(0);
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
@@ -157,7 +158,7 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
     <div className="bg-card border border-border rounded-xl overflow-hidden">
       {/* Track selector tabs (if multiple recordings) */}
       {audio.length > 1 && (
-        <div className="flex overflow-x-auto border-b border-border scrollbar-none">
+        <div className="flex overflow-x-auto overflow-y-hidden border-b border-border" style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}>
           {audio.map((track, i) => {
             const info = TYPE_LABELS[track.type] || { label: track.type, icon: "🔊" };
             const displayLabel = track.label || info.label;
@@ -257,15 +258,6 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
             </a>
             {" · "}
             <a
-              href="https://xeno-canto.org"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-forest hover:underline"
-            >
-              Xeno-canto
-            </a>
-            {" · "}
-            <a
               href={current.license}
               target="_blank"
               rel="noopener noreferrer"
@@ -274,6 +266,16 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
               CC License
             </a>
           </p>
+          {xenoCantoUrl && (
+            <a
+              href={xenoCantoUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 mt-2 text-xs text-forest hover:underline font-ui"
+            >
+              🎵 More sounds on Xeno-canto →
+            </a>
+          )}
         </div>
       </div>
 

@@ -168,7 +168,7 @@ export default async function SpeciesPage({
       {/* Bird Audio */}
       {species.audio && species.audio.length > 0 && (
         <Section title="Listen" icon="🎶" accent="text-forest">
-          <BirdAudioPlayer audio={species.audio} commonName={species.commonName} />
+          <BirdAudioPlayer audio={species.audio} commonName={species.commonName} xenoCantoUrl={species.xenoCantoUrl} />
         </Section>
       )}
 
@@ -311,16 +311,6 @@ export default async function SpeciesPage({
             className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-card border border-border rounded-lg text-text-secondary hover:text-forest hover:border-forest/30 transition-colors"
           >
             Wikipedia →
-          </a>
-        )}
-        {species.xenoCantoUrl && (
-          <a
-            href={species.xenoCantoUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-card border border-border rounded-lg text-text-secondary hover:text-forest hover:border-forest/30 transition-colors"
-          >
-            🎵 Xeno-canto →
           </a>
         )}
       </div>
