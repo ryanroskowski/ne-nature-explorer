@@ -22,6 +22,11 @@ function formatTime(seconds: number): string {
   return `${mins}:${secs.toString().padStart(2, "0")}`;
 }
 
+function parseDuration(length: string): number {
+  const parts = length.split(":").map(Number);
+  return parts.length === 2 ? parts[0] * 60 + parts[1] : 0;
+}
+
 export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerProps) {
   const [activeIndex, setActiveIndex] = useState(0);
   const [isPlaying, setIsPlaying] = useState(false);
@@ -29,7 +34,7 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
   const [duration, setDuration] = useState(0);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const audioRef = useRef<HTMLAudioElement | null>(null);
+  const audioRefs = useRef<(HTMLAudioElement | null)[]>([]);
   const progressRef = useRef<HTMLDivElement>(null);
 
   const current = audio[activeIndex];
@@ -37,8 +42,10 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
 
   const typeInfo = TYPE_LABELS[current.type] || { label: current.type, icon: "🔊" };
 
+  const getActiveAudio = () => audioRefs.current[activeIndex];
+
   const togglePlay = useCallback(() => {
-    const el = audioRef.current;
+    const el = getActiveAudio();
     if (!el) return;
 
     if (isPlaying) {
@@ -51,11 +58,12 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
         setIsLoading(false);
       });
     }
-  }, [isPlaying]);
+  }, [isPlaying, activeIndex]);
 
   const switchTrack = useCallback((index: number) => {
     if (index === activeIndex) return;
-    const el = audioRef.current;
+    // Pause current track
+    const el = getActiveAudio();
     if (el) {
       el.pause();
       el.currentTime = 0;
@@ -63,31 +71,31 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
     setActiveIndex(index);
     setIsPlaying(false);
     setCurrentTime(0);
-    setDuration(0);
     setError(null);
+    // Read duration from new track's audio element
+    const newEl = audioRefs.current[index];
+    setDuration(newEl && isFinite(newEl.duration) ? newEl.duration : 0);
   }, [activeIndex]);
 
   const handleSeek = useCallback((e: React.MouseEvent<HTMLDivElement>) => {
-    const el = audioRef.current;
+    const el = getActiveAudio();
     const bar = progressRef.current;
     if (!el || !bar) return;
 
-    // Use el.duration if available, otherwise parse from metadata length string
     let dur = el.duration;
     if (!isFinite(dur)) {
-      const parts = current.length.split(":").map(Number);
-      dur = parts.length === 2 ? parts[0] * 60 + parts[1] : 0;
+      dur = parseDuration(audio[activeIndex].length);
     }
     if (dur <= 0) return;
 
     const rect = bar.getBoundingClientRect();
     const ratio = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
     el.currentTime = ratio * dur;
-  }, [current.length]);
+  }, [activeIndex, audio]);
 
-  // Audio element event handlers via useEffect
+  // Attach event listeners to the active audio element
   useEffect(() => {
-    const el = audioRef.current;
+    const el = getActiveAudio();
     if (!el) return;
 
     const onTimeUpdate = () => setCurrentTime(el.currentTime);
@@ -117,6 +125,11 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
     el.addEventListener("ended", onEnded);
     el.addEventListener("error", onError);
 
+    // If already loaded, grab the duration
+    if (isFinite(el.duration)) {
+      setDuration(el.duration);
+    }
+
     return () => {
       el.removeEventListener("timeupdate", onTimeUpdate);
       el.removeEventListener("loadedmetadata", onLoadedMetadata);
@@ -127,11 +140,7 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
     };
   }, [activeIndex]);
 
-  // Parse duration from metadata as fallback (e.g. "1:23" -> 83)
-  const parsedDuration = (() => {
-    const parts = current.length.split(":").map(Number);
-    return parts.length === 2 ? parts[0] * 60 + parts[1] : 0;
-  })();
+  const parsedDuration = parseDuration(current.length);
   const effectiveDuration = duration > 0 ? duration : parsedDuration;
   const progress = effectiveDuration > 0 ? (currentTime / effectiveDuration) * 100 : 0;
 
@@ -258,13 +267,15 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
         </div>
       </div>
 
-      {/* Hidden audio element */}
-      <audio
-        ref={audioRef}
-        key={current.audioUrl}
-        src={`/api/audio-proxy?url=${encodeURIComponent(current.audioUrl)}`}
-        preload="auto"
-      />
+      {/* All audio elements — preloaded in parallel */}
+      {audio.map((track, i) => (
+        <audio
+          key={track.xenoCantoId}
+          ref={(el) => { audioRefs.current[i] = el; }}
+          src={`/api/audio-proxy?url=${encodeURIComponent(track.audioUrl)}`}
+          preload="auto"
+        />
+      ))}
     </div>
   );
 }
