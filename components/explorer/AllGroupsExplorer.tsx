@@ -62,6 +62,16 @@ function expandLevels(node: TaxonomyNode, depth: number, ids: Set<number>) {
   }
 }
 
+/** Collect all species leaf nodes under a given node */
+function collectAllSpecies(node: TaxonomyNode): TaxonomyNode[] {
+  if (node.rank === "species") return [node];
+  const species: TaxonomyNode[] = [];
+  for (const child of node.children) {
+    species.push(...collectAllSpecies(child));
+  }
+  return species;
+}
+
 interface AllGroupsExplorerProps {
   allTrees: { group: GroupInfo; tree: TaxonomyNode }[];
   initialGroup?: string;
@@ -122,16 +132,23 @@ function InnerNode({
   depth,
   expandedIds,
   onToggle,
+  flattenedIds,
+  onToggleFlatten,
 }: {
   node: TaxonomyNode;
   depth: number;
   expandedIds: Set<number>;
   onToggle: (id: number) => void;
+  flattenedIds: Set<number>;
+  onToggleFlatten: (id: number) => void;
 }) {
   const isExpanded = expandedIds.has(node.id);
+  const isFlattened = flattenedIds.has(node.id);
   const hasChildren = node.children && node.children.length > 0;
   const isSpecies = node.rank === "species";
   const colorClass = rankColors[node.rank] || "text-text-primary";
+  // Only show flatten for nodes with grandchildren (not genus which directly holds species)
+  const hasGrandchildren = hasChildren && node.children.some(c => c.rank !== "species");
 
   if (isSpecies) return <SpeciesNode node={node} />;
 
@@ -224,18 +241,53 @@ function InnerNode({
             transition={{ duration: 0.2 }}
             className="overflow-hidden"
           >
+            {/* Flatten toggle button */}
+            {hasGrandchildren && node.speciesCount > 0 && (
+              <div className="pl-9 pr-3 pb-1">
+                <button
+                  onClick={(e) => { e.stopPropagation(); onToggleFlatten(node.id); }}
+                  className={`inline-flex items-center gap-1.5 text-xs font-ui px-2.5 py-1 rounded-lg border transition-colors ${
+                    isFlattened
+                      ? "bg-forest/10 text-forest border-forest/30 hover:bg-forest/15"
+                      : "text-text-secondary border-border hover:text-forest hover:border-forest/20 hover:bg-forest/5"
+                  }`}
+                >
+                  <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    {isFlattened ? (
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 10h16M4 14h16M4 18h16" />
+                    ) : (
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 10h18M3 14h18M7 6h14M7 18h14" />
+                    )}
+                  </svg>
+                  {isFlattened ? "Show hierarchy" : `Show all ${node.speciesCount} species`}
+                </button>
+              </div>
+            )}
+
             <div
               className={`ml-3 pl-3 border-l-2 border-border ${depth > 3 ? "ml-2 pl-2" : ""}`}
             >
-              {node.children.map((child) => (
-                <InnerNode
-                  key={child.id}
-                  node={child}
-                  depth={depth + 1}
-                  expandedIds={expandedIds}
-                  onToggle={onToggle}
-                />
-              ))}
+              {isFlattened ? (
+                // Flat species list
+                <div>
+                  {collectAllSpecies(node).map((sp) => (
+                    <SpeciesNode key={sp.id} node={sp} />
+                  ))}
+                </div>
+              ) : (
+                // Normal hierarchy
+                node.children.map((child) => (
+                  <InnerNode
+                    key={child.id}
+                    node={child}
+                    depth={depth + 1}
+                    expandedIds={expandedIds}
+                    onToggle={onToggle}
+                    flattenedIds={flattenedIds}
+                    onToggleFlatten={onToggleFlatten}
+                  />
+                ))
+              )}
             </div>
           </motion.div>
         )}
@@ -324,6 +376,21 @@ export default function AllGroupsExplorer({ allTrees, initialGroup }: AllGroupsE
         next.add(id);
       }
       persistIds(next);
+      return next;
+    });
+  }, []);
+
+  // Flattened nodes state — which nodes are showing all species flat
+  const [flattenedIds, setFlattenedIds] = useState<Set<number>>(new Set());
+
+  const handleToggleFlatten = useCallback((id: number) => {
+    setFlattenedIds((prev) => {
+      const next = new Set(prev);
+      if (next.has(id)) {
+        next.delete(id);
+      } else {
+        next.add(id);
+      }
       return next;
     });
   }, []);
@@ -462,16 +529,46 @@ export default function AllGroupsExplorer({ allTrees, initialGroup }: AllGroupsE
                     transition={{ duration: 0.2 }}
                     className="overflow-hidden"
                   >
+                    {/* Flatten toggle for root groups */}
+                    {tree.children.some(c => c.rank !== "species") && tree.speciesCount > 0 && (
+                      <div className="pl-9 pr-3 pb-1">
+                        <button
+                          onClick={(e) => { e.stopPropagation(); handleToggleFlatten(tree.id); }}
+                          className={`inline-flex items-center gap-1.5 text-xs font-ui px-2.5 py-1 rounded-lg border transition-colors ${
+                            flattenedIds.has(tree.id)
+                              ? "bg-forest/10 text-forest border-forest/30 hover:bg-forest/15"
+                              : "text-text-secondary border-border hover:text-forest hover:border-forest/20 hover:bg-forest/5"
+                          }`}
+                        >
+                          <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            {flattenedIds.has(tree.id) ? (
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 10h16M4 14h16M4 18h16" />
+                            ) : (
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 10h18M3 14h18M7 6h14M7 18h14" />
+                            )}
+                          </svg>
+                          {flattenedIds.has(tree.id) ? "Show hierarchy" : `Show all ${tree.speciesCount.toLocaleString()} species`}
+                        </button>
+                      </div>
+                    )}
                     <div className="ml-3 pl-3 border-l-2 border-border">
-                      {tree.children.map((child) => (
-                        <InnerNode
-                          key={child.id}
-                          node={child}
-                          depth={1}
-                          expandedIds={expandedIds}
-                          onToggle={handleToggle}
-                        />
-                      ))}
+                      {flattenedIds.has(tree.id) ? (
+                        collectAllSpecies(tree).map((sp) => (
+                          <SpeciesNode key={sp.id} node={sp} />
+                        ))
+                      ) : (
+                        tree.children.map((child) => (
+                          <InnerNode
+                            key={child.id}
+                            node={child}
+                            depth={1}
+                            expandedIds={expandedIds}
+                            onToggle={handleToggle}
+                            flattenedIds={flattenedIds}
+                            onToggleFlatten={handleToggleFlatten}
+                          />
+                        ))
+                      )}
                     </div>
                   </motion.div>
                 )}

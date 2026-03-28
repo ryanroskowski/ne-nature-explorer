@@ -55,21 +55,37 @@ function findNodePath(
   return null;
 }
 
+/** Collect all species leaf nodes under a given node */
+function collectAllSpecies(node: TaxonomyNode): TaxonomyNode[] {
+  if (node.rank === "species") return [node];
+  const species: TaxonomyNode[] = [];
+  for (const child of node.children) {
+    species.push(...collectAllSpecies(child));
+  }
+  return species;
+}
+
 function TaxonomyNodeComponent({
   node,
   depth = 0,
   expandedIds,
   onToggle,
+  flattenedIds,
+  onToggleFlatten,
 }: {
   node: TaxonomyNode;
   depth?: number;
   expandedIds: Set<number>;
   onToggle: (id: number) => void;
+  flattenedIds: Set<number>;
+  onToggleFlatten: (id: number) => void;
 }) {
   const isExpanded = expandedIds.has(node.id);
+  const isFlattened = flattenedIds.has(node.id);
   const hasChildren = node.children && node.children.length > 0;
   const isSpecies = node.rank === "species";
   const colorClass = rankColors[node.rank] || "text-text-primary";
+  const hasGrandchildren = hasChildren && node.children.some(c => c.rank !== "species");
 
   if (isSpecies) {
     return (
@@ -199,16 +215,65 @@ function TaxonomyNodeComponent({
             transition={{ duration: 0.2 }}
             className="overflow-hidden"
           >
+            {/* Flatten toggle */}
+            {hasGrandchildren && node.speciesCount > 0 && (
+              <div className="pl-9 pr-3 pb-1">
+                <button
+                  onClick={(e) => { e.stopPropagation(); onToggleFlatten(node.id); }}
+                  className={`inline-flex items-center gap-1.5 text-xs font-ui px-2.5 py-1 rounded-lg border transition-colors ${
+                    isFlattened
+                      ? "bg-forest/10 text-forest border-forest/30 hover:bg-forest/15"
+                      : "text-text-secondary border-border hover:text-forest hover:border-forest/20 hover:bg-forest/5"
+                  }`}
+                >
+                  <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    {isFlattened ? (
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 10h16M4 14h16M4 18h16" />
+                    ) : (
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 10h18M3 14h18M7 6h14M7 18h14" />
+                    )}
+                  </svg>
+                  {isFlattened ? "Show hierarchy" : `Show all ${node.speciesCount} species`}
+                </button>
+              </div>
+            )}
             <div className={`ml-3 pl-3 border-l-2 border-border ${depth > 3 ? "ml-2 pl-2" : ""}`}>
-              {node.children.map((child) => (
-                <TaxonomyNodeComponent
-                  key={child.id}
-                  node={child}
-                  depth={depth + 1}
-                  expandedIds={expandedIds}
-                  onToggle={onToggle}
-                />
-              ))}
+              {isFlattened ? (
+                collectAllSpecies(node).map((sp) => (
+                  <Link
+                    key={sp.id}
+                    href={`/species/${slugify(sp.name)}`}
+                    className="group flex items-center gap-3 py-2.5 px-3 rounded-xl hover:bg-forest/5 transition-colors"
+                  >
+                    <div className="relative w-10 h-10 rounded-lg overflow-hidden bg-cream-dark shrink-0">
+                      {sp.representativePhotoUrl ? (
+                        <Image src={sp.representativePhotoUrl} alt={sp.commonName} fill className="object-cover" sizes="40px" placeholder="blur" blurDataURL={blurDataURL} />
+                      ) : (
+                        <div className="flex items-center justify-center h-full text-text-muted text-sm">🌿</div>
+                      )}
+                    </div>
+                    <div className="min-w-0 flex-1">
+                      <span className="font-serif font-medium text-text-primary group-hover:text-forest transition-colors capitalize">{sp.commonName}</span>
+                      <span className="text-xs italic text-text-secondary ml-2 hidden sm:inline">{sp.name}</span>
+                    </div>
+                    <svg className="w-4 h-4 text-text-muted opacity-0 group-hover:opacity-100 transition-opacity shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </Link>
+                ))
+              ) : (
+                node.children.map((child) => (
+                  <TaxonomyNodeComponent
+                    key={child.id}
+                    node={child}
+                    depth={depth + 1}
+                    expandedIds={expandedIds}
+                    onToggle={onToggle}
+                    flattenedIds={flattenedIds}
+                    onToggleFlatten={onToggleFlatten}
+                  />
+                ))
+              )}
             </div>
           </motion.div>
         )}
@@ -329,6 +394,20 @@ export default function TaxonomyExplorer({
     });
   }, []);
 
+  const [flattenedIds, setFlattenedIds] = useState<Set<number>>(new Set());
+
+  const handleToggleFlatten = useCallback((id: number) => {
+    setFlattenedIds((prev) => {
+      const next = new Set(prev);
+      if (next.has(id)) {
+        next.delete(id);
+      } else {
+        next.add(id);
+      }
+      return next;
+    });
+  }, []);
+
   // Expand all / collapse all
   function expandAll() {
     const all = new Set<number>();
@@ -375,6 +454,8 @@ export default function TaxonomyExplorer({
           depth={0}
           expandedIds={expandedIds}
           onToggle={handleToggle}
+          flattenedIds={flattenedIds}
+          onToggleFlatten={handleToggleFlatten}
         />
       </div>
     </div>
