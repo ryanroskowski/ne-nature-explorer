@@ -125,8 +125,13 @@ export default async function SpeciesPage({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      {/* Breadcrumbs */}
-      <Breadcrumbs items={species.breadcrumb} />
+      {/* Breadcrumbs — append ?group= so explore links load the right taxonomy */}
+      <Breadcrumbs items={species.breadcrumb.map(item => ({
+        ...item,
+        slug: item.slug.startsWith("explore") && species.group
+          ? `${item.slug}?group=${species.group}`
+          : item.slug,
+      }))} />
 
       {/* Header */}
       <header className="mb-6">
