@@ -90,7 +90,16 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
 
     const rect = bar.getBoundingClientRect();
     const ratio = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
-    el.currentTime = ratio * dur;
+    const targetTime = ratio * dur;
+
+    // If audio hasn't loaded enough to seek, start playing first to trigger loading
+    if (el.readyState < 2) {
+      el.play().then(() => {
+        el.currentTime = targetTime;
+      }).catch(() => {});
+    } else {
+      el.currentTime = targetTime;
+    }
   }, [activeIndex, audio]);
 
   // Attach event listeners to the active audio element

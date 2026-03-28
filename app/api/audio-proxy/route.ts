@@ -3,9 +3,9 @@ import { NextRequest, NextResponse } from "next/server";
 /**
  * Proxy for Xeno-canto audio files.
  *
- * Xeno-canto's download endpoint returns Content-Disposition: attachment
- * and WAV files, which can cause issues with <audio> element playback.
- * This proxy strips those headers and streams the audio through.
+ * Buffers the full response so we can provide Content-Length and
+ * Accept-Ranges headers, enabling browser seeking even when
+ * Xeno-canto uses chunked transfer encoding.
  *
  * Only allows xeno-canto.org URLs for security.
  */
@@ -27,39 +27,49 @@ export async function GET(request: NextRequest) {
   }
 
   try {
-    // Forward range requests for seeking support
-    const headers: Record<string, string> = {};
-    const rangeHeader = request.headers.get("range");
-    if (rangeHeader) {
-      headers["Range"] = rangeHeader;
-    }
+    const response = await fetch(url);
 
-    const response = await fetch(url, { headers });
-
-    if (!response.ok && response.status !== 206) {
+    if (!response.ok) {
       return NextResponse.json(
         { error: "Failed to fetch audio" },
         { status: response.status }
       );
     }
 
+    // Buffer the full response so we know the size and can support range requests
+    const buffer = Buffer.from(await response.arrayBuffer());
     const contentType = response.headers.get("content-type") || "audio/mpeg";
-    const contentLength = response.headers.get("content-length");
-    const contentRange = response.headers.get("content-range");
-    const acceptRanges = response.headers.get("accept-ranges");
 
-    const responseHeaders: Record<string, string> = {
-      "Content-Type": contentType,
-      "Cache-Control": "public, max-age=86400", // Cache for 1 day
-    };
+    // Handle range requests for seeking
+    const rangeHeader = request.headers.get("range");
+    if (rangeHeader) {
+      const match = rangeHeader.match(/bytes=(\d+)-(\d*)/);
+      if (match) {
+        const start = parseInt(match[1], 10);
+        const end = match[2] ? parseInt(match[2], 10) : buffer.length - 1;
+        const chunk = buffer.subarray(start, end + 1);
 
-    if (contentLength) responseHeaders["Content-Length"] = contentLength;
-    if (contentRange) responseHeaders["Content-Range"] = contentRange;
-    if (acceptRanges) responseHeaders["Accept-Ranges"] = acceptRanges;
+        return new NextResponse(chunk, {
+          status: 206,
+          headers: {
+            "Content-Type": contentType,
+            "Content-Length": chunk.length.toString(),
+            "Content-Range": `bytes ${start}-${end}/${buffer.length}`,
+            "Accept-Ranges": "bytes",
+            "Cache-Control": "public, max-age=86400",
+          },
+        });
+      }
+    }
 
-    return new NextResponse(response.body, {
-      status: response.status,
-      headers: responseHeaders,
+    return new NextResponse(buffer, {
+      status: 200,
+      headers: {
+        "Content-Type": contentType,
+        "Content-Length": buffer.length.toString(),
+        "Accept-Ranges": "bytes",
+        "Cache-Control": "public, max-age=86400",
+      },
     });
   } catch (err) {
     console.error("Audio proxy error:", err);
