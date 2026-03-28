@@ -14,6 +14,7 @@ import type {
   TaxonomyNode,
   SpeciesData,
   SpeciesPhoto,
+  SpeciesAudio,
   BreadcrumbItem,
   RelatedSpecies,
   AbundanceTier,
@@ -79,6 +80,25 @@ export function assemble(
 
   const traitsMap: Record<string, PipelineSpeciesTraits> =
     loadJsonOptional("species-traits.json") || {};
+
+  // Load bird audio data (from Stage 7)
+  interface BirdAudioEntry {
+    xenoCantoId: string;
+    type: string;
+    audioUrl: string;
+    pageUrl: string;
+    recordist: string;
+    license: string;
+    quality: string;
+    length: string;
+    location: string;
+    sonogramUrl: string;
+  }
+  const audioData: Record<string, BirdAudioEntry[]> =
+    groupKey === "birds" ? (loadJsonOptional("audio.json") || {}) : {};
+  if (groupKey === "birds" && Object.keys(audioData).length > 0) {
+    console.log(`  Loaded audio data for ${Object.keys(audioData).length} bird species`);
+  }
 
   if (Object.keys(speciesContent).length === 0) {
     console.warn("  Note: No species content found. Species pages will have placeholder text.");
@@ -193,6 +213,25 @@ export function assemble(
       contextualKnowledge: content?.contextualKnowledge || null,
       compareHints: content?.compareHints || "",
       relatedSpecies: siblings,
+      // Audio recordings (birds only)
+      ...(audioData[species.taxonId.toString()]?.length
+        ? {
+            audio: audioData[species.taxonId.toString()].map(
+              (a): SpeciesAudio => ({
+                xenoCantoId: a.xenoCantoId,
+                type: a.type,
+                audioUrl: a.audioUrl,
+                pageUrl: a.pageUrl,
+                recordist: a.recordist,
+                license: a.license,
+                quality: a.quality,
+                length: a.length,
+                location: a.location,
+                sonogramUrl: a.sonogramUrl,
+              })
+            ),
+          }
+        : {}),
       isNative: traitsMap[species.taxonId.toString()]?.isNative,
       establishmentMeans: species.establishmentMeans,
       wikipediaUrl: species.wikipediaUrl,

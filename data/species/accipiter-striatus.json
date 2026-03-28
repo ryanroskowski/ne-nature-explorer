@@ -220,6 +220,44 @@
   "contextualKnowledge": "The Sharp-shinned Hawk belongs to the genus Accipiter, known as 'true hawks' or 'bird hawks,' which are specialized songbird hunters. This distinguishes them from Buteo hawks (like Red-tailed Hawks) that prefer hunting mammals and reptiles in open areas rather than chasing birds through forests.",
   "compareHints": "As the only Accipiter in our dataset, Sharp-shinned Hawks differ from other New England raptors by their forest-specialist lifestyle and songbird-focused diet. Unlike the soaring Buteo hawks that hunt in open fields, Sharp-shins are built for quick sprints through dense woods. Their short wings and long tail make them the fighter jets of the hawk world, while Red-tailed Hawks are more like cargo planes - built for different jobs entirely.",
   "relatedSpecies": [],
+  "audio": [
+    {
+      "xenoCantoId": "1014685",
+      "type": "song",
+      "audioUrl": "https://xeno-canto.org/1014685/download",
+      "pageUrl": "https://xeno-canto.org/1014685",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "La Côte-de-Beaupré (near  La Barrière-du-Maurice), Capitale-Nationale, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014685/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "973880",
+      "type": "call",
+      "audioUrl": "https://xeno-canto.org/973880/download",
+      "pageUrl": "https://xeno-canto.org/973880",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "2:10",
+      "location": "Rucker Canyon, Chiricahua Mountains",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/973880/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "923859",
+      "type": "alarm",
+      "audioUrl": "https://xeno-canto.org/923859/download",
+      "pageUrl": "https://xeno-canto.org/923859",
+      "recordist": "Ray Cooke",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:53",
+      "location": "Kejimkujic National Park, Nova Scotia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EMFMDDVOUG/923859/grey-medium.png"
+    }
+  ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sharp-shinned_hawk",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/5097"

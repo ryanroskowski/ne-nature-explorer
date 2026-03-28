@@ -11,6 +11,7 @@ import RelatedSpecies from "@/components/species/RelatedSpecies";
 import AbundanceDots from "@/components/ui/AbundanceDots";
 import FamilyBadge from "@/components/ui/FamilyBadge";
 import NativeStatusBadge from "@/components/ui/NativeStatusBadge";
+import BirdAudioPlayer from "@/components/species/BirdAudioPlayer";
 
 // Allow on-demand rendering — too many species (~16k) to pre-build at deploy time.
 // Pages are generated on first visit, then cached by Vercel's CDN.
@@ -158,6 +159,13 @@ export default async function SpeciesPage({
 
       {/* Photo Gallery */}
       <PhotoGallery photos={species.photos} />
+
+      {/* Bird Audio */}
+      {species.audio && species.audio.length > 0 && (
+        <Section title="Listen" icon="🎶" accent="text-forest">
+          <BirdAudioPlayer audio={species.audio} commonName={species.commonName} />
+        </Section>
+      )}
 
       {/* Why This Name? */}
       {species.nameStory && (

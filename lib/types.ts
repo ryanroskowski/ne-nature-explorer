@@ -80,6 +80,9 @@ export interface SpeciesData {
   // Related species in the same genus
   relatedSpecies: RelatedSpecies[];
 
+  // Audio recordings (birds)
+  audio?: SpeciesAudio[];
+
   // Metadata
   isNative?: boolean;
   establishmentMeans?: string;
@@ -107,6 +110,19 @@ export interface SpeciesPhoto {
   attribution: string;
   licenseCode: string;
   observationUrl: string;
+}
+
+export interface SpeciesAudio {
+  xenoCantoId: string;
+  type: string;         // "song", "call", "alarm", "drumming"
+  audioUrl: string;     // direct MP3 URL
+  pageUrl: string;      // xeno-canto page URL
+  recordist: string;
+  license: string;
+  quality: string;      // A, B, etc.
+  length: string;       // "0:45"
+  location: string;
+  sonogramUrl: string;
 }
 
 export interface RelatedSpecies {

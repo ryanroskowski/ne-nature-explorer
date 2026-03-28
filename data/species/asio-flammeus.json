@@ -228,6 +228,44 @@
       "distinction": "undefined."
     }
   ],
+  "audio": [
+    {
+      "xenoCantoId": "731000",
+      "type": "song",
+      "audioUrl": "https://xeno-canto.org/731000/download",
+      "pageUrl": "https://xeno-canto.org/731000",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "3:03",
+      "location": "Gransjön, Vilhelmina Municipality, Västerbotten County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/731000/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1078228",
+      "type": "call",
+      "audioUrl": "https://xeno-canto.org/1078228/download",
+      "pageUrl": "https://xeno-canto.org/1078228",
+      "recordist": "Paul Kelly",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:08",
+      "location": "Tacumshin Lake (East End), County Wexford",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/1078228/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1054952",
+      "type": "alarm",
+      "audioUrl": "https://xeno-canto.org/1054952/download",
+      "pageUrl": "https://xeno-canto.org/1054952",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:28",
+      "location": "Pointe du Van, Cléden-Cap-Sizun, Finistere, Bretagne",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1054952/grey-medium.png"
+    }
+  ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Short-eared_owl",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/20315"
