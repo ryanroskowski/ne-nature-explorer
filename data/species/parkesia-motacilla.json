@@ -221,6 +221,7 @@
     {
       "xenoCantoId": "1036413",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1036413/download",
       "pageUrl": "https://xeno-canto.org/1036413",
       "recordist": "Bobby Wilcox",
@@ -231,31 +232,73 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1036413/grey-medium.png"
     },
     {
-      "xenoCantoId": "828214",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/828214/download",
-      "pageUrl": "https://xeno-canto.org/828214",
+      "xenoCantoId": "828223",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/828223/download",
+      "pageUrl": "https://xeno-canto.org/828223",
       "recordist": "Richard E. Webster",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:00",
-      "location": "McCormack Lake, Mark Twain NF, MO",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/828214/grey-medium.png"
+      "length": "1:07",
+      "location": "Koomer Ridge Campground, Daniel Boone NF, Kentucky",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/828223/grey-medium.png"
     },
     {
-      "xenoCantoId": "714922",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/714922/download",
-      "pageUrl": "https://xeno-canto.org/714922",
+      "xenoCantoId": "723381",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/723381/download",
+      "pageUrl": "https://xeno-canto.org/723381",
       "recordist": "David A. Brinkman",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:14",
+      "length": "1:26",
+      "location": "Brookville Township (near  Brookville), Franklin County, Indiana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/723381/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "805820",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/805820/download",
+      "pageUrl": "https://xeno-canto.org/805820",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:46",
       "location": "Harrison Township (near  Harrison), Hamilton County, Ohio",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/714922/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/805820/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "501527",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/501527/download",
+      "pageUrl": "https://xeno-canto.org/501527",
+      "recordist": "Lauren Harter",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:47",
+      "location": "REMM-- El Chalate Grande, Sonora, MX",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YQNGFTBRRT/501527/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "478244",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/478244/download",
+      "pageUrl": "https://xeno-canto.org/478244",
+      "recordist": "Paul Driver",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Lower Frederick Township (near  Schwenksville), Montgomery County, Pennsylvania",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/478244/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Louisiana_waterthrush",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/73148"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/73148",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Parkesia-motacilla"
 }

@@ -355,20 +355,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "710935",
+      "xenoCantoId": "707449",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/710935/download",
-      "pageUrl": "https://xeno-canto.org/710935",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/707449/download",
+      "pageUrl": "https://xeno-canto.org/707449",
+      "recordist": "Sam Smith",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Bison Paddock (near  San Francisco), San Francisco County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XHFOBKHKPX/707449/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "647206",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/647206/download",
+      "pageUrl": "https://xeno-canto.org/647206",
       "recordist": "Paul Marvin",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:39",
-      "location": "Bird and Butterfly Garden, Tijuana River Valley Regional Park, San Diego Co, California",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/710935/grey-medium.png"
+      "length": "1:08",
+      "location": "Mount Laguna, Agua Dulce Creek, San Diego County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/647206/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "597954",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/597954/download",
+      "pageUrl": "https://xeno-canto.org/597954",
+      "recordist": "Simon Elliott",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Pacific Rim National Park Reserve (near  Ucluelet), Alberni-Clayoquot, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FFFADKCCII/597954/grey-medium.png"
     },
     {
       "xenoCantoId": "1035703",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1035703/download",
       "pageUrl": "https://xeno-canto.org/1035703",
       "recordist": "Bobby Wilcox",
@@ -377,9 +405,23 @@
       "length": "0:22",
       "location": "Cabañas Puesto del Sol, San Mateo Río Hondo, Oaxaca",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1035703/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "488531",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/488531/download",
+      "pageUrl": "https://xeno-canto.org/488531",
+      "recordist": "Bruce Lagerquist",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:07",
+      "location": "Bethell Ridge Road, Yakima County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/488531/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Townsend's_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145255"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145255",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-townsendi"
 }

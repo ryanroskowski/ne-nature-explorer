@@ -214,32 +214,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1087526",
+      "xenoCantoId": "1060912",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1087526/download",
-      "pageUrl": "https://xeno-canto.org/1087526",
-      "recordist": "Ulf Elman",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1060912/download",
+      "pageUrl": "https://xeno-canto.org/1060912",
+      "recordist": "Dag Österlund",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "4:15",
-      "location": "Brunnavallen, Nipfjället, Dalarna",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/1087526/grey-medium.png"
+      "length": "0:35",
+      "location": "Överboda, Brännan, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMSAKXGUCH/1060912/grey-medium.png"
     },
     {
-      "xenoCantoId": "1044997",
+      "xenoCantoId": "985318",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/985318/download",
+      "pageUrl": "https://xeno-canto.org/985318",
+      "recordist": "Bill Pyle",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:22",
+      "location": "Womens Bay, Kodiak Island Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DUWDSSWZPN/985318/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "897475",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/897475/download",
+      "pageUrl": "https://xeno-canto.org/897475",
+      "recordist": "Romuald Mikusek",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Stolowe Mts. NP, Kłodzko County, Lower Silesian Voivodeship",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BLMSIUFTFU/897475/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "824868",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1044997/download",
-      "pageUrl": "https://xeno-canto.org/1044997",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/824868/download",
+      "pageUrl": "https://xeno-canto.org/824868",
+      "recordist": "Alan Dalton",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Robertsfors Ö, Robertsfors Municipality, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBJSEFYVPV/824868/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "754334",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/754334/download",
+      "pageUrl": "https://xeno-canto.org/754334",
       "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:07",
-      "location": "Sönnerstgrundet, Umeå, Västerbottens län",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/1044997/grey-medium.png"
+      "length": "0:10",
+      "location": "Kåddis, Umeå, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/754334/grey-medium.png"
     },
     {
       "xenoCantoId": "977194",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/977194/download",
       "pageUrl": "https://xeno-canto.org/977194",
       "recordist": "Aku Kalliomäki",
@@ -252,5 +294,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Boreal_owl",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/20359"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/20359",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aegolius-funereus"
 }

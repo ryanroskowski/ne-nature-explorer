@@ -272,6 +272,7 @@
     {
       "xenoCantoId": "142583",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/142583/download",
       "pageUrl": "https://xeno-canto.org/142583",
       "recordist": "Andrew Spencer",
@@ -282,8 +283,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/142583/grey-medium.png"
     },
     {
+      "xenoCantoId": "862263",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/862263/download",
+      "pageUrl": "https://xeno-canto.org/862263",
+      "recordist": "Paul Kelly",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:15",
+      "location": "Hewlett Packard (near  Leixlip), Kildare, County Kildare",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/862263/grey-medium.png"
+    },
+    {
       "xenoCantoId": "487288",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/487288/download",
       "pageUrl": "https://xeno-canto.org/487288",
       "recordist": "Stanislas Wroza",
@@ -296,5 +311,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Greater_scaup",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7047"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7047",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aythya-marila"
 }

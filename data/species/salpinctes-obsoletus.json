@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1080773",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1080773/download",
       "pageUrl": "https://xeno-canto.org/1080773",
       "recordist": "Scott Olmstead",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/1080773/grey-medium.png"
     },
     {
+      "xenoCantoId": "1032146",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1032146/download",
+      "pageUrl": "https://xeno-canto.org/1032146",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "Teotitlán del Valle, Teotitlán del Valle, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1032146/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1000255",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1000255/download",
+      "pageUrl": "https://xeno-canto.org/1000255",
+      "recordist": "David Tattersley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Tanque Verde, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/1000255/grey-medium.png"
+    },
+    {
       "xenoCantoId": "844877",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/844877/download",
       "pageUrl": "https://xeno-canto.org/844877",
       "recordist": "Manuel Grosselet",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/844877/grey-medium.png"
     },
     {
+      "xenoCantoId": "576854",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/576854/download",
+      "pageUrl": "https://xeno-canto.org/576854",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Otay Mountain, near Dulzura, San Diego County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/576854/grey-medium.png"
+    },
+    {
       "xenoCantoId": "109273",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/109273/download",
       "pageUrl": "https://xeno-canto.org/109273",
       "recordist": "Andrew Spencer",
@@ -260,5 +302,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Rock_wren",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7486"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7486",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Salpinctes-obsoletus"
 }

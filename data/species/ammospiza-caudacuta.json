@@ -246,6 +246,7 @@
     {
       "xenoCantoId": "1068535",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1068535/download",
       "pageUrl": "https://xeno-canto.org/1068535",
       "recordist": "Kelly Faller",
@@ -256,8 +257,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GHCWCWHIXT/1068535/grey-medium.png"
     },
     {
+      "xenoCantoId": "433079",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/433079/download",
+      "pageUrl": "https://xeno-canto.org/433079",
+      "recordist": "Phil Brown",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Plum Island, Newbury, Essex County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BZQDDJCYTA/433079/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "59191",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/59191/download",
+      "pageUrl": "https://xeno-canto.org/59191",
+      "recordist": "Tayler Brooks",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Scarborough Marsh, Cumberland Co., Maine",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ARFGONJCBJ/59191/grey-medium.png"
+    },
+    {
       "xenoCantoId": "752920",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/752920/download",
       "pageUrl": "https://xeno-canto.org/752920",
       "recordist": "William Whitehead",
@@ -270,5 +298,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Saltmarsh_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/793289"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/793289",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Ammospiza-caudacuta"
 }

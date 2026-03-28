@@ -244,20 +244,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1015226",
+      "xenoCantoId": "1014327",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1015226/download",
-      "pageUrl": "https://xeno-canto.org/1015226",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1014327/download",
+      "pageUrl": "https://xeno-canto.org/1014327",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:08",
+      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014327/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "917495",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/917495/download",
+      "pageUrl": "https://xeno-canto.org/917495",
       "recordist": "Valerie Heemstra",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:50",
-      "location": "Route 442 off FR13, Delta County, Michigan",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1015226/grey-medium.png"
+      "length": "1:07",
+      "location": "Cedarville Township (near  Cedar River), Menominee County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/917495/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "844265",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/844265/download",
+      "pageUrl": "https://xeno-canto.org/844265",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Sax-Zim Bog (Owl Ave), St. Louis County, Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/844265/grey-medium.png"
     },
     {
       "xenoCantoId": "1022027",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1022027/download",
       "pageUrl": "https://xeno-canto.org/1022027",
       "recordist": "Manuel Sánchez-Nivicela",
@@ -268,8 +296,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBFFGHPZZQ/1022027/grey-medium.png"
     },
     {
+      "xenoCantoId": "605588",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/605588/download",
+      "pageUrl": "https://xeno-canto.org/605588",
+      "recordist": "Ray Cooke",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:52",
+      "location": "Dogbane Trail, Jenkin's Complex, Queens County, Prince Edward Island",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EMFMDDVOUG/605588/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1015057",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1015057/download",
       "pageUrl": "https://xeno-canto.org/1015057",
       "recordist": "Stanislas Wroza",
@@ -282,5 +324,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Mourning_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145224"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145224",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Geothlypis-philadelphia"
 }

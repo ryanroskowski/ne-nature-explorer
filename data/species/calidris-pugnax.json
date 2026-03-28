@@ -341,6 +341,7 @@
     {
       "xenoCantoId": "821426",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/821426/download",
       "pageUrl": "https://xeno-canto.org/821426",
       "recordist": "Paul Kelly",
@@ -351,19 +352,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/821426/grey-medium.png"
     },
     {
-      "xenoCantoId": "979829",
+      "xenoCantoId": "821333",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/821333/download",
+      "pageUrl": "https://xeno-canto.org/821333",
+      "recordist": "Alan Dalton",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Robertsfors Ö, Robertsfors Municipality, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBJSEFYVPV/821333/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "199470",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/979829/download",
-      "pageUrl": "https://xeno-canto.org/979829",
-      "recordist": "Petter Westberg",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/199470/download",
+      "pageUrl": "https://xeno-canto.org/199470",
+      "recordist": "Tomek Tumiel",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "B",
-      "length": "0:05",
-      "location": "Stordalen, Abisko, Lappland",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/979829/grey-medium.png"
+      "length": "0:11",
+      "location": "Inari, Pohjois-Lappi, Lapland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHAHTZIMID/199470/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ruff",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/339593"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/339593",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-pugnax"
 }

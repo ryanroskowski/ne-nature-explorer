@@ -230,32 +230,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "731000",
+      "xenoCantoId": "552111",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/731000/download",
-      "pageUrl": "https://xeno-canto.org/731000",
-      "recordist": "Lars Edenius",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/552111/download",
+      "pageUrl": "https://xeno-canto.org/552111",
+      "recordist": "Jarek Matusiak",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:03",
-      "location": "Gransjön, Vilhelmina Municipality, Västerbotten County",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/731000/grey-medium.png"
+      "length": "1:25",
+      "location": "Poland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/552111/grey-medium.png"
     },
     {
-      "xenoCantoId": "1078228",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1078228/download",
-      "pageUrl": "https://xeno-canto.org/1078228",
-      "recordist": "Paul Kelly",
+      "xenoCantoId": "474679",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/474679/download",
+      "pageUrl": "https://xeno-canto.org/474679",
+      "recordist": "Stein Ø. Nilsen",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "Tacumshin Lake (East End), County Wexford",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/1078228/grey-medium.png"
+      "length": "0:35",
+      "location": "TISNES, TROMSØ",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/474679/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "246311",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/246311/download",
+      "pageUrl": "https://xeno-canto.org/246311",
+      "recordist": "Tomek Tumiel",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:52",
+      "location": "Ławki Swamp, Biebrza National Park, Podlaskie Voivodeship",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHAHTZIMID/246311/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1055532",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1055532/download",
+      "pageUrl": "https://xeno-canto.org/1055532",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:39",
+      "location": "Pointe du Van, Cléden-Cap-Sizun, Finistere, Bretagne",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1055532/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "993402",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/993402/download",
+      "pageUrl": "https://xeno-canto.org/993402",
+      "recordist": "Albert Lastukhin",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Toigil'dy, Buinsky District, Republic of Tatarstan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/993402/grey-medium.png"
     },
     {
       "xenoCantoId": "1054952",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1054952/download",
       "pageUrl": "https://xeno-canto.org/1054952",
       "recordist": "Stanislas Wroza",
@@ -268,5 +310,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Short-eared_owl",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/20315"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/20315",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Asio-flammeus"
 }

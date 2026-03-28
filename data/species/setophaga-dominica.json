@@ -354,6 +354,7 @@
     {
       "xenoCantoId": "980688",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/980688/download",
       "pageUrl": "https://xeno-canto.org/980688",
       "recordist": "Chris Harrison",
@@ -364,8 +365,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UBZMIPGNRT/980688/grey-medium.png"
     },
     {
+      "xenoCantoId": "717434",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/717434/download",
+      "pageUrl": "https://xeno-canto.org/717434",
+      "recordist": "William Whitehead",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Maryland (near  Berlin), Worcester County, Maryland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MGVGHKBMIZ/717434/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "649989",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/649989/download",
+      "pageUrl": "https://xeno-canto.org/649989",
+      "recordist": "Matt Wistrand",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:29",
+      "location": "Mississippi Palisades State Park (near  Savanna), Carroll, Illinois",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QZOXFIKPFF/649989/grey-medium.png"
+    },
+    {
       "xenoCantoId": "628335",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/628335/download",
       "pageUrl": "https://xeno-canto.org/628335",
       "recordist": "Russ Wigh",
@@ -374,9 +402,23 @@
       "length": "0:52",
       "location": "Skidaway Island, Chatham County, GA USA",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YBJUQSUJFZ/628335/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "556587",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/556587/download",
+      "pageUrl": "https://xeno-canto.org/556587",
+      "recordist": "Caio Brito",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Hanna Park Campground",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWWWUBVAJF/556587/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Yellow-throated_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145246"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145246",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-dominica"
 }

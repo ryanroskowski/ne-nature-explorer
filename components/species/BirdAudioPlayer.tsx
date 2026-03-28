@@ -157,21 +157,22 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
     <div className="bg-card border border-border rounded-xl overflow-hidden">
       {/* Track selector tabs (if multiple recordings) */}
       {audio.length > 1 && (
-        <div className="flex border-b border-border">
+        <div className="flex overflow-x-auto border-b border-border scrollbar-none">
           {audio.map((track, i) => {
             const info = TYPE_LABELS[track.type] || { label: track.type, icon: "🔊" };
+            const displayLabel = track.label || info.label;
             return (
               <button
                 key={track.xenoCantoId}
                 onClick={() => switchTrack(i)}
-                className={`flex-1 flex items-center justify-center gap-1.5 px-3 py-2.5 text-sm font-ui transition-colors ${
+                className={`shrink-0 flex items-center justify-center gap-1.5 px-3 py-2.5 text-sm font-ui transition-colors ${
                   i === activeIndex
                     ? "bg-forest/10 text-forest border-b-2 border-forest -mb-px"
                     : "text-text-secondary hover:text-text-primary hover:bg-background-alt"
                 }`}
               >
                 <span>{info.icon}</span>
-                <span>{info.label}</span>
+                <span>{displayLabel}</span>
                 <span className="text-xs text-text-muted">({track.length})</span>
               </button>
             );
@@ -242,7 +243,7 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
         <div className="mt-3 pt-3 border-t border-border">
           <p className="text-xs text-text-muted font-ui leading-relaxed">
             <span className="inline-flex items-center gap-1">
-              {typeInfo.icon} {commonName} {typeInfo.label.toLowerCase()}
+              {typeInfo.icon} {commonName} {(current.label || typeInfo.label).toLowerCase()}
             </span>
             {" · "}
             Recording by{" "}

@@ -200,6 +200,7 @@
     {
       "xenoCantoId": "994738",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/994738/download",
       "pageUrl": "https://xeno-canto.org/994738",
       "recordist": "FREDERIC Lionel",
@@ -208,9 +209,23 @@
       "length": "0:27",
       "location": "Parque Nacional de Cayo Guillermo, Ciego de Ávila",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/994738/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "757066",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/757066/download",
+      "pageUrl": "https://xeno-canto.org/757066",
+      "recordist": "Patricio Mena Valenzuela",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Galápagos: Puerto Villamil, Isla Isabela",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WQDBTPZFRV/757066/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_flamingo",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4257"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4257",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Phoenicopterus-ruber"
 }

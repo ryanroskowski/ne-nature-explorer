@@ -198,32 +198,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1013012",
+      "xenoCantoId": "995960",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1013012/download",
-      "pageUrl": "https://xeno-canto.org/1013012",
-      "recordist": "Stanislas Wroza",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/995960/download",
+      "pageUrl": "https://xeno-canto.org/995960",
+      "recordist": "FREDERIC Lionel",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:34",
-      "location": "Marais Léon-Provancher, Portneuf, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013012/grey-medium.png"
+      "length": "1:09",
+      "location": "Parque Nacional de Cayo Guillermo, Ciego de Ávila",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/995960/grey-medium.png"
     },
     {
-      "xenoCantoId": "1013493",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1013493/download",
-      "pageUrl": "https://xeno-canto.org/1013493",
-      "recordist": "Stanislas Wroza",
+      "xenoCantoId": "940517",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/940517/download",
+      "pageUrl": "https://xeno-canto.org/940517",
+      "recordist": "Richard E. Webster",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Charlevoix (near  Saint-Joseph-de-la-Rive), Capitale-Nationale, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013493/grey-medium.png"
+      "length": "0:51",
+      "location": "Tucson Mountain Park, Gilbert Ray Cmpgrnd, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/940517/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "807126",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/807126/download",
+      "pageUrl": "https://xeno-canto.org/807126",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:11",
+      "location": "Corral Canyon Trail, Campo, San Diego County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/807126/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "636552",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/636552/download",
+      "pageUrl": "https://xeno-canto.org/636552",
+      "recordist": "Thomas Ryder Payne",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:32",
+      "location": "Harbor Island (near  Dunmore Town), Harbour Island",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NWXCLJYBDK/636552/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "613539",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/613539/download",
+      "pageUrl": "https://xeno-canto.org/613539",
+      "recordist": "Peter Ward and Ken Hall",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Deep Lake (Sun Lake), Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFRRHMLGSK/613539/grey-medium.png"
     },
     {
       "xenoCantoId": "730163",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/730163/download",
       "pageUrl": "https://xeno-canto.org/730163",
       "recordist": "Alán Palacios",
@@ -236,5 +278,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Mourning_dove",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3454"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3454",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Zenaida-macroura"
 }

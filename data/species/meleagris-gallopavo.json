@@ -219,32 +219,74 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1019836",
+      "xenoCantoId": "1019831",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1019836/download",
-      "pageUrl": "https://xeno-canto.org/1019836",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1019831/download",
+      "pageUrl": "https://xeno-canto.org/1019831",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "5:48",
+      "length": "0:23",
       "location": "La Haute-Côte-Nord (near  Rivière-Sainte-Marguerite), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1019836/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1019831/grey-medium.png"
     },
     {
-      "xenoCantoId": "786182",
+      "xenoCantoId": "1003798",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1003798/download",
+      "pageUrl": "https://xeno-canto.org/1003798",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Black Canyon of the Gunnison NP",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1003798/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "991221",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/991221/download",
+      "pageUrl": "https://xeno-canto.org/991221",
+      "recordist": "Olivier SWIFT, Hélène CARTAUD",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Arrondissement of Montbrison (near  Saint-Bonnet-le-Courreau), Loire, Auvergne-Rhône-Alpes",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JCPKCBKKAQ/991221/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "779658",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/786182/download",
-      "pageUrl": "https://xeno-canto.org/786182",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/779658/download",
+      "pageUrl": "https://xeno-canto.org/779658",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:23",
+      "location": "San Bernardino National Wildlife Refuge, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/779658/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "770958",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/770958/download",
+      "pageUrl": "https://xeno-canto.org/770958",
       "recordist": "Paul Driver",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:31",
+      "length": "1:25",
       "location": "Upper Moreland Township (near  Bryn Athyn), Montgomery County, Pennsylvania",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/786182/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/770958/grey-medium.png"
     },
     {
       "xenoCantoId": "377125",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/377125/download",
       "pageUrl": "https://xeno-canto.org/377125",
       "recordist": "Thomas G. Graves",
@@ -257,5 +299,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Wild_turkey",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/906"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/906",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Meleagris-gallopavo"
 }

@@ -230,20 +230,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "936861",
+      "xenoCantoId": "793958",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/936861/download",
-      "pageUrl": "https://xeno-canto.org/936861",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/793958/download",
+      "pageUrl": "https://xeno-canto.org/793958",
       "recordist": "Valerie Heemstra",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:38",
-      "location": "Bay de Noc Township (near  Rapid River), Delta County, Michigan",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/936861/grey-medium.png"
+      "length": "0:55",
+      "location": "Wells Township (near  Escanaba), Delta County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/793958/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "638310",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/638310/download",
+      "pageUrl": "https://xeno-canto.org/638310",
+      "recordist": "Christopher McPherson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:27",
+      "location": "Woodmont Orchard Hollis, Hillsborough County, New Hampshire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNIFQCMOLA/638310/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "549771",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/549771/download",
+      "pageUrl": "https://xeno-canto.org/549771",
+      "recordist": "William Whitehead",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:01",
+      "location": "Hawk Rise Sanctuary (near  Linden), Union County, New Jersey",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MGVGHKBMIZ/549771/grey-medium.png"
     },
     {
       "xenoCantoId": "988841",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/988841/download",
       "pageUrl": "https://xeno-canto.org/988841",
       "recordist": "Jim Berry",
@@ -254,8 +282,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BMFJZMNPEG/988841/grey-medium.png"
     },
     {
+      "xenoCantoId": "385833",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/385833/download",
+      "pageUrl": "https://xeno-canto.org/385833",
+      "recordist": "Antonio Xeira",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:00",
+      "location": "Michigan, Kensington Metropark",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PJVICFDZGZ/385833/grey-medium.png"
+    },
+    {
       "xenoCantoId": "839212",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/839212/download",
       "pageUrl": "https://xeno-canto.org/839212",
       "recordist": "Dan P  Bilderback",
@@ -268,5 +310,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Rusty_blackbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10322"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10322",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Euphagus-carolinus"
 }

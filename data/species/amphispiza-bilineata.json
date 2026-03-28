@@ -208,6 +208,7 @@
     {
       "xenoCantoId": "779681",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/779681/download",
       "pageUrl": "https://xeno-canto.org/779681",
       "recordist": "Paul Marvin",
@@ -218,19 +219,60 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/779681/grey-medium.png"
     },
     {
-      "xenoCantoId": "803188",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/803188/download",
-      "pageUrl": "https://xeno-canto.org/803188",
+      "xenoCantoId": "736299",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/736299/download",
+      "pageUrl": "https://xeno-canto.org/736299",
+      "recordist": "Jonathan Bryant",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Davis Mountains State Park, Skyline Drive, Jeff Davis County, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WEBFJATOTQ/736299/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "720635",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/720635/download",
+      "pageUrl": "https://xeno-canto.org/720635",
       "recordist": "Scott Crabtree",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Sabino Canyon National Recreation Area, Pima County, Arizona",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/803188/grey-medium.png"
+      "length": "0:46",
+      "location": "Finisterra, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/720635/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "677432",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/677432/download",
+      "pageUrl": "https://xeno-canto.org/677432",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Leslie Canyon National Wildlife Refuge, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/677432/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "551162",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/551162/download",
+      "pageUrl": "https://xeno-canto.org/551162",
+      "recordist": "Lance A. M. Benner",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Bob's Gap, Los Angeles County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MDZVOPUOXU/551162/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-throated_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9943"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9943",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Amphispiza-bilineata"
 }

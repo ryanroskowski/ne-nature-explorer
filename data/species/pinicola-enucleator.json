@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "1078281",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1078281/download",
       "pageUrl": "https://xeno-canto.org/1078281",
       "recordist": "Valerie Heemstra",
@@ -239,20 +240,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1078281/grey-medium.png"
     },
     {
-      "xenoCantoId": "1088603",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1088603/download",
-      "pageUrl": "https://xeno-canto.org/1088603",
+      "xenoCantoId": "1046098",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1046098/download",
+      "pageUrl": "https://xeno-canto.org/1046098",
       "recordist": "Petter Westberg",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
-      "location": "Kattån, Gällivare Municipality, Norrbottens län",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1088603/grey-medium.png"
+      "length": "1:02",
+      "location": "Gällivare Municipality, Norrbotten County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1046098/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1017898",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1017898/download",
+      "pageUrl": "https://xeno-canto.org/1017898",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:12",
+      "location": "Monts Vaslins Pic des huttes",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1017898/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014526",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1014526/download",
+      "pageUrl": "https://xeno-canto.org/1014526",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:10",
+      "location": "Le Fjord-du-Saguenay Regional County Municipality (near  Saint-Fulgence), Saguenay–Lac-Saint-Jean, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014526/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "944125",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/944125/download",
+      "pageUrl": "https://xeno-canto.org/944125",
+      "recordist": "Thomas Bergman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:02",
+      "location": "Norra Långsbo, Delsbo, Hälsingland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YUKZIHHVTY/944125/grey-medium.png"
     },
     {
       "xenoCantoId": "1014525",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014525/download",
       "pageUrl": "https://xeno-canto.org/1014525",
       "recordist": "Stanislas Wroza",
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pine_grosbeak",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9771"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9771",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pinicola-enucleator"
 }

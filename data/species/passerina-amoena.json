@@ -220,20 +220,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "802845",
+      "xenoCantoId": "802843",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/802845/download",
-      "pageUrl": "https://xeno-canto.org/802845",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/802843/download",
+      "pageUrl": "https://xeno-canto.org/802843",
       "recordist": "Ed Pandolfino",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:03",
+      "length": "1:06",
       "location": "Blue Ridge Rd, Solano County, California",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/802845/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/802843/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "801381",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/801381/download",
+      "pageUrl": "https://xeno-canto.org/801381",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:03",
+      "location": "Otay Mountain, near Dulzura, San Diego County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/801381/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "776673",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/776673/download",
+      "pageUrl": "https://xeno-canto.org/776673",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Hewlett Gulch, Larimer Cty, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/776673/grey-medium.png"
     },
     {
       "xenoCantoId": "465576",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/465576/download",
       "pageUrl": "https://xeno-canto.org/465576",
       "recordist": "Richard E. Webster",
@@ -242,9 +270,23 @@
       "length": "0:19",
       "location": "Rio El Aguajo, near San Antonio de la Sierra, Baja Sur",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/465576/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "333912",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/333912/download",
+      "pageUrl": "https://xeno-canto.org/333912",
+      "recordist": "James Bradley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Soda Creek, Cariboo, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ITRQTFVLNT/333912/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lazuli_bunting",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10234"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10234",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Passerina-amoena"
 }

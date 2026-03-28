@@ -256,32 +256,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "998226",
+      "xenoCantoId": "718663",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/998226/download",
-      "pageUrl": "https://xeno-canto.org/998226",
-      "recordist": "Eetu Paljakka",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/718663/download",
+      "pageUrl": "https://xeno-canto.org/718663",
+      "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:29",
-      "location": "Pihlajanniemi, Virolahti, Kymenlaakso",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/INCBVJJLBJ/998226/grey-medium.png"
+      "length": "1:00",
+      "location": "Ratuträsket, Robertsfors Ö, Robertsfors Municipality, Västerbotten County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/718663/grey-medium.png"
     },
     {
-      "xenoCantoId": "1049855",
+      "xenoCantoId": "640696",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/640696/download",
+      "pageUrl": "https://xeno-canto.org/640696",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:38",
+      "location": "powiat grodziski, Mazowieckie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/640696/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "241897",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/241897/download",
+      "pageUrl": "https://xeno-canto.org/241897",
+      "recordist": "Terje Kolaas",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Hammervatnet, Levanger, Nord-Trøndelag",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CIMGCGUWCS/241897/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "998356",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1049855/download",
-      "pageUrl": "https://xeno-canto.org/1049855",
-      "recordist": "Romuald Mikusek",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/998356/download",
+      "pageUrl": "https://xeno-canto.org/998356",
+      "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "4:33",
-      "location": "Gmina Siemień (near  Siemień), Parczew County, Lublin Voivodeship",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BLMSIUFTFU/1049855/grey-medium.png"
+      "length": "0:49",
+      "location": "Skravelbäck, Västerbotten County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/998356/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "991881",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/991881/download",
+      "pageUrl": "https://xeno-canto.org/991881",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:49",
+      "location": "F.d. Hässlinge sjö, Trögden, Uppland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/991881/grey-medium.png"
     },
     {
       "xenoCantoId": "589702",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/589702/download",
       "pageUrl": "https://xeno-canto.org/589702",
       "recordist": "Simon Elliott",
@@ -294,5 +336,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_teal",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6937"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6937",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anas-crecca"
 }

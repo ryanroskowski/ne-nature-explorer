@@ -213,6 +213,7 @@
     {
       "xenoCantoId": "479376",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/479376/download",
       "pageUrl": "https://xeno-canto.org/479376",
       "recordist": "Stanislas Wroza",
@@ -223,8 +224,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/479376/grey-medium.png"
     },
     {
+      "xenoCantoId": "319896",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/319896/download",
+      "pageUrl": "https://xeno-canto.org/319896",
+      "recordist": "Timo Janhonen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:06",
+      "location": "Hirta, St Kilda, Outer Hebrides, Scotland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZQAYURRFG/319896/grey-medium.png"
+    },
+    {
       "xenoCantoId": "779449",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/779449/download",
       "pageUrl": "https://xeno-canto.org/779449",
       "recordist": "Erik Normark",
@@ -235,8 +250,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NPHZHFDIQP/779449/grey-medium.png"
     },
     {
+      "xenoCantoId": "642112",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/642112/download",
+      "pageUrl": "https://xeno-canto.org/642112",
+      "recordist": "Andrew Harrop",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Haroldswick, Shetland Islands, Scotland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNYFHZLJOD/642112/grey-medium.png"
+    },
+    {
       "xenoCantoId": "193957",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/193957/download",
       "pageUrl": "https://xeno-canto.org/193957",
       "recordist": "Rob van Bemmelen",
@@ -249,5 +278,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Great_skua",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144297"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144297",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Stercorarius-skua"
 }

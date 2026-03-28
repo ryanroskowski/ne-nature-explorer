@@ -233,6 +233,7 @@
     {
       "xenoCantoId": "1034202",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1034202/download",
       "pageUrl": "https://xeno-canto.org/1034202",
       "recordist": "Miika Silfverberg",
@@ -243,31 +244,47 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ETEGTCNTLW/1034202/grey-medium.png"
     },
     {
-      "xenoCantoId": "948930",
+      "xenoCantoId": "900427",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/948930/download",
-      "pageUrl": "https://xeno-canto.org/948930",
-      "recordist": "Kévin Westeel",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "quality": "A",
-      "length": "0:09",
-      "location": "Ottenby gård (near  Ottenby), Mörbylånga Municipality, Kalmar län",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PZQJDDHHFD/948930/grey-medium.png"
-    },
-    {
-      "xenoCantoId": "899962",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/899962/download",
-      "pageUrl": "https://xeno-canto.org/899962",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/900427/download",
+      "pageUrl": "https://xeno-canto.org/900427",
       "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Älvtået",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/899962/grey-medium.png"
+      "length": "0:13",
+      "location": "Sönnerstgrundet, Umeå, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/900427/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "804736",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/804736/download",
+      "pageUrl": "https://xeno-canto.org/804736",
+      "recordist": "Uku Paal",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Kärde, Jõgeva Parish, Jõgeva maakond",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XIBLXHRPJO/804736/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "674534",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/674534/download",
+      "pageUrl": "https://xeno-canto.org/674534",
+      "recordist": "Peter Stronach",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Cromdail, Srath Spè, Na Gàidhealtachd",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/POUECYRDLL/674534/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Barnacle_goose",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7101"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7101",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Branta-leucopsis"
 }

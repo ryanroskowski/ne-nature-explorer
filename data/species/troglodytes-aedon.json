@@ -219,20 +219,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1087257",
+      "xenoCantoId": "1087007",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1087257/download",
-      "pageUrl": "https://xeno-canto.org/1087257",
-      "recordist": "Garrett Yocklin",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1087007/download",
+      "pageUrl": "https://xeno-canto.org/1087007",
+      "recordist": "Manuel Grosselet",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:43",
-      "location": "Syndicate Nature Trail",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WNNPMBEDHQ/1087257/grey-medium.png"
+      "length": "0:24",
+      "location": "San Mateo Rio Hondo, San Mateo Río Hondo, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1087007/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1083970",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1083970/download",
+      "pageUrl": "https://xeno-canto.org/1083970",
+      "recordist": "Carlos Delgado JUMABITA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:49",
+      "location": "PNN Tatamá - Cerro Montezuma\t",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QNQOLYYZEB/1083970/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1083452",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1083452/download",
+      "pageUrl": "https://xeno-canto.org/1083452",
+      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Santa Rita do Novo Destino, Goiás, Chácara Jayrson",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/1083452/grey-medium.png"
     },
     {
       "xenoCantoId": "1078079",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1078079/download",
       "pageUrl": "https://xeno-canto.org/1078079",
       "recordist": "Meena Haribal",
@@ -243,8 +271,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RBYDYNRSJV/1078079/grey-medium.png"
     },
     {
+      "xenoCantoId": "998668",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/998668/download",
+      "pageUrl": "https://xeno-canto.org/998668",
+      "recordist": "Stephan Risch",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Cahuita, Limon",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TFOGOENSTQ/998668/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1072540",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1072540/download",
       "pageUrl": "https://xeno-canto.org/1072540",
       "recordist": "Max Noack",
@@ -257,5 +299,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/House_wren",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7562"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7562",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Troglodytes-aedon"
 }

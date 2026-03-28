@@ -231,6 +231,7 @@
     {
       "xenoCantoId": "984442",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/984442/download",
       "pageUrl": "https://xeno-canto.org/984442",
       "recordist": "Jonathan Thomas",
@@ -241,31 +242,73 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NHXUEZPPZA/984442/grey-medium.png"
     },
     {
-      "xenoCantoId": "1058578",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1058578/download",
-      "pageUrl": "https://xeno-canto.org/1058578",
-      "recordist": "Ray Cooke",
+      "xenoCantoId": "807484",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/807484/download",
+      "pageUrl": "https://xeno-canto.org/807484",
+      "recordist": "Barry Edmonston",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:49",
-      "location": "Lighthouse Road 1, East Point, Prince Edward Island",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EMFMDDVOUG/1058578/grey-medium.png"
+      "length": "0:48",
+      "location": "Cape Cod (near  Barnstable), Barnstable County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FHQVLXJQKW/807484/grey-medium.png"
     },
     {
-      "xenoCantoId": "1013376",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1013376/download",
-      "pageUrl": "https://xeno-canto.org/1013376",
+      "xenoCantoId": "753122",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/753122/download",
+      "pageUrl": "https://xeno-canto.org/753122",
+      "recordist": "Sunny Tseng",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "John Prince Research Forest",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SPMWIWZKKC/753122/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1034477",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1034477/download",
+      "pageUrl": "https://xeno-canto.org/1034477",
+      "recordist": "Rory Nefdt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Pound Ridge Reservation Lewisboro (near  Cross River), Westchester County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1034477/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1020220",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1020220/download",
+      "pageUrl": "https://xeno-canto.org/1020220",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "Charlevoix (near  Saint-Joseph-de-la-Rive), Capitale-Nationale, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013376/grey-medium.png"
+      "length": "0:29",
+      "location": "Montmorency Forest Lac Piché",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1020220/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "905503",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/905503/download",
+      "pageUrl": "https://xeno-canto.org/905503",
+      "recordist": "Bill Grantham",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:16",
+      "location": "Ramer, Montgomery County, Alabama",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UWHBFUYWSQ/905503/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_crow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/8021"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/8021",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Corvus-brachyrhynchos"
 }

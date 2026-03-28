@@ -227,20 +227,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "826721",
+      "xenoCantoId": "263981",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/826721/download",
-      "pageUrl": "https://xeno-canto.org/826721",
-      "recordist": "Esperanza Poveda",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/263981/download",
+      "pageUrl": "https://xeno-canto.org/263981",
+      "recordist": "Terje Kolaas",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Levanger, Nord-Trøndelag",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CIMGCGUWCS/263981/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "184471",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/184471/download",
+      "pageUrl": "https://xeno-canto.org/184471",
+      "recordist": "Jarek Matusiak",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:56",
-      "location": "Nyköping Municipality, Södermanland County",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PRVFBYIQYZ/826721/grey-medium.png"
+      "length": "0:51",
+      "location": "Gmina Końskowola (near  Nowy Pożóg), Puławy County, Lublin Voivodeship",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/184471/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "181785",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/181785/download",
+      "pageUrl": "https://xeno-canto.org/181785",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Dempster Highway KM 538, Northwest Territories",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/181785/grey-medium.png"
     },
     {
       "xenoCantoId": "1001819",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1001819/download",
       "pageUrl": "https://xeno-canto.org/1001819",
       "recordist": "Ulf Elman",
@@ -251,8 +279,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/1001819/grey-medium.png"
     },
     {
+      "xenoCantoId": "917821",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/917821/download",
+      "pageUrl": "https://xeno-canto.org/917821",
+      "recordist": "Simon Elliott",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "Beningbrough, North Yorkshire, England",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FFFADKCCII/917821/grey-medium.png"
+    },
+    {
       "xenoCantoId": "426148",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/426148/download",
       "pageUrl": "https://xeno-canto.org/426148",
       "recordist": "Joost van Bruggen",
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sand_martin",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/11941"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/11941",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Riparia-riparia"
 }

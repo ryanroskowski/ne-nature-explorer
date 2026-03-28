@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "1046370",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1046370/download",
       "pageUrl": "https://xeno-canto.org/1046370",
       "recordist": "AUDEVARD Aurélien",
@@ -261,8 +262,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1046370/grey-medium.png"
     },
     {
+      "xenoCantoId": "934270",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/934270/download",
+      "pageUrl": "https://xeno-canto.org/934270",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Landing Lake, Churchill, MB",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/934270/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "149502",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/149502/download",
+      "pageUrl": "https://xeno-canto.org/149502",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Gaswell Road, Barrow, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/149502/grey-medium.png"
+    },
+    {
       "xenoCantoId": "883099",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/883099/download",
       "pageUrl": "https://xeno-canto.org/883099",
       "recordist": "Valerie Heemstra",
@@ -273,19 +301,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/883099/grey-medium.png"
     },
     {
-      "xenoCantoId": "406170",
+      "xenoCantoId": "356260",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/356260/download",
+      "pageUrl": "https://xeno-canto.org/356260",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Denali Highway MP13-41, Valdez-Cordova County (near  Delta Junction), Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/356260/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "406168",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/406170/download",
-      "pageUrl": "https://xeno-canto.org/406170",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/406168/download",
+      "pageUrl": "https://xeno-canto.org/406168",
       "recordist": "Patrik Åberg",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:51",
+      "length": "0:31",
       "location": "Nome, Nome Census Area, Alaska",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/406170/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/406168/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_golden_plover",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4893"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4893",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pluvialis-dominica"
 }

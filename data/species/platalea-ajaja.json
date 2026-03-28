@@ -222,8 +222,22 @@
   "relatedSpecies": [],
   "audio": [
     {
+      "xenoCantoId": "173887",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/173887/download",
+      "pageUrl": "https://xeno-canto.org/173887",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:21",
+      "location": "Biolab Road, Canaveral National Seashore, Brevard County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/173887/grey-medium.png"
+    },
+    {
       "xenoCantoId": "623963",
       "type": "call",
+      "label": "Call 2",
       "audioUrl": "https://xeno-canto.org/623963/download",
       "pageUrl": "https://xeno-canto.org/623963",
       "recordist": "Manuel Grosselet",
@@ -236,5 +250,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Roseate_spoonbill",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/62529"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/62529",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Platalea-ajaja"
 }

@@ -237,6 +237,7 @@
     {
       "xenoCantoId": "489769",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/489769/download",
       "pageUrl": "https://xeno-canto.org/489769",
       "recordist": "Albert Lastukhin",
@@ -247,8 +248,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/489769/grey-medium.png"
     },
     {
+      "xenoCantoId": "160957",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/160957/download",
+      "pageUrl": "https://xeno-canto.org/160957",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Notsuke Peninsula, Hokkaido Prefecture",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/160957/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1015170",
       "type": "call",
+      "label": "Call 2",
       "audioUrl": "https://xeno-canto.org/1015170/download",
       "pageUrl": "https://xeno-canto.org/1015170",
       "recordist": "Melissa Hafting",
@@ -261,5 +276,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Steller's_sea_eagle",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5304"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5304",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Haliaeetus-pelagicus"
 }

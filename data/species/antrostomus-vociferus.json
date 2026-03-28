@@ -203,20 +203,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1014021",
+      "xenoCantoId": "1000603",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1014021/download",
-      "pageUrl": "https://xeno-canto.org/1014021",
-      "recordist": "Stanislas Wroza",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1000603/download",
+      "pageUrl": "https://xeno-canto.org/1000603",
+      "recordist": "Peter Mundale",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:21",
-      "location": "La Haute-Côte-Nord (near  Grandes-Bergeronnes), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014021/grey-medium.png"
+      "length": "0:24",
+      "location": "Clear Creek (near  Wrenshall), Carlton County, Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UAXIKEBHEA/1000603/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "929758",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/929758/download",
+      "pageUrl": "https://xeno-canto.org/929758",
+      "recordist": "Megan Johnson",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:13",
+      "location": "Sutton, Braxton County, West Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NQKANDUFQH/929758/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "918993",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/918993/download",
+      "pageUrl": "https://xeno-canto.org/918993",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:38",
+      "location": "Parker River National Wildlife Refuge, Plum Island, Essex County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AMMGWAIZWI/918993/grey-medium.png"
     },
     {
       "xenoCantoId": "405768",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/405768/download",
       "pageUrl": "https://xeno-canto.org/405768",
       "recordist": "Paul Marvin",
@@ -225,9 +253,23 @@
       "length": "0:42",
       "location": "Rotary Park, Merritt Island, Brevard County, Florida",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/405768/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1286",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1286/download",
+      "pageUrl": "https://xeno-canto.org/1286",
+      "recordist": "Don Jones",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Wharton State Forest, Atsion, NJ",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BCWZQTGMSO/1286/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_whip-poor-will",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199837"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199837",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Antrostomus-vociferus"
 }

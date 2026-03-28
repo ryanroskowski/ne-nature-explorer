@@ -227,20 +227,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1087243",
+      "xenoCantoId": "986904",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1087243/download",
-      "pageUrl": "https://xeno-canto.org/1087243",
-      "recordist": "steve",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/986904/download",
+      "pageUrl": "https://xeno-canto.org/986904",
+      "recordist": "Scott Olmstead",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Hoffman, Richmond County, North Carolina",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQVHGWMGMC/1087243/grey-medium.png"
+      "length": "0:49",
+      "location": "Elm Street near Tucson Blvd, Tucson, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/986904/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "959367",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/959367/download",
+      "pageUrl": "https://xeno-canto.org/959367",
+      "recordist": "Peter Mundale",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Blaine, Anoka County, Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UAXIKEBHEA/959367/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "821441",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/821441/download",
+      "pageUrl": "https://xeno-canto.org/821441",
+      "recordist": "Guillermo Treboux",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Ubajay, Colón Department, Entre Ríos Province",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UZCHJCUDEF/821441/grey-medium.png"
     },
     {
       "xenoCantoId": "1077982",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1077982/download",
       "pageUrl": "https://xeno-canto.org/1077982",
       "recordist": "Richard E. Webster",
@@ -251,8 +279,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1077982/grey-medium.png"
     },
     {
+      "xenoCantoId": "1054230",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1054230/download",
+      "pageUrl": "https://xeno-canto.org/1054230",
+      "recordist": "Dan P  Bilderback",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Park bench (near  Anchorage), Anchorage Municipality, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RIOFIXIKLT/1054230/grey-medium.png"
+    },
+    {
       "xenoCantoId": "741589",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/741589/download",
       "pageUrl": "https://xeno-canto.org/741589",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Great_horned_owl",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/20044"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/20044",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Bubo-virginianus"
 }

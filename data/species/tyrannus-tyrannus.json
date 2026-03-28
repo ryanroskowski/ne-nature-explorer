@@ -256,6 +256,7 @@
     {
       "xenoCantoId": "1023359",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1023359/download",
       "pageUrl": "https://xeno-canto.org/1023359",
       "recordist": "Valerie Heemstra",
@@ -266,8 +267,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1023359/grey-medium.png"
     },
     {
+      "xenoCantoId": "1014879",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1014879/download",
+      "pageUrl": "https://xeno-canto.org/1014879",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Marais Léon-Provancher, Portneuf, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014879/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "561409",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/561409/download",
+      "pageUrl": "https://xeno-canto.org/561409",
+      "recordist": "Meena Haribal",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Hector (near  Burdett), Schuyler County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RBYDYNRSJV/561409/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1038742",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1038742/download",
       "pageUrl": "https://xeno-canto.org/1038742",
       "recordist": "Greg Irving",
@@ -278,8 +306,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1038742/grey-medium.png"
     },
     {
+      "xenoCantoId": "1016544",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1016544/download",
+      "pageUrl": "https://xeno-canto.org/1016544",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Harrison Township (near  Harrison), Hamilton County, Ohio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1016544/grey-medium.png"
+    },
+    {
       "xenoCantoId": "574725",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/574725/download",
       "pageUrl": "https://xeno-canto.org/574725",
       "recordist": "William Whitehead",
@@ -292,5 +334,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Eastern_kingbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16782"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16782",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tyrannus-tyrannus"
 }

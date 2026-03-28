@@ -227,32 +227,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1027243",
+      "xenoCantoId": "1014698",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1027243/download",
-      "pageUrl": "https://xeno-canto.org/1027243",
-      "recordist": "Jim Berry",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1014698/download",
+      "pageUrl": "https://xeno-canto.org/1014698",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:23",
-      "location": "Busti (near  Jamestown), Chautauqua County, New York",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BMFJZMNPEG/1027243/grey-medium.png"
+      "length": "0:52",
+      "location": "La Côte-de-Beaupré (near  La Barrière-du-Maurice), Capitale-Nationale, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014698/grey-medium.png"
     },
     {
-      "xenoCantoId": "1059664",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1059664/download",
-      "pageUrl": "https://xeno-canto.org/1059664",
-      "recordist": "David A. Brinkman",
+      "xenoCantoId": "890154",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/890154/download",
+      "pageUrl": "https://xeno-canto.org/890154",
+      "recordist": "Thomas Magarian",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:13",
-      "location": "Green Township (near  Cincinnati), Hamilton County, Ohio",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1059664/grey-medium.png"
+      "length": "0:18",
+      "location": "Upper Hawksbill Trailhead, Shenandoah NP, Madison County, Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/890154/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "712412",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/712412/download",
+      "pageUrl": "https://xeno-canto.org/712412",
+      "recordist": "Patrick J. Blake",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:22",
+      "location": "Avon Park Air Force Range, Avon Park, Polk County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HCLTWDSPRI/712412/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1045482",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1045482/download",
+      "pageUrl": "https://xeno-canto.org/1045482",
+      "recordist": "Paul Driver",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "Newlin Township (near  West Chester), Chester County, Pennsylvania",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/1045482/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "844282",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/844282/download",
+      "pageUrl": "https://xeno-canto.org/844282",
+      "recordist": "Michael Hurben",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:02",
+      "location": "Richardson Nature Center, Hennepin, Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ESJQFJUOUH/844282/grey-medium.png"
     },
     {
       "xenoCantoId": "1014696",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014696/download",
       "pageUrl": "https://xeno-canto.org/1014696",
       "recordist": "Stanislas Wroza",
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_bluebird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12942"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12942",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sialia-sialis"
 }

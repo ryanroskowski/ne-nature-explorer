@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "920553",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/920553/download",
       "pageUrl": "https://xeno-canto.org/920553",
       "recordist": "Paul Kelly",
@@ -261,8 +262,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/920553/grey-medium.png"
     },
     {
+      "xenoCantoId": "644117",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/644117/download",
+      "pageUrl": "https://xeno-canto.org/644117",
+      "recordist": "AUDEVARD Aurélien",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:33",
+      "location": "Hyères, Var, Provence-Alpes-Côte d'Azur",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/644117/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1079363",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1079363/download",
       "pageUrl": "https://xeno-canto.org/1079363",
       "recordist": "Marc Anderson",
@@ -273,8 +288,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1079363/grey-medium.png"
     },
     {
+      "xenoCantoId": "1031384",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1031384/download",
+      "pageUrl": "https://xeno-canto.org/1031384",
+      "recordist": "johan lundgren",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:55",
+      "location": "Skintebo, Gothenburg Municipality, Västra Götalands län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XFGPXHETQK/1031384/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1015562",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1015562/download",
       "pageUrl": "https://xeno-canto.org/1015562",
       "recordist": "Anthony McGeehan ",
@@ -287,5 +316,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_tern",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4450"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4450",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sterna-hirundo"
 }

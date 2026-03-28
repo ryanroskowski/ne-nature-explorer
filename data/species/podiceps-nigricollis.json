@@ -220,6 +220,7 @@
     {
       "xenoCantoId": "1084603",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1084603/download",
       "pageUrl": "https://xeno-canto.org/1084603",
       "recordist": "Julien Piette",
@@ -230,20 +231,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AEYBSAOVGN/1084603/grey-medium.png"
     },
     {
-      "xenoCantoId": "940200",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/940200/download",
-      "pageUrl": "https://xeno-canto.org/940200",
-      "recordist": "王自堃",
+      "xenoCantoId": "989584",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/989584/download",
+      "pageUrl": "https://xeno-canto.org/989584",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
-      "location": "Beijing, Yuanmingyuan Park",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JKZUGKUTYO/940200/grey-medium.png"
+      "length": "0:12",
+      "location": "Arrondissement of Le Blanc (near  Saint-Michel-en-Brenne), Indre, Centre-Val de Loire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/989584/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "573051",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/573051/download",
+      "pageUrl": "https://xeno-canto.org/573051",
+      "recordist": "Alain Malengreau",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Hensies, Hainaut, Wallonie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EDRTTPSCEN/573051/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "896456",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/896456/download",
+      "pageUrl": "https://xeno-canto.org/896456",
+      "recordist": "Alain De Broyer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Rochefort, Namur, Wallonie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QJYMMMPQIE/896456/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "600631",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/600631/download",
+      "pageUrl": "https://xeno-canto.org/600631",
+      "recordist": "Patrik Åberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Naturum at Lake Hornborga",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/600631/grey-medium.png"
     },
     {
       "xenoCantoId": "984085",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/984085/download",
       "pageUrl": "https://xeno-canto.org/984085",
       "recordist": "Andrew Harrop",
@@ -256,5 +298,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-necked_grebe",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4205"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4205",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Podiceps-nigricollis"
 }

@@ -227,20 +227,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1038731",
+      "xenoCantoId": "1015065",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1038731/download",
-      "pageUrl": "https://xeno-canto.org/1038731",
-      "recordist": "Richard E. Webster",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1015065/download",
+      "pageUrl": "https://xeno-canto.org/1015065",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "4:54",
-      "location": "Portal, Arizona",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1038731/grey-medium.png"
+      "length": "0:48",
+      "location": "La Haute-Yamaska (near  Shefford), Estrie, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1015065/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1001100",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1001100/download",
+      "pageUrl": "https://xeno-canto.org/1001100",
+      "recordist": "Barry Edmonston",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "Acarichi, Guachochi, Chihuahua",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FHQVLXJQKW/1001100/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "959184",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/959184/download",
+      "pageUrl": "https://xeno-canto.org/959184",
+      "recordist": "Shelby M Palmer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "Carolina Sandhills NWR, Chesterfield County, South Carolina",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BIHLNFDJOS/959184/grey-medium.png"
     },
     {
       "xenoCantoId": "1015063",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1015063/download",
       "pageUrl": "https://xeno-canto.org/1015063",
       "recordist": "Stanislas Wroza",
@@ -251,19 +279,47 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1015063/grey-medium.png"
     },
     {
-      "xenoCantoId": "1015062",
+      "xenoCantoId": "961987",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/961987/download",
+      "pageUrl": "https://xeno-canto.org/961987",
+      "recordist": "A Richardson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "White Sulphur Springs, Meagher County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XBUQGDEYSJ/961987/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1015061",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1015062/download",
-      "pageUrl": "https://xeno-canto.org/1015062",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1015061/download",
+      "pageUrl": "https://xeno-canto.org/1015061",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
+      "length": "0:51",
       "location": "La Haute-Yamaska (near  Shefford), Estrie, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1015062/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1015061/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "298753",
+      "type": "drumming",
+      "label": "Drumming",
+      "audioUrl": "https://xeno-canto.org/298753/download",
+      "pageUrl": "https://xeno-canto.org/298753",
+      "recordist": "Antonio Xeira",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:04",
+      "location": "Beaudette Park, Oakland County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PJVICFDZGZ/298753/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/White-breasted_nuthatch",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14801"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14801",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sitta-carolinensis"
 }

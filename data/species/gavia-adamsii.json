@@ -227,6 +227,7 @@
     {
       "xenoCantoId": "838060",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/838060/download",
       "pageUrl": "https://xeno-canto.org/838060",
       "recordist": "Seth Beaudreault (Toolik Field Station)",
@@ -237,20 +238,48 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TZWMNBTMOK/838060/grey-medium.png"
     },
     {
-      "xenoCantoId": "838309",
+      "xenoCantoId": "185362",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/185362/download",
+      "pageUrl": "https://xeno-canto.org/185362",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:10",
+      "location": "Point Barrow, Barrow, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/185362/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "396673",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/838309/download",
-      "pageUrl": "https://xeno-canto.org/838309",
-      "recordist": "Seth Beaudreault (Toolik Field Station)",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/396673/download",
+      "pageUrl": "https://xeno-canto.org/396673",
+      "recordist": "Sunny",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "near 'Island Lake', North Slope, Alaska",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TZWMNBTMOK/838309/grey-medium.png"
+      "length": "1:18",
+      "location": "Allaikhovsky District, Sakha Republic",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SPMWIWZKKC/396673/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "679078",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/679078/download",
+      "pageUrl": "https://xeno-canto.org/679078",
+      "recordist": "Stein Ø. Nilsen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:25",
+      "location": "Vannøy ferry, Karlsøy, Troms og Finnmark",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/679078/grey-medium.png"
     },
     {
       "xenoCantoId": "838057",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/838057/download",
       "pageUrl": "https://xeno-canto.org/838057",
       "recordist": "Seth Beaudreault (Toolik Field Station)",
@@ -263,5 +292,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Yellow-billed_loon",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4622"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4622",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Gavia-adamsii"
 }

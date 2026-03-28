@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1008207",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1008207/download",
       "pageUrl": "https://xeno-canto.org/1008207",
       "recordist": "Cin-Ty Lee",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ERYSCRRSLN/1008207/grey-medium.png"
     },
     {
+      "xenoCantoId": "1007620",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1007620/download",
+      "pageUrl": "https://xeno-canto.org/1007620",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Hebron, Boone County, Kentucky",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1007620/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "919138",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/919138/download",
+      "pageUrl": "https://xeno-canto.org/919138",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:16",
+      "location": "Ensign Township (near  Rapid River), Delta County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/919138/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1029858",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1029858/download",
       "pageUrl": "https://xeno-canto.org/1029858",
       "recordist": "Chris Harrison",
@@ -244,9 +272,23 @@
       "length": "0:16",
       "location": "Perryton, Ochiltree County, Texas",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UBZMIPGNRT/1029858/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "805859",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/805859/download",
+      "pageUrl": "https://xeno-canto.org/805859",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:58",
+      "location": "Proctor Valley Rd, San Diego County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/805859/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Grasshopper_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10139"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10139",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Ammodramus-savannarum"
 }

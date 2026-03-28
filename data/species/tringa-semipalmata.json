@@ -232,6 +232,7 @@
     {
       "xenoCantoId": "1007052",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1007052/download",
       "pageUrl": "https://xeno-canto.org/1007052",
       "recordist": "Ed Pandolfino",
@@ -242,31 +243,73 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/1007052/grey-medium.png"
     },
     {
-      "xenoCantoId": "995148",
+      "xenoCantoId": "723894",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/723894/download",
+      "pageUrl": "https://xeno-canto.org/723894",
+      "recordist": "Molly Jacobson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Eel Pond, Edgartown, Dukes County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MXNGTEHLJJ/723894/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "717431",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/717431/download",
+      "pageUrl": "https://xeno-canto.org/717431",
+      "recordist": "William Whitehead",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:12",
+      "location": "Maryland (near  Berlin), Worcester County, Maryland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MGVGHKBMIZ/717431/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "994866",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/995148/download",
-      "pageUrl": "https://xeno-canto.org/995148",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/994866/download",
+      "pageUrl": "https://xeno-canto.org/994866",
       "recordist": "FREDERIC Lionel",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
+      "length": "0:58",
       "location": "Parque Nacional de Cayo Guillermo, Ciego de Ávila",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/995148/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/994866/grey-medium.png"
     },
     {
-      "xenoCantoId": "1016016",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1016016/download",
-      "pageUrl": "https://xeno-canto.org/1016016",
-      "recordist": "Dante Buzzetti",
+      "xenoCantoId": "901132",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/901132/download",
+      "pageUrl": "https://xeno-canto.org/901132",
+      "recordist": "David Tattersley",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:41",
-      "location": "Igarapé Arapapaí, São Luís, Maranhão",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YOXWKYFZAP/1016016/grey-medium.png"
+      "length": "0:15",
+      "location": "1 (near  Port Arthur), Jefferson County, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/901132/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "519624",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/519624/download",
+      "pageUrl": "https://xeno-canto.org/519624",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Paredones, Ahome, Sinaloa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/519624/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Willet",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144491"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144491",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tringa-semipalmata"
 }

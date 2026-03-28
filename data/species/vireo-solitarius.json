@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "1089336",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1089336/download",
       "pageUrl": "https://xeno-canto.org/1089336",
       "recordist": "steve",
@@ -261,8 +262,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQVHGWMGMC/1089336/grey-medium.png"
     },
     {
+      "xenoCantoId": "1011263",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1011263/download",
+      "pageUrl": "https://xeno-canto.org/1011263",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:23",
+      "location": "McMillan Township (near  Newberry), Luce County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1011263/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "933588",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/933588/download",
+      "pageUrl": "https://xeno-canto.org/933588",
+      "recordist": "Thomas Magarian",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:33",
+      "location": "GWNF, Emerald Pond, Page County, Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/933588/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1013559",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1013559/download",
       "pageUrl": "https://xeno-canto.org/1013559",
       "recordist": "Stanislas Wroza",
@@ -273,8 +301,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013559/grey-medium.png"
     },
     {
+      "xenoCantoId": "880375",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/880375/download",
+      "pageUrl": "https://xeno-canto.org/880375",
+      "recordist": "Peter Boesman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Santiago Atitlán, Sololá",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/880375/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014792",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014792/download",
       "pageUrl": "https://xeno-canto.org/1014792",
       "recordist": "Stanislas Wroza",
@@ -287,5 +329,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Blue-headed_vireo",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17402"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17402",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Vireo-solitarius"
 }

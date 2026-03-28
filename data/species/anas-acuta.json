@@ -245,6 +245,7 @@
     {
       "xenoCantoId": "1013358",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1013358/download",
       "pageUrl": "https://xeno-canto.org/1013358",
       "recordist": "Stanislas Wroza",
@@ -255,8 +256,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013358/grey-medium.png"
     },
     {
+      "xenoCantoId": "718826",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/718826/download",
+      "pageUrl": "https://xeno-canto.org/718826",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Ratuträsket, Robertsfors Ö, Robertsfors Municipality, Västerbotten County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/718826/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "381982",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/381982/download",
+      "pageUrl": "https://xeno-canto.org/381982",
+      "recordist": "Jens Kirkeby",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Ugolnye Kopi, Anadyrskiy rayon, Chukotskiy",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YKITMEIRRE/381982/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1088012",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1088012/download",
       "pageUrl": "https://xeno-canto.org/1088012",
       "recordist": "Vandousselaere Patrick",
@@ -267,8 +295,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ENJVLTZCQJ/1088012/grey-medium.png"
     },
     {
+      "xenoCantoId": "1082419",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1082419/download",
+      "pageUrl": "https://xeno-canto.org/1082419",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "North Warren RSPB, Suffolk, England",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1082419/grey-medium.png"
+    },
+    {
       "xenoCantoId": "741529",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/741529/download",
       "pageUrl": "https://xeno-canto.org/741529",
       "recordist": "Thomas Bergman",
@@ -281,5 +323,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_pintail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6933"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6933",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anas-acuta"
 }

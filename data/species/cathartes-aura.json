@@ -221,6 +221,7 @@
     {
       "xenoCantoId": "381486",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/381486/download",
       "pageUrl": "https://xeno-canto.org/381486",
       "recordist": "Andrew Spencer",
@@ -231,8 +232,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/381486/grey-medium.png"
     },
     {
+      "xenoCantoId": "904279",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/904279/download",
+      "pageUrl": "https://xeno-canto.org/904279",
+      "recordist": "Brian Henderson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:27",
+      "location": "Salford Township (near  Telford), Montgomery County, Pennsylvania",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XOTIPGMSLK/904279/grey-medium.png"
+    },
+    {
       "xenoCantoId": "520288",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/520288/download",
       "pageUrl": "https://xeno-canto.org/520288",
       "recordist": "Cristian Pinto",
@@ -245,5 +260,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Turkey_vulture",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4756"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4756",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Cathartes-aura"
 }

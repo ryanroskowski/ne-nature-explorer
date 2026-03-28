@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "488084",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/488084/download",
       "pageUrl": "https://xeno-canto.org/488084",
       "recordist": "Stanislas Wroza",
@@ -241,6 +242,7 @@
     {
       "xenoCantoId": "351801",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/351801/download",
       "pageUrl": "https://xeno-canto.org/351801",
       "recordist": "Bruce Lagerquist",
@@ -249,9 +251,23 @@
       "length": "0:20",
       "location": "Washington (near  Anacortes), Skagit County, Washington",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/351801/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "181783",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/181783/download",
+      "pageUrl": "https://xeno-canto.org/181783",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Taiya River mouth, Skagway Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/181783/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Harlequin_duck",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7111"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7111",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Histrionicus-histrionicus"
 }

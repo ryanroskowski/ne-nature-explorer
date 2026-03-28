@@ -302,6 +302,7 @@
     {
       "xenoCantoId": "1021690",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1021690/download",
       "pageUrl": "https://xeno-canto.org/1021690",
       "recordist": "Stanislas Wroza",
@@ -314,6 +315,7 @@
     {
       "xenoCantoId": "1060811",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1060811/download",
       "pageUrl": "https://xeno-canto.org/1060811",
       "recordist": "Yoann Blanchon",
@@ -322,9 +324,23 @@
       "length": "0:49",
       "location": "Anchorage, Anchorage Municipality, Alaska",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OYXLQBTHRH/1060811/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1036311",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1036311/download",
+      "pageUrl": "https://xeno-canto.org/1036311",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Country Island National Wildlife Area, Nova Scotia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/1036311/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/American_herring_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1578489"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1578489",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Larus-smithsonianus"
 }

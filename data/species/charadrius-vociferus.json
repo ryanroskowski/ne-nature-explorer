@@ -243,6 +243,7 @@
     {
       "xenoCantoId": "1040455",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1040455/download",
       "pageUrl": "https://xeno-canto.org/1040455",
       "recordist": "Greg Irving",
@@ -253,31 +254,73 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1040455/grey-medium.png"
     },
     {
-      "xenoCantoId": "1061070",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1061070/download",
-      "pageUrl": "https://xeno-canto.org/1061070",
-      "recordist": "Paul Kelly",
+      "xenoCantoId": "1012888",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1012888/download",
+      "pageUrl": "https://xeno-canto.org/1012888",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "South Sloblands, County Wexford",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/1061070/grey-medium.png"
+      "length": "0:11",
+      "location": "Lotbinière (near  Notre-Dame-du-Sacré-Coeur-d'Issoudun), Chaudière-Appalaches, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012888/grey-medium.png"
     },
     {
-      "xenoCantoId": "1021947",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1021947/download",
-      "pageUrl": "https://xeno-canto.org/1021947",
-      "recordist": "David Darrell-Lambert",
+      "xenoCantoId": "993998",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/993998/download",
+      "pageUrl": "https://xeno-canto.org/993998",
+      "recordist": "FREDERIC Lionel",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Hillman Marsh Conservation Area (near  Leamington), Essex County, Ontario",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1021947/grey-medium.png"
+      "length": "0:44",
+      "location": "Soroa, Candelaria, Pinar del Rio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/993998/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1012807",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1012807/download",
+      "pageUrl": "https://xeno-canto.org/1012807",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Baie-du-Febvre, Nicolet-Yamaska, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012807/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1000427",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1000427/download",
+      "pageUrl": "https://xeno-canto.org/1000427",
+      "recordist": "David Tattersley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "Deming, Luna County, New Mexico",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/1000427/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1016734",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1016734/download",
+      "pageUrl": "https://xeno-canto.org/1016734",
+      "recordist": "David Liebl",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Fitchburg, Dane County, Wisconsin",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/INPGVTLEAL/1016734/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Killdeer",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4793"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4793",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Charadrius-vociferus"
 }

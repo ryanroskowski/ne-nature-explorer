@@ -249,20 +249,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1063396",
+      "xenoCantoId": "1063392",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1063396/download",
-      "pageUrl": "https://xeno-canto.org/1063396",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1063392/download",
+      "pageUrl": "https://xeno-canto.org/1063392",
       "recordist": "Avery Bartels",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
+      "length": "0:19",
       "location": "Old Crow, Yukon",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VEKXLVVPUF/1063396/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VEKXLVVPUF/1063392/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "114996",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/114996/download",
+      "pageUrl": "https://xeno-canto.org/114996",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "1:01",
+      "location": "\"the Fen\", near Churchill Northern Studies Centre, Manitoba",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/114996/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "548845",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/548845/download",
+      "pageUrl": "https://xeno-canto.org/548845",
+      "recordist": "Logan McLeod",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:44",
+      "location": "Unorganized Yukon, Yukon, Yukon",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JRPEHMSIPP/548845/grey-medium.png"
     },
     {
       "xenoCantoId": "1063390",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1063390/download",
       "pageUrl": "https://xeno-canto.org/1063390",
       "recordist": "Avery Bartels",
@@ -273,19 +301,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VEKXLVVPUF/1063390/grey-medium.png"
     },
     {
-      "xenoCantoId": "596819",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/596819/download",
-      "pageUrl": "https://xeno-canto.org/596819",
-      "recordist": "Robson Silva e Silva",
+      "xenoCantoId": "856368",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/856368/download",
+      "pageUrl": "https://xeno-canto.org/856368",
+      "recordist": "Barry Edmonston",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Rio Cubatão, Cubatão, São Paulo",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WZSVLIHYQF/596819/grey-medium.png"
+      "length": "0:56",
+      "location": "Ancud, Chiloé Province, Los Lagos",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FHQVLXJQKW/856368/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "48617",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/48617/download",
+      "pageUrl": "https://xeno-canto.org/48617",
+      "recordist": "Bernabe Lopez-Lanus",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Estuario arroyo Maldonado, Maldonado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BYLLSJRVDZ/48617/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hudsonian_godwit",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3950"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3950",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Limosa-haemastica"
 }

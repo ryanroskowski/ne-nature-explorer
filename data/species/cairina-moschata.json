@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "619235",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/619235/download",
       "pageUrl": "https://xeno-canto.org/619235",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -239,8 +240,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/619235/grey-medium.png"
     },
     {
+      "xenoCantoId": "163735",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/163735/download",
+      "pageUrl": "https://xeno-canto.org/163735",
+      "recordist": "Danny Zapata-Henao",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Guatapé, Antioquia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AHYWLCEJLP/163735/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "44313",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/44313/download",
+      "pageUrl": "https://xeno-canto.org/44313",
+      "recordist": "Nunes D´Acosta",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:04",
+      "location": "Nascente do Rio dos Bois - Leopoldo de Bulhões, Goiás.",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OHHTDSDNBT/44313/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1087444",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1087444/download",
       "pageUrl": "https://xeno-canto.org/1087444",
       "recordist": "Jorge Leitão",
@@ -251,8 +279,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GYAUIPUVNM/1087444/grey-medium.png"
     },
     {
+      "xenoCantoId": "39489",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/39489/download",
+      "pageUrl": "https://xeno-canto.org/39489",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Cristalino Jungle Lodge, MT",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/39489/grey-medium.png"
+    },
+    {
       "xenoCantoId": "714003",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/714003/download",
       "pageUrl": "https://xeno-canto.org/714003",
       "recordist": "Fernando Igor de Godoy",
@@ -265,5 +307,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Muscovy_duck",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7120"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7120",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Cairina-moschata"
 }

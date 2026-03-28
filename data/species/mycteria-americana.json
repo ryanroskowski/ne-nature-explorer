@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1043547",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1043547/download",
       "pageUrl": "https://xeno-canto.org/1043547",
       "recordist": "Sue Riffe",
@@ -234,8 +235,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1043547/grey-medium.png"
     },
     {
+      "xenoCantoId": "193143",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/193143/download",
+      "pageUrl": "https://xeno-canto.org/193143",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:23",
+      "location": "Wakodahatchee Wetlands, Palm Beach County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/193143/grey-medium.png"
+    },
+    {
       "xenoCantoId": "139206",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/139206/download",
       "pageUrl": "https://xeno-canto.org/139206",
       "recordist": "Russ Wigh",
@@ -248,5 +263,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Wood_stork",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4742"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4742",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Mycteria-americana"
 }

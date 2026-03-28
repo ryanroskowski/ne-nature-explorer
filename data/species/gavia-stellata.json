@@ -230,6 +230,7 @@
     {
       "xenoCantoId": "1080427",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1080427/download",
       "pageUrl": "https://xeno-canto.org/1080427",
       "recordist": "Marc Anderson",
@@ -240,8 +241,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1080427/grey-medium.png"
     },
     {
+      "xenoCantoId": "1060885",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1060885/download",
+      "pageUrl": "https://xeno-canto.org/1060885",
+      "recordist": "Benjamin Drillat",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Utqiagvik, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/1060885/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "992929",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/992929/download",
+      "pageUrl": "https://xeno-canto.org/992929",
+      "recordist": "Johan Södercrantz",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:08",
+      "location": "Gäddsjön, Hudiksvall County, Gavleborg County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CIHYZWBHFL/992929/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1019247",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1019247/download",
       "pageUrl": "https://xeno-canto.org/1019247",
       "recordist": "Sven Normant",
@@ -252,19 +280,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MPDFSJHTXH/1019247/grey-medium.png"
     },
     {
-      "xenoCantoId": "914954",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/914954/download",
-      "pageUrl": "https://xeno-canto.org/914954",
-      "recordist": "Andrew Harrop",
+      "xenoCantoId": "1006409",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1006409/download",
+      "pageUrl": "https://xeno-canto.org/1006409",
+      "recordist": "Philippe Gayet",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:07",
-      "location": "Brough (near  Hamnavoe), Shetland Islands, Scotland",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNYFHZLJOD/914954/grey-medium.png"
+      "length": "0:20",
+      "location": "Arrondissement of Chalon-sur-Saône (near  Épervans), Saône-et-Loire, Bourgogne-Franche-Comté",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DLDERPOXJA/1006409/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "396960",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/396960/download",
+      "pageUrl": "https://xeno-canto.org/396960",
+      "recordist": "Vincent van der Spek",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Buitenhaven Scheveningen, Den Haag, ZH",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DREKKBLICT/396960/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-throated_loon",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4627"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4627",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Gavia-stellata"
 }

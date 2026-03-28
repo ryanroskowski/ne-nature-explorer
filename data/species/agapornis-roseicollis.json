@@ -192,6 +192,7 @@
     {
       "xenoCantoId": "1087077",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1087077/download",
       "pageUrl": "https://xeno-canto.org/1087077",
       "recordist": "African Bioacoustics Community",
@@ -200,9 +201,23 @@
       "length": "1:11",
       "location": "Door de Kraal Dam (near  Cape Town), City of Cape Town Metropolitan Municipality, Western Cape",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YSGTQVRQZI/1087077/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1059230",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1059230/download",
+      "pageUrl": "https://xeno-canto.org/1059230",
+      "recordist": "Yoann Blanchon",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:51",
+      "location": "Waterberg Camp",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OYXLQBTHRH/1059230/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Rosy-faced_lovebird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/19079"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/19079",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Agapornis-roseicollis"
 }

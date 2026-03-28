@@ -246,6 +246,7 @@
     {
       "xenoCantoId": "974534",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/974534/download",
       "pageUrl": "https://xeno-canto.org/974534",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -256,8 +257,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/974534/grey-medium.png"
     },
     {
+      "xenoCantoId": "957625",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/957625/download",
+      "pageUrl": "https://xeno-canto.org/957625",
+      "recordist": "Daniel Lopez-Velasco / Ornis Birding",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:52",
+      "location": "Nunavak Road, Barrow, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZMKKYDVHMN/957625/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "323096",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/323096/download",
+      "pageUrl": "https://xeno-canto.org/323096",
+      "recordist": "Peter Boesman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:09",
+      "location": "Barrow, North Slope, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/323096/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1032138",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1032138/download",
       "pageUrl": "https://xeno-canto.org/1032138",
       "recordist": "Paul Driver",
@@ -268,8 +296,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/1032138/grey-medium.png"
     },
     {
+      "xenoCantoId": "902076",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/902076/download",
+      "pageUrl": "https://xeno-canto.org/902076",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Parker River National Wildlife Refuge, Plum Island, Essex County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AMMGWAIZWI/902076/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1012809",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1012809/download",
       "pageUrl": "https://xeno-canto.org/1012809",
       "recordist": "Stanislas Wroza",
@@ -282,5 +324,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Semipalmated_plover",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4817"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4817",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Charadrius-semipalmatus"
 }

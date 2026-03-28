@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "933306",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/933306/download",
       "pageUrl": "https://xeno-canto.org/933306",
       "recordist": "Stein Ø. Nilsen",
@@ -236,6 +237,7 @@
     {
       "xenoCantoId": "406448",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/406448/download",
       "pageUrl": "https://xeno-canto.org/406448",
       "recordist": "Patrik Åberg",
@@ -244,9 +246,23 @@
       "length": "0:39",
       "location": "Barrow, North Slope Borough, Alaska",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/406448/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "185604",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/185604/download",
+      "pageUrl": "https://xeno-canto.org/185604",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Freshwater Lake, Barrow, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/185604/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sabine's_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4571"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4571",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Xema-sabini"
 }

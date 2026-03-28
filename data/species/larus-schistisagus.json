@@ -294,6 +294,7 @@
     {
       "xenoCantoId": "1016573",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1016573/download",
       "pageUrl": "https://xeno-canto.org/1016573",
       "recordist": "Uku Paal",
@@ -302,9 +303,23 @@
       "length": "0:31",
       "location": "Nemuro, Hokkaido",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XIBLXHRPJO/1016573/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "651642",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/651642/download",
+      "pageUrl": "https://xeno-canto.org/651642",
+      "recordist": "Markus Jacobs",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Rausu, Menashi District, Hokkaido",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XHQPIINHIC/651642/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Slaty-backed_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4366"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4366",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Larus-schistisagus"
 }

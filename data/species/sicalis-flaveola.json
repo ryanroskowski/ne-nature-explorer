@@ -192,6 +192,7 @@
     {
       "xenoCantoId": "1084028",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1084028/download",
       "pageUrl": "https://xeno-canto.org/1084028",
       "recordist": "Alfredo La Rosa",
@@ -202,8 +203,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LLMXWTDGEL/1084028/grey-medium.png"
     },
     {
+      "xenoCantoId": "1061030",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1061030/download",
+      "pageUrl": "https://xeno-canto.org/1061030",
+      "recordist": "Robson Silva e Silva",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:59",
+      "location": "Rua Analia Franco, Santos, São Paulo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WZSVLIHYQF/1061030/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1052997",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1052997/download",
+      "pageUrl": "https://xeno-canto.org/1052997",
+      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:42",
+      "location": "São Francisco de Paula, Rio Grande do Sul",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/1052997/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1006617",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1006617/download",
       "pageUrl": "https://xeno-canto.org/1006617",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -212,9 +240,23 @@
       "length": "0:41",
       "location": "RPPN Flor das Águas - Pirenópolis, Goiás",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/1006617/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "915942",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/915942/download",
+      "pageUrl": "https://xeno-canto.org/915942",
+      "recordist": "Sara L. Castro (Museo de Historia Natural Unillanos)",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Universidad de los Llanos",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BKLXCSXFEB/915942/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Saffron_finch",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9864"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9864",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sicalis-flaveola"
 }

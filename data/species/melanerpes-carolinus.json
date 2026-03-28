@@ -222,20 +222,35 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "568575",
+      "xenoCantoId": "563618",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/568575/download",
-      "pageUrl": "https://xeno-canto.org/568575",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/563618/download",
+      "pageUrl": "https://xeno-canto.org/563618",
+      "recordist": "Brian Hendrix",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Hendrix Habitat - Fairview, Williamson County, Tennessee",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WFZJIOWFQY/563618/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "561380",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/561380/download",
+      "pageUrl": "https://xeno-canto.org/561380",
       "recordist": "Meena Haribal",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:01",
-      "location": "Caroline (near  Brooktondale), Tompkins County, New York",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RBYDYNRSJV/568575/grey-medium.png"
+      "length": "1:20",
+      "location": "Hector (near  Burdett), Schuyler County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RBYDYNRSJV/561380/grey-medium.png"
     },
     {
       "xenoCantoId": "1049468",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1049468/download",
       "pageUrl": "https://xeno-canto.org/1049468",
       "recordist": "Valerie Heemstra",
@@ -246,8 +261,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1049468/grey-medium.png"
     },
     {
+      "xenoCantoId": "962378",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/962378/download",
+      "pageUrl": "https://xeno-canto.org/962378",
+      "recordist": "A Richardson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Remington (near  Babcock), Wood County, Wisconsin",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XBUQGDEYSJ/962378/grey-medium.png"
+    },
+    {
       "xenoCantoId": "829402",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/829402/download",
       "pageUrl": "https://xeno-canto.org/829402",
       "recordist": "PT xiao",
@@ -256,9 +285,23 @@
       "length": "2:48",
       "location": "Lucky Hammock, Homestead, Miami-Dade County, Florida",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LOAVJDRPYN/829402/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "638325",
+      "type": "drumming",
+      "label": "Drumming",
+      "audioUrl": "https://xeno-canto.org/638325/download",
+      "pageUrl": "https://xeno-canto.org/638325",
+      "recordist": "Meena Haribal",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Dryden (near  Ithaca), Tompkins County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RBYDYNRSJV/638325/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Red-bellied_woodpecker",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/18205"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/18205",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Melanerpes-carolinus"
 }

@@ -230,8 +230,35 @@
   ],
   "audio": [
     {
+      "xenoCantoId": "469799",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/469799/download",
+      "pageUrl": "https://xeno-canto.org/469799",
+      "recordist": "Joost van Bruggen",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Aerdt, Rijnwaarden, Gelderland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RNMRWBXEZJ/469799/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "365597",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/365597/download",
+      "pageUrl": "https://xeno-canto.org/365597",
+      "recordist": "Albert Lastukhin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:59",
+      "location": "Priyutnoye, Priyutnenskiy rayon, Respublika Kalmykiya",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/365597/grey-medium.png"
+    },
+    {
       "xenoCantoId": "765962",
       "type": "song",
+      "label": "Song 3",
       "audioUrl": "https://xeno-canto.org/765962/download",
       "pageUrl": "https://xeno-canto.org/765962",
       "recordist": "Stanislas Wroza",
@@ -244,6 +271,7 @@
     {
       "xenoCantoId": "1063339",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1063339/download",
       "pageUrl": "https://xeno-canto.org/1063339",
       "recordist": "JJSUN",
@@ -254,8 +282,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QXGZDUUJUO/1063339/grey-medium.png"
     },
     {
+      "xenoCantoId": "1053562",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1053562/download",
+      "pageUrl": "https://xeno-canto.org/1053562",
+      "recordist": "Shuangqi Liu",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Zinihu Reservoir, Alxa League, Inner Mongolia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FRENVBIZTF/1053562/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1045752",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1045752/download",
       "pageUrl": "https://xeno-canto.org/1045752",
       "recordist": "Manuel Oudard",
@@ -268,5 +310,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ruddy_shelduck",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7068"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7068",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tadorna-ferruginea"
 }

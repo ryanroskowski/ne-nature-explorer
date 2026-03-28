@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "871819",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/871819/download",
       "pageUrl": "https://xeno-canto.org/871819",
       "recordist": "María Emilia Pérez",
@@ -239,19 +240,60 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HLHEJPMMIW/871819/grey-medium.png"
     },
     {
-      "xenoCantoId": "956063",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/956063/download",
-      "pageUrl": "https://xeno-canto.org/956063",
+      "xenoCantoId": "686557",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/686557/download",
+      "pageUrl": "https://xeno-canto.org/686557",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Embrapa Arroz-Feijão, Goianira, Goiás",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/956063/grey-medium.png"
+      "length": "0:20",
+      "location": "Parque Estadual do Esphinillo Barra do Quaraí",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/686557/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "464177",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/464177/download",
+      "pageUrl": "https://xeno-canto.org/464177",
+      "recordist": "Rosendo Manuel Fraga",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Estancia La Candelaria, Lobos, Buenos Aires, Argentina",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JQSYKZHEMB/464177/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "920695",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/920695/download",
+      "pageUrl": "https://xeno-canto.org/920695",
+      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Reserva do Setor Sítio de Recreio Caraíbas-Goiânia, Goiás",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/920695/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "898406",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/898406/download",
+      "pageUrl": "https://xeno-canto.org/898406",
+      "recordist": "Dante Buzzetti",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "1:13",
+      "location": "Parque Estadual do Espinilho, Barra do Quaraí, Rio Grande do Sul",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YOXWKYFZAP/898406/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Vermilion_flycatcher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16447"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16447",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pyrocephalus-rubinus"
 }

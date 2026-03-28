@@ -344,6 +344,7 @@
     {
       "xenoCantoId": "1000324",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1000324/download",
       "pageUrl": "https://xeno-canto.org/1000324",
       "recordist": "Aku Kalliomäki",
@@ -354,8 +355,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EUNWJADFAF/1000324/grey-medium.png"
     },
     {
+      "xenoCantoId": "908654",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/908654/download",
+      "pageUrl": "https://xeno-canto.org/908654",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:51",
+      "location": "Île-de-Sein, Finistère, Bretagne",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/908654/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "420153",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/420153/download",
+      "pageUrl": "https://xeno-canto.org/420153",
+      "recordist": "Stein Ø. Nilsen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "Adventdalsdeltaet, Longyearbyen, Svalbard",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/420153/grey-medium.png"
+    },
+    {
       "xenoCantoId": "623303",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/623303/download",
       "pageUrl": "https://xeno-canto.org/623303",
       "recordist": "Stein Ø. Nilsen",
@@ -366,8 +394,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/623303/grey-medium.png"
     },
     {
+      "xenoCantoId": "135908",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/135908/download",
+      "pageUrl": "https://xeno-canto.org/135908",
+      "recordist": "Fernand DEROUSSEN",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Longyearbyen, Svalbard",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UXGZWVYDFE/135908/grey-medium.png"
+    },
+    {
       "xenoCantoId": "592041",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/592041/download",
       "pageUrl": "https://xeno-canto.org/592041",
       "recordist": "Stein Ø. Nilsen",
@@ -380,5 +422,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Purple_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3856"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3856",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-maritima"
 }

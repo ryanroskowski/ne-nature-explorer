@@ -232,6 +232,7 @@
     {
       "xenoCantoId": "1086272",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1086272/download",
       "pageUrl": "https://xeno-canto.org/1086272",
       "recordist": "Manuel Grosselet",
@@ -242,8 +243,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1086272/grey-medium.png"
     },
     {
+      "xenoCantoId": "991584",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/991584/download",
+      "pageUrl": "https://xeno-canto.org/991584",
+      "recordist": "Ed Pandolfino",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:39",
+      "location": "Mix Canyon Rd, Solano County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/991584/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "940065",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/940065/download",
+      "pageUrl": "https://xeno-canto.org/940065",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "Rocky Ford SWA, Otero Cty, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/940065/grey-medium.png"
+    },
+    {
       "xenoCantoId": "978332",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/978332/download",
       "pageUrl": "https://xeno-canto.org/978332",
       "recordist": "Matthew L. Brady",
@@ -252,9 +280,23 @@
       "length": "0:25",
       "location": "Selectively logged pine-oak forests 2-3 Km W Omiltemi, Chilpancingo de los Bravo, Guerrero",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SWDUSZIBPR/978332/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "971948",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/971948/download",
+      "pageUrl": "https://xeno-canto.org/971948",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Portal, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/971948/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-headed_grosbeak",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10274"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10274",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pheucticus-melanocephalus"
 }

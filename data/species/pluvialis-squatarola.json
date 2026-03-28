@@ -225,20 +225,35 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1089206",
+      "xenoCantoId": "1088399",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1089206/download",
-      "pageUrl": "https://xeno-canto.org/1089206",
-      "recordist": "Roger Briesewitz",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1088399/download",
+      "pageUrl": "https://xeno-canto.org/1088399",
+      "recordist": "Paul Kelly",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Leverkusen-Hitdorf, Buschbergsee",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XMKXALKNDL/1089206/grey-medium.png"
+      "length": "0:30",
+      "location": "Rosslare Harbour, Wexford, County Wexford",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/1088399/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1085871",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1085871/download",
+      "pageUrl": "https://xeno-canto.org/1085871",
+      "recordist": "Petter Westberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "OTTENBY Fågelstation",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1085871/grey-medium.png"
     },
     {
       "xenoCantoId": "872014",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/872014/download",
       "pageUrl": "https://xeno-canto.org/872014",
       "recordist": "Jacobo Ramil Millarengo",
@@ -251,5 +266,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Grey_plover",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4892"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4892",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pluvialis-squatarola"
 }

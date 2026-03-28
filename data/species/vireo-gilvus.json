@@ -265,20 +265,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1087360",
+      "xenoCantoId": "1014885",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1087360/download",
-      "pageUrl": "https://xeno-canto.org/1087360",
-      "recordist": "Sue Riffe",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1014885/download",
+      "pageUrl": "https://xeno-canto.org/1014885",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:39",
-      "location": "Spring Valley (near  Waynesville), Greene Cty, Ohio",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1087360/grey-medium.png"
+      "length": "1:02",
+      "location": "Marais Léon-Provancher, Portneuf, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014885/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "827595",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/827595/download",
+      "pageUrl": "https://xeno-canto.org/827595",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Tawas Point State Park (near  East Tawas), Iosco County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/827595/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "812838",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/812838/download",
+      "pageUrl": "https://xeno-canto.org/812838",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:21",
+      "location": "Palomar County Park, Palomar Mountain, San Diego County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/812838/grey-medium.png"
     },
     {
       "xenoCantoId": "1014882",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014882/download",
       "pageUrl": "https://xeno-canto.org/1014882",
       "recordist": "Stanislas Wroza",
@@ -289,8 +317,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014882/grey-medium.png"
     },
     {
+      "xenoCantoId": "482565",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/482565/download",
+      "pageUrl": "https://xeno-canto.org/482565",
+      "recordist": "Bruce Lagerquist",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Twin Springs Forest Camp, Lake County, Oregon",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/482565/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014883",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014883/download",
       "pageUrl": "https://xeno-canto.org/1014883",
       "recordist": "Stanislas Wroza",
@@ -303,5 +345,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Warbling_vireo",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17394"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17394",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Vireo-gilvus"
 }

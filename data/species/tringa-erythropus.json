@@ -227,6 +227,7 @@
     {
       "xenoCantoId": "1088553",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1088553/download",
       "pageUrl": "https://xeno-canto.org/1088553",
       "recordist": "Petter Westberg",
@@ -237,20 +238,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1088553/grey-medium.png"
     },
     {
-      "xenoCantoId": "1082900",
+      "xenoCantoId": "1005879",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1005879/download",
+      "pageUrl": "https://xeno-canto.org/1005879",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Lannavaara, Kiruna Municipality, Norrbotten County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/1005879/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "915323",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/915323/download",
+      "pageUrl": "https://xeno-canto.org/915323",
+      "recordist": "Thomas Bergman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Ailijärvenmaa, Karesuando, Torne lappmark ",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YUKZIHHVTY/915323/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1082899",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1082900/download",
-      "pageUrl": "https://xeno-canto.org/1082900",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1082899/download",
+      "pageUrl": "https://xeno-canto.org/1082899",
       "recordist": "Pablo Guillemaud",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
+      "length": "0:20",
       "location": "Réserve Naturelle des Marais de Séné (near  Séné), Morbihan, Brittany",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PWANNPIKFI/1082900/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PWANNPIKFI/1082899/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1031352",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1031352/download",
+      "pageUrl": "https://xeno-canto.org/1031352",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:29",
+      "location": "F.d. Hässlinge sjö, Trögden, Uppland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/1031352/grey-medium.png"
     },
     {
       "xenoCantoId": "1088552",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1088552/download",
       "pageUrl": "https://xeno-canto.org/1088552",
       "recordist": "Petter Westberg",
@@ -263,5 +305,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Spotted_redshank",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3882"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3882",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tringa-erythropus"
 }

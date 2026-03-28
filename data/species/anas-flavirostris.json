@@ -245,6 +245,7 @@
     {
       "xenoCantoId": "925408",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/925408/download",
       "pageUrl": "https://xeno-canto.org/925408",
       "recordist": "Cristian Pinto Fernandez",
@@ -255,8 +256,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SEVIQQAKWM/925408/grey-medium.png"
     },
     {
+      "xenoCantoId": "905380",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/905380/download",
+      "pageUrl": "https://xeno-canto.org/905380",
+      "recordist": "Franco Vushurovich",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Bosque de los Constituyentes, Rosario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VLDFGFKOWN/905380/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "827141",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/827141/download",
+      "pageUrl": "https://xeno-canto.org/827141",
+      "recordist": "Bernard BOUSQUET",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "Villa Carlos Paz, Punilla, Córdoba",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/THHNKSHUMO/827141/grey-medium.png"
+    },
+    {
       "xenoCantoId": "741141",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/741141/download",
       "pageUrl": "https://xeno-canto.org/741141",
       "recordist": "Franco Vushurovich",
@@ -267,19 +295,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VLDFGFKOWN/741141/grey-medium.png"
     },
     {
-      "xenoCantoId": "824808",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/824808/download",
-      "pageUrl": "https://xeno-canto.org/824808",
-      "recordist": "Bernard BOUSQUET",
+      "xenoCantoId": "464524",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/464524/download",
+      "pageUrl": "https://xeno-canto.org/464524",
+      "recordist": "Rosendo Manuel Fraga",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:48",
-      "location": "Villa Carlos Paz, Punilla, Córdoba",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/THHNKSHUMO/824808/grey-medium.png"
+      "length": "0:40",
+      "location": "Estancia La Candelaria, Lobos, Buenos Aires, Argentina",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JQSYKZHEMB/464524/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "742736",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/742736/download",
+      "pageUrl": "https://xeno-canto.org/742736",
+      "recordist": "Franco Vushurovich",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Victoria, Entre Ríos",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VLDFGFKOWN/742736/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Yellow-billed_teal",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6947"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6947",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anas-flavirostris"
 }

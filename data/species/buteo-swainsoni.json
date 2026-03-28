@@ -260,6 +260,7 @@
     {
       "xenoCantoId": "957330",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/957330/download",
       "pageUrl": "https://xeno-canto.org/957330",
       "recordist": "Arjun Dutta",
@@ -270,8 +271,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HRVQAOEHRR/957330/grey-medium.png"
     },
     {
+      "xenoCantoId": "468974",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/468974/download",
+      "pageUrl": "https://xeno-canto.org/468974",
+      "recordist": "Bruce Lagerquist",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Hammergrade Road, Whitman County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/468974/grey-medium.png"
+    },
+    {
       "xenoCantoId": "325718",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/325718/download",
       "pageUrl": "https://xeno-canto.org/325718",
       "recordist": "Bobby Wilcox",
@@ -284,5 +299,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Swainson's_hawk",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5196"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5196",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Buteo-swainsoni"
 }

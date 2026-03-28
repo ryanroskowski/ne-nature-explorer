@@ -206,20 +206,35 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1013582",
+      "xenoCantoId": "1013580",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1013582/download",
-      "pageUrl": "https://xeno-canto.org/1013582",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1013580/download",
+      "pageUrl": "https://xeno-canto.org/1013580",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:31",
+      "length": "0:20",
       "location": "La Haute-Côte-Nord Regional County Municipality (near  Les Escoumins), Côte-Nord, Quebec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013582/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013580/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "114930",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/114930/download",
+      "pageUrl": "https://xeno-canto.org/114930",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "1:17",
+      "location": "near Churchill Northern Studies Centre, Manitoba",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/114930/grey-medium.png"
     },
     {
       "xenoCantoId": "1013579",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1013579/download",
       "pageUrl": "https://xeno-canto.org/1013579",
       "recordist": "Stanislas Wroza",
@@ -230,8 +245,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013579/grey-medium.png"
     },
     {
+      "xenoCantoId": "668849",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/668849/download",
+      "pageUrl": "https://xeno-canto.org/668849",
+      "recordist": "Andrew Harrop",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Village (near  Norwick), Shetland Islands, Scotland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNYFHZLJOD/668849/grey-medium.png"
+    },
+    {
       "xenoCantoId": "839228",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/839228/download",
       "pageUrl": "https://xeno-canto.org/839228",
       "recordist": "Dan P  Bilderback",
@@ -244,5 +273,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bonaparte's_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144502"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144502",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Chroicocephalus-philadelphia"
 }

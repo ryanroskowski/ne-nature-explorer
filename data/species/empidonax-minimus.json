@@ -270,20 +270,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1014725",
+      "xenoCantoId": "940894",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1014725/download",
-      "pageUrl": "https://xeno-canto.org/1014725",
-      "recordist": "Stanislas Wroza",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/940894/download",
+      "pageUrl": "https://xeno-canto.org/940894",
+      "recordist": "Manuel Grosselet",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:08",
-      "location": "La Côte-de-Beaupré (near  La Barrière-du-Maurice), Capitale-Nationale, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014725/grey-medium.png"
+      "length": "0:30",
+      "location": "Guadalupe Hidalgo, San Lorenzo Cacaotepec, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/940894/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "601505",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/601505/download",
+      "pageUrl": "https://xeno-canto.org/601505",
+      "recordist": "Christopher McPherson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Lancy Brook Wetlands Brookline / Mason, Hillsborough County, New Hampshire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNIFQCMOLA/601505/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "509615",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/509615/download",
+      "pageUrl": "https://xeno-canto.org/509615",
+      "recordist": "Ken Hall",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:15",
+      "location": "Birdshill Provincial Park, Manitoba",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFRRHMLGSK/509615/grey-medium.png"
     },
     {
       "xenoCantoId": "1014846",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014846/download",
       "pageUrl": "https://xeno-canto.org/1014846",
       "recordist": "Stanislas Wroza",
@@ -294,19 +322,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014846/grey-medium.png"
     },
     {
-      "xenoCantoId": "1021125",
+      "xenoCantoId": "753700",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/753700/download",
+      "pageUrl": "https://xeno-canto.org/753700",
+      "recordist": "Sunny Tseng",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:28",
+      "location": "Domano Park",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SPMWIWZKKC/753700/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014723",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1021125/download",
-      "pageUrl": "https://xeno-canto.org/1021125",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1014723/download",
+      "pageUrl": "https://xeno-canto.org/1014723",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:40",
-      "location": "Mont Saint Hilaire",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1021125/grey-medium.png"
+      "length": "0:18",
+      "location": "La Côte-de-Beaupré (near  La Barrière-du-Maurice), Capitale-Nationale, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014723/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Least_flycatcher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16602"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16602",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Empidonax-minimus"
 }

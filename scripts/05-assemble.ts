@@ -85,6 +85,7 @@ export function assemble(
   interface BirdAudioEntry {
     xenoCantoId: string;
     type: string;
+    label?: string;
     audioUrl: string;
     pageUrl: string;
     recordist: string;
@@ -220,6 +221,7 @@ export function assemble(
               (a): SpeciesAudio => ({
                 xenoCantoId: a.xenoCantoId,
                 type: a.type,
+                ...(a.label ? { label: a.label } : {}),
                 audioUrl: a.audioUrl,
                 pageUrl: a.pageUrl,
                 recordist: a.recordist,
@@ -236,6 +238,10 @@ export function assemble(
       establishmentMeans: species.establishmentMeans,
       wikipediaUrl: species.wikipediaUrl,
       iNaturalistUrl: `https://www.inaturalist.org/taxa/${species.taxonId}`,
+      // Xeno-canto species page (birds only)
+      ...(groupKey === "birds" && audioData[species.taxonId.toString()]?.length
+        ? { xenoCantoUrl: `https://xeno-canto.org/species/${species.scientificName.replace(" ", "-")}` }
+        : {}),
     };
 
     // Write individual species file

@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "956901",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/956901/download",
       "pageUrl": "https://xeno-canto.org/956901",
       "recordist": "Étienne Leroy",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZWAQHOJFLZ/956901/grey-medium.png"
     },
     {
+      "xenoCantoId": "922764",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/922764/download",
+      "pageUrl": "https://xeno-canto.org/922764",
+      "recordist": "ALAN MONROY OJEDA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Moxviquil, San Cristóbal de las Casas, San Cristóbal de las Casas, Chiapas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BGILCCFTXZ/922764/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "872366",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/872366/download",
+      "pageUrl": "https://xeno-canto.org/872366",
+      "recordist": "Alán Palacios",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:45",
+      "location": "Localidad Cuarto Dínamo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QLIQOZZWBD/872366/grey-medium.png"
+    },
+    {
       "xenoCantoId": "519637",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/519637/download",
       "pageUrl": "https://xeno-canto.org/519637",
       "recordist": "Isain Contreras Rodríguez",
@@ -244,9 +272,23 @@
       "length": "0:44",
       "location": "Parque las maravillas, Ciudad de México",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/519637/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "347776",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/347776/download",
+      "pageUrl": "https://xeno-canto.org/347776",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:57",
+      "location": "San Pablo Etla, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/347776/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Mexican_violetear",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/508366"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/508366",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Colibri-thalassinus"
 }

@@ -237,6 +237,7 @@
     {
       "xenoCantoId": "933718",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/933718/download",
       "pageUrl": "https://xeno-canto.org/933718",
       "recordist": "Stein Ø. Nilsen",
@@ -247,8 +248,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/933718/grey-medium.png"
     },
     {
+      "xenoCantoId": "826959",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/826959/download",
+      "pageUrl": "https://xeno-canto.org/826959",
+      "recordist": "Yoann Blanchon",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Beluga Wetlands Overlook, Homer Airport (near  Homer), Kenai Peninsula Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OYXLQBTHRH/826959/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "613110",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/613110/download",
+      "pageUrl": "https://xeno-canto.org/613110",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:45",
+      "location": "Pouch Cove Line, Newfoundland and Labrador",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/613110/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1060366",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1060366/download",
       "pageUrl": "https://xeno-canto.org/1060366",
       "recordist": "Yoann Blanchon",
@@ -259,8 +287,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OYXLQBTHRH/1060366/grey-medium.png"
     },
     {
+      "xenoCantoId": "978670",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/978670/download",
+      "pageUrl": "https://xeno-canto.org/978670",
+      "recordist": "Max Karlsson",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Gävle Municipality, Gavleborg County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HURNHWTEKK/978670/grey-medium.png"
+    },
+    {
       "xenoCantoId": "818613",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/818613/download",
       "pageUrl": "https://xeno-canto.org/818613",
       "recordist": "Teet Sirotkin",
@@ -273,5 +315,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Two-barred_crossbill",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10423"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10423",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Loxia-leucoptera"
 }

@@ -235,6 +235,7 @@
     {
       "xenoCantoId": "992298",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/992298/download",
       "pageUrl": "https://xeno-canto.org/992298",
       "recordist": "Aku Kalliomäki",
@@ -245,8 +246,48 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EUNWJADFAF/992298/grey-medium.png"
     },
     {
+      "xenoCantoId": "989401",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/989401/download",
+      "pageUrl": "https://xeno-canto.org/989401",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Tullgarnsnäs, Hölö, Södermanland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/989401/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "884810",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/884810/download",
+      "pageUrl": "https://xeno-canto.org/884810",
+      "recordist": "Olivier SWIFT",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:00",
+      "location": "Daviaud - Lim001",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JCPKCBKKAQ/884810/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1091415",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1091415/download",
+      "pageUrl": "https://xeno-canto.org/1091415",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Rainham Marshes, London",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1091415/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1080472",
       "type": "call",
+      "label": "Call 2",
       "audioUrl": "https://xeno-canto.org/1080472/download",
       "pageUrl": "https://xeno-canto.org/1080472",
       "recordist": "Marc Anderson",
@@ -257,19 +298,21 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1080472/grey-medium.png"
     },
     {
-      "xenoCantoId": "1083334",
+      "xenoCantoId": "1027325",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1083334/download",
-      "pageUrl": "https://xeno-canto.org/1083334",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1027325/download",
+      "pageUrl": "https://xeno-canto.org/1027325",
       "recordist": "David Darrell-Lambert",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "Rainham Marshes, London",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1083334/grey-medium.png"
+      "length": "0:17",
+      "location": "Burnham Overy Staithe, Norfolk, England",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1027325/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_redshank",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3879"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3879",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tringa-totanus"
 }

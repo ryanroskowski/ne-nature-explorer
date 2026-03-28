@@ -208,6 +208,7 @@
     {
       "xenoCantoId": "1080710",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1080710/download",
       "pageUrl": "https://xeno-canto.org/1080710",
       "recordist": "Joren van Schie",
@@ -218,8 +219,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WEFETQLIEQ/1080710/grey-medium.png"
     },
     {
+      "xenoCantoId": "1010648",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1010648/download",
+      "pageUrl": "https://xeno-canto.org/1010648",
+      "recordist": "Rory Nefdt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:57",
+      "location": "Lusby, Calvert County, Maryland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1010648/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "941065",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/941065/download",
+      "pageUrl": "https://xeno-canto.org/941065",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Circle B Bar Reserve, Polk Cty, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/941065/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1035997",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1035997/download",
       "pageUrl": "https://xeno-canto.org/1035997",
       "recordist": "Rory Nefdt",
@@ -230,8 +258,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1035997/grey-medium.png"
     },
     {
+      "xenoCantoId": "951784",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/951784/download",
+      "pageUrl": "https://xeno-canto.org/951784",
+      "recordist": "Thomas Magarian",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Lake Arrowhead, Page County, Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/951784/grey-medium.png"
+    },
+    {
       "xenoCantoId": "951783",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/951783/download",
       "pageUrl": "https://xeno-canto.org/951783",
       "recordist": "Thomas Magarian",
@@ -244,5 +286,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Carolina_wren",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7513"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7513",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Thryothorus-ludovicianus"
 }

@@ -344,6 +344,7 @@
     {
       "xenoCantoId": "425083",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/425083/download",
       "pageUrl": "https://xeno-canto.org/425083",
       "recordist": "Andrew Spencer",
@@ -356,6 +357,7 @@
     {
       "xenoCantoId": "1032738",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1032738/download",
       "pageUrl": "https://xeno-canto.org/1032738",
       "recordist": "Lim Ying Hien 林勇贤",
@@ -364,9 +366,23 @@
       "length": "0:17",
       "location": "Ögiy, O'giinuur, Arkhangai",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NXHTMHMNSS/1032738/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "977069",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/977069/download",
+      "pageUrl": "https://xeno-canto.org/977069",
+      "recordist": "Albert Lastukhin",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "B",
+      "length": "0:11",
+      "location": "Fort-Dauphin (near  Ambinanibe), Taolagnaro, Anosy",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/977069/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sharp-tailed_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3844"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3844",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-acuminata"
 }

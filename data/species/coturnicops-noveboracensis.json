@@ -182,8 +182,22 @@
   "relatedSpecies": [],
   "audio": [
     {
+      "xenoCantoId": "13785",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/13785/download",
+      "pageUrl": "https://xeno-canto.org/13785",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "1:05",
+      "location": "McGregor Marsh, Aitkin Co., Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/13785/grey-medium.png"
+    },
+    {
       "xenoCantoId": "651109",
       "type": "song",
+      "label": "Song 2",
       "audioUrl": "https://xeno-canto.org/651109/download",
       "pageUrl": "https://xeno-canto.org/651109",
       "recordist": "Paul Driver",
@@ -194,8 +208,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/651109/grey-medium.png"
     },
     {
+      "xenoCantoId": "577160",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/577160/download",
+      "pageUrl": "https://xeno-canto.org/577160",
+      "recordist": "Tom Forwood Jr.",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:43",
+      "location": "Three Forks, Gallatin County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SKESHBJXCF/577160/grey-medium.png"
+    },
+    {
       "xenoCantoId": "729035",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/729035/download",
       "pageUrl": "https://xeno-canto.org/729035",
       "recordist": "Chris Butler",
@@ -204,9 +232,23 @@
       "length": "0:01",
       "location": "Bay City, Matagorda County, Texas (approximate)",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WAEIZNGGJT/729035/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "561828",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/561828/download",
+      "pageUrl": "https://xeno-canto.org/561828",
+      "recordist": "Justin Watts",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "2:59",
+      "location": "McGregor Marsh, Aitkin Co., Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KCFZWPMCTU/561828/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Yellow_rail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/542"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/542",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Coturnicops-noveboracensis"
 }

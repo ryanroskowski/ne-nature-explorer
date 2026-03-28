@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "1059654",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1059654/download",
       "pageUrl": "https://xeno-canto.org/1059654",
       "recordist": "Ray Tsu 诸仁",
@@ -239,8 +240,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FROVFAFTMA/1059654/grey-medium.png"
     },
     {
+      "xenoCantoId": "670886",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/670886/download",
+      "pageUrl": "https://xeno-canto.org/670886",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Gmina Baranów (near  Baranów), powiat grodziski, Mazowieckie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/670886/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "640749",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/640749/download",
+      "pageUrl": "https://xeno-canto.org/640749",
+      "recordist": "Tanguy Loïs",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Saint-Lucien, Eure-et-Loir, Centre-Val de Loire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PJVGDPHDIM/640749/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1091305",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1091305/download",
       "pageUrl": "https://xeno-canto.org/1091305",
       "recordist": "Petter Westberg",
@@ -251,8 +279,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1091305/grey-medium.png"
     },
     {
+      "xenoCantoId": "992620",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/992620/download",
+      "pageUrl": "https://xeno-canto.org/992620",
+      "recordist": "Bo Shunqi 薄顺奇",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Haiwan Forest Park, Fengxian, Shanghai",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YNOAMCSSHX/992620/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1067618",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1067618/download",
       "pageUrl": "https://xeno-canto.org/1067618",
       "recordist": "Lennart Jeppsson",
@@ -265,5 +307,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_pheasant",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/981"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/981",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Phasianus-colchicus"
 }

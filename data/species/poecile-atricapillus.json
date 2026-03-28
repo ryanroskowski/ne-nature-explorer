@@ -219,20 +219,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1078261",
+      "xenoCantoId": "1047655",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1078261/download",
-      "pageUrl": "https://xeno-canto.org/1078261",
-      "recordist": "Valerie Heemstra",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1047655/download",
+      "pageUrl": "https://xeno-canto.org/1047655",
+      "recordist": "Greg Irving",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:22",
-      "location": "Escanaba Township (near  Flat Rock), Delta County, Michigan",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1078261/grey-medium.png"
+      "length": "1:12",
+      "location": "Dungeness Recreation Area, Clallam County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1047655/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1035996",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1035996/download",
+      "pageUrl": "https://xeno-canto.org/1035996",
+      "recordist": "Rory Nefdt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:04",
+      "location": "Oscawana, Croton-on-Hudson, Westchester County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1035996/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1012680",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1012680/download",
+      "pageUrl": "https://xeno-canto.org/1012680",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:58",
+      "location": "Stationnement du Parc écomaritime de l'Anse-du-Port (near  Nicolet), Centre-du-Québec, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012680/grey-medium.png"
     },
     {
       "xenoCantoId": "1087463",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1087463/download",
       "pageUrl": "https://xeno-canto.org/1087463",
       "recordist": "Valerie Heemstra",
@@ -243,8 +271,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1087463/grey-medium.png"
     },
     {
+      "xenoCantoId": "1060245",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1060245/download",
+      "pageUrl": "https://xeno-canto.org/1060245",
+      "recordist": "Bram Piot",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Bracebridge, Muskoka District Municipality, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RGSEIIJGHA/1060245/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014227",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014227/download",
       "pageUrl": "https://xeno-canto.org/1014227",
       "recordist": "Stanislas Wroza",
@@ -257,5 +299,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-capped_chickadee",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144815"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144815",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Poecile-atricapillus"
 }

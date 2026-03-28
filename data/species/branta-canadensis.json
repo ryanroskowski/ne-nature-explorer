@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "637975",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/637975/download",
       "pageUrl": "https://xeno-canto.org/637975",
       "recordist": "Regina Eidner",
@@ -261,8 +262,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YDQKMZXDRL/637975/grey-medium.png"
     },
     {
+      "xenoCantoId": "383664",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/383664/download",
+      "pageUrl": "https://xeno-canto.org/383664",
+      "recordist": "Terje Kolaas",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Verdal, Verdal, Nord-Trøndelag",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CIMGCGUWCS/383664/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "287162",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/287162/download",
+      "pageUrl": "https://xeno-canto.org/287162",
+      "recordist": "Joe Klaiber",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "2:15",
+      "location": "Berlin, Berlin",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TNPOVFLZMY/287162/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1079549",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1079549/download",
       "pageUrl": "https://xeno-canto.org/1079549",
       "recordist": "Marc Anderson",
@@ -273,19 +301,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1079549/grey-medium.png"
     },
     {
-      "xenoCantoId": "806434",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/806434/download",
-      "pageUrl": "https://xeno-canto.org/806434",
-      "recordist": "Francesco Barberini",
+      "xenoCantoId": "1070829",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1070829/download",
+      "pageUrl": "https://xeno-canto.org/1070829",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Capodimonte, Province of Viterbo, Lazio",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FDRIKEROUW/806434/grey-medium.png"
+      "length": "0:13",
+      "location": "Arrondissement de Charleville-Mézières (near  Fumay), Ardennes, Grand Est",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1070829/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "711380",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/711380/download",
+      "pageUrl": "https://xeno-canto.org/711380",
+      "recordist": "Jim Berry",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Watts Flats WMA (near  Panama), Chautauqua County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BMFJZMNPEG/711380/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Canada_goose",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7089"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7089",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Branta-canadensis"
 }

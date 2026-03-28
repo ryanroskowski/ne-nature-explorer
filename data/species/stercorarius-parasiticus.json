@@ -250,6 +250,7 @@
     {
       "xenoCantoId": "479328",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/479328/download",
       "pageUrl": "https://xeno-canto.org/479328",
       "recordist": "Stanislas Wroza",
@@ -260,8 +261,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/479328/grey-medium.png"
     },
     {
+      "xenoCantoId": "57861",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/57861/download",
+      "pageUrl": "https://xeno-canto.org/57861",
+      "recordist": "Ruud van Beusekom",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:56",
+      "location": "Hafnir",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PKWMZIRVUO/57861/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "44267",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/44267/download",
+      "pageUrl": "https://xeno-canto.org/44267",
+      "recordist": "Lauri Hallikainen",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:35",
+      "location": "Letonnokka",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LGRWBISPYQ/44267/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1022096",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1022096/download",
       "pageUrl": "https://xeno-canto.org/1022096",
       "recordist": "Lars Edenius",
@@ -272,8 +300,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/1022096/grey-medium.png"
     },
     {
+      "xenoCantoId": "1019213",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1019213/download",
+      "pageUrl": "https://xeno-canto.org/1019213",
+      "recordist": "Sven Normant",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Kinnarodden, Lebesby, Finnmark",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MPDFSJHTXH/1019213/grey-medium.png"
+    },
+    {
       "xenoCantoId": "674548",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/674548/download",
       "pageUrl": "https://xeno-canto.org/674548",
       "recordist": "Peter Stronach",
@@ -286,5 +328,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Parasitic_jaeger",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4489"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4489",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Stercorarius-parasiticus"
 }

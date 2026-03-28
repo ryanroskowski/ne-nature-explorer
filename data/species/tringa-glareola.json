@@ -262,20 +262,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1080477",
+      "xenoCantoId": "1080475",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1080477/download",
-      "pageUrl": "https://xeno-canto.org/1080477",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1080475/download",
+      "pageUrl": "https://xeno-canto.org/1080475",
       "recordist": "Marc Anderson",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "quality": "A",
-      "length": "0:08",
+      "length": "0:10",
       "location": "Storsjödeltat, Ljungdalen Jämtland",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1080477/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1080475/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "998235",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/998235/download",
+      "pageUrl": "https://xeno-canto.org/998235",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Skravelbäck, Västerbotten County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/998235/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "995865",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/995865/download",
+      "pageUrl": "https://xeno-canto.org/995865",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:33",
+      "location": "F.d. Hässlinge sjö, Trögden, Uppland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/995865/grey-medium.png"
     },
     {
       "xenoCantoId": "1076297",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1076297/download",
       "pageUrl": "https://xeno-canto.org/1076297",
       "recordist": "Richard E. Webster",
@@ -286,8 +314,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1076297/grey-medium.png"
     },
     {
+      "xenoCantoId": "906765",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/906765/download",
+      "pageUrl": "https://xeno-canto.org/906765",
+      "recordist": "Francesco Sottile",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:26",
+      "location": "Cassano All’Ionio, Province of Cosenza, Calabria",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ITHRUQEQCF/906765/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1085578",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1085578/download",
       "pageUrl": "https://xeno-canto.org/1085578",
       "recordist": "Petter Westberg",
@@ -300,5 +342,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Wood_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3888"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3888",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tringa-glareola"
 }

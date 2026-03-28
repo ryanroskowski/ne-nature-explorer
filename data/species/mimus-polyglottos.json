@@ -198,32 +198,74 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1089514",
+      "xenoCantoId": "1084110",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1089514/download",
-      "pageUrl": "https://xeno-canto.org/1089514",
-      "recordist": "Scott Crabtree",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1084110/download",
+      "pageUrl": "https://xeno-canto.org/1084110",
+      "recordist": "Manuel Grosselet - Eva Lepiz",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:55",
-      "location": "Molino Basin, Pima County, Arizona",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/1089514/grey-medium.png"
+      "length": "0:39",
+      "location": "Teotitlán del Valle, Teotitlán del Valle, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1084110/grey-medium.png"
     },
     {
-      "xenoCantoId": "1035197",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1035197/download",
-      "pageUrl": "https://xeno-canto.org/1035197",
-      "recordist": "Richard E. Webster",
+      "xenoCantoId": "997264",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/997264/download",
+      "pageUrl": "https://xeno-canto.org/997264",
+      "recordist": "FREDERIC Lionel",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:32",
-      "location": "Leslie Canyon National Wildlife Refuge, Cochise County, Arizona",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1035197/grey-medium.png"
+      "length": "0:44",
+      "location": "Soroa, Candelaria, Pinar del Rio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/997264/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "963471",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/963471/download",
+      "pageUrl": "https://xeno-canto.org/963471",
+      "recordist": "Hans Matheve",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:03",
+      "location": "Santo Domingo Botanical Garden",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VROUALCTKG/963471/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "981689",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/981689/download",
+      "pageUrl": "https://xeno-canto.org/981689",
+      "recordist": "Shelby M Palmer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "UF Dairy, Gainesville, Alachua County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BIHLNFDJOS/981689/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "862380",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/862380/download",
+      "pageUrl": "https://xeno-canto.org/862380",
+      "recordist": "Percy Ulsamer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "West Haven, New Haven County, Connecticut",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RWYJBFIULI/862380/grey-medium.png"
     },
     {
       "xenoCantoId": "997265",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/997265/download",
       "pageUrl": "https://xeno-canto.org/997265",
       "recordist": "FREDERIC Lionel",
@@ -236,5 +278,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_mockingbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14886"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14886",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Mimus-polyglottos"
 }

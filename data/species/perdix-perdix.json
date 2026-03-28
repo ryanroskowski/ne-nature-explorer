@@ -195,32 +195,74 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "906048",
+      "xenoCantoId": "654943",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/906048/download",
-      "pageUrl": "https://xeno-canto.org/906048",
-      "recordist": "Jochem Verweij",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "quality": "A",
-      "length": "3:41",
-      "location": "OTTENBY, Mörbylånga Municipality, Kalmar län",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OECYVAVRRI/906048/grey-medium.png"
-    },
-    {
-      "xenoCantoId": "1068413",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1068413/download",
-      "pageUrl": "https://xeno-canto.org/1068413",
-      "recordist": "Don Profota",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/654943/download",
+      "pageUrl": "https://xeno-canto.org/654943",
+      "recordist": "Musse Björklund",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "South Bozeman, Gallatin County, Montana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UTLXKPYDDK/1068413/grey-medium.png"
+      "length": "1:12",
+      "location": "Brumstorp, Värsås  Västra Götalands län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VSTNGEPIHW/654943/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "600634",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/600634/download",
+      "pageUrl": "https://xeno-canto.org/600634",
+      "recordist": "Patrik Åberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:02",
+      "location": "Ottenby, Mörbylånga Municipality, Kalmar län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/600634/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "508594",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/508594/download",
+      "pageUrl": "https://xeno-canto.org/508594",
+      "recordist": "Mathieu Waldeck",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Neugraben-Fischbek, Hamburg",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZCDELIOZPF/508594/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1043101",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1043101/download",
+      "pageUrl": "https://xeno-canto.org/1043101",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:42",
+      "location": "Eka, Trögden, Uppland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/1043101/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "972389",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/972389/download",
+      "pageUrl": "https://xeno-canto.org/972389",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:32",
+      "location": "Hajnówka (near  Nowokornino), Hajnówka County, Podlaskie Voivodeship",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/972389/grey-medium.png"
     },
     {
       "xenoCantoId": "150574",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/150574/download",
       "pageUrl": "https://xeno-canto.org/150574",
       "recordist": "Jarek Matusiak",
@@ -233,5 +275,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Grey_partridge",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/831"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/831",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Perdix-perdix"
 }

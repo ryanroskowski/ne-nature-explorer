@@ -150,20 +150,35 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "963173",
+      "xenoCantoId": "613386",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/963173/download",
-      "pageUrl": "https://xeno-canto.org/963173",
-      "recordist": "Bill Pyle",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/613386/download",
+      "pageUrl": "https://xeno-canto.org/613386",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "West Brook Ecological Reserve, Newfoundland and Labrador",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/613386/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "505980",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/505980/download",
+      "pageUrl": "https://xeno-canto.org/505980",
+      "recordist": "Bruce Lagerquist",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:36",
-      "location": "Kodiak, Alaska",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DUWDSSWZPN/963173/grey-medium.png"
+      "length": "0:29",
+      "location": "Clover Flats Campground, Yakima County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/505980/grey-medium.png"
     },
     {
       "xenoCantoId": "1010844",
       "type": "drumming",
+      "label": "Drumming",
       "audioUrl": "https://xeno-canto.org/1010844/download",
       "pageUrl": "https://xeno-canto.org/1010844",
       "recordist": "Bill Pyle",
@@ -176,5 +191,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_three-toed_woodpecker",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17638"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17638",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Picoides-dorsalis"
 }

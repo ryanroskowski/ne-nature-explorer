@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "487892",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/487892/download",
       "pageUrl": "https://xeno-canto.org/487892",
       "recordist": "Stanislas Wroza",
@@ -236,6 +237,7 @@
     {
       "xenoCantoId": "1087304",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1087304/download",
       "pageUrl": "https://xeno-canto.org/1087304",
       "recordist": "Roland Arnison",
@@ -244,9 +246,23 @@
       "length": "0:53",
       "location": "Mull (near  Gometra House), Argyll and Bute Council, Scotland",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NPLSWYWTJJ/1087304/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1079595",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1079595/download",
+      "pageUrl": "https://xeno-canto.org/1079595",
+      "recordist": "Scott Olmstead",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Machias Seal Island, Washington County, Maine",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/1079595/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Razorbill",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4501"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4501",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Alca-torda"
 }

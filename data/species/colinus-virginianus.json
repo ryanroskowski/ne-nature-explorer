@@ -227,20 +227,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "919215",
+      "xenoCantoId": "805814",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/919215/download",
-      "pageUrl": "https://xeno-canto.org/919215",
-      "recordist": "FREDERIC Lionel",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/805814/download",
+      "pageUrl": "https://xeno-canto.org/805814",
+      "recordist": "David A. Brinkman",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:46",
-      "location": "Arrondissement d'Orléans (near  Bou), Loiret, Centre-Val de Loire",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/919215/grey-medium.png"
+      "length": "0:59",
+      "location": "New Market Township (near  Hoagland), Highland County, Ohio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/805814/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "778950",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/778950/download",
+      "pageUrl": "https://xeno-canto.org/778950",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:20",
+      "location": "Mims, Brevard County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/778950/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "714443",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/714443/download",
+      "pageUrl": "https://xeno-canto.org/714443",
+      "recordist": "Bruce Lagerquist",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Fort Drum Marsh, Indian River County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/714443/grey-medium.png"
     },
     {
       "xenoCantoId": "776760",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/776760/download",
       "pageUrl": "https://xeno-canto.org/776760",
       "recordist": "Valerie Heemstra",
@@ -249,9 +277,23 @@
       "length": "0:50",
       "location": "Lyonia Preserve (near  Deltona), Volusia County, Florida",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/776760/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "730995",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/730995/download",
+      "pageUrl": "https://xeno-canto.org/730995",
+      "recordist": "Carsten Cordes",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:39",
+      "location": "Piškovica, Općina Vižinada, Istarska županija",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YNKCGBQOFD/730995/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_bobwhite",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1280"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1280",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Colinus-virginianus"
 }

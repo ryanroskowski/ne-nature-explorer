@@ -267,6 +267,7 @@
     {
       "xenoCantoId": "905324",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/905324/download",
       "pageUrl": "https://xeno-canto.org/905324",
       "recordist": "Franco Vushurovich",
@@ -279,6 +280,7 @@
     {
       "xenoCantoId": "1082919",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1082919/download",
       "pageUrl": "https://xeno-canto.org/1082919",
       "recordist": "Petter Westberg",
@@ -289,19 +291,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1082919/grey-medium.png"
     },
     {
-      "xenoCantoId": "1037223",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1037223/download",
-      "pageUrl": "https://xeno-canto.org/1037223",
-      "recordist": "Beatrix Saadi-Varchmin",
+      "xenoCantoId": "1073894",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1073894/download",
+      "pageUrl": "https://xeno-canto.org/1073894",
+      "recordist": "Paul Kelly",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:17",
-      "location": "Ammersee S, Binnensee, Landsberg (near Pähl), Oberbayern, Bayern",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OQZFKFTAKD/1037223/grey-medium.png"
+      "length": "0:19",
+      "location": "Tacumshin Lake (East End), County Wexford",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/1073894/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "980056",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/980056/download",
+      "pageUrl": "https://xeno-canto.org/980056",
+      "recordist": "Kelle Moreau",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Raversijde Walraversyde (near  Oostende), West-Vlaanderen, Vlaams Gewest",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CUMMLIFGZM/980056/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Greylag_goose",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7018"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7018",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anser-anser"
 }

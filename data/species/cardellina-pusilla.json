@@ -232,6 +232,7 @@
     {
       "xenoCantoId": "1074850",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1074850/download",
       "pageUrl": "https://xeno-canto.org/1074850",
       "recordist": "Paul Driver",
@@ -242,8 +243,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/1074850/grey-medium.png"
     },
     {
+      "xenoCantoId": "1014412",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1014412/download",
+      "pageUrl": "https://xeno-canto.org/1014412",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:52",
+      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014412/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "906161",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/906161/download",
+      "pageUrl": "https://xeno-canto.org/906161",
+      "recordist": "Anthony Gliozzo",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Camano, Island County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FHNIEQMQPH/906161/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1072555",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1072555/download",
       "pageUrl": "https://xeno-canto.org/1072555",
       "recordist": "Max Noack",
@@ -252,9 +280,23 @@
       "length": "0:17",
       "location": "Reserva Natural Privada Chajbaoc, Alta Verapaz",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NYTGVXSILH/1072555/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1070695",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1070695/download",
+      "pageUrl": "https://xeno-canto.org/1070695",
+      "recordist": "Manuel Grosselet ",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:52",
+      "location": "Teotitlán del Valle, Teotitlán del Valle, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1070695/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Wilson's_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145276"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145276",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Cardellina-pusilla"
 }

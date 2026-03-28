@@ -363,20 +363,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1086856",
+      "xenoCantoId": "1082040",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1086856/download",
-      "pageUrl": "https://xeno-canto.org/1086856",
-      "recordist": "Sue Riffe",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1082040/download",
+      "pageUrl": "https://xeno-canto.org/1082040",
+      "recordist": "David Darrell-Lambert",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "Ottawa NWR Crane Creek Estuary Trail, Lucas Cty, Ohio",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1086856/grey-medium.png"
+      "length": "0:18",
+      "location": "Point Pelee National Park, Essex County, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1082040/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1046365",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1046365/download",
+      "pageUrl": "https://xeno-canto.org/1046365",
+      "recordist": "AUDEVARD Aurélien",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Kincaid Park (near  Anchorage), Anchorage Municipality, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1046365/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1021357",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1021357/download",
+      "pageUrl": "https://xeno-canto.org/1021357",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:02",
+      "location": "Isle aux Coudres",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1021357/grey-medium.png"
     },
     {
       "xenoCantoId": "1041024",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1041024/download",
       "pageUrl": "https://xeno-canto.org/1041024",
       "recordist": "Max Noack",
@@ -385,9 +413,23 @@
       "length": "0:19",
       "location": "Ciudad de Guatemala, Guatemala, Guatemala",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NYTGVXSILH/1041024/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1040409",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1040409/download",
+      "pageUrl": "https://xeno-canto.org/1040409",
+      "recordist": "Manuel Sánchez-Nivicela",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:25",
+      "location": "Jardín Botánico de Quito, Quito MD, Pichincha",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBFFGHPZZQ/1040409/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Yellow_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1188207"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1188207",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-aestiva"
 }

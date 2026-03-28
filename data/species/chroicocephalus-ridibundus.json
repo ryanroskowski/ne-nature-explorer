@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "642603",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/642603/download",
       "pageUrl": "https://xeno-canto.org/642603",
       "recordist": "Jarek Matusiak",
@@ -234,8 +235,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/642603/grey-medium.png"
     },
     {
+      "xenoCantoId": "553836",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/553836/download",
+      "pageUrl": "https://xeno-canto.org/553836",
+      "recordist": "Jens Kirkeby",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "2:35",
+      "location": "Hirsholmene, Frederikshavn",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YKITMEIRRE/553836/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1091139",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1091139/download",
       "pageUrl": "https://xeno-canto.org/1091139",
       "recordist": "Franek Owczarek",
@@ -246,8 +261,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XTPEIPJYNU/1091139/grey-medium.png"
     },
     {
+      "xenoCantoId": "1004410",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1004410/download",
+      "pageUrl": "https://xeno-canto.org/1004410",
+      "recordist": "Esperanza Poveda",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Nyköping--Krokodilkärret",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PRVFBYIQYZ/1004410/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1088404",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1088404/download",
       "pageUrl": "https://xeno-canto.org/1088404",
       "recordist": "Roland Arnison",
@@ -260,5 +289,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-headed_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144510"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144510",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Chroicocephalus-ridibundus"
 }

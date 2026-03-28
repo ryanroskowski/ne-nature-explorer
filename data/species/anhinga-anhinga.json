@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1062216",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1062216/download",
       "pageUrl": "https://xeno-canto.org/1062216",
       "recordist": "Jacob Wijpkema",
@@ -234,19 +235,47 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WETAASKWUP/1062216/grey-medium.png"
     },
     {
-      "xenoCantoId": "705562",
+      "xenoCantoId": "1028752",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1028752/download",
+      "pageUrl": "https://xeno-canto.org/1028752",
+      "recordist": "Raul A. Spais",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Reserva Parque S. Martin, Entre Ríos",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MDYLVGJSML/1028752/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "705561",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/705562/download",
-      "pageUrl": "https://xeno-canto.org/705562",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/705561/download",
+      "pageUrl": "https://xeno-canto.org/705561",
       "recordist": "Paul Driver",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
+      "length": "0:13",
       "location": "Naples, Collier County, Florida",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/705562/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/705561/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "689445",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/689445/download",
+      "pageUrl": "https://xeno-canto.org/689445",
+      "recordist": "Mauricio Cuellar Ramirez (@Birding.travel)",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:42",
+      "location": "Bosque Ripario Rio Bodoquero - Vd San Jorge; Morelia, Caquetá",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JAPOPUHKWS/689445/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Anhinga",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5063"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5063",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anhinga-anhinga"
 }

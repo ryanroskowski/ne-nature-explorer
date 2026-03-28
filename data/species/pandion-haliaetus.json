@@ -206,32 +206,74 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "573484",
+      "xenoCantoId": "391112",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/573484/download",
-      "pageUrl": "https://xeno-canto.org/573484",
-      "recordist": "Manuel Grosselet",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/391112/download",
+      "pageUrl": "https://xeno-canto.org/391112",
+      "recordist": "Kent Livezey",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "Cerca de Maviri, Ahome, Sinaloa",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/573484/grey-medium.png"
+      "length": "0:48",
+      "location": "Costa del Este, near Panama City",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SZFQBBYSTI/391112/grey-medium.png"
     },
     {
-      "xenoCantoId": "1027115",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1027115/download",
-      "pageUrl": "https://xeno-canto.org/1027115",
-      "recordist": "Paul Driver",
+      "xenoCantoId": "190478",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/190478/download",
+      "pageUrl": "https://xeno-canto.org/190478",
+      "recordist": "Jarek Matusiak",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:35",
-      "location": "Brigantine National Wildlife Refuge, NJ",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/1027115/grey-medium.png"
+      "length": "0:27",
+      "location": "Gmina Mrągowo (near  Mrągowo), mrągowski, warmińsko-mazurskie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/190478/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "152360",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/152360/download",
+      "pageUrl": "https://xeno-canto.org/152360",
+      "recordist": "Lars Lachmann",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Wadi El Gemal National Park, Red Sea Governate",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HEYJSRUDZZ/152360/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013324",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1013324/download",
+      "pageUrl": "https://xeno-canto.org/1013324",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Silah main island, Duba, Tabuk Province",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1013324/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "996743",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/996743/download",
+      "pageUrl": "https://xeno-canto.org/996743",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Härjarö, Trögden, Uppland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/996743/grey-medium.png"
     },
     {
       "xenoCantoId": "794741",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/794741/download",
       "pageUrl": "https://xeno-canto.org/794741",
       "recordist": "Oscar Campbell",
@@ -244,5 +286,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Osprey",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/116999"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/116999",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pandion-haliaetus"
 }

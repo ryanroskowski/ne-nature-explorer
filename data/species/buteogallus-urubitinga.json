@@ -214,32 +214,74 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1068419",
+      "xenoCantoId": "958044",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1068419/download",
-      "pageUrl": "https://xeno-canto.org/1068419",
-      "recordist": "Frank Lambert",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/958044/download",
+      "pageUrl": "https://xeno-canto.org/958044",
+      "recordist": "Guillermo Menéndez (gmmv80)",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:31",
-      "location": "Playa Bonita, nr Cocha Cashu Biological Station, Manu National Park, Madre de Dios",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/1068419/grey-medium.png"
+      "length": "1:26",
+      "location": "Puerto Olivares, Cordillera",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VALRNZCFXZ/958044/grey-medium.png"
     },
     {
-      "xenoCantoId": "884408",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/884408/download",
-      "pageUrl": "https://xeno-canto.org/884408",
+      "xenoCantoId": "941415",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/941415/download",
+      "pageUrl": "https://xeno-canto.org/941415",
+      "recordist": "Pedro Rinaldi",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Rincón de los Ciervos, Departamento de Artigas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VKQHDAFQDZ/941415/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "790485",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/790485/download",
+      "pageUrl": "https://xeno-canto.org/790485",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Aruanã - GO (near  Aruanã), Aruanã, Goiás",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/884408/grey-medium.png"
+      "length": "0:19",
+      "location": "Santa Rita do Novo Destino, Goiás, Chácara Jayrson",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/790485/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "612246",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/612246/download",
+      "pageUrl": "https://xeno-canto.org/612246",
+      "recordist": "Fabrice Schmitt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Iwokrama River Lodge",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FPAGKPAQYO/612246/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "474066",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/474066/download",
+      "pageUrl": "https://xeno-canto.org/474066",
+      "recordist": "Ricardo Gagliardi",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:55",
+      "location": "Estrada da Folha Seca, Ubatuba, São Paulo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YRDADNREOP/474066/grey-medium.png"
     },
     {
       "xenoCantoId": "192818",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/192818/download",
       "pageUrl": "https://xeno-canto.org/192818",
       "recordist": "Kassius Santos",
@@ -252,5 +294,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_black_hawk",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5238"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5238",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Buteogallus-urubitinga"
 }

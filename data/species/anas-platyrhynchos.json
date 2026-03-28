@@ -258,6 +258,7 @@
     {
       "xenoCantoId": "618581",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/618581/download",
       "pageUrl": "https://xeno-canto.org/618581",
       "recordist": "Jarek Matusiak",
@@ -270,6 +271,7 @@
     {
       "xenoCantoId": "1082130",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1082130/download",
       "pageUrl": "https://xeno-canto.org/1082130",
       "recordist": "João Tomás",
@@ -280,8 +282,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/POVKNQVSGU/1082130/grey-medium.png"
     },
     {
+      "xenoCantoId": "1035831",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1035831/download",
+      "pageUrl": "https://xeno-canto.org/1035831",
+      "recordist": "Miika Silfverberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:00",
+      "location": "Koukkusuo, Kerava",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ETEGTCNTLW/1035831/grey-medium.png"
+    },
+    {
       "xenoCantoId": "976697",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/976697/download",
       "pageUrl": "https://xeno-canto.org/976697",
       "recordist": "Lennart Jeppsson",
@@ -294,5 +310,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Mallard",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6930"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6930",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anas-platyrhynchos"
 }

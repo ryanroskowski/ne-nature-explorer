@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "1059504",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1059504/download",
       "pageUrl": "https://xeno-canto.org/1059504",
       "recordist": "Corentin Rivière",
@@ -261,8 +262,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NKTQOAXTXA/1059504/grey-medium.png"
     },
     {
+      "xenoCantoId": "1005464",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1005464/download",
+      "pageUrl": "https://xeno-canto.org/1005464",
+      "recordist": "Dag Österlund",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:51",
+      "location": "Övre Soppero, Kiruna Municipality, Norrbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMSAKXGUCH/1005464/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1005165",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1005165/download",
+      "pageUrl": "https://xeno-canto.org/1005165",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:19",
+      "location": "Övre Soppero, Kiruna Municipality, Norrbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/1005165/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1051443",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1051443/download",
       "pageUrl": "https://xeno-canto.org/1051443",
       "recordist": "Frank Lambert",
@@ -273,8 +301,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/1051443/grey-medium.png"
     },
     {
+      "xenoCantoId": "953325",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/953325/download",
+      "pageUrl": "https://xeno-canto.org/953325",
+      "recordist": "Ricardo Hevia",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Ortegal (near  Cariño), A Coruña, Galicia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BQFSTZRSEP/953325/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1085913",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1085913/download",
       "pageUrl": "https://xeno-canto.org/1085913",
       "recordist": "Petter Westberg",
@@ -287,5 +329,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bar-tailed_godwit",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3951"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3951",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Limosa-lapponica"
 }

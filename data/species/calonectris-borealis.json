@@ -211,32 +211,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1007862",
+      "xenoCantoId": "1007860",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1007862/download",
-      "pageUrl": "https://xeno-canto.org/1007862",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1007860/download",
+      "pageUrl": "https://xeno-canto.org/1007860",
       "recordist": "Pere Josa",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:34",
+      "length": "1:09",
       "location": "Peniche, Leiria District",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DMQLDFORTG/1007862/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DMQLDFORTG/1007860/grey-medium.png"
     },
     {
-      "xenoCantoId": "1028859",
+      "xenoCantoId": "987634",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/987634/download",
+      "pageUrl": "https://xeno-canto.org/987634",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:17",
+      "location": "Caniço, Santa Cruz, Madeira",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/987634/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "826703",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/826703/download",
+      "pageUrl": "https://xeno-canto.org/826703",
+      "recordist": "Luka BOLLET-DUGOUL",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Madalena (near  Toledos), Madalena, Açores",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FAUTCTRSVA/826703/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1015526",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1028859/download",
-      "pageUrl": "https://xeno-canto.org/1028859",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1015526/download",
+      "pageUrl": "https://xeno-canto.org/1015526",
+      "recordist": "Rubén Barone",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:02",
+      "location": "Coast of Icod de los Vinos, Tenerife, Canary Islands",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JDRYGURKUC/1015526/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "827664",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/827664/download",
+      "pageUrl": "https://xeno-canto.org/827664",
       "recordist": "Ricardo Hevia",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
+      "length": "0:10",
       "location": "Ortegal (near  Cariño), A Coruña, Galicia",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BQFSTZRSEP/1028859/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BQFSTZRSEP/827664/grey-medium.png"
     },
     {
       "xenoCantoId": "1007990",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1007990/download",
       "pageUrl": "https://xeno-canto.org/1007990",
       "recordist": "Lionel TRIBOULIN",
@@ -249,5 +291,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cory's_shearwater",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/320711"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/320711",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calonectris-borealis"
 }

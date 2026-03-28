@@ -158,20 +158,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "186346",
+      "xenoCantoId": "186341",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/186346/download",
-      "pageUrl": "https://xeno-canto.org/186346",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/186341/download",
+      "pageUrl": "https://xeno-canto.org/186341",
       "recordist": "Richard E. Webster",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "5:37",
+      "length": "0:29",
       "location": "Grasslands National Park of Canada (near  Val Marie), Division No. 4, Saskatchewan",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/186346/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/186341/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "13750",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/13750/download",
+      "pageUrl": "https://xeno-canto.org/13750",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "1:05",
+      "location": "Grand River National Grasslands, Perkins Co., South Dakota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/13750/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "577818",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/577818/download",
+      "pageUrl": "https://xeno-canto.org/577818",
+      "recordist": "Connor Cochrane",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:14",
+      "location": "Judith Gap, Wheatland County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LZIKGABJLN/577818/grey-medium.png"
     },
     {
       "xenoCantoId": "501024",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/501024/download",
       "pageUrl": "https://xeno-canto.org/501024",
       "recordist": "Jacob Saucier",
@@ -180,9 +208,23 @@
       "length": "0:43",
       "location": "4 km E of St. Marie, Valley County, Montana",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XSAURLRZQM/501024/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "295531",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/295531/download",
+      "pageUrl": "https://xeno-canto.org/295531",
+      "recordist": "Hal Mitchell",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:07",
+      "location": "Brady, McCulloch County, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DLGSDUKLNI/295531/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sprague's_pipit",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13710"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13710",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anthus-spragueii"
 }

@@ -232,6 +232,7 @@
     {
       "xenoCantoId": "1085857",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1085857/download",
       "pageUrl": "https://xeno-canto.org/1085857",
       "recordist": "Scott Crabtree",
@@ -242,19 +243,60 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/1085857/grey-medium.png"
     },
     {
-      "xenoCantoId": "1010599",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1010599/download",
-      "pageUrl": "https://xeno-canto.org/1010599",
-      "recordist": "Scott Crabtree",
+      "xenoCantoId": "1084260",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1084260/download",
+      "pageUrl": "https://xeno-canto.org/1084260",
+      "recordist": "Manuel Grosselet",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:07",
-      "location": "Sabino Canyon National Recreation Area, Pima County, Arizona",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/1010599/grey-medium.png"
+      "length": "1:10",
+      "location": "Santiago Ixtaltepec, Teotitlán del Valle, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1084260/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1000441",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1000441/download",
+      "pageUrl": "https://xeno-canto.org/1000441",
+      "recordist": "David Tattersley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:03",
+      "location": "Thrurmond Airport (PVT) (near  Animas), Hidalgo County, New Mexico",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/1000441/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "375805",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/375805/download",
+      "pageUrl": "https://xeno-canto.org/375805",
+      "recordist": "Albert Lastukhin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Chomes, Puntarenas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/375805/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "317088",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/317088/download",
+      "pageUrl": "https://xeno-canto.org/317088",
+      "recordist": "Russ Wigh",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Cave Creek Ranch, Portal, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YBJUQSUJFZ/317088/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/White-winged_dove",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3460"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3460",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Zenaida-asiatica"
 }

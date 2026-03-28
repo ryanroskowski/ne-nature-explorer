@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "943378",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/943378/download",
       "pageUrl": "https://xeno-canto.org/943378",
       "recordist": "Stein Ø. Nilsen",
@@ -236,6 +237,7 @@
     {
       "xenoCantoId": "284132",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/284132/download",
       "pageUrl": "https://xeno-canto.org/284132",
       "recordist": "Claire Mazard",
@@ -248,6 +250,7 @@
     {
       "xenoCantoId": "929951",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/929951/download",
       "pageUrl": "https://xeno-canto.org/929951",
       "recordist": "Stein Ø. Nilsen",
@@ -260,5 +263,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ivory_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4555"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4555",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pagophila-eburnea"
 }

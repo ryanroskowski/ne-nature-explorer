@@ -249,20 +249,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "960296",
+      "xenoCantoId": "394748",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/960296/download",
-      "pageUrl": "https://xeno-canto.org/960296",
-      "recordist": "Beth Cottam",
-      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/394748/download",
+      "pageUrl": "https://xeno-canto.org/394748",
+      "recordist": "Martin St-Michel",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "McPail Slough, Kidder County, North Dakota",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DIUELCLPZH/960296/grey-medium.png"
+      "length": "0:23",
+      "location": "Ile-aux-Grues, Montmagny, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WOPIRNCCSX/394748/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "153334",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/153334/download",
+      "pageUrl": "https://xeno-canto.org/153334",
+      "recordist": "Bird Studies Canada - Prairie and Parkland Marsh Monitoring Program (PPMMP)",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "quality": "A",
+      "length": "0:58",
+      "location": "Sasman No. 336 (near  Margo), Division No. 10, Saskatchewan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WLJVXULMDF/153334/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "138330",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/138330/download",
+      "pageUrl": "https://xeno-canto.org/138330",
+      "recordist": "Patrick Turgeon",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Foam Lake No. 276 (near  Margo), Division No. 10, Saskatchewan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WCNFEBIHCJ/138330/grey-medium.png"
     },
     {
       "xenoCantoId": "681116",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/681116/download",
       "pageUrl": "https://xeno-canto.org/681116",
       "recordist": "Matt Wistrand",
@@ -273,8 +301,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QZOXFIKPFF/681116/grey-medium.png"
     },
     {
+      "xenoCantoId": "420470",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/420470/download",
+      "pageUrl": "https://xeno-canto.org/420470",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:03",
+      "location": "Tijuana Slough National Wildlife Refuge visitor center, Imperial Beach, San Diego County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/420470/grey-medium.png"
+    },
+    {
       "xenoCantoId": "664095",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/664095/download",
       "pageUrl": "https://xeno-canto.org/664095",
       "recordist": "Paul Driver",
@@ -287,5 +329,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nelson's_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/793286"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/793286",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Ammospiza-nelsoni"
 }

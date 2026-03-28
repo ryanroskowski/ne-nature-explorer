@@ -325,6 +325,7 @@
     {
       "xenoCantoId": "1038381",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1038381/download",
       "pageUrl": "https://xeno-canto.org/1038381",
       "recordist": "Bobby Wilcox",
@@ -335,8 +336,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1038381/grey-medium.png"
     },
     {
+      "xenoCantoId": "976263",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/976263/download",
+      "pageUrl": "https://xeno-canto.org/976263",
+      "recordist": "Manuel cabrera",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "1:12",
+      "location": "Pacto Sumaco, Napo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UDZFPNHZPQ/976263/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "934439",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/934439/download",
+      "pageUrl": "https://xeno-canto.org/934439",
+      "recordist": "Thomas Magarian",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:46",
+      "location": "Beahms Gap, Shenandoah NP, Page County, Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/934439/grey-medium.png"
+    },
+    {
       "xenoCantoId": "33610",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/33610/download",
       "pageUrl": "https://xeno-canto.org/33610",
       "recordist": "Andrew Spencer",
@@ -347,8 +375,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/33610/grey-medium.png"
     },
     {
+      "xenoCantoId": "830011",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/830011/download",
+      "pageUrl": "https://xeno-canto.org/830011",
+      "recordist": "Jorge de Leon Cardozo",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "1:10",
+      "location": "Pumpkin Hill Road, Chaplin, Windham County, Connecticut",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RHARFLKISN/830011/grey-medium.png"
+    },
+    {
       "xenoCantoId": "924428",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/924428/download",
       "pageUrl": "https://xeno-canto.org/924428",
       "recordist": "Oscar Gordo",
@@ -361,5 +403,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cerulean_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145232"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145232",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-cerulea"
 }

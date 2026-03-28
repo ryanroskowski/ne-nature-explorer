@@ -325,6 +325,7 @@
     {
       "xenoCantoId": "1083461",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1083461/download",
       "pageUrl": "https://xeno-canto.org/1083461",
       "recordist": "Sue Riffe",
@@ -335,8 +336,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1083461/grey-medium.png"
     },
     {
+      "xenoCantoId": "737552",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/737552/download",
+      "pageUrl": "https://xeno-canto.org/737552",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:49",
+      "location": "Ellis Rd, Amador County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/737552/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "558359",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/558359/download",
+      "pageUrl": "https://xeno-canto.org/558359",
+      "recordist": "Steve Hampton",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "White Salmon, Klickitat County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BUGKVZBWKF/558359/grey-medium.png"
+    },
+    {
       "xenoCantoId": "715990",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/715990/download",
       "pageUrl": "https://xeno-canto.org/715990",
       "recordist": "Paul Marvin",
@@ -345,9 +373,23 @@
       "length": "1:11",
       "location": "Kitchen Creek Rd, south section, Cleveland National Forest, San Diego County, California",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/715990/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "519641",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/519641/download",
+      "pageUrl": "https://xeno-canto.org/519641",
+      "recordist": "Isain Contreras Rodríguez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Mazatlán, Mazatlán, Sinaloa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/519641/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-throated_gray_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145254"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145254",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-nigrescens"
 }

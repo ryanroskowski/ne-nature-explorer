@@ -228,6 +228,7 @@
     {
       "xenoCantoId": "52078",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/52078/download",
       "pageUrl": "https://xeno-canto.org/52078",
       "recordist": "Bernabe Lopez-Lanus",
@@ -240,6 +241,7 @@
     {
       "xenoCantoId": "449901",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/449901/download",
       "pageUrl": "https://xeno-canto.org/449901",
       "recordist": "Peter Boesman",
@@ -250,8 +252,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/449901/grey-medium.png"
     },
     {
+      "xenoCantoId": "470296",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/470296/download",
+      "pageUrl": "https://xeno-canto.org/470296",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:07",
+      "location": "R19-Strobel Plateau, Santa Cruz",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/470296/grey-medium.png"
+    },
+    {
       "xenoCantoId": "845397",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/845397/download",
       "pageUrl": "https://xeno-canto.org/845397",
       "recordist": "Cristian Pinto Fernandez",
@@ -264,5 +280,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Black-necked_swan",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/72789"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/72789",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Cygnus-melancoryphus"
 }

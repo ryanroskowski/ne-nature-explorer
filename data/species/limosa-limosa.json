@@ -182,6 +182,7 @@
     {
       "xenoCantoId": "1025192",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1025192/download",
       "pageUrl": "https://xeno-canto.org/1025192",
       "recordist": "David Darrell-Lambert",
@@ -192,8 +193,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1025192/grey-medium.png"
     },
     {
+      "xenoCantoId": "881956",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/881956/download",
+      "pageUrl": "https://xeno-canto.org/881956",
+      "recordist": "Olivier SWIFT",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:17",
+      "location": "Daviaud, Marais Neuf, lim010",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JCPKCBKKAQ/881956/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "810328",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/810328/download",
+      "pageUrl": "https://xeno-canto.org/810328",
+      "recordist": "Dries Van de Loock",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "De Blankaart, Diksmuide, West-Vlaanderen",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IIJAXHKSCC/810328/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1086833",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1086833/download",
       "pageUrl": "https://xeno-canto.org/1086833",
       "recordist": "David Darrell-Lambert",
@@ -204,8 +232,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1086833/grey-medium.png"
     },
     {
+      "xenoCantoId": "1070956",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1070956/download",
+      "pageUrl": "https://xeno-canto.org/1070956",
+      "recordist": "Paul Kelly",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Tacumshin Lake (East End), County Wexford",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/1070956/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1016503",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1016503/download",
       "pageUrl": "https://xeno-canto.org/1016503",
       "recordist": "Simon S. Christiansen",
@@ -218,5 +260,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-tailed_godwit",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3947"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3947",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Limosa-limosa"
 }

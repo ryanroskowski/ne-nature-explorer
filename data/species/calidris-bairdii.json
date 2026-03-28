@@ -344,6 +344,7 @@
     {
       "xenoCantoId": "185621",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/185621/download",
       "pageUrl": "https://xeno-canto.org/185621",
       "recordist": "Andrew Spencer",
@@ -356,6 +357,7 @@
     {
       "xenoCantoId": "921005",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/921005/download",
       "pageUrl": "https://xeno-canto.org/921005",
       "recordist": "Alvaro Rivera Rojas",
@@ -366,19 +368,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QFCQHKUDTR/921005/grey-medium.png"
     },
     {
-      "xenoCantoId": "588760",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/588760/download",
-      "pageUrl": "https://xeno-canto.org/588760",
-      "recordist": "Peter Stronach",
+      "xenoCantoId": "686881",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/686881/download",
+      "pageUrl": "https://xeno-canto.org/686881",
+      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Dòrnach, Cataibh, Na Gàidhealtachd, Scotland",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/POUECYRDLL/588760/grey-medium.png"
+      "length": "0:10",
+      "location": "Mostardas, Rio Grande do Sul",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/686881/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "470766",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/470766/download",
+      "pageUrl": "https://xeno-canto.org/470766",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:42",
+      "location": "R16-Strobel Plateau, Santa Cruz Province",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/470766/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Baird's_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3851"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3851",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-bairdii"
 }

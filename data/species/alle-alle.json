@@ -206,20 +206,35 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1003579",
+      "xenoCantoId": "379429",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1003579/download",
-      "pageUrl": "https://xeno-canto.org/1003579",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/379429/download",
+      "pageUrl": "https://xeno-canto.org/379429",
       "recordist": "Stein Ø. Nilsen",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:54",
-      "location": "Bjørndalen, Longyearbyen",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/1003579/grey-medium.png"
+      "length": "1:28",
+      "location": "Hotellneset, Longyearbyen, Svalbard",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/379429/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "135910",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/135910/download",
+      "pageUrl": "https://xeno-canto.org/135910",
+      "recordist": "Fernand DEROUSSEN",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Longyearbyen, Svalbard",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UXGZWVYDFE/135910/grey-medium.png"
     },
     {
       "xenoCantoId": "428867",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/428867/download",
       "pageUrl": "https://xeno-canto.org/428867",
       "recordist": "Jacob Lotz",
@@ -228,9 +243,23 @@
       "length": "0:16",
       "location": "Svalbard",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TKADNLSXAV/428867/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "193958",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/193958/download",
+      "pageUrl": "https://xeno-canto.org/193958",
+      "recordist": "Rob van Bemmelen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:06",
+      "location": "Jan Mayen",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RDRHSLUBZP/193958/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Little_auk",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4524"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4524",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Alle-alle"
 }

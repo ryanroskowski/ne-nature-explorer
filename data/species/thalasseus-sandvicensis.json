@@ -232,6 +232,7 @@
     {
       "xenoCantoId": "1071777",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1071777/download",
       "pageUrl": "https://xeno-canto.org/1071777",
       "recordist": "Kai Frueh",
@@ -240,9 +241,23 @@
       "length": "1:21",
       "location": "Wampener Riff",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NRUCCMUXBM/1071777/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1051177",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1051177/download",
+      "pageUrl": "https://xeno-canto.org/1051177",
+      "recordist": "Lucien Hueber",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Arrondissement de Brest (near  Kerlouan), Finistère, Bretagne",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QDMEVZSCMQ/1051177/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sandwich_tern",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144541"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144541",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Thalasseus-sandvicensis"
 }

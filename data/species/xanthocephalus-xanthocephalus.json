@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1007056",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1007056/download",
       "pageUrl": "https://xeno-canto.org/1007056",
       "recordist": "Ed Pandolfino",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/1007056/grey-medium.png"
     },
     {
+      "xenoCantoId": "598460",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/598460/download",
+      "pageUrl": "https://xeno-canto.org/598460",
+      "recordist": "Peter Ward and Ken Hall",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:26",
+      "location": "Princeton, Harney County, Oregon",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFRRHMLGSK/598460/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "591822",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/591822/download",
+      "pageUrl": "https://xeno-canto.org/591822",
+      "recordist": "Jarrod Swackhamer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Yuma East Wetlands, Yuma, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WUKEUEONAI/591822/grey-medium.png"
+    },
+    {
       "xenoCantoId": "900786",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/900786/download",
       "pageUrl": "https://xeno-canto.org/900786",
       "recordist": "Richard E. Webster",
@@ -246,19 +274,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/900786/grey-medium.png"
     },
     {
-      "xenoCantoId": "915348",
+      "xenoCantoId": "580704",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/580704/download",
+      "pageUrl": "https://xeno-canto.org/580704",
+      "recordist": "Steve Hampton",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Yolo Bypass Wildlife Area, Yolo County, CA",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BUGKVZBWKF/580704/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "325922",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/915348/download",
-      "pageUrl": "https://xeno-canto.org/915348",
-      "recordist": "Denise Wight",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/325922/download",
+      "pageUrl": "https://xeno-canto.org/325922",
+      "recordist": "James Bradley",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "B",
-      "length": "0:08",
-      "location": "Marble Hot Springs Road, Plumas County, California",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UVAHIPJUXZ/915348/grey-medium.png"
+      "length": "0:11",
+      "location": "Revelstoke, Columbia-Shuswap, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ITRQTFVLNT/325922/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Yellow-headed_blackbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10470"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10470",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Xanthocephalus-xanthocephalus"
 }

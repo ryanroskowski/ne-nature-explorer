@@ -175,6 +175,7 @@
     {
       "xenoCantoId": "109298",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/109298/download",
       "pageUrl": "https://xeno-canto.org/109298",
       "recordist": "Nathan Pieplow",
@@ -185,8 +186,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EKKJJJRDJY/109298/grey-medium.png"
     },
     {
+      "xenoCantoId": "318021",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/318021/download",
+      "pageUrl": "https://xeno-canto.org/318021",
+      "recordist": "Bruce Lagerquist",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "1:11",
+      "location": "Roaring Springs, Harney County, Oregon",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/318021/grey-medium.png"
+    },
+    {
       "xenoCantoId": "375912",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/375912/download",
       "pageUrl": "https://xeno-canto.org/375912",
       "recordist": "Bobby Wilcox",
@@ -199,5 +214,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Prairie_falcon",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4644"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4644",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Falco-mexicanus"
 }

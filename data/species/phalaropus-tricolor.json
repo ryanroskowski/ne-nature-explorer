@@ -242,20 +242,35 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "877030",
+      "xenoCantoId": "836128",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/877030/download",
-      "pageUrl": "https://xeno-canto.org/877030",
-      "recordist": "Skyler Bol",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/836128/download",
+      "pageUrl": "https://xeno-canto.org/836128",
+      "recordist": "Aluisio Ribeiro",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Freezeout Lake, Teton County, Montana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ESGJLNIGDA/877030/grey-medium.png"
+      "length": "0:40",
+      "location": "Sabáudia, State of Paraná",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SEUNYYYGZC/836128/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "744639",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/744639/download",
+      "pageUrl": "https://xeno-canto.org/744639",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Laguna de Texcoco, Texcoco Municipality, Estado de México",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/744639/grey-medium.png"
     },
     {
       "xenoCantoId": "583613",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/583613/download",
       "pageUrl": "https://xeno-canto.org/583613",
       "recordist": "Isain Contreras Rodríguez",
@@ -268,5 +283,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Wilson's_phalarope",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144497"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144497",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Phalaropus-tricolor"
 }

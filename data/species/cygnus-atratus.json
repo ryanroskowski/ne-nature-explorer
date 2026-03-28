@@ -260,6 +260,7 @@
     {
       "xenoCantoId": "737407",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/737407/download",
       "pageUrl": "https://xeno-canto.org/737407",
       "recordist": "nick talbot",
@@ -270,8 +271,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CCUCXWCPSW/737407/grey-medium.png"
     },
     {
+      "xenoCantoId": "591102",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/591102/download",
+      "pageUrl": "https://xeno-canto.org/591102",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:33",
+      "location": "Trappes, Yvelines, Île-de-France",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/591102/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "802788",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/802788/download",
+      "pageUrl": "https://xeno-canto.org/802788",
+      "recordist": "Leonardo Ordóñez-Delgado",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "B",
+      "length": "0:20",
+      "location": "Parque El Retiro, Madrid",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RJNSQXBIJE/802788/grey-medium.png"
+    },
+    {
       "xenoCantoId": "953165",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/953165/download",
       "pageUrl": "https://xeno-canto.org/953165",
       "recordist": "Romuald Mikusek",
@@ -282,8 +310,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BLMSIUFTFU/953165/grey-medium.png"
     },
     {
+      "xenoCantoId": "925698",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/925698/download",
+      "pageUrl": "https://xeno-canto.org/925698",
+      "recordist": "Francesco Sottile",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Lesina, Provincia di Foggia, Puglia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ITHRUQEQCF/925698/grey-medium.png"
+    },
+    {
       "xenoCantoId": "954554",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/954554/download",
       "pageUrl": "https://xeno-canto.org/954554",
       "recordist": "Sonothèque ADVL",
@@ -296,5 +338,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black_swan",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6914"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6914",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Cygnus-atratus"
 }

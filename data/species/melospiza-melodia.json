@@ -239,6 +239,7 @@
     {
       "xenoCantoId": "1090713",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1090713/download",
       "pageUrl": "https://xeno-canto.org/1090713",
       "recordist": "Manuel Grosselet",
@@ -249,8 +250,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1090713/grey-medium.png"
     },
     {
+      "xenoCantoId": "1089603",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1089603/download",
+      "pageUrl": "https://xeno-canto.org/1089603",
+      "recordist": "Ed Pandolfino",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Cosumnes River Preserve, Sacramento County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/1089603/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1085542",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1085542/download",
+      "pageUrl": "https://xeno-canto.org/1085542",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Cuyamungue Grant, Santa Fe County, New Mexico",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1085542/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1074021",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1074021/download",
       "pageUrl": "https://xeno-canto.org/1074021",
       "recordist": "Greg Irving",
@@ -261,19 +289,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1074021/grey-medium.png"
     },
     {
-      "xenoCantoId": "1015045",
+      "xenoCantoId": "1049227",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1049227/download",
+      "pageUrl": "https://xeno-canto.org/1049227",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Croton Point Park, Croton-on-Hudson, Westchester County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AMMGWAIZWI/1049227/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1015043",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1015045/download",
-      "pageUrl": "https://xeno-canto.org/1015045",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1015043/download",
+      "pageUrl": "https://xeno-canto.org/1015043",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
+      "length": "0:21",
       "location": "La Haute-Yamaska (near  Shefford), Estrie, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1015045/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1015043/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Song_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9100"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9100",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Melospiza-melodia"
 }

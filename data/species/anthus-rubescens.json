@@ -237,6 +237,7 @@
     {
       "xenoCantoId": "779663",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/779663/download",
       "pageUrl": "https://xeno-canto.org/779663",
       "recordist": "Patrice Mathieu",
@@ -247,8 +248,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IGXRFYAGNH/779663/grey-medium.png"
     },
     {
+      "xenoCantoId": "431957",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/431957/download",
+      "pageUrl": "https://xeno-canto.org/431957",
+      "recordist": "Logan McLeod",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:58",
+      "location": "Yukon, Unorganized, Yukon, Yukon Territory",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JRPEHMSIPP/431957/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "203608",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/203608/download",
+      "pageUrl": "https://xeno-canto.org/203608",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Surfbird Mountain, Dempster Highway KM 98, Yukon",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/203608/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1084541",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1084541/download",
       "pageUrl": "https://xeno-canto.org/1084541",
       "recordist": "Manuel Grosselet",
@@ -259,8 +287,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1084541/grey-medium.png"
     },
     {
+      "xenoCantoId": "1047636",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1047636/download",
+      "pageUrl": "https://xeno-canto.org/1047636",
+      "recordist": "François Bouzendorf",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Arrondissement de Brest (near  Ushant), Finistère, Brittany",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPZVCQXFLR/1047636/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1051318",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1051318/download",
       "pageUrl": "https://xeno-canto.org/1051318",
       "recordist": "Valerie Heemstra",
@@ -273,5 +315,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Buff-bellied_pipit",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13732"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13732",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anthus-rubescens"
 }

@@ -237,20 +237,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1086843",
+      "xenoCantoId": "998355",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1086843/download",
-      "pageUrl": "https://xeno-canto.org/1086843",
-      "recordist": "Greg P ",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/998355/download",
+      "pageUrl": "https://xeno-canto.org/998355",
+      "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:19",
-      "location": "Espace Naturel Sensible Les Olivettes (Pêche strictement interdite) (near  Trilbardou), Seine-et-Marne, Île-de-France",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SAQHEWXQZJ/1086843/grey-medium.png"
+      "length": "0:25",
+      "location": "Skravelbäck, Västerbotten County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/998355/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "621985",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/621985/download",
+      "pageUrl": "https://xeno-canto.org/621985",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Gmina Serock (near  Serock), Powiat legionowski, Mazowieckie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/621985/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "197023",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/197023/download",
+      "pageUrl": "https://xeno-canto.org/197023",
+      "recordist": "Patrik Åberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Tivedens National Park, Västergötland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/197023/grey-medium.png"
     },
     {
       "xenoCantoId": "1084061",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1084061/download",
       "pageUrl": "https://xeno-canto.org/1084061",
       "recordist": "David Darrell-Lambert",
@@ -261,19 +289,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1084061/grey-medium.png"
     },
     {
-      "xenoCantoId": "652989",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/652989/download",
-      "pageUrl": "https://xeno-canto.org/652989",
-      "recordist": "Daniele Baroni",
+      "xenoCantoId": "765958",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/765958/download",
+      "pageUrl": "https://xeno-canto.org/765958",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:17",
-      "location": "Halinen, Turku, Southwest Finland",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/REICIMDLJD/652989/grey-medium.png"
+      "length": "0:49",
+      "location": "Tudevtei, Zavkhan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/765958/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1015763",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1015763/download",
+      "pageUrl": "https://xeno-canto.org/1015763",
+      "recordist": "Aku Kalliomäki",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:34",
+      "location": "Punkalaidun, Vehkajärvi",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EUNWJADFAF/1015763/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_goldeneye",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6990"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6990",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Bucephala-clangula"
 }

@@ -363,20 +363,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1082101",
+      "xenoCantoId": "1082100",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1082101/download",
-      "pageUrl": "https://xeno-canto.org/1082101",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1082100/download",
+      "pageUrl": "https://xeno-canto.org/1082100",
       "recordist": "David Darrell-Lambert",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:01",
+      "length": "0:27",
       "location": "Point Pelee National Park, Essex County, Ontario",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1082101/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1082100/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1079587",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1079587/download",
+      "pageUrl": "https://xeno-canto.org/1079587",
+      "recordist": "Scott Olmstead",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Boy Scout Road, Rangeley, Franklin County, Maine",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/1079587/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1070418",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1070418/download",
+      "pageUrl": "https://xeno-canto.org/1070418",
+      "recordist": "Rosa Elena Albornoz @rosaelena_naturaleza",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "San Antonio De Los Altos (near  Parroquia Macarao), Municipio Los Salias, Miranda",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GPBUDZFHVP/1070418/grey-medium.png"
     },
     {
       "xenoCantoId": "1031725",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1031725/download",
       "pageUrl": "https://xeno-canto.org/1031725",
       "recordist": "Frank Lambert",
@@ -385,9 +413,23 @@
       "length": "0:36",
       "location": "Refugio del Tororoi, Guayabetal, Cundinamarca",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/1031725/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1020704",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1020704/download",
+      "pageUrl": "https://xeno-canto.org/1020704",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "Tadoussac dunes",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1020704/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Blackburnian_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145237"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145237",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-fusca"
 }

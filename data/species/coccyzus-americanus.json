@@ -227,20 +227,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "844115",
+      "xenoCantoId": "819386",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/844115/download",
-      "pageUrl": "https://xeno-canto.org/844115",
-      "recordist": "Valerie Heemstra",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/819386/download",
+      "pageUrl": "https://xeno-canto.org/819386",
+      "recordist": "Sue Riffe",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:27",
-      "location": "Liberty Marsh on Oil City Rd., Warwick, Orange County, New York",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/844115/grey-medium.png"
+      "length": "0:37",
+      "location": "Bolivar Peninsula, Galveston County, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/819386/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "740401",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/740401/download",
+      "pageUrl": "https://xeno-canto.org/740401",
+      "recordist": "Scott Olmstead",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Arroyo La Ventana, San Pedro de la Cueva, Sonora",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/740401/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "684511",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/684511/download",
+      "pageUrl": "https://xeno-canto.org/684511",
+      "recordist": "Marcelo da Rocha",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:32",
+      "location": "Poço Preto trail, Iguaçu NP, Parana state",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LWQBBYMIQQ/684511/grey-medium.png"
     },
     {
       "xenoCantoId": "901133",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/901133/download",
       "pageUrl": "https://xeno-canto.org/901133",
       "recordist": "David Tattersley",
@@ -251,8 +279,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/901133/grey-medium.png"
     },
     {
+      "xenoCantoId": "840179",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/840179/download",
+      "pageUrl": "https://xeno-canto.org/840179",
+      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Taquaral de Goiás, Taquaral de Goiás, Goiás",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/840179/grey-medium.png"
+    },
+    {
       "xenoCantoId": "566852",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/566852/download",
       "pageUrl": "https://xeno-canto.org/566852",
       "recordist": "Isain Contreras Rodríguez",
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Yellow-billed_cuckoo",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1965"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1965",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Coccyzus-americanus"
 }

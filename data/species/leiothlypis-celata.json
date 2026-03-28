@@ -236,43 +236,86 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1090850",
+      "xenoCantoId": "1083477",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1090850/download",
-      "pageUrl": "https://xeno-canto.org/1090850",
-      "recordist": "Manuel Grosselet",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1083477/download",
+      "pageUrl": "https://xeno-canto.org/1083477",
+      "recordist": "Sue Riffe",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:59",
-      "location": "Salinas, Monterey County, California",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1090850/grey-medium.png"
+      "length": "0:15",
+      "location": "Douglass Pass, Garfield Cty, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1083477/grey-medium.png"
     },
     {
-      "xenoCantoId": "1013913",
+      "xenoCantoId": "1074859",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1074859/download",
+      "pageUrl": "https://xeno-canto.org/1074859",
+      "recordist": "Paul Driver",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:52",
+      "location": "Dalton Highway, AK",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/1074859/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1046368",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1046368/download",
+      "pageUrl": "https://xeno-canto.org/1046368",
+      "recordist": "AUDEVARD Aurélien",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Kincaid Park (near  Anchorage), Anchorage Municipality, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1046368/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "789570",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1013913/download",
-      "pageUrl": "https://xeno-canto.org/1013913",
-      "recordist": "Stanislas Wroza",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/789570/download",
+      "pageUrl": "https://xeno-canto.org/789570",
+      "recordist": "Paul Marvin",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:02",
-      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013913/grey-medium.png"
+      "length": "0:58",
+      "location": "Bird and Butterfly Garden, Tijuana River Valley Regional Park, San Diego Co, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/789570/grey-medium.png"
     },
     {
-      "xenoCantoId": "499366",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/499366/download",
-      "pageUrl": "https://xeno-canto.org/499366",
+      "xenoCantoId": "597921",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/597921/download",
+      "pageUrl": "https://xeno-canto.org/597921",
       "recordist": "Isain Contreras Rodríguez",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:02",
+      "length": "0:22",
+      "location": "Parque las maravillas, Ciudad de México",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/597921/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "499365",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/499365/download",
+      "pageUrl": "https://xeno-canto.org/499365",
+      "recordist": "Isain Contreras Rodríguez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
       "location": "Topolobampo, Ahome, Sinaloa",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/499366/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/499365/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Orange-crowned_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/979757"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/979757",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Leiothlypis-celata"
 }

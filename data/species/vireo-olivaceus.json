@@ -262,32 +262,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1014502",
+      "xenoCantoId": "1014454",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1014502/download",
-      "pageUrl": "https://xeno-canto.org/1014502",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1014454/download",
+      "pageUrl": "https://xeno-canto.org/1014454",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:54",
-      "location": "Le Fjord-du-Saguenay Regional County Municipality (near  Saint-Fulgence), Saguenay–Lac-Saint-Jean, Quebec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014502/grey-medium.png"
+      "length": "0:41",
+      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014454/grey-medium.png"
     },
     {
-      "xenoCantoId": "1014455",
+      "xenoCantoId": "972013",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/972013/download",
+      "pageUrl": "https://xeno-canto.org/972013",
+      "recordist": "Ray Cooke",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "INT Hansen - MacIsaac Natural Area, Five Houses, Prince Edward Island",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EMFMDDVOUG/972013/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "957297",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/957297/download",
+      "pageUrl": "https://xeno-canto.org/957297",
+      "recordist": "Arjun Dutta",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:50",
+      "location": "South Glenmore Park, Calgary, Alberta",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HRVQAOEHRR/957297/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014448",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1014455/download",
-      "pageUrl": "https://xeno-canto.org/1014455",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1014448/download",
+      "pageUrl": "https://xeno-canto.org/1014448",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
+      "length": "0:17",
       "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014455/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014448/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "653039",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/653039/download",
+      "pageUrl": "https://xeno-canto.org/653039",
+      "recordist": "David Swain",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Quabbin Gate 40, Worcester County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ATRGNQVZIS/653039/grey-medium.png"
     },
     {
       "xenoCantoId": "1014452",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014452/download",
       "pageUrl": "https://xeno-canto.org/1014452",
       "recordist": "Stanislas Wroza",
@@ -300,5 +342,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Red-eyed_vireo",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/891704"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/891704",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Vireo-olivaceus"
 }

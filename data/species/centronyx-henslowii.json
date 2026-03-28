@@ -216,6 +216,7 @@
     {
       "xenoCantoId": "1002059",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1002059/download",
       "pageUrl": "https://xeno-canto.org/1002059",
       "recordist": "Sue Riffe",
@@ -226,8 +227,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1002059/grey-medium.png"
     },
     {
+      "xenoCantoId": "826130",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/826130/download",
+      "pageUrl": "https://xeno-canto.org/826130",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Prairie State Park, MO",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/826130/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "819500",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/819500/download",
+      "pageUrl": "https://xeno-canto.org/819500",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Tama (near  Burlington), Des Moines, Iowa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/819500/grey-medium.png"
+    },
+    {
       "xenoCantoId": "288578",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/288578/download",
       "pageUrl": "https://xeno-canto.org/288578",
       "recordist": "Nathan Pieplow",
@@ -238,8 +266,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EKKJJJRDJY/288578/grey-medium.png"
     },
     {
+      "xenoCantoId": "49210",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/49210/download",
+      "pageUrl": "https://xeno-canto.org/49210",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "1:47",
+      "location": "Beech Run Road, Preston Co., West Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/49210/grey-medium.png"
+    },
+    {
       "xenoCantoId": "571342",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/571342/download",
       "pageUrl": "https://xeno-canto.org/571342",
       "recordist": "Matt Wistrand",
@@ -252,5 +294,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Henslow's_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/793285"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/793285",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Centronyx-henslowii"
 }

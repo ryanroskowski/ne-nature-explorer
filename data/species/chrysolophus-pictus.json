@@ -190,32 +190,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1025296",
+      "xenoCantoId": "1025295",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1025296/download",
-      "pageUrl": "https://xeno-canto.org/1025296",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1025295/download",
+      "pageUrl": "https://xeno-canto.org/1025295",
       "recordist": "Jelle Scharringa",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
+      "length": "0:18",
       "location": "Road high above Gengda, Great Panda NP",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KDTMIWOGNC/1025296/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KDTMIWOGNC/1025295/grey-medium.png"
     },
     {
-      "xenoCantoId": "1023661",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1023661/download",
-      "pageUrl": "https://xeno-canto.org/1023661",
-      "recordist": "Jelle Scharringa",
+      "xenoCantoId": "1002033",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1002033/download",
+      "pageUrl": "https://xeno-canto.org/1002033",
+      "recordist": "Olivier SWIFT",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "Forest above Gengda, Wolong Giant Panda NP",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KDTMIWOGNC/1023661/grey-medium.png"
+      "length": "0:48",
+      "location": "Arrondissement de Bernay (near  Appeville-Annebault), Eure, Normandie, PS24",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JCPKCBKKAQ/1002033/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "681621",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/681621/download",
+      "pageUrl": "https://xeno-canto.org/681621",
+      "recordist": "Mike Nelson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:08",
+      "location": "Tang Jia He Nature Reserve, Sichuan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PWDLINYMKL/681621/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "767957",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/767957/download",
+      "pageUrl": "https://xeno-canto.org/767957",
+      "recordist": "Dave Guo",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Licun, Guiyang, Guizhou",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KQMHASAYBL/767957/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "761034",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/761034/download",
+      "pageUrl": "https://xeno-canto.org/761034",
+      "recordist": "Michał Jezierski",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Thetford Forest, Suffolk, England",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GPXJQQOAML/761034/grey-medium.png"
     },
     {
       "xenoCantoId": "62185",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/62185/download",
       "pageUrl": "https://xeno-canto.org/62185",
       "recordist": "Jonathan Martinez",
@@ -228,5 +270,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Golden_pheasant",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1230"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1230",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Chrysolophus-pictus"
 }

@@ -272,6 +272,7 @@
     {
       "xenoCantoId": "957945",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/957945/download",
       "pageUrl": "https://xeno-canto.org/957945",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -282,20 +283,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/957945/grey-medium.png"
     },
     {
-      "xenoCantoId": "1068513",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1068513/download",
-      "pageUrl": "https://xeno-canto.org/1068513",
-      "recordist": "Don Profota",
+      "xenoCantoId": "613398",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/613398/download",
+      "pageUrl": "https://xeno-canto.org/613398",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Terra Nova (Village), Newfoundland and Labrador",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/613398/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "408113",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/408113/download",
+      "pageUrl": "https://xeno-canto.org/408113",
+      "recordist": "Paul Marvin",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "South Bozeman, Gallatin County, Montana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UTLXKPYDDK/1068513/grey-medium.png"
+      "length": "0:10",
+      "location": "River Lakes Conservation Area near Viera, Brevard Co, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/408113/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1060813",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1060813/download",
+      "pageUrl": "https://xeno-canto.org/1060813",
+      "recordist": "Yoann Blanchon",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "Anchorage, Anchorage Municipality, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OYXLQBTHRH/1060813/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1021056",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1021056/download",
+      "pageUrl": "https://xeno-canto.org/1021056",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Isle aux Coudres",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1021056/grey-medium.png"
     },
     {
       "xenoCantoId": "1048822",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1048822/download",
       "pageUrl": "https://xeno-canto.org/1048822",
       "recordist": "AUDEVARD Aurélien",
@@ -308,5 +350,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Greater_yellowlegs",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3892"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3892",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tringa-melanoleuca"
 }

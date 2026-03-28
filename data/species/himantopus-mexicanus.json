@@ -216,6 +216,7 @@
     {
       "xenoCantoId": "824587",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/824587/download",
       "pageUrl": "https://xeno-canto.org/824587",
       "recordist": "Pedro Rinaldi",
@@ -228,6 +229,7 @@
     {
       "xenoCantoId": "995152",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/995152/download",
       "pageUrl": "https://xeno-canto.org/995152",
       "recordist": "FREDERIC Lionel",
@@ -238,8 +240,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/995152/grey-medium.png"
     },
     {
+      "xenoCantoId": "993701",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/993701/download",
+      "pageUrl": "https://xeno-canto.org/993701",
+      "recordist": "David Ricardo Rodríguez-Villamil",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Punto de conteo 8, Villanueva, Casanare",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GSINAVRFEN/993701/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1077962",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1077962/download",
       "pageUrl": "https://xeno-canto.org/1077962",
       "recordist": "Meena Haribal",
@@ -252,5 +268,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-necked_stilt",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4836"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4836",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Himantopus-mexicanus"
 }

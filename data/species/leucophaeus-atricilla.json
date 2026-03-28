@@ -221,6 +221,7 @@
     {
       "xenoCantoId": "572825",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/572825/download",
       "pageUrl": "https://xeno-canto.org/572825",
       "recordist": "Manuel Grosselet",
@@ -231,8 +232,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/572825/grey-medium.png"
     },
     {
+      "xenoCantoId": "1154",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1154/download",
+      "pageUrl": "https://xeno-canto.org/1154",
+      "recordist": "Don Jones",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:04",
+      "location": "Cape May County Park, New Jersey",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BCWZQTGMSO/1154/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "999399",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/999399/download",
+      "pageUrl": "https://xeno-canto.org/999399",
+      "recordist": "GABRIEL LEITE",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:15",
+      "location": "Mayagüez, Isla de Mona e Islote Monito, Mayagüez",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TGBFXDVERJ/999399/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1033924",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1033924/download",
       "pageUrl": "https://xeno-canto.org/1033924",
       "recordist": "David Darrell-Lambert",
@@ -243,19 +271,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1033924/grey-medium.png"
     },
     {
-      "xenoCantoId": "1033918",
+      "xenoCantoId": "1027101",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1027101/download",
+      "pageUrl": "https://xeno-canto.org/1027101",
+      "recordist": "Paul Driver",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Brigantine National Wildlife Refuge, NJ",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/1027101/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1033917",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1033918/download",
-      "pageUrl": "https://xeno-canto.org/1033918",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1033917/download",
+      "pageUrl": "https://xeno-canto.org/1033917",
       "recordist": "David Darrell-Lambert",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Walthamstow Reservoirs, London",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1033918/grey-medium.png"
+      "length": "0:30",
+      "location": "Waveney Campus, Lowestoft, Suffolk, England",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1033917/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Laughing_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144514"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144514",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Leucophaeus-atricilla"
 }

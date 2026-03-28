@@ -176,6 +176,7 @@
     {
       "xenoCantoId": "966097",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/966097/download",
       "pageUrl": "https://xeno-canto.org/966097",
       "recordist": "Alexander Schlatmann",
@@ -186,8 +187,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LRZESOXXOO/966097/grey-medium.png"
     },
     {
+      "xenoCantoId": "909651",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/909651/download",
+      "pageUrl": "https://xeno-canto.org/909651",
+      "recordist": "Carlos Pereira",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Meia Encosta",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JXZPZYPQKP/909651/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "782280",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/782280/download",
+      "pageUrl": "https://xeno-canto.org/782280",
+      "recordist": "Rubén Barone",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Punta del Hidalgo (La Laguna), Tenerife, Canary Islands",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JDRYGURKUC/782280/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1052673",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1052673/download",
       "pageUrl": "https://xeno-canto.org/1052673",
       "recordist": "Radek Grochowski",
@@ -198,8 +226,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CHZCZGQRZW/1052673/grey-medium.png"
     },
     {
+      "xenoCantoId": "1045526",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1045526/download",
+      "pageUrl": "https://xeno-canto.org/1045526",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Golf Los Palos, Santa Cruz de Tenerife, Canarias",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1045526/grey-medium.png"
+    },
+    {
       "xenoCantoId": "349871",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/349871/download",
       "pageUrl": "https://xeno-canto.org/349871",
       "recordist": "Tero Linjama",
@@ -212,5 +254,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Atlantic_canary",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9246"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9246",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Serinus-canaria"
 }

@@ -182,20 +182,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1091011",
+      "xenoCantoId": "1011959",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1091011/download",
-      "pageUrl": "https://xeno-canto.org/1091011",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1011959/download",
+      "pageUrl": "https://xeno-canto.org/1011959",
       "recordist": "David Boyle",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:13",
-      "location": "Rangatira Summit, Chatham Islands",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHOCFQHBDL/1091011/grey-medium.png"
+      "length": "0:21",
+      "location": "Rangatira South East Island, Chatham Islands",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHOCFQHBDL/1011959/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1054712",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1054712/download",
+      "pageUrl": "https://xeno-canto.org/1054712",
+      "recordist": "Jenna Hoverd/David Boyle",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "6:10",
+      "location": "Rangatira South East Island, Chatham Islands",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHOCFQHBDL/1054712/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "341686",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/341686/download",
+      "pageUrl": "https://xeno-canto.org/341686",
+      "recordist": "Olivier SWIFT",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "2:34",
+      "location": "Stewart Island, Southland District, Southland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JCPKCBKKAQ/341686/grey-medium.png"
     },
     {
       "xenoCantoId": "845182",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/845182/download",
       "pageUrl": "https://xeno-canto.org/845182",
       "recordist": "Daniel Parker",
@@ -204,9 +232,23 @@
       "length": "0:05",
       "location": "Stellwagen Bank Marine Sanctuary (off Massachusetts)",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AMMGWAIZWI/845182/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "936574",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/936574/download",
+      "pageUrl": "https://xeno-canto.org/936574",
+      "recordist": "Sven Normant",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:11",
+      "location": "Baie d'Audierne",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MPDFSJHTXH/936574/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sooty_shearwater",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/502899"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/502899",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Ardenna-grisea"
 }

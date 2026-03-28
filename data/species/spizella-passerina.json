@@ -249,43 +249,86 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1081943",
+      "xenoCantoId": "1038385",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1081943/download",
-      "pageUrl": "https://xeno-canto.org/1081943",
-      "recordist": "David Darrell-Lambert",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1038385/download",
+      "pageUrl": "https://xeno-canto.org/1038385",
+      "recordist": "Bobby Wilcox",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
-      "location": "Hillman Marsh Conservation Area (near  Leamington), Essex County, Ontario",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1081943/grey-medium.png"
+      "length": "0:23",
+      "location": "Skinner State Park, Hampshire County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1038385/grey-medium.png"
     },
     {
-      "xenoCantoId": "1014202",
+      "xenoCantoId": "1029622",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1029622/download",
+      "pageUrl": "https://xeno-canto.org/1029622",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Santa María Acuitlapilco, Tlaxcala, Tlaxcala",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1029622/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1024787",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1024787/download",
+      "pageUrl": "https://xeno-canto.org/1024787",
+      "recordist": "Jim Berry",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:52",
+      "location": "Jamestown, Chautauqua County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BMFJZMNPEG/1024787/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014201",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1014202/download",
-      "pageUrl": "https://xeno-canto.org/1014202",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1014201/download",
+      "pageUrl": "https://xeno-canto.org/1014201",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
+      "length": "0:21",
       "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014202/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014201/grey-medium.png"
     },
     {
-      "xenoCantoId": "1013720",
+      "xenoCantoId": "1012059",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1012059/download",
+      "pageUrl": "https://xeno-canto.org/1012059",
+      "recordist": "Rory Nefdt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Lusby, Calvert County, Maryland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1012059/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013719",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1013720/download",
-      "pageUrl": "https://xeno-canto.org/1013720",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1013719/download",
+      "pageUrl": "https://xeno-canto.org/1013719",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:43",
+      "length": "0:18",
       "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013720/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013719/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chipping_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9135"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9135",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Spizella-passerina"
 }

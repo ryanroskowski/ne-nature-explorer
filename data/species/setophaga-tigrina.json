@@ -365,6 +365,7 @@
     {
       "xenoCantoId": "784610",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/784610/download",
       "pageUrl": "https://xeno-canto.org/784610",
       "recordist": "Paul Driver",
@@ -375,19 +376,60 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/784610/grey-medium.png"
     },
     {
-      "xenoCantoId": "1013808",
+      "xenoCantoId": "726842",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/726842/download",
+      "pageUrl": "https://xeno-canto.org/726842",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Three Lakes, Oneida County, Wisconsin",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/726842/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "600721",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/600721/download",
+      "pageUrl": "https://xeno-canto.org/600721",
+      "recordist": "Christopher McPherson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:07",
+      "location": "Brookline, Hillsborough County, New Hampshire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNIFQCMOLA/600721/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013474",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1013808/download",
-      "pageUrl": "https://xeno-canto.org/1013808",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1013474/download",
+      "pageUrl": "https://xeno-canto.org/1013474",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:02",
-      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013808/grey-medium.png"
+      "length": "1:28",
+      "location": "Charlevoix (near  Saint-Joseph-de-la-Rive), Capitale-Nationale, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013474/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "995966",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/995966/download",
+      "pageUrl": "https://xeno-canto.org/995966",
+      "recordist": "FREDERIC Lionel",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Soroa, Artemisa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/995966/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cape_May_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145231"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145231",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-tigrina"
 }

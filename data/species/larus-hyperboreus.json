@@ -294,6 +294,7 @@
     {
       "xenoCantoId": "457538",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/457538/download",
       "pageUrl": "https://xeno-canto.org/457538",
       "recordist": "Stein Ø. Nilsen",
@@ -304,8 +305,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/457538/grey-medium.png"
     },
     {
+      "xenoCantoId": "406443",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/406443/download",
+      "pageUrl": "https://xeno-canto.org/406443",
+      "recordist": "Patrik Åberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Barrow, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/406443/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1045651",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1045651/download",
       "pageUrl": "https://xeno-canto.org/1045651",
       "recordist": "AUDEVARD Aurélien",
@@ -316,8 +331,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1045651/grey-medium.png"
     },
     {
+      "xenoCantoId": "691190",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/691190/download",
+      "pageUrl": "https://xeno-canto.org/691190",
+      "recordist": "Jorge de Leon Cardozo &amp; Susan Hochgraf",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:11",
+      "location": "Gaswell Road, Utqiagvik, North Slope, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RHARFLKISN/691190/grey-medium.png"
+    },
+    {
       "xenoCantoId": "514048",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/514048/download",
       "pageUrl": "https://xeno-canto.org/514048",
       "recordist": "Timo Janhonen",
@@ -330,5 +359,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Glaucous_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4349"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4349",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Larus-hyperboreus"
 }

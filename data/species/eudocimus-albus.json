@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "898753",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/898753/download",
       "pageUrl": "https://xeno-canto.org/898753",
       "recordist": "Daniel Parker",
@@ -239,8 +240,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AMMGWAIZWI/898753/grey-medium.png"
     },
     {
+      "xenoCantoId": "829401",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/829401/download",
+      "pageUrl": "https://xeno-canto.org/829401",
+      "recordist": "PT xiao",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Lucky Hammock, Homestead, Miami-Dade County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LOAVJDRPYN/829401/grey-medium.png"
+    },
+    {
       "xenoCantoId": "571048",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/571048/download",
       "pageUrl": "https://xeno-canto.org/571048",
       "recordist": "Manuel Grosselet",
@@ -253,5 +268,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_white_ibis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3751"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3751",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Eudocimus-albus"
 }

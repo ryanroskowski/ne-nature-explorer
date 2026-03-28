@@ -190,8 +190,22 @@
   "relatedSpecies": [],
   "audio": [
     {
+      "xenoCantoId": "1091410",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1091410/download",
+      "pageUrl": "https://xeno-canto.org/1091410",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:31",
+      "location": "Rainham Marshes, London",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1091410/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1002003",
       "type": "song",
+      "label": "Song 2",
       "audioUrl": "https://xeno-canto.org/1002003/download",
       "pageUrl": "https://xeno-canto.org/1002003",
       "recordist": "Ding Li Yong",
@@ -202,8 +216,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NWTKEXMKCA/1002003/grey-medium.png"
     },
     {
+      "xenoCantoId": "724650",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/724650/download",
+      "pageUrl": "https://xeno-canto.org/724650",
+      "recordist": "Uku Paal",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Kassari, Hiiumaa vald, Hiiu maakond",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XIBLXHRPJO/724650/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1070204",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1070204/download",
       "pageUrl": "https://xeno-canto.org/1070204",
       "recordist": "Grégoire Chauvot",
@@ -214,19 +242,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UVZCOYYCLV/1070204/grey-medium.png"
     },
     {
-      "xenoCantoId": "1026909",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1026909/download",
-      "pageUrl": "https://xeno-canto.org/1026909",
-      "recordist": "Richard E. Webster",
+      "xenoCantoId": "972653",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/972653/download",
+      "pageUrl": "https://xeno-canto.org/972653",
+      "recordist": "Paul Kelly",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:07",
-      "location": "Khurkh Valley, Batshireet, Khentii",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1026909/grey-medium.png"
+      "length": "1:13",
+      "location": "Tacumshin Lake (East End), County Wexford",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/972653/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1010664",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1010664/download",
+      "pageUrl": "https://xeno-canto.org/1010664",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Djäkneböle, Umeå, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/1010664/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_lapwing",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4857"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4857",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Vanellus-vanellus"
 }

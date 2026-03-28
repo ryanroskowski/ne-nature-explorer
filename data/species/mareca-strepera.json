@@ -239,6 +239,7 @@
     {
       "xenoCantoId": "797912",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/797912/download",
       "pageUrl": "https://xeno-canto.org/797912",
       "recordist": "Hannu Varkki",
@@ -249,20 +250,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XDCPMYMSWN/797912/grey-medium.png"
     },
     {
-      "xenoCantoId": "992585",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/992585/download",
-      "pageUrl": "https://xeno-canto.org/992585",
-      "recordist": "Bo Shunqi 薄顺奇",
+      "xenoCantoId": "554114",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/554114/download",
+      "pageUrl": "https://xeno-canto.org/554114",
+      "recordist": "Jarek Matusiak",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:25",
-      "location": "Haiwan Forest Park, Fengxian, Shanghai",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YNOAMCSSHX/992585/grey-medium.png"
+      "length": "1:27",
+      "location": "Gmina Urszulin, Powiat włodawski, lubelskie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/554114/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "26959",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/26959/download",
+      "pageUrl": "https://xeno-canto.org/26959",
+      "recordist": "Patrik Åberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "1:11",
+      "location": "Hornborgarsjön, Västergötland ",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/26959/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "992223",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/992223/download",
+      "pageUrl": "https://xeno-canto.org/992223",
+      "recordist": "Aku Kalliomäki",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Åland, Kökar",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EUNWJADFAF/992223/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "991052",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/991052/download",
+      "pageUrl": "https://xeno-canto.org/991052",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:24",
+      "location": "F.d. Kyrksjön, Södertörn, Södermanland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/991052/grey-medium.png"
     },
     {
       "xenoCantoId": "995001",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/995001/download",
       "pageUrl": "https://xeno-canto.org/995001",
       "recordist": "David Darrell-Lambert",
@@ -275,5 +317,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Gadwall",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558439"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558439",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Mareca-strepera"
 }

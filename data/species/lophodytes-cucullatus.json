@@ -227,20 +227,35 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "477560",
+      "xenoCantoId": "372597",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/477560/download",
-      "pageUrl": "https://xeno-canto.org/477560",
-      "recordist": "Jonathon Jongsma",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/372597/download",
+      "pageUrl": "https://xeno-canto.org/372597",
+      "recordist": "Dan Lane",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "B",
-      "length": "2:10",
-      "location": "Lake Mariah State Park, Wright County, Minnesota",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OJMFAOUBDU/477560/grey-medium.png"
+      "length": "0:16",
+      "location": "New York (near  Lansing), Tompkins County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WOEAFQRMUD/372597/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "346073",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/346073/download",
+      "pageUrl": "https://xeno-canto.org/346073",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:25",
+      "location": "Viera Wetlands, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/346073/grey-medium.png"
     },
     {
       "xenoCantoId": "317868",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/317868/download",
       "pageUrl": "https://xeno-canto.org/317868",
       "recordist": "Jim Berry",
@@ -253,5 +268,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hooded_merganser",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7109"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7109",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Lophodytes-cucullatus"
 }

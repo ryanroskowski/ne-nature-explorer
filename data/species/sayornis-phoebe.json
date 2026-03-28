@@ -222,32 +222,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1027244",
+      "xenoCantoId": "922957",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1027244/download",
-      "pageUrl": "https://xeno-canto.org/1027244",
-      "recordist": "Jim Berry",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/922957/download",
+      "pageUrl": "https://xeno-canto.org/922957",
+      "recordist": "Dany Sloan",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:00",
-      "location": "Jamestown, Chautauqua County, New York",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BMFJZMNPEG/1027244/grey-medium.png"
+      "length": "0:36",
+      "location": "BARC--Old Sewage Ponds (sanctioned groups only)",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XNSUQRGJPZ/922957/grey-medium.png"
     },
     {
-      "xenoCantoId": "1012507",
+      "xenoCantoId": "839500",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/839500/download",
+      "pageUrl": "https://xeno-canto.org/839500",
+      "recordist": "Manuel Oudard",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:31",
+      "location": "Kawartha Lakes (near  Kirkfield), Kawartha Lakes, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ISEVSYKZZW/839500/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "813069",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/813069/download",
+      "pageUrl": "https://xeno-canto.org/813069",
+      "recordist": "Andrew Sonea",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Mont Royal Cemetery, Montréal, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VOJFPKFQTL/813069/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "893395",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1012507/download",
-      "pageUrl": "https://xeno-canto.org/1012507",
-      "recordist": "Stanislas Wroza",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/893395/download",
+      "pageUrl": "https://xeno-canto.org/893395",
+      "recordist": "Paul Driver",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:07",
-      "location": "La Vallée-du-Richelieu Regional County Municipality (near  Mont-Saint-Hilaire), Montérégie, Quebec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012507/grey-medium.png"
+      "length": "0:38",
+      "location": "Lower Moreland (near  Bryn Athyn), Montgomery County, Pennsylvania",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/893395/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "713589",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/713589/download",
+      "pageUrl": "https://xeno-canto.org/713589",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Harrison Township (near  Harrison), Hamilton County, Ohio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/713589/grey-medium.png"
     },
     {
       "xenoCantoId": "375493",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/375493/download",
       "pageUrl": "https://xeno-canto.org/375493",
       "recordist": "Jorge de Leon Cardozo",
@@ -260,5 +302,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_phoebe",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17008"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17008",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sayornis-phoebe"
 }

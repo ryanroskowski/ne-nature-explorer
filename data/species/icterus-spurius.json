@@ -239,6 +239,7 @@
     {
       "xenoCantoId": "956455",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/956455/download",
       "pageUrl": "https://xeno-canto.org/956455",
       "recordist": "Étienne Leroy",
@@ -249,19 +250,60 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZWAQHOJFLZ/956455/grey-medium.png"
     },
     {
-      "xenoCantoId": "856601",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/856601/download",
-      "pageUrl": "https://xeno-canto.org/856601",
-      "recordist": "Michael Hurben",
+      "xenoCantoId": "905515",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/905515/download",
+      "pageUrl": "https://xeno-canto.org/905515",
+      "recordist": "Bill Grantham",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:43",
-      "location": "West Bush Lake Park (near  Minneapolis), Hennepin County, Minnesota",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ESJQFJUOUH/856601/grey-medium.png"
+      "length": "0:35",
+      "location": "Decatur, Morgan County, Alabama",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UWHBFUYWSQ/905515/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "905352",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/905352/download",
+      "pageUrl": "https://xeno-canto.org/905352",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:17",
+      "location": "Croton Point Park, Croton-on-Hudson, Westchester County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AMMGWAIZWI/905352/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "691924",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/691924/download",
+      "pageUrl": "https://xeno-canto.org/691924",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:39",
+      "location": "ASHRAM PUERTO ESCONDIDO, El Tomatal Santa María Colotepec, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/691924/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "574892",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/574892/download",
+      "pageUrl": "https://xeno-canto.org/574892",
+      "recordist": "William Whitehead",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "Hawk Rise Sanctuary (near  Linden), Union County, New Jersey",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MGVGHKBMIZ/574892/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Orchard_oriole",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9325"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9325",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Icterus-spurius"
 }

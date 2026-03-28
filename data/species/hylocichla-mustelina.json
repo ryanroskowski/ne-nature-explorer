@@ -211,20 +211,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1070717",
+      "xenoCantoId": "1018228",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1070717/download",
-      "pageUrl": "https://xeno-canto.org/1070717",
-      "recordist": "Homero Bennet",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1018228/download",
+      "pageUrl": "https://xeno-canto.org/1018228",
+      "recordist": "David Liebl",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
-      "location": "Chinameca, Chinameca, Veracruz, Veracruz",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LHHZWGIPDV/1070717/grey-medium.png"
+      "length": "0:53",
+      "location": "Madison, Dane County, Wisconsin",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/INPGVTLEAL/1018228/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013065",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1013065/download",
+      "pageUrl": "https://xeno-canto.org/1013065",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Réserve nationale de faune du cap Tourmente, La Côte-de-Beaupré, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013065/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1001801",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1001801/download",
+      "pageUrl": "https://xeno-canto.org/1001801",
+      "recordist": "Rory Nefdt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Hart’s Brook Park and Preserve (near  Hartsdale), Westchester County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1001801/grey-medium.png"
     },
     {
       "xenoCantoId": "1069982",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1069982/download",
       "pageUrl": "https://xeno-canto.org/1069982",
       "recordist": "Max Noack",
@@ -235,8 +263,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NYTGVXSILH/1069982/grey-medium.png"
     },
     {
+      "xenoCantoId": "934452",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/934452/download",
+      "pageUrl": "https://xeno-canto.org/934452",
+      "recordist": "Thomas Magarian",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Mike Long's Woods Road, Page County, Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/934452/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1044899",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1044899/download",
       "pageUrl": "https://xeno-canto.org/1044899",
       "recordist": "Brendan Sloan",
@@ -249,5 +291,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Wood_thrush",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13270"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13270",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Hylocichla-mustelina"
 }

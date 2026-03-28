@@ -216,6 +216,7 @@
     {
       "xenoCantoId": "1046093",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1046093/download",
       "pageUrl": "https://xeno-canto.org/1046093",
       "recordist": "Petter Westberg",
@@ -226,19 +227,60 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1046093/grey-medium.png"
     },
     {
-      "xenoCantoId": "1067519",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1067519/download",
-      "pageUrl": "https://xeno-canto.org/1067519",
-      "recordist": "王自堃",
+      "xenoCantoId": "1013570",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1013570/download",
+      "pageUrl": "https://xeno-canto.org/1013570",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:02",
-      "location": "Beijing, Beijing",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UKETHWCXNC/1067519/grey-medium.png"
+      "length": "0:39",
+      "location": "La Haute-Côte-Nord Regional County Municipality (near  Les Escoumins), Côte-Nord, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013570/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "989428",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/989428/download",
+      "pageUrl": "https://xeno-canto.org/989428",
+      "recordist": "Rolf A. de By",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:56",
+      "location": "Veere (near  Veeremäe), Saaremaa Parish, Saare maakond",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PTYTXQRLSZ/989428/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "909899",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/909899/download",
+      "pageUrl": "https://xeno-canto.org/909899",
+      "recordist": "Uku Paal",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Kalana, Hiiumaa vald, Hiiu maakond",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XIBLXHRPJO/909899/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "617244",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/617244/download",
+      "pageUrl": "https://xeno-canto.org/617244",
+      "recordist": "Lars Redetzke",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Greifswalder Oie, Mecklenburg-Vorpommern",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QFZOWZFUGB/617244/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Long-tailed_duck",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7170"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7170",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Clangula-hyemalis"
 }

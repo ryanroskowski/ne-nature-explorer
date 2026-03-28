@@ -230,32 +230,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1029989",
+      "xenoCantoId": "1014440",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1029989/download",
-      "pageUrl": "https://xeno-canto.org/1029989",
-      "recordist": "Greg Irving",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1014440/download",
+      "pageUrl": "https://xeno-canto.org/1014440",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:30",
-      "location": "Hog Ranch Road (near Wenas / Cascade Camp), Kittitas County, Washington",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1029989/grey-medium.png"
+      "length": "0:44",
+      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014440/grey-medium.png"
     },
     {
-      "xenoCantoId": "1056022",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1056022/download",
-      "pageUrl": "https://xeno-canto.org/1056022",
-      "recordist": "Denis Dujardin",
+      "xenoCantoId": "935601",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/935601/download",
+      "pageUrl": "https://xeno-canto.org/935601",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "1:05",
+      "location": "Whitbourne, Newfoundland and Labrador",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/935601/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "915952",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/915952/download",
+      "pageUrl": "https://xeno-canto.org/915952",
+      "recordist": "Meena Haribal",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:02",
-      "location": "Sequim, Clallam County, Washington",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SMUORWOKLJ/1056022/grey-medium.png"
+      "length": "1:01",
+      "location": "Black Brook (near  Au Sable Forks), Clinton County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RBYDYNRSJV/915952/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014147",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1014147/download",
+      "pageUrl": "https://xeno-canto.org/1014147",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014147/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "691790",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/691790/download",
+      "pageUrl": "https://xeno-canto.org/691790",
+      "recordist": "Christopher McPherson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Temple, Hillsborough County, New Hampshire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNIFQCMOLA/691790/grey-medium.png"
     },
     {
       "xenoCantoId": "1048899",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1048899/download",
       "pageUrl": "https://xeno-canto.org/1048899",
       "recordist": "AUDEVARD Aurélien",
@@ -268,5 +310,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-breasted_nuthatch",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14823"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14823",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sitta-canadensis"
 }

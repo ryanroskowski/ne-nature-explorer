@@ -229,20 +229,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1014359",
+      "xenoCantoId": "1013852",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1014359/download",
-      "pageUrl": "https://xeno-canto.org/1014359",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1013852/download",
+      "pageUrl": "https://xeno-canto.org/1013852",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "4:22",
+      "length": "0:11",
       "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014359/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013852/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "486622",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/486622/download",
+      "pageUrl": "https://xeno-canto.org/486622",
+      "recordist": "Jens Kirkeby",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Beringovsky Coast, Anadyrsky District, Chukotskiy",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YKITMEIRRE/486622/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "30210",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/30210/download",
+      "pageUrl": "https://xeno-canto.org/30210",
+      "recordist": "Vladimir Yu. Arkhipov",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Chukotka, Krasnoye Lake",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BOSPPVTSIB/30210/grey-medium.png"
     },
     {
       "xenoCantoId": "289927",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/289927/download",
       "pageUrl": "https://xeno-canto.org/289927",
       "recordist": "Martin St-Michel",
@@ -251,9 +279,23 @@
       "length": "1:20",
       "location": "Les Escoumins, La Haute-Côte-Nord, Québec",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WOPIRNCCSX/289927/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "140734",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/140734/download",
+      "pageUrl": "https://xeno-canto.org/140734",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Safety Sound, Nome Census Area, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/140734/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black_scoter",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144220"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144220",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Melanitta-americana"
 }

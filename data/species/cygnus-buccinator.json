@@ -249,6 +249,7 @@
     {
       "xenoCantoId": "636462",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/636462/download",
       "pageUrl": "https://xeno-canto.org/636462",
       "recordist": "Thomas Ryder Payne",
@@ -259,19 +260,60 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NWXCLJYBDK/636462/grey-medium.png"
     },
     {
-      "xenoCantoId": "883897",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/883897/download",
-      "pageUrl": "https://xeno-canto.org/883897",
-      "recordist": "Matthew Spoor",
+      "xenoCantoId": "433817",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/433817/download",
+      "pageUrl": "https://xeno-canto.org/433817",
+      "recordist": "Logan McLeod",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:10",
-      "location": "Gallup Park (near  Ann Arbor), Washtenaw County, Michigan",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZRIOOIKWB/883897/grey-medium.png"
+      "length": "1:31",
+      "location": "Yukon, Unorganized (near  Beaver Creek), Yukon, Yukon Territory",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JRPEHMSIPP/433817/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "589817",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/589817/download",
+      "pageUrl": "https://xeno-canto.org/589817",
+      "recordist": "Greg Irving",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "3:30",
+      "location": "Sherburne NWR, Sherburne, Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/589817/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "640710",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/640710/download",
+      "pageUrl": "https://xeno-canto.org/640710",
+      "recordist": "Bruce Lagerquist",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Conners Lake, Okanogan County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/640710/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "496481",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/496481/download",
+      "pageUrl": "https://xeno-canto.org/496481",
+      "recordist": "Whitney Neufeld-Kaiser",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Mount Vernon, Skagit County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQLSWYNMJK/496481/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Trumpeter_swan",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6915"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6915",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Cygnus-buccinator"
 }

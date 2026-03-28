@@ -265,32 +265,61 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1014290",
+      "xenoCantoId": "1013937",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1014290/download",
-      "pageUrl": "https://xeno-canto.org/1014290",
-      "recordist": "Scott Gravette",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "quality": "A",
-      "length": "2:21",
-      "location": "Dancy Bottoms, Wheeler National Wildlife Refuge, Morgan County, Alabama",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LIMOMMAPWS/1014290/grey-medium.png"
-    },
-    {
-      "xenoCantoId": "1014457",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1014457/download",
-      "pageUrl": "https://xeno-canto.org/1014457",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1013937/download",
+      "pageUrl": "https://xeno-canto.org/1013937",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
+      "length": "0:45",
       "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014457/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013937/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "189437",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/189437/download",
+      "pageUrl": "https://xeno-canto.org/189437",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "Pipeline Mainline Road, Fort Nelson, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/189437/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "186320",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/186320/download",
+      "pageUrl": "https://xeno-canto.org/186320",
+      "recordist": "Martin St-Michel",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:04",
+      "location": "Parc national des Grands-Jardins, Charlevoix, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WOPIRNCCSX/186320/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013934",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1013934/download",
+      "pageUrl": "https://xeno-canto.org/1013934",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013934/grey-medium.png"
     },
     {
       "xenoCantoId": "1014458",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014458/download",
       "pageUrl": "https://xeno-canto.org/1014458",
       "recordist": "Stanislas Wroza",
@@ -303,5 +332,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Philadelphia_vireo",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17364"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17364",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Vireo-philadelphicus"
 }

@@ -216,6 +216,7 @@
     {
       "xenoCantoId": "394990",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/394990/download",
       "pageUrl": "https://xeno-canto.org/394990",
       "recordist": "Marco Cruz",
@@ -228,6 +229,7 @@
     {
       "xenoCantoId": "503607",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/503607/download",
       "pageUrl": "https://xeno-canto.org/503607",
       "recordist": "Phoenix Birder",
@@ -236,9 +238,23 @@
       "length": "0:26",
       "location": "Kauai (near  Hanapepe), Kauai County, Hawaii",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UKNISVRBBF/503607/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "482585",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/482585/download",
+      "pageUrl": "https://xeno-canto.org/482585",
+      "recordist": "Marcel Gil Velasco",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Fuerteventura (near  La Oliva), Las Palmas, Canary Islands",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/METIPYBSWG/482585/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-billed_tropicbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4317"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4317",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Phaethon-aethereus"
 }

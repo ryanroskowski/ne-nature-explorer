@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1085991",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1085991/download",
       "pageUrl": "https://xeno-canto.org/1085991",
       "recordist": "Ding Li Yong",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NWTKEXMKCA/1085991/grey-medium.png"
     },
     {
+      "xenoCantoId": "1077506",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1077506/download",
+      "pageUrl": "https://xeno-canto.org/1077506",
+      "recordist": "Christian Kerihuel",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Dholpur (near  Talram Sagar), Bharatpur Division, Rajasthan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VWWRQKFKMD/1077506/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "812476",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/812476/download",
+      "pageUrl": "https://xeno-canto.org/812476",
+      "recordist": "Francesco Barberini",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Acquapendente, Province of Viterbo, Lazio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FDRIKEROUW/812476/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1085965",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1085965/download",
       "pageUrl": "https://xeno-canto.org/1085965",
       "recordist": "Ding Li Yong",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NWTKEXMKCA/1085965/grey-medium.png"
     },
     {
+      "xenoCantoId": "1075085",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1075085/download",
+      "pageUrl": "https://xeno-canto.org/1075085",
+      "recordist": "African Bioacoustics Community",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "City of Cape Town (near  Cape Town), City of Cape Town Metropolitan Municipality, Western Cape",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YSGTQVRQZI/1075085/grey-medium.png"
+    },
+    {
       "xenoCantoId": "810686",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/810686/download",
       "pageUrl": "https://xeno-canto.org/810686",
       "recordist": "Marc Anderson",
@@ -260,5 +302,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Indian_peafowl",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1204"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1204",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pavo-cristatus"
 }

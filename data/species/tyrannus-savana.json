@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "1059176",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1059176/download",
       "pageUrl": "https://xeno-canto.org/1059176",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -261,8 +262,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/1059176/grey-medium.png"
     },
     {
+      "xenoCantoId": "913086",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/913086/download",
+      "pageUrl": "https://xeno-canto.org/913086",
+      "recordist": "rudy gelis",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:03",
+      "location": "Sitio Macuquinho, Salesópolis, São Paulo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FQDLOIRARS/913086/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "864543",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/864543/download",
+      "pageUrl": "https://xeno-canto.org/864543",
+      "recordist": "Franco Vushurovich",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:17",
+      "location": "Soldini, Rosario, Santa Fe",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VLDFGFKOWN/864543/grey-medium.png"
+    },
+    {
       "xenoCantoId": "939962",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/939962/download",
       "pageUrl": "https://xeno-canto.org/939962",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -273,8 +301,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/939962/grey-medium.png"
     },
     {
+      "xenoCantoId": "592934",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/592934/download",
+      "pageUrl": "https://xeno-canto.org/592934",
+      "recordist": "Marcelo da Rocha",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Foz do Iguaçu, Foz do Iguaçu, Paraná",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LWQBBYMIQQ/592934/grey-medium.png"
+    },
+    {
       "xenoCantoId": "996563",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/996563/download",
       "pageUrl": "https://xeno-canto.org/996563",
       "recordist": "Bernabe Lopez-Lanus",
@@ -287,5 +329,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Fork-tailed_flycatcher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16793"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16793",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tyrannus-savana"
 }

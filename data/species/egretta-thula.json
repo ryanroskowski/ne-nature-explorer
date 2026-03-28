@@ -246,6 +246,7 @@
     {
       "xenoCantoId": "50905",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/50905/download",
       "pageUrl": "https://xeno-canto.org/50905",
       "recordist": "Bernabe Lopez-Lanus",
@@ -256,31 +257,47 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BYLLSJRVDZ/50905/grey-medium.png"
     },
     {
-      "xenoCantoId": "1043531",
+      "xenoCantoId": "941118",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1043531/download",
-      "pageUrl": "https://xeno-canto.org/1043531",
-      "recordist": "Sue Riffe",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/941118/download",
+      "pageUrl": "https://xeno-canto.org/941118",
+      "recordist": "Carlos Delgado JUMABITA",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Merritt Island NWR, Brevard County, Florida",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1043531/grey-medium.png"
+      "length": "1:15",
+      "location": "Sopetrán, Antioquia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QNQOLYYZEB/941118/grey-medium.png"
     },
     {
-      "xenoCantoId": "654328",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/654328/download",
-      "pageUrl": "https://xeno-canto.org/654328",
-      "recordist": "Dante Buzzetti",
+      "xenoCantoId": "705551",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/705551/download",
+      "pageUrl": "https://xeno-canto.org/705551",
+      "recordist": "Paul Driver",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Rio Pixaim, Poconé, Mato Grosso",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YOXWKYFZAP/654328/grey-medium.png"
+      "length": "0:12",
+      "location": "Ochopee, Collier County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/705551/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "240176",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/240176/download",
+      "pageUrl": "https://xeno-canto.org/240176",
+      "recordist": "Russ Wigh",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:16",
+      "location": "Skidaway Island, Chatham County, GA USA",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YBJUQSUJFZ/240176/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Snowy_egret",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4940"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4940",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Egretta-thula"
 }

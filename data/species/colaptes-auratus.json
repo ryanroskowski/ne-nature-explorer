@@ -221,6 +221,7 @@
     {
       "xenoCantoId": "1013307",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1013307/download",
       "pageUrl": "https://xeno-canto.org/1013307",
       "recordist": "Stanislas Wroza",
@@ -231,8 +232,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013307/grey-medium.png"
     },
     {
+      "xenoCantoId": "1007124",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1007124/download",
+      "pageUrl": "https://xeno-canto.org/1007124",
+      "recordist": "Ed Pandolfino",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Dean's Crick, Sierra County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/1007124/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "975331",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/975331/download",
+      "pageUrl": "https://xeno-canto.org/975331",
+      "recordist": "GABRIEL LEITE",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "La Palma, Pinar del Río",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TGBFXDVERJ/975331/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1069251",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1069251/download",
       "pageUrl": "https://xeno-canto.org/1069251",
       "recordist": "Don Profota",
@@ -243,8 +271,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UTLXKPYDDK/1069251/grey-medium.png"
     },
     {
+      "xenoCantoId": "1033749",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1033749/download",
+      "pageUrl": "https://xeno-canto.org/1033749",
+      "recordist": "Rory Nefdt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:49",
+      "location": "Hart’s Brook Park and Preserve (near  Hartsdale), Westchester County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1033749/grey-medium.png"
+    },
+    {
       "xenoCantoId": "676522",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/676522/download",
       "pageUrl": "https://xeno-canto.org/676522",
       "recordist": "Richard E. Webster",
@@ -253,9 +295,23 @@
       "length": "4:40",
       "location": "Mesa El Campanero, Yécora, Sonora",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/676522/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "722853",
+      "type": "drumming",
+      "label": "Drumming",
+      "audioUrl": "https://xeno-canto.org/722853/download",
+      "pageUrl": "https://xeno-canto.org/722853",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Cristopher Creek, Gila County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/722853/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_flicker",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/18236"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/18236",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Colaptes-auratus"
 }

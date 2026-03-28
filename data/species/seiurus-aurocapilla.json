@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "1037293",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1037293/download",
       "pageUrl": "https://xeno-canto.org/1037293",
       "recordist": "Bobby Wilcox",
@@ -239,8 +240,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1037293/grey-medium.png"
     },
     {
+      "xenoCantoId": "1017604",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1017604/download",
+      "pageUrl": "https://xeno-canto.org/1017604",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Muskeg River Demonstration Area, Fort Liard, Northwest Territories",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/1017604/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014599",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1014599/download",
+      "pageUrl": "https://xeno-canto.org/1014599",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:16",
+      "location": "Pickford Township (near  Pickford), Chippewa County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1014599/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014289",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014289/download",
       "pageUrl": "https://xeno-canto.org/1014289",
       "recordist": "Stanislas Wroza",
@@ -251,8 +279,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014289/grey-medium.png"
     },
     {
+      "xenoCantoId": "964345",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/964345/download",
+      "pageUrl": "https://xeno-canto.org/964345",
+      "recordist": "A Richardson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Ross Township (near  Augusta), Kalamazoo County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XBUQGDEYSJ/964345/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1072184",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1072184/download",
       "pageUrl": "https://xeno-canto.org/1072184",
       "recordist": "Max Noack",
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ovenbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/62550"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/62550",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Seiurus-aurocapilla"
 }

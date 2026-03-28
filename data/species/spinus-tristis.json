@@ -237,6 +237,7 @@
     {
       "xenoCantoId": "1090062",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1090062/download",
       "pageUrl": "https://xeno-canto.org/1090062",
       "recordist": "Manuel Grosselet",
@@ -247,20 +248,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1090062/grey-medium.png"
     },
     {
-      "xenoCantoId": "1056062",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1056062/download",
-      "pageUrl": "https://xeno-canto.org/1056062",
-      "recordist": "Denis Dujardin",
+      "xenoCantoId": "1034479",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1034479/download",
+      "pageUrl": "https://xeno-canto.org/1034479",
+      "recordist": "Rory Nefdt",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
-      "location": "Prosper, Coos County, Oregon",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SMUORWOKLJ/1056062/grey-medium.png"
+      "length": "0:22",
+      "location": "Pound Ridge Reservation Lewisboro (near  Cross River), Westchester County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1034479/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1021832",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1021832/download",
+      "pageUrl": "https://xeno-canto.org/1021832",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Isle aux Coudres",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1021832/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1012551",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1012551/download",
+      "pageUrl": "https://xeno-canto.org/1012551",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "La Vallée-du-Richelieu Regional County Municipality (near  Mont-Saint-Hilaire), Montérégie, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012551/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "958108",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/958108/download",
+      "pageUrl": "https://xeno-canto.org/958108",
+      "recordist": "Arjun Dutta",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Delbeatrice Crescent, Toronto, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HRVQAOEHRR/958108/grey-medium.png"
     },
     {
       "xenoCantoId": "610948",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/610948/download",
       "pageUrl": "https://xeno-canto.org/610948",
       "recordist": "Russ Wigh",
@@ -273,5 +315,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_goldfinch",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145310"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145310",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Spinus-tristis"
 }

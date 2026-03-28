@@ -259,6 +259,7 @@
     {
       "xenoCantoId": "452083",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/452083/download",
       "pageUrl": "https://xeno-canto.org/452083",
       "recordist": "Paul Marvin",
@@ -267,9 +268,23 @@
       "length": "0:18",
       "location": "Vendel Road, Salton Sea NWR, Brawley, Imperial County, California",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/452083/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "408862",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/408862/download",
+      "pageUrl": "https://xeno-canto.org/408862",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "B",
+      "length": "0:10",
+      "location": "Bosque Del Apache NWR, Socorro county, New Mexico",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/408862/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ross's_goose",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558427"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558427",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anser-rossii"
 }

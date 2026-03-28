@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1027006",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1027006/download",
       "pageUrl": "https://xeno-canto.org/1027006",
       "recordist": "Richard E. Webster",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1027006/grey-medium.png"
     },
     {
+      "xenoCantoId": "835914",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/835914/download",
+      "pageUrl": "https://xeno-canto.org/835914",
+      "recordist": "Martin Billard",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Lamaiin Hiid, Saixan-Ovoo, Dundgovi",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WKUHMYUJSN/835914/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "784132",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/784132/download",
+      "pageUrl": "https://xeno-canto.org/784132",
+      "recordist": "Whitney Neufeld-Kaiser",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:05",
+      "location": "Sunnyslope, Chelan County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQLSWYNMJK/784132/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1072903",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1072903/download",
       "pageUrl": "https://xeno-canto.org/1072903",
       "recordist": "Ulf Elman",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/1072903/grey-medium.png"
     },
     {
+      "xenoCantoId": "765940",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/765940/download",
+      "pageUrl": "https://xeno-canto.org/765940",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Tudevtei, Zavkhan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/765940/grey-medium.png"
+    },
+    {
       "xenoCantoId": "447701",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/447701/download",
       "pageUrl": "https://xeno-canto.org/447701",
       "recordist": "Stanislas Wroza",
@@ -260,5 +302,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Horned_lark",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7294"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7294",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Eremophila-alpestris"
 }

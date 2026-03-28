@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "587300",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/587300/download",
       "pageUrl": "https://xeno-canto.org/587300",
       "recordist": "Stanislas Wroza",
@@ -234,8 +235,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/587300/grey-medium.png"
     },
     {
+      "xenoCantoId": "881461",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/881461/download",
+      "pageUrl": "https://xeno-canto.org/881461",
+      "recordist": "Michel Veldt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:26",
+      "location": "Bodegraven, Bodegraven-Reeuwijk, Zuid-Holland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZVOJOYBHDK/881461/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1034948",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1034948/download",
       "pageUrl": "https://xeno-canto.org/1034948",
       "recordist": "Ricardo Hevia",
@@ -246,19 +261,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BQFSTZRSEP/1034948/grey-medium.png"
     },
     {
-      "xenoCantoId": "543041",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/543041/download",
-      "pageUrl": "https://xeno-canto.org/543041",
-      "recordist": "Isain Contreras Rodríguez",
+      "xenoCantoId": "1031757",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1031757/download",
+      "pageUrl": "https://xeno-canto.org/1031757",
+      "recordist": "Christophe Gruwier",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Topolobampo, Ahome, Sinaloa",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/543041/grey-medium.png"
+      "length": "0:35",
+      "location": "Moeskroen, Henegouwen, Waals Gewest",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VBUQYGHKGJ/1031757/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "488950",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/488950/download",
+      "pageUrl": "https://xeno-canto.org/488950",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Lövöbådan, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/488950/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ruddy_turnstone",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3938"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3938",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Arenaria-interpres"
 }

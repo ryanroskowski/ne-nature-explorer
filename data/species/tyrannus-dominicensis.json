@@ -267,6 +267,7 @@
     {
       "xenoCantoId": "1062481",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1062481/download",
       "pageUrl": "https://xeno-canto.org/1062481",
       "recordist": "David Darrell-Lambert",
@@ -277,8 +278,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1062481/grey-medium.png"
     },
     {
+      "xenoCantoId": "1052133",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1052133/download",
+      "pageUrl": "https://xeno-canto.org/1052133",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:39",
+      "location": "Dajabón, Dajabón",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AMMGWAIZWI/1052133/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "998967",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/998967/download",
+      "pageUrl": "https://xeno-canto.org/998967",
+      "recordist": "Brendan Sloan",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:55",
+      "location": "Matthew Town Great Inagua",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TNTQAOFHFM/998967/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1047425",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1047425/download",
       "pageUrl": "https://xeno-canto.org/1047425",
       "recordist": "Rosa Elena Albornoz @rosaelena_naturaleza",
@@ -287,9 +315,23 @@
       "length": "0:18",
       "location": "San Antonio De Los Altos (near  Parroquia Macarao), Los Salias, Miranda",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GPBUDZFHVP/1047425/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "833293",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/833293/download",
+      "pageUrl": "https://xeno-canto.org/833293",
+      "recordist": "Simon Elliott",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:29",
+      "location": "near Arnos Vale, Western Tobago",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FFFADKCCII/833293/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Gray_kingbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16798"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16798",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tyrannus-dominicensis"
 }

@@ -222,6 +222,7 @@
     {
       "xenoCantoId": "428390",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/428390/download",
       "pageUrl": "https://xeno-canto.org/428390",
       "recordist": "Stein Ø. Nilsen",
@@ -234,6 +235,7 @@
     {
       "xenoCantoId": "1086526",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1086526/download",
       "pageUrl": "https://xeno-canto.org/1086526",
       "recordist": "David Darrell-Lambert",
@@ -244,8 +246,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1086526/grey-medium.png"
     },
     {
+      "xenoCantoId": "1048432",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1048432/download",
+      "pageUrl": "https://xeno-canto.org/1048432",
+      "recordist": "Mats Olsson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Dalgången 23, Karlshamn, Blekinge län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JLAUXQLBHR/1048432/grey-medium.png"
+    },
+    {
       "xenoCantoId": "526220",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/526220/download",
       "pageUrl": "https://xeno-canto.org/526220",
       "recordist": "Stanislas Wroza",
@@ -258,5 +274,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Brant_(goose)",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7087"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7087",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Branta-bernicla"
 }

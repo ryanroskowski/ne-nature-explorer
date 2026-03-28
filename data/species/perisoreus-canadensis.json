@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1014713",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1014713/download",
       "pageUrl": "https://xeno-canto.org/1014713",
       "recordist": "Stanislas Wroza",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014713/grey-medium.png"
     },
     {
+      "xenoCantoId": "28872",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/28872/download",
+      "pageUrl": "https://xeno-canto.org/28872",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Patrick's Point State Park, Humboldt Co., California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/28872/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "897877",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/897877/download",
+      "pageUrl": "https://xeno-canto.org/897877",
+      "recordist": "Ray Cooke",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:21",
+      "location": "Elm Road, West end",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EMFMDDVOUG/897877/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014712",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014712/download",
       "pageUrl": "https://xeno-canto.org/1014712",
       "recordist": "Stanislas Wroza",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014712/grey-medium.png"
     },
     {
+      "xenoCantoId": "826904",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/826904/download",
+      "pageUrl": "https://xeno-canto.org/826904",
+      "recordist": "Yoann Blanchon",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Homer, Kenai Peninsula Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OYXLQBTHRH/826904/grey-medium.png"
+    },
+    {
       "xenoCantoId": "185148",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/185148/download",
       "pageUrl": "https://xeno-canto.org/185148",
       "recordist": "Martin St-Michel",
@@ -260,5 +302,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Canada_jay",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/8335"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/8335",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Perisoreus-canadensis"
 }

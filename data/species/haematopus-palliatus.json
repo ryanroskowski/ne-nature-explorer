@@ -221,6 +221,7 @@
     {
       "xenoCantoId": "1008553",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1008553/download",
       "pageUrl": "https://xeno-canto.org/1008553",
       "recordist": "Jonas Nilsson",
@@ -231,8 +232,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GTTLRDCZWR/1008553/grey-medium.png"
     },
     {
+      "xenoCantoId": "571585",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/571585/download",
+      "pageUrl": "https://xeno-canto.org/571585",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Ahome, Sinaloa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/571585/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "565541",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/565541/download",
+      "pageUrl": "https://xeno-canto.org/565541",
+      "recordist": "William Whitehead",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Sandy Hook, Monmouth Co., NJ",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MGVGHKBMIZ/565541/grey-medium.png"
+    },
+    {
       "xenoCantoId": "871345",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/871345/download",
       "pageUrl": "https://xeno-canto.org/871345",
       "recordist": "José Dellacasa Bravo",
@@ -243,8 +271,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IHJAQKCKWM/871345/grey-medium.png"
     },
     {
+      "xenoCantoId": "564258",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/564258/download",
+      "pageUrl": "https://xeno-canto.org/564258",
+      "recordist": "Isain Contreras Rodríguez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Ahome, Sinaloa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/564258/grey-medium.png"
+    },
+    {
       "xenoCantoId": "572817",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/572817/download",
       "pageUrl": "https://xeno-canto.org/572817",
       "recordist": "Manuel Grosselet",
@@ -257,5 +299,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/American_oystercatcher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4840"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4840",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Haematopus-palliatus"
 }

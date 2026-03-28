@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "1046935",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1046935/download",
       "pageUrl": "https://xeno-canto.org/1046935",
       "recordist": "Greg Irving",
@@ -259,9 +260,23 @@
       "length": "0:51",
       "location": "Graysmarsh (near Sequim), Clallam County, Washington",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1046935/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "841191",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/841191/download",
+      "pageUrl": "https://xeno-canto.org/841191",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Lagerman Reservoir, Boulder Cty, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/841191/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cackling_goose",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/59220"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/59220",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Branta-hutchinsii"
 }

@@ -235,8 +235,22 @@
   ],
   "audio": [
     {
+      "xenoCantoId": "104394",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/104394/download",
+      "pageUrl": "https://xeno-canto.org/104394",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Browns Lake, Beltrami Island State Forest, Lake of the Woods Co., Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/104394/grey-medium.png"
+    },
+    {
       "xenoCantoId": "486233",
       "type": "call",
+      "label": "Call 2",
       "audioUrl": "https://xeno-canto.org/486233/download",
       "pageUrl": "https://xeno-canto.org/486233",
       "recordist": "Bruce Lagerquist",
@@ -249,5 +263,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/American_white_pelican",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4334"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4334",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pelecanus-erythrorhynchos"
 }

@@ -219,20 +219,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1026423",
+      "xenoCantoId": "1023590",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1026423/download",
-      "pageUrl": "https://xeno-canto.org/1026423",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1023590/download",
+      "pageUrl": "https://xeno-canto.org/1023590",
       "recordist": "David Boyle",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "15:48",
+      "length": "0:13",
       "location": "Skokholm, Pembrokeshire, Wales",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHOCFQHBDL/1026423/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHOCFQHBDL/1023590/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1022759",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1022759/download",
+      "pageUrl": "https://xeno-canto.org/1022759",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:33",
+      "location": "Pointe du Van, Cléden-Cap-Sizun, Finistere, Bretagne",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1022759/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "800754",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/800754/download",
+      "pageUrl": "https://xeno-canto.org/800754",
+      "recordist": "Sven Normant",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Kerlouan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MPDFSJHTXH/800754/grey-medium.png"
     },
     {
       "xenoCantoId": "1086861",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1086861/download",
       "pageUrl": "https://xeno-canto.org/1086861",
       "recordist": "Roland Arnison",
@@ -241,9 +269,23 @@
       "length": "0:45",
       "location": "Mull (near  Gometra House), Argyll and Bute Council, Scotland",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NPLSWYWTJJ/1086861/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "993117",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/993117/download",
+      "pageUrl": "https://xeno-canto.org/993117",
+      "recordist": "Sean Morris",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Isle of Rum, Highland Council, Scotland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DNBTYQPEZZ/993117/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Manx_shearwater",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4093"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4093",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Puffinus-puffinus"
 }

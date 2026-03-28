@@ -278,6 +278,7 @@
     {
       "xenoCantoId": "667363",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/667363/download",
       "pageUrl": "https://xeno-canto.org/667363",
       "recordist": "Nick Komar",
@@ -288,8 +289,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ODAYZINCOA/667363/grey-medium.png"
     },
     {
+      "xenoCantoId": "606787",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/606787/download",
+      "pageUrl": "https://xeno-canto.org/606787",
+      "recordist": "Peter Ward and Ken Hall",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Harrison Hot Springs, Fraser Valley, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFRRHMLGSK/606787/grey-medium.png"
+    },
+    {
       "xenoCantoId": "756221",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/756221/download",
       "pageUrl": "https://xeno-canto.org/756221",
       "recordist": "Seth Beaudreault",
@@ -302,5 +317,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Short-billed_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1286964"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1286964",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Larus-brachyrhynchus"
 }

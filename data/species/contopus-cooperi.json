@@ -230,20 +230,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "962388",
+      "xenoCantoId": "748153",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/962388/download",
-      "pageUrl": "https://xeno-canto.org/962388",
-      "recordist": "A Richardson",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/748153/download",
+      "pageUrl": "https://xeno-canto.org/748153",
+      "recordist": "Paul Marvin",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:01",
-      "location": "McCrea Place, Idaho County, Idaho",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XBUQGDEYSJ/962388/grey-medium.png"
+      "length": "0:59",
+      "location": "Chapman Saddle Rd, Sierra County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/748153/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "736446",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/736446/download",
+      "pageUrl": "https://xeno-canto.org/736446",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:03",
+      "location": "Upper Beaver Meadows-RMNP, Larimer Cty, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/736446/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "692978",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/692978/download",
+      "pageUrl": "https://xeno-canto.org/692978",
+      "recordist": "Jacob Wijpkema",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Apolo (near  Santa Cruz), Franz Tamayo, Departamento de La Paz",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WETAASKWUP/692978/grey-medium.png"
     },
     {
       "xenoCantoId": "1072180",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1072180/download",
       "pageUrl": "https://xeno-canto.org/1072180",
       "recordist": "Max Noack",
@@ -252,9 +280,23 @@
       "length": "1:25",
       "location": "Reserva Natural Privada Chajbaoc, Alta Verapaz",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NYTGVXSILH/1072180/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014659",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1014659/download",
+      "pageUrl": "https://xeno-canto.org/1014659",
+      "recordist": "MARK BRENNAN",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Eastville, Colchester County, Nova Scotia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QLIFEGZOIT/1014659/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Olive-sided_flycatcher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16110"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16110",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Contopus-cooperi"
 }

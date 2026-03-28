@@ -211,20 +211,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1036412",
+      "xenoCantoId": "1016556",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1036412/download",
-      "pageUrl": "https://xeno-canto.org/1036412",
-      "recordist": "Bobby Wilcox",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1016556/download",
+      "pageUrl": "https://xeno-canto.org/1016556",
+      "recordist": "Ned Bohman",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:02",
-      "location": "Tama (near  Burlington), Des Moines, Iowa",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1036412/grey-medium.png"
+      "length": "1:01",
+      "location": "Leesburg, Loudoun County, Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LRBJKOMLDW/1016556/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013402",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1013402/download",
+      "pageUrl": "https://xeno-canto.org/1013402",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:42",
+      "location": "Charlevoix (near  Saint-Joseph-de-la-Rive), Capitale-Nationale, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013402/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1010845",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1010845/download",
+      "pageUrl": "https://xeno-canto.org/1010845",
+      "recordist": "Bill Pyle",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:42",
+      "location": "Lower Salt River along McCoy Cr. Rd., Sublette Co., Wyoming",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DUWDSSWZPN/1010845/grey-medium.png"
     },
     {
       "xenoCantoId": "1070223",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1070223/download",
       "pageUrl": "https://xeno-canto.org/1070223",
       "recordist": "Max Noack",
@@ -235,8 +263,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NYTGVXSILH/1070223/grey-medium.png"
     },
     {
+      "xenoCantoId": "925322",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/925322/download",
+      "pageUrl": "https://xeno-canto.org/925322",
+      "recordist": "Michael Hurben",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Hyland-Bush-Anderson Lakes Park Reserve (near  Bloomington), Hennepin County, Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ESJQFJUOUH/925322/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1012948",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1012948/download",
       "pageUrl": "https://xeno-canto.org/1012948",
       "recordist": "Stanislas Wroza",
@@ -249,5 +291,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Gray_catbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14995"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14995",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Dumetella-carolinensis"
 }

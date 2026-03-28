@@ -232,6 +232,7 @@
     {
       "xenoCantoId": "896211",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/896211/download",
       "pageUrl": "https://xeno-canto.org/896211",
       "recordist": "Fernando Igor de Godoy",
@@ -242,31 +243,73 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CHDHFSVVIN/896211/grey-medium.png"
     },
     {
-      "xenoCantoId": "910044",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/910044/download",
-      "pageUrl": "https://xeno-canto.org/910044",
-      "recordist": "Franco Vushurovich",
+      "xenoCantoId": "754985",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/754985/download",
+      "pageUrl": "https://xeno-canto.org/754985",
+      "recordist": "Guillermo Treboux",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "quality": "A",
-      "length": "0:02",
-      "location": "Bosque de los Constituyentes, Rosario",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VLDFGFKOWN/910044/grey-medium.png"
+      "quality": "B",
+      "length": "0:12",
+      "location": "Cañada de las Ovejas, Colón, Entre Ríos",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UZCHJCUDEF/754985/grey-medium.png"
     },
     {
-      "xenoCantoId": "531195",
+      "xenoCantoId": "54175",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/54175/download",
+      "pageUrl": "https://xeno-canto.org/54175",
+      "recordist": "Juan Pablo Culasso",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "B",
+      "length": "0:25",
+      "location": "Paraje Ecilda Paulier, San Jose",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AIIUSZLMQX/54175/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "605627",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/605627/download",
+      "pageUrl": "https://xeno-canto.org/605627",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Whitewater Draw WA, near McNeal, Cochise Co, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/605627/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "510883",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/510883/download",
+      "pageUrl": "https://xeno-canto.org/510883",
+      "recordist": "GABRIEL LEITE",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Mostardas, State of Rio Grande do Sul",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TGBFXDVERJ/510883/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "531194",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/531195/download",
-      "pageUrl": "https://xeno-canto.org/531195",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/531194/download",
+      "pageUrl": "https://xeno-canto.org/531194",
       "recordist": "Isain Contreras Rodríguez",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
+      "length": "0:10",
       "location": "Privanzas Los Mochis Ahome, Sinaloa",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/531195/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/531194/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/White-faced_ibis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3759"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3759",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Plegadis-chihi"
 }

@@ -230,32 +230,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1028088",
+      "xenoCantoId": "748107",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1028088/download",
-      "pageUrl": "https://xeno-canto.org/1028088",
-      "recordist": "James Spencer",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/748107/download",
+      "pageUrl": "https://xeno-canto.org/748107",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Offshore, East Coast",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HUEOQCQSKZ/1028088/grey-medium.png"
+      "length": "0:48",
+      "location": "Country Island, Nova Scotia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/748107/grey-medium.png"
     },
     {
-      "xenoCantoId": "1091010",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1091010/download",
-      "pageUrl": "https://xeno-canto.org/1091010",
-      "recordist": "David Boyle",
+      "xenoCantoId": "663893",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/663893/download",
+      "pageUrl": "https://xeno-canto.org/663893",
+      "recordist": "Simon S. Christiansen",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "6:52",
-      "location": "Rangatira Summit, Chatham Islands",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHOCFQHBDL/1091010/grey-medium.png"
+      "length": "0:46",
+      "location": "Mykines, Vága Municipality",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YNUCLEIZAR/663893/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "565436",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/565436/download",
+      "pageUrl": "https://xeno-canto.org/565436",
+      "recordist": "Rinse van der Vliet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Westman Islands",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RTABBRRBUZ/565436/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1086860",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1086860/download",
+      "pageUrl": "https://xeno-canto.org/1086860",
+      "recordist": "Roland Arnison",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Hirta, St Kilda, Scotland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NPLSWYWTJJ/1086860/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "423384",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/423384/download",
+      "pageUrl": "https://xeno-canto.org/423384",
+      "recordist": "David Bradley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Triangle Island, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MCNTDLDTOO/423384/grey-medium.png"
     },
     {
       "xenoCantoId": "1071128",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1071128/download",
       "pageUrl": "https://xeno-canto.org/1071128",
       "recordist": "Noah Khanti Steinberg",
@@ -268,5 +310,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Leach's_storm_petrel",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1289622"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1289622",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Hydrobates-leucorhous"
 }

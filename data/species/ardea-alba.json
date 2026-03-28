@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "635910",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/635910/download",
       "pageUrl": "https://xeno-canto.org/635910",
       "recordist": "Jarek Matusiak",
@@ -261,31 +262,73 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/635910/grey-medium.png"
     },
     {
-      "xenoCantoId": "1073122",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1073122/download",
-      "pageUrl": "https://xeno-canto.org/1073122",
-      "recordist": "Pere Josa",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "xenoCantoId": "412004",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/412004/download",
+      "pageUrl": "https://xeno-canto.org/412004",
+      "recordist": "Kent Livezey",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Baix Ebre (near  Deltebre), Tarragona, Catalonia",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DMQLDFORTG/1073122/grey-medium.png"
+      "length": "0:07",
+      "location": "Costa del Este, near Panama City",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SZFQBBYSTI/412004/grey-medium.png"
     },
     {
-      "xenoCantoId": "921101",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/921101/download",
-      "pageUrl": "https://xeno-canto.org/921101",
-      "recordist": "Vadim Ivushkin ",
+      "xenoCantoId": "247286",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/247286/download",
+      "pageUrl": "https://xeno-canto.org/247286",
+      "recordist": "Joe Klaiber",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Anakao, Toliary-II, Atsimo-Andrefana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ROPPXDGZJF/921101/grey-medium.png"
+      "length": "0:09",
+      "location": "Los Llanos - Hato el Cedral",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TNPOVFLZMY/247286/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1071100",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1071100/download",
+      "pageUrl": "https://xeno-canto.org/1071100",
+      "recordist": "Chi-Hsuan Shao",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "小金門陵水湖",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QYUGLLFSTO/1071100/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1045560",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1045560/download",
+      "pageUrl": "https://xeno-canto.org/1045560",
+      "recordist": "Erik Hansson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Äskatorp, Kungsbacka Municipality, Hallands län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OCDBHVRUCV/1045560/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "843754",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/843754/download",
+      "pageUrl": "https://xeno-canto.org/843754",
+      "recordist": "James Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Lee Point, Darwin Municipality, Northern Territory",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OHGEFOWNMD/843754/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Great_egret",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144455"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144455",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Ardea-alba"
 }

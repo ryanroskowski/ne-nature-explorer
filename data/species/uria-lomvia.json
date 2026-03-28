@@ -200,6 +200,7 @@
     {
       "xenoCantoId": "487906",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/487906/download",
       "pageUrl": "https://xeno-canto.org/487906",
       "recordist": "Stanislas Wroza",
@@ -210,19 +211,47 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/487906/grey-medium.png"
     },
     {
-      "xenoCantoId": "919853",
+      "xenoCantoId": "112847",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/112847/download",
+      "pageUrl": "https://xeno-canto.org/112847",
+      "recordist": "Thomas Sacher",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "B",
+      "length": "0:51",
+      "location": "Svalbard",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EDISSIEIIH/112847/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "817317",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/919853/download",
-      "pageUrl": "https://xeno-canto.org/919853",
-      "recordist": "Barry Edmonston",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/817317/download",
+      "pageUrl": "https://xeno-canto.org/817317",
+      "recordist": "steve",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Svalbard",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQVHGWMGMC/817317/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "663988",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/663988/download",
+      "pageUrl": "https://xeno-canto.org/663988",
+      "recordist": "Stein Ø. Nilsen",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:22",
-      "location": "Vardo, Vardø kommune, Finnmark",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FHQVLXJQKW/919853/grey-medium.png"
+      "length": "1:17",
+      "location": "Spitsbergen, Svalbard",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/663988/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Thick-billed_murre",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4516"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4516",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Uria-lomvia"
 }

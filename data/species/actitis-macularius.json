@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "1001183",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1001183/download",
       "pageUrl": "https://xeno-canto.org/1001183",
       "recordist": "Manuel Sánchez-Nivicela",
@@ -239,31 +240,73 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBFFGHPZZQ/1001183/grey-medium.png"
     },
     {
-      "xenoCantoId": "1032430",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1032430/download",
-      "pageUrl": "https://xeno-canto.org/1032430",
-      "recordist": "Gean Carlo Valdés",
-      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "xenoCantoId": "559004",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/559004/download",
+      "pageUrl": "https://xeno-canto.org/559004",
+      "recordist": "Ron Overholtz",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Islas secas",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WYURGTBSJE/1032430/grey-medium.png"
+      "length": "0:10",
+      "location": "Summit Lake, Lassen NP Shasta County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OCGLDSUVRE/559004/grey-medium.png"
     },
     {
-      "xenoCantoId": "1014071",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1014071/download",
-      "pageUrl": "https://xeno-canto.org/1014071",
+      "xenoCantoId": "415533",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/415533/download",
+      "pageUrl": "https://xeno-canto.org/415533",
+      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Ipojuca, Pernambuco",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/415533/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "844793",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/844793/download",
+      "pageUrl": "https://xeno-canto.org/844793",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014071/grey-medium.png"
+      "length": "0:32",
+      "location": "Arrondissement de Quimper (near  Cléden-Cap-Sizun), Finistere, Brittany",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/844793/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "694087",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/694087/download",
+      "pageUrl": "https://xeno-canto.org/694087",
+      "recordist": "Mauricio Cuéllar-Ramírez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Playón Rio Orteguaza - Vereda Canelos",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JAPOPUHKWS/694087/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "613665",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/613665/download",
+      "pageUrl": "https://xeno-canto.org/613665",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Mazunte, Santa María Tonameca, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/613665/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Spotted_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/72458"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/72458",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Actitis-macularius"
 }

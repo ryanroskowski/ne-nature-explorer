@@ -244,20 +244,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "831382",
+      "xenoCantoId": "653595",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/831382/download",
-      "pageUrl": "https://xeno-canto.org/831382",
-      "recordist": "Francesco Sottile",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/653595/download",
+      "pageUrl": "https://xeno-canto.org/653595",
+      "recordist": "Elias A. Ryberg",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Rossano, Provincia di Cosenza, Calabria",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ITHRUQEQCF/831382/grey-medium.png"
+      "length": "0:18",
+      "location": "Folldal kommune, Innlandet",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFGQDPLDEC/653595/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "567575",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/567575/download",
+      "pageUrl": "https://xeno-canto.org/567575",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Stekenjokk, Lappland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/567575/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "560298",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/560298/download",
+      "pageUrl": "https://xeno-canto.org/560298",
+      "recordist": "AUDEVARD Aurélien",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Hyères, Var, Provence-Alpes-Côte d'Azur",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/560298/grey-medium.png"
     },
     {
       "xenoCantoId": "1033971",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1033971/download",
       "pageUrl": "https://xeno-canto.org/1033971",
       "recordist": "Lars Edenius",
@@ -268,8 +296,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/1033971/grey-medium.png"
     },
     {
+      "xenoCantoId": "1010743",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1010743/download",
+      "pageUrl": "https://xeno-canto.org/1010743",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:55",
+      "location": "Stekenjokk, Lappland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/1010743/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1002342",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1002342/download",
       "pageUrl": "https://xeno-canto.org/1002342",
       "recordist": "Eetu Paljakka",
@@ -282,5 +324,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_ringed_plover",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4801"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4801",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Charadrius-hiaticula"
 }

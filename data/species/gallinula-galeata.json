@@ -227,32 +227,74 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1039897",
+      "xenoCantoId": "1012800",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1039897/download",
-      "pageUrl": "https://xeno-canto.org/1039897",
-      "recordist": "Emily Ritter",
-      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "quality": "A",
-      "length": "0:04",
-      "location": "Stockton (near  Stevens Point), Portage County, Wisconsin",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VOQEUPHWEI/1039897/grey-medium.png"
-    },
-    {
-      "xenoCantoId": "1032065",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1032065/download",
-      "pageUrl": "https://xeno-canto.org/1032065",
-      "recordist": "Jacob Wijpkema",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1012800/download",
+      "pageUrl": "https://xeno-canto.org/1012800",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:04",
-      "location": "Lagunillas, Cordillera, Santa Cruz Department",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WETAASKWUP/1032065/grey-medium.png"
+      "length": "0:10",
+      "location": "Baie-du-Febvre, Nicolet-Yamaska, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012800/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1008509",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1008509/download",
+      "pageUrl": "https://xeno-canto.org/1008509",
+      "recordist": "Franco Vushurovich",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Bosque de los Constituyentes, Rosario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VLDFGFKOWN/1008509/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "839017",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/839017/download",
+      "pageUrl": "https://xeno-canto.org/839017",
+      "recordist": "Francisco contreras",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Laguna de Butare",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KSTJLKZWMR/839017/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1018760",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1018760/download",
+      "pageUrl": "https://xeno-canto.org/1018760",
+      "recordist": "Marcos E. Sosa",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:45",
+      "location": "Reserva Urbana Arroyo Itá, Posadas, Misiones",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DWSIIBXQEQ/1018760/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "962933",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/962933/download",
+      "pageUrl": "https://xeno-canto.org/962933",
+      "recordist": "Hans Matheve",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Laguna Cartagena",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VROUALCTKG/962933/grey-medium.png"
     },
     {
       "xenoCantoId": "777999",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/777999/download",
       "pageUrl": "https://xeno-canto.org/777999",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_gallinule",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144479"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144479",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Gallinula-galeata"
 }

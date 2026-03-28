@@ -190,20 +190,35 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "620158",
+      "xenoCantoId": "620155",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/620158/download",
-      "pageUrl": "https://xeno-canto.org/620158",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/620155/download",
+      "pageUrl": "https://xeno-canto.org/620155",
       "recordist": "AUDEVARD Aurélien",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
+      "length": "0:15",
       "location": "Hikueru, Îles Tuamotu, Îles Tuamotu-Gambier",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/620158/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/620155/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "589457",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/589457/download",
+      "pageUrl": "https://xeno-canto.org/589457",
+      "recordist": "Simon Elliott",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Bird Island",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FFFADKCCII/589457/grey-medium.png"
     },
     {
       "xenoCantoId": "766526",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/766526/download",
       "pageUrl": "https://xeno-canto.org/766526",
       "recordist": "Craig Robertson",
@@ -216,5 +231,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sooty_tern",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144525"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144525",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Onychoprion-fuscatus"
 }

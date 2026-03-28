@@ -190,20 +190,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "979686",
+      "xenoCantoId": "487678",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/979686/download",
-      "pageUrl": "https://xeno-canto.org/979686",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/487678/download",
+      "pageUrl": "https://xeno-canto.org/487678",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:30",
-      "location": "Reserve Cap Sizun (near  Goulien), Finistere, Brittany",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/979686/grey-medium.png"
+      "length": "0:36",
+      "location": "Grundarfjörður",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/487678/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "625094",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/625094/download",
+      "pageUrl": "https://xeno-canto.org/625094",
+      "recordist": "Paul Lynch",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:53",
+      "location": "Drumanagh, County Dublin",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BLXNBOBSQB/625094/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "134236",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/134236/download",
+      "pageUrl": "https://xeno-canto.org/134236",
+      "recordist": "Fernand DEROUSSEN",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "quality": "B",
+      "length": "0:42",
+      "location": "Fréhel, Cotes-d'Armor, Brittany",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UXGZWVYDFE/134236/grey-medium.png"
     },
     {
       "xenoCantoId": "1087303",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1087303/download",
       "pageUrl": "https://xeno-canto.org/1087303",
       "recordist": "Roland Arnison",
@@ -214,8 +242,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NPLSWYWTJJ/1087303/grey-medium.png"
     },
     {
+      "xenoCantoId": "1031275",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1031275/download",
+      "pageUrl": "https://xeno-canto.org/1031275",
+      "recordist": "Meena Haribal",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Cruden (near  Cruden Bay), Aberdeenshire, Scotland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RBYDYNRSJV/1031275/grey-medium.png"
+    },
+    {
       "xenoCantoId": "519734",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/519734/download",
       "pageUrl": "https://xeno-canto.org/519734",
       "recordist": "Leif Arvidsson",
@@ -228,5 +270,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_fulmar",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4180"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4180",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Fulmarus-glacialis"
 }

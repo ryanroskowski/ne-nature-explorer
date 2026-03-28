@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "745965",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/745965/download",
       "pageUrl": "https://xeno-canto.org/745965",
       "recordist": "CHRIS DRYSDALE",
@@ -237,9 +238,23 @@
       "length": "1:07",
       "location": "Leach Lake, Creston North NDB W6 233 (near  Wynndel), Central Kootenay, British Columbia",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YXSIFHNIGH/745965/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "638603",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/638603/download",
+      "pageUrl": "https://xeno-canto.org/638603",
+      "recordist": "Bruce Lagerquist",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Cassimer Bar, Okanogan County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/638603/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Double-crested_cormorant",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1454382"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1454382",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Nannopterum-auritum"
 }

@@ -237,6 +237,7 @@
     {
       "xenoCantoId": "837465",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/837465/download",
       "pageUrl": "https://xeno-canto.org/837465",
       "recordist": "Bruce Lagerquist",
@@ -247,20 +248,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/837465/grey-medium.png"
     },
     {
-      "xenoCantoId": "770049",
+      "xenoCantoId": "581827",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/581827/download",
+      "pageUrl": "https://xeno-canto.org/581827",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Otay Lakes, San Diego Co., California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/581827/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "527693",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/527693/download",
+      "pageUrl": "https://xeno-canto.org/527693",
+      "recordist": "Thomas G. Graves",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Santa Margarita Lake, San Luis Obispo, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KGOCOOKTTU/527693/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "565880",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/770049/download",
-      "pageUrl": "https://xeno-canto.org/770049",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/565880/download",
+      "pageUrl": "https://xeno-canto.org/565880",
       "recordist": "Richard E. Webster",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "15:13",
-      "location": "Elephant Butte Lake, Sierra County, New Mexico",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/770049/grey-medium.png"
+      "length": "0:46",
+      "location": "Bear River Migratory Bird Refuge, Box Elder County, UT",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/565880/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "509646",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/509646/download",
+      "pageUrl": "https://xeno-canto.org/509646",
+      "recordist": "Phoenix Birder",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Wenden, La Paz County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UKNISVRBBF/509646/grey-medium.png"
     },
     {
       "xenoCantoId": "980150",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/980150/download",
       "pageUrl": "https://xeno-canto.org/980150",
       "recordist": "Matthew L. Brady",
@@ -273,5 +315,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Western_grebe",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4235"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4235",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aechmophorus-occidentalis"
 }

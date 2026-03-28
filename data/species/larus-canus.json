@@ -292,20 +292,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1080987",
+      "xenoCantoId": "859064",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1080987/download",
-      "pageUrl": "https://xeno-canto.org/1080987",
-      "recordist": "Petter Westberg",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/859064/download",
+      "pageUrl": "https://xeno-canto.org/859064",
+      "recordist": "Maarten Sluijter",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Klockarnäs, Falun Municipality, Dalarnas län",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1080987/grey-medium.png"
+      "length": "0:35",
+      "location": "Burgh-Haamstede, Schouwen-Duiveland, Zeeland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UWFNNKHNAE/859064/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "687928",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/687928/download",
+      "pageUrl": "https://xeno-canto.org/687928",
+      "recordist": "Niels Van Doninck",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:05",
+      "location": "Ulsváhke, Hamarøy, Nordland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MHVQXRLBKS/687928/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "575730",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/575730/download",
+      "pageUrl": "https://xeno-canto.org/575730",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:06",
+      "location": "Matsalu National Park, Ridala Parish, Läänemaa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/575730/grey-medium.png"
     },
     {
       "xenoCantoId": "1080437",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1080437/download",
       "pageUrl": "https://xeno-canto.org/1080437",
       "recordist": "Marc Anderson",
@@ -316,8 +344,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1080437/grey-medium.png"
     },
     {
+      "xenoCantoId": "1034919",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1034919/download",
+      "pageUrl": "https://xeno-canto.org/1034919",
+      "recordist": "Esperanza Poveda",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:20",
+      "location": "Oxelösund, Oxelösund Municipality, Södermanlands län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PRVFBYIQYZ/1034919/grey-medium.png"
+    },
+    {
       "xenoCantoId": "822454",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/822454/download",
       "pageUrl": "https://xeno-canto.org/822454",
       "recordist": "Esperanza Poveda",
@@ -330,5 +372,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4356"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4356",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Larus-canus"
 }

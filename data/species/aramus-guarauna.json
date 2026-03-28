@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1082217",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1082217/download",
       "pageUrl": "https://xeno-canto.org/1082217",
       "recordist": "José María Loaiza B.",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FPXOZOPHTA/1082217/grey-medium.png"
     },
     {
+      "xenoCantoId": "1012157",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1012157/download",
+      "pageUrl": "https://xeno-canto.org/1012157",
+      "recordist": "Marcos E. Sosa",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:59",
+      "location": "Reserva Natural Urutaú, Misiones Province",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DWSIIBXQEQ/1012157/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "991406",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/991406/download",
+      "pageUrl": "https://xeno-canto.org/991406",
+      "recordist": "Fabrício Grigolin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "São José do Rio Preto, São José do Rio Preto, State of São Paulo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DPGAIBCQBY/991406/grey-medium.png"
+    },
+    {
       "xenoCantoId": "959534",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/959534/download",
       "pageUrl": "https://xeno-canto.org/959534",
       "recordist": "Alejandra",
@@ -246,19 +274,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FACJRVWRIS/959534/grey-medium.png"
     },
     {
-      "xenoCantoId": "657831",
+      "xenoCantoId": "955585",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/955585/download",
+      "pageUrl": "https://xeno-canto.org/955585",
+      "recordist": "Luisa",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "Posadas, Capital, Misiones",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AJKUAQEZTG/955585/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "596078",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/657831/download",
-      "pageUrl": "https://xeno-canto.org/657831",
-      "recordist": "Dante Buzzetti",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/596078/download",
+      "pageUrl": "https://xeno-canto.org/596078",
+      "recordist": "Marcelo da Rocha",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "B",
-      "length": "4:01",
-      "location": "Rio Pixaim, Poconé, Mato Grosso",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YOXWKYFZAP/657831/grey-medium.png"
+      "length": "0:32",
+      "location": "Foz do Iguaçu, Foz do Iguaçu, Paraná",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LWQBBYMIQQ/596078/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Limpkin",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aramus-guarauna"
 }

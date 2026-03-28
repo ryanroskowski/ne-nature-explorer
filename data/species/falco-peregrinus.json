@@ -257,6 +257,7 @@
     {
       "xenoCantoId": "985567",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/985567/download",
       "pageUrl": "https://xeno-canto.org/985567",
       "recordist": "Gil Lissens",
@@ -267,8 +268,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OZGQBRPBWB/985567/grey-medium.png"
     },
     {
+      "xenoCantoId": "757590",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/757590/download",
+      "pageUrl": "https://xeno-canto.org/757590",
+      "recordist": "William Visser",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Oud-Beijerland, Hoeksche Waard, South Holland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VDKQKVKMIJ/757590/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "689369",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/689369/download",
+      "pageUrl": "https://xeno-canto.org/689369",
+      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:08",
+      "location": "Palmeiras de Goiás, Palmeiras de Goiás, Goiás",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/689369/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1073395",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1073395/download",
       "pageUrl": "https://xeno-canto.org/1073395",
       "recordist": "Jessica Peruzzo",
@@ -279,8 +307,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VMQQRCTSHV/1073395/grey-medium.png"
     },
     {
+      "xenoCantoId": "1055457",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1055457/download",
+      "pageUrl": "https://xeno-canto.org/1055457",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Pointe du Van, Cléden-Cap-Sizun, Finistere, Bretagne",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1055457/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1059390",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1059390/download",
       "pageUrl": "https://xeno-canto.org/1059390",
       "recordist": "Denis Dujardin",
@@ -293,5 +335,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Peregrine_falcon",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4647"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4647",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Falco-peregrinus"
 }

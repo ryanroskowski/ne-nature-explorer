@@ -230,20 +230,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1022527",
+      "xenoCantoId": "1022525",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1022527/download",
-      "pageUrl": "https://xeno-canto.org/1022527",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1022525/download",
+      "pageUrl": "https://xeno-canto.org/1022525",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:53",
+      "length": "1:01",
       "location": "Tadoussac dunes",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1022527/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1022525/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1003152",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1003152/download",
+      "pageUrl": "https://xeno-canto.org/1003152",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Mount Laguna, Desert View Rd, San Diego County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/1003152/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "984091",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/984091/download",
+      "pageUrl": "https://xeno-canto.org/984091",
+      "recordist": "Jim Berry",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Randolph, Cattaraugus County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BMFJZMNPEG/984091/grey-medium.png"
     },
     {
       "xenoCantoId": "1014334",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014334/download",
       "pageUrl": "https://xeno-canto.org/1014334",
       "recordist": "Stanislas Wroza",
@@ -254,8 +282,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014334/grey-medium.png"
     },
     {
+      "xenoCantoId": "614293",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/614293/download",
+      "pageUrl": "https://xeno-canto.org/614293",
+      "recordist": "Russ Wigh",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Savannah, Chatham County, Georgia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YBJUQSUJFZ/614293/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014549",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014549/download",
       "pageUrl": "https://xeno-canto.org/1014549",
       "recordist": "Stanislas Wroza",
@@ -268,5 +310,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Purple_finch",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199841"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199841",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Haemorhous-purpureus"
 }

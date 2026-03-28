@@ -252,6 +252,7 @@
     {
       "xenoCantoId": "674597",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/674597/download",
       "pageUrl": "https://xeno-canto.org/674597",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -262,20 +263,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/674597/grey-medium.png"
     },
     {
-      "xenoCantoId": "1028819",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1028819/download",
-      "pageUrl": "https://xeno-canto.org/1028819",
-      "recordist": "Greg Irving",
+      "xenoCantoId": "308302",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/308302/download",
+      "pageUrl": "https://xeno-canto.org/308302",
+      "recordist": "Orlando Jarquín G.",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "4:59",
-      "location": "Wenas Campground, WA",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1028819/grey-medium.png"
+      "length": "0:09",
+      "location": "Choluteca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FJVXXGLFTR/308302/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1046261",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1046261/download",
+      "pageUrl": "https://xeno-canto.org/1046261",
+      "recordist": "Pedro Rinaldi",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:15",
+      "location": "Mangrullo, Departamento de Cerro Largo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VKQHDAFQDZ/1046261/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1010600",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1010600/download",
+      "pageUrl": "https://xeno-canto.org/1010600",
+      "recordist": "Scott Crabtree",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:56",
+      "location": "Sabino Canyon National Recreation Area, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/1010600/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "994755",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/994755/download",
+      "pageUrl": "https://xeno-canto.org/994755",
+      "recordist": "FREDERIC Lionel",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Cienaga de Zapata--San Tomas, Matanzas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/994755/grey-medium.png"
     },
     {
       "xenoCantoId": "1013542",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1013542/download",
       "pageUrl": "https://xeno-canto.org/1013542",
       "recordist": "Stanislas Wroza",
@@ -288,5 +330,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/American_kestrel",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4665"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4665",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Falco-sparverius"
 }

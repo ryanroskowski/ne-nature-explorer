@@ -370,6 +370,7 @@
     {
       "xenoCantoId": "1082098",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1082098/download",
       "pageUrl": "https://xeno-canto.org/1082098",
       "recordist": "David Darrell-Lambert",
@@ -380,8 +381,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1082098/grey-medium.png"
     },
     {
+      "xenoCantoId": "1013870",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1013870/download",
+      "pageUrl": "https://xeno-canto.org/1013870",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:00",
+      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013870/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "915932",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/915932/download",
+      "pageUrl": "https://xeno-canto.org/915932",
+      "recordist": "Meena Haribal",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:06",
+      "location": "Black Brook (near  Au Sable Forks), Clinton County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RBYDYNRSJV/915932/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1013947",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1013947/download",
       "pageUrl": "https://xeno-canto.org/1013947",
       "recordist": "Stanislas Wroza",
@@ -392,8 +420,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013947/grey-medium.png"
     },
     {
+      "xenoCantoId": "872269",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/872269/download",
+      "pageUrl": "https://xeno-canto.org/872269",
+      "recordist": "Alán Palacios",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:35",
+      "location": "Localidad Sendero Manglar al Este de Sisal",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QLIQOZZWBD/872269/grey-medium.png"
+    },
+    {
       "xenoCantoId": "327672",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/327672/download",
       "pageUrl": "https://xeno-canto.org/327672",
       "recordist": "Antonio Xeira",
@@ -406,5 +448,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Northern_parula",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145233"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145233",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-americana"
 }

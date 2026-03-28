@@ -216,6 +216,7 @@
     {
       "xenoCantoId": "473868",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/473868/download",
       "pageUrl": "https://xeno-canto.org/473868",
       "recordist": "Albert Lastukhin",
@@ -226,8 +227,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/473868/grey-medium.png"
     },
     {
+      "xenoCantoId": "360691",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/360691/download",
+      "pageUrl": "https://xeno-canto.org/360691",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "2:13",
+      "location": "Auffargis, Yvelines, Île-de-France",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/360691/grey-medium.png"
+    },
+    {
       "xenoCantoId": "824070",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/824070/download",
       "pageUrl": "https://xeno-canto.org/824070",
       "recordist": "Bo Shunqi 薄顺奇",
@@ -238,8 +253,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YNOAMCSSHX/824070/grey-medium.png"
     },
     {
+      "xenoCantoId": "1090778",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1090778/download",
+      "pageUrl": "https://xeno-canto.org/1090778",
+      "recordist": "Camille Vacher",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "quality": "B",
+      "length": "0:32",
+      "location": "Arrondissement de Lille (near  Cysoing), Nord, Hauts-de-France",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LTIHWHLJQI/1090778/grey-medium.png"
+    },
+    {
       "xenoCantoId": "182997",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/182997/download",
       "pageUrl": "https://xeno-canto.org/182997",
       "recordist": "Frank Lambert",
@@ -252,5 +281,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Reeves's_pheasant",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1154"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1154",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Syrmaticus-reevesii"
 }

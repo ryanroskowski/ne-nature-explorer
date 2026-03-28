@@ -221,6 +221,7 @@
     {
       "xenoCantoId": "736756",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/736756/download",
       "pageUrl": "https://xeno-canto.org/736756",
       "recordist": "Valerie Heemstra",
@@ -231,8 +232,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/736756/grey-medium.png"
     },
     {
+      "xenoCantoId": "253709",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/253709/download",
+      "pageUrl": "https://xeno-canto.org/253709",
+      "recordist": "Elias Aristides Elias",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:18",
+      "location": "Arcata, Humboldt County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLBLXAJUMV/253709/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "585719",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/585719/download",
+      "pageUrl": "https://xeno-canto.org/585719",
+      "recordist": "Scott Connop",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "2:41",
+      "location": "Perch Creek MA, Sarnia, Lambton County, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPJWLCKGXS/585719/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014824",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014824/download",
       "pageUrl": "https://xeno-canto.org/1014824",
       "recordist": "Stanislas Wroza",
@@ -243,19 +271,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014824/grey-medium.png"
     },
     {
-      "xenoCantoId": "1014821",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1014821/download",
-      "pageUrl": "https://xeno-canto.org/1014821",
-      "recordist": "Stanislas Wroza",
+      "xenoCantoId": "957415",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/957415/download",
+      "pageUrl": "https://xeno-canto.org/957415",
+      "recordist": "Scott Olmstead",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "Marais Léon-Provancher, Portneuf, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014821/grey-medium.png"
+      "length": "0:10",
+      "location": "Nuevo Vigía, Comarca Emberá-Wounaan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/957415/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "144306",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/144306/download",
+      "pageUrl": "https://xeno-canto.org/144306",
+      "recordist": "Russ Wigh",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "1:10",
+      "location": "Savannah, Chatham, Georgia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YBJUQSUJFZ/144306/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Green_heron",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5020"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5020",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Butorides-virescens"
 }

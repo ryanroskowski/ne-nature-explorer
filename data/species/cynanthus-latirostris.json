@@ -168,6 +168,7 @@
     {
       "xenoCantoId": "619062",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/619062/download",
       "pageUrl": "https://xeno-canto.org/619062",
       "recordist": "Steve Hampton",
@@ -178,8 +179,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BUGKVZBWKF/619062/grey-medium.png"
     },
     {
+      "xenoCantoId": "567774",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/567774/download",
+      "pageUrl": "https://xeno-canto.org/567774",
+      "recordist": "Isain Contreras Rodríguez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Topolobampo, Ahome, Sinaloa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/567774/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "616219",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/616219/download",
+      "pageUrl": "https://xeno-canto.org/616219",
+      "recordist": "Dan Lane",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "B",
+      "length": "1:24",
+      "location": "12 (near  Baton Rouge), East Baton Rouge Parish, Louisiana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WOEAFQRMUD/616219/grey-medium.png"
+    },
+    {
       "xenoCantoId": "999602",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/999602/download",
       "pageUrl": "https://xeno-canto.org/999602",
       "recordist": "David Tattersley",
@@ -190,19 +218,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/999602/grey-medium.png"
     },
     {
-      "xenoCantoId": "566855",
+      "xenoCantoId": "877615",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/877615/download",
+      "pageUrl": "https://xeno-canto.org/877615",
+      "recordist": "Thomas Miko",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Glendora, Los Angeles County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NQUVCCZIBR/877615/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "564664",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/566855/download",
-      "pageUrl": "https://xeno-canto.org/566855",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/564664/download",
+      "pageUrl": "https://xeno-canto.org/564664",
       "recordist": "Isain Contreras Rodríguez",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:01",
-      "location": "Topolobampo, Ahome, Sinaloa",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/566855/grey-medium.png"
+      "length": "0:28",
+      "location": "Ahome, Sinaloa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/564664/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Broad-billed_hummingbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6141"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6141",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Cynanthus-latirostris"
 }

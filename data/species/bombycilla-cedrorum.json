@@ -237,6 +237,7 @@
     {
       "xenoCantoId": "1005316",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1005316/download",
       "pageUrl": "https://xeno-canto.org/1005316",
       "recordist": "Rory Nefdt",
@@ -247,8 +248,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1005316/grey-medium.png"
     },
     {
+      "xenoCantoId": "771668",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/771668/download",
+      "pageUrl": "https://xeno-canto.org/771668",
+      "recordist": "Jeffrey Mann",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Phil Hardberger Park (near  San Antonio), Bexar County, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTVTNLRFPX/771668/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "609497",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/609497/download",
+      "pageUrl": "https://xeno-canto.org/609497",
+      "recordist": "Jorge Medina-Madrid",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Panamá, Panamá, Panamá",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KGNMDDSWVM/609497/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1056063",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1056063/download",
       "pageUrl": "https://xeno-canto.org/1056063",
       "recordist": "Denis Dujardin",
@@ -259,8 +287,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SMUORWOKLJ/1056063/grey-medium.png"
     },
     {
+      "xenoCantoId": "1014831",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1014831/download",
+      "pageUrl": "https://xeno-canto.org/1014831",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Marais Léon-Provancher, Portneuf, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014831/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014353",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014353/download",
       "pageUrl": "https://xeno-canto.org/1014353",
       "recordist": "Stanislas Wroza",
@@ -273,5 +315,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cedar_waxwing",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7428"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7428",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Bombycilla-cedrorum"
 }

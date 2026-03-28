@@ -300,8 +300,22 @@
   ],
   "audio": [
     {
+      "xenoCantoId": "128000",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/128000/download",
+      "pageUrl": "https://xeno-canto.org/128000",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Ostrów Lubelski (near  Gmina Ostrów Lubelski), Lubartów County, Lublin Voivodeship",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/128000/grey-medium.png"
+    },
+    {
       "xenoCantoId": "322579",
       "type": "song",
+      "label": "Song 2",
       "audioUrl": "https://xeno-canto.org/322579/download",
       "pageUrl": "https://xeno-canto.org/322579",
       "recordist": "Jens Kirkeby",
@@ -312,8 +326,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YKITMEIRRE/322579/grey-medium.png"
     },
     {
+      "xenoCantoId": "132429",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/132429/download",
+      "pageUrl": "https://xeno-canto.org/132429",
+      "recordist": "Herman van der Meer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "quality": "A",
+      "length": "1:44",
+      "location": "Zuidoost Singelsgracht e.o., Den Haag, ZH",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OXKHFMOYKQ/132429/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1065457",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1065457/download",
       "pageUrl": "https://xeno-canto.org/1065457",
       "recordist": "Francesco Sottile",
@@ -324,8 +352,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ITHRUQEQCF/1065457/grey-medium.png"
     },
     {
+      "xenoCantoId": "1029296",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1029296/download",
+      "pageUrl": "https://xeno-canto.org/1029296",
+      "recordist": "Agris Celmins",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "West Park, Wolverhampton",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AQWMZXSOED/1029296/grey-medium.png"
+    },
+    {
       "xenoCantoId": "804196",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/804196/download",
       "pageUrl": "https://xeno-canto.org/804196",
       "recordist": "Sven Normant",
@@ -338,5 +380,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lesser_black-backed_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4381"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4381",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Larus-fuscus"
 }

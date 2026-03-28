@@ -334,20 +334,35 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1050782",
+      "xenoCantoId": "1041776",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1050782/download",
-      "pageUrl": "https://xeno-canto.org/1050782",
-      "recordist": "MILLON Xavier",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1041776/download",
+      "pageUrl": "https://xeno-canto.org/1041776",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Spurn Bird Observatory, Kilnsea",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1041776/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "765874",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/765874/download",
+      "pageUrl": "https://xeno-canto.org/765874",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Sablière des Séguines",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VYMOOIASCL/1050782/grey-medium.png"
+      "length": "0:10",
+      "location": "Zavkhan, Uvs",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/765874/grey-medium.png"
     },
     {
       "xenoCantoId": "296223",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/296223/download",
       "pageUrl": "https://xeno-canto.org/296223",
       "recordist": "Marco Dragonetti",
@@ -360,5 +375,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Curlew_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3863"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3863",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-ferruginea"
 }

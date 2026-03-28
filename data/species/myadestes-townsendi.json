@@ -214,20 +214,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1044204",
+      "xenoCantoId": "961985",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1044204/download",
-      "pageUrl": "https://xeno-canto.org/1044204",
-      "recordist": "Bill Pyle",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/961985/download",
+      "pageUrl": "https://xeno-canto.org/961985",
+      "recordist": "A Richardson",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:18",
-      "location": "Trail Creek Recreation Area, McAllister, Madison County, Montana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DUWDSSWZPN/1044204/grey-medium.png"
+      "length": "0:25",
+      "location": "White Sulphur Springs, Meagher County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XBUQGDEYSJ/961985/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "783003",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/783003/download",
+      "pageUrl": "https://xeno-canto.org/783003",
+      "recordist": "Patrice Mathieu",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Whitehorse, Yukon",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IGXRFYAGNH/783003/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "775752",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/775752/download",
+      "pageUrl": "https://xeno-canto.org/775752",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:18",
+      "location": "Silver Creek, Cave Creek Canyon, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/775752/grey-medium.png"
     },
     {
       "xenoCantoId": "777069",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/777069/download",
       "pageUrl": "https://xeno-canto.org/777069",
       "recordist": "Paul Driver",
@@ -236,9 +264,23 @@
       "length": "0:32",
       "location": "Corn Creek, Clark, Nevada",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/777069/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "689825",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/689825/download",
+      "pageUrl": "https://xeno-canto.org/689825",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:23",
+      "location": "Moorcroft, Crook County, Wyoming",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/689825/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Townsend's_solitaire",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12951"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12951",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Myadestes-townsendi"
 }

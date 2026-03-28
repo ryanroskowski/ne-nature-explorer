@@ -244,20 +244,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "962373",
+      "xenoCantoId": "939377",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/962373/download",
-      "pageUrl": "https://xeno-canto.org/962373",
-      "recordist": "A Richardson",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/939377/download",
+      "pageUrl": "https://xeno-canto.org/939377",
+      "recordist": "Sue Riffe",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:02",
-      "location": "Monticello, San Juan County, Utah",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XBUQGDEYSJ/962373/grey-medium.png"
+      "length": "1:07",
+      "location": "Deadman Gulch, Boulder County, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/939377/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "935738",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/935738/download",
+      "pageUrl": "https://xeno-canto.org/935738",
+      "recordist": "Whitney Neufeld-Kaiser",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:49",
+      "location": "Wenatchee, Chelan County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQLSWYNMJK/935738/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "892935",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/892935/download",
+      "pageUrl": "https://xeno-canto.org/892935",
+      "recordist": "Ned Bohman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:56",
+      "location": "Spring Creek, Elko County, Nevada",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LRBJKOMLDW/892935/grey-medium.png"
     },
     {
       "xenoCantoId": "880122",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/880122/download",
       "pageUrl": "https://xeno-canto.org/880122",
       "recordist": "Peter Boesman",
@@ -268,8 +296,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/880122/grey-medium.png"
     },
     {
+      "xenoCantoId": "860390",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/860390/download",
+      "pageUrl": "https://xeno-canto.org/860390",
+      "recordist": "Molly Jacobson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Hollis, Hillsborough County, New Hampshire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MXNGTEHLJJ/860390/grey-medium.png"
+    },
+    {
       "xenoCantoId": "546216",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/546216/download",
       "pageUrl": "https://xeno-canto.org/546216",
       "recordist": "Isain Contreras Rodríguez",
@@ -282,5 +324,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/MacGillivray's_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145223"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145223",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Geothlypis-tolmiei"
 }

@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "422353",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/422353/download",
       "pageUrl": "https://xeno-canto.org/422353",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -241,6 +242,7 @@
     {
       "xenoCantoId": "917558",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/917558/download",
       "pageUrl": "https://xeno-canto.org/917558",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -251,8 +253,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/917558/grey-medium.png"
     },
     {
+      "xenoCantoId": "573735",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/573735/download",
+      "pageUrl": "https://xeno-canto.org/573735",
+      "recordist": "Dante Buzzetti",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Guacuri, Itupeva, São Paulo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YOXWKYFZAP/573735/grey-medium.png"
+    },
+    {
       "xenoCantoId": "929989",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/929989/download",
       "pageUrl": "https://xeno-canto.org/929989",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -265,5 +281,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black_vulture",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4765"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4765",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Coragyps-atratus"
 }

@@ -265,20 +265,35 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1013382",
+      "xenoCantoId": "1013381",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1013382/download",
-      "pageUrl": "https://xeno-canto.org/1013382",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1013381/download",
+      "pageUrl": "https://xeno-canto.org/1013381",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
+      "length": "0:12",
       "location": "Charlevoix (near  Saint-Joseph-de-la-Rive), Capitale-Nationale, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013382/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013381/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "626707",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/626707/download",
+      "pageUrl": "https://xeno-canto.org/626707",
+      "recordist": "William Whitehead",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "B",
+      "length": "0:47",
+      "location": "Bernards (near  Basking Ridge), Somerset County, New Jersey",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MGVGHKBMIZ/626707/grey-medium.png"
     },
     {
       "xenoCantoId": "1013388",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1013388/download",
       "pageUrl": "https://xeno-canto.org/1013388",
       "recordist": "Stanislas Wroza",
@@ -289,19 +304,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013388/grey-medium.png"
     },
     {
-      "xenoCantoId": "1013386",
+      "xenoCantoId": "941129",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/941129/download",
+      "pageUrl": "https://xeno-canto.org/941129",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:59",
+      "location": "San Bernardino National Wildlife Refuge, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/941129/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013385",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1013386/download",
-      "pageUrl": "https://xeno-canto.org/1013386",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1013385/download",
+      "pageUrl": "https://xeno-canto.org/1013385",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "4:26",
+      "length": "0:52",
       "location": "Charlevoix (near  Saint-Joseph-de-la-Rive), Capitale-Nationale, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013386/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013385/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ring-necked_duck",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7044"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7044",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aythya-collaris"
 }

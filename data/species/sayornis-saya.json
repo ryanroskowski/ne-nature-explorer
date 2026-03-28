@@ -232,6 +232,7 @@
     {
       "xenoCantoId": "1078494",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1078494/download",
       "pageUrl": "https://xeno-canto.org/1078494",
       "recordist": "Richard E. Webster",
@@ -242,8 +243,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1078494/grey-medium.png"
     },
     {
+      "xenoCantoId": "1000433",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1000433/download",
+      "pageUrl": "https://xeno-canto.org/1000433",
+      "recordist": "David Tattersley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Thrurmond Airport (PVT) (near  Animas), Hidalgo County, New Mexico",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/1000433/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "894649",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/894649/download",
+      "pageUrl": "https://xeno-canto.org/894649",
+      "recordist": "Patrick J. Blake",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Calico Basin, Red Rock Canyon NCA, Las Vegas, Clark County, Nevada",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HCLTWDSPRI/894649/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1078492",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1078492/download",
       "pageUrl": "https://xeno-canto.org/1078492",
       "recordist": "Richard E. Webster",
@@ -254,8 +282,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1078492/grey-medium.png"
     },
     {
+      "xenoCantoId": "872097",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/872097/download",
+      "pageUrl": "https://xeno-canto.org/872097",
+      "recordist": "Scott Olmstead",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Dreamcatcher Inn, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/872097/grey-medium.png"
+    },
+    {
       "xenoCantoId": "388984",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/388984/download",
       "pageUrl": "https://xeno-canto.org/388984",
       "recordist": "Christopher Adler",
@@ -268,5 +310,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Say's_phoebe",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17009"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17009",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sayornis-saya"
 }

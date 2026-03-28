@@ -344,6 +344,7 @@
     {
       "xenoCantoId": "1060874",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1060874/download",
       "pageUrl": "https://xeno-canto.org/1060874",
       "recordist": "Benjamin Drillat",
@@ -354,20 +355,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/1060874/grey-medium.png"
     },
     {
-      "xenoCantoId": "1051349",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1051349/download",
-      "pageUrl": "https://xeno-canto.org/1051349",
-      "recordist": "Abdessamad Ennoury",
+      "xenoCantoId": "987132",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/987132/download",
+      "pageUrl": "https://xeno-canto.org/987132",
+      "recordist": "Franco Vushurovich",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
-      "location": "Bouguargouh, Settat Province, Casablanca-Settat",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IGKQIQKBYC/1051349/grey-medium.png"
+      "length": "0:48",
+      "location": "Victoria, Entre Ríos",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VLDFGFKOWN/987132/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "426277",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/426277/download",
+      "pageUrl": "https://xeno-canto.org/426277",
+      "recordist": "Jarmo Pirhonen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Utqiagvik, North Slope, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AHEASHOMCO/426277/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "759157",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/759157/download",
+      "pageUrl": "https://xeno-canto.org/759157",
+      "recordist": "Irish Wildlife Sounds",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Tacumshane, Wexford, County Wexford",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PAEQEUHPFQ/759157/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "323082",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/323082/download",
+      "pageUrl": "https://xeno-canto.org/323082",
+      "recordist": "Peter Boesman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Barrow, North Slope, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/323082/grey-medium.png"
     },
     {
       "xenoCantoId": "748871",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/748871/download",
       "pageUrl": "https://xeno-canto.org/748871",
       "recordist": "Paul Kelly",
@@ -380,5 +422,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pectoral_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3865"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3865",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-melanotos"
 }

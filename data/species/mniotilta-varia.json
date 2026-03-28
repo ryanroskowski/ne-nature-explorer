@@ -216,6 +216,7 @@
     {
       "xenoCantoId": "1036380",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1036380/download",
       "pageUrl": "https://xeno-canto.org/1036380",
       "recordist": "Bobby Wilcox",
@@ -226,8 +227,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1036380/grey-medium.png"
     },
     {
+      "xenoCantoId": "1013804",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1013804/download",
+      "pageUrl": "https://xeno-canto.org/1013804",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013804/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1002344",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1002344/download",
+      "pageUrl": "https://xeno-canto.org/1002344",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Shawnee State Forest, Scioto County, Ohio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1002344/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1060251",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1060251/download",
       "pageUrl": "https://xeno-canto.org/1060251",
       "recordist": "Andrés Mauricio López",
@@ -238,8 +266,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JOXMAMNKPK/1060251/grey-medium.png"
     },
     {
+      "xenoCantoId": "827741",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/827741/download",
+      "pageUrl": "https://xeno-canto.org/827741",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Rock Bridge Trail, Daniel Boone N.F., Kentucky",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/827741/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014375",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014375/download",
       "pageUrl": "https://xeno-canto.org/1014375",
       "recordist": "Stanislas Wroza",
@@ -252,5 +294,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-and-white_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10286"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10286",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Mniotilta-varia"
 }

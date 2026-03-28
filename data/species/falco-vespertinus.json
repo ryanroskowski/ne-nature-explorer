@@ -213,8 +213,22 @@
   ],
   "audio": [
     {
+      "xenoCantoId": "37581",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/37581/download",
+      "pageUrl": "https://xeno-canto.org/37581",
+      "recordist": "David Farrow",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "Astana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RNVWOVLEUN/37581/grey-medium.png"
+    },
+    {
       "xenoCantoId": "134057",
       "type": "song",
+      "label": "Song 2",
       "audioUrl": "https://xeno-canto.org/134057/download",
       "pageUrl": "https://xeno-canto.org/134057",
       "recordist": "Volker Arnold",
@@ -227,6 +241,7 @@
     {
       "xenoCantoId": "1069891",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1069891/download",
       "pageUrl": "https://xeno-canto.org/1069891",
       "recordist": "András Schmidt",
@@ -237,8 +252,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WMHNJNGJCW/1069891/grey-medium.png"
     },
     {
+      "xenoCantoId": "1049497",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1049497/download",
+      "pageUrl": "https://xeno-canto.org/1049497",
+      "recordist": "Beatrix Saadi-Varchmin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:02",
+      "location": "Weiße Esel, Sandeck-Illmitz, Neusiedl am See District, Burgenland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OQZFKFTAKD/1049497/grey-medium.png"
+    },
+    {
       "xenoCantoId": "493727",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/493727/download",
       "pageUrl": "https://xeno-canto.org/493727",
       "recordist": "Albert Lastukhin",
@@ -251,5 +280,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-footed_falcon",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4641"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4641",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Falco-vespertinus"
 }

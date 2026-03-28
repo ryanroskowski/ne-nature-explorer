@@ -219,8 +219,22 @@
   "relatedSpecies": [],
   "audio": [
     {
+      "xenoCantoId": "494249",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/494249/download",
+      "pageUrl": "https://xeno-canto.org/494249",
+      "recordist": "Phoenix Birder",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Coconino National Forest (near  Payson), Coconino County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UKNISVRBBF/494249/grey-medium.png"
+    },
+    {
       "xenoCantoId": "681647",
       "type": "song",
+      "label": "Song 2",
       "audioUrl": "https://xeno-canto.org/681647/download",
       "pageUrl": "https://xeno-canto.org/681647",
       "recordist": "Manuel Grosselet",
@@ -233,6 +247,7 @@
     {
       "xenoCantoId": "1078226",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1078226/download",
       "pageUrl": "https://xeno-canto.org/1078226",
       "recordist": "Valerie Heemstra",
@@ -243,8 +258,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1078226/grey-medium.png"
     },
     {
+      "xenoCantoId": "1039174",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1039174/download",
+      "pageUrl": "https://xeno-canto.org/1039174",
+      "recordist": "Greg Irving",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Sheyenne River (near  Luverne), Griggs County, North Dakota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1039174/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014931",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014931/download",
       "pageUrl": "https://xeno-canto.org/1014931",
       "recordist": "Stanislas Wroza",
@@ -253,9 +282,23 @@
       "length": "1:07",
       "location": "La Haute-Yamaska (near  Granby), Estrie, Québec",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014931/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014930",
+      "type": "drumming",
+      "label": "Drumming",
+      "audioUrl": "https://xeno-canto.org/1014930/download",
+      "pageUrl": "https://xeno-canto.org/1014930",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "La Haute-Yamaska (near  Granby), Estrie, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014930/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hairy_woodpecker",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1651487"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1651487",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Leuconotopicus-villosus"
 }

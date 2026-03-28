@@ -213,6 +213,7 @@
     {
       "xenoCantoId": "1014208",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1014208/download",
       "pageUrl": "https://xeno-canto.org/1014208",
       "recordist": "Stanislas Wroza",
@@ -223,31 +224,73 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014208/grey-medium.png"
     },
     {
-      "xenoCantoId": "1051304",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1051304/download",
-      "pageUrl": "https://xeno-canto.org/1051304",
-      "recordist": "Michael S. Taylor",
+      "xenoCantoId": "937346",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/937346/download",
+      "pageUrl": "https://xeno-canto.org/937346",
+      "recordist": "Manuel Grosselet",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "5:16",
-      "location": "Polk Township (near  Chapel Hill), Monroe County, Indiana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UUJXLUFZTW/1051304/grey-medium.png"
+      "length": "1:14",
+      "location": "Kingsville, Essex County, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/937346/grey-medium.png"
     },
     {
-      "xenoCantoId": "1059662",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1059662/download",
-      "pageUrl": "https://xeno-canto.org/1059662",
-      "recordist": "David A. Brinkman",
+      "xenoCantoId": "933597",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/933597/download",
+      "pageUrl": "https://xeno-canto.org/933597",
+      "recordist": "Thomas Magarian",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:39",
-      "location": "Green Township (near  Cincinnati), Hamilton County, Ohio",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1059662/grey-medium.png"
+      "length": "0:42",
+      "location": "Big Mountain Rd, GWNF, Page County, Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/933597/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1046664",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1046664/download",
+      "pageUrl": "https://xeno-canto.org/1046664",
+      "recordist": "ckp274",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Cooper Av/64 Pl (near  New York), Queens County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/STFCDNPFHL/1046664/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1036141",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1036141/download",
+      "pageUrl": "https://xeno-canto.org/1036141",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:19",
+      "location": "Tama (near  Burlington), Des Moines, Iowa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1036141/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013391",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1013391/download",
+      "pageUrl": "https://xeno-canto.org/1013391",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:47",
+      "location": "Charlevoix (near  Saint-Joseph-de-la-Rive), Capitale-Nationale, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013391/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Blue_jay",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/8229"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/8229",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Cyanocitta-cristata"
 }

@@ -208,6 +208,7 @@
     {
       "xenoCantoId": "1037278",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1037278/download",
       "pageUrl": "https://xeno-canto.org/1037278",
       "recordist": "Bobby Wilcox",
@@ -218,8 +219,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1037278/grey-medium.png"
     },
     {
+      "xenoCantoId": "1027999",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1027999/download",
+      "pageUrl": "https://xeno-canto.org/1027999",
+      "recordist": "Francisco Rivas Fuenzalida",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "Isle of Palms, Charleston County, South Carolina",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HFAIUBMLBS/1027999/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "900205",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/900205/download",
+      "pageUrl": "https://xeno-canto.org/900205",
+      "recordist": "David Tattersley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Cameron, Cameron Parish, Louisiana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/900205/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1042815",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1042815/download",
       "pageUrl": "https://xeno-canto.org/1042815",
       "recordist": "Sue Riffe",
@@ -230,8 +258,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1042815/grey-medium.png"
     },
     {
+      "xenoCantoId": "854733",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/854733/download",
+      "pageUrl": "https://xeno-canto.org/854733",
+      "recordist": "Michael Hurben",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Bolivar Peninsula, Galveston County, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ESJQFJUOUH/854733/grey-medium.png"
+    },
+    {
       "xenoCantoId": "705390",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/705390/download",
       "pageUrl": "https://xeno-canto.org/705390",
       "recordist": "Paul Driver",
@@ -244,5 +286,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Boat-tailed_grackle",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9601"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9601",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Quiscalus-major"
 }

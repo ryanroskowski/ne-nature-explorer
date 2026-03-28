@@ -221,6 +221,7 @@
     {
       "xenoCantoId": "1013146",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1013146/download",
       "pageUrl": "https://xeno-canto.org/1013146",
       "recordist": "Stanislas Wroza",
@@ -231,8 +232,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013146/grey-medium.png"
     },
     {
+      "xenoCantoId": "899093",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/899093/download",
+      "pageUrl": "https://xeno-canto.org/899093",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Boardwalk next to Lake Miccosukee, Monticello, Jefferson County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/899093/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1012613",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1012613/download",
       "pageUrl": "https://xeno-canto.org/1012613",
       "recordist": "Stanislas Wroza",
@@ -245,6 +260,7 @@
     {
       "xenoCantoId": "1038387",
       "type": "drumming",
+      "label": "Drumming",
       "audioUrl": "https://xeno-canto.org/1038387/download",
       "pageUrl": "https://xeno-canto.org/1038387",
       "recordist": "Bobby Wilcox",
@@ -257,5 +273,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Yellow-bellied_sapsucker",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/18463"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/18463",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sphyrapicus-varius"
 }

@@ -230,6 +230,7 @@
     {
       "xenoCantoId": "906437",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/906437/download",
       "pageUrl": "https://xeno-canto.org/906437",
       "recordist": "Ed Pandolfino",
@@ -240,8 +241,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/906437/grey-medium.png"
     },
     {
+      "xenoCantoId": "878437",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/878437/download",
+      "pageUrl": "https://xeno-canto.org/878437",
+      "recordist": "Whitney Neufeld-Kaiser",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:45",
+      "location": "Wenatchee, Chelan County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQLSWYNMJK/878437/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "872520",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/872520/download",
+      "pageUrl": "https://xeno-canto.org/872520",
+      "recordist": "Scott Olmstead",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:15",
+      "location": "Mount Bigelow, Santa Catalina Mtns, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/872520/grey-medium.png"
+    },
+    {
       "xenoCantoId": "749277",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/749277/download",
       "pageUrl": "https://xeno-canto.org/749277",
       "recordist": "Paul Marvin",
@@ -252,8 +280,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/749277/grey-medium.png"
     },
     {
+      "xenoCantoId": "651934",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/651934/download",
+      "pageUrl": "https://xeno-canto.org/651934",
+      "recordist": "Bruce Lagerquist",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Little Pend Oreille NWR, Stevens County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/651934/grey-medium.png"
+    },
+    {
       "xenoCantoId": "611973",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/611973/download",
       "pageUrl": "https://xeno-canto.org/611973",
       "recordist": "Richard E. Webster",
@@ -266,5 +308,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Western_tanager",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9919"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9919",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Piranga-ludoviciana"
 }

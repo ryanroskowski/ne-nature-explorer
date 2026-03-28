@@ -195,32 +195,74 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "816293",
+      "xenoCantoId": "600336",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://",
-      "pageUrl": "https://xeno-canto.org/816293",
+      "pageUrl": "https://xeno-canto.org/600336",
       "recordist": "Marc Anderson",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "quality": "A",
-      "length": "0:06",
+      "length": "0:24",
       "location": "",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/816293/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/600336/grey-medium.png"
     },
     {
-      "xenoCantoId": "1001922",
-      "type": "call",
+      "xenoCantoId": "860222",
+      "type": "song",
+      "label": "Song 2",
       "audioUrl": "https://",
-      "pageUrl": "https://xeno-canto.org/1001922",
+      "pageUrl": "https://xeno-canto.org/860222",
+      "recordist": "Peter Boesman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "B",
+      "length": "0:17",
+      "location": "",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/860222/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "747054",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://",
+      "pageUrl": "https://xeno-canto.org/747054",
+      "recordist": "Camille Vacher",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "quality": "B",
+      "length": "1:23",
+      "location": "",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LTIHWHLJQI/747054/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1001921",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://",
+      "pageUrl": "https://xeno-canto.org/1001921",
       "recordist": "Marc Anderson",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "quality": "A",
-      "length": "0:05",
+      "length": "0:25",
       "location": "",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1001922/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1001921/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "407796",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://",
+      "pageUrl": "https://xeno-canto.org/407796",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/407796/grey-medium.png"
     },
     {
       "xenoCantoId": "318757",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://",
       "pageUrl": "https://xeno-canto.org/318757",
       "recordist": "Ding Li Yong",
@@ -233,5 +275,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Zebra_finch",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14110"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14110",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Taeniopygia-guttata"
 }

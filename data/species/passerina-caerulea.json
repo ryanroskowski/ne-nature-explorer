@@ -228,32 +228,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1031007",
+      "xenoCantoId": "1029633",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1031007/download",
-      "pageUrl": "https://xeno-canto.org/1031007",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1029633/download",
+      "pageUrl": "https://xeno-canto.org/1029633",
       "recordist": "Manuel Grosselet",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:32",
-      "location": "Santo Domingo Tomaltepec, Santo Domingo Tomaltepec, Oaxaca",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1031007/grey-medium.png"
+      "length": "1:22",
+      "location": "Santa María Acuitlapilco, Tlaxcala, Tlaxcala",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1029633/grey-medium.png"
     },
     {
-      "xenoCantoId": "878990",
+      "xenoCantoId": "1007730",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1007730/download",
+      "pageUrl": "https://xeno-canto.org/1007730",
+      "recordist": "Scott Crabtree",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:22",
+      "location": "Tucson, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/1007730/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "971956",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/971956/download",
+      "pageUrl": "https://xeno-canto.org/971956",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:45",
+      "location": "Leslie Canyon National Wildlife Refuge, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/971956/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "806711",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/878990/download",
-      "pageUrl": "https://xeno-canto.org/878990",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/806711/download",
+      "pageUrl": "https://xeno-canto.org/806711",
       "recordist": "Manuel Grosselet",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:07",
-      "location": "Guadalupe Hidalgo, San Lorenzo Cacaotepec, Oaxaca",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/878990/grey-medium.png"
+      "length": "0:17",
+      "location": "San Pablo Etla, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/806711/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "806496",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/806496/download",
+      "pageUrl": "https://xeno-canto.org/806496",
+      "recordist": "Mario Reyes Jr",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:33",
+      "location": "Comayagua, Comayagua, Comayagua Department",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVBPRXZSDX/806496/grey-medium.png"
     },
     {
       "xenoCantoId": "551484",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/551484/download",
       "pageUrl": "https://xeno-canto.org/551484",
       "recordist": "Sue Riffe",
@@ -266,5 +308,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Blue_grosbeak",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/73155"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/73155",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Passerina-caerulea"
 }

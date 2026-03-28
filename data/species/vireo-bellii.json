@@ -265,20 +265,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1088526",
+      "xenoCantoId": "991544",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1088526/download",
-      "pageUrl": "https://xeno-canto.org/1088526",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/991544/download",
+      "pageUrl": "https://xeno-canto.org/991544",
       "recordist": "Scott Crabtree",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:35",
+      "length": "1:13",
       "location": "Tucson, Pima County, Arizona",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/1088526/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/991544/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "827553",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/827553/download",
+      "pageUrl": "https://xeno-canto.org/827553",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:30",
+      "location": "Tallgrass Prairie Preserve, Pawhuska, Oklahoma",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/827553/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "779110",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/779110/download",
+      "pageUrl": "https://xeno-canto.org/779110",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Patagonia Lake SP, Santa Cruz County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/779110/grey-medium.png"
     },
     {
       "xenoCantoId": "832711",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/832711/download",
       "pageUrl": "https://xeno-canto.org/832711",
       "recordist": "Paul Marvin",
@@ -289,8 +317,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/832711/grey-medium.png"
     },
     {
+      "xenoCantoId": "717636",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/717636/download",
+      "pageUrl": "https://xeno-canto.org/717636",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Date Creek Ranch (Private), Yavapai County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/717636/grey-medium.png"
+    },
+    {
       "xenoCantoId": "784911",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/784911/download",
       "pageUrl": "https://xeno-canto.org/784911",
       "recordist": "Isaí López",
@@ -303,5 +345,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bell's_vireo",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17356"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17356",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Vireo-bellii"
 }

@@ -344,6 +344,7 @@
     {
       "xenoCantoId": "203568",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/203568/download",
       "pageUrl": "https://xeno-canto.org/203568",
       "recordist": "Andrew Spencer",
@@ -354,8 +355,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/203568/grey-medium.png"
     },
     {
+      "xenoCantoId": "157741",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/157741/download",
+      "pageUrl": "https://xeno-canto.org/157741",
+      "recordist": "Ian Cruickshank",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "1:17",
+      "location": "Chaplin Lake, Saskatchewan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XEIROMUDEB/157741/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "76188",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/76188/download",
+      "pageUrl": "https://xeno-canto.org/76188",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Churchill, MB",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/76188/grey-medium.png"
+    },
+    {
       "xenoCantoId": "316118",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/316118/download",
       "pageUrl": "https://xeno-canto.org/316118",
       "recordist": "Hal Mitchell",
@@ -364,9 +392,23 @@
       "length": "0:35",
       "location": "Belzoni, Humphreys County, Mississippi",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DLGSDUKLNI/316118/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "145934",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/145934/download",
+      "pageUrl": "https://xeno-canto.org/145934",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Biolab Road, Canaveral National Seashore, Brevard County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/145934/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Stilt_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3850"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3850",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-himantopus"
 }

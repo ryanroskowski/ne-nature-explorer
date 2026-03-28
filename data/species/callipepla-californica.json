@@ -158,20 +158,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1040445",
+      "xenoCantoId": "946744",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1040445/download",
-      "pageUrl": "https://xeno-canto.org/1040445",
-      "recordist": "Greg Irving",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/946744/download",
+      "pageUrl": "https://xeno-canto.org/946744",
+      "recordist": "José Dellacasa Bravo",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:49",
-      "location": "South Jameson Lake, Waterville, Douglas County, Washington",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1040445/grey-medium.png"
+      "length": "0:12",
+      "location": "Temuco, Cautín, Araucanía",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IHJAQKCKWM/946744/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "895121",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/895121/download",
+      "pageUrl": "https://xeno-canto.org/895121",
+      "recordist": "Cristian Pinto Fernandez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Mahuida - Sendero Guayacan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SEVIQQAKWM/895121/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "810395",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/810395/download",
+      "pageUrl": "https://xeno-canto.org/810395",
+      "recordist": "Valentin Monnoy",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Arrondissement de Corte (near  Tallone), Haute-Corse, Corsica",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CMXSLMRURL/810395/grey-medium.png"
     },
     {
       "xenoCantoId": "985689",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/985689/download",
       "pageUrl": "https://xeno-canto.org/985689",
       "recordist": "Ed Pandolfino",
@@ -182,19 +210,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/985689/grey-medium.png"
     },
     {
-      "xenoCantoId": "636976",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/636976/download",
-      "pageUrl": "https://xeno-canto.org/636976",
-      "recordist": "Bruce Lagerquist",
+      "xenoCantoId": "962334",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/962334/download",
+      "pageUrl": "https://xeno-canto.org/962334",
+      "recordist": "Meena Haribal",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:07",
-      "location": "Caribou Road, Kittitas County, Washington",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/636976/grey-medium.png"
+      "length": "0:47",
+      "location": "Nelson, Nelson City Council, Nelson",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RBYDYNRSJV/962334/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "591912",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/591912/download",
+      "pageUrl": "https://xeno-canto.org/591912",
+      "recordist": "Simon Elliott",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:56",
+      "location": "Okanagan-Similkameen, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FFFADKCCII/591912/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/California_quail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1409"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1409",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Callipepla-californica"
 }

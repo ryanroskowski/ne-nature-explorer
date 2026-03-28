@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "787830",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/787830/download",
       "pageUrl": "https://xeno-canto.org/787830",
       "recordist": "Patrice Mathieu",
@@ -234,31 +235,73 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IGXRFYAGNH/787830/grey-medium.png"
     },
     {
-      "xenoCantoId": "1068263",
+      "xenoCantoId": "596709",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/596709/download",
+      "pageUrl": "https://xeno-canto.org/596709",
+      "recordist": "Peter Ward and Ken Hall",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:02",
+      "location": "Stikine Region (near  Atlin), Stikine Region, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFRRHMLGSK/596709/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "568655",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/568655/download",
+      "pageUrl": "https://xeno-canto.org/568655",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Landing Lake, Churchill, MB",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/568655/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1068262",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1068263/download",
-      "pageUrl": "https://xeno-canto.org/1068263",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1068262/download",
+      "pageUrl": "https://xeno-canto.org/1068262",
       "recordist": "Valerie Heemstra",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:24",
+      "length": "1:10",
       "location": "Masonville Township (near  Rapid River), Delta County, Michigan",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1068263/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1068262/grey-medium.png"
     },
     {
-      "xenoCantoId": "455120",
+      "xenoCantoId": "842468",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/842468/download",
+      "pageUrl": "https://xeno-canto.org/842468",
+      "recordist": "Matthew L. Brady",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:05",
+      "location": "Southeast Farallon Island, San Francisco County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SWDUSZIBPR/842468/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "210762",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/455120/download",
-      "pageUrl": "https://xeno-canto.org/455120",
-      "recordist": "Ves",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/210762/download",
+      "pageUrl": "https://xeno-canto.org/210762",
+      "recordist": "Paul Marvin",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "B",
-      "length": "0:09",
-      "location": "Old Mill, Oxford, Sumner County, Kansas",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZCMAXVLCRW/455120/grey-medium.png"
+      "length": "0:10",
+      "location": "Isabella Lake area, Superior National Forest, Lake County, Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/210762/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_tree_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/474210"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/474210",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Spizelloides-arborea"
 }

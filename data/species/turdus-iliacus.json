@@ -234,6 +234,7 @@
     {
       "xenoCantoId": "1086227",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1086227/download",
       "pageUrl": "https://xeno-canto.org/1086227",
       "recordist": "Petter Westberg",
@@ -244,31 +245,73 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1086227/grey-medium.png"
     },
     {
-      "xenoCantoId": "1091167",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1091167/download",
-      "pageUrl": "https://xeno-canto.org/1091167",
-      "recordist": "Franek Owczarek",
+      "xenoCantoId": "1083180",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1083180/download",
+      "pageUrl": "https://xeno-canto.org/1083180",
+      "recordist": "Stein Ø. Nilsen",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Gmina Pabianice (near  Pabianice), Powiat pabianicki, Łódzkie",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XTPEIPJYNU/1091167/grey-medium.png"
+      "length": "0:48",
+      "location": "Tverrelva, Straumsbukta, Tromsø, Troms",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/1083180/grey-medium.png"
     },
     {
-      "xenoCantoId": "982792",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/982792/download",
-      "pageUrl": "https://xeno-canto.org/982792",
-      "recordist": "Paul Kelly",
+      "xenoCantoId": "1005148",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1005148/download",
+      "pageUrl": "https://xeno-canto.org/1005148",
+      "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
-      "location": "Rosslare Harbour, Wexford, County Wexford",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/982792/grey-medium.png"
+      "length": "0:47",
+      "location": "Lannavaara, Kiruna Municipality, Norrbotten County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/1005148/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "900500",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/900500/download",
+      "pageUrl": "https://xeno-canto.org/900500",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:26",
+      "location": "Sönnerstgrundet, Umeå, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/900500/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "776865",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/776865/download",
+      "pageUrl": "https://xeno-canto.org/776865",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Arrondissement de Palaiseau (near  Gif-sur-Yvette), Essonne, Île-de-France",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/776865/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "701971",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/701971/download",
+      "pageUrl": "https://xeno-canto.org/701971",
+      "recordist": "Dominique Guillerme",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "Chassey, Côte-d'Or, Bourgogne-Franche-Comté",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LACGOEKMVI/701971/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Redwing",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12749"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12749",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Turdus-iliacus"
 }

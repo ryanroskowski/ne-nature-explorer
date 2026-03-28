@@ -230,6 +230,7 @@
     {
       "xenoCantoId": "987339",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/987339/download",
       "pageUrl": "https://xeno-canto.org/987339",
       "recordist": "Scott Crabtree",
@@ -240,19 +241,60 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/987339/grey-medium.png"
     },
     {
-      "xenoCantoId": "1007038",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1007038/download",
-      "pageUrl": "https://xeno-canto.org/1007038",
-      "recordist": "Ed Pandolfino",
+      "xenoCantoId": "872128",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/872128/download",
+      "pageUrl": "https://xeno-canto.org/872128",
+      "recordist": "Scott Olmstead",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:13",
-      "location": "Sierrra Valley, Plumas County, California",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/1007038/grey-medium.png"
+      "length": "1:11",
+      "location": "Rio Vista Natural Resource Park, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/872128/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "749706",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/749706/download",
+      "pageUrl": "https://xeno-canto.org/749706",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:16",
+      "location": "Marble Hot Springs Road, Loyalton (in Sierra Valley), California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/749706/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "703913",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/703913/download",
+      "pageUrl": "https://xeno-canto.org/703913",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Chino Canyon access, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/703913/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "188671",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/188671/download",
+      "pageUrl": "https://xeno-canto.org/188671",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:11",
+      "location": "Blowout Pass, Rio Grande Co., Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/188671/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Brewer's_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9144"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9144",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Spizella-breweri"
 }

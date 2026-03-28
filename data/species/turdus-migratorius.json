@@ -236,6 +236,7 @@
     {
       "xenoCantoId": "1089129",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1089129/download",
       "pageUrl": "https://xeno-canto.org/1089129",
       "recordist": "David A. Brinkman",
@@ -246,31 +247,73 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1089129/grey-medium.png"
     },
     {
-      "xenoCantoId": "1023050",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1023050/download",
-      "pageUrl": "https://xeno-canto.org/1023050",
-      "recordist": "Stanislas Wroza",
+      "xenoCantoId": "1079586",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1079586/download",
+      "pageUrl": "https://xeno-canto.org/1079586",
+      "recordist": "Scott Olmstead",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:53",
-      "location": "Tadoussac dunes",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1023050/grey-medium.png"
+      "length": "0:41",
+      "location": "Pond Street, Georgetown, Essex County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/1079586/grey-medium.png"
     },
     {
-      "xenoCantoId": "1023056",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1023056/download",
-      "pageUrl": "https://xeno-canto.org/1023056",
-      "recordist": "Stanislas Wroza",
+      "xenoCantoId": "1068477",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1068477/download",
+      "pageUrl": "https://xeno-canto.org/1068477",
+      "recordist": "Kalvin Chan",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:36",
-      "location": "Tadoussac dunes",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1023056/grey-medium.png"
+      "length": "0:56",
+      "location": "Swan Lake Park, Regional Municipality of York, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNKQBOEQKP/1068477/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "999642",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/999642/download",
+      "pageUrl": "https://xeno-canto.org/999642",
+      "recordist": "Rory Nefdt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "Hart’s Brook Park and Preserve (near  Hartsdale), Westchester County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/999642/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "892933",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/892933/download",
+      "pageUrl": "https://xeno-canto.org/892933",
+      "recordist": "Ned Bohman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Rancho San Rafael Regional Park (near  Reno), Washoe County, Nevada",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LRBJKOMLDW/892933/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "736763",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/736763/download",
+      "pageUrl": "https://xeno-canto.org/736763",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:35",
+      "location": "Rivermount Park (near  Reno), Washoe County, Nevada",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/736763/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_robin",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12727"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12727",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Turdus-migratorius"
 }

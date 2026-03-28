@@ -206,6 +206,7 @@
     {
       "xenoCantoId": "993358",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/993358/download",
       "pageUrl": "https://xeno-canto.org/993358",
       "recordist": "Dag Österlund",
@@ -216,8 +217,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMSAKXGUCH/993358/grey-medium.png"
     },
     {
+      "xenoCantoId": "986925",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/986925/download",
+      "pageUrl": "https://xeno-canto.org/986925",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:33",
+      "location": "Holmnäs, Umeå, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/986925/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "793286",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/793286/download",
+      "pageUrl": "https://xeno-canto.org/793286",
+      "recordist": "Dominique Guillerme",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:23",
+      "location": "Chassey, Côte-d'Or, Bourgogne-Franche-Comté",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LACGOEKMVI/793286/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1085639",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1085639/download",
       "pageUrl": "https://xeno-canto.org/1085639",
       "recordist": "Jean Pierre Sciolla",
@@ -228,19 +256,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PAYBATMCEA/1085639/grey-medium.png"
     },
     {
-      "xenoCantoId": "996840",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/996840/download",
-      "pageUrl": "https://xeno-canto.org/996840",
-      "recordist": "João Tomás",
+      "xenoCantoId": "1049371",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1049371/download",
+      "pageUrl": "https://xeno-canto.org/1049371",
+      "recordist": "Fredrik Grahn",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:55",
-      "location": "Tierra de Peñaranda (near  El Campo de Peñaranda), Salamanca, Castile and León",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/POVKNQVSGU/996840/grey-medium.png"
+      "length": "0:41",
+      "location": "Lännåker, Haninge Municipality, Stockholms län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UYPMZTMIOB/1049371/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "910034",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/910034/download",
+      "pageUrl": "https://xeno-canto.org/910034",
+      "recordist": "Mikael Lassen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Egå, Aarhus Municipality, Central Denmark Region",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LBOJDMXSZS/910034/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Long-eared_owl",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/20307"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/20307",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Asio-otus"
 }

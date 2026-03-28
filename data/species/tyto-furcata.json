@@ -211,20 +211,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "878745",
+      "xenoCantoId": "805126",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/878745/download",
-      "pageUrl": "https://xeno-canto.org/878745",
-      "recordist": "Dante Buzzetti",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/805126/download",
+      "pageUrl": "https://xeno-canto.org/805126",
+      "recordist": "Juanita Barrera Vargas",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Praia do Brejão, Feliz Deserto, Alagoas",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YOXWKYFZAP/878745/grey-medium.png"
+      "length": "0:22",
+      "location": "Santo Domingo, Santo Domingo, Antioquia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NPRCIORFQE/805126/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "695012",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/695012/download",
+      "pageUrl": "https://xeno-canto.org/695012",
+      "recordist": "Jacob Wijpkema",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Cerro Asunto, Bautista Saavedra, Departamento de La Paz",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WETAASKWUP/695012/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "557834",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/557834/download",
+      "pageUrl": "https://xeno-canto.org/557834",
+      "recordist": "Andres Trujillo Pakisusu",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "San Cristóbal Island, San Cristobal, Islas Galápagos",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LGLOQQYQYE/557834/grey-medium.png"
     },
     {
       "xenoCantoId": "1050947",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1050947/download",
       "pageUrl": "https://xeno-canto.org/1050947",
       "recordist": "Lionel FREDERIC",
@@ -235,19 +263,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/1050947/grey-medium.png"
     },
     {
-      "xenoCantoId": "696741",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/696741/download",
-      "pageUrl": "https://xeno-canto.org/696741",
-      "recordist": "Cristian Pinto Fernandez",
+      "xenoCantoId": "1034696",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1034696/download",
+      "pageUrl": "https://xeno-canto.org/1034696",
+      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:03",
-      "location": "Laguna Batuco, Región Metropolitana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SEVIQQAKWM/696741/grey-medium.png"
+      "length": "1:16",
+      "location": "Itaguatins, Itaguatins, Tocantins",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/1034696/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "483357",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/483357/download",
+      "pageUrl": "https://xeno-canto.org/483357",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:04",
+      "location": "Mx, Distrito Federal, Lomas de Bezares, Calle Colina",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/483357/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/American_barn_owl",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1578502"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1578502",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tyto-furcata"
 }

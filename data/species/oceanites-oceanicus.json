@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "863025",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/863025/download",
       "pageUrl": "https://xeno-canto.org/863025",
       "recordist": "Kevin Guille",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RDBQTCTEUE/863025/grey-medium.png"
     },
     {
+      "xenoCantoId": "622693",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/622693/download",
+      "pageUrl": "https://xeno-canto.org/622693",
+      "recordist": "Hichem MACHOUK",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:46",
+      "location": "Ile Haute",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPPAITBCEX/622693/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "401263",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/401263/download",
+      "pageUrl": "https://xeno-canto.org/401263",
+      "recordist": "McKenzie",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Cape Shirreff",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YAELHUNFDF/401263/grey-medium.png"
+    },
+    {
       "xenoCantoId": "748671",
       "type": "call",
+      "label": "Call 2",
       "audioUrl": "https://xeno-canto.org/748671/download",
       "pageUrl": "https://xeno-canto.org/748671",
       "recordist": "Philipp Kraemer",
@@ -246,19 +274,21 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZRKATUNQT/748671/grey-medium.png"
     },
     {
-      "xenoCantoId": "882200",
+      "xenoCantoId": "882197",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/882200/download",
-      "pageUrl": "https://xeno-canto.org/882200",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/882197/download",
+      "pageUrl": "https://xeno-canto.org/882197",
       "recordist": "Fabrice Schmitt",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Cabo de Hornos (near  Puerto Williams), Antártica Chilena, Magallanes and Chilean Antarctica",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FPAGKPAQYO/882200/grey-medium.png"
+      "length": "0:35",
+      "location": "Frente Isla de los Estados",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FPAGKPAQYO/882197/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilson's_storm_petrel",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4146"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4146",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Oceanites-oceanicus"
 }

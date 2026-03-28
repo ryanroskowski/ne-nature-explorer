@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1087467",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1087467/download",
       "pageUrl": "https://xeno-canto.org/1087467",
       "recordist": "Petter Westberg",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1087467/grey-medium.png"
     },
     {
+      "xenoCantoId": "1019218",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1019218/download",
+      "pageUrl": "https://xeno-canto.org/1019218",
+      "recordist": "Sven Normant",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Kinnarodden, Lebesby, Finnmark",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MPDFSJHTXH/1019218/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1010216",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1010216/download",
+      "pageUrl": "https://xeno-canto.org/1010216",
+      "recordist": "Benjamin Drillat",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:08",
+      "location": "Utqiagvik, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/1010216/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1087466",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1087466/download",
       "pageUrl": "https://xeno-canto.org/1087466",
       "recordist": "Petter Westberg",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1087466/grey-medium.png"
     },
     {
+      "xenoCantoId": "1072438",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1072438/download",
+      "pageUrl": "https://xeno-canto.org/1072438",
+      "recordist": "Christian Bøggild",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Vestervig, Thisted Municipality, North Denmark Region",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DJPZGYTAWH/1072438/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1087465",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1087465/download",
       "pageUrl": "https://xeno-canto.org/1087465",
       "recordist": "Petter Westberg",
@@ -260,5 +302,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Snow_bunting",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/117059"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/117059",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Plectrophenax-nivalis"
 }

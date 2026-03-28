@@ -213,6 +213,7 @@
     {
       "xenoCantoId": "1031133",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1031133/download",
       "pageUrl": "https://xeno-canto.org/1031133",
       "recordist": "Meena Haribal",
@@ -223,8 +224,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RBYDYNRSJV/1031133/grey-medium.png"
     },
     {
+      "xenoCantoId": "145635",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/145635/download",
+      "pageUrl": "https://xeno-canto.org/145635",
+      "recordist": "Patrik Åberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "2:41",
+      "location": "Bempton Cliffs, Flamborough Head, Northumberland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/145635/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "127386",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/127386/download",
+      "pageUrl": "https://xeno-canto.org/127386",
+      "recordist": "Elias A. Ryberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "B",
+      "length": "1:12",
+      "location": "Runde,Heroy,MoreogRomsdal",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFGQDPLDEC/127386/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1076664",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1076664/download",
       "pageUrl": "https://xeno-canto.org/1076664",
       "recordist": "Kelle Moreau",
@@ -233,9 +261,23 @@
       "length": "0:43",
       "location": "North Sea",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CUMMLIFGZM/1076664/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1060964",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1060964/download",
+      "pageUrl": "https://xeno-canto.org/1060964",
+      "recordist": "Adrien Peillon",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Perros-Guirec, Côtes-d'Armor, Brittany",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QSIPMNXSKA/1060964/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_gannet",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3802"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3802",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Morus-bassanus"
 }

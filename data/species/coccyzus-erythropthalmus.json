@@ -222,31 +222,73 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "658514",
+      "xenoCantoId": "598810",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/658514/download",
-      "pageUrl": "https://xeno-canto.org/658514",
-      "recordist": "Paul Driver",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/598810/download",
+      "pageUrl": "https://xeno-canto.org/598810",
+      "recordist": "Christopher McPherson",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "5:30",
-      "location": "Sax-Zim Bog, St. Louis Co., Minnesota",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/658514/grey-medium.png"
+      "length": "0:28",
+      "location": "Beaver Brook Great Meadow, Hollis, Hillsborough County, New Hampshire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNIFQCMOLA/598810/grey-medium.png"
     },
     {
-      "xenoCantoId": "807265",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/807265/download",
-      "pageUrl": "https://xeno-canto.org/807265",
-      "recordist": "Jeff Stewart",
+      "xenoCantoId": "500139",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/500139/download",
+      "pageUrl": "https://xeno-canto.org/500139",
+      "recordist": "Jacob Saucier",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Township Of Cavan Monaghan (near  Millbrook), Peterborough County, Ontario",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/URGFVYYSWH/807265/grey-medium.png"
+      "length": "0:21",
+      "location": "Porcupine Creek, 6 km E of St. Marie, Valley County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XSAURLRZQM/500139/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "241134",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/241134/download",
+      "pageUrl": "https://xeno-canto.org/241134",
+      "recordist": "Dan Lane",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:39",
+      "location": "Sandyston, Sussex County, New Jersey",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WOEAFQRMUD/241134/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "690971",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/690971/download",
+      "pageUrl": "https://xeno-canto.org/690971",
+      "recordist": "Christopher McPherson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Temple, Hillsborough County, New Hampshire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNIFQCMOLA/690971/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "641675",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/641675/download",
+      "pageUrl": "https://xeno-canto.org/641675",
+      "recordist": "Juan Carlos",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Chanduy (near  Buenos Aires), Santa Elena, Santa Elena",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VTWFSKEIGO/641675/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-billed_cuckoo",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1960"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1960",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Coccyzus-erythropthalmus"
 }

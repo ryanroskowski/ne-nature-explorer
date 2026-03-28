@@ -244,6 +244,7 @@
     {
       "xenoCantoId": "1001139",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1001139/download",
       "pageUrl": "https://xeno-canto.org/1001139",
       "recordist": "Uku Paal",
@@ -254,8 +255,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XIBLXHRPJO/1001139/grey-medium.png"
     },
     {
+      "xenoCantoId": "795404",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/795404/download",
+      "pageUrl": "https://xeno-canto.org/795404",
+      "recordist": "Alan Dalton",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:08",
+      "location": "Tyresta National Park",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBJSEFYVPV/795404/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "766059",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/766059/download",
+      "pageUrl": "https://xeno-canto.org/766059",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Ögiy, Ulziit, Arkhangai",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/766059/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1001147",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1001147/download",
       "pageUrl": "https://xeno-canto.org/1001147",
       "recordist": "Uku Paal",
@@ -266,19 +294,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XIBLXHRPJO/1001147/grey-medium.png"
     },
     {
-      "xenoCantoId": "725086",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/725086/download",
-      "pageUrl": "https://xeno-canto.org/725086",
-      "recordist": "Elias A. Ryberg",
+      "xenoCantoId": "590662",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/590662/download",
+      "pageUrl": "https://xeno-canto.org/590662",
+      "recordist": "Simon Elliott",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "quality": "A",
-      "length": "2:29",
-      "location": "Hamar, Hedmark",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFGQDPLDEC/725086/grey-medium.png"
+      "length": "0:41",
+      "location": "Highland, Scotland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FFFADKCCII/590662/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "488095",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/488095/download",
+      "pageUrl": "https://xeno-canto.org/488095",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Northeastern Region",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/488095/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Horned_grebe",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4209"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4209",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Podiceps-auritus"
 }

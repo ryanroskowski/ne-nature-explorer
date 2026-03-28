@@ -192,6 +192,7 @@
     {
       "xenoCantoId": "853654",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/853654/download",
       "pageUrl": "https://xeno-canto.org/853654",
       "recordist": "Karol Łanocha",
@@ -202,8 +203,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OYKHJEFUBO/853654/grey-medium.png"
     },
     {
+      "xenoCantoId": "611286",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/611286/download",
+      "pageUrl": "https://xeno-canto.org/611286",
+      "recordist": "Marc Anderson",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "B",
+      "length": "0:51",
+      "location": "Mount Wood Homestead area, Sturt NP, New South Wales",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/611286/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "571671",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/571671/download",
+      "pageUrl": "https://xeno-canto.org/571671",
+      "recordist": "Luis Lozano",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:24",
+      "location": "Tuluá, Tuluá, Valle del Cauca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RRCXOFLWSK/571671/grey-medium.png"
+    },
+    {
       "xenoCantoId": "940888",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/940888/download",
       "pageUrl": "https://xeno-canto.org/940888",
       "recordist": "Samantha Aguirre",
@@ -212,9 +240,23 @@
       "length": "0:23",
       "location": "Bogotá, Bogotá",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DEUMDTCFDD/940888/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "924266",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/924266/download",
+      "pageUrl": "https://xeno-canto.org/924266",
+      "recordist": "Louis Masarei",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:58",
+      "location": "Cosmo Newbery, Shire of Laverton, Western Australia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DLDLVYQSHT/924266/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Budgerigar",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/19339"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/19339",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Melopsittacus-undulatus"
 }

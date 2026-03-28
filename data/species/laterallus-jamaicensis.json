@@ -136,6 +136,7 @@
     {
       "xenoCantoId": "1052584",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1052584/download",
       "pageUrl": "https://xeno-canto.org/1052584",
       "recordist": "Paul Lenrumé",
@@ -146,8 +147,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HHXEHTNZKV/1052584/grey-medium.png"
     },
     {
+      "xenoCantoId": "814169",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/814169/download",
+      "pageUrl": "https://xeno-canto.org/814169",
+      "recordist": "GABRIEL LEITE",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:01",
+      "location": "Bragança, Para",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TGBFXDVERJ/814169/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "783433",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/783433/download",
+      "pageUrl": "https://xeno-canto.org/783433",
+      "recordist": "Cristian Pinto Fernandez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:08",
+      "location": "Desembocadura del rio Maipo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SEVIQQAKWM/783433/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1080644",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1080644/download",
       "pageUrl": "https://xeno-canto.org/1080644",
       "recordist": "Paul Lenrumé",
@@ -158,19 +186,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HHXEHTNZKV/1080644/grey-medium.png"
     },
     {
-      "xenoCantoId": "783427",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/783427/download",
-      "pageUrl": "https://xeno-canto.org/783427",
-      "recordist": "Cristian Pinto Fernandez",
+      "xenoCantoId": "987981",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/987981/download",
+      "pageUrl": "https://xeno-canto.org/987981",
+      "recordist": "José Dellacasa Bravo",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
-      "location": "Desembocadura del rio Maipo",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SEVIQQAKWM/783427/grey-medium.png"
+      "length": "0:13",
+      "location": "Saavedra (near  Nehuentue), Cautín, Araucanía",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IHJAQKCKWM/987981/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "652768",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/652768/download",
+      "pageUrl": "https://xeno-canto.org/652768",
+      "recordist": "Daniel Martinez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Santo Domingo, San Antonio, Valparaíso",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LPMQZEEFOY/652768/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_rail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/316"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/316",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Laterallus-jamaicensis"
 }

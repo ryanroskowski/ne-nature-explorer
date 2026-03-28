@@ -198,20 +198,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "994846",
+      "xenoCantoId": "988172",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/994846/download",
-      "pageUrl": "https://xeno-canto.org/994846",
-      "recordist": "Ulf Elman",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/988172/download",
+      "pageUrl": "https://xeno-canto.org/988172",
+      "recordist": "Elias A. Ryberg",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "quality": "A",
-      "length": "2:26",
-      "location": "F.d. Hässlinge sjö, Trögden, Uppland",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/994846/grey-medium.png"
+      "length": "0:23",
+      "location": "Stange, Hedmark",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFGQDPLDEC/988172/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "928315",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/928315/download",
+      "pageUrl": "https://xeno-canto.org/928315",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:08",
+      "location": "Gmina Podgórzyn (near  Jelenia Góra), Jelenia Góra, Lower Silesian Voivodeship",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/928315/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "895038",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/895038/download",
+      "pageUrl": "https://xeno-canto.org/895038",
+      "recordist": "Lennart Jeppsson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Skåne: Pulken",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HSFHXQRZFM/895038/grey-medium.png"
     },
     {
       "xenoCantoId": "1088233",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1088233/download",
       "pageUrl": "https://xeno-canto.org/1088233",
       "recordist": "Romuald Mikusek",
@@ -220,9 +248,23 @@
       "length": "0:56",
       "location": "Pond Marshes (Torfowisko Staw)",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BLMSIUFTFU/1088233/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1080419",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1080419/download",
+      "pageUrl": "https://xeno-canto.org/1080419",
+      "recordist": "Marc Anderson",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Storsjödeltat, Ljungdalen Jämtland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1080419/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_crane",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/41"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/41",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Grus-grus"
 }

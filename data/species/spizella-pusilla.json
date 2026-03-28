@@ -246,6 +246,7 @@
     {
       "xenoCantoId": "1086871",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1086871/download",
       "pageUrl": "https://xeno-canto.org/1086871",
       "recordist": "Sue Riffe",
@@ -256,8 +257,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1086871/grey-medium.png"
     },
     {
+      "xenoCantoId": "1036169",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1036169/download",
+      "pageUrl": "https://xeno-canto.org/1036169",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:39",
+      "location": "Tama (near  Burlington), Des Moines, Iowa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1036169/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1015150",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1015150/download",
+      "pageUrl": "https://xeno-canto.org/1015150",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:35",
+      "location": "Erlanger, Kenton County, Kentucky",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1015150/grey-medium.png"
+    },
+    {
       "xenoCantoId": "556599",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/556599/download",
       "pageUrl": "https://xeno-canto.org/556599",
       "recordist": "Caio Brito",
@@ -268,8 +296,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWWWUBVAJF/556599/grey-medium.png"
     },
     {
+      "xenoCantoId": "320482",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/320482/download",
+      "pageUrl": "https://xeno-canto.org/320482",
+      "recordist": "Jonathon Jongsma",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Afton State Park, Washington County, Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OJMFAOUBDU/320482/grey-medium.png"
+    },
+    {
       "xenoCantoId": "941837",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/941837/download",
       "pageUrl": "https://xeno-canto.org/941837",
       "recordist": "Paul Driver",
@@ -282,5 +324,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Field_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9152"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9152",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Spizella-pusilla"
 }

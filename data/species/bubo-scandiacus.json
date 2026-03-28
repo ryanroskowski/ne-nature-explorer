@@ -235,20 +235,22 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "343145",
+      "xenoCantoId": "343144",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/343145/download",
-      "pageUrl": "https://xeno-canto.org/343145",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/343144/download",
+      "pageUrl": "https://xeno-canto.org/343144",
       "recordist": "Tero Linjama",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
+      "length": "0:15",
       "location": "Ähtäri, Southern Ostrobothnia",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YSDNMROVID/343145/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YSDNMROVID/343144/grey-medium.png"
     },
     {
       "xenoCantoId": "679718",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/679718/download",
       "pageUrl": "https://xeno-canto.org/679718",
       "recordist": "Morioka Zoological Park ZOOMO",
@@ -259,8 +261,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GNYVMVEMZX/679718/grey-medium.png"
     },
     {
+      "xenoCantoId": "674464",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/674464/download",
+      "pageUrl": "https://xeno-canto.org/674464",
+      "recordist": "Peter Stronach",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Beinn MacDuibh, Am Mhonaidh Ruadh, Scotland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/POUECYRDLL/674464/grey-medium.png"
+    },
+    {
       "xenoCantoId": "277682",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/277682/download",
       "pageUrl": "https://xeno-canto.org/277682",
       "recordist": "Patrik Åberg",
@@ -273,5 +289,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Snowy_owl",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144594"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144594",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Bubo-scandiacus"
 }

@@ -344,6 +344,7 @@
     {
       "xenoCantoId": "149251",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/149251/download",
       "pageUrl": "https://xeno-canto.org/149251",
       "recordist": "Andrew Spencer",
@@ -354,8 +355,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/149251/grey-medium.png"
     },
     {
+      "xenoCantoId": "323087",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/323087/download",
+      "pageUrl": "https://xeno-canto.org/323087",
+      "recordist": "Peter Boesman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "B",
+      "length": "0:10",
+      "location": "Barrow, North Slope, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/323087/grey-medium.png"
+    },
+    {
       "xenoCantoId": "623972",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/623972/download",
       "pageUrl": "https://xeno-canto.org/623972",
       "recordist": "Manuel Grosselet",
@@ -366,8 +381,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/623972/grey-medium.png"
     },
     {
+      "xenoCantoId": "324726",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/324726/download",
+      "pageUrl": "https://xeno-canto.org/324726",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Poe Road, Salton Sea, Imperial County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/324726/grey-medium.png"
+    },
+    {
       "xenoCantoId": "498127",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/498127/download",
       "pageUrl": "https://xeno-canto.org/498127",
       "recordist": "Manuel Grosselet",
@@ -380,5 +409,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Western_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3855"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3855",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-mauri"
 }

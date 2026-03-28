@@ -206,20 +206,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1048930",
+      "xenoCantoId": "994649",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1048930/download",
-      "pageUrl": "https://xeno-canto.org/1048930",
-      "recordist": "Alain Verneau",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/994649/download",
+      "pageUrl": "https://xeno-canto.org/994649",
+      "recordist": "David Pennington",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "eBird hotspot Cape Greco",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NOJNUVZEHB/1048930/grey-medium.png"
+      "length": "1:01",
+      "location": "Lasithi (near  Schisma Eloundas), Crete, Decentralized Administration of Crete",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NCKVRGEJTE/994649/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "960228",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/960228/download",
+      "pageUrl": "https://xeno-canto.org/960228",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Rumbak",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/960228/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "833985",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/833985/download",
+      "pageUrl": "https://xeno-canto.org/833985",
+      "recordist": "Martin Billard",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Lamaiin Hiid, Saikhan-Ovoo, Dundgovi",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WKUHMYUJSN/833985/grey-medium.png"
     },
     {
       "xenoCantoId": "547809",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/547809/download",
       "pageUrl": "https://xeno-canto.org/547809",
       "recordist": "Andrew Spencer",
@@ -230,19 +258,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/547809/grey-medium.png"
     },
     {
-      "xenoCantoId": "466103",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/466103/download",
-      "pageUrl": "https://xeno-canto.org/466103",
-      "recordist": "Manuel Grosselet",
+      "xenoCantoId": "472243",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/472243/download",
+      "pageUrl": "https://xeno-canto.org/472243",
+      "recordist": "Alain Verneau",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Emek HaMayanot, Yizrael, North District",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/466103/grey-medium.png"
+      "length": "1:10",
+      "location": "North Khorasan Province",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NOJNUVZEHB/472243/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "387754",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/387754/download",
+      "pageUrl": "https://xeno-canto.org/387754",
+      "recordist": "Bruce Lagerquist",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Lower Crab Creek Rd, Grant County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/387754/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chukar_partridge",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/846"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/846",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Alectoris-chukar"
 }

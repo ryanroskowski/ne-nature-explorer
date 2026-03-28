@@ -192,6 +192,7 @@
     {
       "xenoCantoId": "1003281",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1003281/download",
       "pageUrl": "https://xeno-canto.org/1003281",
       "recordist": "Brendan Sloan",
@@ -202,8 +203,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TNTQAOFHFM/1003281/grey-medium.png"
     },
     {
+      "xenoCantoId": "807616",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/807616/download",
+      "pageUrl": "https://xeno-canto.org/807616",
+      "recordist": "Ned Bohman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Pahrump, Nye County, Nevada",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LRBJKOMLDW/807616/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "803379",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/803379/download",
+      "pageUrl": "https://xeno-canto.org/803379",
+      "recordist": "David Tattersley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Point Pelee National Park (near  Wheatley), Essex County, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/803379/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1084268",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1084268/download",
       "pageUrl": "https://xeno-canto.org/1084268",
       "recordist": "Manuel Grosselet",
@@ -214,8 +242,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1084268/grey-medium.png"
     },
     {
+      "xenoCantoId": "939824",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/939824/download",
+      "pageUrl": "https://xeno-canto.org/939824",
+      "recordist": "Brian Cox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Bear Canyon, Pryor Mountains, Carbon County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OKSKESEOLP/939824/grey-medium.png"
+    },
+    {
       "xenoCantoId": "650977",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/650977/download",
       "pageUrl": "https://xeno-canto.org/650977",
       "recordist": "Russ Wigh",
@@ -228,5 +270,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Blue-gray_gnatcatcher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7493"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7493",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Polioptila-caerulea"
 }

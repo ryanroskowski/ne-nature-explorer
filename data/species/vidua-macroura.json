@@ -184,6 +184,7 @@
     {
       "xenoCantoId": "1037320",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1037320/download",
       "pageUrl": "https://xeno-canto.org/1037320",
       "recordist": "Filippo Ceccolini",
@@ -194,8 +195,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VWVVYWSUYS/1037320/grey-medium.png"
     },
     {
+      "xenoCantoId": "965496",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/965496/download",
+      "pageUrl": "https://xeno-canto.org/965496",
+      "recordist": "Ranive",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Semira Farmhouse",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DVZFGQXNVC/965496/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "877900",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/877900/download",
+      "pageUrl": "https://xeno-canto.org/877900",
+      "recordist": "Étienne Leroy",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Boléko, Lope, Ogooué-Ivindo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZWAQHOJFLZ/877900/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1081043",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1081043/download",
       "pageUrl": "https://xeno-canto.org/1081043",
       "recordist": "African Bioacoustics Community",
@@ -206,8 +234,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YSGTQVRQZI/1081043/grey-medium.png"
     },
     {
+      "xenoCantoId": "710193",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/710193/download",
+      "pageUrl": "https://xeno-canto.org/710193",
+      "recordist": "Tony Archer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "City of Matlosana (near  Klerksdorp), Southern DC, North West",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HMBDEWEZVS/710193/grey-medium.png"
+    },
+    {
       "xenoCantoId": "428743",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/428743/download",
       "pageUrl": "https://xeno-canto.org/428743",
       "recordist": "João Tomás",
@@ -220,5 +262,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pin-tailed_whydah",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14011"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14011",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Vidua-macroura"
 }

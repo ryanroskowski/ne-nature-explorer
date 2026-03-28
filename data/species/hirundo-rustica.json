@@ -214,20 +214,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1091074",
+      "xenoCantoId": "1091721",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1091074/download",
-      "pageUrl": "https://xeno-canto.org/1091074",
-      "recordist": "Xavier Riera",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1091721/download",
+      "pageUrl": "https://xeno-canto.org/1091721",
+      "recordist": "Francesco Sottile",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Baix Camp (near  Reus), Tarragona, Catalunya",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WNLIDKJKXT/1091074/grey-medium.png"
+      "length": "1:12",
+      "location": "Corigliano-Rossano, Province of Cosenza, Calabria",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ITHRUQEQCF/1091721/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1043386",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1043386/download",
+      "pageUrl": "https://xeno-canto.org/1043386",
+      "recordist": "Beatrix Saadi-Varchmin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:18",
+      "location": "Hagenheim, Hagerstall, Landsberg/Lech,  Oberbayern, Bayern",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OQZFKFTAKD/1043386/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1029397",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1029397/download",
+      "pageUrl": "https://xeno-canto.org/1029397",
+      "recordist": "João Tomás",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:20",
+      "location": "La Armuña (near  Valdunciel), Salamanca, Castilla y León",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/POVKNQVSGU/1029397/grey-medium.png"
     },
     {
       "xenoCantoId": "1068668",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1068668/download",
       "pageUrl": "https://xeno-canto.org/1068668",
       "recordist": "András Schmidt",
@@ -238,8 +266,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WMHNJNGJCW/1068668/grey-medium.png"
     },
     {
+      "xenoCantoId": "1029124",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1029124/download",
+      "pageUrl": "https://xeno-canto.org/1029124",
+      "recordist": "Romuald Mikusek",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:07",
+      "location": "Odra river near  Glogow, Głogów County, Lower Silesian Voivodeship",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BLMSIUFTFU/1029124/grey-medium.png"
+    },
+    {
       "xenoCantoId": "994579",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/994579/download",
       "pageUrl": "https://xeno-canto.org/994579",
       "recordist": "João Tomás",
@@ -252,5 +294,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Barn_swallow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/11901"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/11901",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Hirundo-rustica"
 }

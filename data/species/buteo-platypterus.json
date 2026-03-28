@@ -252,6 +252,7 @@
     {
       "xenoCantoId": "1056117",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1056117/download",
       "pageUrl": "https://xeno-canto.org/1056117",
       "recordist": "Denis Dujardin",
@@ -262,20 +263,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SMUORWOKLJ/1056117/grey-medium.png"
     },
     {
-      "xenoCantoId": "927432",
+      "xenoCantoId": "933601",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/933601/download",
+      "pageUrl": "https://xeno-canto.org/933601",
+      "recordist": "Thomas Magarian",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Big Mountain Rd, GWNF, Page County, Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/933601/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "630415",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/630415/download",
+      "pageUrl": "https://xeno-canto.org/630415",
+      "recordist": "Kent Livezey",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:08",
+      "location": "El Valle de Antón, Coclé Province",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SZFQBBYSTI/630415/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "898460",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/927432/download",
-      "pageUrl": "https://xeno-canto.org/927432",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/898460/download",
+      "pageUrl": "https://xeno-canto.org/898460",
       "recordist": "Valerie Heemstra",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:54",
-      "location": "Limestone Township (near  Diffin), Alger County, Michigan",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/927432/grey-medium.png"
+      "length": "0:11",
+      "location": "National Forest near Ogontz Bay boat launch, Delta County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/898460/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "842572",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/842572/download",
+      "pageUrl": "https://xeno-canto.org/842572",
+      "recordist": "Carlos Henrique Luz Nunes de Almeida",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Avenida Tupiniquins, 88-130 (near  São Vicente), São Vicente, São Paulo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RREYPEYNGN/842572/grey-medium.png"
     },
     {
       "xenoCantoId": "282410",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/282410/download",
       "pageUrl": "https://xeno-canto.org/282410",
       "recordist": "Alex MacPhail",
@@ -288,5 +330,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Broad-winged_hawk",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5227"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5227",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Buteo-platypterus"
 }

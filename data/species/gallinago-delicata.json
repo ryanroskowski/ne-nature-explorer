@@ -222,20 +222,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1071315",
+      "xenoCantoId": "1033294",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1071315/download",
-      "pageUrl": "https://xeno-canto.org/1071315",
-      "recordist": "Pontus Wennesjö",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1033294/download",
+      "pageUrl": "https://xeno-canto.org/1033294",
+      "recordist": "Adrian D. Thysse",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:50",
-      "location": "Storsjö, Berg Municipality, Jämtlands län",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SGHXLGCROH/1071315/grey-medium.png"
+      "length": "0:10",
+      "location": "Elk Island National Park, Beaver Pond Trail.",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UOIRIZBIGI/1033294/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1023801",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1023801/download",
+      "pageUrl": "https://xeno-canto.org/1023801",
+      "recordist": "Alex Jones",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Coalmont, Jackson County, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SZLVBAANFI/1023801/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014493",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1014493/download",
+      "pageUrl": "https://xeno-canto.org/1014493",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Le Fjord-du-Saguenay Regional County Municipality (near  Saint-Fulgence), Saguenay–Lac-Saint-Jean, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014493/grey-medium.png"
     },
     {
       "xenoCantoId": "1048656",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1048656/download",
       "pageUrl": "https://xeno-canto.org/1048656",
       "recordist": "Valerie Heemstra",
@@ -246,19 +274,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1048656/grey-medium.png"
     },
     {
-      "xenoCantoId": "1014886",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1014886/download",
-      "pageUrl": "https://xeno-canto.org/1014886",
-      "recordist": "Stanislas Wroza",
+      "xenoCantoId": "806080",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/806080/download",
+      "pageUrl": "https://xeno-canto.org/806080",
+      "recordist": "David Tattersley",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Québec, Capitale-Nationale, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014886/grey-medium.png"
+      "length": "0:24",
+      "location": "Kawartha Lakes (near  Kirkfield), Kawartha Lakes, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/806080/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "379001",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/379001/download",
+      "pageUrl": "https://xeno-canto.org/379001",
+      "recordist": "James Bradley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:33",
+      "location": "Columbia-Shuswap B (near  Revelstoke), Columbia-Shuswap, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ITRQTFVLNT/379001/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Wilson's_snipe",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144496"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144496",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Gallinago-delicata"
 }

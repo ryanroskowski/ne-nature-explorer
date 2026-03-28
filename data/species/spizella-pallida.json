@@ -201,20 +201,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1014344",
+      "xenoCantoId": "1014343",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1014344/download",
-      "pageUrl": "https://xeno-canto.org/1014344",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1014343/download",
+      "pageUrl": "https://xeno-canto.org/1014343",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:46",
+      "length": "1:25",
       "location": "La Haute-Côte-Nord (near  Tadoussac), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014344/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014343/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "940063",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/940063/download",
+      "pageUrl": "https://xeno-canto.org/940063",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:04",
+      "location": "Holbrook Reservoir, Otero Cty, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/940063/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "901439",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/901439/download",
+      "pageUrl": "https://xeno-canto.org/901439",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:49",
+      "location": "Masonville Township (near  Maplewood), Delta County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/901439/grey-medium.png"
     },
     {
       "xenoCantoId": "1039181",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1039181/download",
       "pageUrl": "https://xeno-canto.org/1039181",
       "recordist": "Greg Irving",
@@ -223,9 +251,23 @@
       "length": "0:35",
       "location": "Sheyenne River (near  Luverne), Griggs County, North Dakota",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1039181/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "103473",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/103473/download",
+      "pageUrl": "https://xeno-canto.org/103473",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "1:22",
+      "location": "Burke County prairie potholes, North Dakota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/103473/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Clay-colored_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9148"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9148",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Spizella-pallida"
 }

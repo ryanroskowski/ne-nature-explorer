@@ -216,6 +216,7 @@
     {
       "xenoCantoId": "837853",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/837853/download",
       "pageUrl": "https://xeno-canto.org/837853",
       "recordist": "Ray Tsu 诸仁",
@@ -226,20 +227,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FROVFAFTMA/837853/grey-medium.png"
     },
     {
-      "xenoCantoId": "1069617",
+      "xenoCantoId": "803438",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/803438/download",
+      "pageUrl": "https://xeno-canto.org/803438",
+      "recordist": "Albert Lastukhin",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:50",
+      "location": "Mariinsko-Posadskiy rayon, Chuvashia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/803438/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "662648",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/662648/download",
+      "pageUrl": "https://xeno-canto.org/662648",
+      "recordist": "Stein Ø. Nilsen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Tjeldsund, Tjeldsund, Troms og Finnmark",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/662648/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1069612",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1069617/download",
-      "pageUrl": "https://xeno-canto.org/1069617",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1069612/download",
+      "pageUrl": "https://xeno-canto.org/1069612",
       "recordist": "David Darrell-Lambert",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Tarout, Al-Qatif, Eastern Province",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1069617/grey-medium.png"
+      "length": "0:18",
+      "location": "Al Uqayr, Al Ahsa, Eastern Province",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1069612/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "765522",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/765522/download",
+      "pageUrl": "https://xeno-canto.org/765522",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "Durgun, Khovd",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/765522/grey-medium.png"
     },
     {
       "xenoCantoId": "675218",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/675218/download",
       "pageUrl": "https://xeno-canto.org/675218",
       "recordist": "Albert Lastukhin",
@@ -252,5 +294,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Terek_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3969"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3969",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Xenus-cinereus"
 }

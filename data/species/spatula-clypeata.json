@@ -228,6 +228,7 @@
     {
       "xenoCantoId": "644507",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/644507/download",
       "pageUrl": "https://xeno-canto.org/644507",
       "recordist": "Jarek Matusiak",
@@ -238,8 +239,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/644507/grey-medium.png"
     },
     {
+      "xenoCantoId": "371900",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/371900/download",
+      "pageUrl": "https://xeno-canto.org/371900",
+      "recordist": "Stein Ø. Nilsen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "TISNES, TROMSØ",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/371900/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "112787",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/112787/download",
+      "pageUrl": "https://xeno-canto.org/112787",
+      "recordist": "Patrik Åberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "Ryholm, Västergötland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/112787/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1079577",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1079577/download",
       "pageUrl": "https://xeno-canto.org/1079577",
       "recordist": "Marc Anderson",
@@ -250,8 +278,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1079577/grey-medium.png"
     },
     {
+      "xenoCantoId": "1041165",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1041165/download",
+      "pageUrl": "https://xeno-canto.org/1041165",
+      "recordist": "Sonothèque ADVL",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Miniac-Morvan, Ille-et-Vilaine, Bretagne",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BJAXFFKOML/1041165/grey-medium.png"
+    },
+    {
       "xenoCantoId": "366028",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/366028/download",
       "pageUrl": "https://xeno-canto.org/366028",
       "recordist": "Marco Dragonetti",
@@ -264,5 +306,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_shoveler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558438"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558438",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Spatula-clypeata"
 }

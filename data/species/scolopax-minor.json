@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1028236",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1028236/download",
       "pageUrl": "https://xeno-canto.org/1028236",
       "recordist": "David Darrell-Lambert",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1028236/grey-medium.png"
     },
     {
+      "xenoCantoId": "990410",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/990410/download",
+      "pageUrl": "https://xeno-canto.org/990410",
+      "recordist": "Sacha Balavoine",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:02",
+      "location": "Le Domaine-du-Roy (near  Saint-Félicien), Saguenay–Lac-Saint-Jean, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QVMBOMNAVO/990410/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "805469",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/805469/download",
+      "pageUrl": "https://xeno-canto.org/805469",
+      "recordist": "Alex Lin-Moore",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Halifax, Plymouth County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RCTJJHSQGO/805469/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1028227",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1028227/download",
       "pageUrl": "https://xeno-canto.org/1028227",
       "recordist": "David Darrell-Lambert",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1028227/grey-medium.png"
     },
     {
+      "xenoCantoId": "906713",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/906713/download",
+      "pageUrl": "https://xeno-canto.org/906713",
+      "recordist": "Jeff Stewart",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Township Of Cavan Monaghan (near  Millbrook), Peterborough County, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/URGFVYYSWH/906713/grey-medium.png"
+    },
+    {
       "xenoCantoId": "794668",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/794668/download",
       "pageUrl": "https://xeno-canto.org/794668",
       "recordist": "Lisa Mease",
@@ -260,5 +302,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_woodcock",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3936"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3936",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Scolopax-minor"
 }

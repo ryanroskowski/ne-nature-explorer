@@ -190,6 +190,7 @@
     {
       "xenoCantoId": "898677",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/898677/download",
       "pageUrl": "https://xeno-canto.org/898677",
       "recordist": "Guillermo Treboux",
@@ -200,8 +201,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UZCHJCUDEF/898677/grey-medium.png"
     },
     {
+      "xenoCantoId": "795090",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/795090/download",
+      "pageUrl": "https://xeno-canto.org/795090",
+      "recordist": "José Menéndez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:19",
+      "location": "Arapey Chico, Departamento de Salto",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZCFZMKSMPP/795090/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "108209",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/108209/download",
+      "pageUrl": "https://xeno-canto.org/108209",
+      "recordist": "Bernabe Lopez-Lanus",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "B",
+      "length": "0:39",
+      "location": "Estancia La Aurora del Palmar, Ubajay, Entre Rios",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BYLLSJRVDZ/108209/grey-medium.png"
+    },
+    {
       "xenoCantoId": "272879",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/272879/download",
       "pageUrl": "https://xeno-canto.org/272879",
       "recordist": "Peter Boesman",
@@ -210,9 +238,23 @@
       "length": "0:22",
       "location": "Calilegua NP, Jujuy",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/272879/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "49947",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/49947/download",
+      "pageUrl": "https://xeno-canto.org/49947",
+      "recordist": "Rosendo Fraga",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Quebrada Las Higueritas, San Luis",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JQSYKZHEMB/49947/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hepatic_tanager",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9924"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9924",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Piranga-flava"
 }

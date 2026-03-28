@@ -221,20 +221,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "877497",
+      "xenoCantoId": "373364",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/877497/download",
-      "pageUrl": "https://xeno-canto.org/877497",
-      "recordist": "Skyler Bol",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/373364/download",
+      "pageUrl": "https://xeno-canto.org/373364",
+      "recordist": "Matt Wistrand",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Benton Lake NWR, Cascade County, Montana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ESGJLNIGDA/877497/grey-medium.png"
+      "length": "0:27",
+      "location": "BLM grasslands, north of Glasgow, Valley County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QZOXFIKPFF/373364/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "293743",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/293743/download",
+      "pageUrl": "https://xeno-canto.org/293743",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:47",
+      "location": "BLM grasslands, north of Glasgow, Valley County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/293743/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "185564",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/185564/download",
+      "pageUrl": "https://xeno-canto.org/185564",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:46",
+      "location": "Bowdoin National Wildlife Refuge, Phillips Co., Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/185564/grey-medium.png"
     },
     {
       "xenoCantoId": "196475",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/196475/download",
       "pageUrl": "https://xeno-canto.org/196475",
       "recordist": "Richard E. Webster",
@@ -243,9 +271,23 @@
       "length": "0:42",
       "location": "Bowdoin National Wildlife Refuge, Phillips Co., Montana",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/196475/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "104374",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/104374/download",
+      "pageUrl": "https://xeno-canto.org/104374",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Lemmon Lake Road, Grand River National Grasslands, Perkins Co., South Dakota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/104374/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chestnut-collared_longspur",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/117153"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/117153",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calcarius-ornatus"
 }

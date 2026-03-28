@@ -200,6 +200,7 @@
     {
       "xenoCantoId": "555280",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/555280/download",
       "pageUrl": "https://xeno-canto.org/555280",
       "recordist": "Lars Edenius",
@@ -210,20 +211,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/555280/grey-medium.png"
     },
     {
-      "xenoCantoId": "1087259",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1087259/download",
-      "pageUrl": "https://xeno-canto.org/1087259",
-      "recordist": "Petter Westberg",
+      "xenoCantoId": "511709",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/511709/download",
+      "pageUrl": "https://xeno-canto.org/511709",
+      "recordist": "Patrik Åberg",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "Sinuk, Kiruna Municipality, Norrbottens län",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1087259/grey-medium.png"
+      "length": "1:13",
+      "location": "Stora Karlsö, Gotland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/511709/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "141724",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/141724/download",
+      "pageUrl": "https://xeno-canto.org/141724",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Safety Sound, Nome Census Area, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/141724/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1029233",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1029233/download",
+      "pageUrl": "https://xeno-canto.org/1029233",
+      "recordist": "Astrid Cervantes",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "De Koog, Texel",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GHZBANAZPO/1029233/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "660676",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/660676/download",
+      "pageUrl": "https://xeno-canto.org/660676",
+      "recordist": "Alan Dalton",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Robertsfors Ö, Robertsfors Municipality, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBJSEFYVPV/660676/grey-medium.png"
     },
     {
       "xenoCantoId": "553571",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/553571/download",
       "pageUrl": "https://xeno-canto.org/553571",
       "recordist": "Peter Stronach",
@@ -236,5 +278,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-breasted_merganser",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6996"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6996",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Mergus-serrator"
 }

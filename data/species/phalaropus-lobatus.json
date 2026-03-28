@@ -242,32 +242,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "487651",
+      "xenoCantoId": "424556",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/487651/download",
-      "pageUrl": "https://xeno-canto.org/487651",
-      "recordist": "Stanislas Wroza",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/424556/download",
+      "pageUrl": "https://xeno-canto.org/424556",
+      "recordist": "Stein Ø. Nilsen",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "15:35",
-      "location": "Rif",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/487651/grey-medium.png"
+      "length": "0:24",
+      "location": "Longyearbyen, Svalbard",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/424556/grey-medium.png"
     },
     {
-      "xenoCantoId": "1087256",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1087256/download",
-      "pageUrl": "https://xeno-canto.org/1087256",
-      "recordist": "Petter Westberg",
+      "xenoCantoId": "380823",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/380823/download",
+      "pageUrl": "https://xeno-canto.org/380823",
+      "recordist": "Jens Kirkeby",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
-      "location": "Rostojávri, Kiruna Municipality, Norrbottens län",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1087256/grey-medium.png"
+      "length": "0:27",
+      "location": "Ugolnye Kopi, Anadyrskiy rayon, Chukotskiy",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YKITMEIRRE/380823/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "64759",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/64759/download",
+      "pageUrl": "https://xeno-canto.org/64759",
+      "recordist": "Patrik Åberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:49",
+      "location": "Tavvavuoma, Lappland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/64759/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1010217",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1010217/download",
+      "pageUrl": "https://xeno-canto.org/1010217",
+      "recordist": "Benjamin Drillat",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:58",
+      "location": "Utqiagvik, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/1010217/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "935939",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/935939/download",
+      "pageUrl": "https://xeno-canto.org/935939",
+      "recordist": "Huibert van den Bos",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Burgh-Haamstede, Schouwen-Duiveland, Zeeland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RPEHFIZTRC/935939/grey-medium.png"
     },
     {
       "xenoCantoId": "835545",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/835545/download",
       "pageUrl": "https://xeno-canto.org/835545",
       "recordist": "Frantz Barrault",
@@ -280,5 +322,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-necked_phalarope",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3959"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3959",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Phalaropus-lobatus"
 }

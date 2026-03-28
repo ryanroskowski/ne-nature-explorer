@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "932757",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/932757/download",
       "pageUrl": "https://xeno-canto.org/932757",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/932757/grey-medium.png"
     },
     {
+      "xenoCantoId": "587543",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/587543/download",
+      "pageUrl": "https://xeno-canto.org/587543",
+      "recordist": "Daniel Mello ",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Queimados, Rio de Janeiro",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FGTAPOKDKF/587543/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "435612",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/435612/download",
+      "pageUrl": "https://xeno-canto.org/435612",
+      "recordist": "Robson Silva e Silva",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:31",
+      "location": "Parque Nacional da Serra da Canastra, São Roque de Minas, Minas Gerais",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WZSVLIHYQF/435612/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1084214",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1084214/download",
       "pageUrl": "https://xeno-canto.org/1084214",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -244,9 +272,23 @@
       "length": "0:16",
       "location": "Santa Rita do Novo Destino, Goiás, Chácara Jayrson",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/1084214/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1050467",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1050467/download",
+      "pageUrl": "https://xeno-canto.org/1050467",
+      "recordist": "Joost van Bruggen",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Pousada Jardim da Amazonia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RNMRWBXEZJ/1050467/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Crested_caracara",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4715"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4715",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Caracara-plancus"
 }

@@ -230,6 +230,7 @@
     {
       "xenoCantoId": "210755",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/210755/download",
       "pageUrl": "https://xeno-canto.org/210755",
       "recordist": "Ian Cruickshank",
@@ -240,8 +241,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XEIROMUDEB/210755/grey-medium.png"
     },
     {
+      "xenoCantoId": "70460",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/70460/download",
+      "pageUrl": "https://xeno-canto.org/70460",
+      "recordist": "Paul Driver",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:31",
+      "location": "Lewis (near  Clay Center), Clay, Nebraska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/70460/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "66926",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/66926/download",
+      "pageUrl": "https://xeno-canto.org/66926",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Landing Lake, Churchill, MB",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/66926/grey-medium.png"
+    },
+    {
       "xenoCantoId": "773059",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/773059/download",
       "pageUrl": "https://xeno-canto.org/773059",
       "recordist": "Gregory Askew",
@@ -252,8 +280,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LESINAMNUB/773059/grey-medium.png"
     },
     {
+      "xenoCantoId": "176989",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/176989/download",
+      "pageUrl": "https://xeno-canto.org/176989",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Hygiene, Boulder Co., Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/176989/grey-medium.png"
+    },
+    {
       "xenoCantoId": "688776",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/688776/download",
       "pageUrl": "https://xeno-canto.org/688776",
       "recordist": "Brad Banner",
@@ -266,5 +308,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Harris's_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9182"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9182",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Zonotrichia-querula"
 }

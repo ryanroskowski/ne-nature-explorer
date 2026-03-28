@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "1061801",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1061801/download",
       "pageUrl": "https://xeno-canto.org/1061801",
       "recordist": "Jorge Valella Robledo",
@@ -261,8 +262,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IXRJPNCAOO/1061801/grey-medium.png"
     },
     {
+      "xenoCantoId": "1009388",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1009388/download",
+      "pageUrl": "https://xeno-canto.org/1009388",
+      "recordist": "Denis Provencher",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "La Vallée-de-l'Or (near  Nânâdônok), Abitibi-Témiscamingue, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QQHLLSOTCS/1009388/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "839985",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/839985/download",
+      "pageUrl": "https://xeno-canto.org/839985",
+      "recordist": "Manuel Oudard",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:18",
+      "location": "South Frontenac (near  Perth Road), Frontenac County, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ISEVSYKZZW/839985/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1056526",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1056526/download",
       "pageUrl": "https://xeno-canto.org/1056526",
       "recordist": "Nolan Sound Library",
@@ -271,9 +299,23 @@
       "length": "1:02",
       "location": "Darfield, Thompson-Nicola, British Columbia",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UQCPUYNWXI/1056526/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "835553",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/835553/download",
+      "pageUrl": "https://xeno-canto.org/835553",
+      "recordist": "Frantz Barrault",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Dalvik, Dalvíkurbyggð",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RJUNGDNCSJ/835553/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_loon",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4626"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4626",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Gavia-immer"
 }

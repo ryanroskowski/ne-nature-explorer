@@ -237,20 +237,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1014984",
+      "xenoCantoId": "1014983",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1014984/download",
-      "pageUrl": "https://xeno-canto.org/1014984",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1014983/download",
+      "pageUrl": "https://xeno-canto.org/1014983",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:08",
+      "length": "1:22",
       "location": "Bécancour Regional County Municipality (near  Bécancour), Centre-du-Québec, Quebec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014984/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014983/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "961627",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/961627/download",
+      "pageUrl": "https://xeno-canto.org/961627",
+      "recordist": "A Richardson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Burgdorf, Idaho County, Idaho",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XBUQGDEYSJ/961627/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "893200",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/893200/download",
+      "pageUrl": "https://xeno-canto.org/893200",
+      "recordist": "Ned Bohman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Silverthorne, Summit County, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LRBJKOMLDW/893200/grey-medium.png"
     },
     {
       "xenoCantoId": "1014978",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014978/download",
       "pageUrl": "https://xeno-canto.org/1014978",
       "recordist": "Stanislas Wroza",
@@ -261,8 +289,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014978/grey-medium.png"
     },
     {
+      "xenoCantoId": "776450",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/776450/download",
+      "pageUrl": "https://xeno-canto.org/776450",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "San Bernardino National Wildlife Refuge, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/776450/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014977",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014977/download",
       "pageUrl": "https://xeno-canto.org/1014977",
       "recordist": "Stanislas Wroza",
@@ -275,5 +317,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lincoln's_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9092"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9092",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Melospiza-lincolnii"
 }

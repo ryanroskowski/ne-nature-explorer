@@ -58,6 +58,7 @@ interface XenoCantoResponse {
 export interface BirdAudioEntry {
   xenoCantoId: string;
   type: string;           // "song", "call", "alarm call", etc.
+  label?: string;         // display label for variants (e.g. "Song 1", "Song 2")
   audioUrl: string;       // direct download URL
   pageUrl: string;        // xeno-canto page for this recording
   recordist: string;
@@ -126,20 +127,27 @@ async function fetchRecordings(scientificName: string): Promise<XenoCantoRecordi
 }
 
 /**
- * Select the best recordings for a species:
- * - 1 best song (quality A preferred, then B)
- * - 1 best call
- * - 1 optional alarm/drumming if available
- * Max 3 recordings per species.
+ * Select diverse recordings for a species:
+ * - Up to 3 songs (from different recordists for variety)
+ * - Up to 2 calls
+ * - 1 alarm and/or 1 drumming if available
+ * Max 6 recordings per species, labeled for display.
  */
 function selectBestRecordings(recordings: XenoCantoRecording[]): BirdAudioEntry[] {
   if (recordings.length === 0) return [];
 
-  // Sort by quality (A first, then B)
+  // Sort by quality (A first, then B), then by length (prefer 10-90 sec recordings)
   const qualityOrder: Record<string, number> = { A: 0, B: 1, C: 2, D: 3, E: 4 };
-  const sorted = [...recordings].sort(
-    (a, b) => (qualityOrder[a.q] ?? 5) - (qualityOrder[b.q] ?? 5)
-  );
+  const sorted = [...recordings].sort((a, b) => {
+    const qDiff = (qualityOrder[a.q] ?? 5) - (qualityOrder[b.q] ?? 5);
+    if (qDiff !== 0) return qDiff;
+    // Prefer recordings between 10-90 seconds
+    const aDur = parseLengthSec(a.length);
+    const bDur = parseLengthSec(b.length);
+    const aScore = (aDur >= 10 && aDur <= 90) ? 0 : 1;
+    const bScore = (bDur >= 10 && bDur <= 90) ? 0 : 1;
+    return aScore - bScore;
+  });
 
   // Group by normalized type
   const byType = new Map<string, XenoCantoRecording[]>();
@@ -151,34 +159,57 @@ function selectBestRecordings(recordings: XenoCantoRecording[]): BirdAudioEntry[
 
   const selected: BirdAudioEntry[] = [];
 
-  // Pick best song
-  const songs = byType.get("song");
-  if (songs && songs.length > 0) {
-    selected.push(toAudioEntry(songs[0], "song"));
+  // Pick up to 3 songs from different recordists
+  const songs = byType.get("song") || [];
+  const usedRecordists = new Set<string>();
+  let songCount = 0;
+  for (const rec of songs) {
+    if (songCount >= 3) break;
+    // Prefer different recordists for variety
+    if (usedRecordists.has(rec.rec) && songCount > 0) continue;
+    const label = songCount === 0 ? "Song" : `Song ${songCount + 1}`;
+    selected.push(toAudioEntry(rec, "song", label));
+    usedRecordists.add(rec.rec);
+    songCount++;
   }
 
-  // Pick best call
-  const calls = byType.get("call");
-  if (calls && calls.length > 0) {
-    selected.push(toAudioEntry(calls[0], "call"));
+  // Pick up to 2 calls from different recordists
+  const calls = byType.get("call") || [];
+  let callCount = 0;
+  for (const rec of calls) {
+    if (callCount >= 2) break;
+    if (usedRecordists.has(rec.rec) && callCount > 0) continue;
+    const label = callCount === 0 ? "Call" : `Call ${callCount + 1}`;
+    selected.push(toAudioEntry(rec, "call", label));
+    usedRecordists.add(rec.rec);
+    callCount++;
   }
 
-  // Pick alarm or drumming if we have room
-  if (selected.length < 3) {
-    for (const type of ["alarm", "drumming"]) {
-      const recs = byType.get(type);
-      if (recs && recs.length > 0 && selected.length < 3) {
-        selected.push(toAudioEntry(recs[0], type));
-      }
-    }
+  // Pick 1 alarm if available
+  const alarms = byType.get("alarm");
+  if (alarms && alarms.length > 0) {
+    selected.push(toAudioEntry(alarms[0], "alarm", "Alarm"));
   }
 
-  // If we have no song or call, just take the best available
+  // Pick 1 drumming if available (woodpeckers etc.)
+  const drumming = byType.get("drumming");
+  if (drumming && drumming.length > 0) {
+    selected.push(toAudioEntry(drumming[0], "drumming", "Drumming"));
+  }
+
+  // If we got nothing yet, take the best available
   if (selected.length === 0 && sorted.length > 0) {
     selected.push(toAudioEntry(sorted[0], normalizeType(sorted[0].type)));
   }
 
   return selected;
+}
+
+/** Parse "m:ss" length string to seconds */
+function parseLengthSec(length: string): number {
+  const parts = length.split(":");
+  if (parts.length === 2) return parseInt(parts[0]) * 60 + parseInt(parts[1]);
+  return 0;
 }
 
 /** Ensure a URL has https:// prefix (v2 returned protocol-relative, v3 returns full URLs) */
@@ -189,10 +220,11 @@ function ensureHttps(url: string): string {
   return `https://${url}`;
 }
 
-function toAudioEntry(rec: XenoCantoRecording, type: string): BirdAudioEntry {
+function toAudioEntry(rec: XenoCantoRecording, type: string, label?: string): BirdAudioEntry {
   return {
     xenoCantoId: rec.id,
     type,
+    ...(label ? { label } : {}),
     audioUrl: ensureHttps(rec.file),
     pageUrl: ensureHttps(rec.url),
     recordist: rec.rec,

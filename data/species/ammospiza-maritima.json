@@ -243,6 +243,7 @@
     {
       "xenoCantoId": "992996",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/992996/download",
       "pageUrl": "https://xeno-canto.org/992996",
       "recordist": "Bill Grantham",
@@ -253,8 +254,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UWHBFUYWSQ/992996/grey-medium.png"
     },
     {
+      "xenoCantoId": "819384",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/819384/download",
+      "pageUrl": "https://xeno-canto.org/819384",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Anahuac, Chambers County, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/819384/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "660361",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/660361/download",
+      "pageUrl": "https://xeno-canto.org/660361",
+      "recordist": "Linda Stehlik",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Little Egg Harbor Township (near  Galloway), Ocean County, New Jersey",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KMZDHSKODB/660361/grey-medium.png"
+    },
+    {
       "xenoCantoId": "607115",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/607115/download",
       "pageUrl": "https://xeno-canto.org/607115",
       "recordist": "Russ Wigh",
@@ -265,8 +293,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YBJUQSUJFZ/607115/grey-medium.png"
     },
     {
+      "xenoCantoId": "108884",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/108884/download",
+      "pageUrl": "https://xeno-canto.org/108884",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:49",
+      "location": "Werner-Boyce Salt Springs State Park, Pasco Co., Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/108884/grey-medium.png"
+    },
+    {
       "xenoCantoId": "660360",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/660360/download",
       "pageUrl": "https://xeno-canto.org/660360",
       "recordist": "Linda Stehlik",
@@ -279,5 +321,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Seaside_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/793292"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/793292",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Ammospiza-maritima"
 }

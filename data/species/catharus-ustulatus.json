@@ -253,6 +253,7 @@
     {
       "xenoCantoId": "1046353",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1046353/download",
       "pageUrl": "https://xeno-canto.org/1046353",
       "recordist": "AUDEVARD Aurélien",
@@ -263,8 +264,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1046353/grey-medium.png"
     },
     {
+      "xenoCantoId": "1014352",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1014352/download",
+      "pageUrl": "https://xeno-canto.org/1014352",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:12",
+      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014352/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013702",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1013702/download",
+      "pageUrl": "https://xeno-canto.org/1013702",
+      "recordist": "MARK BRENNAN",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:12",
+      "location": "Addington Parish (near  Adams Gulch), Restigouche Rural District, New Brunswick",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QLIFEGZOIT/1013702/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1056038",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1056038/download",
       "pageUrl": "https://xeno-canto.org/1056038",
       "recordist": "Denis Dujardin",
@@ -275,8 +303,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SMUORWOKLJ/1056038/grey-medium.png"
     },
     {
+      "xenoCantoId": "764429",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/764429/download",
+      "pageUrl": "https://xeno-canto.org/764429",
+      "recordist": "Bruce Lagerquist",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Liberty, Kittitas County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/764429/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1013836",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1013836/download",
       "pageUrl": "https://xeno-canto.org/1013836",
       "recordist": "Stanislas Wroza",
@@ -289,5 +331,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Swainson's_thrush",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12878"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12878",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Catharus-ustulatus"
 }

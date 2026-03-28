@@ -176,6 +176,7 @@
     {
       "xenoCantoId": "1018607",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1018607/download",
       "pageUrl": "https://xeno-canto.org/1018607",
       "recordist": "Robson Silva e Silva",
@@ -186,19 +187,60 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WZSVLIHYQF/1018607/grey-medium.png"
     },
     {
-      "xenoCantoId": "1017295",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1017295/download",
-      "pageUrl": "https://xeno-canto.org/1017295",
+      "xenoCantoId": "763701",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/763701/download",
+      "pageUrl": "https://xeno-canto.org/763701",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
+      "length": "0:10",
+      "location": "Piscicultura - Goiânia, Goiânia, Goiás",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/763701/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "576478",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/576478/download",
+      "pageUrl": "https://xeno-canto.org/576478",
+      "recordist": "Ciro Albano",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:08",
+      "location": "Boa Nova, Bahia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MXVQPUKGWW/576478/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "985375",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/985375/download",
+      "pageUrl": "https://xeno-canto.org/985375",
+      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
       "location": "Reserva Fazenda Capivara - Santo Antônio de Goiás",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/1017295/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/985375/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "427086",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/427086/download",
+      "pageUrl": "https://xeno-canto.org/427086",
+      "recordist": "Caio Brito",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:32",
+      "location": "RPPN Rio do Brasil, Porto Seguro-BA, Bahia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWWWUBVAJF/427086/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Golden-capped_parakeet",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/72522"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/72522",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aratinga-auricapillus"
 }

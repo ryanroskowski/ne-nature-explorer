@@ -219,6 +219,7 @@
     {
       "xenoCantoId": "1060895",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1060895/download",
       "pageUrl": "https://xeno-canto.org/1060895",
       "recordist": "Benjamin Drillat",
@@ -229,8 +230,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/1060895/grey-medium.png"
     },
     {
+      "xenoCantoId": "1046350",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1046350/download",
+      "pageUrl": "https://xeno-canto.org/1046350",
+      "recordist": "AUDEVARD Aurélien",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Kincaid Park (near  Anchorage), Anchorage Municipality, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1046350/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1020698",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1020698/download",
+      "pageUrl": "https://xeno-canto.org/1020698",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Isle aux Coudres",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1020698/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1077867",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1077867/download",
       "pageUrl": "https://xeno-canto.org/1077867",
       "recordist": "Ray Cooke",
@@ -241,19 +269,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EMFMDDVOUG/1077867/grey-medium.png"
     },
     {
-      "xenoCantoId": "1048819",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1048819/download",
-      "pageUrl": "https://xeno-canto.org/1048819",
-      "recordist": "AUDEVARD Aurélien",
+      "xenoCantoId": "1076462",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1076462/download",
+      "pageUrl": "https://xeno-canto.org/1076462",
+      "recordist": "Christiana Fattorelli",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Anchorage, Anchorage Municipality, Alaska",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1048819/grey-medium.png"
+      "length": "1:08",
+      "location": "Tanicuchi, Latacunga, Cotopaxi",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NREKAVFDXE/1076462/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013370",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1013370/download",
+      "pageUrl": "https://xeno-canto.org/1013370",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Charlevoix (near  Saint-Joseph-de-la-Rive), Capitale-Nationale, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013370/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lesser_yellowlegs",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3893"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3893",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tringa-flavipes"
 }

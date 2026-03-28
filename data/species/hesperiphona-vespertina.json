@@ -227,32 +227,74 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1013739",
+      "xenoCantoId": "1013738",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1013739/download",
-      "pageUrl": "https://xeno-canto.org/1013739",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1013738/download",
+      "pageUrl": "https://xeno-canto.org/1013738",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:27",
+      "length": "0:38",
       "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013739/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013738/grey-medium.png"
     },
     {
-      "xenoCantoId": "1073861",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1073861/download",
-      "pageUrl": "https://xeno-canto.org/1073861",
-      "recordist": "Greg Irving",
+      "xenoCantoId": "940559",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/940559/download",
+      "pageUrl": "https://xeno-canto.org/940559",
+      "recordist": "Sue Riffe",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:15",
-      "location": "Dungeness Recreation Area, Clallam County, Washington",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1073861/grey-medium.png"
+      "length": "0:23",
+      "location": "Steamboat Springs, Routt County, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/940559/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "930885",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/930885/download",
+      "pageUrl": "https://xeno-canto.org/930885",
+      "recordist": "Justin Flint",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Great Blue Heron Nature Reserve (near  Chilliwack), Fraser Valley, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PRQOHQWDAY/930885/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1053490",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1053490/download",
+      "pageUrl": "https://xeno-canto.org/1053490",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Bay de Noc Township (near  Rapid River), Delta County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1053490/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1008980",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1008980/download",
+      "pageUrl": "https://xeno-canto.org/1008980",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:58",
+      "location": "Michigamme Township (near  Champion), Marquette County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1008980/grey-medium.png"
     },
     {
       "xenoCantoId": "794657",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/794657/download",
       "pageUrl": "https://xeno-canto.org/794657",
       "recordist": "Valerie Heemstra",
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Evening_grosbeak",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1650411"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1650411",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Hesperiphona-vespertina"
 }

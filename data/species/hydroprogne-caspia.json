@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "556708",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/556708/download",
       "pageUrl": "https://xeno-canto.org/556708",
       "recordist": "Meena Haribal",
@@ -241,6 +242,7 @@
     {
       "xenoCantoId": "1087250",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1087250/download",
       "pageUrl": "https://xeno-canto.org/1087250",
       "recordist": "Petter Westberg",
@@ -251,8 +253,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1087250/grey-medium.png"
     },
     {
+      "xenoCantoId": "1071684",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1071684/download",
+      "pageUrl": "https://xeno-canto.org/1071684",
+      "recordist": "C PAL",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Sare, Pyrénées-Atlantiques, Nouvelle-Aquitaine",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NYLSZXWDIT/1071684/grey-medium.png"
+    },
+    {
       "xenoCantoId": "930628",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/930628/download",
       "pageUrl": "https://xeno-canto.org/930628",
       "recordist": "Marcin Sołowiej",
@@ -265,5 +281,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Caspian_tern",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144537"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144537",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Hydroprogne-caspia"
 }

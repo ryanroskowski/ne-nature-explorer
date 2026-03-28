@@ -349,6 +349,7 @@
     {
       "xenoCantoId": "559623",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/559623/download",
       "pageUrl": "https://xeno-canto.org/559623",
       "recordist": "Stein Ø. Nilsen",
@@ -359,20 +360,48 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/559623/grey-medium.png"
     },
     {
-      "xenoCantoId": "1063010",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1063010/download",
-      "pageUrl": "https://xeno-canto.org/1063010",
-      "recordist": "Lucien Hueber",
+      "xenoCantoId": "185585",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/185585/download",
+      "pageUrl": "https://xeno-canto.org/185585",
+      "recordist": "Andrew Spencer",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:02",
-      "location": "Plounéour-Brignogan-plages, Finistère, Bretagne",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QDMEVZSCMQ/1063010/grey-medium.png"
+      "length": "1:12",
+      "location": "Mile 34 Ridge, Teller Highway, Nome Census Area, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/185585/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1048273",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1048273/download",
+      "pageUrl": "https://xeno-canto.org/1048273",
+      "recordist": "Ricardo Hevia",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Ortegal (near  Cariño), A Coruña, Galicia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BQFSTZRSEP/1048273/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1037489",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1037489/download",
+      "pageUrl": "https://xeno-canto.org/1037489",
+      "recordist": "Lars Mogensen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Tjele, Viborg Municipality, Central Denmark Region",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UOMNPGBULW/1037489/grey-medium.png"
     },
     {
       "xenoCantoId": "150662",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/150662/download",
       "pageUrl": "https://xeno-canto.org/150662",
       "recordist": "Jarek Matusiak",
@@ -385,5 +414,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red_knot",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3845"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3845",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-canutus"
 }

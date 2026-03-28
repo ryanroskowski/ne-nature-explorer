@@ -237,6 +237,7 @@
     {
       "xenoCantoId": "197640",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/197640/download",
       "pageUrl": "https://xeno-canto.org/197640",
       "recordist": "Joe Klaiber",
@@ -247,8 +248,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TNPOVFLZMY/197640/grey-medium.png"
     },
     {
+      "xenoCantoId": "113539",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/113539/download",
+      "pageUrl": "https://xeno-canto.org/113539",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "2:53",
+      "location": "Nieporęt (near  Białobrzegi), Legionowo County, Mazowieckie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/113539/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "935618",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/935618/download",
+      "pageUrl": "https://xeno-canto.org/935618",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "B",
+      "length": "0:54",
+      "location": "Sandringham, Newfoundland and Labrador",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/935618/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1051902",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1051902/download",
       "pageUrl": "https://xeno-canto.org/1051902",
       "recordist": "Ulf Elman",
@@ -259,8 +287,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/1051902/grey-medium.png"
     },
     {
+      "xenoCantoId": "523093",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/523093/download",
+      "pageUrl": "https://xeno-canto.org/523093",
+      "recordist": "Alwin van Lubeck",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Aduard, Zuidhorn, Groningen",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WNWPLYVMWV/523093/grey-medium.png"
+    },
+    {
       "xenoCantoId": "187758",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/187758/download",
       "pageUrl": "https://xeno-canto.org/187758",
       "recordist": "Andrew Spencer",
@@ -273,5 +315,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bohemian_waxwing",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7429"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7429",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Bombycilla-garrulus"
 }

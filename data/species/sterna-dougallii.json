@@ -246,6 +246,7 @@
     {
       "xenoCantoId": "1040102",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1040102/download",
       "pageUrl": "https://xeno-canto.org/1040102",
       "recordist": "Ricardo Hevia",
@@ -256,8 +257,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BQFSTZRSEP/1040102/grey-medium.png"
     },
     {
+      "xenoCantoId": "1024593",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1024593/download",
+      "pageUrl": "https://xeno-canto.org/1024593",
+      "recordist": "Paul Kelly",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:13",
+      "location": "Tacumshin Lake (East End), County Wexford",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/1024593/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1042803",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1042803/download",
       "pageUrl": "https://xeno-canto.org/1042803",
       "recordist": "Sonothèque ADVL",
@@ -270,5 +285,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Roseate_tern",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4436"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4436",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sterna-dougallii"
 }

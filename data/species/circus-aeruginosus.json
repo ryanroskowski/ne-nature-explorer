@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "961137",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/961137/download",
       "pageUrl": "https://xeno-canto.org/961137",
       "recordist": "Jens Kirkeby",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YKITMEIRRE/961137/grey-medium.png"
     },
     {
+      "xenoCantoId": "872074",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/872074/download",
+      "pageUrl": "https://xeno-canto.org/872074",
+      "recordist": "João Tomás",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:13",
+      "location": "Alfaro (near  Rincón de Soto), La Rioja, La Rioja",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/POVKNQVSGU/872074/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "646164",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/646164/download",
+      "pageUrl": "https://xeno-canto.org/646164",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Skärjavan, Rönnholm, Nordmaling Municipality, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/646164/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1065530",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1065530/download",
       "pageUrl": "https://xeno-canto.org/1065530",
       "recordist": "Jose Ignacio Molina",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XXFJPGAEEZ/1065530/grey-medium.png"
     },
     {
+      "xenoCantoId": "1012256",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1012256/download",
+      "pageUrl": "https://xeno-canto.org/1012256",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Snettisham RSPB Reserve, Norfolk",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1012256/grey-medium.png"
+    },
+    {
       "xenoCantoId": "771167",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/771167/download",
       "pageUrl": "https://xeno-canto.org/771167",
       "recordist": "Maxime Pirio",
@@ -260,5 +302,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Western_marsh_harrier",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5173"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5173",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Circus-aeruginosus"
 }

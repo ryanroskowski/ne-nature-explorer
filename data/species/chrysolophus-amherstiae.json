@@ -184,6 +184,7 @@
     {
       "xenoCantoId": "1017342",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1017342/download",
       "pageUrl": "https://xeno-canto.org/1017342",
       "recordist": "Jelle Scharringa",
@@ -194,8 +195,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KDTMIWOGNC/1017342/grey-medium.png"
     },
     {
+      "xenoCantoId": "1015848",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1015848/download",
+      "pageUrl": "https://xeno-canto.org/1015848",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:03",
+      "location": "Lidlington, Central Bedfordshire, England",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1015848/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "709650",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/709650/download",
+      "pageUrl": "https://xeno-canto.org/709650",
+      "recordist": "Ray Tsu 诸仁",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "3:10",
+      "location": "Wu Wei Temple, Dali, Yunnan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FROVFAFTMA/709650/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1005121",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1005121/download",
       "pageUrl": "https://xeno-canto.org/1005121",
       "recordist": "Dave Guo",
@@ -206,8 +234,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KQMHASAYBL/1005121/grey-medium.png"
     },
     {
+      "xenoCantoId": "916158",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/916158/download",
+      "pageUrl": "https://xeno-canto.org/916158",
+      "recordist": "Peter Boesman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:27",
+      "location": "Labahe NNR, Sichuan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/916158/grey-medium.png"
+    },
+    {
       "xenoCantoId": "709662",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/709662/download",
       "pageUrl": "https://xeno-canto.org/709662",
       "recordist": "Ray Tsu 诸仁",
@@ -220,5 +262,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lady_Amherst's_pheasant",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1231"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1231",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Chrysolophus-amherstiae"
 }

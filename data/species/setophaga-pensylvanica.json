@@ -362,6 +362,7 @@
     {
       "xenoCantoId": "1037298",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1037298/download",
       "pageUrl": "https://xeno-canto.org/1037298",
       "recordist": "Bobby Wilcox",
@@ -372,8 +373,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1037298/grey-medium.png"
     },
     {
+      "xenoCantoId": "1015055",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1015055/download",
+      "pageUrl": "https://xeno-canto.org/1015055",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:49",
+      "location": "La Haute-Yamaska (near  Shefford), Estrie, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1015055/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1008349",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1008349/download",
+      "pageUrl": "https://xeno-canto.org/1008349",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Michigamme Township (near  Champion), Marquette County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1008349/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1072533",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1072533/download",
       "pageUrl": "https://xeno-canto.org/1072533",
       "recordist": "Max Noack",
@@ -384,8 +412,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NYTGVXSILH/1072533/grey-medium.png"
     },
     {
+      "xenoCantoId": "862421",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/862421/download",
+      "pageUrl": "https://xeno-canto.org/862421",
+      "recordist": "Joost van Bruggen",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:27",
+      "location": "Volcán, Bugaba, Provincia de Chiriquí",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RNMRWBXEZJ/862421/grey-medium.png"
+    },
+    {
       "xenoCantoId": "195314",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/195314/download",
       "pageUrl": "https://xeno-canto.org/195314",
       "recordist": "Paul Driver",
@@ -398,5 +440,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chestnut-sided_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145239"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145239",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-pensylvanica"
 }

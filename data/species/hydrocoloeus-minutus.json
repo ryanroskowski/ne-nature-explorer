@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "243999",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/243999/download",
       "pageUrl": "https://xeno-canto.org/243999",
       "recordist": "Terje Kolaas",
@@ -239,8 +240,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CIMGCGUWCS/243999/grey-medium.png"
     },
     {
+      "xenoCantoId": "908898",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/908898/download",
+      "pageUrl": "https://xeno-canto.org/908898",
+      "recordist": "maciej sobieraj",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:16",
+      "location": "Gmina Wolin (near  Wolin), Kamień County, West Pomeranian Voivodeship",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RMMGIXAHYZ/908898/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1080622",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1080622/download",
       "pageUrl": "https://xeno-canto.org/1080622",
       "recordist": "Francesco Sottile",
@@ -251,8 +266,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ITHRUQEQCF/1080622/grey-medium.png"
     },
     {
+      "xenoCantoId": "1001546",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1001546/download",
+      "pageUrl": "https://xeno-canto.org/1001546",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:35",
+      "location": "Vendelsjön, Uppland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/1001546/grey-medium.png"
+    },
+    {
       "xenoCantoId": "363668",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/363668/download",
       "pageUrl": "https://xeno-canto.org/363668",
       "recordist": "Stanislas Wroza",
@@ -265,5 +294,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Little_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144512"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144512",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Hydrocoloeus-minutus"
 }

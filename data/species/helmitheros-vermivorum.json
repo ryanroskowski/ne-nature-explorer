@@ -219,20 +219,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1038386",
+      "xenoCantoId": "1001954",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1038386/download",
-      "pageUrl": "https://xeno-canto.org/1038386",
-      "recordist": "Bobby Wilcox",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1001954/download",
+      "pageUrl": "https://xeno-canto.org/1001954",
+      "recordist": "Sue Riffe",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Skinner State Park, Hampshire County, Massachusetts",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1038386/grey-medium.png"
+      "length": "0:27",
+      "location": "Nada Tunnel, Red River Gorge, Kentucky",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1001954/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "933618",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/933618/download",
+      "pageUrl": "https://xeno-canto.org/933618",
+      "recordist": "Thomas Magarian",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:12",
+      "location": "GWNF, Emerald Pond, Page County, Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/933618/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "730180",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/730180/download",
+      "pageUrl": "https://xeno-canto.org/730180",
+      "recordist": "Jorge de Leon Cardozo &amp; Susan Hochgraf",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "Bolton Notch State Park, Tolland County, Connecticut",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RHARFLKISN/730180/grey-medium.png"
     },
     {
       "xenoCantoId": "383681",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/383681/download",
       "pageUrl": "https://xeno-canto.org/383681",
       "recordist": "Eric Hough",
@@ -243,8 +271,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BCFUZDOSJZ/383681/grey-medium.png"
     },
     {
+      "xenoCantoId": "309895",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/309895/download",
+      "pageUrl": "https://xeno-canto.org/309895",
+      "recordist": "Hal Mitchell",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Holly Springs, Marshall County, Mississippi",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DLGSDUKLNI/309895/grey-medium.png"
+    },
+    {
       "xenoCantoId": "278349",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/278349/download",
       "pageUrl": "https://xeno-canto.org/278349",
       "recordist": "Manuel Grosselet",
@@ -257,5 +299,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Worm-eating_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/72912"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/72912",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Helmitheros-vermivorum"
 }

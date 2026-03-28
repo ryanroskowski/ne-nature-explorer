@@ -190,20 +190,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1000596",
+      "xenoCantoId": "403689",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1000596/download",
-      "pageUrl": "https://xeno-canto.org/1000596",
-      "recordist": "Barry Edmonston",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/403689/download",
+      "pageUrl": "https://xeno-canto.org/403689",
+      "recordist": "Mario Trejo",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:08",
-      "location": "Álamos, Álamos Municipality, Sonora",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FHQVLXJQKW/1000596/grey-medium.png"
+      "length": "0:21",
+      "location": "San Ignacio, Chalatenango",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MSXVGDVGIP/403689/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "953",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/953/download",
+      "pageUrl": "https://xeno-canto.org/953",
+      "recordist": "Robin Carter",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:52",
+      "location": "Finca Daniel",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LNBKSKKLXO/953/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "662",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/662/download",
+      "pageUrl": "https://xeno-canto.org/662",
+      "recordist": "Dan Mennill",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Santa Rosa National Park",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NHJILLHRNZ/662/grey-medium.png"
     },
     {
       "xenoCantoId": "1031029",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1031029/download",
       "pageUrl": "https://xeno-canto.org/1031029",
       "recordist": "Manuel Grosselet",
@@ -212,9 +240,23 @@
       "length": "1:19",
       "location": "Crucecita, Santa María Huatulco, Oaxaca",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1031029/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "998040",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/998040/download",
+      "pageUrl": "https://xeno-canto.org/998040",
+      "recordist": "Paul Driver",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "San Antonio, Cayo District",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/998040/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/White-fronted_amazon",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/18995"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/18995",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Amazona-albifrons"
 }

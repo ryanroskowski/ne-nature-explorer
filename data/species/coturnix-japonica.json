@@ -141,6 +141,7 @@
     {
       "xenoCantoId": "805611",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/805611/download",
       "pageUrl": "https://xeno-canto.org/805611",
       "recordist": "Vadim Ivushkin ",
@@ -151,8 +152,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ROPPXDGZJF/805611/grey-medium.png"
     },
     {
+      "xenoCantoId": "266707",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/266707/download",
+      "pageUrl": "https://xeno-canto.org/266707",
+      "recordist": "Albert Lastukhin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Khasanskiy rayon, Primorskiy kray",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/266707/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "61942",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/61942/download",
+      "pageUrl": "https://xeno-canto.org/61942",
+      "recordist": "Christoph Bock",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Ulz Gol",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RWKZQCNIFF/61942/grey-medium.png"
+    },
+    {
       "xenoCantoId": "527210",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/527210/download",
       "pageUrl": "https://xeno-canto.org/527210",
       "recordist": "James Lidster",
@@ -163,8 +191,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NRUIFMFTXY/527210/grey-medium.png"
     },
     {
+      "xenoCantoId": "487179",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/487179/download",
+      "pageUrl": "https://xeno-canto.org/487179",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:03",
+      "location": "Kabansky District, Buryatiya Republits",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/487179/grey-medium.png"
+    },
+    {
       "xenoCantoId": "266698",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/266698/download",
       "pageUrl": "https://xeno-canto.org/266698",
       "recordist": "Albert Lastukhin",
@@ -177,5 +219,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Japanese_quail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/791"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/791",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Coturnix-japonica"
 }

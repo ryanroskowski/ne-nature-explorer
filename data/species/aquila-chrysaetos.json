@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "876891",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/876891/download",
       "pageUrl": "https://xeno-canto.org/876891",
       "recordist": "Lars Edenius",
@@ -234,8 +235,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/876891/grey-medium.png"
     },
     {
+      "xenoCantoId": "307888",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/307888/download",
+      "pageUrl": "https://xeno-canto.org/307888",
+      "recordist": "Stein Ø. Nilsen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "1:19",
+      "location": "Straumsbukta",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/307888/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1045328",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1045328/download",
       "pageUrl": "https://xeno-canto.org/1045328",
       "recordist": "Lars Edenius",
@@ -246,8 +261,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/1045328/grey-medium.png"
     },
     {
+      "xenoCantoId": "710018",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/710018/download",
+      "pageUrl": "https://xeno-canto.org/710018",
+      "recordist": "Morioka Zoological Park ZOOMO",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Morioka Zoological Park ZOOMO, Morioka City, Iwate Prefecture",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GNYVMVEMZX/710018/grey-medium.png"
+    },
+    {
       "xenoCantoId": "860990",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/860990/download",
       "pageUrl": "https://xeno-canto.org/860990",
       "recordist": "Vaslin Matthieu",
@@ -260,5 +289,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Golden_eagle",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5074"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5074",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aquila-chrysaetos"
 }

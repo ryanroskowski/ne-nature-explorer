@@ -235,32 +235,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1086961",
+      "xenoCantoId": "659840",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1086961/download",
-      "pageUrl": "https://xeno-canto.org/1086961",
-      "recordist": "Gustav Haapalahti",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/659840/download",
+      "pageUrl": "https://xeno-canto.org/659840",
+      "recordist": "Johan Södercrantz",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:35",
-      "location": "Luleå kommun",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OUXBDYQNFO/1086961/grey-medium.png"
+      "length": "0:41",
+      "location": "Stensjön, Bjuråker, Hälsingland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CIHYZWBHFL/659840/grey-medium.png"
     },
     {
-      "xenoCantoId": "1015385",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1015385/download",
-      "pageUrl": "https://xeno-canto.org/1015385",
-      "recordist": "Gustav Haapalahti",
+      "xenoCantoId": "655482",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/655482/download",
+      "pageUrl": "https://xeno-canto.org/655482",
+      "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:59",
-      "location": "Norrbotten",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OUXBDYQNFO/1015385/grey-medium.png"
+      "length": "0:48",
+      "location": "Vindeln, Vindeln Municipality, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/655482/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "343168",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/343168/download",
+      "pageUrl": "https://xeno-canto.org/343168",
+      "recordist": "Tero Linjama",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:38",
+      "location": "Leivonmäki, Joutsa, Central Finland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YSDNMROVID/343168/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1004638",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1004638/download",
+      "pageUrl": "https://xeno-canto.org/1004638",
+      "recordist": "PE Svahn",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:33",
+      "location": "Taberg station, Jönköping, Jönköpings län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OGZZVVEHKU/1004638/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "944362",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/944362/download",
+      "pageUrl": "https://xeno-canto.org/944362",
+      "recordist": "Mats Rellmar",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:52",
+      "location": "Laholm Municipality, Halland County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SNRCANJSRX/944362/grey-medium.png"
     },
     {
       "xenoCantoId": "655485",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/655485/download",
       "pageUrl": "https://xeno-canto.org/655485",
       "recordist": "Lars Edenius",
@@ -273,5 +315,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Great_grey_owl",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/19890"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/19890",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Strix-nebulosa"
 }

@@ -226,20 +226,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1045852",
+      "xenoCantoId": "1005653",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1045852/download",
-      "pageUrl": "https://xeno-canto.org/1045852",
-      "recordist": "AUDEVARD Aurélien",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1005653/download",
+      "pageUrl": "https://xeno-canto.org/1005653",
+      "recordist": "Dag Österlund",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:07",
-      "location": "Utqiagvik, North Slope, Barrow, Alaska",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1045852/grey-medium.png"
+      "length": "1:10",
+      "location": "Övre Soppero, Kiruna Municipality, Norrbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMSAKXGUCH/1005653/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1005158",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1005158/download",
+      "pageUrl": "https://xeno-canto.org/1005158",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Övre Soppero, Kiruna Municipality, Norrbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/1005158/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "654772",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/654772/download",
+      "pageUrl": "https://xeno-canto.org/654772",
+      "recordist": "Elias A. Ryberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:11",
+      "location": "Folldal kommune, Innlandet",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFGQDPLDEC/654772/grey-medium.png"
     },
     {
       "xenoCantoId": "1085894",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1085894/download",
       "pageUrl": "https://xeno-canto.org/1085894",
       "recordist": "Petter Westberg",
@@ -250,8 +278,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1085894/grey-medium.png"
     },
     {
+      "xenoCantoId": "1011913",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1011913/download",
+      "pageUrl": "https://xeno-canto.org/1011913",
+      "recordist": "Benjamin Drillat",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Nome Census Area, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/1011913/grey-medium.png"
+    },
+    {
       "xenoCantoId": "577092",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/577092/download",
       "pageUrl": "https://xeno-canto.org/577092",
       "recordist": "Thomas Bergman",
@@ -264,5 +306,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lapland_longspur",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/116840"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/116840",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calcarius-lapponicus"
 }

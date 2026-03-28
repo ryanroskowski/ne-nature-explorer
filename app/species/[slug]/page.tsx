@@ -313,6 +313,16 @@ export default async function SpeciesPage({
             Wikipedia →
           </a>
         )}
+        {species.xenoCantoUrl && (
+          <a
+            href={species.xenoCantoUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-card border border-border rounded-lg text-text-secondary hover:text-forest hover:border-forest/30 transition-colors"
+          >
+            🎵 Xeno-canto →
+          </a>
+        )}
       </div>
     </article>
   );

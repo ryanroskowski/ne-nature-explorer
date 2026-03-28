@@ -200,6 +200,7 @@
     {
       "xenoCantoId": "1021228",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1021228/download",
       "pageUrl": "https://xeno-canto.org/1021228",
       "recordist": "Stanislas Wroza",
@@ -210,8 +211,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1021228/grey-medium.png"
     },
     {
+      "xenoCantoId": "1019313",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1019313/download",
+      "pageUrl": "https://xeno-canto.org/1019313",
+      "recordist": "Carlos Delgado JUMABITA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:51",
+      "location": "Jardín Botánico de Medellin ",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QNQOLYYZEB/1019313/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1018630",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1018630/download",
+      "pageUrl": "https://xeno-canto.org/1018630",
+      "recordist": "Manuel Sánchez-Nivicela",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Jardín Botánico de Quito (JBQ), Metropolitan District of Quito, Pichincha",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBFFGHPZZQ/1018630/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1076782",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1076782/download",
       "pageUrl": "https://xeno-canto.org/1076782",
       "recordist": "Max Noack",
@@ -222,19 +250,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NYTGVXSILH/1076782/grey-medium.png"
     },
     {
-      "xenoCantoId": "1014784",
+      "xenoCantoId": "1048517",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1048517/download",
+      "pageUrl": "https://xeno-canto.org/1048517",
+      "recordist": "Paul Lenrumé",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:47",
+      "location": "Pointe Buzaré ",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HHXEHTNZKV/1048517/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013453",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1014784/download",
-      "pageUrl": "https://xeno-canto.org/1014784",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1013453/download",
+      "pageUrl": "https://xeno-canto.org/1013453",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:07",
-      "location": "La Côte-de-Beaupré (near  La Barrière-du-Maurice), Capitale-Nationale, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014784/grey-medium.png"
+      "length": "0:14",
+      "location": "Charlevoix (near  Saint-Joseph-de-la-Rive), Capitale-Nationale, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013453/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_waterthrush",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/73149"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/73149",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Parkesia-noveboracensis"
 }

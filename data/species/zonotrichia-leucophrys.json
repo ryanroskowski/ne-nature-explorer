@@ -238,6 +238,7 @@
     {
       "xenoCantoId": "1089806",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1089806/download",
       "pageUrl": "https://xeno-canto.org/1089806",
       "recordist": "Manuel Grosselet",
@@ -248,8 +249,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1089806/grey-medium.png"
     },
     {
+      "xenoCantoId": "1064908",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1064908/download",
+      "pageUrl": "https://xeno-canto.org/1064908",
+      "recordist": "Andy Hug &amp; Ashley Garrett",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Browning, Glacier County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WSGRGJZOXX/1064908/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1017855",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1017855/download",
+      "pageUrl": "https://xeno-canto.org/1017855",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:00",
+      "location": "Cap Tourmente",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1017855/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1060353",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1060353/download",
       "pageUrl": "https://xeno-canto.org/1060353",
       "recordist": "Yoann Blanchon",
@@ -260,8 +288,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OYXLQBTHRH/1060353/grey-medium.png"
     },
     {
+      "xenoCantoId": "1045667",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1045667/download",
+      "pageUrl": "https://xeno-canto.org/1045667",
+      "recordist": "AUDEVARD Aurélien",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Nome Airport (near  Nome), Nome Census Area, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1045667/grey-medium.png"
+    },
+    {
       "xenoCantoId": "961061",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/961061/download",
       "pageUrl": "https://xeno-canto.org/961061",
       "recordist": "Sue Riffe",
@@ -274,5 +316,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/White-crowned_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9176"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9176",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Zonotrichia-leucophrys"
 }

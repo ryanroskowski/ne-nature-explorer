@@ -270,6 +270,7 @@
     {
       "xenoCantoId": "571013",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/571013/download",
       "pageUrl": "https://xeno-canto.org/571013",
       "recordist": "Richard E. Webster",
@@ -280,8 +281,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/571013/grey-medium.png"
     },
     {
+      "xenoCantoId": "484554",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/484554/download",
+      "pageUrl": "https://xeno-canto.org/484554",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "J Street Marina, Chula Vista, San Diego Co, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/484554/grey-medium.png"
+    },
+    {
       "xenoCantoId": "347641",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/347641/download",
       "pageUrl": "https://xeno-canto.org/347641",
       "recordist": "J.R. Rigby",
@@ -294,5 +309,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/California_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4385"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4385",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Larus-californicus"
 }

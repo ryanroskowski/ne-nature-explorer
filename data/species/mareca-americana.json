@@ -231,6 +231,7 @@
     {
       "xenoCantoId": "1013535",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1013535/download",
       "pageUrl": "https://xeno-canto.org/1013535",
       "recordist": "Stanislas Wroza",
@@ -241,20 +242,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013535/grey-medium.png"
     },
     {
-      "xenoCantoId": "1073570",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1073570/download",
-      "pageUrl": "https://xeno-canto.org/1073570",
-      "recordist": "Greg Irving",
+      "xenoCantoId": "857365",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/857365/download",
+      "pageUrl": "https://xeno-canto.org/857365",
+      "recordist": "Scott Crabtree",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "8:13",
-      "location": "Carrie Blake Park, Sequim, Clallam County, Washington",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1073570/grey-medium.png"
+      "length": "0:17",
+      "location": "Fort Lowell Park (near  Tucson), Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/857365/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1072199",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1072199/download",
+      "pageUrl": "https://xeno-canto.org/1072199",
+      "recordist": "Greg Irving",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "1:11",
+      "location": "Three Crabs Restoration Project, Sequim, Clallam County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1072199/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "519619",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/519619/download",
+      "pageUrl": "https://xeno-canto.org/519619",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Paredones, Ahome, Sinaloa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/519619/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "384955",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/384955/download",
+      "pageUrl": "https://xeno-canto.org/384955",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Centennial Park, Santa Ana, Orange County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/384955/grey-medium.png"
     },
     {
       "xenoCantoId": "404504",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/404504/download",
       "pageUrl": "https://xeno-canto.org/404504",
       "recordist": "Bruce Lagerquist",
@@ -267,5 +309,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/American_wigeon",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/485176"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/485176",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Mareca-americana"
 }

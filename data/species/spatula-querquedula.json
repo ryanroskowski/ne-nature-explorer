@@ -223,6 +223,7 @@
     {
       "xenoCantoId": "993449",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/993449/download",
       "pageUrl": "https://xeno-canto.org/993449",
       "recordist": "Albert Lastukhin",
@@ -233,8 +234,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/993449/grey-medium.png"
     },
     {
+      "xenoCantoId": "737247",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/737247/download",
+      "pageUrl": "https://xeno-canto.org/737247",
+      "recordist": "Stein Ø. Nilsen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Parc Natural El Fondo d'Elx-Crevillent",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/737247/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "714871",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/714871/download",
+      "pageUrl": "https://xeno-canto.org/714871",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Brånsjön, Vännäs, Västerbotten County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/714871/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1089520",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1089520/download",
       "pageUrl": "https://xeno-canto.org/1089520",
       "recordist": "Martin Fousert",
@@ -245,19 +273,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZJKSGFVAUR/1089520/grey-medium.png"
     },
     {
-      "xenoCantoId": "379823",
+      "xenoCantoId": "1089418",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1089418/download",
+      "pageUrl": "https://xeno-canto.org/1089418",
+      "recordist": "Thierry THOMAS",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Montpellier, Hérault, Occitanie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JDDHNKDHCS/1089418/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "379822",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/379823/download",
-      "pageUrl": "https://xeno-canto.org/379823",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/379822/download",
+      "pageUrl": "https://xeno-canto.org/379822",
       "recordist": "Marco Dragonetti",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "quality": "A",
-      "length": "0:09",
+      "length": "0:15",
       "location": "Grosseto, Provincia di Grosseto, Toscana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XAMHIHFTZG/379823/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XAMHIHFTZG/379822/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Garganey",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558429"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558429",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Spatula-querquedula"
 }

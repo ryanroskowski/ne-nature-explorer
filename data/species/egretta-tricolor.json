@@ -246,6 +246,7 @@
     {
       "xenoCantoId": "657",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/657/download",
       "pageUrl": "https://xeno-canto.org/657",
       "recordist": "Dan Mennill",
@@ -256,19 +257,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NHJILLHRNZ/657/grey-medium.png"
     },
     {
-      "xenoCantoId": "975464",
+      "xenoCantoId": "941142",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/975464/download",
-      "pageUrl": "https://xeno-canto.org/975464",
-      "recordist": "GABRIEL LEITE",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/941142/download",
+      "pageUrl": "https://xeno-canto.org/941142",
+      "recordist": "Sue Riffe",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "Guamutal, Cienaga de Zapata, Matanzas",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TGBFXDVERJ/975464/grey-medium.png"
+      "length": "0:31",
+      "location": "Wakodahatchee Wetlands, Palm Beach Co., Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/941142/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "705371",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/705371/download",
+      "pageUrl": "https://xeno-canto.org/705371",
+      "recordist": "Paul Driver",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Ochopee, Collier County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/705371/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Tricolored_heron",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4938"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4938",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Egretta-tricolor"
 }

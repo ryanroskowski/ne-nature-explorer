@@ -249,20 +249,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1090714",
+      "xenoCantoId": "1021804",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1090714/download",
-      "pageUrl": "https://xeno-canto.org/1090714",
-      "recordist": "Manuel Grosselet",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1021804/download",
+      "pageUrl": "https://xeno-canto.org/1021804",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:59",
-      "location": "Locke-Paddon Park, Marina, Monterey County, California",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1090714/grey-medium.png"
+      "length": "0:32",
+      "location": "Cap Tourmente",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1021804/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014619",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1014619/download",
+      "pageUrl": "https://xeno-canto.org/1014619",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Miami Township (near  Shawnee), Hamilton County, Ohio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1014619/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "990357",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/990357/download",
+      "pageUrl": "https://xeno-canto.org/990357",
+      "recordist": "Ray Cooke",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:58",
+      "location": "Fort Augustus Road, East Fanning Brook Road, Fanning Brook, Prince Edward Island",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EMFMDDVOUG/990357/grey-medium.png"
     },
     {
       "xenoCantoId": "1056011",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1056011/download",
       "pageUrl": "https://xeno-canto.org/1056011",
       "recordist": "Denis Dujardin",
@@ -271,9 +299,23 @@
       "length": "0:22",
       "location": "Government Camp, Clackamas County, Oregon",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SMUORWOKLJ/1056011/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1044627",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1044627/download",
+      "pageUrl": "https://xeno-canto.org/1044627",
+      "recordist": "Paul Driver",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Elkins Park, PA",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/1044627/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_yellowthroat",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9721"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9721",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Geothlypis-trichas"
 }

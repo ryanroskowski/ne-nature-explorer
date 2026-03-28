@@ -152,6 +152,7 @@
     {
       "xenoCantoId": "1087446",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1087446/download",
       "pageUrl": "https://xeno-canto.org/1087446",
       "recordist": "Gustav Haapalahti",
@@ -162,20 +163,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OUXBDYQNFO/1087446/grey-medium.png"
     },
     {
-      "xenoCantoId": "1085697",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1085697/download",
-      "pageUrl": "https://xeno-canto.org/1085697",
-      "recordist": "Andrew McCafferty",
+      "xenoCantoId": "1080009",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1080009/download",
+      "pageUrl": "https://xeno-canto.org/1080009",
+      "recordist": "Marc Anderson",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Älvdalen Municipality, Dalarna County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1080009/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1045890",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1045890/download",
+      "pageUrl": "https://xeno-canto.org/1045890",
+      "recordist": "AUDEVARD Aurélien",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:31",
-      "location": "Lancaster District (near  Abbeystead), Lancashire, England",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HMSTLGFWNA/1085697/grey-medium.png"
+      "length": "0:11",
+      "location": "Nome-Kougarok Road, Nome, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1045890/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1063456",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1063456/download",
+      "pageUrl": "https://xeno-canto.org/1063456",
+      "recordist": "Stein Ø. Nilsen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Straumsbukta SNI",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/1063456/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "861925",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/861925/download",
+      "pageUrl": "https://xeno-canto.org/861925",
+      "recordist": "Peter Stronach",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Lauder, Scottish Borders, Scotland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/POUECYRDLL/861925/grey-medium.png"
     },
     {
       "xenoCantoId": "596790",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/596790/download",
       "pageUrl": "https://xeno-canto.org/596790",
       "recordist": "Niels Van Doninck",
@@ -188,5 +230,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Willow_ptarmigan",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/931"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/931",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Lagopus-lagopus"
 }

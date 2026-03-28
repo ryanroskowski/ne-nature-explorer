@@ -349,6 +349,7 @@
     {
       "xenoCantoId": "203721",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/203721/download",
       "pageUrl": "https://xeno-canto.org/203721",
       "recordist": "Andrew Spencer",
@@ -359,31 +360,73 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/203721/grey-medium.png"
     },
     {
-      "xenoCantoId": "1013192",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1013192/download",
-      "pageUrl": "https://xeno-canto.org/1013192",
-      "recordist": "Stanislas Wroza",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "xenoCantoId": "114931",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/114931/download",
+      "pageUrl": "https://xeno-canto.org/114931",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Charlevoix (near  L'Isle-aux-Coudres), Capitale-Nationale, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013192/grey-medium.png"
+      "length": "0:04",
+      "location": "\"the Fen\", near Churchill Northern Studies Centre, Manitoba",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/114931/grey-medium.png"
     },
     {
-      "xenoCantoId": "1021163",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1021163/download",
-      "pageUrl": "https://xeno-canto.org/1021163",
+      "xenoCantoId": "1021201",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1021201/download",
+      "pageUrl": "https://xeno-canto.org/1021201",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "B",
-      "length": "0:03",
+      "length": "0:15",
       "location": "Isle aux Coudres",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1021163/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1021201/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013191",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1013191/download",
+      "pageUrl": "https://xeno-canto.org/1013191",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Charlevoix (near  L'Isle-aux-Coudres), Capitale-Nationale, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013191/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "742364",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/742364/download",
+      "pageUrl": "https://xeno-canto.org/742364",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Barra De Navidad, Santa María Colotepec, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/742364/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1021162",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1021162/download",
+      "pageUrl": "https://xeno-canto.org/1021162",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:14",
+      "location": "Isle aux Coudres",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1021162/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Least_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3864"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3864",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-minutilla"
 }

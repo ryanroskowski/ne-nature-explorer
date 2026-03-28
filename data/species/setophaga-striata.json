@@ -363,20 +363,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1014785",
+      "xenoCantoId": "1014475",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1014785/download",
-      "pageUrl": "https://xeno-canto.org/1014785",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1014475/download",
+      "pageUrl": "https://xeno-canto.org/1014475",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:44",
-      "location": "La Côte-de-Beaupré (near  La Barrière-du-Maurice), Capitale-Nationale, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014785/grey-medium.png"
+      "length": "0:23",
+      "location": "Le Fjord-du-Saguenay Regional County Municipality (near  Saint-Fulgence), Saguenay–Lac-Saint-Jean, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014475/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "690983",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/690983/download",
+      "pageUrl": "https://xeno-canto.org/690983",
+      "recordist": "Christopher McPherson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:25",
+      "location": "Beaver Brook Association - Brown Lane Barn, Hollis, Hillsborough County, New Hampshire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNIFQCMOLA/690983/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "488509",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/488509/download",
+      "pageUrl": "https://xeno-canto.org/488509",
+      "recordist": "Aidan Place",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:38",
+      "location": "Mount Holly, Rutland County, Vermont",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EPXMBJVSYK/488509/grey-medium.png"
     },
     {
       "xenoCantoId": "1014739",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014739/download",
       "pageUrl": "https://xeno-canto.org/1014739",
       "recordist": "Stanislas Wroza",
@@ -387,8 +415,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014739/grey-medium.png"
     },
     {
+      "xenoCantoId": "390831",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/390831/download",
+      "pageUrl": "https://xeno-canto.org/390831",
+      "recordist": "Marcin Sołowiej",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Riberia Poco do Agua, Corvo, Açores",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EVFVYRATSX/390831/grey-medium.png"
+    },
+    {
       "xenoCantoId": "328835",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/328835/download",
       "pageUrl": "https://xeno-canto.org/328835",
       "recordist": "Lucas Berrigan",
@@ -401,5 +443,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Blackpoll_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145240"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145240",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-striata"
 }

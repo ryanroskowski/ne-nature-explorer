@@ -227,20 +227,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1034775",
+      "xenoCantoId": "1014787",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1034775/download",
-      "pageUrl": "https://xeno-canto.org/1034775",
-      "recordist": "Richard E. Webster",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1014787/download",
+      "pageUrl": "https://xeno-canto.org/1014787",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "4:18",
-      "location": "San Bernardino National Wildlife Refuge, Cochise County, Arizona",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1034775/grey-medium.png"
+      "length": "0:24",
+      "location": "La Côte-de-Beaupré (near  La Barrière-du-Maurice), Capitale-Nationale, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014787/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "983277",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/983277/download",
+      "pageUrl": "https://xeno-canto.org/983277",
+      "recordist": "Justin Flint",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Browne Creek Wetlands (near  Chilliwack), Fraser Valley, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PRQOHQWDAY/983277/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "941510",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/941510/download",
+      "pageUrl": "https://xeno-canto.org/941510",
+      "recordist": "Guillaume Bigayon",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Rimouski-Neigette (near  Saint-Fabien), Bas-Saint-Laurent, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HCKTRQCLWR/941510/grey-medium.png"
     },
     {
       "xenoCantoId": "1080778",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1080778/download",
       "pageUrl": "https://xeno-canto.org/1080778",
       "recordist": "Scott Olmstead",
@@ -251,8 +279,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/1080778/grey-medium.png"
     },
     {
+      "xenoCantoId": "1073859",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1073859/download",
+      "pageUrl": "https://xeno-canto.org/1073859",
+      "recordist": "Greg Irving",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Dungeness Recreation Area, Clallam County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1073859/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1080248",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1080248/download",
       "pageUrl": "https://xeno-canto.org/1080248",
       "recordist": "Greg Irving",
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruby-crowned_kinglet",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1289388"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1289388",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Corthylio-calendula"
 }

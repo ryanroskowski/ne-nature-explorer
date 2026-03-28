@@ -263,20 +263,22 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "645345",
+      "xenoCantoId": "645344",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/645345/download",
-      "pageUrl": "https://xeno-canto.org/645345",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/645344/download",
+      "pageUrl": "https://xeno-canto.org/645344",
       "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "B",
-      "length": "0:07",
+      "length": "0:11",
       "location": "Fatmomakke, Vilhelmina Municipality, Västerbottens län",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/645345/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/645344/grey-medium.png"
     },
     {
       "xenoCantoId": "732526",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/732526/download",
       "pageUrl": "https://xeno-canto.org/732526",
       "recordist": "Stein Ø. Nilsen",
@@ -287,8 +289,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/732526/grey-medium.png"
     },
     {
+      "xenoCantoId": "691202",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/691202/download",
+      "pageUrl": "https://xeno-canto.org/691202",
+      "recordist": "Thomas G. Graves",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Cambria, San Luis Obispo County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KGOCOOKTTU/691202/grey-medium.png"
+    },
+    {
       "xenoCantoId": "747268",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/747268/download",
       "pageUrl": "https://xeno-canto.org/747268",
       "recordist": "Lars Edenius",
@@ -301,5 +317,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Rough-legged_buzzard",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5200"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5200",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Buteo-lagopus"
 }

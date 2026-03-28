@@ -221,6 +221,7 @@
     {
       "xenoCantoId": "1012561",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1012561/download",
       "pageUrl": "https://xeno-canto.org/1012561",
       "recordist": "Stanislas Wroza",
@@ -231,20 +232,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012561/grey-medium.png"
     },
     {
-      "xenoCantoId": "952718",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/952718/download",
-      "pageUrl": "https://xeno-canto.org/952718",
-      "recordist": "Valerie Heemstra",
+      "xenoCantoId": "541702",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/541702/download",
+      "pageUrl": "https://xeno-canto.org/541702",
+      "recordist": "Doug Welch",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:27",
-      "location": "Bark River Township (near  Bark River), Delta County, Michigan",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/952718/grey-medium.png"
+      "length": "8:08",
+      "location": "McMaster Conservation Corridor (near  Hamilton), Hamilton Division, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVAIEQUNMM/541702/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "351542",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/351542/download",
+      "pageUrl": "https://xeno-canto.org/351542",
+      "recordist": "Melani Sleder",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:03",
+      "location": "Massachusetts (near Concord), Middlesex County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WILKJCMVHN/351542/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "828370",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/828370/download",
+      "pageUrl": "https://xeno-canto.org/828370",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "Greer Crossing Campground, Mark Twain NF, Missouri",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/828370/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "797066",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/797066/download",
+      "pageUrl": "https://xeno-canto.org/797066",
+      "recordist": "Jim Berry",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:35",
+      "location": "Busti (near  Jamestown), Chautauqua County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BMFJZMNPEG/797066/grey-medium.png"
     },
     {
       "xenoCantoId": "79046",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/79046/download",
       "pageUrl": "https://xeno-canto.org/79046",
       "recordist": "Ethan Duke",
@@ -253,9 +295,23 @@
       "length": "4:04",
       "location": "Millbrook, NY (Henry's Bog)",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OLUNMLJFIZ/79046/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1086863",
+      "type": "drumming",
+      "label": "Drumming",
+      "audioUrl": "https://xeno-canto.org/1086863/download",
+      "pageUrl": "https://xeno-canto.org/1086863",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:04",
+      "location": "Pearson Metropark, Lucas Cty, Ohio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1086863/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pileated_woodpecker",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17855"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17855",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Dryocopus-pileatus"
 }

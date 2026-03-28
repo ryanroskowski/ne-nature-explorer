@@ -234,8 +234,22 @@
   ],
   "audio": [
     {
+      "xenoCantoId": "77780",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/77780/download",
+      "pageUrl": "https://xeno-canto.org/77780",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:55",
+      "location": "Trapper Mine, Moffat Co., Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/77780/grey-medium.png"
+    },
+    {
       "xenoCantoId": "961082",
       "type": "call",
+      "label": "Call 2",
       "audioUrl": "https://xeno-canto.org/961082/download",
       "pageUrl": "https://xeno-canto.org/961082",
       "recordist": "Sue Riffe",
@@ -248,5 +262,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferruginous_hawk",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5181"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5181",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Buteo-regalis"
 }

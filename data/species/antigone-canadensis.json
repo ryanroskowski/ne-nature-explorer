@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1015005",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1015005/download",
       "pageUrl": "https://xeno-canto.org/1015005",
       "recordist": "Stanislas Wroza",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1015005/grey-medium.png"
     },
     {
+      "xenoCantoId": "711301",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/711301/download",
+      "pageUrl": "https://xeno-canto.org/711301",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Rowe Sanctuary (near  Gibbon), Buffalo County, Nebraska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/711301/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "565249",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/565249/download",
+      "pageUrl": "https://xeno-canto.org/565249",
+      "recordist": "Will Sweet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:56",
+      "location": "Cape Cod (near  Barnstable), Barnstable County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BVEAKEMWVN/565249/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1079590",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1079590/download",
       "pageUrl": "https://xeno-canto.org/1079590",
       "recordist": "Scott Olmstead",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/1079590/grey-medium.png"
     },
     {
+      "xenoCantoId": "1060753",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1060753/download",
+      "pageUrl": "https://xeno-canto.org/1060753",
+      "recordist": "Don Profota",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "South Bozeman, Gallatin County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UTLXKPYDDK/1060753/grey-medium.png"
+    },
+    {
       "xenoCantoId": "501520",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/501520/download",
       "pageUrl": "https://xeno-canto.org/501520",
       "recordist": "Jens Kirkeby",
@@ -260,5 +302,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sandhill_crane",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/508048"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/508048",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Antigone-canadensis"
 }

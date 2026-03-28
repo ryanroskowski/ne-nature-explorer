@@ -259,6 +259,7 @@
     {
       "xenoCantoId": "1085464",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1085464/download",
       "pageUrl": "https://xeno-canto.org/1085464",
       "recordist": "Timo Roeke",
@@ -269,20 +270,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VKRSHPVZKO/1085464/grey-medium.png"
     },
     {
-      "xenoCantoId": "1043932",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1043932/download",
-      "pageUrl": "https://xeno-canto.org/1043932",
-      "recordist": "Sjouke Scholten",
+      "xenoCantoId": "912695",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/912695/download",
+      "pageUrl": "https://xeno-canto.org/912695",
+      "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Drachten, Smallingerland, Friesland",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WCSJOAHVAI/1043932/grey-medium.png"
+      "length": "0:29",
+      "location": "Norrbyn, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/912695/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "246677",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/246677/download",
+      "pageUrl": "https://xeno-canto.org/246677",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:45",
+      "location": "Gmina Nieporęt (near  Białobrzegi), legionowski, mazowieckie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/246677/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "736695",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/736695/download",
+      "pageUrl": "https://xeno-canto.org/736695",
+      "recordist": "Alan Dalton",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Robertsfors Ö, Robertsfors Municipality, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBJSEFYVPV/736695/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "667403",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/667403/download",
+      "pageUrl": "https://xeno-canto.org/667403",
+      "recordist": "Quentin Giraud",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:50",
+      "location": "Arrondissement d'Aubusson (near  Lussat), Creuse, Nouvelle-Aquitaine",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HAMGTTYXSI/667403/grey-medium.png"
     },
     {
       "xenoCantoId": "730564",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/730564/download",
       "pageUrl": "https://xeno-canto.org/730564",
       "recordist": "Stanislas Wroza",
@@ -295,5 +337,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Tufted_duck",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7046"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7046",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aythya-fuligula"
 }

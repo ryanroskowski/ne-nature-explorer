@@ -232,6 +232,7 @@
     {
       "xenoCantoId": "1062474",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1062474/download",
       "pageUrl": "https://xeno-canto.org/1062474",
       "recordist": "David Darrell-Lambert",
@@ -242,8 +243,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1062474/grey-medium.png"
     },
     {
+      "xenoCantoId": "959566",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/959566/download",
+      "pageUrl": "https://xeno-canto.org/959566",
+      "recordist": "Peter Mundale",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "East Bethel, Anoka County, Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UAXIKEBHEA/959566/grey-medium.png"
+    },
+    {
       "xenoCantoId": "522861",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/522861/download",
       "pageUrl": "https://xeno-canto.org/522861",
       "recordist": "Bobby Wilcox",
@@ -256,6 +271,7 @@
     {
       "xenoCantoId": "774908",
       "type": "drumming",
+      "label": "Drumming",
       "audioUrl": "https://xeno-canto.org/774908/download",
       "pageUrl": "https://xeno-canto.org/774908",
       "recordist": "David A. Brinkman",
@@ -268,5 +284,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-headed_woodpecker",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/18204"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/18204",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Melanerpes-erythrocephalus"
 }

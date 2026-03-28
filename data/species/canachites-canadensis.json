@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "269222",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/269222/download",
       "pageUrl": "https://xeno-canto.org/269222",
       "recordist": "Frank Lambert",
@@ -239,20 +240,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/269222/grey-medium.png"
     },
     {
-      "xenoCantoId": "603585",
+      "xenoCantoId": "389928",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/603585/download",
-      "pageUrl": "https://xeno-canto.org/603585",
-      "recordist": "Bruce Lagerquist",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/389928/download",
+      "pageUrl": "https://xeno-canto.org/389928",
+      "recordist": "Thomas Magarian",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Conrad Meadows Trail, Washington",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/603585/grey-medium.png"
+      "length": "0:10",
+      "location": "Two Medicine, GNP, Glacier County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/389928/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "205576",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/205576/download",
+      "pageUrl": "https://xeno-canto.org/205576",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:57",
+      "location": "trail off of Little Ollie Road, near Gunflint Trail (near  Grand Marais), Cook County, Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/205576/grey-medium.png"
     },
     {
       "xenoCantoId": "586558",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/586558/download",
       "pageUrl": "https://xeno-canto.org/586558",
       "recordist": "Bruce Lagerquist",
@@ -261,9 +277,23 @@
       "length": "0:30",
       "location": "NW Peak Scenic Area, Montana",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/586558/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "59161",
+      "type": "drumming",
+      "label": "Drumming",
+      "audioUrl": "https://xeno-canto.org/59161/download",
+      "pageUrl": "https://xeno-canto.org/59161",
+      "recordist": "Tayler Brooks",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:51",
+      "location": "Boot Cove Trail, Washington Co., Maine",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ARFGONJCBJ/59161/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Spruce_grouse",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1289698"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1289698",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Canachites-canadensis"
 }

@@ -237,6 +237,7 @@
     {
       "xenoCantoId": "872894",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/872894/download",
       "pageUrl": "https://xeno-canto.org/872894",
       "recordist": "Stanislas Wroza",
@@ -249,6 +250,7 @@
     {
       "xenoCantoId": "679723",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/679723/download",
       "pageUrl": "https://xeno-canto.org/679723",
       "recordist": "Aziza Cooper",
@@ -259,8 +261,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BUVUYBLKOZ/679723/grey-medium.png"
     },
     {
+      "xenoCantoId": "512410",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/512410/download",
+      "pageUrl": "https://xeno-canto.org/512410",
+      "recordist": "William Whitehead",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:46",
+      "location": "Ernest Oros Nature Preserve, Avenel, New Jersey",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MGVGHKBMIZ/512410/grey-medium.png"
+    },
+    {
       "xenoCantoId": "855694",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/855694/download",
       "pageUrl": "https://xeno-canto.org/855694",
       "recordist": "Sven Normant",
@@ -273,5 +289,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Wood_duck",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7107"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7107",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aix-sponsa"
 }

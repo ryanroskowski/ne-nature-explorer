@@ -246,6 +246,7 @@
     {
       "xenoCantoId": "1087845",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1087845/download",
       "pageUrl": "https://xeno-canto.org/1087845",
       "recordist": "Sue Riffe",
@@ -256,8 +257,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1087845/grey-medium.png"
     },
     {
+      "xenoCantoId": "949457",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/949457/download",
+      "pageUrl": "https://xeno-canto.org/949457",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:45",
+      "location": "Kiawah Island, Charleston County, South Carolina",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AMMGWAIZWI/949457/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "899265",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/899265/download",
+      "pageUrl": "https://xeno-canto.org/899265",
+      "recordist": "Jeffrey Mann",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Government Canyon State Natural Area, San Antonio, Bexar County, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTVTNLRFPX/899265/grey-medium.png"
+    },
+    {
       "xenoCantoId": "653211",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/653211/download",
       "pageUrl": "https://xeno-canto.org/653211",
       "recordist": "Russ Wigh",
@@ -268,8 +296,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YBJUQSUJFZ/653211/grey-medium.png"
     },
     {
+      "xenoCantoId": "489356",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/489356/download",
+      "pageUrl": "https://xeno-canto.org/489356",
+      "recordist": "Cin-Ty Lee",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Buda, Hays County, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ERYSCRRSLN/489356/grey-medium.png"
+    },
+    {
       "xenoCantoId": "499367",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/499367/download",
       "pageUrl": "https://xeno-canto.org/499367",
       "recordist": "Isain Contreras Rodríguez",
@@ -282,5 +324,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Painted_bunting",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10224"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10224",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Passerina-ciris"
 }

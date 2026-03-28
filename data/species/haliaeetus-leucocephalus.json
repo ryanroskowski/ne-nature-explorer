@@ -232,6 +232,7 @@
     {
       "xenoCantoId": "1060048",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1060048/download",
       "pageUrl": "https://xeno-canto.org/1060048",
       "recordist": "Greg Irving",
@@ -244,6 +245,7 @@
     {
       "xenoCantoId": "1048352",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1048352/download",
       "pageUrl": "https://xeno-canto.org/1048352",
       "recordist": "Greg Irving",
@@ -254,8 +256,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1048352/grey-medium.png"
     },
     {
+      "xenoCantoId": "955584",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/955584/download",
+      "pageUrl": "https://xeno-canto.org/955584",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:57",
+      "location": "Escanaba, Delta County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/955584/grey-medium.png"
+    },
+    {
       "xenoCantoId": "328715",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/328715/download",
       "pageUrl": "https://xeno-canto.org/328715",
       "recordist": "Lucas Berrigan",
@@ -268,5 +284,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bald_eagle",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5305"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5305",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Haliaeetus-leucocephalus"
 }

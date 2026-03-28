@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "419194",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/419194/download",
       "pageUrl": "https://xeno-canto.org/419194",
       "recordist": "Sue Riffe",
@@ -263,6 +264,7 @@
     {
       "xenoCantoId": "1040454",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1040454/download",
       "pageUrl": "https://xeno-canto.org/1040454",
       "recordist": "Greg Irving",
@@ -273,19 +275,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1040454/grey-medium.png"
     },
     {
-      "xenoCantoId": "729870",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/729870/download",
-      "pageUrl": "https://xeno-canto.org/729870",
-      "recordist": "Jim Berry",
+      "xenoCantoId": "1020818",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1020818/download",
+      "pageUrl": "https://xeno-canto.org/1020818",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:19",
-      "location": "Busti (near  Jamestown), Chautauqua County, New York",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BMFJZMNPEG/729870/grey-medium.png"
+      "length": "0:36",
+      "location": "Beaulieu lake",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1020818/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "540654",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/540654/download",
+      "pageUrl": "https://xeno-canto.org/540654",
+      "recordist": "Isain Contreras Rodríguez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Topolobampo, Ahome, Sinaloa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/540654/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Great_blue_heron",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4956"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4956",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Ardea-herodias"
 }

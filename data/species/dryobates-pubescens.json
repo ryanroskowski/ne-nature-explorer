@@ -227,8 +227,35 @@
   "relatedSpecies": [],
   "audio": [
     {
+      "xenoCantoId": "500163",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/500163/download",
+      "pageUrl": "https://xeno-canto.org/500163",
+      "recordist": "Jacob Saucier",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Porcupine Creek, 6 km E of St. Marie, Valley County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XSAURLRZQM/500163/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "89855",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/89855/download",
+      "pageUrl": "https://xeno-canto.org/89855",
+      "recordist": "Thomas G. Graves",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Audubon Kern River Preserve, Weldon, CA",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KGOCOOKTTU/89855/grey-medium.png"
+    },
+    {
       "xenoCantoId": "567618",
       "type": "song",
+      "label": "Song 3",
       "audioUrl": "https://xeno-canto.org/567618/download",
       "pageUrl": "https://xeno-canto.org/567618",
       "recordist": "Michael Hurben",
@@ -241,6 +268,7 @@
     {
       "xenoCantoId": "1060276",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1060276/download",
       "pageUrl": "https://xeno-canto.org/1060276",
       "recordist": "David Darrell-Lambert",
@@ -251,8 +279,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1060276/grey-medium.png"
     },
     {
+      "xenoCantoId": "1036590",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1036590/download",
+      "pageUrl": "https://xeno-canto.org/1036590",
+      "recordist": "Bill Pyle",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "Salone Cr. Trail site, Kodiak Isl. Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DUWDSSWZPN/1036590/grey-medium.png"
+    },
+    {
       "xenoCantoId": "420821",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/420821/download",
       "pageUrl": "https://xeno-canto.org/420821",
       "recordist": "GABRIEL LEITE",
@@ -261,9 +303,23 @@
       "length": "1:48",
       "location": "Montezuma NWR,  New York",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TGBFXDVERJ/420821/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1048814",
+      "type": "drumming",
+      "label": "Drumming",
+      "audioUrl": "https://xeno-canto.org/1048814/download",
+      "pageUrl": "https://xeno-canto.org/1048814",
+      "recordist": "AUDEVARD Aurélien",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:38",
+      "location": "Anchorage, Anchorage Municipality, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1048814/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Downy_woodpecker",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/792988"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/792988",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Dryobates-pubescens"
 }

@@ -205,6 +205,7 @@
     {
       "xenoCantoId": "1019244",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1019244/download",
       "pageUrl": "https://xeno-canto.org/1019244",
       "recordist": "Sven Normant",
@@ -215,8 +216,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MPDFSJHTXH/1019244/grey-medium.png"
     },
     {
+      "xenoCantoId": "487620",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/487620/download",
+      "pageUrl": "https://xeno-canto.org/487620",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:31",
+      "location": "Onverdarnes",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/487620/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "399818",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/399818/download",
+      "pageUrl": "https://xeno-canto.org/399818",
+      "recordist": "Stein Ø. Nilsen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Hornøya, Vardø, Finnmark",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/399818/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1088405",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1088405/download",
       "pageUrl": "https://xeno-canto.org/1088405",
       "recordist": "Roland Arnison",
@@ -227,8 +255,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NPLSWYWTJJ/1088405/grey-medium.png"
     },
     {
+      "xenoCantoId": "1062280",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1062280/download",
+      "pageUrl": "https://xeno-canto.org/1062280",
+      "recordist": "Adrien Peillon",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Arrondissement de Dinan (near  Plévenon), Côtes-d'Armor, Bretagne",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QSIPMNXSKA/1062280/grey-medium.png"
+    },
+    {
       "xenoCantoId": "662272",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/662272/download",
       "pageUrl": "https://xeno-canto.org/662272",
       "recordist": "Mark Smiles",
@@ -241,5 +283,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_murre",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4519"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4519",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Uria-aalge"
 }

@@ -88,6 +88,7 @@ export interface SpeciesData {
   establishmentMeans?: string;
   wikipediaUrl?: string;
   iNaturalistUrl: string;
+  xenoCantoUrl?: string;    // Xeno-canto species page (birds only)
 }
 
 export interface BreadcrumbItem {
@@ -115,6 +116,7 @@ export interface SpeciesPhoto {
 export interface SpeciesAudio {
   xenoCantoId: string;
   type: string;         // "song", "call", "alarm", "drumming"
+  label?: string;       // display label (e.g. "Song 1", "Song 2", "Call")
   audioUrl: string;     // direct MP3 URL
   pageUrl: string;      // xeno-canto page URL
   recordist: string;

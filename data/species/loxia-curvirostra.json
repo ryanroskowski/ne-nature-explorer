@@ -235,8 +235,22 @@
   ],
   "audio": [
     {
+      "xenoCantoId": "1091440",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1091440/download",
+      "pageUrl": "https://xeno-canto.org/1091440",
+      "recordist": "Christian Bøggild",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:22",
+      "location": "Ikast, Ikast-Brande Municipality, Central Denmark Region",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DJPZGYTAWH/1091440/grey-medium.png"
+    },
+    {
       "xenoCantoId": "974363",
       "type": "song",
+      "label": "Song 2",
       "audioUrl": "https://xeno-canto.org/974363/download",
       "pageUrl": "https://xeno-canto.org/974363",
       "recordist": "Lars Edenius",
@@ -247,8 +261,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/974363/grey-medium.png"
     },
     {
+      "xenoCantoId": "962287",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/962287/download",
+      "pageUrl": "https://xeno-canto.org/962287",
+      "recordist": "Hans Matheve",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Artemis Trail (near  Troodos), Limassol",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VROUALCTKG/962287/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1091439",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1091439/download",
+      "pageUrl": "https://xeno-canto.org/1091439",
+      "recordist": "Christian Bøggild",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Ikast, Ikast-Brande Municipality, Central Denmark Region",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DJPZGYTAWH/1091439/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1083478",
       "type": "call",
+      "label": "Call 2",
       "audioUrl": "https://xeno-canto.org/1083478/download",
       "pageUrl": "https://xeno-canto.org/1083478",
       "recordist": "Jordi Calvet",
@@ -261,6 +302,7 @@
     {
       "xenoCantoId": "700713",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/700713/download",
       "pageUrl": "https://xeno-canto.org/700713",
       "recordist": "Teet Sirotkin",
@@ -273,5 +315,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red_crossbill",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10411"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10411",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Loxia-curvirostra"
 }

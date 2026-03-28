@@ -160,6 +160,7 @@
     {
       "xenoCantoId": "992741",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/992741/download",
       "pageUrl": "https://xeno-canto.org/992741",
       "recordist": "Feather V",
@@ -170,8 +171,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GZUBDKWLGI/992741/grey-medium.png"
     },
     {
+      "xenoCantoId": "984042",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/984042/download",
+      "pageUrl": "https://xeno-canto.org/984042",
+      "recordist": "Ray Tsu 诸仁",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "10:06",
+      "location": "Xian Shan, Hangzhou, Zhejiang",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FROVFAFTMA/984042/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "26305",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/26305/download",
+      "pageUrl": "https://xeno-canto.org/26305",
+      "recordist": "David Edwards",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "B",
+      "length": "0:26",
+      "location": "Deo Nui San",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AFEHYCAHZR/26305/grey-medium.png"
+    },
+    {
       "xenoCantoId": "988515",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/988515/download",
       "pageUrl": "https://xeno-canto.org/988515",
       "recordist": "Peter Boesman",
@@ -182,19 +210,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/988515/grey-medium.png"
     },
     {
-      "xenoCantoId": "991598",
+      "xenoCantoId": "973310",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/973310/download",
+      "pageUrl": "https://xeno-canto.org/973310",
+      "recordist": "Lim Ying Hien",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:04",
+      "location": "Baihualing, Gaoligong Shan, Yunnan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NXHTMHMNSS/973310/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "977260",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/991598/download",
-      "pageUrl": "https://xeno-canto.org/991598",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/977260/download",
+      "pageUrl": "https://xeno-canto.org/977260",
       "recordist": "Ray Tsu 诸仁",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "10:08",
+      "length": "0:45",
       "location": "Xian Shan, Hangzhou, Zhejiang",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FROVFAFTMA/991598/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FROVFAFTMA/977260/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Silver_pheasant",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1096"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1096",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Lophura-nycthemera"
 }

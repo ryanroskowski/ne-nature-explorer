@@ -244,6 +244,7 @@
     {
       "xenoCantoId": "1014501",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1014501/download",
       "pageUrl": "https://xeno-canto.org/1014501",
       "recordist": "Stanislas Wroza",
@@ -254,20 +255,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014501/grey-medium.png"
     },
     {
-      "xenoCantoId": "795949",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/795949/download",
-      "pageUrl": "https://xeno-canto.org/795949",
-      "recordist": "Valerie Heemstra",
+      "xenoCantoId": "501464",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/501464/download",
+      "pageUrl": "https://xeno-canto.org/501464",
+      "recordist": "Fernando Castro",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:15",
-      "location": "Ogontz Bay Boat Launch, Delta County, Michigan",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/795949/grey-medium.png"
+      "length": "0:10",
+      "location": "Ecoparque Sabana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FRYKISSVNX/501464/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "163734",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/163734/download",
+      "pageUrl": "https://xeno-canto.org/163734",
+      "recordist": "Danny Zapata-Henao",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:07",
+      "location": "Guatapé, Antioquia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AHYWLCEJLP/163734/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "346077",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/346077/download",
+      "pageUrl": "https://xeno-canto.org/346077",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Viera Wetlands, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/346077/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "308712",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/308712/download",
+      "pageUrl": "https://xeno-canto.org/308712",
+      "recordist": "J.R. Rigby",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Batesville, Panola County, Mississippi",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RSRUUVOCGA/308712/grey-medium.png"
     },
     {
       "xenoCantoId": "745966",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/745966/download",
       "pageUrl": "https://xeno-canto.org/745966",
       "recordist": "CHRIS DRYSDALE",
@@ -280,5 +322,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Blue-winged_teal",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558433"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558433",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Spatula-discors"
 }

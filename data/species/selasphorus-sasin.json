@@ -206,6 +206,7 @@
     {
       "xenoCantoId": "125251",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/125251/download",
       "pageUrl": "https://xeno-canto.org/125251",
       "recordist": "Thomas G. Graves",
@@ -218,6 +219,7 @@
     {
       "xenoCantoId": "952206",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/952206/download",
       "pageUrl": "https://xeno-canto.org/952206",
       "recordist": "Cin-Ty Lee",
@@ -228,19 +230,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ERYSCRRSLN/952206/grey-medium.png"
     },
     {
-      "xenoCantoId": "595857",
+      "xenoCantoId": "698001",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/698001/download",
+      "pageUrl": "https://xeno-canto.org/698001",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Tijuana River Valley, Sunset Park, San Diego, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/698001/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "413792",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/595857/download",
-      "pageUrl": "https://xeno-canto.org/595857",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/413792/download",
+      "pageUrl": "https://xeno-canto.org/413792",
       "recordist": "Steve Hampton",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
+      "length": "0:17",
       "location": "Hidden Hills, CA",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BUGKVZBWKF/595857/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BUGKVZBWKF/413792/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Allen's_hummingbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6359"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6359",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Selasphorus-sasin"
 }

@@ -230,6 +230,7 @@
     {
       "xenoCantoId": "412986",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/412986/download",
       "pageUrl": "https://xeno-canto.org/412986",
       "recordist": "Austin Young",
@@ -240,19 +241,47 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OTMMXEJCIL/412986/grey-medium.png"
     },
     {
-      "xenoCantoId": "764433",
+      "xenoCantoId": "103108",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/103108/download",
+      "pageUrl": "https://xeno-canto.org/103108",
+      "recordist": "Eric DeFonso",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "B",
+      "length": "0:25",
+      "location": "Carman Valley, Sierra County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KTLCZCRCQX/103108/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "483902",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/764433/download",
-      "pageUrl": "https://xeno-canto.org/764433",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/483902/download",
+      "pageUrl": "https://xeno-canto.org/483902",
       "recordist": "Bruce Lagerquist",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Liberty, Kittitas County, Washington",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/764433/grey-medium.png"
+      "length": "0:33",
+      "location": "Bethell Ridge Road, Yakima County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/483902/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "188264",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/188264/download",
+      "pageUrl": "https://xeno-canto.org/188264",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Castle Rock, Douglas Co., Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/188264/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Calliope_hummingbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199914"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199914",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Selasphorus-calliope"
 }

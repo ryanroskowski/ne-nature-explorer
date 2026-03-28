@@ -208,6 +208,7 @@
     {
       "xenoCantoId": "263112",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/263112/download",
       "pageUrl": "https://xeno-canto.org/263112",
       "recordist": "Karina Avila",
@@ -220,6 +221,7 @@
     {
       "xenoCantoId": "684341",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/684341/download",
       "pageUrl": "https://xeno-canto.org/684341",
       "recordist": "Brad Banner",
@@ -230,8 +232,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OMCZDACWKR/684341/grey-medium.png"
     },
     {
+      "xenoCantoId": "669899",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/669899/download",
+      "pageUrl": "https://xeno-canto.org/669899",
+      "recordist": "Russ Wigh",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Skidaway Island, Chatham County, GA USA",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YBJUQSUJFZ/669899/grey-medium.png"
+    },
+    {
       "xenoCantoId": "317265",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/317265/download",
       "pageUrl": "https://xeno-canto.org/317265",
       "recordist": "Nick Komar",
@@ -244,5 +260,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Mississippi_kite",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5416"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5416",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Ictinia-mississippiensis"
 }

@@ -232,6 +232,7 @@
     {
       "xenoCantoId": "964739",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/964739/download",
       "pageUrl": "https://xeno-canto.org/964739",
       "recordist": "Stein Ø. Nilsen",
@@ -242,8 +243,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/964739/grey-medium.png"
     },
     {
+      "xenoCantoId": "141727",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/141727/download",
+      "pageUrl": "https://xeno-canto.org/141727",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:56",
+      "location": "Freshwater Lake, Barrow, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/141727/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "406415",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/406415/download",
+      "pageUrl": "https://xeno-canto.org/406415",
+      "recordist": "Patrik Åberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "1:50",
+      "location": "Barrow, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/406415/grey-medium.png"
+    },
+    {
       "xenoCantoId": "696420",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/696420/download",
       "pageUrl": "https://xeno-canto.org/696420",
       "recordist": "Stein Ø. Nilsen",
@@ -256,5 +284,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/King_eider",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7030"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7030",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Somateria-spectabilis"
 }

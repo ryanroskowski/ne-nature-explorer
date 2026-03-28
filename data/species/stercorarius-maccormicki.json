@@ -240,20 +240,35 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "953125",
+      "xenoCantoId": "305317",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/953125/download",
-      "pageUrl": "https://xeno-canto.org/953125",
-      "recordist": "steve",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/305317/download",
+      "pageUrl": "https://xeno-canto.org/305317",
+      "recordist": "Stein Ø. Nilsen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Cuverville Island",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQVHGWMGMC/953125/grey-medium.png"
+      "length": "1:22",
+      "location": "Svarthamaren, Queen Maud Land",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/305317/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "254081",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/254081/download",
+      "pageUrl": "https://xeno-canto.org/254081",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Brown Bluff",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/254081/grey-medium.png"
     },
     {
       "xenoCantoId": "775433",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/775433/download",
       "pageUrl": "https://xeno-canto.org/775433",
       "recordist": "Stein Ø. Nilsen",
@@ -266,5 +281,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/South_polar_skua",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144296"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144296",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Stercorarius-maccormicki"
 }

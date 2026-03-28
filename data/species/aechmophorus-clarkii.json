@@ -182,20 +182,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "641950",
+      "xenoCantoId": "452389",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/641950/download",
-      "pageUrl": "https://xeno-canto.org/641950",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/452389/download",
+      "pageUrl": "https://xeno-canto.org/452389",
       "recordist": "Paul Marvin",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Finney Lake, Calipatria, Imperial County, California",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/641950/grey-medium.png"
+      "length": "0:14",
+      "location": "Bill Williams Rv, NWR, HQ and Delta, La Paz County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/452389/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "367258",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/367258/download",
+      "pageUrl": "https://xeno-canto.org/367258",
+      "recordist": "Jim Holmes",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:08",
+      "location": "Sacramento NWR, Glenn County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FIDXCHEYJO/367258/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "418579",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/418579/download",
+      "pageUrl": "https://xeno-canto.org/418579",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:31",
+      "location": "Pahranagat National Wildlife Refuge, Lincoln County, Nevada",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/418579/grey-medium.png"
     },
     {
       "xenoCantoId": "758995",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/758995/download",
       "pageUrl": "https://xeno-canto.org/758995",
       "recordist": "Sue Riffe",
@@ -204,9 +232,23 @@
       "length": "0:31",
       "location": "Bear River Migratory Bird Refuge, Box Elder County, UT",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/758995/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "565871",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/565871/download",
+      "pageUrl": "https://xeno-canto.org/565871",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Bear River Migratory Bird Refuge, Box Elder County, UT",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/565871/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Clark's_grebe",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4234"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4234",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aechmophorus-clarkii"
 }

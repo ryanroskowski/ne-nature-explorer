@@ -246,6 +246,7 @@
     {
       "xenoCantoId": "1068843",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1068843/download",
       "pageUrl": "https://xeno-canto.org/1068843",
       "recordist": "Benjamin Drillat",
@@ -256,8 +257,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/1068843/grey-medium.png"
     },
     {
+      "xenoCantoId": "780824",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/780824/download",
+      "pageUrl": "https://xeno-canto.org/780824",
+      "recordist": "Patrice Mathieu",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:20",
+      "location": "Mount Lorne, Yukon",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IGXRFYAGNH/780824/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "687702",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/687702/download",
+      "pageUrl": "https://xeno-canto.org/687702",
+      "recordist": "Barry Edmonston",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:42",
+      "location": "Swan Lake, Victoria, Vancouver Island, BC",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FHQVLXJQKW/687702/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1068836",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1068836/download",
       "pageUrl": "https://xeno-canto.org/1068836",
       "recordist": "Benjamin Drillat",
@@ -268,8 +296,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/1068836/grey-medium.png"
     },
     {
+      "xenoCantoId": "425100",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/425100/download",
+      "pageUrl": "https://xeno-canto.org/425100",
+      "recordist": "Jeff Dyck",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Fraser-Fort George G, Fraser-Fort George, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WOKAPEXFUA/425100/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1045685",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1045685/download",
       "pageUrl": "https://xeno-canto.org/1045685",
       "recordist": "AUDEVARD Aurélien",
@@ -282,5 +324,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Golden-crowned_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9185"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9185",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Zonotrichia-atricapilla"
 }

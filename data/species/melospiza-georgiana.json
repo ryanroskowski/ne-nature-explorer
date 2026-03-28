@@ -239,6 +239,7 @@
     {
       "xenoCantoId": "1012914",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1012914/download",
       "pageUrl": "https://xeno-canto.org/1012914",
       "recordist": "Stanislas Wroza",
@@ -249,8 +250,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012914/grey-medium.png"
     },
     {
+      "xenoCantoId": "938119",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/938119/download",
+      "pageUrl": "https://xeno-canto.org/938119",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:51",
+      "location": "Tuttle Marsh WA, Iosco County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/938119/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "837821",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/837821/download",
+      "pageUrl": "https://xeno-canto.org/837821",
+      "recordist": "Manuel Oudard",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Kawartha Lakes (near  Kirkfield), Kawartha Lakes, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ISEVSYKZZW/837821/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1020776",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1020776/download",
       "pageUrl": "https://xeno-canto.org/1020776",
       "recordist": "Stanislas Wroza",
@@ -261,8 +289,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1020776/grey-medium.png"
     },
     {
+      "xenoCantoId": "698153",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/698153/download",
+      "pageUrl": "https://xeno-canto.org/698153",
+      "recordist": "Melissa Hafting",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Maple Ridge, Metro Vancouver, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YVLRGYZEZE/698153/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1013530",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1013530/download",
       "pageUrl": "https://xeno-canto.org/1013530",
       "recordist": "Stanislas Wroza",
@@ -275,5 +317,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Swamp_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9096"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9096",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Melospiza-georgiana"
 }

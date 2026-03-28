@@ -211,20 +211,22 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "190199",
+      "xenoCantoId": "190198",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/190199/download",
-      "pageUrl": "https://xeno-canto.org/190199",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/190198/download",
+      "pageUrl": "https://xeno-canto.org/190198",
       "recordist": "Leonardo Ordóñez-Delgado",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:32",
+      "length": "1:11",
       "location": "Isla de los Pájaros, El Morro, Guayas",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RJNSQXBIJE/190199/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RJNSQXBIJE/190198/grey-medium.png"
     },
     {
       "xenoCantoId": "927123",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/927123/download",
       "pageUrl": "https://xeno-canto.org/927123",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -233,9 +235,23 @@
       "length": "0:14",
       "location": "Barra do rio Piçarras, Balneário Piçarras-SC",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/927123/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "411510",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/411510/download",
+      "pageUrl": "https://xeno-canto.org/411510",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:32",
+      "location": "Isla de la Plata, Manabí Province",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/411510/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Magnificent_frigatebird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4631"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4631",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Fregata-magnificens"
 }

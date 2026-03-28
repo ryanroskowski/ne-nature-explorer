@@ -220,6 +220,7 @@
     {
       "xenoCantoId": "710475",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/710475/download",
       "pageUrl": "https://xeno-canto.org/710475",
       "recordist": "Richard E. Webster",
@@ -228,9 +229,23 @@
       "length": "2:37",
       "location": "San Bernardino National Wildlife Refuge, Cochise County, Arizona",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/710475/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "361920",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/361920/download",
+      "pageUrl": "https://xeno-canto.org/361920",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:03",
+      "location": "Arcata Marsh, Humboldt County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/361920/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bufflehead",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6993"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6993",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Bucephala-albeola"
 }

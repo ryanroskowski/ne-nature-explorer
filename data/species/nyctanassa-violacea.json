@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "562906",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/562906/download",
       "pageUrl": "https://xeno-canto.org/562906",
       "recordist": "Kent Livezey",
@@ -239,31 +240,60 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SZFQBBYSTI/562906/grey-medium.png"
     },
     {
-      "xenoCantoId": "982777",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/982777/download",
-      "pageUrl": "https://xeno-canto.org/982777",
-      "recordist": "Daniel Parker",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "quality": "A",
-      "length": "3:32",
-      "location": "Sarasota, Sarasota County, Florida",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AMMGWAIZWI/982777/grey-medium.png"
+      "xenoCantoId": "23095",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/23095/download",
+      "pageUrl": "https://xeno-canto.org/23095",
+      "recordist": "Augusto Alves",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "B",
+      "length": "0:07",
+      "location": "Mangue, Anchieta, ES",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFAWGULFER/23095/grey-medium.png"
     },
     {
-      "xenoCantoId": "883694",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/883694/download",
-      "pageUrl": "https://xeno-canto.org/883694",
-      "recordist": "Valerie Heemstra",
+      "xenoCantoId": "767440",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/767440/download",
+      "pageUrl": "https://xeno-canto.org/767440",
+      "recordist": "Cristopher Rodriguez-Moreira",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:01",
-      "location": "Creole, Cameron Parish, Louisiana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/883694/grey-medium.png"
+      "length": "0:13",
+      "location": "Parque Don Bosco (near  Manta), Manta, Manabí",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ERHMLFBLDX/767440/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "569597",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/569597/download",
+      "pageUrl": "https://xeno-canto.org/569597",
+      "recordist": "Isain Contreras Rodríguez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Topolobampo, Ahome, Sinaloa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/569597/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "481818",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/481818/download",
+      "pageUrl": "https://xeno-canto.org/481818",
+      "recordist": "Russ Wigh",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Skidaway Island, Chatham County, GA USA",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YBJUQSUJFZ/481818/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Yellow-crowned_night_heron",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4999"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4999",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Nyctanassa-violacea"
 }

@@ -208,6 +208,7 @@
     {
       "xenoCantoId": "1000430",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1000430/download",
       "pageUrl": "https://xeno-canto.org/1000430",
       "recordist": "David Tattersley",
@@ -218,20 +219,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/1000430/grey-medium.png"
     },
     {
-      "xenoCantoId": "744643",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/744643/download",
-      "pageUrl": "https://xeno-canto.org/744643",
+      "xenoCantoId": "883583",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/883583/download",
+      "pageUrl": "https://xeno-canto.org/883583",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Lake Charles, Calcasieu Parish, Louisiana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/883583/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "698484",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/698484/download",
+      "pageUrl": "https://xeno-canto.org/698484",
       "recordist": "Manuel Grosselet",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:01",
-      "location": "Laguna de Texcoco, Texcoco Municipality, Estado de México",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/744643/grey-medium.png"
+      "length": "0:13",
+      "location": "Tláhuac (near  Mexico City), Mexico City",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/698484/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "582143",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/582143/download",
+      "pageUrl": "https://xeno-canto.org/582143",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:57",
+      "location": "McDonald Rd, Niland, Imperial County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/582143/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "572843",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/572843/download",
+      "pageUrl": "https://xeno-canto.org/572843",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:11",
+      "location": "Whirlwind Valley, Beowawe, Eureka County, Nevada",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/572843/grey-medium.png"
     },
     {
       "xenoCantoId": "418584",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/418584/download",
       "pageUrl": "https://xeno-canto.org/418584",
       "recordist": "Bobby Wilcox",
@@ -244,5 +286,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Loggerhead_shrike",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12024"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12024",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Lanius-ludovicianus"
 }

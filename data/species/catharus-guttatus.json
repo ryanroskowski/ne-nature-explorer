@@ -248,20 +248,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1068838",
+      "xenoCantoId": "1048898",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1068838/download",
-      "pageUrl": "https://xeno-canto.org/1068838",
-      "recordist": "Benjamin Drillat",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1048898/download",
+      "pageUrl": "https://xeno-canto.org/1048898",
+      "recordist": "AUDEVARD Aurélien",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:50",
-      "location": "Bear Creek, Kenai Peninsula Borough, Alaska",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/1068838/grey-medium.png"
+      "length": "0:41",
+      "location": "Homer, Kenai Peninsula Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1048898/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1037508",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1037508/download",
+      "pageUrl": "https://xeno-canto.org/1037508",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Williamsburg, Hampshire County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1037508/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1036596",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1036596/download",
+      "pageUrl": "https://xeno-canto.org/1036596",
+      "recordist": "Bill Pyle",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Near Isl. Trail site, Kodiak Isl. Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DUWDSSWZPN/1036596/grey-medium.png"
     },
     {
       "xenoCantoId": "1080765",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1080765/download",
       "pageUrl": "https://xeno-canto.org/1080765",
       "recordist": "Scott Olmstead",
@@ -272,8 +300,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/1080765/grey-medium.png"
     },
     {
+      "xenoCantoId": "1071279",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1071279/download",
+      "pageUrl": "https://xeno-canto.org/1071279",
+      "recordist": "steve",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Chapel Hill, Orange County, North Carolina",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQVHGWMGMC/1071279/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1060759",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1060759/download",
       "pageUrl": "https://xeno-canto.org/1060759",
       "recordist": "Don Henise",
@@ -286,5 +328,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hermit_thrush",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12890"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12890",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Catharus-guttatus"
 }

@@ -243,32 +243,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "940496",
+      "xenoCantoId": "855403",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/940496/download",
-      "pageUrl": "https://xeno-canto.org/940496",
-      "recordist": "Seth Beaudreault (Toolik Field Station)",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/855403/download",
+      "pageUrl": "https://xeno-canto.org/855403",
+      "recordist": "Sue Riffe",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "Tall Shrubs between Pump 3 and Oil Spill Hill",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TZWMNBTMOK/940496/grey-medium.png"
+      "length": "0:22",
+      "location": "Nome Census Area, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/855403/grey-medium.png"
     },
     {
-      "xenoCantoId": "811540",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/811540/download",
-      "pageUrl": "https://xeno-canto.org/811540",
-      "recordist": "David Tattersley",
+      "xenoCantoId": "736335",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/736335/download",
+      "pageUrl": "https://xeno-canto.org/736335",
+      "recordist": "Pritam Baruah",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Municipality Of Leamington (near  Wheatley), Essex County, Ontario",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/811540/grey-medium.png"
+      "length": "0:33",
+      "location": "Maclaran River, Denali Highway (near  Cantwell), Matanuska-Susitna, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HALXQIMTRP/736335/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "420272",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/420272/download",
+      "pageUrl": "https://xeno-canto.org/420272",
+      "recordist": "Steve Hampton",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "Nome, Nome, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BUGKVZBWKF/420272/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "762296",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/762296/download",
+      "pageUrl": "https://xeno-canto.org/762296",
+      "recordist": "Mauricio Cuéllar Ramírez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Bosque de los Gregorianos ",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JAPOPUHKWS/762296/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "406176",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/406176/download",
+      "pageUrl": "https://xeno-canto.org/406176",
+      "recordist": "Patrik Åberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Nome, Nome Census Area, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/406176/grey-medium.png"
     },
     {
       "xenoCantoId": "70117",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/70117/download",
       "pageUrl": "https://xeno-canto.org/70117",
       "recordist": "Paul Driver",
@@ -281,5 +323,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Grey-cheeked_thrush",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12883"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12883",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Catharus-minimus"
 }

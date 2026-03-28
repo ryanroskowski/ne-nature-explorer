@@ -272,6 +272,7 @@
     {
       "xenoCantoId": "243979",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/243979/download",
       "pageUrl": "https://xeno-canto.org/243979",
       "recordist": "Davyd Betchkal",
@@ -282,8 +283,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NPYDVIEFTA/243979/grey-medium.png"
     },
     {
+      "xenoCantoId": "431952",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/431952/download",
+      "pageUrl": "https://xeno-canto.org/431952",
+      "recordist": "Logan McLeod",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:36",
+      "location": "Yukon, Unorganized, Yukon, Yukon Territory",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JRPEHMSIPP/431952/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "134486",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/134486/download",
+      "pageUrl": "https://xeno-canto.org/134486",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:45",
+      "location": "Homer Spit, Kenai Peninsula, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/134486/grey-medium.png"
+    },
+    {
       "xenoCantoId": "406207",
       "type": "call",
+      "label": "Call 2",
       "audioUrl": "https://xeno-canto.org/406207/download",
       "pageUrl": "https://xeno-canto.org/406207",
       "recordist": "Patrik Åberg",
@@ -296,5 +324,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Surfbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/339592"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/339592",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-virgata"
 }

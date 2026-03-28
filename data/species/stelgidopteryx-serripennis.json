@@ -208,6 +208,7 @@
     {
       "xenoCantoId": "910219",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/910219/download",
       "pageUrl": "https://xeno-canto.org/910219",
       "recordist": "Manuel Grosselet",
@@ -218,20 +219,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/910219/grey-medium.png"
     },
     {
-      "xenoCantoId": "910211",
+      "xenoCantoId": "511276",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/511276/download",
+      "pageUrl": "https://xeno-canto.org/511276",
+      "recordist": "Ken Hall",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:55",
+      "location": "Camp McKinney Road, Oliver, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFRRHMLGSK/511276/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "420370",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/420370/download",
+      "pageUrl": "https://xeno-canto.org/420370",
+      "recordist": "Meena Haribal",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Sequim, Clallam County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RBYDYNRSJV/420370/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "782422",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/910211/download",
-      "pageUrl": "https://xeno-canto.org/910211",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/782422/download",
+      "pageUrl": "https://xeno-canto.org/782422",
       "recordist": "Manuel Grosselet",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:00",
-      "location": "San Pablo Etla, San Pablo Etla, Oaxaca",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/910211/grey-medium.png"
+      "length": "0:41",
+      "location": "Monte Albán, Santa Cruz Xoxocotlán, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/782422/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "582700",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/582700/download",
+      "pageUrl": "https://xeno-canto.org/582700",
+      "recordist": "Steve Hampton",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Wild Wings Park, Cache Creek, Yolo County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BUGKVZBWKF/582700/grey-medium.png"
     },
     {
       "xenoCantoId": "76669",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/76669/download",
       "pageUrl": "https://xeno-canto.org/76669",
       "recordist": "Stuart Fisher",
@@ -244,5 +286,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_rough-winged_swallow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/11970"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/11970",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Stelgidopteryx-serripennis"
 }

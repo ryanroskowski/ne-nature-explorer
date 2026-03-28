@@ -256,6 +256,7 @@
     {
       "xenoCantoId": "1046636",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1046636/download",
       "pageUrl": "https://xeno-canto.org/1046636",
       "recordist": "Manuel Oudard",
@@ -266,8 +267,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ISEVSYKZZW/1046636/grey-medium.png"
     },
     {
+      "xenoCantoId": "1002016",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1002016/download",
+      "pageUrl": "https://xeno-canto.org/1002016",
+      "recordist": "Ding Li Yong",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:46",
+      "location": "Tashgai Lake ",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NWTKEXMKCA/1002016/grey-medium.png"
+    },
+    {
       "xenoCantoId": "695798",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/695798/download",
       "pageUrl": "https://xeno-canto.org/695798",
       "recordist": "Jacobo Ramil MIllarengo",
@@ -280,5 +295,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Swan_goose",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7014"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7014",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anser-cygnoides"
 }

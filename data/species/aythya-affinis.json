@@ -256,6 +256,7 @@
     {
       "xenoCantoId": "1019875",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1019875/download",
       "pageUrl": "https://xeno-canto.org/1019875",
       "recordist": "Stanislas Wroza",
@@ -268,6 +269,7 @@
     {
       "xenoCantoId": "574653",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/574653/download",
       "pageUrl": "https://xeno-canto.org/574653",
       "recordist": "Richard E. Webster",
@@ -276,9 +278,23 @@
       "length": "0:12",
       "location": "Ruby Lake National Wildlife Refuge, Elko County, Nevada",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/574653/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "284599",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/284599/download",
+      "pageUrl": "https://xeno-canto.org/284599",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:19",
+      "location": "Bowdoin National Wildlife Refuge, Phillips Co., Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/284599/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lesser_scaup",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7054"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7054",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aythya-affinis"
 }

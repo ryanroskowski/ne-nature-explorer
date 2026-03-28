@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1060896",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1060896/download",
       "pageUrl": "https://xeno-canto.org/1060896",
       "recordist": "Benjamin Drillat",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/1060896/grey-medium.png"
     },
     {
+      "xenoCantoId": "1014991",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1014991/download",
+      "pageUrl": "https://xeno-canto.org/1014991",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:31",
+      "location": "Bécancour Regional County Municipality (near  Bécancour), Centre-du-Québec, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014991/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "919140",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/919140/download",
+      "pageUrl": "https://xeno-canto.org/919140",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:06",
+      "location": "Ensign Township (near  Rapid River), Delta County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/919140/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1040463",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1040463/download",
       "pageUrl": "https://xeno-canto.org/1040463",
       "recordist": "Greg Irving",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1040463/grey-medium.png"
     },
     {
+      "xenoCantoId": "963203",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/963203/download",
+      "pageUrl": "https://xeno-canto.org/963203",
+      "recordist": "Bill Pyle",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Kodiak, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DUWDSSWZPN/963203/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014989",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014989/download",
       "pageUrl": "https://xeno-canto.org/1014989",
       "recordist": "Stanislas Wroza",
@@ -260,5 +302,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Savannah_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9981"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9981",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Passerculus-sandwichensis"
 }

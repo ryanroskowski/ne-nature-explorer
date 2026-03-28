@@ -237,6 +237,7 @@
     {
       "xenoCantoId": "741616",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/741616/download",
       "pageUrl": "https://xeno-canto.org/741616",
       "recordist": "William Whitehead",
@@ -247,8 +248,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MGVGHKBMIZ/741616/grey-medium.png"
     },
     {
+      "xenoCantoId": "601329",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/601329/download",
+      "pageUrl": "https://xeno-canto.org/601329",
+      "recordist": "Manuel Sanchez-Nivicela",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:33",
+      "location": "Bolivar (near  Bolívar), Muisne, Esmeraldas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBFFGHPZZQ/601329/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "496138",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/496138/download",
+      "pageUrl": "https://xeno-canto.org/496138",
+      "recordist": "JL Guerra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "1:14",
+      "location": "Playa del Chivo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XOZOGBDPCP/496138/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1034361",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1034361/download",
       "pageUrl": "https://xeno-canto.org/1034361",
       "recordist": "David Darrell-Lambert",
@@ -259,19 +287,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1034361/grey-medium.png"
     },
     {
-      "xenoCantoId": "565557",
+      "xenoCantoId": "927228",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/927228/download",
+      "pageUrl": "https://xeno-canto.org/927228",
+      "recordist": "Nancy Salem",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Bolsa Chica Ecological Reserve (near  Huntington Beach), Orange County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YZAENHXHYA/927228/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "565555",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/565557/download",
-      "pageUrl": "https://xeno-canto.org/565557",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/565555/download",
+      "pageUrl": "https://xeno-canto.org/565555",
       "recordist": "Isain Contreras Rodríguez",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:01",
+      "length": "0:22",
       "location": "El Islote",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/565557/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/565555/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Royal_tern",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144539"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144539",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Thalasseus-maximus"
 }

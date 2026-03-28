@@ -272,6 +272,7 @@
     {
       "xenoCantoId": "1002990",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1002990/download",
       "pageUrl": "https://xeno-canto.org/1002990",
       "recordist": "Don Profota",
@@ -282,19 +283,60 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UTLXKPYDDK/1002990/grey-medium.png"
     },
     {
-      "xenoCantoId": "999164",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/999164/download",
-      "pageUrl": "https://xeno-canto.org/999164",
-      "recordist": "Cin-Ty Lee",
+      "xenoCantoId": "509621",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/509621/download",
+      "pageUrl": "https://xeno-canto.org/509621",
+      "recordist": "Peter Ward",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Parson, Columbia-Shuswap, British Columbia",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ERYSCRRSLN/999164/grey-medium.png"
+      "length": "1:07",
+      "location": "Tyaughton Lake, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFRRHMLGSK/509621/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "414896",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/414896/download",
+      "pageUrl": "https://xeno-canto.org/414896",
+      "recordist": "Nicholas Comparato",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Port Angeles, Clallam County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YZXFVTFDSO/414896/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "748158",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/748158/download",
+      "pageUrl": "https://xeno-canto.org/748158",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:56",
+      "location": "Chapman Saddle Rd, Sierra County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/748158/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "623238",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/623238/download",
+      "pageUrl": "https://xeno-canto.org/623238",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Crest Trail, Chiricahua Mountains",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/623238/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hammond's_flycatcher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16624"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16624",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Empidonax-hammondii"
 }

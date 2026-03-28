@@ -344,6 +344,7 @@
     {
       "xenoCantoId": "51881",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/51881/download",
       "pageUrl": "https://xeno-canto.org/51881",
       "recordist": "Bernabe Lopez-Lanus",
@@ -356,6 +357,7 @@
     {
       "xenoCantoId": "997531",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/997531/download",
       "pageUrl": "https://xeno-canto.org/997531",
       "recordist": "Stanislas Wroza",
@@ -366,8 +368,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/997531/grey-medium.png"
     },
     {
+      "xenoCantoId": "747826",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/747826/download",
+      "pageUrl": "https://xeno-canto.org/747826",
+      "recordist": "Paul Kelly",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:07",
+      "location": "Tacumshin Lake (East End), County Wexford",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/747826/grey-medium.png"
+    },
+    {
       "xenoCantoId": "747616",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/747616/download",
       "pageUrl": "https://xeno-canto.org/747616",
       "recordist": "Paul Kelly",
@@ -380,5 +396,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Buff-breasted_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/339596"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/339596",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-subruficollis"
 }

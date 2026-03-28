@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "1089528",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1089528/download",
       "pageUrl": "https://xeno-canto.org/1089528",
       "recordist": "Susanne Kuijpers",
@@ -259,9 +260,23 @@
       "length": "0:45",
       "location": "Berkel en Rodenrijs, Lansingerland, Zuid-Holland",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IZVNKUBNLN/1089528/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1089178",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1089178/download",
+      "pageUrl": "https://xeno-canto.org/1089178",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "City of Colchester (near  Layer de la Haye), Essex, England",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1089178/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Greater_white-fronted_goose",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7019"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7019",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anser-albifrons"
 }

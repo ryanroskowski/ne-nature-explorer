@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "975210",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/975210/download",
       "pageUrl": "https://xeno-canto.org/975210",
       "recordist": "Lars Redetzke",
@@ -234,20 +235,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QFZOWZFUGB/975210/grey-medium.png"
     },
     {
-      "xenoCantoId": "1085278",
+      "xenoCantoId": "936128",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/936128/download",
+      "pageUrl": "https://xeno-canto.org/936128",
+      "recordist": "Arjun Dutta",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:51",
+      "location": "Beddington Farm, London",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HRVQAOEHRR/936128/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "911535",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/911535/download",
+      "pageUrl": "https://xeno-canto.org/911535",
+      "recordist": "Albert Lastukhin",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Iki-Chonos, Tselinny District, Republic of Kalmykia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/911535/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1091416",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1085278/download",
-      "pageUrl": "https://xeno-canto.org/1085278",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1091416/download",
+      "pageUrl": "https://xeno-canto.org/1091416",
       "recordist": "David Darrell-Lambert",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:37",
+      "length": "0:14",
       "location": "Rainham Marshes, London",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1085278/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1091416/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1024550",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1024550/download",
+      "pageUrl": "https://xeno-canto.org/1024550",
+      "recordist": "Uku Paal",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Spithami / Spithamn, Lääne maakond",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XIBLXHRPJO/1024550/grey-medium.png"
     },
     {
       "xenoCantoId": "911534",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/911534/download",
       "pageUrl": "https://xeno-canto.org/911534",
       "recordist": "Albert Lastukhin",
@@ -260,5 +302,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_shelduck",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7067"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7067",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tadorna-tadorna"
 }

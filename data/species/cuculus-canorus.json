@@ -221,6 +221,7 @@
     {
       "xenoCantoId": "1089905",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1089905/download",
       "pageUrl": "https://xeno-canto.org/1089905",
       "recordist": "Christian Kerihuel",
@@ -231,8 +232,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VWWRQKFKMD/1089905/grey-medium.png"
     },
     {
+      "xenoCantoId": "1085590",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1085590/download",
+      "pageUrl": "https://xeno-canto.org/1085590",
+      "recordist": "Petter Westberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:39",
+      "location": "Kääntöjärvi, Gällivare Municipality, Norrbotten County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1085590/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1080341",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1080341/download",
+      "pageUrl": "https://xeno-canto.org/1080341",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Finca Flores Amarillas, Montánchez (nr  Almoharín), Cáceres, Extremadura",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/1080341/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1067351",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1067351/download",
       "pageUrl": "https://xeno-canto.org/1067351",
       "recordist": "Albert Lastukhin",
@@ -241,9 +269,23 @@
       "length": "0:10",
       "location": "Yamanchurino, Yalchiksky District, Chuvashia Republic",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/1067351/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1049567",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1049567/download",
+      "pageUrl": "https://xeno-canto.org/1049567",
+      "recordist": "Miriam Öttl",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Judenburg (near  Sabathygebiet), Judenburg, Steiermark",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VIEMVSUBPN/1049567/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_cuckoo",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1907"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1907",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Cuculus-canorus"
 }

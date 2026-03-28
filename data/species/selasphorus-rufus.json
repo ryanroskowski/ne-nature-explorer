@@ -236,8 +236,22 @@
   ],
   "audio": [
     {
+      "xenoCantoId": "489370",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/489370/download",
+      "pageUrl": "https://xeno-canto.org/489370",
+      "recordist": "Phoenix Birder",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:59",
+      "location": "Greer, Apache County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UKNISVRBBF/489370/grey-medium.png"
+    },
+    {
       "xenoCantoId": "495185",
       "type": "song",
+      "label": "Song 2",
       "audioUrl": "https://xeno-canto.org/495185/download",
       "pageUrl": "https://xeno-canto.org/495185",
       "recordist": "Thomas G. Graves",
@@ -250,6 +264,7 @@
     {
       "xenoCantoId": "613904",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/613904/download",
       "pageUrl": "https://xeno-canto.org/613904",
       "recordist": "Peter Ward and Ken Hall",
@@ -258,9 +273,23 @@
       "length": "0:35",
       "location": "Campbell Valley Regional Park, British Columbia",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFRRHMLGSK/613904/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "609195",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/609195/download",
+      "pageUrl": "https://xeno-canto.org/609195",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:57",
+      "location": "Lyons, Boulder County, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/609195/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rufous_hummingbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6363"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6363",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Selasphorus-rufus"
 }

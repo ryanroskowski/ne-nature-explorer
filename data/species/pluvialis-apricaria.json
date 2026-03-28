@@ -238,6 +238,7 @@
     {
       "xenoCantoId": "1006087",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1006087/download",
       "pageUrl": "https://xeno-canto.org/1006087",
       "recordist": "Dag Österlund",
@@ -248,8 +249,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMSAKXGUCH/1006087/grey-medium.png"
     },
     {
+      "xenoCantoId": "564382",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/564382/download",
+      "pageUrl": "https://xeno-canto.org/564382",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Ammarnas, Swedish Lapland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/564382/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "432749",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/432749/download",
+      "pageUrl": "https://xeno-canto.org/432749",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:17",
+      "location": "Reykhólar, Westfjords Region",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/432749/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1091108",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1091108/download",
       "pageUrl": "https://xeno-canto.org/1091108",
       "recordist": "florent yvert",
@@ -260,19 +288,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PQGYLXLIUK/1091108/grey-medium.png"
     },
     {
-      "xenoCantoId": "1011582",
+      "xenoCantoId": "1085902",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1085902/download",
+      "pageUrl": "https://xeno-canto.org/1085902",
+      "recordist": "Petter Westberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Sinuk, Kiruna Municipality, Norrbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1085902/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1011580",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1011582/download",
-      "pageUrl": "https://xeno-canto.org/1011582",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1011580/download",
+      "pageUrl": "https://xeno-canto.org/1011580",
       "recordist": "Ulf Elman",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "quality": "A",
-      "length": "1:34",
+      "length": "1:18",
       "location": "Flatruet, Härjedalen, Jämtlands län",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/1011582/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/1011580/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/European_golden_plover",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4889"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4889",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pluvialis-apricaria"
 }

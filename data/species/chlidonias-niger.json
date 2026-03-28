@@ -227,31 +227,47 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1037306",
+      "xenoCantoId": "1012817",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1037306/download",
-      "pageUrl": "https://xeno-canto.org/1037306",
-      "recordist": "Lionel FREDERIC",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1012817/download",
+      "pageUrl": "https://xeno-canto.org/1012817",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Arrondissement d'Orléans (near  Bou), Loiret, Centre-Val de Loire",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/1037306/grey-medium.png"
+      "length": "1:27",
+      "location": "Baie-du-Febvre, Nicolet-Yamaska, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012817/grey-medium.png"
     },
     {
-      "xenoCantoId": "1037312",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1037312/download",
-      "pageUrl": "https://xeno-canto.org/1037312",
-      "recordist": "Lionel FREDERIC",
+      "xenoCantoId": "931696",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/931696/download",
+      "pageUrl": "https://xeno-canto.org/931696",
+      "recordist": "Ricardo Hevia",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
-      "location": "Arrondissement d'Orléans (near  Bou), Loiret, Centre-Val de Loire",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/1037312/grey-medium.png"
+      "length": "0:22",
+      "location": "Ortegal (near  Cariño), A Coruña, Galicia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BQFSTZRSEP/931696/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "918508",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/918508/download",
+      "pageUrl": "https://xeno-canto.org/918508",
+      "recordist": "Paul Coiffard",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Arrondissement de la Rochelle (near  Yves), Charente-Maritime, Nouvelle-Aquitaine",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLORJJUZZT/918508/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black_tern",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4512"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4512",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Chlidonias-niger"
 }

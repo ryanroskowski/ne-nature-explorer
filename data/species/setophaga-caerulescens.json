@@ -357,6 +357,7 @@
     {
       "xenoCantoId": "1038362",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1038362/download",
       "pageUrl": "https://xeno-canto.org/1038362",
       "recordist": "Bobby Wilcox",
@@ -367,20 +368,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1038362/grey-medium.png"
     },
     {
-      "xenoCantoId": "1013892",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1013892/download",
-      "pageUrl": "https://xeno-canto.org/1013892",
+      "xenoCantoId": "1013121",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1013121/download",
+      "pageUrl": "https://xeno-canto.org/1013121",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013892/grey-medium.png"
+      "length": "1:04",
+      "location": "Réserve nationale de faune du cap Tourmente, La Côte-de-Beaupré, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013121/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "933480",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/933480/download",
+      "pageUrl": "https://xeno-canto.org/933480",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "1:06",
+      "location": "Port L'Hebert Migratory Bird Sanctuary, Nova Scotia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/933480/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013115",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1013115/download",
+      "pageUrl": "https://xeno-canto.org/1013115",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Réserve nationale de faune du cap Tourmente, La Côte-de-Beaupré, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013115/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "486857",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/486857/download",
+      "pageUrl": "https://xeno-canto.org/486857",
+      "recordist": "Christopher McPherson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Lancy Brook Wetlands Brookline / Mason, Hillsborough County, New Hampshire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNIFQCMOLA/486857/grey-medium.png"
     },
     {
       "xenoCantoId": "1013113",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1013113/download",
       "pageUrl": "https://xeno-canto.org/1013113",
       "recordist": "Stanislas Wroza",
@@ -393,5 +435,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-throated_blue_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199916"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199916",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-caerulescens"
 }

@@ -267,6 +267,7 @@
     {
       "xenoCantoId": "989816",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/989816/download",
       "pageUrl": "https://xeno-canto.org/989816",
       "recordist": "Ed Pandolfino",
@@ -277,20 +278,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/989816/grey-medium.png"
     },
     {
-      "xenoCantoId": "1034316",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1034316/download",
-      "pageUrl": "https://xeno-canto.org/1034316",
-      "recordist": "Richard E. Webster",
+      "xenoCantoId": "752798",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/752798/download",
+      "pageUrl": "https://xeno-canto.org/752798",
+      "recordist": "Paul Marvin",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "6:57",
-      "location": "San Bernardino National Wildlife Refuge, Cochise County, Arizona",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1034316/grey-medium.png"
+      "length": "1:00",
+      "location": "Santa Fe Grade Rd, Merced County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/752798/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "509627",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/509627/download",
+      "pageUrl": "https://xeno-canto.org/509627",
+      "recordist": "Ken Hall",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Potholes Reservior, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFRRHMLGSK/509627/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "989818",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/989818/download",
+      "pageUrl": "https://xeno-canto.org/989818",
+      "recordist": "Ed Pandolfino",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Deer Creek Hills Preserve, Sacramento County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/989818/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "742846",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/742846/download",
+      "pageUrl": "https://xeno-canto.org/742846",
+      "recordist": "Nicolas Martinez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Marron Valley, Okanagan-Similkameen, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CVLRXNQXVL/742846/grey-medium.png"
     },
     {
       "xenoCantoId": "1034318",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1034318/download",
       "pageUrl": "https://xeno-canto.org/1034318",
       "recordist": "Richard E. Webster",
@@ -303,5 +345,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_kingbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16791"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16791",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tyrannus-verticalis"
 }

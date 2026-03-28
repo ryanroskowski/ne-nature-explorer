@@ -232,6 +232,7 @@
     {
       "xenoCantoId": "1035992",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1035992/download",
       "pageUrl": "https://xeno-canto.org/1035992",
       "recordist": "Rory Nefdt",
@@ -242,8 +243,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1035992/grey-medium.png"
     },
     {
+      "xenoCantoId": "1017148",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1017148/download",
+      "pageUrl": "https://xeno-canto.org/1017148",
+      "recordist": "Manuel Sánchez-Nivicela",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:49",
+      "location": "Sunka, Macuma (near  Capadino Entza), Taisha, Morona-Santiago",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBFFGHPZZQ/1017148/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "839983",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/839983/download",
+      "pageUrl": "https://xeno-canto.org/839983",
+      "recordist": "Manuel Oudard",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "South Frontenac (near  Inverary), Frontenac County, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ISEVSYKZZW/839983/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1037302",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1037302/download",
       "pageUrl": "https://xeno-canto.org/1037302",
       "recordist": "Bobby Wilcox",
@@ -254,8 +282,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1037302/grey-medium.png"
     },
     {
+      "xenoCantoId": "694926",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/694926/download",
+      "pageUrl": "https://xeno-canto.org/694926",
+      "recordist": "Scott Olmstead",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:50",
+      "location": "Puerto Vargas Trail, Cahuita National Park, Limón",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DABODLPUPA/694926/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014934",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014934/download",
       "pageUrl": "https://xeno-canto.org/1014934",
       "recordist": "Stanislas Wroza",
@@ -268,5 +310,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_wood_pewee",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16100"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16100",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Contopus-virens"
 }

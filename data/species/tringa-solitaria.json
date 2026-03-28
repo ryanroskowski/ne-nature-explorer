@@ -240,6 +240,7 @@
     {
       "xenoCantoId": "1000538",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1000538/download",
       "pageUrl": "https://xeno-canto.org/1000538",
       "recordist": "David Ricardo Rodríguez-Villamil",
@@ -250,8 +251,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GSINAVRFEN/1000538/grey-medium.png"
     },
     {
+      "xenoCantoId": "674349",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/674349/download",
+      "pageUrl": "https://xeno-canto.org/674349",
+      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Santa Rita do Novo Destino, Goiás, Chácara Jayrson",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/674349/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1021713",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1021713/download",
+      "pageUrl": "https://xeno-canto.org/1021713",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:26",
+      "location": "Isle aux Coudres",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1021713/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1021691",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1021691/download",
       "pageUrl": "https://xeno-canto.org/1021691",
       "recordist": "Stanislas Wroza",
@@ -262,19 +290,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1021691/grey-medium.png"
     },
     {
-      "xenoCantoId": "772523",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/772523/download",
-      "pageUrl": "https://xeno-canto.org/772523",
-      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
+      "xenoCantoId": "958845",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/958845/download",
+      "pageUrl": "https://xeno-canto.org/958845",
+      "recordist": "Arjun Dutta",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:01",
-      "location": "Embrapa Arroz-Feijão, Goianira, Goiás",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/772523/grey-medium.png"
+      "length": "0:26",
+      "location": "Cedarbrae, Calgary, Alberta",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HRVQAOEHRR/958845/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "606780",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/606780/download",
+      "pageUrl": "https://xeno-canto.org/606780",
+      "recordist": "Peter Ward and Ken Hall",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Cariboo K (near  Riske Creek), Cariboo, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFRRHMLGSK/606780/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Solitary_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3875"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3875",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tringa-solitaria"
 }

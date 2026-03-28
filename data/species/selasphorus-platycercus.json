@@ -198,6 +198,7 @@
     {
       "xenoCantoId": "1089813",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1089813/download",
       "pageUrl": "https://xeno-canto.org/1089813",
       "recordist": "GABRIEL LEITE",
@@ -208,8 +209,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TGBFXDVERJ/1089813/grey-medium.png"
     },
     {
+      "xenoCantoId": "495182",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/495182/download",
+      "pageUrl": "https://xeno-canto.org/495182",
+      "recordist": "Thomas G. Graves",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "1:14",
+      "location": "Rocky Mountains (near  Tererro), San Miguel County, New Mexico",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KGOCOOKTTU/495182/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "374078",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/374078/download",
+      "pageUrl": "https://xeno-canto.org/374078",
+      "recordist": "Matt Wistrand",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:20",
+      "location": "Cheyenne Mountain State Park, El Paso County, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QZOXFIKPFF/374078/grey-medium.png"
+    },
+    {
       "xenoCantoId": "777791",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/777791/download",
       "pageUrl": "https://xeno-canto.org/777791",
       "recordist": "Sue Riffe",
@@ -218,9 +246,23 @@
       "length": "0:38",
       "location": "Lyons, Boulder County, Colorado",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/777791/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "463255",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/463255/download",
+      "pageUrl": "https://xeno-canto.org/463255",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "NF Road 626, Mt Ord, near Sunflower,  Maricopa Co, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/463255/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Broad-tailed_hummingbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6369"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6369",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Selasphorus-platycercus"
 }

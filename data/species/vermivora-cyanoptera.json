@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1006773",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1006773/download",
       "pageUrl": "https://xeno-canto.org/1006773",
       "recordist": "Rory Nefdt",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1006773/grey-medium.png"
     },
     {
+      "xenoCantoId": "839511",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/839511/download",
+      "pageUrl": "https://xeno-canto.org/839511",
+      "recordist": "Manuel Oudard",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Norfolk (near  Ungers Corner), Haldimand County, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ISEVSYKZZW/839511/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "598819",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/598819/download",
+      "pageUrl": "https://xeno-canto.org/598819",
+      "recordist": "Christopher McPherson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:00",
+      "location": "Hudson (near  Nashua), Hillsborough County, New Hampshire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNIFQCMOLA/598819/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1072511",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1072511/download",
       "pageUrl": "https://xeno-canto.org/1072511",
       "recordist": "Max Noack",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NYTGVXSILH/1072511/grey-medium.png"
     },
     {
+      "xenoCantoId": "385393",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/385393/download",
+      "pageUrl": "https://xeno-canto.org/385393",
+      "recordist": "Matt Wistrand",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Elsen's Hill, DuPage County, Illinois",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QZOXFIKPFF/385393/grey-medium.png"
+    },
+    {
       "xenoCantoId": "255549",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/255549/download",
       "pageUrl": "https://xeno-canto.org/255549",
       "recordist": "tony henneberg",
@@ -260,5 +302,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Blue-winged_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/73553"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/73553",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Vermivora-cyanoptera"
 }

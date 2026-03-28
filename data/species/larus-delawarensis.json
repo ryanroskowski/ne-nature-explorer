@@ -294,6 +294,7 @@
     {
       "xenoCantoId": "1020645",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1020645/download",
       "pageUrl": "https://xeno-canto.org/1020645",
       "recordist": "Stanislas Wroza",
@@ -304,8 +305,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1020645/grey-medium.png"
     },
     {
+      "xenoCantoId": "531833",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/531833/download",
+      "pageUrl": "https://xeno-canto.org/531833",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:07",
+      "location": "Topolobampo, Ahome, Sinaloa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/531833/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "332148",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/332148/download",
+      "pageUrl": "https://xeno-canto.org/332148",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:05",
+      "location": "Prewitt Reservoir, Washington County, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/332148/grey-medium.png"
+    },
+    {
       "xenoCantoId": "918482",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/918482/download",
       "pageUrl": "https://xeno-canto.org/918482",
       "recordist": "Grégoire Chauvot",
@@ -316,19 +344,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UVZCOYYCLV/918482/grey-medium.png"
     },
     {
-      "xenoCantoId": "919862",
+      "xenoCantoId": "771232",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/771232/download",
+      "pageUrl": "https://xeno-canto.org/771232",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Elephant Butte Lake, Sierra County, New Mexico",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/771232/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "396194",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/919862/download",
-      "pageUrl": "https://xeno-canto.org/919862",
-      "recordist": "Denis Provencher",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/396194/download",
+      "pageUrl": "https://xeno-canto.org/396194",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "B",
-      "length": "4:15",
-      "location": "Les Laurentides (near  Montcalm), Laurentides, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QQHLLSOTCS/919862/grey-medium.png"
+      "length": "0:34",
+      "location": "Aytré, Charente-Maritime, Nouvelle-Aquitaine",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/396194/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ring-billed_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4364"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4364",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Larus-delawarensis"
 }

@@ -249,6 +249,7 @@
     {
       "xenoCantoId": "1090861",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1090861/download",
       "pageUrl": "https://xeno-canto.org/1090861",
       "recordist": "Manuel Grosselet",
@@ -259,8 +260,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1090861/grey-medium.png"
     },
     {
+      "xenoCantoId": "1035993",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1035993/download",
+      "pageUrl": "https://xeno-canto.org/1035993",
+      "recordist": "Rory Nefdt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:04",
+      "location": "Hart’s Brook Park and Preserve (near  Hartsdale), Westchester County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1035993/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "373822",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/373822/download",
+      "pageUrl": "https://xeno-canto.org/373822",
+      "recordist": "Jeff Dyck",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:48",
+      "location": "Vanderhoof, Bulkley-Nechako, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WOKAPEXFUA/373822/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1033919",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1033919/download",
       "pageUrl": "https://xeno-canto.org/1033919",
       "recordist": "Rory Nefdt",
@@ -271,8 +299,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1033919/grey-medium.png"
     },
     {
+      "xenoCantoId": "973862",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/973862/download",
+      "pageUrl": "https://xeno-canto.org/973862",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:42",
+      "location": "San Bernardino National Wildlife Refuge, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/973862/grey-medium.png"
+    },
+    {
       "xenoCantoId": "809879",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/809879/download",
       "pageUrl": "https://xeno-canto.org/809879",
       "recordist": "Ned Bohman",
@@ -285,5 +327,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Red-tailed_hawk",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5212"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5212",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Buteo-jamaicensis"
 }

@@ -349,6 +349,7 @@
     {
       "xenoCantoId": "836099",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/836099/download",
       "pageUrl": "https://xeno-canto.org/836099",
       "recordist": "Jacob Wijpkema",
@@ -359,20 +360,48 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WETAASKWUP/836099/grey-medium.png"
     },
     {
-      "xenoCantoId": "956042",
+      "xenoCantoId": "158643",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/158643/download",
+      "pageUrl": "https://xeno-canto.org/158643",
+      "recordist": "Ian Cruickshank",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "quality": "B",
+      "length": "0:10",
+      "location": "Chaplin Lake, SK",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XEIROMUDEB/158643/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "940082",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/956042/download",
-      "pageUrl": "https://xeno-canto.org/956042",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/940082/download",
+      "pageUrl": "https://xeno-canto.org/940082",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Embrapa Arroz-Feijão, Goianira, Goiás",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/956042/grey-medium.png"
+      "length": "0:30",
+      "location": "Piscicultura - Goiânia, Goiânia, Goiás",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/940082/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "711562",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/711562/download",
+      "pageUrl": "https://xeno-canto.org/711562",
+      "recordist": "Ignacio Escobar",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Humedal Río Elqui (near  La Serena), Elqui Province, Coquimbo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UIQWJTARNH/711562/grey-medium.png"
     },
     {
       "xenoCantoId": "48612",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/48612/download",
       "pageUrl": "https://xeno-canto.org/48612",
       "recordist": "Bernabe Lopez-Lanus",
@@ -385,5 +414,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/White-rumped_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3866"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3866",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-fuscicollis"
 }

@@ -370,6 +370,7 @@
     {
       "xenoCantoId": "1015038",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1015038/download",
       "pageUrl": "https://xeno-canto.org/1015038",
       "recordist": "Stanislas Wroza",
@@ -380,20 +381,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1015038/grey-medium.png"
     },
     {
-      "xenoCantoId": "1015025",
+      "xenoCantoId": "1009101",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1009101/download",
+      "pageUrl": "https://xeno-canto.org/1009101",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Whitefish Township (near  Eckerman), Chippewa County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1009101/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "691646",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/691646/download",
+      "pageUrl": "https://xeno-canto.org/691646",
+      "recordist": "Christopher McPherson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:33",
+      "location": "Cow Path Lane, Hollis, Hillsborough County, New Hampshire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNIFQCMOLA/691646/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1015024",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1015025/download",
-      "pageUrl": "https://xeno-canto.org/1015025",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1015024/download",
+      "pageUrl": "https://xeno-canto.org/1015024",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:02",
+      "length": "1:18",
       "location": "Bécancour Regional County Municipality (near  Bécancour), Centre-du-Québec, Quebec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1015025/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1015024/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "941412",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/941412/download",
+      "pageUrl": "https://xeno-canto.org/941412",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Fairbanks Township (near  Garden), Delta County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/941412/grey-medium.png"
     },
     {
       "xenoCantoId": "923856",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/923856/download",
       "pageUrl": "https://xeno-canto.org/923856",
       "recordist": "Ray Cooke",
@@ -406,5 +448,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Palm_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145242"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145242",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-palmarum"
 }

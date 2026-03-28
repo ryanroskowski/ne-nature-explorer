@@ -227,43 +227,86 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1012869",
+      "xenoCantoId": "861197",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1012869/download",
-      "pageUrl": "https://xeno-canto.org/1012869",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/861197/download",
+      "pageUrl": "https://xeno-canto.org/861197",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:07",
-      "location": "Lotbinière (near  Notre-Dame-du-Sacré-Coeur-d'Issoudun), Chaudière-Appalaches, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012869/grey-medium.png"
+      "length": "0:13",
+      "location": "Blue Mounds (near  Mount Horeb), Dane County, Wisconsin",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/861197/grey-medium.png"
     },
     {
-      "xenoCantoId": "549229",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/549229/download",
-      "pageUrl": "https://xeno-canto.org/549229",
-      "recordist": "Logan McLeod",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "quality": "A",
-      "length": "0:05",
-      "location": "Unorganized Yukon, Yukon, Yukon",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JRPEHMSIPP/549229/grey-medium.png"
-    },
-    {
-      "xenoCantoId": "815121",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/815121/download",
-      "pageUrl": "https://xeno-canto.org/815121",
+      "xenoCantoId": "735208",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/735208/download",
+      "pageUrl": "https://xeno-canto.org/735208",
       "recordist": "Valerie Heemstra",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:26",
+      "length": "0:49",
       "location": "Masonville Township (near  Maplewood), Delta County, Michigan",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/815121/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/735208/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "104331",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/104331/download",
+      "pageUrl": "https://xeno-canto.org/104331",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Lemmon Lake Road, Grand River National Grasslands, Perkins Co., South Dakota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/104331/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "143965",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/143965/download",
+      "pageUrl": "https://xeno-canto.org/143965",
+      "recordist": "Laura Gooch",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:47",
+      "location": "Kinsley-Hunt Road,  Huron National Forest, Ogemaw, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XUPTAZCQVD/143965/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "55819",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/55819/download",
+      "pageUrl": "https://xeno-canto.org/55819",
+      "recordist": "Todd Wilson",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Buena Vista Grasslands, Portage County, WI",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNJLXSFHYB/55819/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "143966",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/143966/download",
+      "pageUrl": "https://xeno-canto.org/143966",
+      "recordist": "Laura Gooch",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "1:14",
+      "location": "Kinsley-Hunt Road,  Huron National Forest, Ogemaw, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XUPTAZCQVD/143966/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Upland_sandpiper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3962"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3962",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Bartramia-longicauda"
 }

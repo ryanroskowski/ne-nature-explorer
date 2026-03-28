@@ -235,20 +235,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "100904",
+      "xenoCantoId": "15012",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/100904/download",
-      "pageUrl": "https://xeno-canto.org/100904",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/15012/download",
+      "pageUrl": "https://xeno-canto.org/15012",
       "recordist": "Andrew Spencer",
       "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
       "quality": "A",
-      "length": "2:52",
-      "location": "Cherokee Creek, at the Little Snake River, Moffat Co., Colorado",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/100904/grey-medium.png"
+      "length": "0:25",
+      "location": "Trujillo Meadows SWA, Conejos Co., Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/15012/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1035282",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1035282/download",
+      "pageUrl": "https://xeno-canto.org/1035282",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:25",
+      "location": "Markleeville, Alpine County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1035282/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "205471",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/205471/download",
+      "pageUrl": "https://xeno-canto.org/205471",
+      "recordist": "Eric DeFonso",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:45",
+      "location": "Plateau N of Paradox Valley, Montrose County, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KTLCZCRCQX/205471/grey-medium.png"
     },
     {
       "xenoCantoId": "351732",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/351732/download",
       "pageUrl": "https://xeno-canto.org/351732",
       "recordist": "Richard E. Webster",
@@ -257,9 +285,23 @@
       "length": "0:33",
       "location": "Inyo Mountains, Inyo, California",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/351732/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "294915",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/294915/download",
+      "pageUrl": "https://xeno-canto.org/294915",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:27",
+      "location": "Beartooth Pass area, Carbon County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/294915/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Mountain_bluebird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12936"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12936",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sialia-currucoides"
 }

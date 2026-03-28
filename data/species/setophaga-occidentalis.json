@@ -363,20 +363,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "963162",
+      "xenoCantoId": "748361",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/963162/download",
-      "pageUrl": "https://xeno-canto.org/963162",
-      "recordist": "Bill Pyle",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/748361/download",
+      "pageUrl": "https://xeno-canto.org/748361",
+      "recordist": "Paul Marvin",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:41",
-      "location": "Grouse Gap, Jackson Co, Oregon",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DUWDSSWZPN/963162/grey-medium.png"
+      "length": "0:44",
+      "location": "Chapman Saddle Rd, Sierra County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/748361/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "656352",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/656352/download",
+      "pageUrl": "https://xeno-canto.org/656352",
+      "recordist": "Steve Hampton",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:19",
+      "location": "Brinnon, Jefferson County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BUGKVZBWKF/656352/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "143155",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/143155/download",
+      "pageUrl": "https://xeno-canto.org/143155",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "1:05",
+      "location": "Mary's Peak, Benton Co., Oregon",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/143155/grey-medium.png"
     },
     {
       "xenoCantoId": "674958",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/674958/download",
       "pageUrl": "https://xeno-canto.org/674958",
       "recordist": "Paul Marvin",
@@ -385,9 +413,23 @@
       "length": "0:36",
       "location": "Nestor Park, San Diego County, California",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/674958/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "66342",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/66342/download",
+      "pageUrl": "https://xeno-canto.org/66342",
+      "recordist": "manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Mx, Oaxaca Monte Albán",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/66342/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hermit_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145256"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145256",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-occidentalis"
 }

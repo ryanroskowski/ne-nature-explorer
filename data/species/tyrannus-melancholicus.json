@@ -264,6 +264,7 @@
     {
       "xenoCantoId": "1080173",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1080173/download",
       "pageUrl": "https://xeno-canto.org/1080173",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -274,8 +275,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/1080173/grey-medium.png"
     },
     {
+      "xenoCantoId": "1074277",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1074277/download",
+      "pageUrl": "https://xeno-canto.org/1074277",
+      "recordist": "Leonardo Ordóñez-Delgado",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Hoya de Loja, Campus UTPL",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RJNSQXBIJE/1074277/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1063023",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1063023/download",
+      "pageUrl": "https://xeno-canto.org/1063023",
+      "recordist": "Pedro Rinaldi",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Costanera Sur,Salto ciudad",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VKQHDAFQDZ/1063023/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1035572",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1035572/download",
       "pageUrl": "https://xeno-canto.org/1035572",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -286,8 +314,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/1035572/grey-medium.png"
     },
     {
+      "xenoCantoId": "1021970",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1021970/download",
+      "pageUrl": "https://xeno-canto.org/1021970",
+      "recordist": "Stephan Risch",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:13",
+      "location": "CR. Puntarenas, Quepos near The Falls Resort",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TFOGOENSTQ/1021970/grey-medium.png"
+    },
+    {
       "xenoCantoId": "566836",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/566836/download",
       "pageUrl": "https://xeno-canto.org/566836",
       "recordist": "Isain Contreras Rodríguez",
@@ -300,5 +342,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Tropical_kingbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16787"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16787",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tyrannus-melancholicus"
 }

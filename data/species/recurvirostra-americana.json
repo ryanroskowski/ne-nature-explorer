@@ -214,31 +214,47 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "891493",
+      "xenoCantoId": "587206",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/891493/download",
-      "pageUrl": "https://xeno-canto.org/891493",
-      "recordist": "Ed Pandolfino",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/587206/download",
+      "pageUrl": "https://xeno-canto.org/587206",
+      "recordist": "Craig Robertson",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:01",
-      "location": "Monteuma Wetlands, Solano County, California",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/891493/grey-medium.png"
+      "length": "0:10",
+      "location": "Bear River Migratory Bird Refuge (near  Brigham City), Box Elder County, Utah",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IERLEVXEIF/587206/grey-medium.png"
     },
     {
-      "xenoCantoId": "877007",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/877007/download",
-      "pageUrl": "https://xeno-canto.org/877007",
-      "recordist": "Skyler Bol",
+      "xenoCantoId": "480761",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/480761/download",
+      "pageUrl": "https://xeno-canto.org/480761",
+      "recordist": "Bruce Lagerquist",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Freezeout Lake, Teton County, Montana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ESGJLNIGDA/877007/grey-medium.png"
+      "length": "0:22",
+      "location": "Continental Lake, Humboldt County, Nevada",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/480761/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "554605",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/554605/download",
+      "pageUrl": "https://xeno-canto.org/554605",
+      "recordist": "Thomas G. Graves",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Santa Margarita, San Luis Obispo County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KGOCOOKTTU/554605/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_avocet",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4885"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4885",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Recurvirostra-americana"
 }

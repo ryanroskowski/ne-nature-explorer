@@ -184,6 +184,7 @@
     {
       "xenoCantoId": "1067414",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1067414/download",
       "pageUrl": "https://xeno-canto.org/1067414",
       "recordist": "Ding Li Yong",
@@ -194,8 +195,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NWTKEXMKCA/1067414/grey-medium.png"
     },
     {
+      "xenoCantoId": "1048462",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1048462/download",
+      "pageUrl": "https://xeno-canto.org/1048462",
+      "recordist": "Michael John O Mahony",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PSTCNWXKNE/1048462/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1023212",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1023212/download",
+      "pageUrl": "https://xeno-canto.org/1023212",
+      "recordist": "Albert Lastukhin",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:09",
+      "location": "Hangzhou, Zhejiang",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/1023212/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1065950",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1065950/download",
       "pageUrl": "https://xeno-canto.org/1065950",
       "recordist": "Arend Wassink",
@@ -206,8 +234,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JFWYCBDTFP/1065950/grey-medium.png"
     },
     {
+      "xenoCantoId": "1009091",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1009091/download",
+      "pageUrl": "https://xeno-canto.org/1009091",
+      "recordist": "Lim Ying Hien",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Taman Negara (Merapoh), Pahang",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NXHTMHMNSS/1009091/grey-medium.png"
+    },
+    {
       "xenoCantoId": "976959",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/976959/download",
       "pageUrl": "https://xeno-canto.org/976959",
       "recordist": "Albert Lastukhin",
@@ -220,5 +262,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red_junglefowl",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/882"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/882",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Gallus-gallus"
 }

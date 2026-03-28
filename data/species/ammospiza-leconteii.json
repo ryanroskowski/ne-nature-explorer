@@ -246,6 +246,7 @@
     {
       "xenoCantoId": "598435",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/598435/download",
       "pageUrl": "https://xeno-canto.org/598435",
       "recordist": "Peter Ward and Ken Hall",
@@ -256,20 +257,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFRRHMLGSK/598435/grey-medium.png"
     },
     {
-      "xenoCantoId": "596450",
+      "xenoCantoId": "191987",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/191987/download",
+      "pageUrl": "https://xeno-canto.org/191987",
+      "recordist": "Patrick Turgeon",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:59",
+      "location": "Foam Lake No. 276 (near  Margo), Division No. 10, Saskatchewan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WCNFEBIHCJ/191987/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "160509",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/160509/download",
+      "pageUrl": "https://xeno-canto.org/160509",
+      "recordist": "Ian Cruickshank",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "3 km south of Fishing Lake, SK",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XEIROMUDEB/160509/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "340637",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/596450/download",
-      "pageUrl": "https://xeno-canto.org/596450",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/340637/download",
+      "pageUrl": "https://xeno-canto.org/340637",
       "recordist": "Matt Wistrand",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:46",
-      "location": "Prairie Green, Kane County, Illinois",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QZOXFIKPFF/596450/grey-medium.png"
+      "length": "1:05",
+      "location": "Afton Forest Preserve, DeKalb County, Illinois",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QZOXFIKPFF/340637/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "144023",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/144023/download",
+      "pageUrl": "https://xeno-canto.org/144023",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "Browns Lake, Beltrami Island State Forest, Lake of the Woods Co., Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/144023/grey-medium.png"
     },
     {
       "xenoCantoId": "504156",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/504156/download",
       "pageUrl": "https://xeno-canto.org/504156",
       "recordist": "Matt Wistrand",
@@ -282,5 +324,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/LeConte's_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/437602"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/437602",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Ammospiza-leconteii"
 }

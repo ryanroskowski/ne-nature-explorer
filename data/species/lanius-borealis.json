@@ -235,8 +235,35 @@
   ],
   "audio": [
     {
+      "xenoCantoId": "91967",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/91967/download",
+      "pageUrl": "https://xeno-canto.org/91967",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:32",
+      "location": "Mary Ann Creek Road, Okanogan Co., Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/91967/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "44982",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/44982/download",
+      "pageUrl": "https://xeno-canto.org/44982",
+      "recordist": "Todd Wilson",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "1:25",
+      "location": "Vernon Marsh, Waukesha County, Wisconsin",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNJLXSFHYB/44982/grey-medium.png"
+    },
+    {
       "xenoCantoId": "982270",
       "type": "song",
+      "label": "Song 3",
       "audioUrl": "https://xeno-canto.org/982270/download",
       "pageUrl": "https://xeno-canto.org/982270",
       "recordist": "Bill Pyle",
@@ -247,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DUWDSSWZPN/982270/grey-medium.png"
     },
     {
+      "xenoCantoId": "400776",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/400776/download",
+      "pageUrl": "https://xeno-canto.org/400776",
+      "recordist": "Brian Henderson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:47",
+      "location": "Park Point area, Duluth, Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XOTIPGMSLK/400776/grey-medium.png"
+    },
+    {
       "xenoCantoId": "940184",
       "type": "call",
+      "label": "Call 2",
       "audioUrl": "https://xeno-canto.org/940184/download",
       "pageUrl": "https://xeno-canto.org/940184",
       "recordist": "Seth Beaudreault (Toolik Field Station)",
@@ -261,6 +302,7 @@
     {
       "xenoCantoId": "70028",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/70028/download",
       "pageUrl": "https://xeno-canto.org/70028",
       "recordist": "Paul Driver",
@@ -273,5 +315,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Northern_shrike",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558512"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558512",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Lanius-borealis"
 }

@@ -206,20 +206,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1090720",
+      "xenoCantoId": "1027998",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1090720/download",
-      "pageUrl": "https://xeno-canto.org/1090720",
-      "recordist": "Pedro Sanetti",
-      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1027998/download",
+      "pageUrl": "https://xeno-canto.org/1027998",
+      "recordist": "Francisco Rivas Fuenzalida",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Neuquen, Confluencia Department, Neuquén Province",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DMGACSHZXQ/1090720/grey-medium.png"
+      "length": "0:24",
+      "location": "Cañete, Arauco, Bío Bío",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HFAIUBMLBS/1027998/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014816",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1014816/download",
+      "pageUrl": "https://xeno-canto.org/1014816",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Marais Léon-Provancher, Portneuf, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014816/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1000252",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1000252/download",
+      "pageUrl": "https://xeno-canto.org/1000252",
+      "recordist": "David Tattersley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Green Valley, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/1000252/grey-medium.png"
     },
     {
       "xenoCantoId": "1032111",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1032111/download",
       "pageUrl": "https://xeno-canto.org/1032111",
       "recordist": "Jacob Wijpkema",
@@ -230,8 +258,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WETAASKWUP/1032111/grey-medium.png"
     },
     {
+      "xenoCantoId": "977144",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/977144/download",
+      "pageUrl": "https://xeno-canto.org/977144",
+      "recordist": "Juan Freile",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:08",
+      "location": "Manabí: La Segua marsh",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DIQDFZEYXO/977144/grey-medium.png"
+    },
+    {
       "xenoCantoId": "971500",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/971500/download",
       "pageUrl": "https://xeno-canto.org/971500",
       "recordist": "Richard E. Webster",
@@ -244,5 +286,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pied-billed_grebe",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4246"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4246",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Podilymbus-podiceps"
 }

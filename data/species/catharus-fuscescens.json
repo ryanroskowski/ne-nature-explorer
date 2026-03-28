@@ -211,20 +211,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1022273",
+      "xenoCantoId": "1012571",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1022273/download",
-      "pageUrl": "https://xeno-canto.org/1022273",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1012571/download",
+      "pageUrl": "https://xeno-canto.org/1012571",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:01",
-      "location": "Tadoussac dunes",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1022273/grey-medium.png"
+      "length": "0:44",
+      "location": "La Vallée-du-Richelieu Regional County Municipality (near  Mont-Saint-Hilaire), Montérégie, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012571/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "924425",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/924425/download",
+      "pageUrl": "https://xeno-canto.org/924425",
+      "recordist": "Oscar Gordo",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Westchester Township (near  Chesterton), Porter County, Indiana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QNKLQRHRXD/924425/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "916972",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/916972/download",
+      "pageUrl": "https://xeno-canto.org/916972",
+      "recordist": "Denis Provencher",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Les Laurentides Regional County Municipality (near  Val-David), Laurentides, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QQHLLSOTCS/916972/grey-medium.png"
     },
     {
       "xenoCantoId": "1044662",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1044662/download",
       "pageUrl": "https://xeno-canto.org/1044662",
       "recordist": "Paul Driver",
@@ -235,19 +263,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/1044662/grey-medium.png"
     },
     {
-      "xenoCantoId": "1014015",
+      "xenoCantoId": "941480",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/941480/download",
+      "pageUrl": "https://xeno-canto.org/941480",
+      "recordist": "Guillaume Bigayon",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Rimouski-Neigette (near  Saint-Fabien), Bas-Saint-Laurent, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HCKTRQCLWR/941480/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1012936",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1014015/download",
-      "pageUrl": "https://xeno-canto.org/1014015",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1012936/download",
+      "pageUrl": "https://xeno-canto.org/1012936",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:02",
-      "location": "La Haute-Côte-Nord (near  Grandes-Bergeronnes), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014015/grey-medium.png"
+      "length": "0:33",
+      "location": "Marais Léon-Provancher, Portneuf, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012936/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Veery",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12901"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12901",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Catharus-fuscescens"
 }

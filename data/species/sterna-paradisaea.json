@@ -238,6 +238,7 @@
     {
       "xenoCantoId": "664525",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/664525/download",
       "pageUrl": "https://xeno-canto.org/664525",
       "recordist": "Hannu Varkki",
@@ -248,20 +249,48 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XDCPMYMSWN/664525/grey-medium.png"
     },
     {
-      "xenoCantoId": "1045887",
+      "xenoCantoId": "263962",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/263962/download",
+      "pageUrl": "https://xeno-canto.org/263962",
+      "recordist": "Terje Kolaas",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Hadsel, Nordland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CIMGCGUWCS/263962/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1022099",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1045887/download",
-      "pageUrl": "https://xeno-canto.org/1045887",
-      "recordist": "AUDEVARD Aurélien",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1022099/download",
+      "pageUrl": "https://xeno-canto.org/1022099",
+      "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Fort Davis, Nome Census Area, Alaska",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1045887/grey-medium.png"
+      "length": "0:34",
+      "location": "Stora Fjäderägg, Umeå Municipality, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/1022099/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1011206",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1011206/download",
+      "pageUrl": "https://xeno-canto.org/1011206",
+      "recordist": "Dag Österlund",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:01",
+      "location": "Lillskärsudden, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMSAKXGUCH/1011206/grey-medium.png"
     },
     {
       "xenoCantoId": "1079597",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1079597/download",
       "pageUrl": "https://xeno-canto.org/1079597",
       "recordist": "Scott Olmstead",
@@ -274,5 +303,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Arctic_tern",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4449"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4449",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sterna-paradisaea"
 }

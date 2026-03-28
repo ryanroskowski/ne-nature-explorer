@@ -182,20 +182,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1075219",
+      "xenoCantoId": "977696",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1075219/download",
-      "pageUrl": "https://xeno-canto.org/1075219",
-      "recordist": "Jonathan Onongo",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/977696/download",
+      "pageUrl": "https://xeno-canto.org/977696",
+      "recordist": "David Darrell-Lambert",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Kabaale Refinery, Hoima",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YIKAQIVHQJ/1075219/grey-medium.png"
+      "length": "0:31",
+      "location": "Bani Mazin, Asir Principality, Aseer Province",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/977696/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "962992",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/962992/download",
+      "pageUrl": "https://xeno-canto.org/962992",
+      "recordist": "Dries Van de Loock",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Gonarezhou NP",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IIJAXHKSCC/962992/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "834121",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/834121/download",
+      "pageUrl": "https://xeno-canto.org/834121",
+      "recordist": "Marc Anderson",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Northern Tuli Game Reserve",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/834121/grey-medium.png"
     },
     {
       "xenoCantoId": "1087079",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1087079/download",
       "pageUrl": "https://xeno-canto.org/1087079",
       "recordist": "African Bioacoustics Community",
@@ -206,8 +234,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YSGTQVRQZI/1087079/grey-medium.png"
     },
     {
+      "xenoCantoId": "1079087",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1079087/download",
+      "pageUrl": "https://xeno-canto.org/1079087",
+      "recordist": "JJSUN",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "deHoop Nature Reserve, Western Cape",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QXGZDUUJUO/1079087/grey-medium.png"
+    },
+    {
       "xenoCantoId": "979950",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/979950/download",
       "pageUrl": "https://xeno-canto.org/979950",
       "recordist": "Albert Lastukhin",
@@ -220,5 +262,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Helmeted_guineafowl",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1428"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1428",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Numida-meleagris"
 }

@@ -230,8 +230,22 @@
   ],
   "audio": [
     {
+      "xenoCantoId": "479178",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/479178/download",
+      "pageUrl": "https://xeno-canto.org/479178",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:30",
+      "location": "Höfn",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/479178/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1052663",
       "type": "song",
+      "label": "Song 2",
       "audioUrl": "https://xeno-canto.org/1052663/download",
       "pageUrl": "https://xeno-canto.org/1052663",
       "recordist": "Stein Ø. Nilsen",
@@ -242,8 +256,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/1052663/grey-medium.png"
     },
     {
+      "xenoCantoId": "321256",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/321256/download",
+      "pageUrl": "https://xeno-canto.org/321256",
+      "recordist": "eloisa matheu",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "1:10",
+      "location": "Skokholm Island, Pembrokeshire, Wales",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JKAHUTXILE/321256/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1087387",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1087387/download",
       "pageUrl": "https://xeno-canto.org/1087387",
       "recordist": "Roland Arnison",
@@ -254,8 +282,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NPLSWYWTJJ/1087387/grey-medium.png"
     },
     {
+      "xenoCantoId": "809908",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/809908/download",
+      "pageUrl": "https://xeno-canto.org/809908",
+      "recordist": "Paul Kelly",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:46",
+      "location": "Tory Island, County Donegal, County Donegal",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/809908/grey-medium.png"
+    },
+    {
       "xenoCantoId": "500860",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/500860/download",
       "pageUrl": "https://xeno-canto.org/500860",
       "recordist": "Vincent van der Spek",
@@ -268,5 +310,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Atlantic_puffin",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4504"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4504",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Fratercula-arctica"
 }

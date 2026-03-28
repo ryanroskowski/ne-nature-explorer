@@ -230,20 +230,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1062731",
+      "xenoCantoId": "951676",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1062731/download",
-      "pageUrl": "https://xeno-canto.org/1062731",
-      "recordist": "Lionel Triboulin",
-      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/951676/download",
+      "pageUrl": "https://xeno-canto.org/951676",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "quality": "A",
-      "length": "0:07",
-      "location": "Arrondissement de Rouen (near  Le Mesnil-Esnard), Seine-Maritime, Normandie",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RZQTFFPKYG/1062731/grey-medium.png"
+      "length": "1:06",
+      "location": "Gmina Cyców , łęczyński, Lubelskie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/951676/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "890276",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/890276/download",
+      "pageUrl": "https://xeno-canto.org/890276",
+      "recordist": "Geoff Carey",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Desert Botanical Garden, Turpan, Xinjiang",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LBWCUENEBH/890276/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "726673",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/726673/download",
+      "pageUrl": "https://xeno-canto.org/726673",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Östhammar, Östhammar Municipality, Uppsala län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/726673/grey-medium.png"
     },
     {
       "xenoCantoId": "1015095",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1015095/download",
       "pageUrl": "https://xeno-canto.org/1015095",
       "recordist": "Francesco Sottile",
@@ -254,8 +282,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ITHRUQEQCF/1015095/grey-medium.png"
     },
     {
+      "xenoCantoId": "891811",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/891811/download",
+      "pageUrl": "https://xeno-canto.org/891811",
+      "recordist": "Bo Shunqi薄顺奇",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:00",
+      "location": "Karmilos Hill, Chania, Crete, Decentralized Administration of Crete",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YNOAMCSSHX/891811/grey-medium.png"
+    },
+    {
       "xenoCantoId": "800788",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/800788/download",
       "pageUrl": "https://xeno-canto.org/800788",
       "recordist": "David Hammarberg",
@@ -268,5 +310,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eurasian_collared_dove",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/2969"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/2969",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Streptopelia-decaocto"
 }

@@ -230,20 +230,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1016532",
+      "xenoCantoId": "827982",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1016532/download",
-      "pageUrl": "https://xeno-canto.org/1016532",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/827982/download",
+      "pageUrl": "https://xeno-canto.org/827982",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Tama (near  Burlington), Des Moines, Iowa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/827982/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "815807",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/815807/download",
+      "pageUrl": "https://xeno-canto.org/815807",
       "recordist": "Valerie Heemstra",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:20",
-      "location": "Cornell Township (near  Chandler), Delta County, Michigan",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1016532/grey-medium.png"
+      "length": "0:20",
+      "location": "Holmes Township (near  Nathan), Menominee County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/815807/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "685643",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/685643/download",
+      "pageUrl": "https://xeno-canto.org/685643",
+      "recordist": "Meena Haribal",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:05",
+      "location": "Riverton Township (near  Glyndon), Clay County, Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RBYDYNRSJV/685643/grey-medium.png"
     },
     {
       "xenoCantoId": "1008058",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1008058/download",
       "pageUrl": "https://xeno-canto.org/1008058",
       "recordist": "David A. Brinkman",
@@ -252,9 +280,23 @@
       "length": "0:32",
       "location": "Wildlife viewing shelter (near  Harrison), Hamilton County, Ohio",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1008058/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "452621",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/452621/download",
+      "pageUrl": "https://xeno-canto.org/452621",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:39",
+      "location": "Attwater Prairie Chicken NWR, Colorado County, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/452621/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Sedge_wren",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1286843"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1286843",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Cistothorus-stellaris"
 }

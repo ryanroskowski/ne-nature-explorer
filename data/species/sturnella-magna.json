@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1084543",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1084543/download",
       "pageUrl": "https://xeno-canto.org/1084543",
       "recordist": "Manuel Grosselet",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1084543/grey-medium.png"
     },
     {
+      "xenoCantoId": "1070675",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1070675/download",
+      "pageUrl": "https://xeno-canto.org/1070675",
+      "recordist": "Manuel Grosselet-Edgar del valle-Rebeca Martinez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Oaxaca International Airport (near  Santa Cruz Xoxocotlán), Santa Cruz Xoxocotlán, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1070675/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1026126",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1026126/download",
+      "pageUrl": "https://xeno-canto.org/1026126",
+      "recordist": "Paul Lenrumé",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:51",
+      "location": "Savane Marivat, Tonate-Macouria",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HHXEHTNZKV/1026126/grey-medium.png"
+    },
+    {
       "xenoCantoId": "934443",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/934443/download",
       "pageUrl": "https://xeno-canto.org/934443",
       "recordist": "Thomas Magarian",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/934443/grey-medium.png"
     },
     {
+      "xenoCantoId": "818902",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/818902/download",
+      "pageUrl": "https://xeno-canto.org/818902",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Tallgrass Prairie National Preserve, Chase County, Kansas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/818902/grey-medium.png"
+    },
+    {
       "xenoCantoId": "695089",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/695089/download",
       "pageUrl": "https://xeno-canto.org/695089",
       "recordist": "Mauricio Cuellar Ramirez (@Birding.travel)",
@@ -260,5 +302,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_meadowlark",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9528"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9528",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sturnella-magna"
 }

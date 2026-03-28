@@ -246,6 +246,7 @@
     {
       "xenoCantoId": "992548",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/992548/download",
       "pageUrl": "https://xeno-canto.org/992548",
       "recordist": "Feather V",
@@ -256,20 +257,48 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GZUBDKWLGI/992548/grey-medium.png"
     },
     {
-      "xenoCantoId": "962866",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/962866/download",
-      "pageUrl": "https://xeno-canto.org/962866",
-      "recordist": "Peter Ericsson",
+      "xenoCantoId": "765852",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/765852/download",
+      "pageUrl": "https://xeno-canto.org/765852",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Khlong Sip Song (near  Bangkok), Nong Chok, Krung Thep Maha Nakhon",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VTCWEPHHIE/962866/grey-medium.png"
+      "length": "2:01",
+      "location": "Zavkhan, Uvs",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/765852/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "895309",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/895309/download",
+      "pageUrl": "https://xeno-canto.org/895309",
+      "recordist": "Lim Ying Hien",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Chui Chak Paddyfields, Perak",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NXHTMHMNSS/895309/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "622920",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/622920/download",
+      "pageUrl": "https://xeno-canto.org/622920",
+      "recordist": "Jens Kirkeby",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Trevozhnaya, Golden Ridge, Anadyrsky District, Chukotka Autonomous Okrug",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YKITMEIRRE/622920/grey-medium.png"
     },
     {
       "xenoCantoId": "765854",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/765854/download",
       "pageUrl": "https://xeno-canto.org/765854",
       "recordist": "Stanislas Wroza",
@@ -282,5 +311,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pacific_golden_plover",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4896"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4896",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pluvialis-fulva"
 }

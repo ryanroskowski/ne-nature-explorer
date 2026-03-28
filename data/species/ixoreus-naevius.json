@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1048897",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1048897/download",
       "pageUrl": "https://xeno-canto.org/1048897",
       "recordist": "AUDEVARD Aurélien",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1048897/grey-medium.png"
     },
     {
+      "xenoCantoId": "604686",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/604686/download",
+      "pageUrl": "https://xeno-canto.org/604686",
+      "recordist": "Bruce Lagerquist",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:06",
+      "location": "Maple Leaf, Seattle, King County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/604686/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "603282",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/603282/download",
+      "pageUrl": "https://xeno-canto.org/603282",
+      "recordist": "Thomas Magarian",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Camp Polk Meadow Preserve, Sisters, Deschutes County, Oregon",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/603282/grey-medium.png"
+    },
+    {
       "xenoCantoId": "770780",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/770780/download",
       "pageUrl": "https://xeno-canto.org/770780",
       "recordist": "Kevin Krebs",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DOPAZQZMYF/770780/grey-medium.png"
     },
     {
+      "xenoCantoId": "316055",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/316055/download",
+      "pageUrl": "https://xeno-canto.org/316055",
+      "recordist": "Elias Aristides Elias",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:38",
+      "location": "Klamath, Del Norte County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLBLXAJUMV/316055/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1048896",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1048896/download",
       "pageUrl": "https://xeno-canto.org/1048896",
       "recordist": "AUDEVARD Aurélien",
@@ -260,5 +302,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Varied_thrush",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145088"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145088",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Ixoreus-naevius"
 }

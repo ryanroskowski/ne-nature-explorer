@@ -232,6 +232,7 @@
     {
       "xenoCantoId": "1087853",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1087853/download",
       "pageUrl": "https://xeno-canto.org/1087853",
       "recordist": "Ed Pandolfino",
@@ -242,8 +243,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/1087853/grey-medium.png"
     },
     {
+      "xenoCantoId": "1085560",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1085560/download",
+      "pageUrl": "https://xeno-canto.org/1085560",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "Sterling, Logan County, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1085560/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1000439",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1000439/download",
+      "pageUrl": "https://xeno-canto.org/1000439",
+      "recordist": "David Tattersley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "San Antonito, Socorro County, New Mexico",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/1000439/grey-medium.png"
+    },
+    {
       "xenoCantoId": "939198",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/939198/download",
       "pageUrl": "https://xeno-canto.org/939198",
       "recordist": "Brian Cox",
@@ -252,9 +280,23 @@
       "length": "0:37",
       "location": "Grasslands National Park East Block",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OKSKESEOLP/939198/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "899435",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/899435/download",
+      "pageUrl": "https://xeno-canto.org/899435",
+      "recordist": "Thomas G. Graves",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Santa Margarita, San Luis Obispo County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KGOCOOKTTU/899435/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Western_meadowlark",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9535"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9535",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sturnella-neglecta"
 }

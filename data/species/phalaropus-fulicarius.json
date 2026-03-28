@@ -220,6 +220,7 @@
     {
       "xenoCantoId": "424557",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/424557/download",
       "pageUrl": "https://xeno-canto.org/424557",
       "recordist": "Stein Ø. Nilsen",
@@ -230,8 +231,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/424557/grey-medium.png"
     },
     {
+      "xenoCantoId": "406388",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/406388/download",
+      "pageUrl": "https://xeno-canto.org/406388",
+      "recordist": "Patrik Åberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:51",
+      "location": "Barrow, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/406388/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1063401",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1063401/download",
       "pageUrl": "https://xeno-canto.org/1063401",
       "recordist": "Avery Bartels",
@@ -240,9 +255,23 @@
       "length": "0:19",
       "location": "Old Crow, Yukon",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VEKXLVVPUF/1063401/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1045866",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1045866/download",
+      "pageUrl": "https://xeno-canto.org/1045866",
+      "recordist": "AUDEVARD Aurélien",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Utqiagvik, North Slope, Barrow, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1045866/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red_phalarope",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/73203"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/73203",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Phalaropus-fulicarius"
 }

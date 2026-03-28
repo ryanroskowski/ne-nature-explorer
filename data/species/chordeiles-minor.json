@@ -221,6 +221,7 @@
     {
       "xenoCantoId": "1089238",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1089238/download",
       "pageUrl": "https://xeno-canto.org/1089238",
       "recordist": "Albert Lastukhin",
@@ -231,20 +232,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/1089238/grey-medium.png"
     },
     {
-      "xenoCantoId": "1035202",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1035202/download",
-      "pageUrl": "https://xeno-canto.org/1035202",
-      "recordist": "Richard E. Webster",
+      "xenoCantoId": "839182",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/839182/download",
+      "pageUrl": "https://xeno-canto.org/839182",
+      "recordist": "Manuel Oudard",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:10",
+      "location": "Kawartha Lakes (near  Kirkfield), Kawartha Lakes, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ISEVSYKZZW/839182/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "735866",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/735866/download",
+      "pageUrl": "https://xeno-canto.org/735866",
+      "recordist": "Timothy Marquardt",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Rucker Canyon grasslands, Cochise County, Arizona",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1035202/grey-medium.png"
+      "length": "1:07",
+      "location": "Bolivar Peninsula, Galveston County, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UKNISVRBBF/735866/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1024243",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1024243/download",
+      "pageUrl": "https://xeno-canto.org/1024243",
+      "recordist": "Greg Irving",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Fish Hatchery Road, Sequim, Clallam County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1024243/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1022352",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1022352/download",
+      "pageUrl": "https://xeno-canto.org/1022352",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Tadoussac dunes",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1022352/grey-medium.png"
     },
     {
       "xenoCantoId": "1022380",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1022380/download",
       "pageUrl": "https://xeno-canto.org/1022380",
       "recordist": "Stanislas Wroza",
@@ -257,5 +299,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_nighthawk",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/19577"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/19577",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Chordeiles-minor"
 }

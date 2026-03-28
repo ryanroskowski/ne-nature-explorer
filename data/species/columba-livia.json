@@ -187,20 +187,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1073356",
+      "xenoCantoId": "726245",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1073356/download",
-      "pageUrl": "https://xeno-canto.org/1073356",
-      "recordist": "Ulf Elman",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/726245/download",
+      "pageUrl": "https://xeno-canto.org/726245",
+      "recordist": "Olivier SWIFT",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:25",
-      "location": "Eka, Trögden, Uppland",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/1073356/grey-medium.png"
+      "length": "0:27",
+      "location": "Arrondissement de Rouen (near  Jumièges), Seine-Maritime, Normandie, Abbaye de Jumièges",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JCPKCBKKAQ/726245/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "485507",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/485507/download",
+      "pageUrl": "https://xeno-canto.org/485507",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "J Street Marina, Chula Vista, San Diego Co, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/485507/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "462611",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/462611/download",
+      "pageUrl": "https://xeno-canto.org/462611",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:38",
+      "location": "Gmina Hańsk (near  Wojciechów), włodawski, lubelskie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/462611/grey-medium.png"
     },
     {
       "xenoCantoId": "541143",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/541143/download",
       "pageUrl": "https://xeno-canto.org/541143",
       "recordist": "Marie-Lan Taÿ Pamart",
@@ -211,8 +239,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CGRIFXISGE/541143/grey-medium.png"
     },
     {
+      "xenoCantoId": "178529",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/178529/download",
+      "pageUrl": "https://xeno-canto.org/178529",
+      "recordist": "Thomas G. Graves",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:27",
+      "location": "Pinnacles National Park (near  PAICINES), San Benito, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KGOCOOKTTU/178529/grey-medium.png"
+    },
+    {
       "xenoCantoId": "121677",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/121677/download",
       "pageUrl": "https://xeno-canto.org/121677",
       "recordist": "Jarek Matusiak",
@@ -225,5 +267,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Rock_dove",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3017"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3017",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Columba-livia"
 }

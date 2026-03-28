@@ -168,6 +168,7 @@
     {
       "xenoCantoId": "1014807",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1014807/download",
       "pageUrl": "https://xeno-canto.org/1014807",
       "recordist": "Stanislas Wroza",
@@ -178,8 +179,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014807/grey-medium.png"
     },
     {
+      "xenoCantoId": "180468",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/180468/download",
+      "pageUrl": "https://xeno-canto.org/180468",
+      "recordist": "Dan Lane",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "LSU campus, Baton Rouge, EBR parish, Louisiana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WOEAFQRMUD/180468/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "738283",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/738283/download",
+      "pageUrl": "https://xeno-canto.org/738283",
+      "recordist": "Timothy Marquardt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:31",
+      "location": "Belknap Precinct (near  Belknap), Johnson County, Illinois",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UKNISVRBBF/738283/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014805",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014805/download",
       "pageUrl": "https://xeno-canto.org/1014805",
       "recordist": "Stanislas Wroza",
@@ -190,8 +218,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014805/grey-medium.png"
     },
     {
+      "xenoCantoId": "457517",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/457517/download",
+      "pageUrl": "https://xeno-canto.org/457517",
+      "recordist": "Brian Henderson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Green Lane Park, Montgomery County, Pennsylvania",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XOTIPGMSLK/457517/grey-medium.png"
+    },
+    {
       "xenoCantoId": "141276",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/141276/download",
       "pageUrl": "https://xeno-canto.org/141276",
       "recordist": "Russ Wigh",
@@ -204,5 +246,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chimney_swift",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6571"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6571",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Chaetura-pelagica"
 }

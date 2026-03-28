@@ -237,6 +237,7 @@
     {
       "xenoCantoId": "1020814",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1020814/download",
       "pageUrl": "https://xeno-canto.org/1020814",
       "recordist": "Stanislas Wroza",
@@ -247,8 +248,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1020814/grey-medium.png"
     },
     {
+      "xenoCantoId": "872704",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/872704/download",
+      "pageUrl": "https://xeno-canto.org/872704",
+      "recordist": "CWS Yukon",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Tagish, Yukon",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VROPEEEFZV/872704/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "76194",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/76194/download",
+      "pageUrl": "https://xeno-canto.org/76194",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Churchill, MB",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/76194/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1020807",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1020807/download",
       "pageUrl": "https://xeno-canto.org/1020807",
       "recordist": "Stanislas Wroza",
@@ -259,8 +287,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1020807/grey-medium.png"
     },
     {
+      "xenoCantoId": "902072",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/902072/download",
+      "pageUrl": "https://xeno-canto.org/902072",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Parker River National Wildlife Refuge, Plum Island, Essex County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AMMGWAIZWI/902072/grey-medium.png"
+    },
+    {
       "xenoCantoId": "872698",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/872698/download",
       "pageUrl": "https://xeno-canto.org/872698",
       "recordist": "CWS Yukon",
@@ -273,5 +315,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Short-billed_dowitcher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3869"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3869",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Limnodromus-griseus"
 }

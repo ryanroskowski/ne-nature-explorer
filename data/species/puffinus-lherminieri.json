@@ -192,6 +192,7 @@
     {
       "xenoCantoId": "871522",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/871522/download",
       "pageUrl": "https://xeno-canto.org/871522",
       "recordist": "William Mackin",
@@ -202,19 +203,21 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KNCYRSPKYR/871522/grey-medium.png"
     },
     {
-      "xenoCantoId": "318903",
+      "xenoCantoId": "11370",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/318903/download",
-      "pageUrl": "https://xeno-canto.org/318903",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/11370/download",
+      "pageUrl": "https://xeno-canto.org/11370",
       "recordist": "Robson Silva e Silva",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
       "quality": "A",
-      "length": "1:33",
+      "length": "0:38",
       "location": "Morro da Viuvinha Island, Fernando de Noronha Archipelago",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WZSVLIHYQF/318903/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WZSVLIHYQF/11370/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Audubon's_shearwater",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/201450"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/201450",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Puffinus-lherminieri"
 }

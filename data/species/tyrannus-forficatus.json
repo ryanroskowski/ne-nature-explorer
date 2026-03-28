@@ -267,6 +267,7 @@
     {
       "xenoCantoId": "323788",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/323788/download",
       "pageUrl": "https://xeno-canto.org/323788",
       "recordist": "Terry Davis",
@@ -277,8 +278,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VREQOVRYQI/323788/grey-medium.png"
     },
     {
+      "xenoCantoId": "364720",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/364720/download",
+      "pageUrl": "https://xeno-canto.org/364720",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "1:06",
+      "location": "General Bravo, Nuevo León",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/364720/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "247701",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/247701/download",
+      "pageUrl": "https://xeno-canto.org/247701",
+      "recordist": "Joshua Stevenson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:18",
+      "location": "Ashland City, Cheatham County, Tennessee",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GHKDXVPSJK/247701/grey-medium.png"
+    },
+    {
       "xenoCantoId": "952633",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/952633/download",
       "pageUrl": "https://xeno-canto.org/952633",
       "recordist": "Sacha Balavoine",
@@ -287,9 +315,23 @@
       "length": "0:19",
       "location": "La Haute-Côte-Nord Regional County Municipality (near  Sault-au-Mouton), Côte-Nord, Quebec",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QVMBOMNAVO/952633/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "816234",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/816234/download",
+      "pageUrl": "https://xeno-canto.org/816234",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Chase State Fishing Lake, Chase County, Kansas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/816234/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Scissor-tailed_flycatcher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16783"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16783",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tyrannus-forficatus"
 }

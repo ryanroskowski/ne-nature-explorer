@@ -222,20 +222,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1036369",
+      "xenoCantoId": "1012533",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1036369/download",
-      "pageUrl": "https://xeno-canto.org/1036369",
-      "recordist": "Bobby Wilcox",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1012533/download",
+      "pageUrl": "https://xeno-canto.org/1012533",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:43",
-      "location": "Tama (near  Burlington), Des Moines, Iowa",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1036369/grey-medium.png"
+      "length": "0:27",
+      "location": "La Vallée-du-Richelieu Regional County Municipality (near  Mont-Saint-Hilaire), Montérégie, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012533/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "916957",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/916957/download",
+      "pageUrl": "https://xeno-canto.org/916957",
+      "recordist": "Denis Provencher",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Les Laurentides Regional County Municipality (near  Mont-Tremblant), Laurentides, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QQHLLSOTCS/916957/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "840738",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/840738/download",
+      "pageUrl": "https://xeno-canto.org/840738",
+      "recordist": "Manuel Oudard",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Backus Township (near  Richfield Township), Roscommon County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ISEVSYKZZW/840738/grey-medium.png"
     },
     {
       "xenoCantoId": "1086938",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1086938/download",
       "pageUrl": "https://xeno-canto.org/1086938",
       "recordist": "Brian Cox",
@@ -246,19 +274,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OKSKESEOLP/1086938/grey-medium.png"
     },
     {
-      "xenoCantoId": "1012535",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1012535/download",
-      "pageUrl": "https://xeno-canto.org/1012535",
-      "recordist": "Stanislas Wroza",
+      "xenoCantoId": "1077604",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1077604/download",
+      "pageUrl": "https://xeno-canto.org/1077604",
+      "recordist": "Carlos Delgado JUMABITA",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:41",
-      "location": "La Vallée-du-Richelieu Regional County Municipality (near  Mont-Saint-Hilaire), Montérégie, Quebec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012535/grey-medium.png"
+      "length": "1:07",
+      "location": "Vereda Altavista, San Luis, Antioquia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QNQOLYYZEB/1077604/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "650791",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/650791/download",
+      "pageUrl": "https://xeno-canto.org/650791",
+      "recordist": "Russ Wigh",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Skidaway Island, Chatham County, GA USA",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YBJUQSUJFZ/650791/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Great_crested_flycatcher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16028"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16028",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Myiarchus-crinitus"
 }

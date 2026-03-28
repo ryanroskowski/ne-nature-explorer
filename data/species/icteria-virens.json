@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1006790",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1006790/download",
       "pageUrl": "https://xeno-canto.org/1006790",
       "recordist": "Paul Marvin",
@@ -234,20 +235,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/1006790/grey-medium.png"
     },
     {
-      "xenoCantoId": "964191",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/964191/download",
-      "pageUrl": "https://xeno-canto.org/964191",
-      "recordist": "steve",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "xenoCantoId": "1005087",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1005087/download",
+      "pageUrl": "https://xeno-canto.org/1005087",
+      "recordist": "Scott Crabtree",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "El Refugio, Los Cabos, Baja California Sur",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQVHGWMGMC/964191/grey-medium.png"
+      "length": "1:25",
+      "location": "Santa Gertrudis LaneTrail (near  Tumacacori-Carmen), Santa Cruz County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/1005087/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "942709",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/942709/download",
+      "pageUrl": "https://xeno-canto.org/942709",
+      "recordist": "Tero Linjama",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Mazatzal Mountains-FR 422/Pine Mountain, Maricopa County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YSDNMROVID/942709/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "914947",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/914947/download",
+      "pageUrl": "https://xeno-canto.org/914947",
+      "recordist": "Nancy Salem",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:45",
+      "location": "Gum Grove Park, Seal Beach, Orange County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YZAENHXHYA/914947/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "894380",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/894380/download",
+      "pageUrl": "https://xeno-canto.org/894380",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "UJAT Dacbiol, Villahermosa, Centro Municipality, Tabasco",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/894380/grey-medium.png"
     },
     {
       "xenoCantoId": "766367",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/766367/download",
       "pageUrl": "https://xeno-canto.org/766367",
       "recordist": "Richard E. Webster",
@@ -260,5 +302,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Yellow-breasted_chat",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10243"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10243",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Icteria-virens"
 }

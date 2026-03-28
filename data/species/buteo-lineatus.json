@@ -260,6 +260,7 @@
     {
       "xenoCantoId": "564543",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/564543/download",
       "pageUrl": "https://xeno-canto.org/564543",
       "recordist": "Brian Hendrix",
@@ -270,8 +271,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WFZJIOWFQY/564543/grey-medium.png"
     },
     {
+      "xenoCantoId": "1082017",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1082017/download",
+      "pageUrl": "https://xeno-canto.org/1082017",
+      "recordist": "Manuel Grosselet - Kristine Taylor",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:10",
+      "location": "Del Monte Forest, Monterey County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1082017/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1090858",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1090858/download",
       "pageUrl": "https://xeno-canto.org/1090858",
       "recordist": "Manuel Grosselet",
@@ -282,19 +297,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1090858/grey-medium.png"
     },
     {
-      "xenoCantoId": "585663",
+      "xenoCantoId": "1017863",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1017863/download",
+      "pageUrl": "https://xeno-canto.org/1017863",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Cap Tourmente",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1017863/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "433675",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/585663/download",
-      "pageUrl": "https://xeno-canto.org/585663",
-      "recordist": "Thomas G. Graves",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/433675/download",
+      "pageUrl": "https://xeno-canto.org/433675",
+      "recordist": "Thomas Miko",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "B",
-      "length": "2:15",
-      "location": "Cambria, San Luis Obispo County, California",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KGOCOOKTTU/585663/grey-medium.png"
+      "length": "0:31",
+      "location": "Oak Park Cemetery, Claremont, Los Angeles County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NQUVCCZIBR/433675/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-shouldered_hawk",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5206"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5206",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Buteo-lineatus"
 }

@@ -144,6 +144,7 @@
     {
       "xenoCantoId": "1087263",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1087263/download",
       "pageUrl": "https://xeno-canto.org/1087263",
       "recordist": "Petter Westberg",
@@ -154,8 +155,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1087263/grey-medium.png"
     },
     {
+      "xenoCantoId": "1080409",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1080409/download",
+      "pageUrl": "https://xeno-canto.org/1080409",
+      "recordist": "Marc Anderson",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Älvdalen Municipality, Dalarna County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1080409/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "978101",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/978101/download",
+      "pageUrl": "https://xeno-canto.org/978101",
+      "recordist": "Albert Lastukhin",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Toliara, Toliary-I, Atsimo-Andrefana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LELYWQKUZX/978101/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1090411",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1090411/download",
       "pageUrl": "https://xeno-canto.org/1090411",
       "recordist": "Vandousselaere Patrick",
@@ -166,8 +194,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ENJVLTZCQJ/1090411/grey-medium.png"
     },
     {
+      "xenoCantoId": "1072875",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1072875/download",
+      "pageUrl": "https://xeno-canto.org/1072875",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Al Zorah Golf Course, Ajman",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1072875/grey-medium.png"
+    },
+    {
       "xenoCantoId": "843757",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/843757/download",
       "pageUrl": "https://xeno-canto.org/843757",
       "recordist": "James Lambert",
@@ -180,5 +222,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Whimbrel",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3901"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3901",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Numenius-phaeopus"
 }

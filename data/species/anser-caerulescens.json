@@ -265,20 +265,35 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1020250",
+      "xenoCantoId": "1020249",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1020250/download",
-      "pageUrl": "https://xeno-canto.org/1020250",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1020249/download",
+      "pageUrl": "https://xeno-canto.org/1020249",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:40",
+      "length": "0:49",
       "location": "Isle aux Coudres",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1020250/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1020249/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "940565",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/940565/download",
+      "pageUrl": "https://xeno-canto.org/940565",
+      "recordist": "Denis Provencher",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:06",
+      "location": "Rivière-du-Loup, Bas-Saint-Laurent, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QQHLLSOTCS/940565/grey-medium.png"
     },
     {
       "xenoCantoId": "1051616",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1051616/download",
       "pageUrl": "https://xeno-canto.org/1051616",
       "recordist": "Denis Provencher",
@@ -291,5 +306,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Snow_goose",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558426"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558426",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anser-caerulescens"
 }

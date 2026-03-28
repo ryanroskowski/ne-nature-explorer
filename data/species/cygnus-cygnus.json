@@ -228,6 +228,7 @@
     {
       "xenoCantoId": "832336",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/832336/download",
       "pageUrl": "https://xeno-canto.org/832336",
       "recordist": "Agris Celmins",
@@ -238,8 +239,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AQWMZXSOED/832336/grey-medium.png"
     },
     {
+      "xenoCantoId": "800964",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/800964/download",
+      "pageUrl": "https://xeno-canto.org/800964",
+      "recordist": "Mateusz Gutowski",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:55",
+      "location": "SPA Puszcza nad Gwdą, Gmina Jastrowie (near  Nadarzyce), Złotów County, Greater Poland Voivodeship",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UYBPEKWVJT/800964/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "767993",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/767993/download",
+      "pageUrl": "https://xeno-canto.org/767993",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:59:56",
+      "location": "Tudevtei, Zavkhan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/767993/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1090935",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1090935/download",
       "pageUrl": "https://xeno-canto.org/1090935",
       "recordist": "bert de bruin",
@@ -250,8 +278,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ARLUKQJGIF/1090935/grey-medium.png"
     },
     {
+      "xenoCantoId": "1088588",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1088588/download",
+      "pageUrl": "https://xeno-canto.org/1088588",
+      "recordist": "Petter Westberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Udtja, Jokkmokk Municipality, Norrbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1088588/grey-medium.png"
+    },
+    {
       "xenoCantoId": "993002",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/993002/download",
       "pageUrl": "https://xeno-canto.org/993002",
       "recordist": "Alvin Tarkmees",
@@ -264,5 +306,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Whooper_swan",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6916"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6916",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Cygnus-cygnus"
 }

@@ -214,20 +214,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1028258",
+      "xenoCantoId": "994973",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1028258/download",
-      "pageUrl": "https://xeno-canto.org/1028258",
-      "recordist": "Richard E. Webster",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/994973/download",
+      "pageUrl": "https://xeno-canto.org/994973",
+      "recordist": "Johan Södercrantz",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:18",
-      "location": "Khokh (Khukh) Lake area, Gurvanbulag, Bayankhongor",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1028258/grey-medium.png"
+      "length": "0:25",
+      "location": "Hölick, Hudiksvall County, Gävleborgs län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CIHYZWBHFL/994973/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "982401",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/982401/download",
+      "pageUrl": "https://xeno-canto.org/982401",
+      "recordist": "Benjamin Drillat",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Belvédère des crêtes du Vercors (near  Gresse-en-Vercors), Isère, Auvergne-Rhône-Alpes",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/982401/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "911965",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/911965/download",
+      "pageUrl": "https://xeno-canto.org/911965",
+      "recordist": "Leo",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:45",
+      "location": "Kreisfreie Stadt Erfurt (near  Erfurt), Thuringia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZCOEQJVSMK/911965/grey-medium.png"
     },
     {
       "xenoCantoId": "1008778",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1008778/download",
       "pageUrl": "https://xeno-canto.org/1008778",
       "recordist": "Jordi Calvet",
@@ -238,19 +266,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PNYKOPBQBQ/1008778/grey-medium.png"
     },
     {
-      "xenoCantoId": "1017576",
+      "xenoCantoId": "809903",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/809903/download",
+      "pageUrl": "https://xeno-canto.org/809903",
+      "recordist": "Paul Kelly",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Tory Island, County Donegal, County Donegal",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/809903/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1017574",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1017576/download",
-      "pageUrl": "https://xeno-canto.org/1017576",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1017574/download",
+      "pageUrl": "https://xeno-canto.org/1017574",
       "recordist": "Lennart Jeppsson",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:36",
+      "length": "1:07",
       "location": "Ravlunda Skjutfält, Simrishamn Municipality, Skåne County",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HSFHXQRZFM/1017576/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HSFHXQRZFM/1017574/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_wheatear",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12822"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12822",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Oenanthe-oenanthe"
 }

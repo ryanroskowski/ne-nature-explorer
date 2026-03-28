@@ -179,6 +179,7 @@
     {
       "xenoCantoId": "822026",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/822026/download",
       "pageUrl": "https://xeno-canto.org/822026",
       "recordist": "isaac kilusu",
@@ -189,8 +190,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FAMEEAPTYE/822026/grey-medium.png"
     },
     {
+      "xenoCantoId": "510338",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/510338/download",
+      "pageUrl": "https://xeno-canto.org/510338",
+      "recordist": "Peter Boesman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "B",
+      "length": "0:39",
+      "location": "Lake Duluti, Arusha",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/510338/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "449629",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/449629/download",
+      "pageUrl": "https://xeno-canto.org/449629",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "B",
+      "length": "0:23",
+      "location": "Lake Duluti, Arusha, Arusha Region",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/449629/grey-medium.png"
+    },
+    {
       "xenoCantoId": "611572",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/611572/download",
       "pageUrl": "https://xeno-canto.org/611572",
       "recordist": "isaac kilusu",
@@ -203,5 +231,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Taveta_weaver",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13811"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13811",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Ploceus-castaneiceps"
 }

@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1014038",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014038/download",
       "pageUrl": "https://xeno-canto.org/1014038",
       "recordist": "Stanislas Wroza",
@@ -234,8 +235,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014038/grey-medium.png"
     },
     {
+      "xenoCantoId": "815811",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/815811/download",
+      "pageUrl": "https://xeno-canto.org/815811",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Holmes Township (near  Nathan), Menominee County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/815811/grey-medium.png"
+    },
+    {
       "xenoCantoId": "277614",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/277614/download",
       "pageUrl": "https://xeno-canto.org/277614",
       "recordist": "Paul Marvin",
@@ -248,5 +263,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_harrier",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558446"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558446",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Circus-hudsonius"
 }

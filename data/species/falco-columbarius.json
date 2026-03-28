@@ -265,6 +265,7 @@
     {
       "xenoCantoId": "861880",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/861880/download",
       "pageUrl": "https://xeno-canto.org/861880",
       "recordist": "Stein Ø. Nilsen",
@@ -275,20 +276,48 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/861880/grey-medium.png"
     },
     {
-      "xenoCantoId": "1027850",
+      "xenoCantoId": "1014073",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1014073/download",
+      "pageUrl": "https://xeno-canto.org/1014073",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:57",
+      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014073/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014478",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1027850/download",
-      "pageUrl": "https://xeno-canto.org/1027850",
-      "recordist": "Jim Berry",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1014478/download",
+      "pageUrl": "https://xeno-canto.org/1014478",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "4:37",
-      "location": "Kiantone (near  Jamestown), Chautauqua County, New York",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BMFJZMNPEG/1027850/grey-medium.png"
+      "length": "0:18",
+      "location": "Le Fjord-du-Saguenay Regional County Municipality (near  Saint-Fulgence), Saguenay–Lac-Saint-Jean, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014478/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "915969",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/915969/download",
+      "pageUrl": "https://xeno-canto.org/915969",
+      "recordist": "Andrew Harrop",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Sandness and Walls (near  Unifirth), Shetland Islands, Scotland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNYFHZLJOD/915969/grey-medium.png"
     },
     {
       "xenoCantoId": "861876",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/861876/download",
       "pageUrl": "https://xeno-canto.org/861876",
       "recordist": "Stein Ø. Nilsen",
@@ -301,5 +330,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Merlin_(bird)",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4672"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4672",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Falco-columbarius"
 }

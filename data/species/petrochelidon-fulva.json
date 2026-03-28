@@ -230,20 +230,35 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "168792",
+      "xenoCantoId": "34112",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/168792/download",
-      "pageUrl": "https://xeno-canto.org/168792",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/34112/download",
+      "pageUrl": "https://xeno-canto.org/34112",
       "recordist": "Andrew Spencer",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
       "quality": "A",
-      "length": "3:59",
-      "location": "Miami, Miami-Dade County, Florida",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/168792/grey-medium.png"
+      "length": "0:51",
+      "location": "Culberson County, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/34112/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "161052",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/161052/download",
+      "pageUrl": "https://xeno-canto.org/161052",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "B",
+      "length": "1:36",
+      "location": "Kickapoo Cavern State Park, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/161052/grey-medium.png"
     },
     {
       "xenoCantoId": "573862",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/573862/download",
       "pageUrl": "https://xeno-canto.org/573862",
       "recordist": "Phoenix Birder",
@@ -254,8 +269,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UKNISVRBBF/573862/grey-medium.png"
     },
     {
+      "xenoCantoId": "27723",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/27723/download",
+      "pageUrl": "https://xeno-canto.org/27723",
+      "recordist": "Daniel Lane",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:42",
+      "location": "Concan Bat Caves, S of Concan, Uvalde Co., TX",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WOEAFQRMUD/27723/grey-medium.png"
+    },
+    {
       "xenoCantoId": "252093",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/252093/download",
       "pageUrl": "https://xeno-canto.org/252093",
       "recordist": "Jane Tillman",
@@ -268,5 +297,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cave_swallow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/11855"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/11855",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Petrochelidon-fulva"
 }

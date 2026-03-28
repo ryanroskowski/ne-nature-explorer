@@ -213,6 +213,7 @@
     {
       "xenoCantoId": "1007619",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1007619/download",
       "pageUrl": "https://xeno-canto.org/1007619",
       "recordist": "David A. Brinkman",
@@ -223,8 +224,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1007619/grey-medium.png"
     },
     {
+      "xenoCantoId": "903275",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/903275/download",
+      "pageUrl": "https://xeno-canto.org/903275",
+      "recordist": "steve",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Hobucken, Pamlico County, North Carolina",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQVHGWMGMC/903275/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "900926",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/900926/download",
+      "pageUrl": "https://xeno-canto.org/900926",
+      "recordist": "David Tattersley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Mitchell Lake Audubon Center (near  San Antonio), Bexar County, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/900926/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1058587",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1058587/download",
       "pageUrl": "https://xeno-canto.org/1058587",
       "recordist": "Ray Cooke",
@@ -235,8 +263,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EMFMDDVOUG/1058587/grey-medium.png"
     },
     {
+      "xenoCantoId": "936318",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/936318/download",
+      "pageUrl": "https://xeno-canto.org/936318",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "San Simon Cienega, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/936318/grey-medium.png"
+    },
+    {
       "xenoCantoId": "503200",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/503200/download",
       "pageUrl": "https://xeno-canto.org/503200",
       "recordist": "Paul Driver",
@@ -249,5 +291,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Dickcissel",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10676"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10676",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Spiza-americana"
 }

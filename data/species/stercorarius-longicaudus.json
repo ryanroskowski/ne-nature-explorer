@@ -251,8 +251,22 @@
   ],
   "audio": [
     {
+      "xenoCantoId": "342927",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/342927/download",
+      "pageUrl": "https://xeno-canto.org/342927",
+      "recordist": "Tero Linjama",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Piesjänkä, Utsjoki, Lapland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YSDNMROVID/342927/grey-medium.png"
+    },
+    {
       "xenoCantoId": "431676",
       "type": "song",
+      "label": "Song 2",
       "audioUrl": "https://xeno-canto.org/431676/download",
       "pageUrl": "https://xeno-canto.org/431676",
       "recordist": "Stein Ø. Nilsen",
@@ -263,20 +277,48 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/431676/grey-medium.png"
     },
     {
-      "xenoCantoId": "1080990",
+      "xenoCantoId": "571263",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/571263/download",
+      "pageUrl": "https://xeno-canto.org/571263",
+      "recordist": "Hans Norelius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:25",
+      "location": "Kuoletisjaure, Mierkenis, Arjeplog Municipality, Norrbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MNQLBOLQFS/571263/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1034946",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1080990/download",
-      "pageUrl": "https://xeno-canto.org/1080990",
-      "recordist": "Petter Westberg",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1034946/download",
+      "pageUrl": "https://xeno-canto.org/1034946",
+      "recordist": "Ricardo Hevia",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:07",
-      "location": "Rostojávri, Kiruna Municipality, Norrbottens län",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1080990/grey-medium.png"
+      "length": "0:15",
+      "location": "Ortegal (near  Cariño), A Coruña, Galicia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BQFSTZRSEP/1034946/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "504992",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/504992/download",
+      "pageUrl": "https://xeno-canto.org/504992",
+      "recordist": "Sergei Sleptsov",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:58",
+      "location": "Kytalyk Reserve, Sakha Republic",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SPMWIWZKKC/504992/grey-medium.png"
     },
     {
       "xenoCantoId": "1080989",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1080989/download",
       "pageUrl": "https://xeno-canto.org/1080989",
       "recordist": "Petter Westberg",
@@ -289,5 +331,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Long-tailed_jaeger",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4481"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4481",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Stercorarius-longicaudus"
 }

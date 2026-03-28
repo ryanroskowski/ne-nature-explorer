@@ -203,20 +203,22 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1019825",
+      "xenoCantoId": "1013724",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1019825/download",
-      "pageUrl": "https://xeno-canto.org/1019825",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1013724/download",
+      "pageUrl": "https://xeno-canto.org/1013724",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "7:12",
-      "location": "Les Dunes (near  Tadoussac), Côte-Nord, Quebec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1019825/grey-medium.png"
+      "length": "0:49",
+      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013724/grey-medium.png"
     },
     {
       "xenoCantoId": "386263",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/386263/download",
       "pageUrl": "https://xeno-canto.org/386263",
       "recordist": "Thomas Magarian",
@@ -227,8 +229,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/386263/grey-medium.png"
     },
     {
+      "xenoCantoId": "21079",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/21079/download",
+      "pageUrl": "https://xeno-canto.org/21079",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:57",
+      "location": "Windsor, Berkshire Co., Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/21079/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1044742",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1044742/download",
       "pageUrl": "https://xeno-canto.org/1044742",
       "recordist": "Valerie Heemstra",
@@ -237,9 +253,23 @@
       "length": "1:53",
       "location": "Ogontz Bay 20.7 Ln. near boat launch, Delta County, Michigan",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1044742/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "752969",
+      "type": "drumming",
+      "label": "Drumming",
+      "audioUrl": "https://xeno-canto.org/752969/download",
+      "pageUrl": "https://xeno-canto.org/752969",
+      "recordist": "Sunny Tseng",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "John Prince Research Forest",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SPMWIWZKKC/752969/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ruffed_grouse",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/890"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/890",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Bonasa-umbellus"
 }

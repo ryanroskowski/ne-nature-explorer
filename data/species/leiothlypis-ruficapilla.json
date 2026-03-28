@@ -225,32 +225,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1036373",
+      "xenoCantoId": "1013956",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1036373/download",
-      "pageUrl": "https://xeno-canto.org/1036373",
-      "recordist": "Bobby Wilcox",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "quality": "A",
-      "length": "0:05",
-      "location": "Tama (near  Burlington), Des Moines, Iowa",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1036373/grey-medium.png"
-    },
-    {
-      "xenoCantoId": "1013982",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1013982/download",
-      "pageUrl": "https://xeno-canto.org/1013982",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1013956/download",
+      "pageUrl": "https://xeno-canto.org/1013956",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
+      "length": "1:17",
+      "location": "La Haute-Côte-Nord (near  Tadoussac), Côte-Nord, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013956/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "938997",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/938997/download",
+      "pageUrl": "https://xeno-canto.org/938997",
+      "recordist": "Brian Cox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Opeongo Road, Algonquin Provincial Park, Nipissing District, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OKSKESEOLP/938997/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "938023",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/938023/download",
+      "pageUrl": "https://xeno-canto.org/938023",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:25",
+      "location": "Lumberman's Monument, Iosco County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/938023/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1013981",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1013981/download",
+      "pageUrl": "https://xeno-canto.org/1013981",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
       "location": "La Haute-Côte-Nord (near  Bon-Désir), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013982/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013981/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "352535",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/352535/download",
+      "pageUrl": "https://xeno-canto.org/352535",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Reserva Ecológica Sierra de San Juan--La Noria, Nayarit",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/352535/grey-medium.png"
     },
     {
       "xenoCantoId": "1013951",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1013951/download",
       "pageUrl": "https://xeno-canto.org/1013951",
       "recordist": "Stanislas Wroza",
@@ -263,5 +305,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nashville_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/979753"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/979753",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Leiothlypis-ruficapilla"
 }

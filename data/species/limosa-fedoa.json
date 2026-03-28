@@ -233,32 +233,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "163166",
+      "xenoCantoId": "163164",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/163166/download",
-      "pageUrl": "https://xeno-canto.org/163166",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/163164/download",
+      "pageUrl": "https://xeno-canto.org/163164",
       "recordist": "Paul Marvin",
       "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
       "quality": "A",
-      "length": "1:43",
+      "length": "1:25",
       "location": "Benton Lake NWR, Great Falls, Montana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/163166/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/163164/grey-medium.png"
     },
     {
-      "xenoCantoId": "877020",
+      "xenoCantoId": "741979",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/877020/download",
-      "pageUrl": "https://xeno-canto.org/877020",
-      "recordist": "Skyler Bol",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/741979/download",
+      "pageUrl": "https://xeno-canto.org/741979",
+      "recordist": "Nancy Salem",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Freezeout Lake, Teton County, Montana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ESGJLNIGDA/877020/grey-medium.png"
+      "length": "0:30",
+      "location": "Golden Shore Preserve, Long Beach, Los Angeles County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YZAENHXHYA/741979/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "574462",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/574462/download",
+      "pageUrl": "https://xeno-canto.org/574462",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Ahome, Sinaloa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/574462/grey-medium.png"
     },
     {
       "xenoCantoId": "717348",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/717348/download",
       "pageUrl": "https://xeno-canto.org/717348",
       "recordist": "Valerie Heemstra",
@@ -271,5 +287,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Marbled_godwit",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3954"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3954",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Limosa-fedoa"
 }

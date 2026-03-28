@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "1071056",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1071056/download",
       "pageUrl": "https://xeno-canto.org/1071056",
       "recordist": "Noah Khanti Steinberg",
@@ -239,8 +240,48 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JIPOTLQRRH/1071056/grey-medium.png"
     },
     {
+      "xenoCantoId": "941050",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/941050/download",
+      "pageUrl": "https://xeno-canto.org/941050",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:20",
+      "location": "Apple Valley Rd - east side, Boulder Cty, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/941050/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "879112",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/879112/download",
+      "pageUrl": "https://xeno-canto.org/879112",
+      "recordist": "András Schmidt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:35",
+      "location": "Marshall Township (near  Wexford), Allegheny County, Pennsylvania",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WMHNJNGJCW/879112/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "572729",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/572729/download",
+      "pageUrl": "https://xeno-canto.org/572729",
+      "recordist": "Nick Komar",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Fort Collins, Larimer County, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ODAYZINCOA/572729/grey-medium.png"
+    },
+    {
       "xenoCantoId": "824767",
       "type": "call",
+      "label": "Call 2",
       "audioUrl": "https://xeno-canto.org/824767/download",
       "pageUrl": "https://xeno-canto.org/824767",
       "recordist": "Paul Driver",
@@ -253,6 +294,7 @@
     {
       "xenoCantoId": "569789",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/569789/download",
       "pageUrl": "https://xeno-canto.org/569789",
       "recordist": "Russ Wigh",
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_screech_owl",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/19765"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/19765",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Megascops-asio"
 }

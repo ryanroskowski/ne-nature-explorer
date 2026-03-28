@@ -216,6 +216,7 @@
     {
       "xenoCantoId": "1078505",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1078505/download",
       "pageUrl": "https://xeno-canto.org/1078505",
       "recordist": "Valerie Heemstra",
@@ -226,8 +227,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/1078505/grey-medium.png"
     },
     {
+      "xenoCantoId": "1077875",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1077875/download",
+      "pageUrl": "https://xeno-canto.org/1077875",
+      "recordist": "Greg Irving",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Dungeness Recreation Area, Clallam County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1077875/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014554",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1014554/download",
+      "pageUrl": "https://xeno-canto.org/1014554",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Le Fjord-du-Saguenay Regional County Municipality (near  Saint-Fulgence), Saguenay–Lac-Saint-Jean, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014554/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014760",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014760/download",
       "pageUrl": "https://xeno-canto.org/1014760",
       "recordist": "Stanislas Wroza",
@@ -238,8 +266,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014760/grey-medium.png"
     },
     {
+      "xenoCantoId": "994719",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/994719/download",
+      "pageUrl": "https://xeno-canto.org/994719",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Goulds, Newfoundland and Labrador",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/994719/grey-medium.png"
+    },
+    {
       "xenoCantoId": "582575",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/582575/download",
       "pageUrl": "https://xeno-canto.org/582575",
       "recordist": "James Link",
@@ -252,5 +294,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pine_siskin",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145304"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145304",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Spinus-pinus"
 }

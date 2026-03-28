@@ -239,6 +239,7 @@
     {
       "xenoCantoId": "189404",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/189404/download",
       "pageUrl": "https://xeno-canto.org/189404",
       "recordist": "Andrew Spencer",
@@ -251,6 +252,7 @@
     {
       "xenoCantoId": "470948",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/470948/download",
       "pageUrl": "https://xeno-canto.org/470948",
       "recordist": "Bruce Lagerquist",
@@ -261,8 +263,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/470948/grey-medium.png"
     },
     {
+      "xenoCantoId": "138272",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/138272/download",
+      "pageUrl": "https://xeno-canto.org/138272",
+      "recordist": "Fernand DEROUSSEN",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Northeast",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UXGZWVYDFE/138272/grey-medium.png"
+    },
+    {
       "xenoCantoId": "432772",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/432772/download",
       "pageUrl": "https://xeno-canto.org/432772",
       "recordist": "Stanislas Wroza",
@@ -275,5 +291,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Barrow's_goldeneye",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6994"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6994",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Bucephala-islandica"
 }

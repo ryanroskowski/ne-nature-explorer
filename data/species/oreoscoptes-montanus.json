@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1007049",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1007049/download",
       "pageUrl": "https://xeno-canto.org/1007049",
       "recordist": "Ed Pandolfino",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/1007049/grey-medium.png"
     },
     {
+      "xenoCantoId": "916960",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/916960/download",
+      "pageUrl": "https://xeno-canto.org/916960",
+      "recordist": "Ned Bohman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:47",
+      "location": "Bridgeport, Mono County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LRBJKOMLDW/916960/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "809247",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/809247/download",
+      "pageUrl": "https://xeno-canto.org/809247",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Savory Spring, Nye County, Nevada",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/809247/grey-medium.png"
+    },
+    {
       "xenoCantoId": "577154",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/577154/download",
       "pageUrl": "https://xeno-canto.org/577154",
       "recordist": "Ron Overholtz",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OCGLDSUVRE/577154/grey-medium.png"
     },
     {
+      "xenoCantoId": "256631",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/256631/download",
+      "pageUrl": "https://xeno-canto.org/256631",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:22",
+      "location": "Silver Creek, Cave Creek Canyon, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/256631/grey-medium.png"
+    },
+    {
       "xenoCantoId": "112653",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/112653/download",
       "pageUrl": "https://xeno-canto.org/112653",
       "recordist": "Tayler Brooks",
@@ -260,5 +302,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sage_thrasher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/15045"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/15045",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Oreoscoptes-montanus"
 }

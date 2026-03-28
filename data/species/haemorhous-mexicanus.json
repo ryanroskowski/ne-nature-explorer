@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "1089801",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1089801/download",
       "pageUrl": "https://xeno-canto.org/1089801",
       "recordist": "Manuel Grosselet",
@@ -239,8 +240,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1089801/grey-medium.png"
     },
     {
+      "xenoCantoId": "941235",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/941235/download",
+      "pageUrl": "https://xeno-canto.org/941235",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:05",
+      "location": "Portal, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/941235/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "900144",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/900144/download",
+      "pageUrl": "https://xeno-canto.org/900144",
+      "recordist": "Thomas G. Graves",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Coastal Access Doris Street (near  Baywood-Los Osos), San Luis Obispo County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KGOCOOKTTU/900144/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014379",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014379/download",
       "pageUrl": "https://xeno-canto.org/1014379",
       "recordist": "Stanislas Wroza",
@@ -249,9 +277,23 @@
       "length": "0:13",
       "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014379/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "822629",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/822629/download",
+      "pageUrl": "https://xeno-canto.org/822629",
+      "recordist": "Nikhil Patwardhan",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "Dr. R. J. Allan Hogg Rotary Park (near  White Rock), Metro Vancouver, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XDWGOIPUGL/822629/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/House_finch",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199840"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199840",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Haemorhous-mexicanus"
 }

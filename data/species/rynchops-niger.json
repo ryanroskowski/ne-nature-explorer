@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "630548",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/630548/download",
       "pageUrl": "https://xeno-canto.org/630548",
       "recordist": " Guillermo Treboux",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UZCHJCUDEF/630548/grey-medium.png"
     },
     {
+      "xenoCantoId": "597604",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/597604/download",
+      "pageUrl": "https://xeno-canto.org/597604",
+      "recordist": "Alfredo Correa",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": " Municipio José Ángel Lamas, Aragua-",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NRUSUILEFX/597604/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "440960",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/440960/download",
+      "pageUrl": "https://xeno-canto.org/440960",
+      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Fundação Bradesco, Formoso do Araguaia, Tocantins",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/440960/grey-medium.png"
+    },
+    {
       "xenoCantoId": "949473",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/949473/download",
       "pageUrl": "https://xeno-canto.org/949473",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -246,19 +274,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/949473/grey-medium.png"
     },
     {
-      "xenoCantoId": "630546",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/630546/download",
-      "pageUrl": "https://xeno-canto.org/630546",
-      "recordist": " Guillermo Treboux",
+      "xenoCantoId": "914127",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/914127/download",
+      "pageUrl": "https://xeno-canto.org/914127",
+      "recordist": "Manuel Grosselet",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:01",
-      "location": "Bancos del caraballo",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UZCHJCUDEF/630546/grey-medium.png"
+      "length": "1:29",
+      "location": "Álvaro Obregón, Juchitán de Zaragoza, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/914127/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "565550",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/565550/download",
+      "pageUrl": "https://xeno-canto.org/565550",
+      "recordist": "Isain Contreras Rodríguez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "El Islote",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/565550/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_skimmer",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4496"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4496",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Rynchops-niger"
 }

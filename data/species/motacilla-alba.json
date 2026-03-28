@@ -198,20 +198,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1048563",
+      "xenoCantoId": "799205",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1048563/download",
-      "pageUrl": "https://xeno-canto.org/1048563",
-      "recordist": "Bo Shunqi 薄顺奇",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/799205/download",
+      "pageUrl": "https://xeno-canto.org/799205",
+      "recordist": "Francesco Sottile",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "7:52",
-      "location": "青溪镇，Guangyuan, Sichuan",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YNOAMCSSHX/1048563/grey-medium.png"
+      "length": "0:20",
+      "location": "Bocchigliero, Provincia di Cosenza, Calabria",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ITHRUQEQCF/799205/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "798934",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/798934/download",
+      "pageUrl": "https://xeno-canto.org/798934",
+      "recordist": "Thomas Bergman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:12",
+      "location": "Hornö, Mörkö, Södermanland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YUKZIHHVTY/798934/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "722531",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/722531/download",
+      "pageUrl": "https://xeno-canto.org/722531",
+      "recordist": "Jens Kirkeby",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:04",
+      "location": "Hulsig Hede, Skagen, Frederikshavn Municipality, North Denmark Region",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YKITMEIRRE/722531/grey-medium.png"
     },
     {
       "xenoCantoId": "1088592",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1088592/download",
       "pageUrl": "https://xeno-canto.org/1088592",
       "recordist": "Petter Westberg",
@@ -222,8 +250,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1088592/grey-medium.png"
     },
     {
+      "xenoCantoId": "1052680",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1052680/download",
+      "pageUrl": "https://xeno-canto.org/1052680",
+      "recordist": "Christian Kerihuel",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Arrondissement of Le Mans (near  Neuville-sur-Sarthe), Sarthe, Pays de la Loire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VWWRQKFKMD/1052680/grey-medium.png"
+    },
+    {
       "xenoCantoId": "731469",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/731469/download",
       "pageUrl": "https://xeno-canto.org/731469",
       "recordist": "Geoff Carey",
@@ -236,5 +278,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/White_wagtail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13695"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13695",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Motacilla-alba"
 }

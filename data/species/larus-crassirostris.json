@@ -294,6 +294,7 @@
     {
       "xenoCantoId": "344913",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/344913/download",
       "pageUrl": "https://xeno-canto.org/344913",
       "recordist": "Albert Lastukhin &amp; Yuri Glushchenko",
@@ -306,6 +307,7 @@
     {
       "xenoCantoId": "1016634",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1016634/download",
       "pageUrl": "https://xeno-canto.org/1016634",
       "recordist": "Uku Paal",
@@ -314,9 +316,23 @@
       "length": "0:27",
       "location": "Nemuro, Hokkaido",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XIBLXHRPJO/1016634/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "839073",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/839073/download",
+      "pageUrl": "https://xeno-canto.org/839073",
+      "recordist": "Bo Shunqi 薄顺奇",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:07",
+      "location": "Shanghai, Shanghai Shi，Haiwan Town",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YNOAMCSSHX/839073/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-tailed_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4370"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4370",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Larus-crassirostris"
 }

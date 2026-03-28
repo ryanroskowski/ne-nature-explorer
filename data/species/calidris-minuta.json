@@ -347,8 +347,22 @@
   ],
   "audio": [
     {
+      "xenoCantoId": "383563",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/383563/download",
+      "pageUrl": "https://xeno-canto.org/383563",
+      "recordist": "Terje Kolaas",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Tana kommune, Finnmark",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CIMGCGUWCS/383563/grey-medium.png"
+    },
+    {
       "xenoCantoId": "765701",
       "type": "song",
+      "label": "Song 2",
       "audioUrl": "https://xeno-canto.org/765701/download",
       "pageUrl": "https://xeno-canto.org/765701",
       "recordist": "Stanislas Wroza",
@@ -359,20 +373,48 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/765701/grey-medium.png"
     },
     {
-      "xenoCantoId": "1036791",
+      "xenoCantoId": "781383",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/781383/download",
+      "pageUrl": "https://xeno-canto.org/781383",
+      "recordist": "Peter Boesman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "B",
+      "length": "0:14",
+      "location": "Filim, Al Wusta Governorate",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/781383/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "989491",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1036791/download",
-      "pageUrl": "https://xeno-canto.org/1036791",
-      "recordist": "David Darrell-Lambert",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/989491/download",
+      "pageUrl": "https://xeno-canto.org/989491",
+      "recordist": "Julien Birard",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Pennington Marshes  (near  Lymington), Hampshire, England",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1036791/grey-medium.png"
+      "length": "0:46",
+      "location": "Am Djéména Bilala, Fitri, Batha",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KGENRQCZVH/989491/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "759156",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/759156/download",
+      "pageUrl": "https://xeno-canto.org/759156",
+      "recordist": "Irish Wildlife Sounds",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Tacumshane, Wexford, County Wexford",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PAEQEUHPFQ/759156/grey-medium.png"
     },
     {
       "xenoCantoId": "765697",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/765697/download",
       "pageUrl": "https://xeno-canto.org/765697",
       "recordist": "Stanislas Wroza",
@@ -385,5 +427,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Little_stint",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3838"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3838",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-minuta"
 }

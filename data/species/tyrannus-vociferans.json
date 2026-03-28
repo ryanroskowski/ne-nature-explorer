@@ -209,20 +209,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1031174",
+      "xenoCantoId": "1031009",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1031174/download",
-      "pageUrl": "https://xeno-canto.org/1031174",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1031009/download",
+      "pageUrl": "https://xeno-canto.org/1031009",
       "recordist": "Manuel Grosselet",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:47",
-      "location": "Teotitlán del Valle, Teotitlán del Valle, Oaxaca",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1031174/grey-medium.png"
+      "length": "0:27",
+      "location": "Santo Domingo Tomaltepec, Santo Domingo Tomaltepec, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1031009/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "899884",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/899884/download",
+      "pageUrl": "https://xeno-canto.org/899884",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:59",
+      "location": "Proctor Valley Rd, San Diego County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/899884/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "351546",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/351546/download",
+      "pageUrl": "https://xeno-canto.org/351546",
+      "recordist": "Antonio Xeira",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Bonita Canyon, Chiricahua NM, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PJVICFDZGZ/351546/grey-medium.png"
     },
     {
       "xenoCantoId": "1034117",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1034117/download",
       "pageUrl": "https://xeno-canto.org/1034117",
       "recordist": "Richard E. Webster",
@@ -233,8 +261,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1034117/grey-medium.png"
     },
     {
+      "xenoCantoId": "999645",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/999645/download",
+      "pageUrl": "https://xeno-canto.org/999645",
+      "recordist": "David Tattersley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Hereford, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/999645/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1034110",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1034110/download",
       "pageUrl": "https://xeno-canto.org/1034110",
       "recordist": "Richard E. Webster",
@@ -247,5 +289,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cassin's_kingbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16779"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16779",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tyrannus-vociferans"
 }

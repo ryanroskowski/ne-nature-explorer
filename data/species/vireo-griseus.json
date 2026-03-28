@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "1038408",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1038408/download",
       "pageUrl": "https://xeno-canto.org/1038408",
       "recordist": "Kelly Faller",
@@ -261,8 +262,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GHCWCWHIXT/1038408/grey-medium.png"
     },
     {
+      "xenoCantoId": "989689",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/989689/download",
+      "pageUrl": "https://xeno-canto.org/989689",
+      "recordist": "Scott Gravette",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Wheeler National WR, Limestone County, Alabama",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LIMOMMAPWS/989689/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "905516",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/905516/download",
+      "pageUrl": "https://xeno-canto.org/905516",
+      "recordist": "Bill Grantham",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:31",
+      "location": "Decatur, Morgan County, Alabama",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UWHBFUYWSQ/905516/grey-medium.png"
+    },
+    {
       "xenoCantoId": "896910",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/896910/download",
       "pageUrl": "https://xeno-canto.org/896910",
       "recordist": "Rodolfo Salinas-Villarreal",
@@ -273,8 +301,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FXJEXLIESK/896910/grey-medium.png"
     },
     {
+      "xenoCantoId": "880367",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/880367/download",
+      "pageUrl": "https://xeno-canto.org/880367",
+      "recordist": "Peter Boesman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "PN Tikal, Petén",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/880367/grey-medium.png"
+    },
+    {
       "xenoCantoId": "558116",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/558116/download",
       "pageUrl": "https://xeno-canto.org/558116",
       "recordist": "Isain Contreras Rodríguez",
@@ -287,5 +329,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/White-eyed_vireo",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17408"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/17408",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Vireo-griseus"
 }

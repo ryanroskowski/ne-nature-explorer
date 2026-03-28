@@ -347,20 +347,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1082107",
+      "xenoCantoId": "1036962",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1082107/download",
-      "pageUrl": "https://xeno-canto.org/1082107",
-      "recordist": "David Darrell-Lambert",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1036962/download",
+      "pageUrl": "https://xeno-canto.org/1036962",
+      "recordist": "Bobby Wilcox",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Point Pelee National Park, Essex County, Ontario",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1082107/grey-medium.png"
+      "length": "0:51",
+      "location": "Tama (near  Burlington), Des Moines, Iowa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1036962/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014776",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1014776/download",
+      "pageUrl": "https://xeno-canto.org/1014776",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:06",
+      "location": "La Côte-de-Beaupré (near  La Barrière-du-Maurice), Capitale-Nationale, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014776/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "917327",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/917327/download",
+      "pageUrl": "https://xeno-canto.org/917327",
+      "recordist": "Roxane Filion",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "Timmins, Cochrane District, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JQZXXILNQW/917327/grey-medium.png"
     },
     {
       "xenoCantoId": "1020371",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1020371/download",
       "pageUrl": "https://xeno-canto.org/1020371",
       "recordist": "Stanislas Wroza",
@@ -371,8 +399,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1020371/grey-medium.png"
     },
     {
+      "xenoCantoId": "196777",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/196777/download",
+      "pageUrl": "https://xeno-canto.org/196777",
+      "recordist": "Elias Aristides Elias",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Chula Vista, San Diego County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLBLXAJUMV/196777/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014773",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014773/download",
       "pageUrl": "https://xeno-canto.org/1014773",
       "recordist": "Stanislas Wroza",
@@ -385,5 +427,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bay-breasted_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145236"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145236",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-castanea"
 }

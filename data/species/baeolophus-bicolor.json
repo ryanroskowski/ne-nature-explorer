@@ -221,6 +221,7 @@
     {
       "xenoCantoId": "1035994",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1035994/download",
       "pageUrl": "https://xeno-canto.org/1035994",
       "recordist": "Rory Nefdt",
@@ -231,8 +232,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1035994/grey-medium.png"
     },
     {
+      "xenoCantoId": "895984",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/895984/download",
+      "pageUrl": "https://xeno-canto.org/895984",
+      "recordist": "Scott Gravette",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Blackwell Swamp, WNWR, Madison County, Alabama",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LIMOMMAPWS/895984/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "895279",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/895279/download",
+      "pageUrl": "https://xeno-canto.org/895279",
+      "recordist": "Thomas Magarian",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "George Washington NF, Indian Grave  Ridge, Area, Page County, Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/895279/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014938",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014938/download",
       "pageUrl": "https://xeno-canto.org/1014938",
       "recordist": "Stanislas Wroza",
@@ -243,8 +271,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014938/grey-medium.png"
     },
     {
+      "xenoCantoId": "899085",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/899085/download",
+      "pageUrl": "https://xeno-canto.org/899085",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:25",
+      "location": "Tallahassee, Leon County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/899085/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014937",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014937/download",
       "pageUrl": "https://xeno-canto.org/1014937",
       "recordist": "Stanislas Wroza",
@@ -257,5 +299,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Tufted_titmouse",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13632"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13632",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Baeolophus-bicolor"
 }

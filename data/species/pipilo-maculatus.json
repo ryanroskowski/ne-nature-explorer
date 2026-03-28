@@ -231,6 +231,7 @@
     {
       "xenoCantoId": "1089150",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1089150/download",
       "pageUrl": "https://xeno-canto.org/1089150",
       "recordist": "David Ruíz Domínguez",
@@ -241,8 +242,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QEHXWTVTKS/1089150/grey-medium.png"
     },
     {
+      "xenoCantoId": "1086273",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1086273/download",
+      "pageUrl": "https://xeno-canto.org/1086273",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Above Teotitlan del Valle, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1086273/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1024564",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1024564/download",
+      "pageUrl": "https://xeno-canto.org/1024564",
+      "recordist": "Greg Irving",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Fish Hatchery Road, Sequim, Clallam County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1024564/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1056073",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1056073/download",
       "pageUrl": "https://xeno-canto.org/1056073",
       "recordist": "Denis Dujardin",
@@ -251,9 +279,23 @@
       "length": "0:17",
       "location": "Rickreall, Polk County, Oregon",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SMUORWOKLJ/1056073/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "898860",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/898860/download",
+      "pageUrl": "https://xeno-canto.org/898860",
+      "recordist": "Paul Driver",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "Kanarraville, Iron County, Utah",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/898860/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Spotted_towhee",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9420"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9420",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pipilo-maculatus"
 }

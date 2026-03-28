@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1045720",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1045720/download",
       "pageUrl": "https://xeno-canto.org/1045720",
       "recordist": "AUDEVARD Aurélien",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1045720/grey-medium.png"
     },
     {
+      "xenoCantoId": "1012821",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1012821/download",
+      "pageUrl": "https://xeno-canto.org/1012821",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:18",
+      "location": "Baie-du-Febvre, Nicolet-Yamaska, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012821/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "839333",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/839333/download",
+      "pageUrl": "https://xeno-canto.org/839333",
+      "recordist": "Manuel Oudard",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Point Pelee National Park (near  Wheatley), Essex County, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ISEVSYKZZW/839333/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1020187",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1020187/download",
       "pageUrl": "https://xeno-canto.org/1020187",
       "recordist": "Stanislas Wroza",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1020187/grey-medium.png"
     },
     {
+      "xenoCantoId": "708354",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/708354/download",
+      "pageUrl": "https://xeno-canto.org/708354",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:44",
+      "location": "Monument Rd and nearby trails, Tijuana River Valley, San Diego, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/708354/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1012819",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1012819/download",
       "pageUrl": "https://xeno-canto.org/1012819",
       "recordist": "Stanislas Wroza",
@@ -260,5 +302,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Tree_swallow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/11935"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/11935",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Tachycineta-bicolor"
 }

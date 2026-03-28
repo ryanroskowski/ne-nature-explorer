@@ -216,6 +216,7 @@
     {
       "xenoCantoId": "423355",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/423355/download",
       "pageUrl": "https://xeno-canto.org/423355",
       "recordist": "Manuel Grosselet",
@@ -226,8 +227,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/423355/grey-medium.png"
     },
     {
+      "xenoCantoId": "109911",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/109911/download",
+      "pageUrl": "https://xeno-canto.org/109911",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Monte Vista National Wildlife Refuge, Rio Grande County, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/109911/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "567440",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/567440/download",
+      "pageUrl": "https://xeno-canto.org/567440",
+      "recordist": "Parker Davis",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:45",
+      "location": "Pintail Lake, Show Low, Navajo County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VEQRWFFDOB/567440/grey-medium.png"
+    },
+    {
       "xenoCantoId": "665164",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/665164/download",
       "pageUrl": "https://xeno-canto.org/665164",
       "recordist": "Paul Marvin",
@@ -236,9 +264,23 @@
       "length": "1:25",
       "location": "Otay Lakes, San Diego Co., California",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/665164/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "656420",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/656420/download",
+      "pageUrl": "https://xeno-canto.org/656420",
+      "recordist": "Bruce Lagerquist",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Fields Lake, Okanogan County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/656420/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ruddy_duck",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/850859"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/850859",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Oxyura-jamaicensis"
 }

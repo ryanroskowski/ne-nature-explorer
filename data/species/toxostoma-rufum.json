@@ -221,6 +221,7 @@
     {
       "xenoCantoId": "996863",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/996863/download",
       "pageUrl": "https://xeno-canto.org/996863",
       "recordist": "Molly Jacobson",
@@ -231,20 +232,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MXNGTEHLJJ/996863/grey-medium.png"
     },
     {
-      "xenoCantoId": "1011718",
+      "xenoCantoId": "982365",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/982365/download",
+      "pageUrl": "https://xeno-canto.org/982365",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Sarasota, Sarasota County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AMMGWAIZWI/982365/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "939190",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/939190/download",
+      "pageUrl": "https://xeno-canto.org/939190",
+      "recordist": "Brian Cox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Goose Creek Rd, Grayling, Crawford County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OKSKESEOLP/939190/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1011717",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1011718/download",
-      "pageUrl": "https://xeno-canto.org/1011718",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1011717/download",
+      "pageUrl": "https://xeno-canto.org/1011717",
       "recordist": "Peder Svingen",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:07",
+      "length": "0:12",
       "location": "Congdon Park,  Duluth, St. Louis County, Minnesota",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LHVEZZZHFC/1011718/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LHVEZZZHFC/1011717/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "776518",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/776518/download",
+      "pageUrl": "https://xeno-canto.org/776518",
+      "recordist": "Bates Estabrooks",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Tennessee (near  Andersonville), Anderson County, Tennessee",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NRJIPZPNRN/776518/grey-medium.png"
     },
     {
       "xenoCantoId": "584454",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/584454/download",
       "pageUrl": "https://xeno-canto.org/584454",
       "recordist": "The Nunn Guy",
@@ -257,5 +299,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Brown_thrasher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14898"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14898",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Toxostoma-rufum"
 }

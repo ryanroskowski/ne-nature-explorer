@@ -244,8 +244,22 @@
   ],
   "audio": [
     {
+      "xenoCantoId": "992651",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/992651/download",
+      "pageUrl": "https://xeno-canto.org/992651",
+      "recordist": "Feather V",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Zhejiang University-Zijingang Campus, Hangzhou, Zhejiang",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GZUBDKWLGI/992651/grey-medium.png"
+    },
+    {
       "xenoCantoId": "998785",
       "type": "song",
+      "label": "Song 2",
       "audioUrl": "https://xeno-canto.org/998785/download",
       "pageUrl": "https://xeno-canto.org/998785",
       "recordist": "FREDERIC Lionel",
@@ -258,6 +272,7 @@
     {
       "xenoCantoId": "1089434",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1089434/download",
       "pageUrl": "https://xeno-canto.org/1089434",
       "recordist": "Vandousselaere Patrick",
@@ -268,19 +283,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ENJVLTZCQJ/1089434/grey-medium.png"
     },
     {
-      "xenoCantoId": "1070777",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1070777/download",
-      "pageUrl": "https://xeno-canto.org/1070777",
-      "recordist": "Lionel FREDERIC",
+      "xenoCantoId": "1083150",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1083150/download",
+      "pageUrl": "https://xeno-canto.org/1083150",
+      "recordist": "Jonathan Onongo",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Les Pâtures, Arrondissement d'Orléans (near  Chécy), Loiret, Centre-Val de Loire",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VJARXMSBTG/1070777/grey-medium.png"
+      "length": "0:11",
+      "location": "Lutembe Bay Ramsar Site",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YIKAQIVHQJ/1083150/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "795969",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/795969/download",
+      "pageUrl": "https://xeno-canto.org/795969",
+      "recordist": "Geoff Carey",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "San Tin Fishponds, New Territories, Hong Kong",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LBWCUENEBH/795969/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Little_egret",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4943"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4943",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Egretta-garzetta"
 }

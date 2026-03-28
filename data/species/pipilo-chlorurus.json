@@ -237,20 +237,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "988919",
+      "xenoCantoId": "939821",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/988919/download",
-      "pageUrl": "https://xeno-canto.org/988919",
-      "recordist": "Scott Crabtree",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/939821/download",
+      "pageUrl": "https://xeno-canto.org/939821",
+      "recordist": "Brian Cox",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:50",
-      "location": "Tucson, Pima County, Arizona",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/988919/grey-medium.png"
+      "length": "0:14",
+      "location": "Bear Canyon, Pryor Mountains, Carbon County, Montana",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OKSKESEOLP/939821/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "836995",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/836995/download",
+      "pageUrl": "https://xeno-canto.org/836995",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "Tijuana Slough NWR, trail from south end of 5th street, Imperial Beach, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/836995/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "808401",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/808401/download",
+      "pageUrl": "https://xeno-canto.org/808401",
+      "recordist": "Ned Bohman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:57",
+      "location": "Benson, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LRBJKOMLDW/808401/grey-medium.png"
     },
     {
       "xenoCantoId": "836997",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/836997/download",
       "pageUrl": "https://xeno-canto.org/836997",
       "recordist": "Paul Marvin",
@@ -259,9 +287,23 @@
       "length": "0:42",
       "location": "Tijuana Slough NWR, trail from south end of 5th street, Imperial Beach, California",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/836997/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "519647",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/519647/download",
+      "pageUrl": "https://xeno-canto.org/519647",
+      "recordist": "Isain Contreras Rodríguez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Mazatlán, Sinaloa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/519647/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Green-tailed_towhee",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9419"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9419",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pipilo-chlorurus"
 }

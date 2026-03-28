@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "982939",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/982939/download",
       "pageUrl": "https://xeno-canto.org/982939",
       "recordist": "Peter Mundale",
@@ -239,8 +240,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UAXIKEBHEA/982939/grey-medium.png"
     },
     {
+      "xenoCantoId": "920621",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/920621/download",
+      "pageUrl": "https://xeno-canto.org/920621",
+      "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Piscicultura - Goiânia, Goiânia, Goiás",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/920621/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "706126",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/706126/download",
+      "pageUrl": "https://xeno-canto.org/706126",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Estero Llano Grande State Park, Weslaco, Hidalgo, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/706126/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1072695",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1072695/download",
       "pageUrl": "https://xeno-canto.org/1072695",
       "recordist": "Fabrício Grigolin",
@@ -251,8 +279,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DPGAIBCQBY/1072695/grey-medium.png"
     },
     {
+      "xenoCantoId": "902597",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/902597/download",
+      "pageUrl": "https://xeno-canto.org/902597",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Birdwalk, Myakka River State Park, Sarasota County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AMMGWAIZWI/902597/grey-medium.png"
+    },
+    {
       "xenoCantoId": "824006",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/824006/download",
       "pageUrl": "https://xeno-canto.org/824006",
       "recordist": "Enrique Varela",
@@ -265,5 +307,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-bellied_whistling_duck",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6893"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6893",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Dendrocygna-autumnalis"
 }

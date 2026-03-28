@@ -228,6 +228,7 @@
     {
       "xenoCantoId": "1001320",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1001320/download",
       "pageUrl": "https://xeno-canto.org/1001320",
       "recordist": "Uku Paal",
@@ -238,8 +239,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XIBLXHRPJO/1001320/grey-medium.png"
     },
     {
+      "xenoCantoId": "949348",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/949348/download",
+      "pageUrl": "https://xeno-canto.org/949348",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Myran, Almunge, Uppland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/949348/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "796719",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/796719/download",
+      "pageUrl": "https://xeno-canto.org/796719",
+      "recordist": "Alan Dalton",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Angarnsjöängen, Vallentuna Municipality, Stockholms län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBJSEFYVPV/796719/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1027882",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1027882/download",
       "pageUrl": "https://xeno-canto.org/1027882",
       "recordist": "Miika Silfverberg",
@@ -250,8 +278,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ETEGTCNTLW/1027882/grey-medium.png"
     },
     {
+      "xenoCantoId": "103894",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/103894/download",
+      "pageUrl": "https://xeno-canto.org/103894",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:58",
+      "location": "Sarnów Ponds (Stawy Sarnów koło Kucin)",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/103894/grey-medium.png"
+    },
+    {
       "xenoCantoId": "482542",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/482542/download",
       "pageUrl": "https://xeno-canto.org/482542",
       "recordist": "Grzegorz Lorek",
@@ -264,5 +306,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-necked_grebe",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4224"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4224",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Podiceps-grisegena"
 }

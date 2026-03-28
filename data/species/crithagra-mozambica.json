@@ -181,6 +181,7 @@
     {
       "xenoCantoId": "1083158",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1083158/download",
       "pageUrl": "https://xeno-canto.org/1083158",
       "recordist": "Jonathan Onongo",
@@ -191,8 +192,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YIKAQIVHQJ/1083158/grey-medium.png"
     },
     {
+      "xenoCantoId": "1076896",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1076896/download",
+      "pageUrl": "https://xeno-canto.org/1076896",
+      "recordist": "Oscar Campbell",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Mambushi Lodge",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFRTVEHIZX/1076896/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "938981",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/938981/download",
+      "pageUrl": "https://xeno-canto.org/938981",
+      "recordist": "Magnus Wadstein",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:45",
+      "location": "Mvuu, Liwonde",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQARALZBNN/938981/grey-medium.png"
+    },
+    {
       "xenoCantoId": "268716",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/268716/download",
       "pageUrl": "https://xeno-canto.org/268716",
       "recordist": "Andrew Spencer",
@@ -201,9 +229,23 @@
       "length": "0:37",
       "location": "Airport Road, Gambela",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/268716/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1064289",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1064289/download",
+      "pageUrl": "https://xeno-canto.org/1064289",
+      "recordist": "Bram Piot",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:34",
+      "location": "Bombo-Lumene reserve, Bateke plateau, Bankana, Kinshasa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RGSEIIJGHA/1064289/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Yellow-fronted_canary",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558601"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558601",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Crithagra-mozambica"
 }

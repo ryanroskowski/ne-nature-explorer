@@ -344,6 +344,7 @@
     {
       "xenoCantoId": "381052",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/381052/download",
       "pageUrl": "https://xeno-canto.org/381052",
       "recordist": "Jens Kirkeby",
@@ -354,19 +355,47 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YKITMEIRRE/381052/grey-medium.png"
     },
     {
-      "xenoCantoId": "950071",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/950071/download",
-      "pageUrl": "https://xeno-canto.org/950071",
-      "recordist": "David Darrell-Lambert",
+      "xenoCantoId": "182179",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/182179/download",
+      "pageUrl": "https://xeno-canto.org/182179",
+      "recordist": "Andrew Spencer",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:02",
-      "location": "Bang Pakong, Bang Pakong District, Chachoengsao",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/950071/grey-medium.png"
+      "length": "0:53",
+      "location": "Cakeater Road, Barrow, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/182179/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "896223",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/896223/download",
+      "pageUrl": "https://xeno-canto.org/896223",
+      "recordist": "Lim Ying Hien",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Klang (near  Kapar), Selangor",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NXHTMHMNSS/896223/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "840811",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/840811/download",
+      "pageUrl": "https://xeno-canto.org/840811",
+      "recordist": "Ray Tsu 诸仁",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Jiuduansha Wetland National Nature Reserve, Shanghai",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FROVFAFTMA/840811/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-necked_stint",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3854"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3854",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-ruficollis"
 }

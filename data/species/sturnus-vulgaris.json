@@ -211,20 +211,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1090680",
+      "xenoCantoId": "1079535",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1090680/download",
-      "pageUrl": "https://xeno-canto.org/1090680",
-      "recordist": "Lennart Jeppsson",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1079535/download",
+      "pageUrl": "https://xeno-canto.org/1079535",
+      "recordist": "Jorge Leitão",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "4:06",
-      "location": "Baskemölla, Simrishamn Municipality, Skåne län",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HSFHXQRZFM/1090680/grey-medium.png"
+      "length": "1:29",
+      "location": "Park Meerland (near  Eindhoven), Eindhoven, Noord-Brabant",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GYAUIPUVNM/1079535/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "981795",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/981795/download",
+      "pageUrl": "https://xeno-canto.org/981795",
+      "recordist": "Susanne Kuijpers",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Berkel en Rodenrijs, Lansingerland, Zuid-Holland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IZVNKUBNLN/981795/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "962697",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/962697/download",
+      "pageUrl": "https://xeno-canto.org/962697",
+      "recordist": "Lee Alder",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:03",
+      "location": "Great Britain (near  Saint Mellons), Cardiff, Wales",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MVBSLTSBUW/962697/grey-medium.png"
     },
     {
       "xenoCantoId": "1075304",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1075304/download",
       "pageUrl": "https://xeno-canto.org/1075304",
       "recordist": "Lee Alder",
@@ -235,8 +263,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MVBSLTSBUW/1075304/grey-medium.png"
     },
     {
+      "xenoCantoId": "1026159",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1026159/download",
+      "pageUrl": "https://xeno-canto.org/1026159",
+      "recordist": "David Boyle",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "Skokholm, Pembrokeshire, Wales",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHOCFQHBDL/1026159/grey-medium.png"
+    },
+    {
       "xenoCantoId": "734952",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/734952/download",
       "pageUrl": "https://xeno-canto.org/734952",
       "recordist": "Irish Wildlife Sounds",
@@ -249,5 +291,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_starling",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14850"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/14850",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Sturnus-vulgaris"
 }

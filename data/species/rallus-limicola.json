@@ -242,32 +242,74 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1013313",
+      "xenoCantoId": "1013312",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1013313/download",
-      "pageUrl": "https://xeno-canto.org/1013313",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1013312/download",
+      "pageUrl": "https://xeno-canto.org/1013312",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "4:15",
+      "length": "0:46",
       "location": "Charlevoix (near  Saint-Joseph-de-la-Rive), Capitale-Nationale, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013313/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013312/grey-medium.png"
     },
     {
-      "xenoCantoId": "1074384",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1074384/download",
-      "pageUrl": "https://xeno-canto.org/1074384",
+      "xenoCantoId": "979245",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/979245/download",
+      "pageUrl": "https://xeno-canto.org/979245",
       "recordist": "Frank Severson",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:07",
+      "length": "0:15",
       "location": "West Sacramento, Yolo County, California",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VOSIELLHNW/1074384/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VOSIELLHNW/979245/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "621187",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/621187/download",
+      "pageUrl": "https://xeno-canto.org/621187",
+      "recordist": "Scott Crabtree",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Santa Cruz River Park,Tucson, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/621187/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "955343",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/955343/download",
+      "pageUrl": "https://xeno-canto.org/955343",
+      "recordist": "Frank Severson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "West Sacramento, Yolo County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VOSIELLHNW/955343/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "938114",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/938114/download",
+      "pageUrl": "https://xeno-canto.org/938114",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "Tuttle Marsh WA, Iosco County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/938114/grey-medium.png"
     },
     {
       "xenoCantoId": "1013318",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1013318/download",
       "pageUrl": "https://xeno-canto.org/1013318",
       "recordist": "Stanislas Wroza",
@@ -280,5 +322,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Virginia_rail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/243"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/243",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Rallus-limicola"
 }

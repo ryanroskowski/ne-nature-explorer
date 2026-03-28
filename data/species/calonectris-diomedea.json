@@ -208,6 +208,7 @@
     {
       "xenoCantoId": "994262",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/994262/download",
       "pageUrl": "https://xeno-canto.org/994262",
       "recordist": "Lo Valvo Fabio",
@@ -218,20 +219,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLCUIQQSEZ/994262/grey-medium.png"
     },
     {
-      "xenoCantoId": "1000506",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1000506/download",
-      "pageUrl": "https://xeno-canto.org/1000506",
-      "recordist": "Francesco Barberini",
+      "xenoCantoId": "919307",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/919307/download",
+      "pageUrl": "https://xeno-canto.org/919307",
+      "recordist": "Carlo Fracasso",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Ventotene, Provincia di Latina, Lazio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WWYNAMSYBP/919307/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "821249",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/821249/download",
+      "pageUrl": "https://xeno-canto.org/821249",
+      "recordist": "Nicola Baccetti",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:21",
-      "location": "Linosa",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FDRIKEROUW/1000506/grey-medium.png"
+      "length": "0:22",
+      "location": "Campo nell'Elba, Province of Livorno, Tuscany",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZPSCVFAUUG/821249/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "919303",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/919303/download",
+      "pageUrl": "https://xeno-canto.org/919303",
+      "recordist": "Carlo Fracasso",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "quality": "A",
+      "length": "0:25",
+      "location": "Ventotene, Provincia di Latina, Lazio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WWYNAMSYBP/919303/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "840559",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/840559/download",
+      "pageUrl": "https://xeno-canto.org/840559",
+      "recordist": "Giuseppe Speranza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Lampedusa e Linosa (near  Linosa), Free municipal consortium of Agrigento, Sicily",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/URREFGVMYF/840559/grey-medium.png"
     },
     {
       "xenoCantoId": "292399",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/292399/download",
       "pageUrl": "https://xeno-canto.org/292399",
       "recordist": "Ottavio Janni",
@@ -244,5 +286,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Scopoli's_shearwater",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/509656"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/509656",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calonectris-diomedea"
 }

@@ -262,6 +262,7 @@
     {
       "xenoCantoId": "772882",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/772882/download",
       "pageUrl": "https://xeno-canto.org/772882",
       "recordist": "Paul Kelly",
@@ -270,9 +271,23 @@
       "length": "1:21",
       "location": "Rosslare Harbour, Wexford, County Wexford",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/772882/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "717674",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/717674/download",
+      "pageUrl": "https://xeno-canto.org/717674",
+      "recordist": "Irish Wildlife Sounds",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "B",
+      "length": "0:18",
+      "location": "Dingle, Kerry, County Kerry",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PAEQEUHPFQ/717674/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Iceland_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4361"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4361",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Larus-glaucoides"
 }

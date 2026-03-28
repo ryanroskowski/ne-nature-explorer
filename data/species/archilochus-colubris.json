@@ -219,20 +219,35 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1013237",
+      "xenoCantoId": "758917",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1013237/download",
-      "pageUrl": "https://xeno-canto.org/1013237",
-      "recordist": "Stanislas Wroza",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/758917/download",
+      "pageUrl": "https://xeno-canto.org/758917",
+      "recordist": "Manuel Grosselet",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:04",
-      "location": "Charlevoix (near  L'Isle-aux-Coudres), Capitale-Nationale, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013237/grey-medium.png"
+      "length": "0:50",
+      "location": "San Juan Bautista Guelache, San Juan Bautista Guelache, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/758917/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "691886",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/691886/download",
+      "pageUrl": "https://xeno-canto.org/691886",
+      "recordist": "Christopher McPherson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "Brookline, Hillsborough County, New Hampshire",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HNIFQCMOLA/691886/grey-medium.png"
     },
     {
       "xenoCantoId": "673347",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/673347/download",
       "pageUrl": "https://xeno-canto.org/673347",
       "recordist": "Christopher Moser-Purdy",
@@ -245,5 +260,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruby-throated_hummingbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6432"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6432",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Archilochus-colubris"
 }

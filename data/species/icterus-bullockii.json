@@ -237,31 +237,73 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1039052",
+      "xenoCantoId": "1038999",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1039052/download",
-      "pageUrl": "https://xeno-canto.org/1039052",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1038999/download",
+      "pageUrl": "https://xeno-canto.org/1038999",
       "recordist": "Richard E. Webster",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "4:44",
-      "location": "Portal, Arizona",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1039052/grey-medium.png"
+      "length": "0:50",
+      "location": "Las Cienegas NCA (lower Cienega Creek), Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1038999/grey-medium.png"
     },
     {
-      "xenoCantoId": "772609",
+      "xenoCantoId": "714515",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/714515/download",
+      "pageUrl": "https://xeno-canto.org/714515",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:04",
+      "location": "Peachtree Rd, Monterey County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/714515/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "644408",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/644408/download",
+      "pageUrl": "https://xeno-canto.org/644408",
+      "recordist": "Ed Pandolfino",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Auburn Ravine Crk, Placer County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/644408/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "661902",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/772609/download",
-      "pageUrl": "https://xeno-canto.org/772609",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/661902/download",
+      "pageUrl": "https://xeno-canto.org/661902",
       "recordist": "Richard E. Webster",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "5:41",
-      "location": "Portal, Arizona",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/772609/grey-medium.png"
+      "length": "1:22",
+      "location": "Mike's Sky Rancho, Sierra San Pedro Martir, Baja California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/661902/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "563915",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/563915/download",
+      "pageUrl": "https://xeno-canto.org/563915",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Lyons, Boulder County, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/563915/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bullock's_oriole",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9357"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9357",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Icterus-bullockii"
 }

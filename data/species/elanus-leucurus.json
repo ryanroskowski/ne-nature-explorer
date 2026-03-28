@@ -200,6 +200,7 @@
     {
       "xenoCantoId": "987855",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/987855/download",
       "pageUrl": "https://xeno-canto.org/987855",
       "recordist": "José María Loaiza B.",
@@ -210,8 +211,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FPXOZOPHTA/987855/grey-medium.png"
     },
     {
+      "xenoCantoId": "488975",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/488975/download",
+      "pageUrl": "https://xeno-canto.org/488975",
+      "recordist": "Arthur Monteiro Gomes",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:23",
+      "location": "Unesp de Rio Claro, Rio Claro, São Paulo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EOJHNAIHEM/488975/grey-medium.png"
+    },
+    {
       "xenoCantoId": "746110",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/746110/download",
       "pageUrl": "https://xeno-canto.org/746110",
       "recordist": "Cristian Pinto Fernandez",
@@ -222,19 +237,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SEVIQQAKWM/746110/grey-medium.png"
     },
     {
-      "xenoCantoId": "1006723",
+      "xenoCantoId": "584969",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/584969/download",
+      "pageUrl": "https://xeno-canto.org/584969",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:32",
+      "location": "Proctor Valley Rd, San Diego County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/584969/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1006718",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1006723/download",
-      "pageUrl": "https://xeno-canto.org/1006723",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1006718/download",
+      "pageUrl": "https://xeno-canto.org/1006718",
       "recordist": "José María Loaiza B.",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:38",
+      "length": "0:22",
       "location": "Calacali, 1.5Km desde la \"Y a Moraspungo, Hacienda grande Amarilla",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FPXOZOPHTA/1006723/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FPXOZOPHTA/1006718/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/White-tailed_kite",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5277"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5277",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Elanus-leucurus"
 }

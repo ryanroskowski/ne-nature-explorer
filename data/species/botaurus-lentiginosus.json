@@ -232,6 +232,7 @@
     {
       "xenoCantoId": "1013532",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1013532/download",
       "pageUrl": "https://xeno-canto.org/1013532",
       "recordist": "Stanislas Wroza",
@@ -242,8 +243,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013532/grey-medium.png"
     },
     {
+      "xenoCantoId": "419704",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/419704/download",
+      "pageUrl": "https://xeno-canto.org/419704",
+      "recordist": "Jeff Dyck",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "Fraser-Fort George F, Fraser-Fort George, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WOKAPEXFUA/419704/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "408487",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/408487/download",
+      "pageUrl": "https://xeno-canto.org/408487",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:28",
+      "location": "Pinto Lake, Watsonville, Santa Cruz County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/408487/grey-medium.png"
+    },
+    {
       "xenoCantoId": "906725",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/906725/download",
       "pageUrl": "https://xeno-canto.org/906725",
       "recordist": "Jeff Stewart",
@@ -254,8 +282,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/URGFVYYSWH/906725/grey-medium.png"
     },
     {
+      "xenoCantoId": "601776",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/601776/download",
+      "pageUrl": "https://xeno-canto.org/601776",
+      "recordist": "Peter Ward and Ken Hall",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Cariboo H (near  Canim Lake), Cariboo, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFRRHMLGSK/601776/grey-medium.png"
+    },
+    {
       "xenoCantoId": "833211",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/833211/download",
       "pageUrl": "https://xeno-canto.org/833211",
       "recordist": "Paul Driver",
@@ -268,5 +310,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_bittern",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5034"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5034",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Botaurus-lentiginosus"
 }

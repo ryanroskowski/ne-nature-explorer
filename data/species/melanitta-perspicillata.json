@@ -239,6 +239,7 @@
     {
       "xenoCantoId": "1013573",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1013573/download",
       "pageUrl": "https://xeno-canto.org/1013573",
       "recordist": "Stanislas Wroza",
@@ -247,9 +248,23 @@
       "length": "0:13",
       "location": "La Haute-Côte-Nord Regional County Municipality (near  Les Escoumins), Côte-Nord, Quebec",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013573/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "76454",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/76454/download",
+      "pageUrl": "https://xeno-canto.org/76454",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Cattle Point, San Juan Island, San Juan Co., Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/76454/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Surf_scoter",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7036"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7036",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Melanitta-perspicillata"
 }

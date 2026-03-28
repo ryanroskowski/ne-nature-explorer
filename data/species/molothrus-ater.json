@@ -200,6 +200,7 @@
     {
       "xenoCantoId": "1039613",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1039613/download",
       "pageUrl": "https://xeno-canto.org/1039613",
       "recordist": "Thomas Magarian",
@@ -210,20 +211,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/1039613/grey-medium.png"
     },
     {
-      "xenoCantoId": "1012891",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1012891/download",
-      "pageUrl": "https://xeno-canto.org/1012891",
+      "xenoCantoId": "1012892",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1012892/download",
+      "pageUrl": "https://xeno-canto.org/1012892",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
+      "length": "0:58",
       "location": "Lotbinière (near  Notre-Dame-du-Sacré-Coeur-d'Issoudun), Chaudière-Appalaches, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012891/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012892/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "999447",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/999447/download",
+      "pageUrl": "https://xeno-canto.org/999447",
+      "recordist": "Scott Crabtree",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Sabino Canyon, Tucson, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/999447/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "938836",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/938836/download",
+      "pageUrl": "https://xeno-canto.org/938836",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:28",
+      "location": "San Bernardino National Wildlife Refuge, Cochise County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/938836/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "908395",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/908395/download",
+      "pageUrl": "https://xeno-canto.org/908395",
+      "recordist": "Thomas Ryder Payne",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Toronto, Toronto Division, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NWXCLJYBDK/908395/grey-medium.png"
     },
     {
       "xenoCantoId": "566847",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/566847/download",
       "pageUrl": "https://xeno-canto.org/566847",
       "recordist": "Isain Contreras Rodríguez",
@@ -236,5 +278,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Brown-headed_cowbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10373"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10373",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Molothrus-ater"
 }

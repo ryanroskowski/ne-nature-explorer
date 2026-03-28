@@ -222,8 +222,22 @@
   "relatedSpecies": [],
   "audio": [
     {
+      "xenoCantoId": "257452",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/257452/download",
+      "pageUrl": "https://xeno-canto.org/257452",
+      "recordist": "John V. Moore",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Manabí: La Segua marsh (Chone lakes)",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YKKDTZHLUU/257452/grey-medium.png"
+    },
+    {
       "xenoCantoId": "769510",
       "type": "song",
+      "label": "Song 2",
       "audioUrl": "https://xeno-canto.org/769510/download",
       "pageUrl": "https://xeno-canto.org/769510",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -234,8 +248,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/769510/grey-medium.png"
     },
     {
+      "xenoCantoId": "744993",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/744993/download",
+      "pageUrl": "https://xeno-canto.org/744993",
+      "recordist": "João Vitor Oliveira de Souza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:05",
+      "location": "Monte Alto, São Paulo",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WDQXMHNKQW/744993/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1080165",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1080165/download",
       "pageUrl": "https://xeno-canto.org/1080165",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -246,19 +274,47 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/1080165/grey-medium.png"
     },
     {
-      "xenoCantoId": "1071737",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1071737/download",
-      "pageUrl": "https://xeno-canto.org/1071737",
+      "xenoCantoId": "1071732",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1071732/download",
+      "pageUrl": "https://xeno-canto.org/1071732",
       "recordist": "AUDEVARD Aurélien",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
+      "length": "0:11",
       "location": "CATIE campus, Turrialba",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1071737/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1071732/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "277317",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/277317/download",
+      "pageUrl": "https://xeno-canto.org/277317",
+      "recordist": "John A. Trent",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "Spanish Fort, Baldwin County, Alabama",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SAFEUPWVBN/277317/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "368528",
+      "type": "drumming",
+      "label": "Drumming",
+      "audioUrl": "https://xeno-canto.org/368528/download",
+      "pageUrl": "https://xeno-canto.org/368528",
+      "recordist": "Dan Lane",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:09",
+      "location": "Pintail Loop, Cameron Prairie NWR, Cameron Parish, LA",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WOEAFQRMUD/368528/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_purple_gallinule",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/519"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/519",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Porphyrio-martinica"
 }

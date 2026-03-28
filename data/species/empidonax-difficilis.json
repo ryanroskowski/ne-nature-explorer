@@ -259,6 +259,7 @@
     {
       "xenoCantoId": "1009895",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1009895/download",
       "pageUrl": "https://xeno-canto.org/1009895",
       "recordist": "Cin-Ty Lee",
@@ -269,8 +270,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ERYSCRRSLN/1009895/grey-medium.png"
     },
     {
+      "xenoCantoId": "943424",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/943424/download",
+      "pageUrl": "https://xeno-canto.org/943424",
+      "recordist": "Whitney Neufeld-Kaiser",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:46",
+      "location": "Washington Park Arboretum (near  Seattle), King County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQLSWYNMJK/943424/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "753150",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/753150/download",
+      "pageUrl": "https://xeno-canto.org/753150",
+      "recordist": "Sunny Tseng",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "John Prince Research Forest",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SPMWIWZKKC/753150/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1004596",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1004596/download",
       "pageUrl": "https://xeno-canto.org/1004596",
       "recordist": "Paul Marvin",
@@ -281,8 +309,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/1004596/grey-medium.png"
     },
     {
+      "xenoCantoId": "939232",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/939232/download",
+      "pageUrl": "https://xeno-canto.org/939232",
+      "recordist": "Brian Cox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:51",
+      "location": "Wagonwheel Rd, Anarchist Mtn, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OKSKESEOLP/939232/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1008203",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1008203/download",
       "pageUrl": "https://xeno-canto.org/1008203",
       "recordist": "Cin-Ty Lee",
@@ -295,5 +337,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_flycatcher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16598"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16598",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Empidonax-difficilis"
 }

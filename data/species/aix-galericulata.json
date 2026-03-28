@@ -216,6 +216,7 @@
     {
       "xenoCantoId": "721862",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/721862/download",
       "pageUrl": "https://xeno-canto.org/721862",
       "recordist": "Lars Lachmann",
@@ -226,20 +227,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HEYJSRUDZZ/721862/grey-medium.png"
     },
     {
-      "xenoCantoId": "1079075",
+      "xenoCantoId": "406343",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/406343/download",
+      "pageUrl": "https://xeno-canto.org/406343",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:35",
+      "location": "Warszawa, Warszawa, mazowieckie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/406343/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "97003",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/97003/download",
+      "pageUrl": "https://xeno-canto.org/97003",
+      "recordist": "Matthias Feuersenger",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "Bellenkrappen, Waldpark, Mannheim",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/HBPYQXTJEV/97003/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1074808",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1079075/download",
-      "pageUrl": "https://xeno-canto.org/1079075",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1074808/download",
+      "pageUrl": "https://xeno-canto.org/1074808",
       "recordist": "Vandousselaere Patrick",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
+      "length": "0:32",
       "location": "Arrondissement Brugge (near  Brugge), West-Vlaanderen, Vlaams Gewest",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ENJVLTZCQJ/1079075/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ENJVLTZCQJ/1074808/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1064203",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1064203/download",
+      "pageUrl": "https://xeno-canto.org/1064203",
+      "recordist": "Shuangqi Liu",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:05",
+      "location": "Beijing, Peking University Campus",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FRENVBIZTF/1064203/grey-medium.png"
     },
     {
       "xenoCantoId": "522568",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/522568/download",
       "pageUrl": "https://xeno-canto.org/522568",
       "recordist": "Stanislas Wroza",
@@ -252,5 +294,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Mandarin_duck",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7106"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7106",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aix-galericulata"
 }

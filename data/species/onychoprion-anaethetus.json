@@ -208,6 +208,7 @@
     {
       "xenoCantoId": "1069484",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1069484/download",
       "pageUrl": "https://xeno-canto.org/1069484",
       "recordist": "David Darrell-Lambert",
@@ -218,8 +219,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1069484/grey-medium.png"
     },
     {
+      "xenoCantoId": "589066",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/589066/download",
+      "pageUrl": "https://xeno-canto.org/589066",
+      "recordist": "Simon Elliott",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:29",
+      "location": "Wilson Island, Queensland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FFFADKCCII/589066/grey-medium.png"
+    },
+    {
       "xenoCantoId": "864239",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/864239/download",
       "pageUrl": "https://xeno-canto.org/864239",
       "recordist": "David Darrell-Lambert",
@@ -232,5 +247,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bridled_tern",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144527"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144527",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Onychoprion-anaethetus"
 }

@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "1015145",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1015145/download",
       "pageUrl": "https://xeno-canto.org/1015145",
       "recordist": "David A. Brinkman",
@@ -261,8 +262,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1015145/grey-medium.png"
     },
     {
+      "xenoCantoId": "1013337",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1013337/download",
+      "pageUrl": "https://xeno-canto.org/1013337",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:20",
+      "location": "Charlevoix (near  Saint-Joseph-de-la-Rive), Capitale-Nationale, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013337/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1012127",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1012127/download",
+      "pageUrl": "https://xeno-canto.org/1012127",
+      "recordist": "MARK BRENNAN",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:38",
+      "location": "Eastville, Colchester County, Nova Scotia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QLIFEGZOIT/1012127/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1023080",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1023080/download",
       "pageUrl": "https://xeno-canto.org/1023080",
       "recordist": "Stanislas Wroza",
@@ -273,19 +301,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1023080/grey-medium.png"
     },
     {
-      "xenoCantoId": "1013829",
+      "xenoCantoId": "972123",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/972123/download",
+      "pageUrl": "https://xeno-canto.org/972123",
+      "recordist": "Ray Cooke",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:38",
+      "location": "Goose River, Provincial Forest",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EMFMDDVOUG/972123/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1012913",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1013829/download",
-      "pageUrl": "https://xeno-canto.org/1013829",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1012913/download",
+      "pageUrl": "https://xeno-canto.org/1012913",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:05",
-      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013829/grey-medium.png"
+      "length": "0:28",
+      "location": "Marais Léon-Provancher, Portneuf, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012913/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/White-throated_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9184"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9184",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Zonotrichia-albicollis"
 }

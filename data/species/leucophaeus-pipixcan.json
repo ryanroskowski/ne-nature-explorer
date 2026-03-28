@@ -230,19 +230,34 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "877016",
+      "xenoCantoId": "534300",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/877016/download",
-      "pageUrl": "https://xeno-canto.org/877016",
-      "recordist": "Skyler Bol",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/534300/download",
+      "pageUrl": "https://xeno-canto.org/534300",
+      "recordist": "Dante Buzzetti",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:02",
-      "location": "Freezeout Lake, Teton County, Montana",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ESGJLNIGDA/877016/grey-medium.png"
+      "length": "1:06",
+      "location": "Puerto Montt city, Llanquihue, Los Lagos",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YOXWKYFZAP/534300/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "282854",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/282854/download",
+      "pageUrl": "https://xeno-canto.org/282854",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Lostwood NWR, Burke County, North Dakota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/282854/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Franklin's_gull",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144515"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144515",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Leucophaeus-pipixcan"
 }

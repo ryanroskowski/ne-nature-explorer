@@ -222,20 +222,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1028090",
+      "xenoCantoId": "862737",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1028090/download",
-      "pageUrl": "https://xeno-canto.org/1028090",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/862737/download",
+      "pageUrl": "https://xeno-canto.org/862737",
       "recordist": "Stein Ø. Nilsen",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "14:54",
-      "location": "Hansmyra, Straumsbukta",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/1028090/grey-medium.png"
+      "length": "0:27",
+      "location": "Straumsbukta",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/862737/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "793932",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/793932/download",
+      "pageUrl": "https://xeno-canto.org/793932",
+      "recordist": "Teet Sirotkin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Björkliden station",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GELAPBFFDU/793932/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "706137",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/706137/download",
+      "pageUrl": "https://xeno-canto.org/706137",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:31",
+      "location": "Umeå stad, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/706137/grey-medium.png"
     },
     {
       "xenoCantoId": "1079827",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1079827/download",
       "pageUrl": "https://xeno-canto.org/1079827",
       "recordist": "Marc Anderson",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EHGWCIGILC/1079827/grey-medium.png"
     },
     {
+      "xenoCantoId": "757880",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/757880/download",
+      "pageUrl": "https://xeno-canto.org/757880",
+      "recordist": "Alan Dalton",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Robertsfors Ö, Robertsfors Municipality, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBJSEFYVPV/757880/grey-medium.png"
+    },
+    {
       "xenoCantoId": "807862",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/807862/download",
       "pageUrl": "https://xeno-canto.org/807862",
       "recordist": "Yngve Hareland",
@@ -260,5 +302,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Northern_hawk-owl",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/20372"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/20372",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Surnia-ulula"
 }

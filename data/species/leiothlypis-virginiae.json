@@ -236,20 +236,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1083465",
+      "xenoCantoId": "323651",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1083465/download",
-      "pageUrl": "https://xeno-canto.org/1083465",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/323651/download",
+      "pageUrl": "https://xeno-canto.org/323651",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:19",
+      "location": "Twilight Campground, Pinaleno Mountains, Graham County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/323651/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "322736",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/322736/download",
+      "pageUrl": "https://xeno-canto.org/322736",
       "recordist": "Sue Riffe",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:39",
-      "location": "Jensen Memorial Park (Meeker), Rio Blanco Cty, Colorado",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1083465/grey-medium.png"
+      "length": "1:00",
+      "location": "Old La Veta Pass, Huerfano County, Colorado",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/322736/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "182956",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/182956/download",
+      "pageUrl": "https://xeno-canto.org/182956",
+      "recordist": "Tim Avery",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Little Cottonwood Canyon, Salt Lake County, Utah",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TCWCZRTBCF/182956/grey-medium.png"
     },
     {
       "xenoCantoId": "897174",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/897174/download",
       "pageUrl": "https://xeno-canto.org/897174",
       "recordist": "Manuel Grosselet",
@@ -260,8 +288,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/897174/grey-medium.png"
     },
     {
+      "xenoCantoId": "174411",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/174411/download",
+      "pageUrl": "https://xeno-canto.org/174411",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:00",
+      "location": "NF Road 626, Mt Ord, near Sunflower,  Maricopa Co, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/174411/grey-medium.png"
+    },
+    {
       "xenoCantoId": "493936",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/493936/download",
       "pageUrl": "https://xeno-canto.org/493936",
       "recordist": "Sue Riffe",
@@ -274,5 +316,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Virginia's_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/979752"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/979752",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Leiothlypis-virginiae"
 }

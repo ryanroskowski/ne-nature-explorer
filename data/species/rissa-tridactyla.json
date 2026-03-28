@@ -192,6 +192,7 @@
     {
       "xenoCantoId": "930790",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/930790/download",
       "pageUrl": "https://xeno-canto.org/930790",
       "recordist": "Paul Lynch",
@@ -202,8 +203,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BLXNBOBSQB/930790/grey-medium.png"
     },
     {
+      "xenoCantoId": "883433",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/883433/download",
+      "pageUrl": "https://xeno-canto.org/883433",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "8:46",
+      "location": "Ålesund, Ålesund, Møre og Romsdal",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/883433/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1070628",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1070628/download",
       "pageUrl": "https://xeno-canto.org/1070628",
       "recordist": "Jens Kirkeby",
@@ -214,8 +229,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YKITMEIRRE/1070628/grey-medium.png"
     },
     {
+      "xenoCantoId": "1066139",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1066139/download",
+      "pageUrl": "https://xeno-canto.org/1066139",
+      "recordist": "Adrien Peillon",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Arrondissement de Dinan (near  Plévenon), Côtes-d'Armor, Bretagne",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QSIPMNXSKA/1066139/grey-medium.png"
+    },
+    {
       "xenoCantoId": "935221",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/935221/download",
       "pageUrl": "https://xeno-canto.org/935221",
       "recordist": "Tony Rinaud",
@@ -228,5 +257,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-legged_kittiwake",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4494"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4494",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Rissa-tridactyla"
 }

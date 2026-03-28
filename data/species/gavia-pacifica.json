@@ -204,20 +204,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "433999",
+      "xenoCantoId": "406246",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/433999/download",
-      "pageUrl": "https://xeno-canto.org/433999",
-      "recordist": "Logan McLeod",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/406246/download",
+      "pageUrl": "https://xeno-canto.org/406246",
+      "recordist": "Patrik Åberg",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "3:34",
-      "location": "Yukon, Unorganized (near  Beaver Creek), Yukon, Yukon Territory",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JRPEHMSIPP/433999/grey-medium.png"
+      "length": "0:52",
+      "location": "Kougarrok Road, Nome, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/406246/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "276965",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/276965/download",
+      "pageUrl": "https://xeno-canto.org/276965",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Barrow, North Slope, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/276965/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "141730",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/141730/download",
+      "pageUrl": "https://xeno-canto.org/141730",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "1:09",
+      "location": "Freshwater Lake, Barrow, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/141730/grey-medium.png"
     },
     {
       "xenoCantoId": "838307",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/838307/download",
       "pageUrl": "https://xeno-canto.org/838307",
       "recordist": "Seth Beaudreault (Toolik Field Station)",
@@ -226,9 +254,23 @@
       "length": "0:21",
       "location": "Toolik Field Station, North Slope, Alaska",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TZWMNBTMOK/838307/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "691192",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/691192/download",
+      "pageUrl": "https://xeno-canto.org/691192",
+      "recordist": "Jorge de Leon Cardozo &amp; Susan Hochgraf",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:23",
+      "location": "Gaswell Road, Utqiagvik, North Slope, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RHARFLKISN/691192/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pacific_loon",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4621"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4621",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Gavia-pacifica"
 }

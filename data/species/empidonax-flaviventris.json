@@ -272,6 +272,7 @@
     {
       "xenoCantoId": "1014722",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1014722/download",
       "pageUrl": "https://xeno-canto.org/1014722",
       "recordist": "Stanislas Wroza",
@@ -282,8 +283,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014722/grey-medium.png"
     },
     {
+      "xenoCantoId": "404658",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/404658/download",
+      "pageUrl": "https://xeno-canto.org/404658",
+      "recordist": "Mario Trejo",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:58",
+      "location": "Ciudad Merliot, Antiguo Cuscatlán, La Libertad",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MSXVGDVGIP/404658/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "335895",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/335895/download",
+      "pageUrl": "https://xeno-canto.org/335895",
+      "recordist": "Orlando Jarquín G.",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Estación Biológica UCA. Jinotega",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FJVXXGLFTR/335895/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1070234",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1070234/download",
       "pageUrl": "https://xeno-canto.org/1070234",
       "recordist": "Max Noack",
@@ -294,8 +322,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NYTGVXSILH/1070234/grey-medium.png"
     },
     {
+      "xenoCantoId": "947360",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/947360/download",
+      "pageUrl": "https://xeno-canto.org/947360",
+      "recordist": "Olman Chaves Calderón",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Esquipulas, Quepos. Puntarenas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JGZHGGLAJH/947360/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014764",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014764/download",
       "pageUrl": "https://xeno-canto.org/1014764",
       "recordist": "Stanislas Wroza",
@@ -308,5 +350,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Yellow-bellied_flycatcher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16603"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16603",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Empidonax-flaviventris"
 }

@@ -237,6 +237,7 @@
     {
       "xenoCantoId": "1069263",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1069263/download",
       "pageUrl": "https://xeno-canto.org/1069263",
       "recordist": "Kayla Brown",
@@ -247,20 +248,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RNFYTIPSLU/1069263/grey-medium.png"
     },
     {
-      "xenoCantoId": "878830",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/878830/download",
-      "pageUrl": "https://xeno-canto.org/878830",
-      "recordist": "Kayla Brown",
+      "xenoCantoId": "982746",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/982746/download",
+      "pageUrl": "https://xeno-canto.org/982746",
+      "recordist": "Peter Mundale",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Bear Deadwood 28.24, Lane County, Oregon",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RNFYTIPSLU/878830/grey-medium.png"
+      "length": "0:43",
+      "location": "Duluth Township (near  Duluth), St. Louis County, Minnesota",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UAXIKEBHEA/982746/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "972592",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/972592/download",
+      "pageUrl": "https://xeno-canto.org/972592",
+      "recordist": "Anthony Gliozzo",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:28",
+      "location": "North Camano, Island County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FHNIEQMQPH/972592/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "702863",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/702863/download",
+      "pageUrl": "https://xeno-canto.org/702863",
+      "recordist": "Jeff Stewart",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Cavan-Monaghan (near  Millbrook), Peterborough County, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/URGFVYYSWH/702863/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "613765",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/613765/download",
+      "pageUrl": "https://xeno-canto.org/613765",
+      "recordist": "Peter Ward and Ken Hall",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:16",
+      "location": "Okanagan-Similkameen D (near  Cawston), Okanagan-Similkameen, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SFRRHMLGSK/613765/grey-medium.png"
     },
     {
       "xenoCantoId": "766383",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/766383/download",
       "pageUrl": "https://xeno-canto.org/766383",
       "recordist": "Bruce Lagerquist",
@@ -273,5 +315,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_saw-whet_owl",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/20356"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/20356",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aegolius-acadicus"
 }

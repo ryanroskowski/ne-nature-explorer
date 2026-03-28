@@ -228,6 +228,7 @@
     {
       "xenoCantoId": "659432",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/659432/download",
       "pageUrl": "https://xeno-canto.org/659432",
       "recordist": "Nils Navarro",
@@ -238,8 +239,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FYECYQAZOK/659432/grey-medium.png"
     },
     {
+      "xenoCantoId": "64539",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/64539/download",
+      "pageUrl": "https://xeno-canto.org/64539",
+      "recordist": "Mike Nelson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Airport Rd. Dauphin Island, Alabama",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PWDLINYMKL/64539/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "46676",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/46676/download",
+      "pageUrl": "https://xeno-canto.org/46676",
+      "recordist": "Daniel Lane",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:18",
+      "location": "La Parguera",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WOEAFQRMUD/46676/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1087852",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1087852/download",
       "pageUrl": "https://xeno-canto.org/1087852",
       "recordist": "Sue Riffe",
@@ -250,8 +278,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1087852/grey-medium.png"
     },
     {
+      "xenoCantoId": "1027050",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1027050/download",
+      "pageUrl": "https://xeno-canto.org/1027050",
+      "recordist": "Paul Driver",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Brigantine National Wildlife Refuge, NJ",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/1027050/grey-medium.png"
+    },
+    {
       "xenoCantoId": "597422",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/597422/download",
       "pageUrl": "https://xeno-canto.org/597422",
       "recordist": "William Whitehead",
@@ -264,5 +306,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Clapper_rail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/367477"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/367477",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Rallus-crepitans"
 }

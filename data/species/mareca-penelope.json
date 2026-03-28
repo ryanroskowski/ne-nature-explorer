@@ -237,37 +237,79 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1006871",
+      "xenoCantoId": "872897",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1006871/download",
-      "pageUrl": "https://xeno-canto.org/1006871",
-      "recordist": "Stein Ø. Nilsen",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/872897/download",
+      "pageUrl": "https://xeno-canto.org/872897",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:52",
-      "location": "Fjellbygda, Balsfjord, Troms",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/1006871/grey-medium.png"
+      "length": "0:28",
+      "location": "Arrondissement de Quimper (near  Plogoff), Finistere, Brittany",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/872897/grey-medium.png"
     },
     {
-      "xenoCantoId": "1091204",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1091204/download",
-      "pageUrl": "https://xeno-canto.org/1091204",
-      "recordist": "Vandousselaere Patrick",
+      "xenoCantoId": "718662",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/718662/download",
+      "pageUrl": "https://xeno-canto.org/718662",
+      "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:14",
-      "location": "Arrondissement Brugge (near  Brugge), West-Vlaanderen, Vlaams Gewest",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ENJVLTZCQJ/1091204/grey-medium.png"
+      "length": "0:18",
+      "location": "Ratuträsket, Robertsfors Ö, Robertsfors Municipality, Västerbotten County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/718662/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "83877",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/83877/download",
+      "pageUrl": "https://xeno-canto.org/83877",
+      "recordist": "Patrik Åberg",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Mývatn",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/83877/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "709032",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/709032/download",
+      "pageUrl": "https://xeno-canto.org/709032",
+      "recordist": "Susanne Kuijpers",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Broedgebied de Berkelse Boezem (near  Berkel en Rodenrijs), Lansingerland, Zuid-Holland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IZVNKUBNLN/709032/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "693190",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/693190/download",
+      "pageUrl": "https://xeno-canto.org/693190",
+      "recordist": "Irish Wildlife Sounds",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Tory Island, County Donegal, County Donegal",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PAEQEUHPFQ/693190/grey-medium.png"
     },
     {
       "xenoCantoId": "1078922",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1078922/download",
       "pageUrl": "https://xeno-canto.org/1078922",
       "recordist": "Petter Westberg",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "quality": "A",
+      "quality": "B",
       "length": "0:32",
       "location": "Skaulo, Gällivare Municipality, Norrbottens län",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1078922/grey-medium.png"
@@ -275,5 +317,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_wigeon",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558441"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/558441",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Mareca-penelope"
 }

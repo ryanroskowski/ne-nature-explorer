@@ -230,6 +230,7 @@
     {
       "xenoCantoId": "1012606",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1012606/download",
       "pageUrl": "https://xeno-canto.org/1012606",
       "recordist": "Stanislas Wroza",
@@ -240,8 +241,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012606/grey-medium.png"
     },
     {
+      "xenoCantoId": "1006771",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1006771/download",
+      "pageUrl": "https://xeno-canto.org/1006771",
+      "recordist": "Rory Nefdt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:57",
+      "location": "Pound Ridge Reservation Lewisboro (near  Cross River), Westchester County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QUBGGKWQNN/1006771/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1002806",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1002806/download",
+      "pageUrl": "https://xeno-canto.org/1002806",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "Hueston Woods SP, Butler Cty, Ohio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1002806/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1045481",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1045481/download",
       "pageUrl": "https://xeno-canto.org/1045481",
       "recordist": "Paul Driver",
@@ -252,8 +280,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/1045481/grey-medium.png"
     },
     {
+      "xenoCantoId": "941144",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/941144/download",
+      "pageUrl": "https://xeno-canto.org/941144",
+      "recordist": "Luis Gomez",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:29",
+      "location": "Cascadas de Don Juan, Jujutla, Ahuachapan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XVXOAVWLVJ/941144/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1012528",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1012528/download",
       "pageUrl": "https://xeno-canto.org/1012528",
       "recordist": "Stanislas Wroza",
@@ -266,5 +308,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Indigo_bunting",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10227"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10227",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Passerina-cyanea"
 }

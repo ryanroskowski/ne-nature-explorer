@@ -160,6 +160,7 @@
     {
       "xenoCantoId": "690765",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/690765/download",
       "pageUrl": "https://xeno-canto.org/690765",
       "recordist": "Joost van Bruggen",
@@ -170,8 +171,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RNMRWBXEZJ/690765/grey-medium.png"
     },
     {
+      "xenoCantoId": "743458",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/743458/download",
+      "pageUrl": "https://xeno-canto.org/743458",
+      "recordist": "Sun Madakan",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "1:16",
+      "location": "University Campus, Maiduguri, Borno",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MVAUXAWNUX/743458/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "499335",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/499335/download",
+      "pageUrl": "https://xeno-canto.org/499335",
+      "recordist": "Bram Piot",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:35",
+      "location": "Réserve naturelle de Popenguine, Thiès",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RGSEIIJGHA/499335/grey-medium.png"
+    },
+    {
       "xenoCantoId": "670225",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/670225/download",
       "pageUrl": "https://xeno-canto.org/670225",
       "recordist": "Joost van Bruggen",
@@ -180,9 +208,23 @@
       "length": "0:17",
       "location": "Tujereng Woodland",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RNMRWBXEZJ/670225/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "396944",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/396944/download",
+      "pageUrl": "https://xeno-canto.org/396944",
+      "recordist": "Étienne Leroy",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Foret classée des Deux Balé",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZWAQHOJFLZ/396944/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_red_bishop",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13966"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13966",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Euplectes-franciscanus"
 }

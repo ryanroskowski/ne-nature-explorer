@@ -252,6 +252,7 @@
     {
       "xenoCantoId": "713307",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/713307/download",
       "pageUrl": "https://xeno-canto.org/713307",
       "recordist": "Lars Edenius",
@@ -262,8 +263,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/713307/grey-medium.png"
     },
     {
+      "xenoCantoId": "710854",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/710854/download",
+      "pageUrl": "https://xeno-canto.org/710854",
+      "recordist": "Dag Österlund",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:38",
+      "location": "Lycksele Municipality, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMSAKXGUCH/710854/grey-medium.png"
+    },
+    {
       "xenoCantoId": "443876",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/443876/download",
       "pageUrl": "https://xeno-canto.org/443876",
       "recordist": "Karl-Birger Strann",
@@ -276,5 +291,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Gyrfalcon",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4657"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4657",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Falco-rusticolus"
 }

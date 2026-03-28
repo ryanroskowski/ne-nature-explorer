@@ -230,20 +230,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1083079",
+      "xenoCantoId": "1027898",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1083079/download",
-      "pageUrl": "https://xeno-canto.org/1083079",
-      "recordist": "Elias A. Ryberg",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1027898/download",
+      "pageUrl": "https://xeno-canto.org/1027898",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:48",
-      "location": "Helgøya, Ringsaker, Hedmark",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFGQDPLDEC/1083079/grey-medium.png"
+      "length": "1:11",
+      "location": "Bogd Kahn, Nalaikh District, Ulaanbaatar",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/1027898/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "899208",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/899208/download",
+      "pageUrl": "https://xeno-canto.org/899208",
+      "recordist": "Geoff Carey",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:50",
+      "location": "Onon, Binder, Khentii",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LBWCUENEBH/899208/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "723977",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/723977/download",
+      "pageUrl": "https://xeno-canto.org/723977",
+      "recordist": "Peter Ertl",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:57",
+      "location": "Reinach, Arlesheim District, Basel-Landschaft",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZGGFYJIGKA/723977/grey-medium.png"
     },
     {
       "xenoCantoId": "1085919",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1085919/download",
       "pageUrl": "https://xeno-canto.org/1085919",
       "recordist": "Petter Westberg",
@@ -254,19 +282,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MBMJEFAYPZ/1085919/grey-medium.png"
     },
     {
-      "xenoCantoId": "936173",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/936173/download",
-      "pageUrl": "https://xeno-canto.org/936173",
-      "recordist": "Stein Ø. Nilsen",
+      "xenoCantoId": "1062520",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1062520/download",
+      "pageUrl": "https://xeno-canto.org/1062520",
+      "recordist": "János Schadl",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:44",
-      "location": "Straumsbukta SNI",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TLPLNAINFU/936173/grey-medium.png"
+      "length": "0:12",
+      "location": "Batumi, Batumi, Adjara",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RNPANUZYMD/1062520/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "899193",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/899193/download",
+      "pageUrl": "https://xeno-canto.org/899193",
+      "recordist": "Geoff Carey",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:57",
+      "location": "Ili, Xinjiang",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LBWCUENEBH/899193/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eurasian_tree_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13851"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13851",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Passer-montanus"
 }

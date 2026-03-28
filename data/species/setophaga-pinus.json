@@ -362,6 +362,7 @@
     {
       "xenoCantoId": "1087126",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1087126/download",
       "pageUrl": "https://xeno-canto.org/1087126",
       "recordist": "Sue Riffe",
@@ -372,19 +373,60 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1087126/grey-medium.png"
     },
     {
-      "xenoCantoId": "1012486",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1012486/download",
-      "pageUrl": "https://xeno-canto.org/1012486",
-      "recordist": "Stanislas Wroza",
+      "xenoCantoId": "1002534",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1002534/download",
+      "pageUrl": "https://xeno-canto.org/1002534",
+      "recordist": "Jan Huus",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:01",
-      "location": "Marie-Victorin / Devant le 10350 (near  Contrecoeur), Montérégie, Quebec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1012486/grey-medium.png"
+      "length": "0:24",
+      "location": "North Grenville (near  Oxford Station), Leeds and Grenville United Counties, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YNOUWOXSQY/1002534/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "963394",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/963394/download",
+      "pageUrl": "https://xeno-canto.org/963394",
+      "recordist": "Hans Matheve",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "ALCOA road",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VROUALCTKG/963394/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "790560",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/790560/download",
+      "pageUrl": "https://xeno-canto.org/790560",
+      "recordist": "Thomas Magarian",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:16",
+      "location": "George Washington NF, Westcott Access, Page County, Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/790560/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "408140",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/408140/download",
+      "pageUrl": "https://xeno-canto.org/408140",
+      "recordist": "William Whitehead",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:39",
+      "location": "Matawan, Middlesex County, New Jersey",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MGVGHKBMIZ/408140/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pine_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145244"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145244",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-pinus"
 }

@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1021265",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1021265/download",
       "pageUrl": "https://xeno-canto.org/1021265",
       "recordist": "Stanislas Wroza",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1021265/grey-medium.png"
     },
     {
+      "xenoCantoId": "1007089",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1007089/download",
+      "pageUrl": "https://xeno-canto.org/1007089",
+      "recordist": "Denis Provencher",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Les Laurentides (near  Gray Valley), Laurentides, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QQHLLSOTCS/1007089/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1001758",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1001758/download",
+      "pageUrl": "https://xeno-canto.org/1001758",
+      "recordist": "Jonathon Jongsma",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:56",
+      "location": "Keewaydin Farms, Richland County, Wisconsin",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OJMFAOUBDU/1001758/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014890",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1014890/download",
       "pageUrl": "https://xeno-canto.org/1014890",
       "recordist": "Stanislas Wroza",
@@ -246,19 +274,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014890/grey-medium.png"
     },
     {
-      "xenoCantoId": "1014900",
+      "xenoCantoId": "682256",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/682256/download",
+      "pageUrl": "https://xeno-canto.org/682256",
+      "recordist": "Paul Driver",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Lower Moreland (near  Huntingdon Valley), Montgomery, Pennsylvania",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/682256/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1014899",
       "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/1014900/download",
-      "pageUrl": "https://xeno-canto.org/1014900",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/1014899/download",
+      "pageUrl": "https://xeno-canto.org/1014899",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:41",
+      "length": "0:57",
       "location": "Québec, Capitale-Nationale, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014900/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014899/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bobolink",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10487"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10487",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Dolichonyx-oryzivorus"
 }

@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1063754",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1063754/download",
       "pageUrl": "https://xeno-canto.org/1063754",
       "recordist": "Lee Alder",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MVBSLTSBUW/1063754/grey-medium.png"
     },
     {
+      "xenoCantoId": "1007386",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1007386/download",
+      "pageUrl": "https://xeno-canto.org/1007386",
+      "recordist": "Francesco Sottile",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:49",
+      "location": "Calopezzati, Provincia di Cosenza, Calabria",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ITHRUQEQCF/1007386/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "945796",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/945796/download",
+      "pageUrl": "https://xeno-canto.org/945796",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:56",
+      "location": "Grystaviken, Trögden, Uppland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/945796/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1085742",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1085742/download",
       "pageUrl": "https://xeno-canto.org/1085742",
       "recordist": "Olli Väisänen",
@@ -244,9 +272,23 @@
       "length": "0:51",
       "location": "Oulu, Oulu, Pohjois-Pohjanmaa",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SANVGXHEAO/1085742/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1029391",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1029391/download",
+      "pageUrl": "https://xeno-canto.org/1029391",
+      "recordist": "João Tomás",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:21",
+      "location": "La Armuña (near  Valdunciel), Salamanca, Castilla y León",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/POVKNQVSGU/1029391/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/European_goldfinch",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9398"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9398",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Carduelis-carduelis"
 }

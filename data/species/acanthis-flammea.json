@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "915221",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/915221/download",
       "pageUrl": "https://xeno-canto.org/915221",
       "recordist": "Thomas Bergman",
@@ -239,20 +240,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YUKZIHHVTY/915221/grey-medium.png"
     },
     {
-      "xenoCantoId": "994347",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/994347/download",
-      "pageUrl": "https://xeno-canto.org/994347",
-      "recordist": "Ray Cooke",
+      "xenoCantoId": "704311",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/704311/download",
+      "pageUrl": "https://xeno-canto.org/704311",
+      "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:23",
-      "location": "Crown Point, Queens County, Prince Edward Island",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EMFMDDVOUG/994347/grey-medium.png"
+      "length": "0:29",
+      "location": "Umeå stad, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/704311/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "535779",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/535779/download",
+      "pageUrl": "https://xeno-canto.org/535779",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:13",
+      "location": "Marly-le-Roi, Yvelines, Île-de-France",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/535779/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "982778",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/982778/download",
+      "pageUrl": "https://xeno-canto.org/982778",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:32",
+      "location": "Heby Municipality, Uppsala län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/982778/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "963197",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/963197/download",
+      "pageUrl": "https://xeno-canto.org/963197",
+      "recordist": "Bill Pyle",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Kodiak, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DUWDSSWZPN/963197/grey-medium.png"
     },
     {
       "xenoCantoId": "448470",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/448470/download",
       "pageUrl": "https://xeno-canto.org/448470",
       "recordist": "Jarek Matusiak",
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_redpoll",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145300"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145300",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Acanthis-flammea"
 }

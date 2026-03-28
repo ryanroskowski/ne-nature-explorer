@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "1082047",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1082047/download",
       "pageUrl": "https://xeno-canto.org/1082047",
       "recordist": "David Darrell-Lambert",
@@ -239,8 +240,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1082047/grey-medium.png"
     },
     {
+      "xenoCantoId": "645989",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/645989/download",
+      "pageUrl": "https://xeno-canto.org/645989",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:35",
+      "location": "Miami Township (near  North Bend), Hamilton County, Ohio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/645989/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "565260",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/565260/download",
+      "pageUrl": "https://xeno-canto.org/565260",
+      "recordist": "Will Sweet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:11",
+      "location": "Cape Cod (near  Mashpee), Barnstable County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BVEAKEMWVN/565260/grey-medium.png"
+    },
+    {
       "xenoCantoId": "749763",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/749763/download",
       "pageUrl": "https://xeno-canto.org/749763",
       "recordist": "Johan Chaves",
@@ -251,8 +279,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XKJTIUSQNM/749763/grey-medium.png"
     },
     {
+      "xenoCantoId": "693795",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/693795/download",
+      "pageUrl": "https://xeno-canto.org/693795",
+      "recordist": "Peter Boesman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Ecoparque Los Besotes, Valledupar, Cesar",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/693795/grey-medium.png"
+    },
+    {
       "xenoCantoId": "569779",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/569779/download",
       "pageUrl": "https://xeno-canto.org/569779",
       "recordist": "Matt Wistrand",
@@ -265,5 +307,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Prothonotary_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10729"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10729",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Protonotaria-citrea"
 }

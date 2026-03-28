@@ -244,6 +244,7 @@
     {
       "xenoCantoId": "1081945",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1081945/download",
       "pageUrl": "https://xeno-canto.org/1081945",
       "recordist": "David Darrell-Lambert",
@@ -254,8 +255,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1081945/grey-medium.png"
     },
     {
+      "xenoCantoId": "1038305",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1038305/download",
+      "pageUrl": "https://xeno-canto.org/1038305",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Williamsburg, Hampshire County, Massachusetts",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1038305/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1015083",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1015083/download",
+      "pageUrl": "https://xeno-canto.org/1015083",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:26",
+      "location": "La Haute-Yamaska (near  Shefford), Estrie, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1015083/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1077973",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1077973/download",
       "pageUrl": "https://xeno-canto.org/1077973",
       "recordist": "steve",
@@ -266,8 +294,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQVHGWMGMC/1077973/grey-medium.png"
     },
     {
+      "xenoCantoId": "1001972",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1001972/download",
+      "pageUrl": "https://xeno-canto.org/1001972",
+      "recordist": "Sue Riffe",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:45",
+      "location": "Natural Bridge SRP, Powell Cty, Kentucky",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1001972/grey-medium.png"
+    },
+    {
       "xenoCantoId": "818031",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/818031/download",
       "pageUrl": "https://xeno-canto.org/818031",
       "recordist": "Bobby Wilcox",
@@ -280,5 +322,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_towhee",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9424"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9424",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pipilo-erythrophthalmus"
 }

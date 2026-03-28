@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1089317",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1089317/download",
       "pageUrl": "https://xeno-canto.org/1089317",
       "recordist": "Olivier SWIFT",
@@ -234,8 +235,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JCPKCBKKAQ/1089317/grey-medium.png"
     },
     {
+      "xenoCantoId": "1088280",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1088280/download",
+      "pageUrl": "https://xeno-canto.org/1088280",
+      "recordist": "Manuel Grosselet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Teotitlán del Valle, Teotitlán del Valle, Oaxaca",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1088280/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1085988",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1085988/download",
+      "pageUrl": "https://xeno-canto.org/1085988",
+      "recordist": "Johannes Worona",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:49",
+      "location": "Berlin-Neukölln",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GIFBPTEXWL/1085988/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1086064",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1086064/download",
       "pageUrl": "https://xeno-canto.org/1086064",
       "recordist": "Cureau Hervé",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BRUWNFYXQF/1086064/grey-medium.png"
     },
     {
+      "xenoCantoId": "1082701",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1082701/download",
+      "pageUrl": "https://xeno-canto.org/1082701",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "Rainham Marshes, London",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1082701/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1049538",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1049538/download",
       "pageUrl": "https://xeno-canto.org/1049538",
       "recordist": "Beatrix Saadi-Varchmin",
@@ -260,5 +302,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/House_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13858"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/13858",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Passer-domesticus"
 }

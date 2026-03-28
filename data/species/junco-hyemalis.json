@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "1083920",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1083920/download",
       "pageUrl": "https://xeno-canto.org/1083920",
       "recordist": "Greg Irving",
@@ -239,8 +240,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1083920/grey-medium.png"
     },
     {
+      "xenoCantoId": "1082015",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1082015/download",
+      "pageUrl": "https://xeno-canto.org/1082015",
+      "recordist": "Manuel Grosselet - Kristine Taylor",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Del Monte Forest, Monterey County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1082015/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1046357",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1046357/download",
+      "pageUrl": "https://xeno-canto.org/1046357",
+      "recordist": "AUDEVARD Aurélien",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Anchorage, Anchorage Municipality, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1046357/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1089479",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1089479/download",
       "pageUrl": "https://xeno-canto.org/1089479",
       "recordist": "Manuel Grosselet",
@@ -251,8 +279,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1089479/grey-medium.png"
     },
     {
+      "xenoCantoId": "1013847",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1013847/download",
+      "pageUrl": "https://xeno-canto.org/1013847",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Stationnement des dunes (near  Tadoussac), Côte-Nord, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013847/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1015051",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1015051/download",
       "pageUrl": "https://xeno-canto.org/1015051",
       "recordist": "Stanislas Wroza",
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Dark-eyed_junco",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10094"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10094",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Junco-hyemalis"
 }

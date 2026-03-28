@@ -215,6 +215,7 @@
     {
       "xenoCantoId": "895245",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/895245/download",
       "pageUrl": "https://xeno-canto.org/895245",
       "recordist": "John A. Middleton Jr.",
@@ -225,8 +226,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JWNQIKQAIE/895245/grey-medium.png"
     },
     {
+      "xenoCantoId": "550485",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/550485/download",
+      "pageUrl": "https://xeno-canto.org/550485",
+      "recordist": "John Middleton",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:46",
+      "location": "Mallory Swamp,  Lafayette County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JWNQIKQAIE/550485/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "24756",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/24756/download",
+      "pageUrl": "https://xeno-canto.org/24756",
+      "recordist": "Nathan Pieplow",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Anahuac National Wildlife Refuge, Texas",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/EKKJJJRDJY/24756/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1083029",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1083029/download",
       "pageUrl": "https://xeno-canto.org/1083029",
       "recordist": "John A. Middleton Jr.",
@@ -237,8 +265,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JWNQIKQAIE/1083029/grey-medium.png"
     },
     {
+      "xenoCantoId": "883172",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/883172/download",
+      "pageUrl": "https://xeno-canto.org/883172",
+      "recordist": "Dany Sloan",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:40",
+      "location": "Blackwater NWR",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XNSUQRGJPZ/883172/grey-medium.png"
+    },
+    {
       "xenoCantoId": "432491",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/432491/download",
       "pageUrl": "https://xeno-canto.org/432491",
       "recordist": "Oscar Johnson",
@@ -251,5 +293,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/King_rail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/367715"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/367715",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Rallus-elegans"
 }

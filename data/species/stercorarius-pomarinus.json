@@ -229,6 +229,7 @@
     {
       "xenoCantoId": "1060884",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1060884/download",
       "pageUrl": "https://xeno-canto.org/1060884",
       "recordist": "Benjamin Drillat",
@@ -239,8 +240,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/1060884/grey-medium.png"
     },
     {
+      "xenoCantoId": "184383",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/184383/download",
+      "pageUrl": "https://xeno-canto.org/184383",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Gaswell Road, Barrow, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/184383/grey-medium.png"
+    },
+    {
       "xenoCantoId": "184384",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/184384/download",
       "pageUrl": "https://xeno-canto.org/184384",
       "recordist": "Andrew Spencer",
@@ -253,5 +268,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pomarine_jaeger",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4491"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4491",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Stercorarius-pomarinus"
 }

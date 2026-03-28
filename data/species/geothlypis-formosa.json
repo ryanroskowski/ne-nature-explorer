@@ -222,6 +222,7 @@
     {
       "xenoCantoId": "1002085",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1002085/download",
       "pageUrl": "https://xeno-canto.org/1002085",
       "recordist": "Sue Riffe",
@@ -232,8 +233,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1002085/grey-medium.png"
     },
     {
+      "xenoCantoId": "860980",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/860980/download",
+      "pageUrl": "https://xeno-canto.org/860980",
+      "recordist": "Dany Sloan",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "G.R. Thompson WMA--Trillium Trail",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XNSUQRGJPZ/860980/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "827876",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/827876/download",
+      "pageUrl": "https://xeno-canto.org/827876",
+      "recordist": "Richard E. Webster",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:35",
+      "location": "McCormack Lake, Mark Twain NF, MO",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/827876/grey-medium.png"
+    },
+    {
       "xenoCantoId": "971331",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/971331/download",
       "pageUrl": "https://xeno-canto.org/971331",
       "recordist": "Étienne Leroy",
@@ -244,8 +272,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZWAQHOJFLZ/971331/grey-medium.png"
     },
     {
+      "xenoCantoId": "964455",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/964455/download",
+      "pageUrl": "https://xeno-canto.org/964455",
+      "recordist": "Bill Pyle",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:23",
+      "location": "Reserva de la Biosfera Calakmul--Hotel Puerta Calakmul, Calakmul, Campeche",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DUWDSSWZPN/964455/grey-medium.png"
+    },
+    {
       "xenoCantoId": "880414",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/880414/download",
       "pageUrl": "https://xeno-canto.org/880414",
       "recordist": "András Schmidt",
@@ -258,5 +300,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Kentucky_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145225"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145225",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Geothlypis-formosa"
 }

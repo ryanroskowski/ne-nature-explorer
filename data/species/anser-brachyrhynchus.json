@@ -267,6 +267,7 @@
     {
       "xenoCantoId": "379030",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/379030/download",
       "pageUrl": "https://xeno-canto.org/379030",
       "recordist": "Stein Ø. Nilsen",
@@ -279,6 +280,7 @@
     {
       "xenoCantoId": "1091100",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1091100/download",
       "pageUrl": "https://xeno-canto.org/1091100",
       "recordist": "Hannu Varkki",
@@ -289,8 +291,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XDCPMYMSWN/1091100/grey-medium.png"
     },
     {
+      "xenoCantoId": "1091034",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1091034/download",
+      "pageUrl": "https://xeno-canto.org/1091034",
+      "recordist": "Mark James Pearson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:18",
+      "location": "Wigginton, York, England",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PDMQHRJMYN/1091034/grey-medium.png"
+    },
+    {
       "xenoCantoId": "479228",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/479228/download",
       "pageUrl": "https://xeno-canto.org/479228",
       "recordist": "Stanislas Wroza",
@@ -303,5 +319,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pink-footed_goose",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7007"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7007",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anser-brachyrhynchus"
 }

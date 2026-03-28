@@ -260,6 +260,7 @@
     {
       "xenoCantoId": "1075288",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1075288/download",
       "pageUrl": "https://xeno-canto.org/1075288",
       "recordist": "Stanislas Wroza",
@@ -270,8 +271,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1075288/grey-medium.png"
     },
     {
+      "xenoCantoId": "115060",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/115060/download",
+      "pageUrl": "https://xeno-canto.org/115060",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "2:50",
+      "location": "Middle Vistula, Tarchomin, Warsaw",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/115060/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1074156",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1074156/download",
       "pageUrl": "https://xeno-canto.org/1074156",
       "recordist": "András Schmidt",
@@ -282,8 +297,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WMHNJNGJCW/1074156/grey-medium.png"
     },
     {
+      "xenoCantoId": "1052458",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1052458/download",
+      "pageUrl": "https://xeno-canto.org/1052458",
+      "recordist": "Romuald Mikusek",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:35",
+      "location": "Gmina Przemków (near  Przemków), polkowicki, Dolnośląskie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BLMSIUFTFU/1052458/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1041613",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1041613/download",
       "pageUrl": "https://xeno-canto.org/1041613",
       "recordist": "Christian Kerihuel",
@@ -296,5 +325,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Mute_swan",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6921"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/6921",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Cygnus-olor"
 }

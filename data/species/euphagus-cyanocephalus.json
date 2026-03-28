@@ -182,20 +182,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "764039",
+      "xenoCantoId": "749858",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/764039/download",
-      "pageUrl": "https://xeno-canto.org/764039",
-      "recordist": "Richard E. Webster",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/749858/download",
+      "pageUrl": "https://xeno-canto.org/749858",
+      "recordist": "Paul Marvin",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "4:08",
-      "location": "Las Cienegas National Conservation Area (Empire Gulch), Pima County, Arizona",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/764039/grey-medium.png"
+      "length": "0:48",
+      "location": "Harriet Rd, Plumas County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/749858/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "611821",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/611821/download",
+      "pageUrl": "https://xeno-canto.org/611821",
+      "recordist": "Whitney Neufeld-Kaiser",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Goldendale, Klickitat County, Washington",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CQLSWYNMJK/611821/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "363344",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/363344/download",
+      "pageUrl": "https://xeno-canto.org/363344",
+      "recordist": "Kristie Nelson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:33",
+      "location": "Dechambeau Creek, NW Mono Basin, Mono County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZOVSPYXEBR/363344/grey-medium.png"
     },
     {
       "xenoCantoId": "1040465",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1040465/download",
       "pageUrl": "https://xeno-canto.org/1040465",
       "recordist": "Greg Irving",
@@ -206,8 +234,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YWRKFXUDUR/1040465/grey-medium.png"
     },
     {
+      "xenoCantoId": "482279",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/482279/download",
+      "pageUrl": "https://xeno-canto.org/482279",
+      "recordist": "Ed Pandolfino",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:32",
+      "location": "Rye Patch Inlet, Pershing County, Nevada",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/482279/grey-medium.png"
+    },
+    {
       "xenoCantoId": "325225",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/325225/download",
       "pageUrl": "https://xeno-canto.org/325225",
       "recordist": "James Bradley",
@@ -220,5 +262,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Brewer's_blackbird",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10325"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10325",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Euphagus-cyanocephalus"
 }

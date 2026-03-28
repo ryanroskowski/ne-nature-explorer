@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1067625",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1067625/download",
       "pageUrl": "https://xeno-canto.org/1067625",
       "recordist": "Pedro Rinaldi",
@@ -236,6 +237,7 @@
     {
       "xenoCantoId": "1089417",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1089417/download",
       "pageUrl": "https://xeno-canto.org/1089417",
       "recordist": "Thierry THOMAS",
@@ -246,8 +248,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JDDHNKDHCS/1089417/grey-medium.png"
     },
     {
+      "xenoCantoId": "1073125",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1073125/download",
+      "pageUrl": "https://xeno-canto.org/1073125",
+      "recordist": "Pere Josa",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:12",
+      "location": "Baix Ebre (near  Deltebre), Tarragona, Catalunya",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DMQLDFORTG/1073125/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1076925",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1076925/download",
       "pageUrl": "https://xeno-canto.org/1076925",
       "recordist": "Lionel FREDERIC",
@@ -260,5 +276,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-crowned_night_heron",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4981"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4981",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Nycticorax-nycticorax"
 }

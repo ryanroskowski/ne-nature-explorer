@@ -222,20 +222,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1084539",
+      "xenoCantoId": "1084537",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1084539/download",
-      "pageUrl": "https://xeno-canto.org/1084539",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1084537/download",
+      "pageUrl": "https://xeno-canto.org/1084537",
       "recordist": "Manuel Grosselet",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:55",
+      "length": "1:29",
       "location": "Colonia Yanashi, San Jerónimo Tlacochahuaya, Oaxaca",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1084539/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ILUHRFXDNU/1084537/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1036324",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1036324/download",
+      "pageUrl": "https://xeno-canto.org/1036324",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:58",
+      "location": "Tama (near  Burlington), Des Moines, Iowa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1036324/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1004580",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1004580/download",
+      "pageUrl": "https://xeno-canto.org/1004580",
+      "recordist": "Ed Pandolfino",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:31",
+      "location": "11 Pines Rd, Placer County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/1004580/grey-medium.png"
     },
     {
       "xenoCantoId": "1029357",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1029357/download",
       "pageUrl": "https://xeno-canto.org/1029357",
       "recordist": "Don Profota",
@@ -246,8 +274,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UTLXKPYDDK/1029357/grey-medium.png"
     },
     {
+      "xenoCantoId": "483017",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/483017/download",
+      "pageUrl": "https://xeno-canto.org/483017",
+      "recordist": "Bruce Lagerquist",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:31",
+      "location": "Page Springs, Harney County, Oregon",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/483017/grey-medium.png"
+    },
+    {
       "xenoCantoId": "531200",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/531200/download",
       "pageUrl": "https://xeno-canto.org/531200",
       "recordist": "Isain Contreras Rodríguez",
@@ -260,5 +302,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lark_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10479"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10479",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Chondestes-grammacus"
 }

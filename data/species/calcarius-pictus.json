@@ -237,31 +237,73 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "356214",
+      "xenoCantoId": "356212",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/356214/download",
-      "pageUrl": "https://xeno-canto.org/356214",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/356212/download",
+      "pageUrl": "https://xeno-canto.org/356212",
       "recordist": "Frank Lambert",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "quality": "A",
-      "length": "0:04",
+      "length": "0:57",
       "location": "Denali Highway MP17-71 (nr\tMaclaran River), Matanuska-Susitna, Alaska",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/356214/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YTUXOCTUEM/356212/grey-medium.png"
     },
     {
-      "xenoCantoId": "181811",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/181811/download",
-      "pageUrl": "https://xeno-canto.org/181811",
+      "xenoCantoId": "181807",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/181807/download",
+      "pageUrl": "https://xeno-canto.org/181807",
       "recordist": "Andrew Spencer",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "1:44",
+      "length": "0:12",
       "location": "Dempster Highway KM 449, Yukon",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/181811/grey-medium.png"
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/181807/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "70076",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/70076/download",
+      "pageUrl": "https://xeno-canto.org/70076",
+      "recordist": "Paul Driver",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "1:03",
+      "location": "Dalton Highway n of Brooks range",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/70076/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "181810",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/181810/download",
+      "pageUrl": "https://xeno-canto.org/181810",
+      "recordist": "Andrew Spencer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Dempster Highway KM 449, Yukon",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/CDTGHVBGZP/181810/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "38450",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/38450/download",
+      "pageUrl": "https://xeno-canto.org/38450",
+      "recordist": "Bill Evans",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Bartlesville, Oklahoma",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AVFXNRPQOJ/38450/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Smith's_longspur",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/116841"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/116841",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calcarius-pictus"
 }

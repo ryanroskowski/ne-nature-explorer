@@ -237,6 +237,7 @@
     {
       "xenoCantoId": "1087131",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1087131/download",
       "pageUrl": "https://xeno-canto.org/1087131",
       "recordist": "Sue Riffe",
@@ -247,8 +248,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVQOLRXXWL/1087131/grey-medium.png"
     },
     {
+      "xenoCantoId": "1081957",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1081957/download",
+      "pageUrl": "https://xeno-canto.org/1081957",
+      "recordist": "David Darrell-Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Point Pelee National Park, Essex County, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1081957/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1036522",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1036522/download",
+      "pageUrl": "https://xeno-canto.org/1036522",
+      "recordist": "Bobby Wilcox",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:07",
+      "location": "Tama (near  Burlington), Des Moines, Iowa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YHKQPPJDVP/1036522/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1017884",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1017884/download",
       "pageUrl": "https://xeno-canto.org/1017884",
       "recordist": "Stanislas Wroza",
@@ -259,8 +287,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1017884/grey-medium.png"
     },
     {
+      "xenoCantoId": "880228",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/880228/download",
+      "pageUrl": "https://xeno-canto.org/880228",
+      "recordist": "Peter Boesman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Santa Ana, Petén",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OOECIWCSWV/880228/grey-medium.png"
+    },
+    {
       "xenoCantoId": "375343",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/375343/download",
       "pageUrl": "https://xeno-canto.org/375343",
       "recordist": "Matt Wistrand",
@@ -273,5 +315,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Rose-breasted_grosbeak",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10271"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10271",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pheucticus-ludovicianus"
 }

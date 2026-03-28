@@ -363,20 +363,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1018265",
+      "xenoCantoId": "893266",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1018265/download",
-      "pageUrl": "https://xeno-canto.org/1018265",
-      "recordist": "David Liebl",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/893266/download",
+      "pageUrl": "https://xeno-canto.org/893266",
+      "recordist": "Brian Henderson",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "6:29",
-      "location": "Sylvan Ave. Madison, Dane County, Wisconsin",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/INPGVTLEAL/1018265/grey-medium.png"
+      "length": "0:39",
+      "location": "SGL 236, Herrick Township (near  Union Dale), Susquehanna County, Pennsylvania",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XOTIPGMSLK/893266/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "866016",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/866016/download",
+      "pageUrl": "https://xeno-canto.org/866016",
+      "recordist": "Dany Sloan",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Little Bennett Regional Park--Wilson Mill Trail",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XNSUQRGJPZ/866016/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "845664",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/845664/download",
+      "pageUrl": "https://xeno-canto.org/845664",
+      "recordist": "Thomas Magarian",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:38",
+      "location": "GWNF, Road 374, Shenandoah County, Virginia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GVVNEJJEGA/845664/grey-medium.png"
     },
     {
       "xenoCantoId": "729713",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/729713/download",
       "pageUrl": "https://xeno-canto.org/729713",
       "recordist": "Jorge de Leon Cardozo",
@@ -385,9 +413,23 @@
       "length": "0:47",
       "location": "Tillinghast Pond Management Area (near  West Greenwich), Kent County, Rhode Island",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RHARFLKISN/729713/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "192535",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/192535/download",
+      "pageUrl": "https://xeno-canto.org/192535",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:18",
+      "location": "Scrub Ridge Trail, Merritt Island NWR, Brevard County, Florida",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/192535/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Prairie_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145249"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145249",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-discolor"
 }

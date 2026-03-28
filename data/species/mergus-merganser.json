@@ -227,37 +227,79 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "709843",
+      "xenoCantoId": "96430",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/709843/download",
-      "pageUrl": "https://xeno-canto.org/709843",
-      "recordist": "Jens Kirkeby",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/96430/download",
+      "pageUrl": "https://xeno-canto.org/96430",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
       "quality": "A",
-      "length": "3:13",
-      "location": "Lindholm Hoved, Ry, Skanderborg Municipality, Central Denmark Region",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YKITMEIRRE/709843/grey-medium.png"
+      "length": "1:30",
+      "location": "Nature reserve  Wkra River",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/96430/grey-medium.png"
     },
     {
-      "xenoCantoId": "1084066",
+      "xenoCantoId": "846024",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/846024/download",
+      "pageUrl": "https://xeno-canto.org/846024",
+      "recordist": "Johannes Dag Mayer",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:10",
+      "location": "Suedsee, Laupheim, Biberach, Tübingen, Baden-Württemberg",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSRIXWWDUQ/846024/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "835446",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/835446/download",
+      "pageUrl": "https://xeno-canto.org/835446",
+      "recordist": "Hannu Varkki",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:54",
+      "location": "Kallvik, Helsinki, Uusimaa",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XDCPMYMSWN/835446/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "658946",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1084066/download",
-      "pageUrl": "https://xeno-canto.org/1084066",
-      "recordist": "David Darrell-Lambert",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/658946/download",
+      "pageUrl": "https://xeno-canto.org/658946",
+      "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "Abberton Reservoir, Essex, England",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1084066/grey-medium.png"
+      "length": "0:15",
+      "location": "Holmö by, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/658946/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "112807",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/112807/download",
+      "pageUrl": "https://xeno-canto.org/112807",
+      "recordist": "Patrik Åberg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Granvik, Karlsborg Västra götaland",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BPSDQEOJWG/112807/grey-medium.png"
     },
     {
       "xenoCantoId": "733125",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/733125/download",
       "pageUrl": "https://xeno-canto.org/733125",
       "recordist": "Lars Edenius",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "quality": "A",
+      "quality": "B",
       "length": "0:10",
       "location": "Vitskärsudden, Västerbottens län",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/733125/grey-medium.png"
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_merganser",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7004"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7004",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Mergus-merganser"
 }

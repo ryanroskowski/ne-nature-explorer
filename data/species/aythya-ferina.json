@@ -227,6 +227,7 @@
     {
       "xenoCantoId": "797798",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/797798/download",
       "pageUrl": "https://xeno-canto.org/797798",
       "recordist": "Alan Dalton",
@@ -237,8 +238,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BBJSEFYVPV/797798/grey-medium.png"
     },
     {
+      "xenoCantoId": "770645",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/770645/download",
+      "pageUrl": "https://xeno-canto.org/770645",
+      "recordist": "Chèvremont Fabian",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:27",
+      "location": "Réserve Naturelle Du Haut Geer (near  Geer), Liège, Wallonie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VQKRAEESLX/770645/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "609403",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/609403/download",
+      "pageUrl": "https://xeno-canto.org/609403",
+      "recordist": "Jarek Matusiak",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Gmina Cyców , łęczyński, Lubelskie",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZNCDXTUOFL/609403/grey-medium.png"
+    },
+    {
       "xenoCantoId": "994666",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/994666/download",
       "pageUrl": "https://xeno-canto.org/994666",
       "recordist": "David Darrell-Lambert",
@@ -249,19 +277,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/994666/grey-medium.png"
     },
     {
-      "xenoCantoId": "991857",
-      "type": "alarm",
-      "audioUrl": "https://xeno-canto.org/991857/download",
-      "pageUrl": "https://xeno-canto.org/991857",
-      "recordist": "Noé Ferrari",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "xenoCantoId": "993069",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/993069/download",
+      "pageUrl": "https://xeno-canto.org/993069",
+      "recordist": "Maurizio Sighele (maudoc)",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:09",
-      "location": "Arrondissement d'Abbeville (near  Abbeville), Somme, Hauts-de-France",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WKQSYENQLL/991857/grey-medium.png"
+      "length": "0:20",
+      "location": "Isola di Albarella",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OUALYKRAJY/993069/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "484891",
+      "type": "alarm",
+      "label": "Alarm",
+      "audioUrl": "https://xeno-canto.org/484891/download",
+      "pageUrl": "https://xeno-canto.org/484891",
+      "recordist": "Stanislas Wroza",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Trappes, Yvelines, Île-de-France",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/484891/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_pochard",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7045"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/7045",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Aythya-ferina"
 }

@@ -199,6 +199,7 @@
     {
       "xenoCantoId": "804831",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/804831/download",
       "pageUrl": "https://xeno-canto.org/804831",
       "recordist": "Uku Paal",
@@ -209,8 +210,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/XIBLXHRPJO/804831/grey-medium.png"
     },
     {
+      "xenoCantoId": "686589",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/686589/download",
+      "pageUrl": "https://xeno-canto.org/686589",
+      "recordist": "Niels Van Doninck",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Sandvika, Lierne, Trøndelag",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MHVQXRLBKS/686589/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "635633",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/635633/download",
+      "pageUrl": "https://xeno-canto.org/635633",
+      "recordist": "Jozef van der Heijden",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:47",
+      "location": "Hulsel, Reusel-de Mierden, Noord-Brabant",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WUWGNRFTFF/635633/grey-medium.png"
+    },
+    {
       "xenoCantoId": "972709",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/972709/download",
       "pageUrl": "https://xeno-canto.org/972709",
       "recordist": "Beatrix Saadi-Varchmin",
@@ -221,8 +249,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/OQZFKFTAKD/972709/grey-medium.png"
     },
     {
+      "xenoCantoId": "969023",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/969023/download",
+      "pageUrl": "https://xeno-canto.org/969023",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "1:14",
+      "location": "Eldgarnsö, Stockholms län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/969023/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1087166",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1087166/download",
       "pageUrl": "https://xeno-canto.org/1087166",
       "recordist": "Kalle Nibbenhagen",
@@ -235,5 +277,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Fieldfare",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12707"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/12707",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Turdus-pilaris"
 }

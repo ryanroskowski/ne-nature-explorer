@@ -237,6 +237,7 @@
     {
       "xenoCantoId": "941395",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/941395/download",
       "pageUrl": "https://xeno-canto.org/941395",
       "recordist": "Richard E. Webster",
@@ -247,8 +248,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KZYUWIRZVH/941395/grey-medium.png"
     },
     {
+      "xenoCantoId": "898665",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/898665/download",
+      "pageUrl": "https://xeno-canto.org/898665",
+      "recordist": "Ed Pandolfino",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:53",
+      "location": "Sand Creek Rd, Colusa County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/898665/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "780885",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/780885/download",
+      "pageUrl": "https://xeno-canto.org/780885",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:07",
+      "location": "W Brown Bear Canyon Rd, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/780885/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1002897",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1002897/download",
       "pageUrl": "https://xeno-canto.org/1002897",
       "recordist": "Ed Pandolfino",
@@ -259,8 +287,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/1002897/grey-medium.png"
     },
     {
+      "xenoCantoId": "999624",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/999624/download",
+      "pageUrl": "https://xeno-canto.org/999624",
+      "recordist": "Scott Crabtree",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Tucson, Pima County, Arizona",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZQJCLMBULK/999624/grey-medium.png"
+    },
+    {
       "xenoCantoId": "585864",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/585864/download",
       "pageUrl": "https://xeno-canto.org/585864",
       "recordist": "Michael Morrison",
@@ -273,5 +315,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ash-throated_flycatcher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16010"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/16010",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Myiarchus-cinerascens"
 }

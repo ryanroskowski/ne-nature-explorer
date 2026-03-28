@@ -325,6 +325,7 @@
     {
       "xenoCantoId": "1060881",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1060881/download",
       "pageUrl": "https://xeno-canto.org/1060881",
       "recordist": "Benjamin Drillat",
@@ -335,20 +336,61 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/1060881/grey-medium.png"
     },
     {
-      "xenoCantoId": "1084180",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1084180/download",
-      "pageUrl": "https://xeno-canto.org/1084180",
-      "recordist": "Le Louaver Manuel",
+      "xenoCantoId": "1045847",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1045847/download",
+      "pageUrl": "https://xeno-canto.org/1045847",
+      "recordist": "AUDEVARD Aurélien",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:07",
-      "location": "Arrondissement de Bayeux (near  Grandcamp-Maisy), Calvados, Normandy",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KXVLIPGDTC/1084180/grey-medium.png"
+      "length": "0:10",
+      "location": "Utqiagvik, North Slope, Barrow, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YPDXKAZUZN/1045847/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1011583",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1011583/download",
+      "pageUrl": "https://xeno-canto.org/1011583",
+      "recordist": "Ulf Elman",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:54",
+      "location": "Flatruet, Härjedalen, Jämtlands län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LKSFUYYSUK/1011583/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "845733",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/845733/download",
+      "pageUrl": "https://xeno-canto.org/845733",
+      "recordist": "Jacobo Ramil Millarengo",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:27",
+      "location": "Marisma de O Bao, O Grove, Pontevedra, Galicia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LHCOINSOBZ/845733/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "714666",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/714666/download",
+      "pageUrl": "https://xeno-canto.org/714666",
+      "recordist": "Ray Tsu 诸仁",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "Fengxian Wetlands, Shanghai",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FROVFAFTMA/714666/grey-medium.png"
     },
     {
       "xenoCantoId": "448303",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/448303/download",
       "pageUrl": "https://xeno-canto.org/448303",
       "recordist": "Manuel Grosselet",
@@ -361,5 +403,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Dunlin",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3857"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/3857",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-alpina"
 }

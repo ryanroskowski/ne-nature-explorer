@@ -198,32 +198,74 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "898562",
+      "xenoCantoId": "788209",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/898562/download",
-      "pageUrl": "https://xeno-canto.org/898562",
-      "recordist": "Jens Kirkeby",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/788209/download",
+      "pageUrl": "https://xeno-canto.org/788209",
+      "recordist": "Paul Kelly",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "5:11",
-      "location": "Hirsholmene, Frederikshavn, Frederikshavn Municipality",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YKITMEIRRE/898562/grey-medium.png"
+      "length": "0:23",
+      "location": "Clogherhead, Louth, County Louth",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WBZVBDKAUE/788209/grey-medium.png"
     },
     {
-      "xenoCantoId": "1023555",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/1023555/download",
-      "pageUrl": "https://xeno-canto.org/1023555",
-      "recordist": "Anthony McGeehan ",
+      "xenoCantoId": "729676",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/729676/download",
+      "pageUrl": "https://xeno-canto.org/729676",
+      "recordist": "Manuel Tacke",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:10",
-      "location": "Groomsport, Ards and North Down, Northern Ireland",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TYEQKORVXJ/1023555/grey-medium.png"
+      "length": "0:31",
+      "location": "Hirsholmene, Frederikshavn",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/KCXYVLQJCE/729676/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "729660",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/729660/download",
+      "pageUrl": "https://xeno-canto.org/729660",
+      "recordist": "Simon S. Christiansen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:41",
+      "location": "Hirsholm, Frederikshavn Municipality, North Denmark Region",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YNUCLEIZAR/729660/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1010748",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1010748/download",
+      "pageUrl": "https://xeno-canto.org/1010748",
+      "recordist": "Benjamin Drillat",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:45",
+      "location": "Utqiagvik, North Slope Borough, Alaska",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TVVXDBKYFX/1010748/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "546022",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/546022/download",
+      "pageUrl": "https://xeno-canto.org/546022",
+      "recordist": "Lars Edenius",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:48",
+      "location": "Lövöbådan, Västerbottens län",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MMEJYLOPDO/546022/grey-medium.png"
     },
     {
       "xenoCantoId": "343131",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/343131/download",
       "pageUrl": "https://xeno-canto.org/343131",
       "recordist": "Tero Linjama",
@@ -236,5 +278,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black_guillemot",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4418"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4418",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Cepphus-grylle"
 }

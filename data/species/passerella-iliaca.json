@@ -227,20 +227,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1014683",
+      "xenoCantoId": "1014511",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1014683/download",
-      "pageUrl": "https://xeno-canto.org/1014683",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1014511/download",
+      "pageUrl": "https://xeno-canto.org/1014511",
       "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "2:18",
-      "location": "La Côte-de-Beaupré (near  La Barrière-du-Maurice), Capitale-Nationale, Québec",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014683/grey-medium.png"
+      "length": "1:23",
+      "location": "Le Fjord-du-Saguenay Regional County Municipality (near  Saint-Fulgence), Saguenay–Lac-Saint-Jean, Quebec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014511/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "771266",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/771266/download",
+      "pageUrl": "https://xeno-canto.org/771266",
+      "recordist": "Paul Driver",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:15",
+      "location": "Upper Moreland Township (near  Bryn Athyn), Montgomery County, Pennsylvania",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/771266/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "686536",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/686536/download",
+      "pageUrl": "https://xeno-canto.org/686536",
+      "recordist": "Aziza Cooper",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:24",
+      "location": "Vancouver Island (near  Victoria), Capital, British Columbia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BUVUYBLKOZ/686536/grey-medium.png"
     },
     {
       "xenoCantoId": "1071126",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1071126/download",
       "pageUrl": "https://xeno-canto.org/1071126",
       "recordist": "Noah Khanti Steinberg",
@@ -251,8 +279,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JIPOTLQRRH/1071126/grey-medium.png"
     },
     {
+      "xenoCantoId": "940382",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/940382/download",
+      "pageUrl": "https://xeno-canto.org/940382",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:19",
+      "location": "Fairbanks Township (near  Fairport), Delta County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/940382/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1014680",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1014680/download",
       "pageUrl": "https://xeno-canto.org/1014680",
       "recordist": "Stanislas Wroza",
@@ -265,5 +307,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Fox_sparrow",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9156"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/9156",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Passerella-iliaca"
 }

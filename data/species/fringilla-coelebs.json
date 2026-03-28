@@ -158,20 +158,48 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1091253",
+      "xenoCantoId": "1091731",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1091253/download",
-      "pageUrl": "https://xeno-canto.org/1091253",
-      "recordist": "Christian Bøggild",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1091731/download",
+      "pageUrl": "https://xeno-canto.org/1091731",
+      "recordist": "Bird Voices Collection (BVC)",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "4:09",
-      "location": "Viborg, Viborg Municipality, Central Denmark Region",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DJPZGYTAWH/1091253/grey-medium.png"
+      "length": "0:33",
+      "location": "Vochkivtsi, Volochys'kyi district, Khmelnytskyi Oblast",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/QIUOHGLLRX/1091731/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1091209",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1091209/download",
+      "pageUrl": "https://xeno-canto.org/1091209",
+      "recordist": "João Ferreira Tomás",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:42",
+      "location": "Tierra de Tábara (near  Tábara), Zamora, Castile and León",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/POVKNQVSGU/1091209/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1090760",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/1090760/download",
+      "pageUrl": "https://xeno-canto.org/1090760",
+      "recordist": "Olivier SWIFT",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Arrondissement de Vannes (near  Monteneuf), Morbihan, Brittany",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JCPKCBKKAQ/1090760/grey-medium.png"
     },
     {
       "xenoCantoId": "1091308",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1091308/download",
       "pageUrl": "https://xeno-canto.org/1091308",
       "recordist": "Marcos Prada Arias",
@@ -180,9 +208,23 @@
       "length": "0:13",
       "location": "El Bierzo (near  Burbia), León, Castilla y León",
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RJFVTGKCBN/1091308/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1091120",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1091120/download",
+      "pageUrl": "https://xeno-canto.org/1091120",
+      "recordist": "Joost van Bruggen",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:30",
+      "location": "Punic Necropolis of Jebel Sidi Latrach, Tunisia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RNMRWBXEZJ/1091120/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_chaffinch",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10070"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/10070",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Fringilla-coelebs"
 }

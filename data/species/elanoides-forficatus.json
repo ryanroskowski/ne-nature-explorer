@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "1045031",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1045031/download",
       "pageUrl": "https://xeno-canto.org/1045031",
       "recordist": "JAYRSON ARAUJO DE OLIVEIRA",
@@ -234,19 +235,60 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/LXKLWEDKEM/1045031/grey-medium.png"
     },
     {
-      "xenoCantoId": "712982",
-      "type": "call",
-      "audioUrl": "https://xeno-canto.org/712982/download",
-      "pageUrl": "https://xeno-canto.org/712982",
-      "recordist": "Bruce Lagerquist",
+      "xenoCantoId": "844661",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/844661/download",
+      "pageUrl": "https://xeno-canto.org/844661",
+      "recordist": "Mateus Gonçalves Santos",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Fort Drum Marsh, Indian River County, Florida",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JHFICMRVUX/712982/grey-medium.png"
+      "length": "0:11",
+      "location": "Serra do Arrepio",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/PVWSUUVNDA/844661/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "545454",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/545454/download",
+      "pageUrl": "https://xeno-canto.org/545454",
+      "recordist": "Nunes-de-Almeida",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:04",
+      "location": "Mindo, Pichincha",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RREYPEYNGN/545454/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "636933",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/636933/download",
+      "pageUrl": "https://xeno-canto.org/636933",
+      "recordist": "Felipe Arantes",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:43",
+      "location": "Saracá Taquera National Forest,  State of Pará",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AKHCFQUKLZ/636933/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "569277",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/569277/download",
+      "pageUrl": "https://xeno-canto.org/569277",
+      "recordist": "Mauricio Cuellar Ramirez (@Birding.travel)",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Florencia, Caquetá",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JAPOPUHKWS/569277/grey-medium.png"
     }
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Swallow-tailed_kite",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5301"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/5301",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Elanoides-forficatus"
 }

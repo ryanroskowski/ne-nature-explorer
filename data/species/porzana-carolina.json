@@ -208,6 +208,7 @@
     {
       "xenoCantoId": "1017381",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1017381/download",
       "pageUrl": "https://xeno-canto.org/1017381",
       "recordist": "David Darrell-Lambert",
@@ -218,8 +219,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1017381/grey-medium.png"
     },
     {
+      "xenoCantoId": "904792",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/904792/download",
+      "pageUrl": "https://xeno-canto.org/904792",
+      "recordist": "Valerie Heemstra",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:17",
+      "location": "Wells Township (near  Escanaba), Delta County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ZEFHZHEMLK/904792/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "803839",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/803839/download",
+      "pageUrl": "https://xeno-canto.org/803839",
+      "recordist": "David Tattersley",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:11",
+      "location": "Municipality Of Northern Bruce Peninsula (near  Miller Lake), Bruce County, Ontario",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MLFEJSNPJS/803839/grey-medium.png"
+    },
+    {
       "xenoCantoId": "949166",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/949166/download",
       "pageUrl": "https://xeno-canto.org/949166",
       "recordist": "Ed Pandolfino",
@@ -230,8 +258,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FVNPWGEQCT/949166/grey-medium.png"
     },
     {
+      "xenoCantoId": "939374",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/939374/download",
+      "pageUrl": "https://xeno-canto.org/939374",
+      "recordist": "Paul Marvin",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:26",
+      "location": "Proctor Valley Rd, San Diego County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RFTXRYBVBX/939374/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1013397",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1013397/download",
       "pageUrl": "https://xeno-canto.org/1013397",
       "recordist": "Stanislas Wroza",
@@ -244,5 +286,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sora_(bird)",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/162"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/162",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Porzana-carolina"
 }

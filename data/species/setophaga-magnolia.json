@@ -341,6 +341,7 @@
     {
       "xenoCantoId": "1014780",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/1014780/download",
       "pageUrl": "https://xeno-canto.org/1014780",
       "recordist": "Stanislas Wroza",
@@ -351,8 +352,35 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1014780/grey-medium.png"
     },
     {
+      "xenoCantoId": "1007638",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1007638/download",
+      "pageUrl": "https://xeno-canto.org/1007638",
+      "recordist": "David A. Brinkman",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:37",
+      "location": "Michigamme Township (near  Champion), Marquette County, Michigan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/IUWJMMZJNL/1007638/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "915936",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/915936/download",
+      "pageUrl": "https://xeno-canto.org/915936",
+      "recordist": "Meena Haribal",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:56",
+      "location": "Black Brook (near  Au Sable Forks), Clinton County, New York",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/RBYDYNRSJV/915936/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1076780",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1076780/download",
       "pageUrl": "https://xeno-canto.org/1076780",
       "recordist": "Max Noack",
@@ -363,8 +391,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/NYTGVXSILH/1076780/grey-medium.png"
     },
     {
+      "xenoCantoId": "964446",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/964446/download",
+      "pageUrl": "https://xeno-canto.org/964446",
+      "recordist": "Bill Pyle",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:01",
+      "location": "Reserva de la Biosfera Calakmul--Zona Arqueológica de Calakmul, Campeche",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/DUWDSSWZPN/964446/grey-medium.png"
+    },
+    {
       "xenoCantoId": "1013987",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/1013987/download",
       "pageUrl": "https://xeno-canto.org/1013987",
       "recordist": "Stanislas Wroza",
@@ -377,5 +419,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Magnolia_warbler",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145235"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/145235",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Setophaga-magnolia"
 }

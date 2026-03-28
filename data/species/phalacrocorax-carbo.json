@@ -227,20 +227,35 @@
   "relatedSpecies": [],
   "audio": [
     {
-      "xenoCantoId": "1087149",
+      "xenoCantoId": "1086555",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/1087149/download",
-      "pageUrl": "https://xeno-canto.org/1087149",
-      "recordist": "Jorge Leitão",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/1086555/download",
+      "pageUrl": "https://xeno-canto.org/1086555",
+      "recordist": "David Darrell-Lambert",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:03",
-      "location": "Praia Fluvial de Merelim (São Paio), Braga, Braga",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/GYAUIPUVNM/1087149/grey-medium.png"
+      "length": "0:24",
+      "location": "Walthamstow Reservoirs, London",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/AYKHDFBYIH/1086555/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "1074338",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/1074338/download",
+      "pageUrl": "https://xeno-canto.org/1074338",
+      "recordist": "András Schmidt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:47",
+      "location": "Zalavár, Keszthely District, Zala County",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WMHNJNGJCW/1074338/grey-medium.png"
     },
     {
       "xenoCantoId": "801047",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/801047/download",
       "pageUrl": "https://xeno-canto.org/801047",
       "recordist": "Francesco Barberini",
@@ -253,5 +268,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Great_cormorant",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4270"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4270",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Phalacrocorax-carbo"
 }

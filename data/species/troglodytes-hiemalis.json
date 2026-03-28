@@ -230,20 +230,48 @@
   ],
   "audio": [
     {
-      "xenoCantoId": "1015166",
+      "xenoCantoId": "1013174",
       "type": "song",
-      "audioUrl": "https://xeno-canto.org/1015166/download",
-      "pageUrl": "https://xeno-canto.org/1015166",
-      "recordist": "Melissa Hafting",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1013174/download",
+      "pageUrl": "https://xeno-canto.org/1013174",
+      "recordist": "Stanislas Wroza",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:08",
-      "location": "St. John's, Newfoundland and Labrador",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/YVLRGYZEZE/1015166/grey-medium.png"
+      "length": "1:21",
+      "location": "Réserve nationale de faune du cap Tourmente, La Côte-de-Beaupré, Québec",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SDPCHKOHRH/1013174/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "959511",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/959511/download",
+      "pageUrl": "https://xeno-canto.org/959511",
+      "recordist": "Kent bird sounds",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:18",
+      "location": "Tonbridge and Malling District (near  Meopham), Kent, England",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/JPONCFUQFT/959511/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "920776",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/920776/download",
+      "pageUrl": "https://xeno-canto.org/920776",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:47",
+      "location": "Seal Island, Nova Scotia",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/TQCWZTAINA/920776/grey-medium.png"
     },
     {
       "xenoCantoId": "1070650",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/1070650/download",
       "pageUrl": "https://xeno-canto.org/1070650",
       "recordist": "Paul Driver",
@@ -254,8 +282,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/FSCGENVPXK/1070650/grey-medium.png"
     },
     {
+      "xenoCantoId": "980398",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/980398/download",
+      "pageUrl": "https://xeno-canto.org/980398",
+      "recordist": "Matthew L. Brady",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Camino Corto Open Space, UCSB, Santa Barbara County, California",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/SWDUSZIBPR/980398/grey-medium.png"
+    },
+    {
       "xenoCantoId": "786675",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/786675/download",
       "pageUrl": "https://xeno-canto.org/786675",
       "recordist": "Paul Driver",
@@ -268,5 +310,6 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Winter_wren",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144883"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144883",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Troglodytes-hiemalis"
 }

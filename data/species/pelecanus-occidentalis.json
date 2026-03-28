@@ -224,6 +224,7 @@
     {
       "xenoCantoId": "540652",
       "type": "call",
+      "label": "Call",
       "audioUrl": "https://xeno-canto.org/540652/download",
       "pageUrl": "https://xeno-canto.org/540652",
       "recordist": "Isain Contreras Rodríguez",
@@ -234,8 +235,22 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/VCRVBXOHTS/540652/grey-medium.png"
     },
     {
+      "xenoCantoId": "357928",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/357928/download",
+      "pageUrl": "https://xeno-canto.org/357928",
+      "recordist": "Judith PRIAM",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:10",
+      "location": "Guadeloupe, FWI.",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/UQPMMMLMXB/357928/grey-medium.png"
+    },
+    {
       "xenoCantoId": "534361",
       "type": "alarm",
+      "label": "Alarm",
       "audioUrl": "https://xeno-canto.org/534361/download",
       "pageUrl": "https://xeno-canto.org/534361",
       "recordist": "Manuel Grosselet",
@@ -248,5 +263,6 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Brown_pelican",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4328"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4328",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Pelecanus-occidentalis"
 }

@@ -251,6 +251,7 @@
     {
       "xenoCantoId": "369941",
       "type": "song",
+      "label": "Song",
       "audioUrl": "https://xeno-canto.org/369941/download",
       "pageUrl": "https://xeno-canto.org/369941",
       "recordist": "Nick Komar",
@@ -261,19 +262,34 @@
       "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/ODAYZINCOA/369941/grey-medium.png"
     },
     {
-      "xenoCantoId": "738566",
+      "xenoCantoId": "494406",
       "type": "call",
-      "audioUrl": "https://xeno-canto.org/738566/download",
-      "pageUrl": "https://xeno-canto.org/738566",
-      "recordist": "William Whitehead",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/494406/download",
+      "pageUrl": "https://xeno-canto.org/494406",
+      "recordist": "Will Sweet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "quality": "A",
-      "length": "0:06",
-      "location": "Sandy Hook, Monmouth Co., NJ",
-      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/MGVGHKBMIZ/738566/grey-medium.png"
+      "length": "0:17",
+      "location": "Laudholm Beach, Wells",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/BVEAKEMWVN/494406/grey-medium.png"
+    },
+    {
+      "xenoCantoId": "328023",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/328023/download",
+      "pageUrl": "https://xeno-canto.org/328023",
+      "recordist": "Patrick Turgeon",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:20",
+      "location": "Loreburn No. 254 (near  Loreburn), Division No. 11, Saskatchewan",
+      "sonogramUrl": "https://xeno-canto.org/sounds/spectrograms/WCNFEBIHCJ/328023/grey-medium.png"
     }
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Piping_plover",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4798"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/4798",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Charadrius-melodus"
 }
