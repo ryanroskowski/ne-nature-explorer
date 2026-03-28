@@ -70,12 +70,20 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
   const handleSeek = useCallback((e: React.MouseEvent<HTMLDivElement>) => {
     const el = audioRef.current;
     const bar = progressRef.current;
-    if (!el || !bar || !isFinite(el.duration)) return;
+    if (!el || !bar) return;
+
+    // Use el.duration if available, otherwise parse from metadata length string
+    let dur = el.duration;
+    if (!isFinite(dur)) {
+      const parts = current.length.split(":").map(Number);
+      dur = parts.length === 2 ? parts[0] * 60 + parts[1] : 0;
+    }
+    if (dur <= 0) return;
 
     const rect = bar.getBoundingClientRect();
     const ratio = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
-    el.currentTime = ratio * el.duration;
-  }, []);
+    el.currentTime = ratio * dur;
+  }, [current.length]);
 
   // Audio element event handlers via useEffect
   useEffect(() => {
@@ -119,7 +127,13 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
     };
   }, [activeIndex]);
 
-  const progress = duration > 0 ? (currentTime / duration) * 100 : 0;
+  // Parse duration from metadata as fallback (e.g. "1:23" -> 83)
+  const parsedDuration = (() => {
+    const parts = current.length.split(":").map(Number);
+    return parts.length === 2 ? parts[0] * 60 + parts[1] : 0;
+  })();
+  const effectiveDuration = duration > 0 ? duration : parsedDuration;
+  const progress = effectiveDuration > 0 ? (currentTime / effectiveDuration) * 100 : 0;
 
   return (
     <div className="bg-card border border-border rounded-xl overflow-hidden">
@@ -196,7 +210,7 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
             {/* Time display */}
             <div className="flex justify-between mt-1 text-xs text-text-muted font-ui">
               <span>{formatTime(currentTime)}</span>
-              <span>{formatTime(duration)}</span>
+              <span>{formatTime(effectiveDuration)}</span>
             </div>
           </div>
         </div>
@@ -249,7 +263,7 @@ export default function BirdAudioPlayer({ audio, commonName }: BirdAudioPlayerPr
         ref={audioRef}
         key={current.audioUrl}
         src={`/api/audio-proxy?url=${encodeURIComponent(current.audioUrl)}`}
-        preload="metadata"
+        preload="auto"
       />
     </div>
   );
