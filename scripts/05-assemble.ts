@@ -81,9 +81,10 @@ export function assemble(
   const traitsMap: Record<string, PipelineSpeciesTraits> =
     loadJsonOptional("species-traits.json") || {};
 
-  // Load bird audio data (from Stage 7)
-  interface BirdAudioEntry {
-    xenoCantoId: string;
+  // Load audio data (from Stage 7 for birds, Stage 8 for amphibians)
+  interface AudioEntry {
+    xenoCantoId?: string;
+    iNatObservationId?: string;
     type: string;
     label?: string;
     audioUrl: string;
@@ -94,11 +95,13 @@ export function assemble(
     length: string;
     location: string;
     sonogramUrl: string;
+    source?: string;
   }
-  const audioData: Record<string, BirdAudioEntry[]> =
-    groupKey === "birds" ? (loadJsonOptional("audio.json") || {}) : {};
-  if (groupKey === "birds" && Object.keys(audioData).length > 0) {
-    console.log(`  Loaded audio data for ${Object.keys(audioData).length} bird species`);
+  const AUDIO_GROUPS = ["birds", "amphibians"];
+  const audioData: Record<string, AudioEntry[]> =
+    AUDIO_GROUPS.includes(groupKey) ? (loadJsonOptional("audio.json") || {}) : {};
+  if (AUDIO_GROUPS.includes(groupKey) && Object.keys(audioData).length > 0) {
+    console.log(`  Loaded audio data for ${Object.keys(audioData).length} ${groupKey} species`);
   }
 
   if (Object.keys(speciesContent).length === 0) {
@@ -214,12 +217,12 @@ export function assemble(
       contextualKnowledge: content?.contextualKnowledge || null,
       compareHints: content?.compareHints || "",
       relatedSpecies: siblings,
-      // Audio recordings (birds only)
+      // Audio recordings (birds, amphibians)
       ...(audioData[species.taxonId.toString()]?.length
         ? {
             audio: audioData[species.taxonId.toString()].map(
               (a): SpeciesAudio => ({
-                xenoCantoId: a.xenoCantoId,
+                xenoCantoId: a.xenoCantoId || a.iNatObservationId || "",
                 type: a.type,
                 ...(a.label ? { label: a.label } : {}),
                 audioUrl: a.audioUrl,
@@ -229,7 +232,7 @@ export function assemble(
                 quality: a.quality,
                 length: a.length,
                 location: a.location,
-                sonogramUrl: a.sonogramUrl,
+                sonogramUrl: a.sonogramUrl || "",
               })
             ),
           }
@@ -238,8 +241,8 @@ export function assemble(
       establishmentMeans: species.establishmentMeans,
       wikipediaUrl: species.wikipediaUrl,
       iNaturalistUrl: `https://www.inaturalist.org/taxa/${species.taxonId}`,
-      // Xeno-canto species page (birds only)
-      ...(groupKey === "birds" && audioData[species.taxonId.toString()]?.length
+      // Xeno-canto species page (birds, amphibians with xeno-canto audio)
+      ...(AUDIO_GROUPS.includes(groupKey) && audioData[species.taxonId.toString()]?.some(a => !a.iNatObservationId)
         ? { xenoCantoUrl: `https://xeno-canto.org/species/${species.scientificName.replace(" ", "-")}` }
         : {}),
     };

@@ -117,11 +117,11 @@ export interface SpeciesAudio {
   xenoCantoId: string;
   type: string;         // "song", "call", "alarm", "drumming"
   label?: string;       // display label (e.g. "Song 1", "Song 2", "Call")
-  audioUrl: string;     // direct MP3 URL
-  pageUrl: string;      // xeno-canto page URL
+  audioUrl: string;     // direct MP3/M4A URL
+  pageUrl: string;      // source page URL
   recordist: string;
   license: string;
-  quality: string;      // A, B, etc.
+  quality: string;      // A, B, "iNat", etc.
   length: string;       // "0:45"
   location: string;
   sonogramUrl: string;

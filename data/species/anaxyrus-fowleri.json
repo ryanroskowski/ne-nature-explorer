@@ -233,7 +233,36 @@
       "distinction": "American toads are larger and more robust than their close relative, Fowler's toad, with a more musical, sustained call versus Fowler's shorter, harsher cry."
     }
   ],
+  "audio": [
+    {
+      "xenoCantoId": "890998",
+      "type": "call",
+      "label": "Call",
+      "audioUrl": "https://xeno-canto.org/890998/download",
+      "pageUrl": "https://xeno-canto.org/890998",
+      "recordist": "Chris Harrison",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "Little Rock, Pulaski County, Arkansas",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "892840",
+      "type": "call",
+      "label": "Call 2",
+      "audioUrl": "https://xeno-canto.org/892840/download",
+      "pageUrl": "https://xeno-canto.org/892840",
+      "recordist": "Scott Gravette",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "2:15",
+      "location": "Bankhead National Forest, Lawrence County, Alabama",
+      "sonogramUrl": ""
+    }
+  ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Anaxyrus_fowleri",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/64977"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/64977",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anaxyrus-fowleri"
 }

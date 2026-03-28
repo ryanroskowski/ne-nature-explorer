@@ -16,11 +16,12 @@ export async function GET(request: NextRequest) {
     return NextResponse.json({ error: "Missing url parameter" }, { status: 400 });
   }
 
-  // Security: only proxy xeno-canto URLs
+  // Security: only proxy allowed audio sources
   try {
     const parsed = new URL(url);
-    if (!parsed.hostname.endsWith("xeno-canto.org")) {
-      return NextResponse.json({ error: "Only xeno-canto.org URLs allowed" }, { status: 403 });
+    const allowed = ["xeno-canto.org", "inaturalist.org", "static.inaturalist.org"];
+    if (!allowed.some(h => parsed.hostname.endsWith(h))) {
+      return NextResponse.json({ error: "URL not from an allowed audio source" }, { status: 403 });
     }
   } catch {
     return NextResponse.json({ error: "Invalid URL" }, { status: 400 });
