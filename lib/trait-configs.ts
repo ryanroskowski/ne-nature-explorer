@@ -128,85 +128,272 @@ const plantConfig: GroupBrowseConfig = {
 };
 
 // ============================================================
-// Animal config (birds, mammals, reptiles, amphibians, fish)
+// Shared animal secondary filters
 // ============================================================
 
-const animalConfig: GroupBrowseConfig = {
-  schemaType: "animal",
-  traitBrowseTitle: "Browse by Type",
-  traitBrowseDescription: "Start with a body type, then refine by size, activity pattern, diet, or habitat.",
+const animalSizeFilter: TraitFilterConfig = {
+  key: "sizeClass",
+  label: "Size",
+  type: "pills",
+  options: [
+    { value: "tiny", label: "Tiny" },
+    { value: "small", label: "Small" },
+    { value: "medium", label: "Medium" },
+    { value: "large", label: "Large" },
+    { value: "very-large", label: "Very Large" },
+  ],
+};
+
+const animalActivityFilter: TraitFilterConfig = {
+  key: "activityPattern",
+  label: "Activity",
+  type: "pills",
+  options: [
+    { value: "diurnal", label: "Diurnal" },
+    { value: "nocturnal", label: "Nocturnal" },
+    { value: "crepuscular", label: "Crepuscular" },
+    { value: "variable", label: "Variable" },
+  ],
+};
+
+const animalDietFilter: TraitFilterConfig = {
+  key: "dietType",
+  label: "Diet",
+  type: "pills",
+  options: [
+    { value: "herbivore", label: "Herbivore" },
+    { value: "carnivore", label: "Carnivore" },
+    { value: "omnivore", label: "Omnivore" },
+    { value: "insectivore", label: "Insectivore" },
+    { value: "filter-feeder", label: "Filter Feeder" },
+    { value: "detritivore", label: "Detritivore" },
+    { value: "granivore", label: "Granivore" },
+    { value: "nectivore", label: "Nectivore" },
+    { value: "parasitic", label: "Parasitic" },
+  ],
+};
+
+// ============================================================
+// Per-group animal configs
+// ============================================================
+
+function makeAnimalConfig(overrides: {
+  traitBrowseTitle: string;
+  traitBrowseDescription: string;
+  primaryFilter: TraitFilterConfig;
+  secondaryFilters?: TraitFilterConfig[];
+  browseCards: GroupBrowseConfig["browseCards"];
+}): GroupBrowseConfig {
+  return {
+    schemaType: "animal",
+    hasFlowerBrowser: false,
+    secondaryFilters: [animalSizeFilter, animalActivityFilter, animalDietFilter],
+    ...overrides,
+  };
+}
+
+const birdConfig = makeAnimalConfig({
+  traitBrowseTitle: "Browse Birds",
+  traitBrowseDescription: "Filter by size, diet, activity pattern, or habitat.",
   primaryFilter: {
-    key: "bodyType",
-    label: "Body Type",
+    key: "sizeClass",
+    label: "Size",
     type: "grid",
     options: [
-      { value: "songbird", label: "Songbirds", icon: "🐦" },
-      { value: "raptor", label: "Raptors", icon: "🦅" },
-      { value: "waterbird", label: "Waterbirds", icon: "🦆" },
-      { value: "shorebird", label: "Shorebirds", icon: "🦩" },
-      { value: "wader", label: "Waders", icon: "🦢" },
-      { value: "rodent", label: "Rodents", icon: "🐿️" },
-      { value: "carnivore", label: "Carnivores", icon: "🦊" },
-      { value: "ungulate", label: "Ungulates", icon: "🦌" },
+      { value: "tiny", label: "Tiny", icon: "🐦" },
+      { value: "small", label: "Small", icon: "🐦" },
+      { value: "medium", label: "Medium", icon: "🦅" },
+      { value: "large", label: "Large", icon: "🦆" },
+      { value: "very-large", label: "Very Large", icon: "🦢" },
     ],
   },
-  secondaryFilters: [
-    {
-      key: "sizeClass",
-      label: "Size",
-      type: "pills",
-      options: [
-        { value: "tiny", label: "Tiny" },
-        { value: "small", label: "Small" },
-        { value: "medium", label: "Medium" },
-        { value: "large", label: "Large" },
-        { value: "very-large", label: "Very Large" },
-      ],
-    },
-    {
-      key: "activityPattern",
-      label: "Activity",
-      type: "pills",
-      options: [
-        { value: "diurnal", label: "Diurnal" },
-        { value: "nocturnal", label: "Nocturnal" },
-        { value: "crepuscular", label: "Crepuscular" },
-      ],
-    },
-    {
-      key: "dietType",
-      label: "Diet",
-      type: "pills",
-      options: [
-        { value: "herbivore", label: "Herbivore" },
-        { value: "carnivore", label: "Carnivore" },
-        { value: "omnivore", label: "Omnivore" },
-        { value: "insectivore", label: "Insectivore" },
-        { value: "granivore", label: "Granivore" },
-        { value: "nectarivore", label: "Nectarivore" },
-      ],
-    },
-  ],
-  hasFlowerBrowser: false,
+  secondaryFilters: [animalActivityFilter, animalDietFilter],
   browseCards: [
     {
       href: "/browse/traits",
-      icon: "🔍",
-      title: "Browse by Type",
-      description: "Filter by body type, size, activity pattern, diet, and habitat.",
+      icon: "🐦",
+      title: "Browse by Size & Diet",
+      description: "Filter birds by size, activity pattern, diet, and habitat.",
       color: "bg-forest/10 text-forest",
-      examples: "Songbirds, Nocturnal carnivores, Waterbirds",
+      examples: "Small insectivores, Large raptors, Nocturnal birds",
     },
     {
       href: "/browse/monthly",
       icon: "📅",
       title: "Monthly Field Guide",
-      description: "What's active, migrating, or nesting each month — real observation data.",
+      description: "What's migrating, nesting, or singing each month — real observation data.",
       color: "bg-amber-100 text-amber-700",
       examples: "March arrivals, June nesting, October migration",
     },
   ],
-};
+});
+
+const mammalConfig = makeAnimalConfig({
+  traitBrowseTitle: "Browse Mammals",
+  traitBrowseDescription: "Filter by size, activity pattern, diet, or habitat.",
+  primaryFilter: {
+    key: "sizeClass",
+    label: "Size",
+    type: "grid",
+    options: [
+      { value: "tiny", label: "Tiny", icon: "🐁" },
+      { value: "small", label: "Small", icon: "🐿️" },
+      { value: "medium", label: "Medium", icon: "🦝" },
+      { value: "large", label: "Large", icon: "🦊" },
+      { value: "very-large", label: "Very Large", icon: "🦌" },
+    ],
+  },
+  secondaryFilters: [animalActivityFilter, animalDietFilter],
+  browseCards: [
+    {
+      href: "/browse/traits",
+      icon: "🦌",
+      title: "Browse by Size & Diet",
+      description: "Filter mammals by size, activity pattern, diet, and habitat.",
+      color: "bg-forest/10 text-forest",
+      examples: "Nocturnal carnivores, Small rodents, Large herbivores",
+    },
+    {
+      href: "/browse/monthly",
+      icon: "📅",
+      title: "Monthly Field Guide",
+      description: "What's active, hibernating, or breeding each month — real observation data.",
+      color: "bg-amber-100 text-amber-700",
+      examples: "Spring emergence, Summer breeding, Fall foraging",
+    },
+  ],
+});
+
+const reptileConfig = makeAnimalConfig({
+  traitBrowseTitle: "Browse Reptiles",
+  traitBrowseDescription: "Filter by size, activity pattern, diet, or habitat.",
+  primaryFilter: {
+    key: "sizeClass",
+    label: "Size",
+    type: "grid",
+    options: [
+      { value: "tiny", label: "Tiny", icon: "🦎" },
+      { value: "small", label: "Small", icon: "🐍" },
+      { value: "medium", label: "Medium", icon: "🐢" },
+      { value: "large", label: "Large", icon: "🐊" },
+      { value: "very-large", label: "Very Large", icon: "🐢" },
+    ],
+  },
+  secondaryFilters: [animalActivityFilter, animalDietFilter],
+  browseCards: [
+    {
+      href: "/browse/traits",
+      icon: "🐍",
+      title: "Browse by Size & Diet",
+      description: "Filter reptiles by size, activity pattern, diet, and habitat.",
+      color: "bg-forest/10 text-forest",
+      examples: "Small lizards, Aquatic turtles, Nocturnal snakes",
+    },
+    {
+      href: "/browse/monthly",
+      icon: "📅",
+      title: "Monthly Field Guide",
+      description: "When different reptiles are active each month — real observation data.",
+      color: "bg-amber-100 text-amber-700",
+      examples: "Spring emergence, Summer basking, Fall retreat",
+    },
+  ],
+});
+
+const amphibianConfig = makeAnimalConfig({
+  traitBrowseTitle: "Browse Amphibians",
+  traitBrowseDescription: "Filter by size, activity pattern, diet, or habitat.",
+  primaryFilter: {
+    key: "sizeClass",
+    label: "Size",
+    type: "grid",
+    options: [
+      { value: "tiny", label: "Tiny", icon: "🐸" },
+      { value: "small", label: "Small", icon: "🐸" },
+      { value: "medium", label: "Medium", icon: "🐸" },
+      { value: "large", label: "Large", icon: "🐸" },
+    ],
+  },
+  secondaryFilters: [animalActivityFilter, animalDietFilter],
+  browseCards: [
+    {
+      href: "/browse/traits",
+      icon: "🐸",
+      title: "Browse by Size & Diet",
+      description: "Filter amphibians by size, activity pattern, and habitat.",
+      color: "bg-forest/10 text-forest",
+      examples: "Small tree frogs, Nocturnal salamanders",
+    },
+    {
+      href: "/browse/monthly",
+      icon: "📅",
+      title: "Monthly Field Guide",
+      description: "When different amphibians are active each month — real observation data.",
+      color: "bg-amber-100 text-amber-700",
+      examples: "Spring chorus, Summer breeding, Fall migration",
+    },
+  ],
+});
+
+const fishConfig = makeAnimalConfig({
+  traitBrowseTitle: "Browse Fish",
+  traitBrowseDescription: "Filter by size, activity pattern, diet, or habitat.",
+  primaryFilter: {
+    key: "sizeClass",
+    label: "Size",
+    type: "grid",
+    options: [
+      { value: "tiny", label: "Tiny", icon: "🐟" },
+      { value: "small", label: "Small", icon: "🐟" },
+      { value: "medium", label: "Medium", icon: "🐠" },
+      { value: "large", label: "Large", icon: "🐡" },
+      { value: "very-large", label: "Very Large", icon: "🦈" },
+    ],
+  },
+  secondaryFilters: [animalActivityFilter, animalDietFilter],
+  browseCards: [
+    {
+      href: "/browse/traits",
+      icon: "🐟",
+      title: "Browse by Size & Diet",
+      description: "Filter fish by size, activity pattern, diet, and habitat.",
+      color: "bg-forest/10 text-forest",
+      examples: "Small freshwater, Large predators, Filter feeders",
+    },
+    {
+      href: "/browse/monthly",
+      icon: "📅",
+      title: "Monthly Field Guide",
+      description: "Seasonal fish activity — real observation data.",
+      color: "bg-amber-100 text-amber-700",
+      examples: "Spring spawning, Summer abundance",
+    },
+  ],
+});
+
+const genericAnimalConfig = makeAnimalConfig({
+  traitBrowseTitle: "Browse by Traits",
+  traitBrowseDescription: "Filter by size, activity pattern, diet, or habitat.",
+  primaryFilter: animalSizeFilter,
+  browseCards: [
+    {
+      href: "/browse/traits",
+      icon: "🔍",
+      title: "Browse by Traits",
+      description: "Filter by size, activity pattern, diet, and habitat.",
+      color: "bg-forest/10 text-forest",
+      examples: "Small nocturnal, Large predators, Coastal species",
+    },
+    {
+      href: "/browse/monthly",
+      icon: "📅",
+      title: "Monthly Field Guide",
+      description: "What's active each month — real observation data.",
+      color: "bg-amber-100 text-amber-700",
+      examples: "Spring emergence, Summer activity peak",
+    },
+  ],
+});
 
 // ============================================================
 // Fungus config
@@ -433,19 +620,19 @@ const insectConfig: GroupBrowseConfig = {
 const GROUP_BROWSE_CONFIGS: Record<string, GroupBrowseConfig> = {
   plants: plantConfig,
   fungi: fungusConfig,
-  birds: animalConfig,
-  mammals: animalConfig,
-  reptiles: animalConfig,
-  amphibians: animalConfig,
+  birds: birdConfig,
+  mammals: mammalConfig,
+  reptiles: reptileConfig,
+  amphibians: amphibianConfig,
   insects: insectConfig,
   lichens: lichenConfig,
-  arachnids: animalConfig,
-  mollusks: animalConfig,
-  fish: animalConfig,
-  crustaceans: animalConfig,
-  myriapods: animalConfig,
-  cnidarians: animalConfig,
-  echinoderms: animalConfig,
+  arachnids: genericAnimalConfig,
+  mollusks: genericAnimalConfig,
+  fish: fishConfig,
+  crustaceans: genericAnimalConfig,
+  myriapods: genericAnimalConfig,
+  cnidarians: genericAnimalConfig,
+  echinoderms: genericAnimalConfig,
 };
 
 export function getGroupBrowseConfig(group: string): GroupBrowseConfig {
