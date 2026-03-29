@@ -71,6 +71,28 @@ h1, h2, h3, h4, h5, h6 {
   height: 6px;
 }
 
+/* Split-pane panel scrollbars — thin and subtle */
+.split-pane-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+.split-pane-scroll:hover {
+  scrollbar-color: var(--color-border-dark) transparent;
+}
+.split-pane-scroll::-webkit-scrollbar {
+  width: 5px;
+}
+.split-pane-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.split-pane-scroll::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 3px;
+}
+.split-pane-scroll:hover::-webkit-scrollbar-thumb {
+  background: var(--color-border-dark);
+}
+
 /* Smooth scrolling */
 html {
   scroll-behavior: smooth;

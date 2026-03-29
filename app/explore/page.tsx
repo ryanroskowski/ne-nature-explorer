@@ -12,13 +12,13 @@ export const metadata: Metadata = {
 export default async function ExplorePage({
   searchParams,
 }: {
-  searchParams: Promise<{ group?: string }>;
+  searchParams: Promise<{ group?: string; species?: string }>;
 }) {
-  const { group } = await searchParams;
+  const { group, species } = await searchParams;
   const allTrees = getAllTaxonomyTrees();
 
   return (
-    <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+    <div className="mx-auto px-4 sm:px-6 lg:px-8 py-8 max-w-6xl lg:max-w-[95vw]">
       <Breadcrumbs
         items={[
           { label: "Home", rank: "page", slug: "" },
@@ -26,7 +26,7 @@ export default async function ExplorePage({
         ]}
       />
 
-      <header className="mb-8">
+      <header className="mb-6">
         <h1 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary">
           Tree of Life Explorer
         </h1>
@@ -37,7 +37,11 @@ export default async function ExplorePage({
         </p>
       </header>
 
-      <AllGroupsExplorer allTrees={allTrees} initialGroup={group} />
+      <AllGroupsExplorer
+        allTrees={allTrees}
+        initialGroup={group}
+        initialSpecies={species}
+      />
     </div>
   );
 }

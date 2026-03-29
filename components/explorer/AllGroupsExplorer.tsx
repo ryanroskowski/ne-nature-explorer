@@ -6,10 +6,15 @@ import Link from "next/link";
 import Image from "next/image";
 import { blurDataURL } from "@/lib/image-utils";
 import GroupIcon from "@/components/ui/GroupIcon";
-import type { TaxonomyNode, GroupInfo } from "@/lib/types";
+import SpeciesDetailPanel from "./SpeciesDetailPanel";
+import SpeciesDetailSkeleton from "./SpeciesDetailSkeleton";
+import type { TaxonomyNode, GroupInfo, SpeciesData, ContextualArticle } from "@/lib/types";
 
 const STORAGE_KEY = "tree-of-life-expanded-ids";
+const SPECIES_PANEL_KEY = "tree-of-life-selected-species";
 const SCROLL_KEY = "tree-of-life-scroll-pos";
+const TREE_SCROLL_KEY = "tree-of-life-tree-scroll";
+const FLATTEN_KEY = "tree-of-life-flattened-ids";
 
 const rankColors: Record<string, string> = {
   kingdom: "text-text-primary",
@@ -75,14 +80,40 @@ function collectAllSpecies(node: TaxonomyNode): TaxonomyNode[] {
 interface AllGroupsExplorerProps {
   allTrees: { group: GroupInfo; tree: TaxonomyNode }[];
   initialGroup?: string;
+  initialSpecies?: string;
 }
 
 // ── Species node (leaf) ──────────────────────────────────────
-function SpeciesNode({ node }: { node: TaxonomyNode }) {
+function SpeciesNode({
+  node,
+  onSelectSpecies,
+  isDesktop,
+  selectedSlug,
+}: {
+  node: TaxonomyNode;
+  onSelectSpecies?: (slug: string) => void;
+  isDesktop?: boolean;
+  selectedSlug?: string | null;
+}) {
+  const slug = slugify(node.name);
+  const isSelected = selectedSlug === slug;
+
   return (
     <Link
-      href={`/species/${slugify(node.name)}`}
-      className="group flex items-center gap-3 py-2.5 px-3 rounded-xl hover:bg-forest/5 transition-colors"
+      href={`/species/${slug}`}
+      onClick={
+        onSelectSpecies && isDesktop
+          ? (e) => {
+              e.preventDefault();
+              onSelectSpecies(slug);
+            }
+          : undefined
+      }
+      className={`group flex items-center gap-3 py-2.5 px-3 rounded-xl transition-colors ${
+        isSelected
+          ? "bg-forest/10 border-l-2 border-forest -ml-[2px]"
+          : "hover:bg-forest/5"
+      }`}
     >
       <div className="relative w-10 h-10 rounded-lg overflow-hidden bg-cream-dark shrink-0">
         {node.representativePhotoUrl ? (
@@ -134,6 +165,9 @@ function InnerNode({
   onToggle,
   flattenedIds,
   onToggleFlatten,
+  onSelectSpecies,
+  isDesktop,
+  selectedSlug,
 }: {
   node: TaxonomyNode;
   depth: number;
@@ -141,6 +175,9 @@ function InnerNode({
   onToggle: (id: number) => void;
   flattenedIds: Set<number>;
   onToggleFlatten: (id: number) => void;
+  onSelectSpecies?: (slug: string) => void;
+  isDesktop?: boolean;
+  selectedSlug?: string | null;
 }) {
   const isExpanded = expandedIds.has(node.id);
   const isFlattened = flattenedIds.has(node.id);
@@ -150,7 +187,7 @@ function InnerNode({
   // Only show flatten for nodes with grandchildren (not genus which directly holds species)
   const hasGrandchildren = hasChildren && node.children.some(c => c.rank !== "species");
 
-  if (isSpecies) return <SpeciesNode node={node} />;
+  if (isSpecies) return <SpeciesNode node={node} onSelectSpecies={onSelectSpecies} isDesktop={isDesktop} selectedSlug={selectedSlug} />;
 
   return (
     <div>
@@ -271,7 +308,7 @@ function InnerNode({
                 // Flat species list
                 <div>
                   {collectAllSpecies(node).map((sp) => (
-                    <SpeciesNode key={sp.id} node={sp} />
+                    <SpeciesNode key={sp.id} node={sp} onSelectSpecies={onSelectSpecies} isDesktop={isDesktop} selectedSlug={selectedSlug} />
                   ))}
                 </div>
               ) : (
@@ -285,6 +322,9 @@ function InnerNode({
                     onToggle={onToggle}
                     flattenedIds={flattenedIds}
                     onToggleFlatten={onToggleFlatten}
+                    onSelectSpecies={onSelectSpecies}
+                    isDesktop={isDesktop}
+                    selectedSlug={selectedSlug}
                   />
                 ))
               )}
@@ -297,9 +337,20 @@ function InnerNode({
 }
 
 // ── Main component ───────────────────────────────────────────
-export default function AllGroupsExplorer({ allTrees, initialGroup }: AllGroupsExplorerProps) {
+export default function AllGroupsExplorer({ allTrees, initialGroup, initialSpecies }: AllGroupsExplorerProps) {
   const [expandedIds, setExpandedIds] = useState<Set<number>>(() => {
-    // If a specific group is requested via ?group=, expand that one
+    // Try restoring from sessionStorage first
+    try {
+      const savedIds = sessionStorage.getItem(STORAGE_KEY);
+      if (savedIds) {
+        const ids = JSON.parse(savedIds) as number[];
+        if (Array.isArray(ids) && ids.length > 0) {
+          return new Set(ids);
+        }
+      }
+    } catch {}
+
+    // Fallback: expand the requested group (or first group) to 2 levels
     const target = initialGroup
       ? allTrees.find((t) => t.group.key === initialGroup)
       : null;
@@ -312,38 +363,22 @@ export default function AllGroupsExplorer({ allTrees, initialGroup }: AllGroupsE
     return ids;
   });
   const groupRefs = useRef<Record<string, HTMLDivElement | null>>({});
+  const treePanelRef = useRef<HTMLDivElement>(null);
 
-  // Restore state from sessionStorage on mount, or scroll to initialGroup
+  // Restore scroll position on mount (page scroll or tree panel scroll)
   useEffect(() => {
-    if (initialGroup) {
-      // Deep-link from home page — scroll to the requested group
-      setTimeout(() => {
-        const el = groupRefs.current[initialGroup];
-        if (el) {
-          el.scrollIntoView({ behavior: "smooth", block: "start" });
-        }
-      }, 100);
-      return;
-    }
-
     try {
-      const savedIds = sessionStorage.getItem(STORAGE_KEY);
-      if (savedIds) {
-        const ids = JSON.parse(savedIds) as number[];
-        if (Array.isArray(ids) && ids.length > 0) {
-          setExpandedIds(new Set(ids));
-        }
-      }
       const savedScroll = sessionStorage.getItem(SCROLL_KEY);
       if (savedScroll) {
+        const pos = parseInt(savedScroll, 10);
         setTimeout(() => {
-          window.scrollTo(0, parseInt(savedScroll, 10));
+          window.scrollTo(0, pos);
         }, 100);
       }
     } catch {}
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Save scroll position (debounced)
+  // Save scroll position (debounced) — both page and tree panel
   useEffect(() => {
     let timeoutId: ReturnType<typeof setTimeout>;
     const handleScroll = () => {
@@ -381,7 +416,16 @@ export default function AllGroupsExplorer({ allTrees, initialGroup }: AllGroupsE
   }, []);
 
   // Flattened nodes state — which nodes are showing all species flat
-  const [flattenedIds, setFlattenedIds] = useState<Set<number>>(new Set());
+  const [flattenedIds, setFlattenedIds] = useState<Set<number>>(() => {
+    try {
+      const saved = sessionStorage.getItem(FLATTEN_KEY);
+      if (saved) {
+        const ids = JSON.parse(saved) as number[];
+        if (Array.isArray(ids) && ids.length > 0) return new Set(ids);
+      }
+    } catch {}
+    return new Set();
+  });
 
   const handleToggleFlatten = useCallback((id: number) => {
     setFlattenedIds((prev) => {
@@ -391,44 +435,227 @@ export default function AllGroupsExplorer({ allTrees, initialGroup }: AllGroupsE
       } else {
         next.add(id);
       }
+      try { sessionStorage.setItem(FLATTEN_KEY, JSON.stringify([...next])); } catch {}
       return next;
     });
   }, []);
 
+  // ── Split-pane state ──────────────────────────────────────
+  const [selectedSlug, setSelectedSlug] = useState<string | null>(initialSpecies || null);
+  const [speciesData, setSpeciesData] = useState<SpeciesData | null>(null);
+  const [articlesData, setArticlesData] = useState<ContextualArticle[]>([]);
+  const [panelLoading, setPanelLoading] = useState(false);
+  const [isDesktop, setIsDesktop] = useState(false);
+
+  // Desktop detection
+  useEffect(() => {
+    const mql = window.matchMedia("(min-width: 1024px)");
+    setIsDesktop(mql.matches);
+    const handler = (e: MediaQueryListEvent) => setIsDesktop(e.matches);
+    mql.addEventListener("change", handler);
+    return () => mql.removeEventListener("change", handler);
+  }, []);
+
+  // Fetch species data when selected
+  const selectSpecies = useCallback(async (slug: string) => {
+    setSelectedSlug(slug);
+    setPanelLoading(true);
+
+    // Scroll page to top so the split-pane fills the viewport
+    window.scrollTo({ top: 0, behavior: "instant" });
+
+    // Persist selection so it survives navigation (back button from species page)
+    try { sessionStorage.setItem(SPECIES_PANEL_KEY, slug); } catch {}
+
+    // Update URL without navigation
+    const url = new URL(window.location.href);
+    url.searchParams.set("species", slug);
+    window.history.pushState({}, "", url.toString());
+
+    try {
+      const res = await fetch(`/api/species/${slug}`);
+      if (!res.ok) throw new Error("Failed to fetch");
+      const data = await res.json();
+      setSpeciesData(data.species);
+      setArticlesData(data.articles || []);
+    } catch {
+      setSpeciesData(null);
+      setArticlesData([]);
+    } finally {
+      setPanelLoading(false);
+    }
+  }, []);
+
+  const closePanel = useCallback(() => {
+    setSelectedSlug(null);
+    setSpeciesData(null);
+    setArticlesData([]);
+    try { sessionStorage.removeItem(SPECIES_PANEL_KEY); } catch {}
+    const url = new URL(window.location.href);
+    url.searchParams.delete("species");
+    window.history.pushState({}, "", url.toString());
+  }, []);
+
+  // Handle browser back/forward
+  useEffect(() => {
+    const handlePopState = () => {
+      const params = new URLSearchParams(window.location.search);
+      const slug = params.get("species");
+      if (slug) {
+        selectSpecies(slug);
+      } else {
+        setSelectedSlug(null);
+        setSpeciesData(null);
+        setArticlesData([]);
+      }
+    };
+    window.addEventListener("popstate", handlePopState);
+    return () => window.removeEventListener("popstate", handlePopState);
+  }, [selectSpecies]);
+
+  // Load species panel on mount — check URL first, then sessionStorage fallback
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const urlSpecies = params.get("species");
+    const savedSpecies = (() => { try { return sessionStorage.getItem(SPECIES_PANEL_KEY); } catch { return null; } })();
+    const slug = urlSpecies || initialSpecies || savedSpecies;
+    if (slug) {
+      selectSpecies(slug);
+    }
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
+
   const totalSpecies = allTrees.reduce((s, t) => s + t.tree.speciesCount, 0);
+  const showPanel = selectedSlug && isDesktop;
+
+  // Measure header height to compute split-pane height
+  const containerRef = useRef<HTMLDivElement>(null);
+  const [panelHeight, setPanelHeight] = useState("80vh");
+
+  useEffect(() => {
+    if (!showPanel || !containerRef.current) return;
+    const updateHeight = () => {
+      const rect = containerRef.current?.getBoundingClientRect();
+      if (rect) {
+        setPanelHeight(`${window.innerHeight - rect.top - 16}px`);
+      }
+    };
+    // Prevent page scroll when split-pane is open
+    document.body.style.overflow = "hidden";
+    window.scrollTo(0, 0);
+    // Recalculate after scroll and layout settle
+    const t = setTimeout(() => updateHeight(), 50);
+    window.addEventListener("resize", updateHeight);
+    return () => {
+      clearTimeout(t);
+      window.removeEventListener("resize", updateHeight);
+      document.body.style.overflow = "";
+    };
+  }, [showPanel]);
+
+  // Save/restore tree panel scroll position (for split-pane mode)
+  useEffect(() => {
+    const panel = treePanelRef.current;
+    if (!panel || !showPanel) return;
+
+    // Restore saved tree scroll position
+    try {
+      const saved = sessionStorage.getItem(TREE_SCROLL_KEY);
+      if (saved) {
+        setTimeout(() => { panel.scrollTop = parseInt(saved, 10); }, 100);
+      }
+    } catch {}
+
+    // Save tree scroll on scroll (debounced)
+    let tid: ReturnType<typeof setTimeout>;
+    const handleTreeScroll = () => {
+      clearTimeout(tid);
+      tid = setTimeout(() => {
+        try { sessionStorage.setItem(TREE_SCROLL_KEY, String(panel.scrollTop)); } catch {}
+      }, 150);
+    };
+    panel.addEventListener("scroll", handleTreeScroll, { passive: true });
+    return () => {
+      panel.removeEventListener("scroll", handleTreeScroll);
+      clearTimeout(tid);
+    };
+  }, [showPanel]);
 
   return (
-    <div>
-      {/* Controls */}
-      <div className="flex items-center gap-2 mb-4">
-        <button
-          onClick={() => {
-            const all = new Set<number>();
-            for (const { tree } of allTrees) collectAllIds(tree, all);
-            setExpandedIds(all);
-            persistIds(all);
-          }}
-          className="text-xs font-ui text-forest hover:text-forest-light px-2.5 py-1 rounded-lg border border-forest/20 hover:bg-forest/5 transition-colors"
-        >
-          Expand All
-        </button>
-        <button
-          onClick={() => {
-            const roots = new Set(allTrees.map((t) => t.tree.id));
-            setExpandedIds(roots);
-            persistIds(roots);
-          }}
-          className="text-xs font-ui text-text-secondary hover:text-text-primary px-2.5 py-1 rounded-lg border border-border hover:bg-cream-dark transition-colors"
-        >
-          Collapse All
-        </button>
-        <span className="ml-auto text-xs font-ui text-text-muted">
-          {totalSpecies.toLocaleString()} species across {allTrees.length} groups
-        </span>
-      </div>
+    <div
+      ref={containerRef}
+      className={
+        showPanel
+          ? "grid grid-cols-[minmax(300px,2fr)_minmax(400px,3fr)] gap-4"
+          : ""
+      }
+      style={showPanel ? { height: panelHeight } : undefined}
+    >
+      {/* Tree panel (left side on desktop split-pane) */}
+      <div ref={treePanelRef} className={showPanel ? "overflow-y-auto min-h-0 split-pane-scroll" : ""}>
+      {/* Controls — above card when no panel, inside card when split-pane */}
+      {!showPanel && (
+        <div className="flex items-center gap-2 mb-4">
+          <button
+            onClick={() => {
+              const all = new Set<number>();
+              for (const { tree } of allTrees) collectAllIds(tree, all);
+              setExpandedIds(all);
+              persistIds(all);
+            }}
+            className="text-xs font-ui text-forest hover:text-forest-light px-2.5 py-1 rounded-lg border border-forest/20 hover:bg-forest/5 transition-colors"
+          >
+            Expand All
+          </button>
+          <button
+            onClick={() => {
+              const empty = new Set<number>();
+              setExpandedIds(empty);
+              setFlattenedIds(empty);
+              persistIds(empty);
+              try { sessionStorage.setItem(FLATTEN_KEY, "[]"); } catch {}
+            }}
+            className="text-xs font-ui text-text-secondary hover:text-text-primary px-2.5 py-1 rounded-lg border border-border hover:bg-cream-dark transition-colors"
+          >
+            Collapse All
+          </button>
+          <span className="ml-auto text-xs font-ui text-text-muted">
+            {totalSpecies.toLocaleString()} species across {allTrees.length} groups
+          </span>
+        </div>
+      )}
 
       {/* Unified tree */}
-      <div className="bg-card border border-border rounded-2xl p-4 sm:p-6 space-y-1">
+      <div className={`bg-card border border-border rounded-2xl p-4 sm:p-6 space-y-1 ${showPanel ? "min-h-full" : ""}`}>
+        {showPanel && (
+          <div className="flex items-center gap-2 mb-2 -mt-1">
+            <button
+              onClick={() => {
+                const all = new Set<number>();
+                for (const { tree } of allTrees) collectAllIds(tree, all);
+                setExpandedIds(all);
+                persistIds(all);
+              }}
+              className="text-xs font-ui text-forest hover:text-forest-light px-2.5 py-1 rounded-lg border border-forest/20 hover:bg-forest/5 transition-colors"
+            >
+              Expand All
+            </button>
+            <button
+              onClick={() => {
+                const empty = new Set<number>();
+                setExpandedIds(empty);
+                setFlattenedIds(empty);
+                persistIds(empty);
+                try { sessionStorage.setItem(FLATTEN_KEY, "[]"); } catch {}
+              }}
+              className="text-xs font-ui text-text-secondary hover:text-text-primary px-2.5 py-1 rounded-lg border border-border hover:bg-cream-dark transition-colors"
+            >
+              Collapse All
+            </button>
+            <span className="ml-auto text-xs font-ui text-text-muted">
+              {totalSpecies.toLocaleString()} species
+            </span>
+          </div>
+        )}
         {allTrees.map(({ group, tree }) => {
           const isExpanded = expandedIds.has(tree.id);
           const hasChildren = tree.children && tree.children.length > 0;
@@ -554,7 +781,7 @@ export default function AllGroupsExplorer({ allTrees, initialGroup }: AllGroupsE
                     <div className="ml-3 pl-3 border-l-2 border-border">
                       {flattenedIds.has(tree.id) ? (
                         collectAllSpecies(tree).map((sp) => (
-                          <SpeciesNode key={sp.id} node={sp} />
+                          <SpeciesNode key={sp.id} node={sp} onSelectSpecies={selectSpecies} isDesktop={isDesktop} selectedSlug={selectedSlug} />
                         ))
                       ) : (
                         tree.children.map((child) => (
@@ -566,6 +793,9 @@ export default function AllGroupsExplorer({ allTrees, initialGroup }: AllGroupsE
                             onToggle={handleToggle}
                             flattenedIds={flattenedIds}
                             onToggleFlatten={handleToggleFlatten}
+                            onSelectSpecies={selectSpecies}
+                            isDesktop={isDesktop}
+                            selectedSlug={selectedSlug}
                           />
                         ))
                       )}
@@ -577,6 +807,26 @@ export default function AllGroupsExplorer({ allTrees, initialGroup }: AllGroupsE
           );
         })}
       </div>
+      </div>{/* end tree panel */}
+
+      {/* Species detail panel (right side on desktop) */}
+      <AnimatePresence>
+        {showPanel && (
+          panelLoading ? (
+            <div className="bg-card border border-border rounded-2xl overflow-y-auto min-h-0 split-pane-scroll">
+              <SpeciesDetailSkeleton />
+            </div>
+          ) : speciesData ? (
+            <SpeciesDetailPanel
+              key={speciesData.slug}
+              species={speciesData}
+              articles={articlesData}
+              onClose={closePanel}
+              onSelectSpecies={selectSpecies}
+            />
+          ) : null
+        )}
+      </AnimatePresence>
     </div>
   );
 }

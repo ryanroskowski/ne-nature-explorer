@@ -7,8 +7,10 @@ import type { RelatedSpecies as RelatedSpeciesType } from "@/lib/types";
 
 export default function RelatedSpecies({
   species,
+  onSelectSpecies,
 }: {
   species: RelatedSpeciesType[];
+  onSelectSpecies?: (slug: string) => void;
 }) {
   if (!species || species.length === 0) return null;
 
@@ -18,6 +20,14 @@ export default function RelatedSpecies({
         <Link
           key={s.slug}
           href={`/species/${s.slug}`}
+          onClick={
+            onSelectSpecies
+              ? (e) => {
+                  e.preventDefault();
+                  onSelectSpecies(s.slug);
+                }
+              : undefined
+          }
           className="group flex items-center gap-3 bg-card border border-border rounded-xl p-3 hover:border-forest/30 transition-colors"
         >
           {/* Thumbnail */}
