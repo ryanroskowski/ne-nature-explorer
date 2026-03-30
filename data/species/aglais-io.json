@@ -172,5 +172,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Aglais_io",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/207977"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/207977",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

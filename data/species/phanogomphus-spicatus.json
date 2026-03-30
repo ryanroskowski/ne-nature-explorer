@@ -258,5 +258,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Phanogomphus_spicatus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/520947"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/520947",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

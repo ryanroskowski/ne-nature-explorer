@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pseudocneorhinus_bifasciatus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/474853"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/474853",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Weevil — may damage plants"
+  }
 }

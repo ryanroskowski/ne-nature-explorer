@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Scarlet_lily_beetle",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/55761"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/55761",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Leaf beetle — may damage foliage"
+  }
 }

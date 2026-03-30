@@ -227,5 +227,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_amberwing",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/59776"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/59776",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

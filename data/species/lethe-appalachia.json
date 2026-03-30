@@ -205,5 +205,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lethe_appalachia",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/132227"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/132227",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

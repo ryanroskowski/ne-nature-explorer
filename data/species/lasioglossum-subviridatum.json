@@ -484,5 +484,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasioglossum_subviridatum",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426359"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426359",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

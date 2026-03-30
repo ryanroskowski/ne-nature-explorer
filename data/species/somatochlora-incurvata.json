@@ -288,5 +288,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Somatochlora_incurvata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112797"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112797",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

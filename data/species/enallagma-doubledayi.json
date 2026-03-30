@@ -396,5 +396,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Enallagma_doubledayi",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99906"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99906",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -671,5 +671,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Andrena_bradleyi",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199004"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199004",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

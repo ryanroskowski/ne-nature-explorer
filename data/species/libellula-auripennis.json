@@ -286,5 +286,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Libellula_auripennis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104571"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104571",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

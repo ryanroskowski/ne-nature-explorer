@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pseudoedophrys",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/533769"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/533769",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Weevil — may damage plants"
+  }
 }

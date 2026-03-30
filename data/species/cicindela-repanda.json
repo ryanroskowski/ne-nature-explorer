@@ -284,5 +284,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cicindela_repanda",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82425"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82425",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

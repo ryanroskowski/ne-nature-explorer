@@ -251,5 +251,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Dusky_dancer",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/94577"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/94577",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -256,5 +256,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_forktail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84722"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84722",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

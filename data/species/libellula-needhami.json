@@ -286,5 +286,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Libellula_needhami",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/68911"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/68911",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -671,5 +671,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrena_alleghaniensis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198848"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198848",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

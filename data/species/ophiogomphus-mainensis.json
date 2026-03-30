@@ -263,5 +263,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ophiogomphus_mainensis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/107659"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/107659",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

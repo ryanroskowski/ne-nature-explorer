@@ -214,5 +214,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Augochloropsis_viridula",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1428143"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1428143",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

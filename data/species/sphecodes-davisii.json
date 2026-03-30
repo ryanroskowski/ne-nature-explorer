@@ -283,5 +283,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sphecodes_davisii",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199070"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199070",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

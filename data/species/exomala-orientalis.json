@@ -217,5 +217,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Oriental_beetle",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/359401"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/359401",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "May damage roots or foliage"
+  }
 }

@@ -236,5 +236,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Halictus_confusus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199115"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199115",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

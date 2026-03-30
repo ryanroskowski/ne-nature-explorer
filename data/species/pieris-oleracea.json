@@ -237,5 +237,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pieris_oleracea",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198821"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198821",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -189,5 +189,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Stylurus_spiniceps",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/113411"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/113411",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -241,5 +241,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Calopteryx_aequabilis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/96480"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/96480",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

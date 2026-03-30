@@ -179,5 +179,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pachysphinx_modesta",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/143445"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/143445",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

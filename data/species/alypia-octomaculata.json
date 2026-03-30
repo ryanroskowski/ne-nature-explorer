@@ -214,5 +214,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Alypia_octomaculata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84950"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84950",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

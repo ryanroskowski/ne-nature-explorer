@@ -229,5 +229,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Blue_corporal",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/103927"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/103927",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

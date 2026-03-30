@@ -271,5 +271,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lestes_dryas",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104429"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104429",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

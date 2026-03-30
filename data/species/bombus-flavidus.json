@@ -327,5 +327,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bombus_flavidus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/541839"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/541839",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

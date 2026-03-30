@@ -211,5 +211,11 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Psyllobora_vigintimaculata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/118967"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/118967",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -251,5 +251,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rambur's_forktail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/70191"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/70191",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

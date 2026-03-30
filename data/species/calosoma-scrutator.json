@@ -227,5 +227,11 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Calosoma_scrutator",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/118855"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/118855",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

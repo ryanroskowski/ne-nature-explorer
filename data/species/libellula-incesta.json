@@ -286,5 +286,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Libellula_incesta",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104580"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104580",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

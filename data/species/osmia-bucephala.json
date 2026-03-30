@@ -314,5 +314,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Osmia_bucephala",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199125"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199125",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

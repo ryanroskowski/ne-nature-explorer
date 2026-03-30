@@ -156,5 +156,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pontia_protodice",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/59119"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/59119",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

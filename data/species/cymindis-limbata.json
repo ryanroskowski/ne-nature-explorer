@@ -227,5 +227,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cymindis_limbata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/218019"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/218019",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

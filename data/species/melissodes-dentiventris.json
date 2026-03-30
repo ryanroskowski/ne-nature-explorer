@@ -188,5 +188,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Melissodes_dentiventris",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/334728"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/334728",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

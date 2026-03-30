@@ -206,5 +206,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nannothemis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/106516"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/106516",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

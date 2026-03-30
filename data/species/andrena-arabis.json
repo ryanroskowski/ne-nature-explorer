@@ -589,5 +589,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrena_arabis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198849"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198849",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

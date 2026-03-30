@@ -214,5 +214,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": null,
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/106623"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/106623",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

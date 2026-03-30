@@ -214,5 +214,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Nephelodes_minians",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/153076"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/153076",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

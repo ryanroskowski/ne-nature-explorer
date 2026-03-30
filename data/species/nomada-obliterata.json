@@ -367,5 +367,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nomada_obliterata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426465"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426465",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

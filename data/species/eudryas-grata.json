@@ -182,5 +182,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eudryas_grata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84333"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84333",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

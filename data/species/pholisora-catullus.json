@@ -219,5 +219,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pholisora_catullus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58479"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58479",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

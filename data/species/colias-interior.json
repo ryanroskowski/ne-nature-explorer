@@ -237,5 +237,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Colias_interior",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198800"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198800",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

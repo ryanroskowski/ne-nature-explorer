@@ -230,5 +230,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Arigomphus_villosipes",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/94625"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/94625",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

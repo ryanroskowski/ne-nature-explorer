@@ -206,5 +206,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Epiaeschna_heros",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100034"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100034",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

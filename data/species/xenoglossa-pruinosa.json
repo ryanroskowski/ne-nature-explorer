@@ -227,5 +227,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Peponapis_pruinosa",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1594041"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1594041",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

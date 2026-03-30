@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sumitrosis_inaequalis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/232001"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/232001",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Leaf beetle — may damage foliage"
+  }
 }

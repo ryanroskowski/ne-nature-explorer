@@ -230,5 +230,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Calligrapha_philadelphica",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84809"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84809",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Leaf beetle — may damage foliage"
+  }
 }

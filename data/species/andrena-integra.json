@@ -613,5 +613,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Andrena_integra",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452915"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452915",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

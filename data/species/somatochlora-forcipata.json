@@ -304,5 +304,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Somatochlora_forcipata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112792"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112792",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

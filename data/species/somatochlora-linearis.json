@@ -290,5 +290,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Somatochlora_linearis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112799"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112799",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

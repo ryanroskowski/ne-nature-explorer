@@ -227,5 +227,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ischnura_posita",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/103498"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/103498",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

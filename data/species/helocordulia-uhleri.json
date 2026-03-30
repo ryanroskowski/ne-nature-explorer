@@ -222,5 +222,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Helocordulia_uhleri",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/102458"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/102458",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

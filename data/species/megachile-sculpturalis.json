@@ -362,5 +362,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Megachile_sculpturalis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52785"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52785",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

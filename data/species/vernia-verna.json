@@ -214,5 +214,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Vernia_verna",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1363161"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1363161",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

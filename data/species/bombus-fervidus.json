@@ -335,5 +335,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bombus_fervidus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52774"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52774",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

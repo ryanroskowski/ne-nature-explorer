@@ -227,5 +227,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Anthidiellum_notatum",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/270467"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/270467",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

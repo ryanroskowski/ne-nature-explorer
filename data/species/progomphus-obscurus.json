@@ -214,5 +214,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Progomphus_obscurus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/110625"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/110625",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

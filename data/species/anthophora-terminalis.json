@@ -237,5 +237,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Anthophora_terminalis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198854"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198854",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

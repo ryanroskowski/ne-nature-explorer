@@ -288,5 +288,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Osmia_pumila",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198852"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198852",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

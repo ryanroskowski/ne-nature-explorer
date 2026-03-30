@@ -206,5 +206,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Colorado_potato_beetle",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84778"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84778",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Leaf beetle — may damage foliage"
+  }
 }

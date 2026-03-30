@@ -360,5 +360,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Megachile_centuncularis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/124406"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/124406",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

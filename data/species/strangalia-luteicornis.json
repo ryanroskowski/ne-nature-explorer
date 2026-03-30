@@ -230,5 +230,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Strangalia_luteicornis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/129994"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/129994",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Wood borer — can damage trees"
+  }
 }

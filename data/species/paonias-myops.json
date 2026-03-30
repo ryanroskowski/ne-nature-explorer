@@ -182,5 +182,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Paonias_myops",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/143446"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/143446",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

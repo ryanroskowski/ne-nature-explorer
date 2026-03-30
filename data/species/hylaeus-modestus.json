@@ -300,5 +300,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hylaeus_modestus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199048"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199048",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

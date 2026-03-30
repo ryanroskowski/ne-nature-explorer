@@ -276,5 +276,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Aeshna_subarctica",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/93446"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/93446",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

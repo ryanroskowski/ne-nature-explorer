@@ -83,6 +83,17 @@ export interface SpeciesData {
   // Audio recordings (birds)
   audio?: SpeciesAudio[];
 
+  // Ecological roles (insects)
+  ecologicalRole?: {
+    isPollinator: boolean;
+    pollinatorType?: "primary" | "minor";
+    isBeneficial: boolean;
+    beneficialRole?: string;
+    isPest: boolean;
+    pestLevel?: "minor" | "major";
+    pestNote?: string;
+  };
+
   // Metadata
   isNative?: boolean;
   establishmentMeans?: string;

@@ -284,5 +284,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cicindela_sexguttata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/49566"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/49566",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

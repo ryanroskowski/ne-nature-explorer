@@ -222,5 +222,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hippodamia_variegata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/143034"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/143034",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

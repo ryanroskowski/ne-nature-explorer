@@ -327,5 +327,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bombus_rufocinctus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144011"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/144011",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

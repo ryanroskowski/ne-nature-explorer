@@ -251,5 +251,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Citrine_forktail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/103494"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/103494",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

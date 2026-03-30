@@ -248,5 +248,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ophiogomphus_rupinsulensis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/107662"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/107662",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

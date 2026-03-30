@@ -214,5 +214,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ocypus_nitens",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226204"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226204",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "decomposer"
+  }
 }

@@ -230,5 +230,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Xylotrechus_sagittatus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/233864"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/233864",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Wood borer — can damage trees"
+  }
 }

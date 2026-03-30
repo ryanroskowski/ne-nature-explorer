@@ -221,5 +221,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_spangled_fritillary",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1456562"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1456562",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

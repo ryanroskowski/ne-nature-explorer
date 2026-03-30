@@ -500,5 +500,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasioglossum_cinctipes",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199106"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199106",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

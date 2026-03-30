@@ -237,5 +237,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Polites_themistocles",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58506"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58506",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

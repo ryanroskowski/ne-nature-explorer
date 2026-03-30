@@ -198,5 +198,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthocharis_midea",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/69844"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/69844",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

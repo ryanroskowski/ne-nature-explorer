@@ -661,5 +661,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrena_distans",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199009"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199009",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -283,5 +283,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sphecodes_aroniae",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452976"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452976",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

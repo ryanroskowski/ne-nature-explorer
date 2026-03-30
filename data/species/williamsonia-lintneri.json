@@ -230,5 +230,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Williamsonia_lintneri",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/115032"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/115032",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

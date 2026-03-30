@@ -251,5 +251,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Powdered_dancer",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/94557"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/94557",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

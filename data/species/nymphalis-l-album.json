@@ -214,5 +214,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Nymphalis_vaualbum",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198813"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198813",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

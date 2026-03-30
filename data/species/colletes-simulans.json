@@ -307,5 +307,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Colletes_simulans",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/179699"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/179699",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

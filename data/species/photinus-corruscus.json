@@ -230,5 +230,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellychnia_corrusca",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1616267"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1616267",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "decomposer"
+  }
 }

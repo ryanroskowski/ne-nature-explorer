@@ -251,5 +251,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Halloween_pennant",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/50147"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/50147",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

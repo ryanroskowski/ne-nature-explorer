@@ -230,5 +230,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Amblyscirtes_hegon",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/126118"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/126118",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

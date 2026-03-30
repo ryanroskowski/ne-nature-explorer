@@ -214,5 +214,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_rubyspot",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/51761"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/51761",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

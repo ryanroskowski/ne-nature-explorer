@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Strangalepta",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/231782"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/231782",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Wood borer — can damage trees"
+  }
 }

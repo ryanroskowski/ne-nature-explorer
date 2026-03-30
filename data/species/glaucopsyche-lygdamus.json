@@ -198,5 +198,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Glaucopsyche_lygdamus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/56776"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/56776",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

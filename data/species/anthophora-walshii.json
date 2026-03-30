@@ -237,5 +237,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Anthophora_walshii",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452927"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452927",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

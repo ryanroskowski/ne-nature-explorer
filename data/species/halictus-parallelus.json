@@ -244,5 +244,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Halictus_parallelus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199105"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199105",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

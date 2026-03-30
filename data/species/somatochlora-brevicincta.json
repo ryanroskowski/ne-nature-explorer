@@ -288,5 +288,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Somatochlora_brevicincta",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112784"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112784",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

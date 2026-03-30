@@ -230,5 +230,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Podabrus_rugosulus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/228444"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/228444",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

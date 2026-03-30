@@ -500,5 +500,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lasioglossum_versatum",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452971"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452971",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

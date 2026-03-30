@@ -235,5 +235,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Geotrupes_balyi",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/220364"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/220364",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "decomposer"
+  }
 }

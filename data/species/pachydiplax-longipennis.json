@@ -214,5 +214,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Blue_dasher",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/59774"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/59774",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

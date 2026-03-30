@@ -234,5 +234,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Phanogomphus_borealis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/520948"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/520948",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

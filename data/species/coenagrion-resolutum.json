@@ -230,5 +230,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Coenagrion_resolutum",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/98280"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/98280",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

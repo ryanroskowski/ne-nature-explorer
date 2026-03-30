@@ -243,5 +243,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Epitheca_princeps",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100215"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100215",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

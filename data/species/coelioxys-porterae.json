@@ -141,5 +141,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Coelioxys_porterae",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/626637"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/626637",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -230,5 +230,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Goldenrod_soldier_beetle",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/216649"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/216649",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

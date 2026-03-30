@@ -221,5 +221,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Colias_eurytheme",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58532"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58532",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

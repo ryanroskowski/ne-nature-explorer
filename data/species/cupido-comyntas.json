@@ -222,5 +222,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_tailed-blue",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/122381"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/122381",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

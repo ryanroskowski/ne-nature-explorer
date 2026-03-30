@@ -360,5 +360,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Megachile_mucida",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/508226"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/508226",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

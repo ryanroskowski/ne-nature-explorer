@@ -166,5 +166,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ctenucha_virginica",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/119013"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/119013",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

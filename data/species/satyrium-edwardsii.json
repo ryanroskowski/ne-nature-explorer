@@ -257,5 +257,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Satyrium_edwardsii",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/81566"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/81566",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

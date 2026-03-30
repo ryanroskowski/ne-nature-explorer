@@ -172,5 +172,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Burnsius_communis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1038408"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1038408",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

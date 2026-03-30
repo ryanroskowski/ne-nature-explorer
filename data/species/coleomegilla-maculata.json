@@ -222,5 +222,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Coleomegilla_maculata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/126267"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/126267",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

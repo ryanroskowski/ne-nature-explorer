@@ -213,5 +213,14 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pieris_rapae",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/55626"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/55626",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": true,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator",
+    "pestLevel": "major",
+    "pestNote": "Common crop pest — caterpillars damage cabbage family plants"
+  }
 }

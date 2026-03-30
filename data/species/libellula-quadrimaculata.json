@@ -286,5 +286,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Four-spotted_chaser",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/57443"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/57443",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

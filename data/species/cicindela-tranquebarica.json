@@ -271,5 +271,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cicindela_tranquebarica",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82450"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82450",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

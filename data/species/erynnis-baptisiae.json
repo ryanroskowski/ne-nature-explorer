@@ -235,5 +235,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Erynnis_baptisiae",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58478"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58478",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

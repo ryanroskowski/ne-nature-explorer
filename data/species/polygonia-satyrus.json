@@ -224,5 +224,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Polygonia_satyrus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/56644"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/56644",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

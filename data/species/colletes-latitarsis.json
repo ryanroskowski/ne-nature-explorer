@@ -307,5 +307,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Colletes_latitarsis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452952"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452952",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

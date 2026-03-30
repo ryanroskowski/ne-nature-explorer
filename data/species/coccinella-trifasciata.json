@@ -222,5 +222,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Coccinella_trifasciata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/207616"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/207616",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

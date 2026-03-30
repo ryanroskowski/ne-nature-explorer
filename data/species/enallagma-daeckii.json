@@ -381,5 +381,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Enallagma_daeckii",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99902"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99902",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

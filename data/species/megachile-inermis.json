@@ -370,5 +370,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Megachile_inermis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199134"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199134",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

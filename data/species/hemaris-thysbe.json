@@ -211,5 +211,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hemaris_thysbe",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82379"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82379",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -227,5 +227,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Melitta_eickworti",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1112983"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1112983",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

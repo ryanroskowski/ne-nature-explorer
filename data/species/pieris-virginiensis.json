@@ -229,5 +229,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pieris_virginiensis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198801"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198801",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

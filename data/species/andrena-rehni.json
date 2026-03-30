@@ -557,5 +557,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrena_rehni",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/459022"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/459022",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

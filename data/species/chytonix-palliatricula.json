@@ -219,5 +219,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chytonix_palliatricula",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52906"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52906",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

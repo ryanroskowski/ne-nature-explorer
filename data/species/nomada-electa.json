@@ -343,5 +343,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nomada_electa",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426458"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426458",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

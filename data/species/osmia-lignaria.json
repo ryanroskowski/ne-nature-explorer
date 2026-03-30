@@ -306,5 +306,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Osmia_lignaria",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/121507"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/121507",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

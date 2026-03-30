@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Darapsa_myron",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/118503"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/118503",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

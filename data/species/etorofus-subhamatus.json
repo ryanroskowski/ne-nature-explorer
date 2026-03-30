@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Etorofus_subhamatus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/908613"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/908613",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Wood borer — can damage trees"
+  }
 }

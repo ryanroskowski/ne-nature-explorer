@@ -190,5 +190,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lucidota_atra",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/224157"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/224157",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "decomposer"
+  }
 }

@@ -279,5 +279,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lestes_vigilax",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104464"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104464",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

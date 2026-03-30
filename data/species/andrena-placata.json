@@ -581,5 +581,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrena_placata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452913"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452913",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

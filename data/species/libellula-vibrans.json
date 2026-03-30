@@ -286,5 +286,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_blue_skimmer",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104586"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104586",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

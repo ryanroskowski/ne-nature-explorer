@@ -227,5 +227,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Macromia_alleghaniensis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/105017"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/105017",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

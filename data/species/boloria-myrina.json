@@ -251,5 +251,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Silver-bordered_fritillary",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1456428"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1456428",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

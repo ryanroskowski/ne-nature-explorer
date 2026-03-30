@@ -502,5 +502,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasioglossum_pectorale",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199089"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199089",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

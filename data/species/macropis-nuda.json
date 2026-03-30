@@ -227,5 +227,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Macropis_nuda",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199154"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199154",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

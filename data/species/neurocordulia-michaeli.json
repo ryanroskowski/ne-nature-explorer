@@ -187,5 +187,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Neurocordulia_michaeli",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/106978"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/106978",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

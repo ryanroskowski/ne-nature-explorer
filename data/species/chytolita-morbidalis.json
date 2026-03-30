@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chytolita_morbidalis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/129226"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/129226",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

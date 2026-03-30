@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Erora_laeta",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/54081"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/54081",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

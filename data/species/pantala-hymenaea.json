@@ -230,5 +230,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pantala_hymenaea",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52584"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52584",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

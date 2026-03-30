@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyrtophorus_verrucosus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/218051"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/218051",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Wood borer — can damage trees"
+  }
 }

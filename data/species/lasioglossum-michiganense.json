@@ -436,5 +436,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lasioglossum_michiganense",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452964"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452964",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -230,5 +230,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Monochamus_notatus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/130358"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/130358",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Wood borer — can damage trees"
+  }
 }

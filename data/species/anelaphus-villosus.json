@@ -198,5 +198,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Anelaphus_villosus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/213608"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/213608",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Wood borer — can damage trees"
+  }
 }

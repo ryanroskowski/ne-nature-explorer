@@ -235,5 +235,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Stenolophus_ochropezus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/231566"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/231566",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

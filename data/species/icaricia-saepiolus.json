@@ -124,5 +124,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Icaricia_saepiolus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/520398"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/520398",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

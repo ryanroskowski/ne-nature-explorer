@@ -335,5 +335,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bombus_vagans",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/128670"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/128670",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

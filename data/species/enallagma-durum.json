@@ -381,5 +381,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Enallagma_durum",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99908"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99908",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Atrytonopsis_hianna",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58516"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58516",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

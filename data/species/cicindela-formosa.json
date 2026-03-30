@@ -284,5 +284,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cicindela_formosa",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82453"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82453",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

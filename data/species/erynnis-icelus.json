@@ -227,5 +227,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Erynnis_icelus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58473"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58473",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

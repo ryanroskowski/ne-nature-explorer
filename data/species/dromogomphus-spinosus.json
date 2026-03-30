@@ -222,5 +222,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Dromogomphus_spinosus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99609"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99609",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

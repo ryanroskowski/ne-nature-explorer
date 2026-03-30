@@ -242,5 +242,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chalk-fronted_corporal",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/57458"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/57458",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

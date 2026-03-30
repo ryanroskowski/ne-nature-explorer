@@ -645,5 +645,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrena_confederata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/493864"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/493864",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

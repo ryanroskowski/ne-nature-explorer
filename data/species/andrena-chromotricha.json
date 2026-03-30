@@ -629,5 +629,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrena_chromotricha",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/459002"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/459002",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

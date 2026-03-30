@@ -212,5 +212,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Gomphaeschna_antilope",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/101639"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/101639",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

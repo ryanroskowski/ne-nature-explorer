@@ -360,5 +360,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Megachile_brevis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/57673"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/57673",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

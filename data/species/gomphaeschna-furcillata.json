@@ -235,5 +235,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Gomphaeschna_furcillata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/101640"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/101640",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

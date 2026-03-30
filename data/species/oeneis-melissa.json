@@ -227,5 +227,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Oeneis_melissa",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226266"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226266",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

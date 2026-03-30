@@ -285,5 +285,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bombus_insularis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/143036"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/143036",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -187,5 +187,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Oeneis_polixenes",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226268"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226268",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

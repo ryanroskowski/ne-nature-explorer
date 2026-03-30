@@ -206,5 +206,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Coenonympha_california",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/69145"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/69145",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

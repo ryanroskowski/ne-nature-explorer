@@ -666,5 +666,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Andrena_nuda",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452920"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452920",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

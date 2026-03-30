@@ -126,5 +126,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Dibolia_borealis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/218333"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/218333",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Leaf beetle — may damage foliage"
+  }
 }

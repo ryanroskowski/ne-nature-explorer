@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Larinus_obtusus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/455902"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/455902",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Weevil — may damage plants"
+  }
 }

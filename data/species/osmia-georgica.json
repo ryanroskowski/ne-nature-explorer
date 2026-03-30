@@ -304,5 +304,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Osmia_georgica",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226669"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226669",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

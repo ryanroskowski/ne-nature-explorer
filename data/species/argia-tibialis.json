@@ -177,5 +177,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Argia_tibialis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/94575"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/94575",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

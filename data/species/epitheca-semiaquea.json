@@ -243,5 +243,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Epitheca_semiaquea",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100216"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100216",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

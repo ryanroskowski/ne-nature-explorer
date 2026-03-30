@@ -671,5 +671,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Andrena_wilkella",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/127785"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/127785",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

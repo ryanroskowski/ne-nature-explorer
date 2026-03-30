@@ -227,5 +227,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": null,
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1456448"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1456448",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

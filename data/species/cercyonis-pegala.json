@@ -219,5 +219,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_wood-nymph",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58606"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58606",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

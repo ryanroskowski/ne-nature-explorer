@@ -206,5 +206,11 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chilocorus_stigma",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/120282"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/120282",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

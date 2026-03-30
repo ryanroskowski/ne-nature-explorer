@@ -304,5 +304,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Osmia_distincta",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199122"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199122",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

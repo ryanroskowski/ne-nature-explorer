@@ -235,5 +235,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Epilachna_borealis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/154559"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/154559",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -230,5 +230,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Osmoderma_scabra",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199455"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199455",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "May damage roots or foliage"
+  }
 }

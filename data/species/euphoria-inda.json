@@ -190,5 +190,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Euphoria_inda",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/219776"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/219776",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "May damage roots or foliage"
+  }
 }

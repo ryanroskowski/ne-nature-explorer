@@ -286,5 +286,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Aeshna_verticalis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/93449"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/93449",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

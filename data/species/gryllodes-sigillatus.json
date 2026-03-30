@@ -238,5 +238,11 @@
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Tropical_house_cricket",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/154340",
-  "xenoCantoUrl": "https://xeno-canto.org/species/Gryllodes-sigillatus"
+  "xenoCantoUrl": "https://xeno-canto.org/species/Gryllodes-sigillatus",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor"
+  }
 }

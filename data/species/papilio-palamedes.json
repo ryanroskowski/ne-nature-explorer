@@ -144,5 +144,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Papilio_palamedes",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/68232"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/68232",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

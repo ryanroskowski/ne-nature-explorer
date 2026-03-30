@@ -381,5 +381,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Enallagma_annexum",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99889"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99889",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

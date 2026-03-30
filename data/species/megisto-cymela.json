@@ -214,5 +214,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Megisto_cymela",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58603"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58603",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

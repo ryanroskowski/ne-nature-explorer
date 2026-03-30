@@ -193,5 +193,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hoplitis_anthocopoides",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/458982"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/458982",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

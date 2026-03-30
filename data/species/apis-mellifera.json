@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Western_honey_bee",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/47219"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/47219",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

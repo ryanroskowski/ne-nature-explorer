@@ -251,5 +251,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hudsonian_whiteface",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104550"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104550",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

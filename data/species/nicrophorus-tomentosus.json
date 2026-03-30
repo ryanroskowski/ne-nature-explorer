@@ -244,5 +244,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Nicrophorus_tomentosus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/147457"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/147457",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "decomposer"
+  }
 }

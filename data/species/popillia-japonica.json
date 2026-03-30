@@ -206,5 +206,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Japanese_beetle",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/67760"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/67760",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "major",
+    "pestNote": "Widespread garden and agricultural pest — skeletonizes leaves"
+  }
 }

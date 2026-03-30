@@ -661,5 +661,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrena_canadensis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199002"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199002",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

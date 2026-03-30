@@ -176,5 +176,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ophiogomphus_howei",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/107657"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/107657",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -271,5 +271,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sweetflag_spreadwing",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104431"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104431",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -286,5 +286,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Melissodes_trinodis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/134149"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/134149",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

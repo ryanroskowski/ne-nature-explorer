@@ -244,5 +244,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Halictus_rubicundus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/127747"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/127747",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

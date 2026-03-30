@@ -230,5 +230,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Charidotella_purpurata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/216645"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/216645",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Leaf beetle — may damage foliage"
+  }
 }

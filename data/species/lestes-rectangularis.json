@@ -255,5 +255,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lestes_rectangularis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104449"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104449",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

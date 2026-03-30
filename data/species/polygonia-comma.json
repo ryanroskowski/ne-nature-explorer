@@ -242,5 +242,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Polygonia_comma",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/54064"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/54064",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

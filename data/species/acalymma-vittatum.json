@@ -227,5 +227,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Striped_cucumber_beetle",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/154287"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/154287",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Leaf beetle — may damage foliage"
+  }
 }

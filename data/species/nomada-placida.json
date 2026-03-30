@@ -359,5 +359,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nomada_placida",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426449"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426449",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

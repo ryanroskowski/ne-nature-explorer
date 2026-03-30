@@ -230,5 +230,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Williamsonia_fletcheri",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/115031"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/115031",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -249,5 +249,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Halictus_ligatus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/154298"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/154298",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

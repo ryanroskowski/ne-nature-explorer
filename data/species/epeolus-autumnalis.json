@@ -238,5 +238,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Epeolus_autumnalis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452930"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452930",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

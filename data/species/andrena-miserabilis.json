@@ -671,5 +671,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Andrena_miserabilis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198979"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198979",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

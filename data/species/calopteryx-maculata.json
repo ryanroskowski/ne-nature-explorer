@@ -249,5 +249,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ebony_jewelwing",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84481"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84481",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

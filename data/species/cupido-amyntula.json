@@ -220,5 +220,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Western_tailed-blue",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/122382"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/122382",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

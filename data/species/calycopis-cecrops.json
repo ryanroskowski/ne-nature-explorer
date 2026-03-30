@@ -198,5 +198,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-banded_hairstreak",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/122281"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/122281",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

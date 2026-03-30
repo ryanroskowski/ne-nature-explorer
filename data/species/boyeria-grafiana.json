@@ -230,5 +230,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Boyeria_grafiana",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/95956"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/95956",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

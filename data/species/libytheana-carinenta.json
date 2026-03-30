@@ -206,5 +206,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_snout",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58561"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58561",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -198,5 +198,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Panoquina_ocola",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/147931"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/147931",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

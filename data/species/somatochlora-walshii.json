@@ -298,5 +298,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Somatochlora_walshii",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112809"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112809",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

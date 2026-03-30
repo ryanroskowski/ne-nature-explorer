@@ -227,5 +227,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Gomphurus_vastus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/133814"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/133814",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

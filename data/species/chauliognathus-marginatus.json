@@ -235,5 +235,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chauliognathus_marginatus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84040"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/84040",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

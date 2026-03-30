@@ -251,5 +251,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Leucorrhinia_glacialis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104549"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104549",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

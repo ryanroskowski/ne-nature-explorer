@@ -671,5 +671,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrena_rufosignata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198967"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198967",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

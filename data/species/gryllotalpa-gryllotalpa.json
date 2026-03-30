@@ -264,5 +264,12 @@
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Gryllotalpa_gryllotalpa",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/71219",
-  "xenoCantoUrl": "https://xeno-canto.org/species/Gryllotalpa-gryllotalpa"
+  "xenoCantoUrl": "https://xeno-canto.org/species/Gryllotalpa-gryllotalpa",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Lawn and garden pest — tunneling damages roots"
+  }
 }

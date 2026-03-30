@@ -295,5 +295,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Two-spotted_bumble_bee",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52779"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52779",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

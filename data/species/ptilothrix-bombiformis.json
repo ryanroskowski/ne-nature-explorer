@@ -188,5 +188,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ptilothrix_bombiformis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/135307"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/135307",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

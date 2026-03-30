@@ -573,5 +573,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Andrena_barbilabris",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199007"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199007",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

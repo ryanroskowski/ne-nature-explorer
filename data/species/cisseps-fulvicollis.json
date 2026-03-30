@@ -206,5 +206,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cisseps_fulvicollis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/119789"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/119789",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

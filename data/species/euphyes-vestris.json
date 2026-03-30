@@ -228,5 +228,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Euphyes_vestris",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58514"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58514",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -236,5 +236,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Celastrina_ladon",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58556"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58556",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

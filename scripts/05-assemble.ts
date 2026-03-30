@@ -104,6 +104,23 @@ export function assemble(
     console.log(`  Loaded audio data for ${Object.keys(audioData).length} ${groupKey} species`);
   }
 
+  // Load ecological roles (insects)
+  interface EcologicalRole {
+    isPollinator: boolean;
+    pollinatorType?: "primary" | "minor";
+    isBeneficial: boolean;
+    beneficialRole?: string;
+    isPest: boolean;
+    pestLevel?: "minor" | "major";
+    pestNote?: string;
+  }
+  const ROLE_GROUPS = ["insects"];
+  const ecologicalRoles: Record<string, EcologicalRole> =
+    ROLE_GROUPS.includes(groupKey) ? (loadJsonOptional("ecological-roles.json") || {}) : {};
+  if (ROLE_GROUPS.includes(groupKey) && Object.keys(ecologicalRoles).length > 0) {
+    console.log(`  Loaded ecological roles for ${Object.keys(ecologicalRoles).length} ${groupKey} species`);
+  }
+
   if (Object.keys(speciesContent).length === 0) {
     console.warn("  Note: No species content found. Species pages will have placeholder text.");
   }
@@ -244,6 +261,10 @@ export function assemble(
       // Xeno-canto species page (birds, amphibians with xeno-canto audio)
       ...(AUDIO_GROUPS.includes(groupKey) && audioData[species.taxonId.toString()]?.some(a => !a.iNatObservationId)
         ? { xenoCantoUrl: `https://xeno-canto.org/species/${species.scientificName.replace(" ", "-")}` }
+        : {}),
+      // Ecological roles (insects)
+      ...(ecologicalRoles[species.taxonId.toString()]
+        ? { ecologicalRole: ecologicalRoles[species.taxonId.toString()] }
         : {}),
     };
 

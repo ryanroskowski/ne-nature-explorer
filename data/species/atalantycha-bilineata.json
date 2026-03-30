@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Atalantycha_bilineata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/450366"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/450366",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

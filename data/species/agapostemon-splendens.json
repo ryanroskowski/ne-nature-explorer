@@ -234,5 +234,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Agapostemon_splendens",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199056"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199056",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

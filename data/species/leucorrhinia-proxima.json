@@ -243,5 +243,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Leucorrhinia_proxima",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104553"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104553",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -222,5 +222,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Rhionaeschna_mutata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/111734"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/111734",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

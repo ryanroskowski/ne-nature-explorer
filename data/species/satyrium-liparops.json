@@ -249,5 +249,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Satyrium_liparops",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58541"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58541",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

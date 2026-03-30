@@ -214,5 +214,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Green_darner",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/67731"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/67731",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

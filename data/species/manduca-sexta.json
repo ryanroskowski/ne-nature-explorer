@@ -227,5 +227,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Manduca_sexta",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/61505"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/61505",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

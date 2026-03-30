@@ -272,5 +272,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sympetrum_vicinum",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/68139"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/68139",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

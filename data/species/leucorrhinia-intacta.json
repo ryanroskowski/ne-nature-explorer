@@ -251,5 +251,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Dot-tailed_whiteface",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104551"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104551",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

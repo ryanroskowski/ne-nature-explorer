@@ -235,5 +235,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Erynnis_horatius",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/50071"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/50071",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Calliopsis_andreniformis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198952"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198952",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

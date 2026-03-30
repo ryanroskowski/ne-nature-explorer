@@ -510,5 +510,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lasioglossum_coriaceum",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199103"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199103",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

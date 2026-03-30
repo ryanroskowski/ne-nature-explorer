@@ -210,5 +210,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Papilio_canadensis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/57463"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/57463",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

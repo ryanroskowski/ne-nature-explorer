@@ -116,5 +116,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Miathyria_marcella",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/105699"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/105699",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

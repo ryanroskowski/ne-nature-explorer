@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Atalopedes_huron",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1455248"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1455248",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

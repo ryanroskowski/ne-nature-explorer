@@ -244,5 +244,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Euphyes_conspicua",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58522"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58522",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

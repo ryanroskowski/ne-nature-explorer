@@ -243,5 +243,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Perdita_octomaculata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198951"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198951",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

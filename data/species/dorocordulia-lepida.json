@@ -230,5 +230,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Dorocordulia_lepida",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99538"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99538",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

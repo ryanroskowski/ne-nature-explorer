@@ -250,5 +250,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Phanogomphus_lividus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/520951"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/520951",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

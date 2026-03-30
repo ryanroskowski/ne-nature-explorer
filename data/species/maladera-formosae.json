@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Maladera_formosae",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1260497"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1260497",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "May damage roots or foliage"
+  }
 }

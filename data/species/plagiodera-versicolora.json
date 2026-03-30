@@ -206,5 +206,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Plagiodera_versicolora",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/83839"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/83839",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Leaf beetle — may damage foliage"
+  }
 }

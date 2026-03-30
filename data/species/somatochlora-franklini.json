@@ -304,5 +304,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Somatochlora_franklini",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112793"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112793",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

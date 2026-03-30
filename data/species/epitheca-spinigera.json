@@ -201,5 +201,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Spiny_baskettail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100218"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100218",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

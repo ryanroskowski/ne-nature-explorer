@@ -196,5 +196,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Habropoda_laboriosa",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/121510"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/121510",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

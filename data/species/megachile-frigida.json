@@ -352,5 +352,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Megachile_frigida",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199136"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199136",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

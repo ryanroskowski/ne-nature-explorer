@@ -229,5 +229,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Tramea_carolina",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/68229"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/68229",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

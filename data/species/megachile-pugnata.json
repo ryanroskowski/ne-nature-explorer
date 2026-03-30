@@ -375,5 +375,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Megachile_pugnata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198850"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198850",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

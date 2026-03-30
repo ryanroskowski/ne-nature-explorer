@@ -272,5 +272,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/White-faced_meadowhawk",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/113519"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/113519",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

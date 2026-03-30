@@ -211,5 +211,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Gray_hairstreak",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/50931"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/50931",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

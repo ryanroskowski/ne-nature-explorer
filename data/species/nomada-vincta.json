@@ -367,5 +367,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nomada_vincta",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426476"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426476",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

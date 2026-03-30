@@ -222,5 +222,11 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Malachius_aeneus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82061"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82061",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

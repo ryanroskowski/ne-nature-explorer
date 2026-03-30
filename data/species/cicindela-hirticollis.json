@@ -284,5 +284,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cicindela_hirticollis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52619"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52619",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

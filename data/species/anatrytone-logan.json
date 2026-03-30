@@ -198,5 +198,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Anatrytone_logan",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58509"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58509",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

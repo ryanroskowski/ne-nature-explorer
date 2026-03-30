@@ -235,5 +235,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Karner_blue",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/484122"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/484122",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

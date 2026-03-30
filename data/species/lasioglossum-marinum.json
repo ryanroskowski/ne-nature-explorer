@@ -500,5 +500,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasioglossum_marinum",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/996741"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/996741",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

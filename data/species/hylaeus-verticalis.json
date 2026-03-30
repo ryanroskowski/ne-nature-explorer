@@ -218,5 +218,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hylaeus_verticalis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199046"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199046",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

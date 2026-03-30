@@ -242,5 +242,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Glischrochilus_quadrisignatus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/203328"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/203328",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "decomposer"
+  }
 }

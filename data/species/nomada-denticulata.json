@@ -271,5 +271,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nomada_denticulata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426457"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426457",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

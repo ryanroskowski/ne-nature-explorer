@@ -671,5 +671,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Andrena_clarkella",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198998"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198998",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

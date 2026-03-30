@@ -391,5 +391,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Tule_bluet",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99895"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99895",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

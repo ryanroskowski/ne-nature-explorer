@@ -195,5 +195,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hemaris_diffinis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/358549"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/358549",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

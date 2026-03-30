@@ -217,5 +217,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Brachiacantha_ursina",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/196609"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/196609",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

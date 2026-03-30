@@ -222,5 +222,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Anthidium_manicatum",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/62453"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/62453",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

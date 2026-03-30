@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pacificanthia_rotundicollis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/455349"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/455349",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

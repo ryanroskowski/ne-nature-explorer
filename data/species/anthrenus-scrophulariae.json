@@ -214,5 +214,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Anthrenus_scrophulariae",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/128264"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/128264",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "decomposer"
+  }
 }

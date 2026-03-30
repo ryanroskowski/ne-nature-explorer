@@ -251,5 +251,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Celithemis_elisa",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/63160"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/63160",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

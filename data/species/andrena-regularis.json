@@ -629,5 +629,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Andrena_regularis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198968"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198968",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

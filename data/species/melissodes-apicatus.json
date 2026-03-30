@@ -276,5 +276,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Melissodes_apicatus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/602567"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/602567",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

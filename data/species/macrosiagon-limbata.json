@@ -222,5 +222,11 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Macrosiagon_limbata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/133028"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/133028",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "parasitoid"
+  }
 }

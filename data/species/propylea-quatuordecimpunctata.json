@@ -214,5 +214,11 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Propylea_quatuordecimpunctata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/61532"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/61532",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

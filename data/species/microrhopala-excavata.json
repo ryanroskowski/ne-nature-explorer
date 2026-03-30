@@ -222,5 +222,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Microrhopala_excavata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/225145"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/225145",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Leaf beetle — may damage foliage"
+  }
 }

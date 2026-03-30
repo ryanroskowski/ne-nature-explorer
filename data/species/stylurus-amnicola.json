@@ -227,5 +227,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Stylurus_amnicola",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/113395"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/113395",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

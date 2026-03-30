@@ -227,5 +227,11 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sphaeroderus_stenostomus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/231337"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/231337",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -206,5 +206,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Phoebis_sennae",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/48550"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/48550",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

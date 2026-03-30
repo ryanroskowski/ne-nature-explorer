@@ -343,5 +343,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nomada_australis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426447"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426447",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

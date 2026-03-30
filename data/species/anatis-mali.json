@@ -222,5 +222,11 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Anatis_mali",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/213544"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/213544",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

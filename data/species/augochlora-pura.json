@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Augochlora_pura",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82523"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82523",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

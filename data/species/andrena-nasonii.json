@@ -671,5 +671,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Andrena_nasonii",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198977"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198977",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

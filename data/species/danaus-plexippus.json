@@ -198,5 +198,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Monarch_butterfly",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/48662"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/48662",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

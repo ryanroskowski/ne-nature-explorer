@@ -256,5 +256,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Somatochlora_kennedyi",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112798"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112798",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -264,5 +264,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sympetrum_costiferum",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/113502"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/113502",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

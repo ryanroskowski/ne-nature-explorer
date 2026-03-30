@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysolina_hyperici",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/216842"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/216842",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Leaf beetle — may damage foliage"
+  }
 }

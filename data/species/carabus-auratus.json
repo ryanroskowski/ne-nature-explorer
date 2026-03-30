@@ -206,5 +206,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Carabus_auratus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/194792"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/194792",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

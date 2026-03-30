@@ -227,5 +227,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Phyllobius_intrusus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/128554"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/128554",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Weevil — may damage plants"
+  }
 }

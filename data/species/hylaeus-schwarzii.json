@@ -218,5 +218,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hylaeus_schwarzii",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/874503"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/874503",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

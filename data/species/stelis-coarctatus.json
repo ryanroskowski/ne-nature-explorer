@@ -178,5 +178,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Stelis_coarctata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452981"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452981",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

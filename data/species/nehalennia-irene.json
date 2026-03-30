@@ -230,5 +230,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sedge_sprite",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/106653"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/106653",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

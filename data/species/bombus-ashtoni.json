@@ -253,5 +253,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bombus_ashtoni",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198857"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198857",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

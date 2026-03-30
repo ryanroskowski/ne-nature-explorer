@@ -164,5 +164,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Asterocampa_clyton",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58587"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58587",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

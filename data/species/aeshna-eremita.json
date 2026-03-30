@@ -286,5 +286,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Aeshna_eremita",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/93432"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/93432",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -229,5 +229,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black_saddlebags",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52865"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/52865",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -286,5 +286,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Melissodes_desponsus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/627202"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/627202",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

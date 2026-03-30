@@ -229,5 +229,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lycaena_epixanthe",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1360308"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1360308",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

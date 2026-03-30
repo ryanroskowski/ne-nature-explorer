@@ -314,5 +314,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Osmia_cornifrons",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/121508"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/121508",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

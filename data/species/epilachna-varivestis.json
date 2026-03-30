@@ -182,5 +182,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Mexican_bean_beetle",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/219319"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/219319",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

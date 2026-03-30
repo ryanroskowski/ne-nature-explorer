@@ -9,6 +9,7 @@ import RelatedSpecies from "@/components/species/RelatedSpecies";
 import AbundanceDots from "@/components/ui/AbundanceDots";
 import FamilyBadge from "@/components/ui/FamilyBadge";
 import NativeStatusBadge from "@/components/ui/NativeStatusBadge";
+import EcologicalRoleBadges from "@/components/ui/EcologicalRoleBadges";
 import BirdAudioPlayer from "@/components/species/BirdAudioPlayer";
 import type { SpeciesData, ContextualArticle } from "@/lib/types";
 
@@ -90,6 +91,9 @@ export default function SpeciesDetailPanel({
             <AbundanceDots tier={species.abundanceTier} showLabel />
             {species.isNative !== undefined && (
               <NativeStatusBadge isNative={species.isNative} />
+            )}
+            {species.ecologicalRole && (
+              <EcologicalRoleBadges role={species.ecologicalRole} />
             )}
           </div>
           {species.description && (

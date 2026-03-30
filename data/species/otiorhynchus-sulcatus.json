@@ -222,5 +222,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Otiorhynchus_sulcatus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226718"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226718",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Weevil — may damage plants"
+  }
 }

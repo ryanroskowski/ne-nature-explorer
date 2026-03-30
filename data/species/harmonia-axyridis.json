@@ -211,5 +211,13 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Harmonia_axyridis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/48484"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/48484",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": true,
+    "beneficialRole": "predator",
+    "pestLevel": "minor",
+    "pestNote": "Nuisance pest — invades buildings in fall, displaces native lady beetles"
+  }
 }

@@ -214,5 +214,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Acanthoscelidius_acephalus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/212226"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/212226",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Weevil — may damage plants"
+  }
 }

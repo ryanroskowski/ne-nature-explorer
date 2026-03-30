@@ -251,5 +251,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Variable_dancer",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/94545"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/94545",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

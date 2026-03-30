@@ -230,5 +230,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hobomok_skipper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1081323"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1081323",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

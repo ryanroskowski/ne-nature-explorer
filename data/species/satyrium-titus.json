@@ -257,5 +257,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Satyrium_titus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198804"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198804",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -272,5 +272,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Callophrys_irus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198817"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198817",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

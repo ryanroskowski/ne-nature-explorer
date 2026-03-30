@@ -140,5 +140,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Leptotes_marina",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/59152"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/59152",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

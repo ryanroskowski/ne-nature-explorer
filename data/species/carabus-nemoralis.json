@@ -230,5 +230,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Carabus_nemoralis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/56552"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/56552",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

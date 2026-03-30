@@ -264,5 +264,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Callophrys_augustinus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58543"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58543",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

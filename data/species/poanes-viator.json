@@ -230,5 +230,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Poanes_viator",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58511"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58511",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

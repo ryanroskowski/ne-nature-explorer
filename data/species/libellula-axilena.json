@@ -276,5 +276,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Libellula_axilena",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/81943"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/81943",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -269,5 +269,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Coelioxys_rufitarsis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/626642"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/626642",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

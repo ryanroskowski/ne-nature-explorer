@@ -212,5 +212,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Paranthidium_jugatorium",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/271664"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/271664",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

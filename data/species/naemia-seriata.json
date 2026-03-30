@@ -214,5 +214,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Naemia_seriata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/225438"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/225438",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

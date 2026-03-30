@@ -202,5 +202,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Vanessa_cardui",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/48548"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/48548",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

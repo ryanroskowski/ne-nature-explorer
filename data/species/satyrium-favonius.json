@@ -247,5 +247,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Satyrium_favonius",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/230441"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/230441",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

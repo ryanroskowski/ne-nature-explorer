@@ -230,5 +230,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Limochores_mystic",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1650173"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1650173",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

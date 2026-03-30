@@ -235,5 +235,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Epitheca_canis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100210"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100210",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

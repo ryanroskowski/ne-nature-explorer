@@ -235,5 +235,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lebia_ornata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/142709"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/142709",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

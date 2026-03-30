@@ -198,5 +198,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Variegated_meadowhawk",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/68138"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/68138",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

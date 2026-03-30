@@ -222,5 +222,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Erythrodiplax_berenice",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100391"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100391",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

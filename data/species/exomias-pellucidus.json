@@ -214,5 +214,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": null,
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1631601"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1631601",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Weevil — may damage plants"
+  }
 }

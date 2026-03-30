@@ -222,5 +222,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lebia_viridis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/135276"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/135276",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -229,5 +229,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Satyrodes_eurydice",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/141531"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/141531",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

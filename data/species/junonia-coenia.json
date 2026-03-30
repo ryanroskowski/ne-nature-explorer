@@ -190,5 +190,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Junonia_coenia",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/48505"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/48505",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -380,5 +380,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasioglossum_albipenne",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199111"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/199111",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

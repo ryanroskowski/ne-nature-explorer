@@ -234,5 +234,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ceratina_strenua",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/450709"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/450709",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

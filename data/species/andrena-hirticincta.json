@@ -671,5 +671,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Andrena_hirticincta",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198987"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198987",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -214,5 +214,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Essex_skipper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58484"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58484",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -241,5 +241,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Boloria_eunomia",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/215289"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/215289",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

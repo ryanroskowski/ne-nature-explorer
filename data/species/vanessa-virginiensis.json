@@ -221,5 +221,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_painted_lady",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/48549"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/48549",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

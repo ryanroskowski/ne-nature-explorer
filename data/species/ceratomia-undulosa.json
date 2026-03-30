@@ -158,5 +158,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ceratomia_undulosa",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82153"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82153",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

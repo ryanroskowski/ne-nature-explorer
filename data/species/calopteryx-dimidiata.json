@@ -228,5 +228,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Calopteryx_dimidiata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/96485"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/96485",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

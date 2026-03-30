@@ -286,5 +286,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Melissodes_bimaculatus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/567666"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/567666",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

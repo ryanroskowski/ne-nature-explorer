@@ -214,5 +214,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cantharis_livida",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/320288"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/320288",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -237,5 +237,11 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Glischrochilus_sanguinolentus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/220405"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/220405",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "decomposer"
+  }
 }

@@ -187,5 +187,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Sitona_hispidulus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/231080"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/231080",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Weevil — may damage plants"
+  }
 }

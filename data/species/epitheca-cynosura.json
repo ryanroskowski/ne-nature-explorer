@@ -235,5 +235,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_baskettail",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100212"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/100212",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

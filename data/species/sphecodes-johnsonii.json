@@ -243,5 +243,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Sphecodes_johnsonii",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/459042"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/459042",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -206,5 +206,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lymantria_dispar",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/47802"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/47802",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "major",
+    "pestNote": "Major forest defoliator — caterpillars strip hardwood trees"
+  }
 }

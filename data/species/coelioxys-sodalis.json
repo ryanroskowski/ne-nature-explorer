@@ -253,5 +253,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Coelioxys_sodalis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/626758"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/626758",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

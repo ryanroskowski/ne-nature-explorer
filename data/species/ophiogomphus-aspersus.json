@@ -263,5 +263,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ophiogomphus_aspersus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/107651"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/107651",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

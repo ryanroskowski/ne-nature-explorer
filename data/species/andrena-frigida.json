@@ -639,5 +639,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Andrena_frigida",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198991"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198991",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

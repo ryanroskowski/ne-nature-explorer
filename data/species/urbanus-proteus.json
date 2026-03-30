@@ -188,5 +188,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Long-tailed_skipper",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/67435"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/67435",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

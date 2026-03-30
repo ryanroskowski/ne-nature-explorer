@@ -484,5 +484,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasioglossum_zonulus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1453118"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1453118",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

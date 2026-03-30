@@ -222,5 +222,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Chromagrion",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/97738"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/97738",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -365,5 +365,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Enallagma_antennatum",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99890"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99890",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

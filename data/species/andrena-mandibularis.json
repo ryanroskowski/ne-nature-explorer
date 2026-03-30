@@ -541,5 +541,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrena_mandibularis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198984"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198984",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

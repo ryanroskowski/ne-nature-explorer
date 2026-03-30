@@ -250,5 +250,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Polygonia_progne",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58580"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58580",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

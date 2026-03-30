@@ -279,5 +279,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lestes",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104430"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104430",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

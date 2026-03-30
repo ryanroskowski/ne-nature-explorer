@@ -383,5 +383,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Enallagma_hageni",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99913"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99913",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

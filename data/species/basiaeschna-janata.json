@@ -182,5 +182,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Basiaeschna",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/95422"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/95422",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

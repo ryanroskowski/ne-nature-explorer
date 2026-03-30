@@ -197,5 +197,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Coelioxys_hunteri",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/626549"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/626549",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

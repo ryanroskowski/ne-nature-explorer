@@ -500,5 +500,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasioglossum_zephyrus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/905961"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/905961",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

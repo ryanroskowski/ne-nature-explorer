@@ -377,5 +377,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nomada_luteoloides",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426461"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426461",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

@@ -262,5 +262,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sympetrum_danae",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/113503"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/113503",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

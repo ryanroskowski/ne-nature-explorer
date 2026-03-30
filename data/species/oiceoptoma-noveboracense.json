@@ -222,5 +222,11 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Oiceoptoma_noveboracense",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226275"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226275",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "decomposer"
+  }
 }

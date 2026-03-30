@@ -230,5 +230,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Photinus_pyralis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/129350"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/129350",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "decomposer"
+  }
 }

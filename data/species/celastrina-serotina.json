@@ -226,5 +226,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Celastrina_serotina",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198815"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/198815",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

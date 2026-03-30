@@ -304,5 +304,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Somatochlora_albicincta",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112782"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112782",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

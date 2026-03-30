@@ -319,5 +319,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bombus_perplexus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/155085"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/155085",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

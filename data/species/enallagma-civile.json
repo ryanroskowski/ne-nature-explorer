@@ -396,5 +396,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Familiar_bluet",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99897"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/99897",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

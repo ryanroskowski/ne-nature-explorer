@@ -222,5 +222,11 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthocomus_equestris",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/320043"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/320043",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

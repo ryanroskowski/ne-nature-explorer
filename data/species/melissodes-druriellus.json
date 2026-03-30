@@ -286,5 +286,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Melissodes_druriellus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/602568"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/602568",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

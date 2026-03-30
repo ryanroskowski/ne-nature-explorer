@@ -214,5 +214,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Buprestis_striata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/366304"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/366304",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Wood/bark borer"
+  }
 }

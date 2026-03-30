@@ -206,5 +206,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_carrion_beetle",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/81746"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/81746",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "decomposer"
+  }
 }

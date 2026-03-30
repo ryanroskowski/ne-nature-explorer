@@ -214,5 +214,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Schinia_florida",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/143316"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/143316",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "minor",
+    "beneficialRole": "pollinator"
+  }
 }

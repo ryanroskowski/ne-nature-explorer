@@ -314,5 +314,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Somatochlora_tenebrosa",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112808"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112808",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

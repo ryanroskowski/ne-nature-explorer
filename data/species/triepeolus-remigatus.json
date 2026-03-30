@@ -262,5 +262,12 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Triepeolus_remigatus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452939"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/452939",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

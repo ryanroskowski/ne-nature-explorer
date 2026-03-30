@@ -214,5 +214,11 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Erythemis_simplicicollis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/61495"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/61495",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

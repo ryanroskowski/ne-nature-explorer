@@ -222,5 +222,12 @@
   "relatedSpecies": [],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Dichelonyx_albicollis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/218363"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/218363",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "May damage roots or foliage"
+  }
 }

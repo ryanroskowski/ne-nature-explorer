@@ -230,5 +230,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lanthus_vernalis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104071"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104071",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

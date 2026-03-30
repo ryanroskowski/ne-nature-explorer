@@ -271,5 +271,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cicindela_purpurea",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/53598"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/53598",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -206,5 +206,12 @@
   "relatedSpecies": [],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ancyloxypha_numitor",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58481"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/58481",
+  "ecologicalRole": {
+    "isPollinator": true,
+    "isBeneficial": true,
+    "isPest": false,
+    "pollinatorType": "primary",
+    "beneficialRole": "pollinator"
+  }
 }

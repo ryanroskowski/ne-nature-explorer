@@ -230,5 +230,12 @@
   ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Polydrusus_formosus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/494559"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/494559",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": false,
+    "isPest": true,
+    "pestLevel": "minor",
+    "pestNote": "Weevil — may damage plants"
+  }
 }

@@ -279,5 +279,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cicindela_duodecimguttata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82446"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/82446",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

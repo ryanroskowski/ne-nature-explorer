@@ -251,5 +251,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Leucorrhinia_frigida",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104548"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/104548",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }

@@ -314,5 +314,11 @@
   ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Somatochlora_elongata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112789"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/112789",
+  "ecologicalRole": {
+    "isPollinator": false,
+    "isBeneficial": true,
+    "isPest": false,
+    "beneficialRole": "predator"
+  }
 }
