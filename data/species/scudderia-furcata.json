@@ -256,7 +256,36 @@
       "distinction": "undefined."
     }
   ],
+  "audio": [
+    {
+      "xenoCantoId": "1031093",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1031093/download",
+      "pageUrl": "https://xeno-canto.org/1031093",
+      "recordist": "Doug Hynes",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "B",
+      "length": "0:23",
+      "location": "Big Glace Bay Lake National Wildlife Area, Nova Scotia",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "875191",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/875191/download",
+      "pageUrl": "https://xeno-canto.org/875191",
+      "recordist": "K.-G. Heller",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "B",
+      "length": "0:28",
+      "location": "Kansas, Umg. Lawrence; Nordrand Perry Lake",
+      "sonogramUrl": ""
+    }
+  ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Scudderia_furcata",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/55957"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/55957",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Scudderia-furcata"
 }

@@ -97,7 +97,7 @@ export function assemble(
     sonogramUrl: string;
     source?: string;
   }
-  const AUDIO_GROUPS = ["birds", "amphibians"];
+  const AUDIO_GROUPS = ["birds", "amphibians", "insects"];
   const audioData: Record<string, AudioEntry[]> =
     AUDIO_GROUPS.includes(groupKey) ? (loadJsonOptional("audio.json") || {}) : {};
   if (AUDIO_GROUPS.includes(groupKey) && Object.keys(audioData).length > 0) {

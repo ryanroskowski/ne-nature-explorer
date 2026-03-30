@@ -263,7 +263,49 @@
       "distinction": "."
     }
   ],
+  "audio": [
+    {
+      "xenoCantoId": "1083742",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1083742/download",
+      "pageUrl": "https://xeno-canto.org/1083742",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:10",
+      "location": "Yard, Croton, New York",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "842885",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/842885/download",
+      "pageUrl": "https://xeno-canto.org/842885",
+      "recordist": "Albert Lastukhin",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:08",
+      "location": "Whiteville, Columbus, North Carolina",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "904485",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/904485/download",
+      "pageUrl": "https://xeno-canto.org/904485",
+      "recordist": "Chris Harrison",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:13",
+      "location": "Ottine, Gonzales County, Texas",
+      "sonogramUrl": ""
+    }
+  ],
   "isNative": true,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Oecanthus_niveus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226221"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226221",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Oecanthus-niveus"
 }

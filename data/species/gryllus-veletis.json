@@ -240,7 +240,36 @@
       "distinction": "."
     }
   ],
+  "audio": [
+    {
+      "xenoCantoId": "999809",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/999809/download",
+      "pageUrl": "https://xeno-canto.org/999809",
+      "recordist": "Rory Nefdt",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:35",
+      "location": "Ridge Road Park, Greenburgh (near  Hartsdale), Westchester County, New York",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "993274",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/993274/download",
+      "pageUrl": "https://xeno-canto.org/993274",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:34",
+      "location": "Croton Point Park, Croton-on-Hudson, Westchester County, New York",
+      "sonogramUrl": ""
+    }
+  ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Gryllus_veletis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/129135"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/129135",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Gryllus-veletis"
 }

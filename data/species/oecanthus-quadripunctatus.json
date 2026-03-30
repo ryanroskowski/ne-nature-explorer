@@ -263,7 +263,49 @@
       "distinction": "."
     }
   ],
+  "audio": [
+    {
+      "xenoCantoId": "861327",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/861327/download",
+      "pageUrl": "https://xeno-canto.org/861327",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:36",
+      "location": "Croton Point Park, Croton-on-Hudson, Westchester County, New York",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "1012200",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/1012200/download",
+      "pageUrl": "https://xeno-canto.org/1012200",
+      "recordist": "Albert Lastukhin",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "B",
+      "length": "0:10",
+      "location": "Whiteville, Columbus, North Carolina",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "909734",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/909734/download",
+      "pageUrl": "https://xeno-canto.org/909734",
+      "recordist": "Bill Grantham",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "B",
+      "length": "0:17",
+      "location": "St. Marks National Wildlife Refuge, Wakulla County, Florida",
+      "sonogramUrl": ""
+    }
+  ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Oecanthus_quadripunctatus",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226222"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/226222",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Oecanthus-quadripunctatus"
 }

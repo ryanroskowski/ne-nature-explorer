@@ -263,7 +263,36 @@
       "distinction": "."
     }
   ],
+  "audio": [
+    {
+      "xenoCantoId": "908808",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/908808/download",
+      "pageUrl": "https://xeno-canto.org/908808",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:32",
+      "location": "Croton Point Park, Croton-on-Hudson, Westchester County, New York",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "873852",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/873852/download",
+      "pageUrl": "https://xeno-canto.org/873852",
+      "recordist": "S. Ingrisch",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "B",
+      "length": "1:52",
+      "location": "Michigan, Ann Arbor, environs",
+      "sonogramUrl": ""
+    }
+  ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Conocephalus_brevipennis",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/118961"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/118961",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Conocephalus-brevipennis"
 }

@@ -256,7 +256,36 @@
       "distinction": "undefined."
     }
   ],
+  "audio": [
+    {
+      "xenoCantoId": "859446",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/859446/download",
+      "pageUrl": "https://xeno-canto.org/859446",
+      "recordist": "Molly Jacobson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:15",
+      "location": "University of New Hampshire, Durham",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "827939",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/827939/download",
+      "pageUrl": "https://xeno-canto.org/827939",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:22",
+      "location": "Croton Point Park, Croton-on-Hudson, Westchester County, New York",
+      "sonogramUrl": ""
+    }
+  ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Neoconocephalus_ensiger",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/225598"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/225598",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Neoconocephalus-ensiger"
 }

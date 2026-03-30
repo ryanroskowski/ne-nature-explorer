@@ -246,7 +246,36 @@
       "distinction": "undefined."
     }
   ],
+  "audio": [
+    {
+      "xenoCantoId": "826396",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/826396/download",
+      "pageUrl": "https://xeno-canto.org/826396",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "4:19",
+      "location": "Croton Point Park, Croton-on-Hudson, Westchester County, New York",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "876111",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/876111/download",
+      "pageUrl": "https://xeno-canto.org/876111",
+      "recordist": "Baudewijn Odé",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "B",
+      "length": "1:12",
+      "location": "Lesser Antilles: Bonaire, NP Washington Slagbaai, Visitor Center. 20221122 loc 3",
+      "sonogramUrl": ""
+    }
+  ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Neoconocephalus_triops",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/225604"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/225604",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Neoconocephalus-triops"
 }

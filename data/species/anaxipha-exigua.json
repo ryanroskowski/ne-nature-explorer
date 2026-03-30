@@ -233,7 +233,36 @@
       "distinction": "undefined."
     }
   ],
+  "audio": [
+    {
+      "xenoCantoId": "935694",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/935694/download",
+      "pageUrl": "https://xeno-canto.org/935694",
+      "recordist": "Daniel Parker",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:23",
+      "location": "Yard, Croton, New York",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "927673",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/927673/download",
+      "pageUrl": "https://xeno-canto.org/927673",
+      "recordist": "Allen Chartier",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:14",
+      "location": "Inkster, Wayne County, Michigan",
+      "sonogramUrl": ""
+    }
+  ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Anaxipha_exigua",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/213545"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/213545",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Anaxipha-exigua"
 }

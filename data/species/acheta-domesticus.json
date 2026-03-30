@@ -194,7 +194,49 @@
   "contextualKnowledge": null,
   "compareHints": "",
   "relatedSpecies": [],
+  "audio": [
+    {
+      "xenoCantoId": "1064848",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1064848/download",
+      "pageUrl": "https://xeno-canto.org/1064848",
+      "recordist": "Noud van den Berg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "0:38",
+      "location": "Wetland (near  Asten), Asten, Noord-Brabant",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "966430",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/966430/download",
+      "pageUrl": "https://xeno-canto.org/966430",
+      "recordist": "Julien Barataud",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "A",
+      "length": "0:47",
+      "location": "Corrèze, Brivezac",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "489193",
+      "type": "song",
+      "label": "Song 3",
+      "audioUrl": "https://xeno-canto.org/489193/download",
+      "pageUrl": "https://xeno-canto.org/489193",
+      "recordist": "Piotr Szczypinski",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "quality": "A",
+      "length": "0:33",
+      "location": "Gmina Szreńsk, mławski, mazowieckie",
+      "sonogramUrl": ""
+    }
+  ],
   "isNative": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/House_cricket",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/133220"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/133220",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Acheta-domesticus"
 }

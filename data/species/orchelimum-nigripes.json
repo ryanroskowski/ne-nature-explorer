@@ -253,7 +253,36 @@
       "distinction": "undefined."
     }
   ],
+  "audio": [
+    {
+      "xenoCantoId": "1078086",
+      "type": "song",
+      "label": "Song",
+      "audioUrl": "https://xeno-canto.org/1078086/download",
+      "pageUrl": "https://xeno-canto.org/1078086",
+      "recordist": "Kai Frueh",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "quality": "A",
+      "length": "1:05",
+      "location": "Magee Marsh - boardwalk, Lucas County, Ohio",
+      "sonogramUrl": ""
+    },
+    {
+      "xenoCantoId": "875067",
+      "type": "song",
+      "label": "Song 2",
+      "audioUrl": "https://xeno-canto.org/875067/download",
+      "pageUrl": "https://xeno-canto.org/875067",
+      "recordist": "K.-G. Heller",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "quality": "B",
+      "length": "0:12",
+      "location": "Kansas, Lawrence",
+      "sonogramUrl": ""
+    }
+  ],
   "isNative": true,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Orchelimum_nigripes",
-  "iNaturalistUrl": "https://www.inaturalist.org/taxa/143151"
+  "iNaturalistUrl": "https://www.inaturalist.org/taxa/143151",
+  "xenoCantoUrl": "https://xeno-canto.org/species/Orchelimum-nigripes"
 }
