@@ -2,17 +2,18 @@ import type { MetadataRoute } from "next";
 import { getAllSpeciesSlugs } from "@/lib/data/species";
 import { getCommonality } from "@/lib/data/commonality";
 import { getContextualArticles } from "@/lib/data/articles";
+import { getAvailableGroups } from "@/lib/data/groups";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://ne-nature-explorer.vercel.app";
 
   const speciesSlugs = getAllSpeciesSlugs();
   const commonality = getCommonality();
+  const groups = getAvailableGroups().filter((g) => g.status === "active");
 
   // Collect unique genera for compare pages
   const genera = new Set<string>();
   for (const s of commonality) {
-    // Use the slug format (lowercase, hyphenated)
     genera.add(s.scientificName.split(" ")[0].toLowerCase());
   }
 
@@ -41,7 +42,47 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly",
       priority: 0.8,
     },
+    {
+      url: `${baseUrl}/browse`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/map`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/identify`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.7,
+    },
   ];
+
+  // Browse pages per group (traits, flowers, monthly, seasonal)
+  const browsePages: MetadataRoute.Sitemap = groups.flatMap((g) => [
+    {
+      url: `${baseUrl}/browse/traits?group=${g.key}`,
+      lastModified: new Date(),
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/browse/monthly?group=${g.key}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.6,
+    },
+    {
+      url: `${baseUrl}/browse/seasonal?group=${g.key}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.6,
+    },
+  ]);
 
   const speciesPages: MetadataRoute.Sitemap = speciesSlugs.map((slug) => ({
     url: `${baseUrl}/species/${slug}`,
@@ -75,5 +116,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   ];
 
-  return [...staticPages, ...speciesPages, ...comparePages, ...learnPages];
+  return [...staticPages, ...browsePages, ...speciesPages, ...comparePages, ...learnPages];
 }

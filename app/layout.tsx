@@ -12,24 +12,37 @@ const lora = Lora({
   display: "swap",
 });
 
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://ne-nature-explorer.vercel.app";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(baseUrl),
   title: {
     default: "New England Nature Explorer",
     template: "%s — NE Nature Explorer",
   },
   description:
-    "Discover and learn to identify the plants, fungi, and wildlife of New England. An interactive field guide for explorers of all ages.",
+    "Discover and learn to identify the plants, fungi, birds, mammals, insects, and wildlife of New England. An interactive field guide with 10,000+ species for nature explorers of all ages.",
   keywords: [
     "New England",
     "nature",
+    "wildlife",
     "plants",
+    "birds",
+    "fungi",
+    "mushrooms",
+    "insects",
+    "mammals",
     "wildflowers",
     "trees",
     "field guide",
-    "identification",
-    "botany",
-    "iNaturalist",
-    "flora",
+    "species identification",
+    "nature guide",
+    "Connecticut",
+    "Massachusetts",
+    "Maine",
+    "New Hampshire",
+    "Rhode Island",
+    "Vermont",
   ],
   authors: [{ name: "NE Nature Explorer" }],
   openGraph: {
@@ -38,13 +51,15 @@ export const metadata: Metadata = {
     siteName: "New England Nature Explorer",
     title: "New England Nature Explorer",
     description:
-      "Discover and learn to identify the plants, fungi, and wildlife of New England. An interactive field guide for explorers of all ages.",
+      "Discover and learn to identify the plants, fungi, birds, mammals, insects, and wildlife of New England. An interactive field guide with 10,000+ species.",
+    images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: "New England Nature Explorer" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "New England Nature Explorer",
     description:
-      "An interactive field guide to the plants of New England.",
+      "An interactive field guide to the plants, fungi, birds, and wildlife of New England.",
+    images: [{ url: "/opengraph-image", alt: "New England Nature Explorer" }],
   },
   robots: {
     index: true,
@@ -59,6 +74,29 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={lora.variable}>
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "New England Nature Explorer",
+              url: baseUrl,
+              description:
+                "An interactive field guide to the plants, fungi, birds, mammals, insects, and wildlife of New England.",
+              potentialAction: {
+                "@type": "SearchAction",
+                target: {
+                  "@type": "EntryPoint",
+                  urlTemplate: `${baseUrl}/explore?q={search_term_string}`,
+                },
+                "query-input": "required name=search_term_string",
+              },
+            }),
+          }}
+        />
+      </head>
       <body className="antialiased min-h-screen flex flex-col">
         {/* Skip to main content — accessibility */}
         <a
