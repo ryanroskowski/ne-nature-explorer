@@ -10,6 +10,7 @@ import AbundanceDots from "@/components/ui/AbundanceDots";
 import FamilyBadge from "@/components/ui/FamilyBadge";
 import NativeStatusBadge from "@/components/ui/NativeStatusBadge";
 import EcologicalRoleBadges from "@/components/ui/EcologicalRoleBadges";
+import { BloomSeasonBadge, PollinatorAttractionBadge } from "@/components/ui/PlantBadges";
 import BirdAudioPlayer from "@/components/species/BirdAudioPlayer";
 import type { SpeciesData, ContextualArticle } from "@/lib/types";
 
@@ -94,6 +95,12 @@ export default function SpeciesDetailPanel({
             )}
             {species.ecologicalRole && (
               <EcologicalRoleBadges role={species.ecologicalRole} />
+            )}
+            {species.bloomPeriod && (
+              <BloomSeasonBadge bloomPeriod={species.bloomPeriod} />
+            )}
+            {species.pollinatorInfo && species.pollinatorInfo.length > 0 && (
+              <PollinatorAttractionBadge pollinators={species.pollinatorInfo} />
             )}
           </div>
           {species.description && (

@@ -104,6 +104,18 @@ export function assemble(
     console.log(`  Loaded audio data for ${Object.keys(audioData).length} ${groupKey} species`);
   }
 
+  // Load pollinator data (plants — from GloBI)
+  interface PollinatorData {
+    pollinators: string[];
+    totalRecords: number;
+  }
+  const POLLINATOR_GROUPS = ["plants"];
+  const pollinatorData: Record<string, PollinatorData> =
+    POLLINATOR_GROUPS.includes(groupKey) ? (loadJsonOptional("pollinator-info.json") || {}) : {};
+  if (POLLINATOR_GROUPS.includes(groupKey) && Object.keys(pollinatorData).length > 0) {
+    console.log(`  Loaded pollinator data for ${Object.keys(pollinatorData).length} ${groupKey} species`);
+  }
+
   // Load ecological roles (insects)
   interface EcologicalRole {
     isPollinator: boolean;
@@ -253,6 +265,13 @@ export function assemble(
               })
             ),
           }
+        : {}),
+      // Plant-specific bloom/pollinator data
+      ...(groupKey === "plants" && traitsMap[species.taxonId.toString()]?.bloomPeriod
+        ? { bloomPeriod: traitsMap[species.taxonId.toString()].bloomPeriod }
+        : {}),
+      ...(pollinatorData[species.taxonId.toString()]?.pollinators?.length
+        ? { pollinatorInfo: pollinatorData[species.taxonId.toString()].pollinators }
         : {}),
       isNative: traitsMap[species.taxonId.toString()]?.isNative,
       establishmentMeans: species.establishmentMeans,

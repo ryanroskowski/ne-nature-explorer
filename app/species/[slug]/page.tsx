@@ -12,6 +12,7 @@ import AbundanceDots from "@/components/ui/AbundanceDots";
 import FamilyBadge from "@/components/ui/FamilyBadge";
 import NativeStatusBadge from "@/components/ui/NativeStatusBadge";
 import EcologicalRoleBadges from "@/components/ui/EcologicalRoleBadges";
+import { BloomSeasonBadge, PollinatorAttractionBadge } from "@/components/ui/PlantBadges";
 import BirdAudioPlayer from "@/components/species/BirdAudioPlayer";
 
 // Allow on-demand rendering — too many species (~16k) to pre-build at deploy time.
@@ -156,6 +157,12 @@ export default async function SpeciesPage({
             )}
             {species.ecologicalRole && (
               <EcologicalRoleBadges role={species.ecologicalRole} />
+            )}
+            {species.bloomPeriod && (
+              <BloomSeasonBadge bloomPeriod={species.bloomPeriod} />
+            )}
+            {species.pollinatorInfo && species.pollinatorInfo.length > 0 && (
+              <PollinatorAttractionBadge pollinators={species.pollinatorInfo} />
             )}
           </div>
         </div>

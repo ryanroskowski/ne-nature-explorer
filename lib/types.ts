@@ -83,6 +83,10 @@ export interface SpeciesData {
   // Audio recordings (birds)
   audio?: SpeciesAudio[];
 
+  // Plant-specific badges
+  bloomPeriod?: string | null;     // "spring", "early-summer", "summer", etc.
+  pollinatorInfo?: string[];        // ["bees", "butterflies", "hummingbirds"] from GloBI
+
   // Ecological roles (insects)
   ecologicalRole?: {
     isPollinator: boolean;
