@@ -637,44 +637,113 @@ export default function IdentifyPage() {
 
         {/* Tips section */}
         {!results && !loading && (
-          <div className="bg-white/60 rounded-xl p-5 border border-border/50">
-            <h3 className="font-serif font-bold text-forest mb-3">
-              📸 Tips for better results
-            </h3>
-            <ul className="space-y-2 text-sm text-text-secondary">
-              <li className="flex gap-2">
-                <span>🌸</span>
-                <span>
-                  <strong>Flowers</strong> give the most accurate
-                  identifications
-                </span>
-              </li>
-              <li className="flex gap-2">
-                <span>🍃</span>
-                <span>
-                  <strong>Leaves</strong> — photograph the top side with clear
-                  shape visible
-                </span>
-              </li>
-              <li className="flex gap-2">
-                <span>📐</span>
-                <span>
-                  Fill the frame with the plant feature — avoid distant shots
-                </span>
-              </li>
-              <li className="flex gap-2">
-                <span>☀️</span>
-                <span>Good natural lighting dramatically improves accuracy</span>
-              </li>
-              <li className="flex gap-2">
-                <span>📷</span>
-                <span>
-                  Upload multiple photos (up to 5) of different parts for better
-                  results
-                </span>
-              </li>
-            </ul>
-          </div>
+          <>
+            <div className="bg-white/60 rounded-xl p-5 border border-border/50">
+              <h3 className="font-serif font-bold text-forest mb-3">
+                📸 Tips for better results
+              </h3>
+              <ul className="space-y-2 text-sm text-text-secondary">
+                <li className="flex gap-2">
+                  <span>🌸</span>
+                  <span>
+                    <strong>Flowers</strong> give the most accurate
+                    identifications
+                  </span>
+                </li>
+                <li className="flex gap-2">
+                  <span>🍃</span>
+                  <span>
+                    <strong>Leaves</strong> — photograph the top side with clear
+                    shape visible
+                  </span>
+                </li>
+                <li className="flex gap-2">
+                  <span>📐</span>
+                  <span>
+                    Fill the frame with the plant feature — avoid distant shots
+                  </span>
+                </li>
+                <li className="flex gap-2">
+                  <span>☀️</span>
+                  <span>Good natural lighting dramatically improves accuracy</span>
+                </li>
+                <li className="flex gap-2">
+                  <span>📷</span>
+                  <span>
+                    Upload multiple photos (up to 5) of different parts for better
+                    results
+                  </span>
+                </li>
+              </ul>
+            </div>
+
+            {/* Other groups — free apps */}
+            <div className="bg-white/60 rounded-xl p-5 border border-border/50 mt-4">
+              <h3 className="font-serif font-bold text-forest mb-2">
+                Need to identify something else?
+              </h3>
+              <p className="text-sm text-text-secondary mb-4">
+                Our identifier works for plants only. For mushrooms, birds, insects, and other wildlife,
+                these free apps use AI-powered photo recognition:
+              </p>
+              <div className="space-y-3">
+                <a
+                  href="https://www.inaturalist.org/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-start gap-3 p-3 rounded-lg hover:bg-cream transition-colors group"
+                >
+                  <span className="text-2xl shrink-0">🌍</span>
+                  <div>
+                    <span className="font-ui font-medium text-text-primary group-hover:text-forest transition-colors">
+                      iNaturalist
+                    </span>
+                    <span className="text-xs text-text-secondary/60 ml-1.5">Web, iOS, Android</span>
+                    <p className="text-xs text-text-secondary mt-0.5">
+                      Upload a photo of any living thing — plants, fungi, birds, insects, and more.
+                      AI suggests species and the community helps confirm. The gold standard for nature ID.
+                    </p>
+                  </div>
+                </a>
+                <a
+                  href="https://www.inaturalist.org/pages/seek_app"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-start gap-3 p-3 rounded-lg hover:bg-cream transition-colors group"
+                >
+                  <span className="text-2xl shrink-0">📱</span>
+                  <div>
+                    <span className="font-ui font-medium text-text-primary group-hover:text-forest transition-colors">
+                      Seek by iNaturalist
+                    </span>
+                    <span className="text-xs text-text-secondary/60 ml-1.5">iOS, Android</span>
+                    <p className="text-xs text-text-secondary mt-0.5">
+                      Real-time identification through your camera — point at a mushroom, bird, or insect
+                      and get instant results. No account needed, great for kids.
+                    </p>
+                  </div>
+                </a>
+                <a
+                  href="https://lens.google/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-start gap-3 p-3 rounded-lg hover:bg-cream transition-colors group"
+                >
+                  <span className="text-2xl shrink-0">🔍</span>
+                  <div>
+                    <span className="font-ui font-medium text-text-primary group-hover:text-forest transition-colors">
+                      Google Lens
+                    </span>
+                    <span className="text-xs text-text-secondary/60 ml-1.5">Built into most phones</span>
+                    <p className="text-xs text-text-secondary mt-0.5">
+                      Already on your phone — open your camera app or Google Photos and tap the Lens icon.
+                      Works for mushrooms, plants, insects, and more.
+                    </p>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </>
         )}
       </div>
     </main>
