@@ -5,6 +5,7 @@ import "./globals.css";
 import { Analytics } from "@vercel/analytics/react";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
+import TwemojiParser from "@/components/layout/TwemojiParser";
 
 const lora = Lora({
   variable: "--font-lora",
@@ -96,6 +97,10 @@ export default function RootLayout({
             }),
           }}
         />
+        <script
+          src="https://cdn.jsdelivr.net/npm/@twemoji/api@latest/dist/twemoji.min.js"
+          crossOrigin="anonymous"
+        />
       </head>
       <body className="antialiased min-h-screen flex flex-col">
         {/* Skip to main content — accessibility */}
@@ -112,6 +117,7 @@ export default function RootLayout({
           </main>
           <Footer />
         </Suspense>
+        <TwemojiParser />
         <Analytics />
       </body>
     </html>
