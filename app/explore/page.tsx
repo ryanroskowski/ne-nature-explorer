@@ -12,9 +12,9 @@ export const metadata: Metadata = {
 export default async function ExplorePage({
   searchParams,
 }: {
-  searchParams: Promise<{ group?: string; species?: string }>;
+  searchParams: Promise<{ group?: string; species?: string; path?: string }>;
 }) {
-  const { group, species } = await searchParams;
+  const { group, species, path } = await searchParams;
   const allTrees = getAllTaxonomyTrees();
 
   return (
@@ -41,6 +41,7 @@ export default async function ExplorePage({
         allTrees={allTrees}
         initialGroup={group}
         initialSpecies={species}
+        initialPath={path}
       />
     </div>
   );

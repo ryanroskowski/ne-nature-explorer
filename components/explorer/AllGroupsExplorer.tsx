@@ -81,6 +81,19 @@ interface AllGroupsExplorerProps {
   allTrees: { group: GroupInfo; tree: TaxonomyNode }[];
   initialGroup?: string;
   initialSpecies?: string;
+  initialPath?: string; // slug path to expand to (e.g. "rosaceae" or "rosales/rosaceae")
+}
+
+/** Find a node by slug and return the path of IDs from root to that node */
+function findNodePath(node: TaxonomyNode, targetSlug: string, path: number[] = []): number[] | null {
+  const nodeSlug = slugify(node.name);
+  const currentPath = [...path, node.id];
+  if (nodeSlug === targetSlug) return currentPath;
+  for (const child of node.children) {
+    const result = findNodePath(child, targetSlug, currentPath);
+    if (result) return result;
+  }
+  return null;
 }
 
 // ── Species node (leaf) ──────────────────────────────────────
@@ -337,8 +350,25 @@ function InnerNode({
 }
 
 // ── Main component ───────────────────────────────────────────
-export default function AllGroupsExplorer({ allTrees, initialGroup, initialSpecies }: AllGroupsExplorerProps) {
+export default function AllGroupsExplorer({ allTrees, initialGroup, initialSpecies, initialPath }: AllGroupsExplorerProps) {
   const [expandedIds, setExpandedIds] = useState<Set<number>>(() => {
+    // If we have a specific path to expand to, prioritize that
+    if (initialPath) {
+      const targetSlug = initialPath.split("/").pop() || initialPath;
+      const group = initialGroup
+        ? allTrees.find((t) => t.group.key === initialGroup)
+        : null;
+      const searchTrees = group ? [group] : allTrees;
+      for (const { tree } of searchTrees) {
+        const nodePath = findNodePath(tree, targetSlug);
+        if (nodePath) {
+          // Expand all ancestors so the target node is visible
+          const ids = new Set(nodePath);
+          return ids;
+        }
+      }
+    }
+
     // Try restoring from sessionStorage first
     try {
       const savedIds = sessionStorage.getItem(STORAGE_KEY);

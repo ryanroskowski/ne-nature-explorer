@@ -127,12 +127,14 @@ export default async function SpeciesPage({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      {/* Breadcrumbs — append ?group= so explore links load the right taxonomy */}
+      {/* Breadcrumbs — rewrite explore/family-slug → explore?group=X&path=family-slug */}
       <Breadcrumbs items={species.breadcrumb.map(item => ({
         ...item,
-        slug: item.slug.startsWith("explore") && species.group
-          ? `${item.slug}?group=${species.group}`
-          : item.slug,
+        slug: item.slug.startsWith("explore/") && species.group
+          ? `explore?group=${species.group}&path=${item.slug.replace("explore/", "")}`
+          : item.slug === "explore" && species.group
+            ? `explore?group=${species.group}`
+            : item.slug,
       }))} />
 
       {/* Header */}
