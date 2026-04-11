@@ -153,7 +153,7 @@ export default async function SpeciesPage({
             />
             <AbundanceDots tier={species.abundanceTier} showLabel />
             {species.isNative !== undefined && (
-              <NativeStatusBadge isNative={species.isNative} />
+              <NativeStatusBadge isNative={species.isNative} isInvasive={species.isInvasive} />
             )}
             {species.ecologicalRole && (
               <EcologicalRoleBadges role={species.ecologicalRole} />

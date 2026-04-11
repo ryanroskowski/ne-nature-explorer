@@ -91,7 +91,7 @@ export default function SpeciesDetailPanel({
             <FamilyBadge family={species.family} familyCommonName={species.familyCommonName} />
             <AbundanceDots tier={species.abundanceTier} showLabel />
             {species.isNative !== undefined && (
-              <NativeStatusBadge isNative={species.isNative} />
+              <NativeStatusBadge isNative={species.isNative} isInvasive={species.isInvasive} />
             )}
             {species.ecologicalRole && (
               <EcologicalRoleBadges role={species.ecologicalRole} />

@@ -116,6 +116,18 @@ export function assemble(
     console.log(`  Loaded pollinator data for ${Object.keys(pollinatorData).length} ${groupKey} species`);
   }
 
+  // Load invasive status (plants — from GRIIS via GBIF)
+  interface InvasiveStatus {
+    isInvasive: boolean;
+    griisMatch?: string;
+  }
+  const INVASIVE_GROUPS = ["plants"];
+  const invasiveData: Record<string, InvasiveStatus> =
+    INVASIVE_GROUPS.includes(groupKey) ? (loadJsonOptional("invasive-status.json") || {}) : {};
+  if (INVASIVE_GROUPS.includes(groupKey) && Object.keys(invasiveData).length > 0) {
+    console.log(`  Loaded invasive status for ${Object.keys(invasiveData).length} ${groupKey} species`);
+  }
+
   // Load ecological roles (insects)
   interface EcologicalRole {
     isPollinator: boolean;
@@ -274,6 +286,7 @@ export function assemble(
         ? { pollinatorInfo: pollinatorData[species.taxonId.toString()].pollinators }
         : {}),
       isNative: traitsMap[species.taxonId.toString()]?.isNative,
+      isInvasive: invasiveData[species.taxonId.toString()]?.isInvasive || false,
       establishmentMeans: species.establishmentMeans,
       wikipediaUrl: species.wikipediaUrl,
       iNaturalistUrl: `https://www.inaturalist.org/taxa/${species.taxonId}`,

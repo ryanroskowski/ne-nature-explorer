@@ -100,6 +100,7 @@ export interface SpeciesData {
 
   // Metadata
   isNative?: boolean;
+  isInvasive?: boolean;
   establishmentMeans?: string;
   wikipediaUrl?: string;
   iNaturalistUrl: string;
