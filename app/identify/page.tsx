@@ -46,6 +46,40 @@ function scientificNameToSlug(name: string): string {
   return name.toLowerCase().replace(/\s+/g, "-");
 }
 
+// Session storage helpers
+const SESSION_KEY = "identify-state";
+
+function saveSession(data: {
+  previews: string[];
+  organ: OrganType;
+  results: PlantNetResult[] | null;
+  speciesExistence: Record<string, boolean>;
+}) {
+  try {
+    sessionStorage.setItem(SESSION_KEY, JSON.stringify(data));
+  } catch {
+    // sessionStorage full or unavailable — clear and skip
+    try { sessionStorage.removeItem(SESSION_KEY); } catch { /* noop */ }
+  }
+}
+
+function loadSession(): {
+  previews: string[];
+  organ: OrganType;
+  results: PlantNetResult[] | null;
+  speciesExistence: Record<string, boolean>;
+} | null {
+  try {
+    const stored = sessionStorage.getItem(SESSION_KEY);
+    if (stored) return JSON.parse(stored);
+  } catch { /* noop */ }
+  return null;
+}
+
+function clearSession() {
+  try { sessionStorage.removeItem(SESSION_KEY); } catch { /* noop */ }
+}
+
 export default function IdentifyPage() {
   const [previews, setPreviews] = useState<string[]>([]);
   const [organ, setOrgan] = useState<OrganType>("auto");
@@ -55,6 +89,7 @@ export default function IdentifyPage() {
   const [dragActive, setDragActive] = useState(false);
   const [speciesExistence, setSpeciesExistence] = useState<Record<string, boolean>>({});
   const [remainingIds, setRemainingIds] = useState<number | null>(null);
+  const [restored, setRestored] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
   const cameraInputRef = useRef<HTMLInputElement>(null);
 
@@ -69,7 +104,7 @@ export default function IdentifyPage() {
     }
   }, []);
 
-  // Restore remaining count from sessionStorage on page load
+  // Restore state from sessionStorage on page load (back navigation)
   useEffect(() => {
     try {
       const stored = sessionStorage.getItem("plantnet-remaining");
@@ -79,7 +114,26 @@ export default function IdentifyPage() {
     } catch {
       // sessionStorage not available
     }
+
+    const session = loadSession();
+    if (session) {
+      setPreviews(session.previews);
+      setOrgan(session.organ);
+      setResults(session.results);
+      setSpeciesExistence(session.speciesExistence);
+    }
+    setRestored(true);
   }, []);
+
+  // Persist state to sessionStorage whenever it changes
+  useEffect(() => {
+    if (!restored) return; // Don't save during initial restore
+    if (previews.length > 0 || results) {
+      saveSession({ previews, organ, results, speciesExistence });
+    } else {
+      clearSession();
+    }
+  }, [previews, organ, results, speciesExistence, restored]);
 
   // Compress image to max 1600px and JPEG to keep uploads small (mobile photos can be 5-10MB)
   const compressImage = useCallback((file: File): Promise<File> => {
@@ -257,6 +311,7 @@ export default function IdentifyPage() {
     setResults(null);
     setError(null);
     setSpeciesExistence({});
+    clearSession();
     if (fileInputRef.current) fileInputRef.current.value = "";
     if (cameraInputRef.current) cameraInputRef.current.value = "";
   };
