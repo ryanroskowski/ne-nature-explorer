@@ -84,6 +84,11 @@ export default function SpeciesDetailPanel({
           <h2 className="font-serif text-2xl font-bold text-text-primary capitalize">
             {species.commonName}
           </h2>
+          {species.alternativeNames && species.alternativeNames.length > 0 && (
+            <p className="text-xs text-text-secondary mt-0.5">
+              Also known as: {species.alternativeNames.join(", ")}
+            </p>
+          )}
           <p className="text-base italic text-text-secondary mt-0.5">
             {species.scientificName}
           </p>

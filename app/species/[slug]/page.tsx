@@ -144,6 +144,11 @@ export default async function SpeciesPage({
             <h1 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary capitalize">
               {species.commonName}
             </h1>
+            {species.alternativeNames && species.alternativeNames.length > 0 && (
+              <p className="text-sm text-text-secondary mt-0.5">
+                Also known as: {species.alternativeNames.join(", ")}
+              </p>
+            )}
             <p className="text-lg italic text-text-secondary mt-1">
               {species.scientificName}
             </p>

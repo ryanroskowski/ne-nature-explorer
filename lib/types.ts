@@ -39,6 +39,7 @@ export interface SpeciesData {
   taxonId: number;
   group?: string; // taxon group key (e.g. "plants", "birds", "fungi")
   commonName: string;
+  alternativeNames?: string[];
   scientificName: string;
   family: string;
   familyCommonName: string;

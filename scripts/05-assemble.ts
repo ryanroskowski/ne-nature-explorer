@@ -128,6 +128,17 @@ export function assemble(
     console.log(`  Loaded invasive status for ${Object.keys(invasiveData).length} ${groupKey} species`);
   }
 
+  // Load alternative common names (all groups)
+  interface AltNamesData {
+    alternativeNames: string[];
+  }
+  const altNamesData: Record<string, AltNamesData> =
+    loadJsonOptional("alt-names.json") || {};
+  if (Object.keys(altNamesData).length > 0) {
+    const withAlts = Object.values(altNamesData).filter(d => d.alternativeNames.length > 0).length;
+    console.log(`  Loaded alternative names for ${Object.keys(altNamesData).length} species (${withAlts} with alt names)`);
+  }
+
   // Load ecological roles (insects)
   interface EcologicalRole {
     isPollinator: boolean;
@@ -222,6 +233,9 @@ export function assemble(
       taxonId: species.taxonId,
       group: groupKey,
       commonName: species.commonName,
+      ...(altNamesData[species.taxonId.toString()]?.alternativeNames?.length
+        ? { alternativeNames: altNamesData[species.taxonId.toString()].alternativeNames }
+        : {}),
       scientificName: species.scientificName,
       family: species.familyName || "Unknown",
       familyCommonName: species.familyCommonName || "Unknown",
