@@ -115,11 +115,12 @@ function findGroup(
   return null;
 }
 
-export const dynamicParams = true;
+export const dynamicParams = false;
 
 export function generateStaticParams() {
-  // Compare pages generated on-demand and cached — too many genus combos to pre-build
-  return [];
+  // Pre-build all 15 group compare pages
+  const groups = ["plants", "mammals", "amphibians", "reptiles", "birds", "lichens", "fungi", "insects", "arachnids", "fish", "mollusks", "crustaceans", "cnidarians", "myriapods", "echinoderms"];
+  return groups.map((group) => ({ group }));
 }
 
 export default async function CompareGroupPage({

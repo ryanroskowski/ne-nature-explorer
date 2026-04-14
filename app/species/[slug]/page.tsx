@@ -15,15 +15,13 @@ import EcologicalRoleBadges from "@/components/ui/EcologicalRoleBadges";
 import { BloomSeasonBadge, PollinatorAttractionBadge } from "@/components/ui/PlantBadges";
 import BirdAudioPlayer from "@/components/species/BirdAudioPlayer";
 
-// Allow on-demand rendering — too many species (~16k) to pre-build at deploy time.
-// Pages are generated on first visit, then cached by Vercel's CDN.
-export const dynamicParams = true;
+// Pre-build ALL species pages at deploy time (full SSG).
+// Avoids ISR writes and origin transfer that burn Vercel free tier quotas.
+export const dynamicParams = false;
 
-// Pre-build a small subset (most common species) for instant loading
 export async function generateStaticParams() {
-  // Only pre-render the first 200 most popular species at build time
   const slugs = getAllSpeciesSlugs();
-  return slugs.slice(0, 200).map((slug) => ({ slug }));
+  return slugs.map((slug) => ({ slug }));
 }
 
 // Generate metadata for SEO with Open Graph
