@@ -3,6 +3,10 @@
   "taxonId": 49716,
   "group": "insects",
   "commonName": "Blinded Sphinx",
+  "alternativeNames": [
+    "Blind-eyed Sphinx",
+    "Blinded Sphinx Moth"
+  ],
   "scientificName": "Paonias excaecata",
   "family": "Sphingidae",
   "familyCommonName": "Sphinx Moths",
@@ -197,6 +201,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Paonias_excaecatus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/49716",
   "ecologicalRole": {

@@ -3,6 +3,9 @@
   "taxonId": 344545,
   "group": "fungi",
   "commonName": "Gold Dust Waxy Cap",
+  "alternativeNames": [
+    "gold flecked woodwax"
+  ],
   "scientificName": "Hygrophorus chrysodon",
   "family": "Hygrophoraceae",
   "familyCommonName": "Waxcaps and Allies",
@@ -324,6 +327,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hygrophorus_chrysodon",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/344545"
 }

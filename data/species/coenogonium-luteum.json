@@ -1,7 +1,7 @@
 {
   "slug": "coenogonium-luteum",
   "taxonId": 400938,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Orange Dimple Lichen",
   "scientificName": "Coenogonium luteum",
   "family": "Coenogoniaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "script lichens, whitewash lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -91,56 +91,31 @@
       "observationUrl": "https://www.inaturalist.org/observations/7018573"
     }
   ],
-  "nameStory": "The Orange Dimple Lichen gets its cheerful name from the tiny orange-yellow bumps that dot its surface like little dimples on a green face. These colorful 'dimples' are actually reproductive structures called apothecia, where the lichen produces spores to create new colonies.",
-  "description": "Orange Dimple Lichen is a crusty, film-like lichen that forms thin patches on tree bark and rocks. It creates a greenish-gray to yellowish coating that can spread several inches across, looking almost painted on. The most distinctive feature is the scattered bright orange to yellow-orange dots that speckle the surface. Despite its name suggesting larger size, this lichen typically forms relatively small patches, rarely exceeding 4-6 inches across.",
-  "idTips": [
-    {
-      "label": "Orange reproductive dots",
-      "description": "Look for tiny bright orange to yellow-orange bumps scattered across the surface - they feel slightly raised and firm when gently touched with a fingernail",
-      "isPrimary": true
-    },
-    {
-      "label": "Thin crusty texture",
-      "description": "The body feels papery-thin and somewhat smooth, almost like dried paint that's been applied in a very thin layer",
-      "isPrimary": false
-    },
-    {
-      "label": "Greenish-gray background",
-      "description": "The main body color is a muted greenish-gray to pale yellowish, providing contrast for the bright orange dots",
-      "isPrimary": false
-    },
-    {
-      "label": "Smooth margins",
-      "description": "Edges are typically smooth and well-defined rather than lobed or leafy, creating clean boundaries where it meets bare bark",
-      "isPrimary": false
-    },
-    {
-      "label": "Bark preference",
-      "description": "Most commonly found on smooth to slightly textured bark of deciduous trees, rarely on very rough or deeply furrowed bark",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Orange Dimple Lichen grows on the bark of deciduous trees in humid forests and wooded areas throughout New England. It prefers smooth-barked trees like maples, birches, and younger oaks, typically in sheltered locations with consistent moisture. Look for it in mature forests, especially in valleys and north-facing slopes where humidity stays higher.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The orange reproductive dots become more vibrant and noticeable as moisture increases, making this the best time for positive identification.",
-    "summer": "Growth continues steadily in humid conditions, though the lichen may appear slightly faded during dry spells. The orange dots remain visible but may be less bright.",
-    "fall": "Increased moisture makes the colors more pronounced again, and the contrast between the background and orange dots becomes very striking.",
-    "winter": "Still visible and identifiable on bark, though colors may appear somewhat muted. The thin profile means it's less noticeable when covered by snow or ice."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is actually a three-way partnership: not just the usual fungus and algae team, but it also hosts cyanobacteria that can capture nitrogen from the air and share it with its partners, essentially fertilizing itself!",
-  "confusionNotes": "Most likely confused with other small crusty lichens, but the bright orange dots are quite distinctive - if you see those cheerful orange specks, you've likely found your Orange Dimple Lichen. Remember: orange dots = Orange Dimple.",
-  "contextualKnowledge": "As a member of the Coenogoniaceae family, this lichen represents a relatively uncommon group that's more diverse in tropical regions. Finding one in New England makes it a special discovery, as most species in this family prefer warmer climates.",
-  "compareHints": "Orange Dimple Lichen differs from its relative Pink Dimple Lichen mainly in the color of its reproductive structures - orange versus pink dots. Both share the same thin, crusty growth form and preference for smooth bark, but the Orange Dimple tends to have a more yellowish background color overall. The orange dots are typically more vibrant and easier to spot than the subtler pink ones of its cousin.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "coenogonium-pineti",
       "commonName": "Pink Dimple Lichen",
       "scientificName": "Coenogonium pineti",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/307800066/medium.jpg",
-      "distinction": "Pink Dimple Lichen differs from its relative Orange Dimple Lichen primarily in the color of its reproductive structures - Pink Dimple has pale, nearly white dimples while Orange Dimple has distinctly orange-tinted ones."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/400938"
 }

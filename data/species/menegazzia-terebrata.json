@@ -1,8 +1,11 @@
 {
   "slug": "menegazzia-terebrata",
   "taxonId": 123677,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Port-hole Lichen",
+  "alternativeNames": [
+    "Treeflute Lichen"
+  ],
   "scientificName": "Menegazzia terebrata",
   "family": "Parmeliaceae",
   "familyCommonName": "shield lichens and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +51,7 @@
     }
   ],
   "observationCount": 2,
-  "abundanceTier": "moderate",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 34321099,
@@ -115,56 +118,31 @@
       "observationUrl": "https://www.inaturalist.org/observations/222339160"
     }
   ],
-  "nameStory": "Port-hole Lichen gets its memorable name from the distinctive round holes that perforate its surface, just like the circular windows on a ship! These natural openings make it look like tiny port-holes have been punched through the lichen's body. The scientific name 'terebrata' comes from the Latin word meaning 'to bore through,' referring to these same characteristic holes.",
-  "description": "Port-hole Lichen is a leafy (foliose) lichen that forms gray-green to brownish patches on tree bark. What makes it instantly recognizable are the small, round holes scattered across its surface that look like they were made with a hole punch. The lichen grows in overlapping, leaf-like lobes that can spread several inches across. It's quite rare in New England, making it an exciting find for lichen enthusiasts.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "The defining feature - small, round holes scattered across the surface that look like tiny port-holes punched through the lichen body",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Leafy (foliose) with overlapping, flat lobes that feel papery when dry and become more pliable when wet",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Gray-green to pale brownish above, darker underneath; colors become more vibrant and saturated when wet",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Growing directly on tree bark, usually on the trunk or larger branches of deciduous trees",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual patches can reach 2-4 inches across, with the characteristic holes being quite small - about 1-2mm in diameter",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Port-hole Lichen grows on the bark of deciduous trees in mature forests throughout New England, though it's extremely uncommon in our region. Look for it in older woodlands with good air quality, particularly on the trunks of maple, oak, and birch trees. It seems to prefer areas with consistent moisture and protection from harsh weather.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Wet spring weather brings out the best colors - the gray-green becomes more vibrant and the characteristic holes are easier to spot against the moistened surface.",
-    "summer": "During dry summer days, the lichen becomes papery and lighter in color, but the diagnostic holes remain clearly visible.",
-    "fall": "Fall rains refresh the lichen's appearance, and the contrast between wet lichen and colorful autumn leaves makes it easier to spot on tree trunks.",
-    "winter": "Snow and ice may temporarily obscure the lichen, but on warmer winter days when bark is wet, the holes show up beautifully against the darkened surface."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Port-hole Lichen is found on every continent except Antarctica, making it one of the most widely distributed lichens on Earth - yet it's incredibly rare in New England with only 2 recorded observations!",
-  "confusionNotes": "The round holes make this lichen nearly impossible to confuse with anything else once you know what to look for. Other gray-green foliose lichens might seem similar at first glance, but none have the distinctive port-hole perforations.",
-  "contextualKnowledge": "Despite being found worldwide, Port-hole Lichen is extremely rare in New England, making any sighting particularly noteworthy. It's much more common in other parts of the world, so its scarcity here might be related to our specific climate conditions or air quality factors.",
-  "compareHints": "Port-hole Lichen differs from its relative Tree Flute Lichen by having round holes instead of elongated slits or cracks. While both are gray-green foliose lichens, Tree Flute Lichen has narrow, linear openings that look more like flute holes than round port-holes. The perforations in Port-hole Lichen are also typically more numerous and evenly distributed across the surface.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "menegazzia-subsimilis",
       "commonName": "Tree Flute Lichen",
       "scientificName": "Menegazzia subsimilis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7630183/medium.jpeg",
-      "distinction": "Tree Flute Lichen differs from its relative Port-hole Lichen by lacking the distinctive holes or 'port-holes' that give that species its name."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Menegazzia_terebrata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/123677"
 }

@@ -3,6 +3,9 @@
   "taxonId": 10423,
   "group": "birds",
   "commonName": "White-winged Crossbill",
+  "alternativeNames": [
+    "Two-barred Crossbill"
+  ],
   "scientificName": "Loxia leucoptera",
   "family": "Fringillidae",
   "familyCommonName": "Finches, Euphonias, and Allies",
@@ -314,6 +317,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Two-barred_crossbill",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/10423",
   "xenoCantoUrl": "https://xeno-canto.org/species/Loxia-leucoptera"

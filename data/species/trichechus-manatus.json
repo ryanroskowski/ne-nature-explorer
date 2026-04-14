@@ -3,6 +3,10 @@
   "taxonId": 46316,
   "group": "mammals",
   "commonName": "West Indian Manatee",
+  "alternativeNames": [
+    "American Manatee",
+    "North American Manatee"
+  ],
   "scientificName": "Trichechus manatus",
   "family": "Trichechidae",
   "familyCommonName": "Manatees",
@@ -184,6 +188,7 @@
   "compareHints": "The West Indian manatee is the only manatee species that could possibly reach New England waters, though such an occurrence would be extremely rare. Unlike seals or whales that might be confused with them, manatees are strict vegetarians with a completely different body plan - no hind limbs at all, just that distinctive flat tail. They're also much slower and more deliberate in their movements than any marine mammal commonly seen in New England.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/West_Indian_manatee",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/46316"
 }

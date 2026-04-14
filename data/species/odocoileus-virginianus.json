@@ -3,6 +3,17 @@
   "taxonId": 42223,
   "group": "mammals",
   "commonName": "White-tailed Deer",
+  "alternativeNames": [
+    "White Tailed Deer",
+    "White Tail Deer",
+    "Whitetail",
+    "White Deer",
+    "Virginia Deer",
+    "Common American Deer",
+    "Flag-tailed Deer",
+    "American Deer",
+    "Whitetail deer"
+  ],
   "scientificName": "Odocoileus virginianus",
   "family": "Cervidae",
   "familyCommonName": "Deer",
@@ -181,6 +192,7 @@
   "compareHints": "White-tailed deer are the only members of their genus in New England, but they're part of the deer family that also includes moose and elk. Compared to moose, white-tails are much smaller, more graceful, and have that distinctive white tail flag. Unlike elk (which don't live in New England), white-tailed deer have more modest antlers and lack the light-colored rump patch that elk display.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/White-tailed_deer",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/42223"
 }

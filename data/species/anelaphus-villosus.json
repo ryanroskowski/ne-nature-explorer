@@ -3,6 +3,10 @@
   "taxonId": 213608,
   "group": "insects",
   "commonName": "Twig Pruner",
+  "alternativeNames": [
+    "Oak Twig Pruner",
+    "Hickory Twig Pruner"
+  ],
   "scientificName": "Anelaphus villosus",
   "family": "Cerambycidae",
   "familyCommonName": "Longhorn Beetles",
@@ -197,6 +201,7 @@
   "compareHints": "Since this is the only Anelaphus species in New England, compare it to other longhorn beetles by its signature fuzzy texture and medium size. Most other longhorns in the region are either much larger with smooth, shiny bodies, or smaller and more colorful, lacking the twig pruner's distinctive velvety brown coat.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Anelaphus_villosus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/213608",
   "ecologicalRole": {

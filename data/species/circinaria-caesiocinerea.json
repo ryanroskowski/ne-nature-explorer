@@ -1,7 +1,7 @@
 {
   "slug": "circinaria-caesiocinerea",
   "taxonId": 462704,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Blue-gray Sunken-disk",
   "scientificName": "Circinaria caesiocinerea",
   "family": "Megasporaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "wart lichens, water lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -147,48 +147,23 @@
       "observationUrl": "https://www.inaturalist.org/observations/46270403"
     }
   ],
-  "nameStory": "The Blue-gray Sunken-disk gets its name from its distinctive appearance - a flat, crusty lichen with a bluish-gray color and small, sunken circular structures called apothecia that look like tiny disks pressed into the surface. These disk-like features are where the lichen produces its spores, and they're often darker than the surrounding thallus, creating a striking contrast that makes identification easier.",
-  "description": "The Blue-gray Sunken-disk is a crustose lichen, meaning it forms a thin, crusty coating that's tightly attached to rock surfaces. This hardy organism is actually a partnership between a fungus and algae working together - the fungus provides structure and protection while the algae make food through photosynthesis. It appears as a grayish-blue patch on rock faces, typically spreading several inches across in irregular patches. The surface is relatively smooth with characteristic sunken, disk-like structures scattered across it.",
-  "idTips": [
-    {
-      "label": "Sunken disk structures",
-      "description": "Look for small, dark, circular depressions in the lichen surface that appear pushed down like thumbprints in clay - these are the spore-producing structures and feel slightly softer when gently pressed",
-      "isPrimary": true
-    },
-    {
-      "label": "Blue-gray coloration",
-      "description": "The overall color is a distinctive blue-gray or steel-gray, sometimes with a slight greenish tint when moist, quite different from the pure gray of many other rock lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Crustose growth form",
-      "description": "Forms a thin, crusty layer that's firmly attached to rock - you cannot peel it off like paper, and it feels rough and slightly gritty to the touch",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock substrate preference",
-      "description": "Almost exclusively found growing on hard rock surfaces, particularly granite and other acidic rocks, never on bark or soil",
-      "isPrimary": false
-    },
-    {
-      "label": "Smooth thallus texture",
-      "description": "The main body has a relatively smooth, even surface between the sunken disks, lacking the bumpy or warty texture of many other rock lichens",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Blue-gray Sunken-disk grows on exposed rock faces and boulders, particularly favoring granite outcrops and other acidic rock types throughout New England's mountains and rocky areas. You're most likely to spot it on south-facing rock surfaces that receive good sunlight, from sea level coastal rocks up to mountain summits. It thrives in areas with clean air and can often be found alongside other crustose lichens on the same rock faces.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Most visible after snow melt when rocks are clean and the lichen's blue-gray color contrasts sharply with wet, dark rock surfaces. Spring moisture may intensify the coloration slightly.",
-    "summer": "The sunken disk structures are most apparent during dry summer conditions when the contrast between the disks and main body is strongest. Colors may appear more muted in intense sunlight.",
-    "fall": "Autumn rains can bring out the subtle color variations and make the texture more apparent to touch, while fallen leaves provide color contrast that aids in spotting the lichen.",
-    "winter": "Still visible under snow cover and may be one of the few organisms showing color on winter rock faces, though ice formation can temporarily obscure the characteristic sunken disks."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is essentially a solar-powered partnership that's been perfecting the art of living on bare rock for millions of years - it actually helps break down the rock surface by producing acids, slowly contributing to soil formation over geological time scales, meaning every patch is literally helping to build the earth beneath our feet grain by grain.",
-  "confusionNotes": "Most easily confused with other gray crustose lichens on rocks, but the distinctive sunken disk structures are the key difference - other similar lichens have raised or flush disk structures, not the characteristic pressed-in appearance. Remember: 'sunken like a thumbprint' distinguishes it from its flat-topped relatives.",
-  "contextualKnowledge": "This species was originally classified in the genus Lecanora when first described in 1869, but modern genetic analysis revealed it belonged in a different group entirely, leading to its reclassification in 2010. This kind of taxonomic shuffling is common in lichen studies as DNA analysis reveals relationships that aren't obvious from appearance alone.",
-  "compareHints": "As the only Circinaria species documented in our New England dataset, Blue-gray Sunken-disk is most similar to other crustose lichens in the Megasporaceae family. However, it can be distinguished from related species by its specific blue-gray coloration and the deeply sunken nature of its reproductive disks, rather than the raised or level disk structures found in most similar rock-dwelling lichens. The combination of color and sunken disk morphology makes it relatively distinctive among New England's rock lichen community.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Circinaria_caesiocinerea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/462704"
 }

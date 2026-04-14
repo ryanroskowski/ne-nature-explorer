@@ -3,6 +3,9 @@
   "taxonId": 16603,
   "group": "birds",
   "commonName": "Yellow-bellied Flycatcher",
+  "alternativeNames": [
+    "Wiiwiish"
+  ],
   "scientificName": "Empidonax flaviventris",
   "family": "Tyrannidae",
   "familyCommonName": "Tyrant Flycatchers",
@@ -349,6 +352,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Yellow-bellied_flycatcher",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/16603",
   "xenoCantoUrl": "https://xeno-canto.org/species/Empidonax-flaviventris"

@@ -1,8 +1,11 @@
 {
   "slug": "xylopsora-friesii",
   "taxonId": 532582,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Old-Growth Clam Lichen",
+  "alternativeNames": [
+    "Fruiting Clam Lichen"
+  ],
   "scientificName": "Xylopsora friesii",
   "family": "Umbilicariaceae",
   "familyCommonName": "Rocktripes, Toadskin Lichens, and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "rocktripes, bloodspot lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -83,48 +86,23 @@
       "observationUrl": "https://www.inaturalist.org/observations/32025116"
     }
   ],
-  "nameStory": "The \"old-growth clam\" name comes from this lichen's preference for ancient, undisturbed forests and its small, rounded fruiting bodies that resemble tiny clam shells when viewed up close. The scientific name honors Elias Magnus Fries, a pioneering Swedish mycologist who laid the groundwork for modern fungal classification in the 1800s.",
-  "description": "Old-Growth Clam Lichen is a crusty, patch-forming lichen that grows directly on the bark of old trees, particularly in undisturbed forests. It forms small, grayish to brownish crusty patches that are easily overlooked, typically measuring just a few centimeters across. Like all lichens, it's actually two organisms living together: a fungus and an algae that work as partners to survive. This rare species is considered an indicator of healthy, mature forest ecosystems.",
-  "idTips": [
-    {
-      "label": "Crusty texture on bark",
-      "description": "Forms thin, crusty patches that feel rough and slightly raised when you gently run your finger across them, like fine sandpaper adhered to tree bark",
-      "isPrimary": true
-    },
-    {
-      "label": "Tiny clam-like fruiting bodies",
-      "description": "Look for small, dark, rounded bumps scattered across the crusty surface that resemble miniature clamshells, about the size of a pinhead",
-      "isPrimary": false
-    },
-    {
-      "label": "Gray to brown coloration",
-      "description": "The crusty surface appears dull grayish-brown to brownish-gray, often blending in with the bark color but slightly lighter",
-      "isPrimary": false
-    },
-    {
-      "label": "Ancient tree preference",
-      "description": "Almost exclusively found on the bark of very old trees in undisturbed forests, particularly on trees that are decades to centuries old",
-      "isPrimary": false
-    },
-    {
-      "label": "Small patch size",
-      "description": "Individual colonies remain quite small, rarely exceeding a few inches across, and may appear as scattered small patches rather than large continuous coverage",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "This rare lichen is found exclusively in old-growth or very mature forests throughout New England, growing on the bark of ancient trees, particularly old maples, oaks, and birches. It thrives in humid, sheltered locations within these forests where the air quality is pristine and the ecosystem has remained undisturbed for many decades. You're most likely to spot it in protected forest reserves or remote woodland areas at various elevations.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Most visible during humid spring conditions when the lichen is actively growing and the crusty surface may appear slightly more vibrant in color.",
-    "summer": "Can be spotted year-round but may be less noticeable during dry summer periods when it becomes dormant and appears more faded against the bark.",
-    "fall": "Often easier to find in fall when increased moisture returns and the fruiting bodies may be more prominent on the crusty surface.",
-    "winter": "Remains visible on bark throughout winter, though growth slows significantly during cold periods and the lichen enters a dormant state."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is so rare and sensitive to air pollution that finding it is like discovering a forest health certificate – it only grows where the air has been clean for decades, making it a living indicator that you're standing in one of New England's most pristine woodland environments.",
-  "confusionNotes": "Most easily confused with other crusty bark lichens, but remember the \"old tree rule\" – if you're not looking at a genuinely ancient tree in an undisturbed forest, you're probably looking at a different species. The tiny clam-shell fruiting bodies are your best confirmation feature.",
-  "contextualKnowledge": "Despite its common name suggesting it's related to marine clams, this lichen has no connection to shellfish – the name purely refers to the visual similarity of its small fruiting structures to tiny clamshells.",
-  "compareHints": "Since this is the only Xylopsora species in New England, compare it with other crusty bark lichens in the Umbilicariaceae family. Unlike the larger, more conspicuous rock tripes that grow on stone surfaces, Old-Growth Clam Lichen stays small and crusty on tree bark. It lacks the distinctive umbilical attachment point that characterizes many of its rock-dwelling relatives in this family.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/532582"
 }

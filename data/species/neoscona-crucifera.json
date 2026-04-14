@@ -3,6 +3,10 @@
   "taxonId": 85034,
   "group": "arachnids",
   "commonName": "Spotted Orbweaver",
+  "alternativeNames": [
+    "Hentz's Orbweaver",
+    "Barn Spider"
+  ],
   "scientificName": "Neoscona crucifera",
   "family": "Araneidae",
   "familyCommonName": "Orbweavers",
@@ -248,6 +252,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Neoscona_crucifera",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/85034"
 }

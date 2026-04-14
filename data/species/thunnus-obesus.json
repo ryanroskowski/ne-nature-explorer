@@ -3,6 +3,12 @@
   "taxonId": 114125,
   "group": "fish",
   "commonName": "Bigeye Tuna",
+  "alternativeNames": [
+    "Bigeye",
+    "Big-eye Tuna",
+    "Big-eye Tunny",
+    "Big Eye Tuna"
+  ],
   "scientificName": "Thunnus obesus",
   "family": "Scombridae",
   "familyCommonName": "Mackerels, Tunas, and Bonitos",
@@ -163,6 +169,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bigeye_tuna",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/114125"
 }

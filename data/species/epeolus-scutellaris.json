@@ -3,6 +3,10 @@
   "taxonId": 198862,
   "group": "insects",
   "commonName": "Notch-backed Cellophane-cuckoo Bee",
+  "alternativeNames": [
+    "Shield-backed Cellophane-cuckoo Bee",
+    "red-chested cuckoo nomad bee"
+  ],
   "scientificName": "Epeolus scutellaris",
   "family": "Apidae",
   "familyCommonName": "Honey Bees, Bumble Bees, and Allies",
@@ -247,6 +251,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Epeolus_scutellaris",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/198862",
   "ecologicalRole": {

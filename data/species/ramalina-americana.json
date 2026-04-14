@@ -1,7 +1,7 @@
 {
   "slug": "ramalina-americana",
   "taxonId": 182675,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Sinewed Bushy Lichen",
   "scientificName": "Ramalina americana",
   "family": "Ramalinaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -244,24 +244,25 @@
       "commonName": "Farinose Cartilage Lichen",
       "scientificName": "Ramalina farinacea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/471356633/medium.jpg",
-      "distinction": "Unlike its relatives in the Ramalina genus, Farinose Cartilage Lichen is the only one with powdery white soredia along its branch edges."
+      "distinction": "undefined."
     },
     {
       "slug": "ramalina-willeyi",
       "commonName": "Thorny Ramalina",
       "scientificName": "Ramalina willeyi",
       "thumbnailUrl": "https://static.inaturalist.org/photos/28480517/medium.jpeg",
-      "distinction": "[UNCERTAIN: Detailed comparisons due to limited information] Unlike its relatives Sinewed Bushy Lichen and Rock Bushy Lichen, Thorny Ramalina is distinguished by its thorny surface projections rather than smooth branches."
+      "distinction": "undefined."
     },
     {
       "slug": "ramalina-complanata",
       "commonName": "cartilage lichen",
       "scientificName": "Ramalina complanata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2650835/medium.jpg",
-      "distinction": "Unlike its relatives in the bushy lichen genus, cartilage lichen has distinctly flattened branches rather than the more rounded or cylindrical branches of species like sinewed bushy lichen."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ramalina_americana",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/182675"
 }

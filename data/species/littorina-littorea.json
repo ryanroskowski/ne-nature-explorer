@@ -3,6 +3,10 @@
   "taxonId": 81606,
   "group": "mollusks",
   "commonName": "Common Periwinkle",
+  "alternativeNames": [
+    "Winkle",
+    "Common Atlantic Periwinkle"
+  ],
   "scientificName": "Littorina littorea",
   "family": "Littorinidae",
   "familyCommonName": "Periwinkle Snails",
@@ -241,6 +245,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_periwinkle",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/81606"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "calicium-trabinellum",
   "taxonId": 207850,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Yellow Collar Stubble Lichen",
   "scientificName": "Calicium trabinellum",
   "family": "Caliciaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "button lichens, rosette lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -201,24 +201,25 @@
       "commonName": "yellow soot lichen",
       "scientificName": "Calicium tigillare",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7713326/medium.jpg",
-      "distinction": "Yellow soot lichen differs from its Calicium relatives primarily by its strong preference for dead wood rather than tree bark, and its consistently yellow spore production."
+      "distinction": "undefined."
     },
     {
       "slug": "calicium-abietinum",
       "commonName": "Calicium abietinum",
       "scientificName": "Calicium abietinum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12054821/medium.jpeg",
-      "distinction": "Fir pin differs from its stubble lichen relatives primarily in its strong preference for coniferous trees and its particularly prominent black pins."
+      "distinction": "undefined."
     },
     {
       "slug": "calicium-salicinum",
       "commonName": "Calicium salicinum",
       "scientificName": "Calicium salicinum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3373933/medium.jpg",
-      "distinction": "Compared to its relatives like Yellow Collar Stubble Lichen, this species lacks the distinctive yellow coloring around the stalk bases."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Calicium_trabinellum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/207850"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "athallia-holocarpa",
   "taxonId": 462408,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Firedot Lichen",
   "scientificName": "Athallia holocarpa",
   "family": "Teloschistaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Sunburst Lichens and Allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -99,46 +99,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/270701332"
     }
   ],
-  "nameStory": "The \"firedot\" name comes from the tiny, brilliant orange-red reproductive structures that dot this lichen's surface like sparks from a campfire. When sunlight hits these bright orange dots against the pale background, they truly look like glowing embers scattered across a rock face.",
-  "description": "Firedot Lichen is a crusty, flat lichen that forms thin patches on rocks and concrete surfaces. It creates a pale grayish or whitish crust that spreads across surfaces, typically growing just a few inches wide. The most striking feature is its tiny, bright orange to red-orange dots (called apothecia) that contain the lichen's spores and give it its fiery appearance.",
-  "idTips": [
-    {
-      "label": "Orange reproductive dots",
-      "description": "Look for tiny, brilliant orange to red-orange dots scattered across the surface - these feel slightly raised and have a waxy texture when gently touched",
-      "isPrimary": true
-    },
-    {
-      "label": "Crusty texture",
-      "description": "The main body feels rough and granular, like fine sandpaper, and forms a thin crust that's firmly attached to the rock surface",
-      "isPrimary": false
-    },
-    {
-      "label": "Pale background color",
-      "description": "The base color is typically pale gray to whitish, creating a striking contrast with the bright orange dots",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock-hugging growth",
-      "description": "Grows as flat patches that seem painted onto rock surfaces, never forming leafy or branching structures",
-      "isPrimary": false
-    },
-    {
-      "label": "Small size",
-      "description": "Individual patches are usually just a few inches across, though multiple patches may grow near each other",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Firedot Lichen grows on exposed rock faces, concrete walls, and stone structures throughout New England, particularly favoring limestone and other calcium-rich surfaces. You'll often find it on old stone walls, cemetery monuments, and natural rock outcrops in both urban and rural settings. It thrives in areas with good air circulation and moderate sunlight exposure.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The orange dots become more vibrant as temperatures warm and moisture increases. This is when spore production is most active, making identification easiest.",
-    "summer": "Hot, dry conditions may cause the lichen to appear somewhat faded, but the characteristic orange dots remain visible. Growth is typically slower during the hottest months.",
-    "fall": "Cooler temperatures and increased moisture often revive the lichen's colors, with the orange dots becoming quite prominent again. Good season for spotting new growth.",
-    "winter": "The lichen remains visible but may appear duller. Snow and ice won't harm it, and it continues its slow metabolic processes even in freezing temperatures."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Firedot Lichen is actually two organisms living as one - a fungus and an algae working together in perfect partnership, with the fungus providing structure and protection while the algae produces food through photosynthesis, creating a biological solar panel that can survive on bare rock for decades!",
-  "confusionNotes": "Other orange-dotted lichens in the same family can look very similar, but Firedot Lichen's dots tend to be more uniformly small and densely packed. The key memory trick: if the orange dots look like tiny perfect circles scattered like confetti, you're likely looking at Firedot Lichen.",
-  "contextualKnowledge": "Despite being called \"Firedot Lichen\" in English, this species has had a complex scientific naming history - it was originally described in 1796 but wasn't moved to its current genus Athallia until 2013, showing how scientists continue to refine their understanding of lichen relationships.",
-  "compareHints": "Compared to its close relative the Flaming Firedot Lichen, this species typically has smaller, more numerous orange dots and a paler background color. Athallia scopularis, another relative, tends to have more irregularly shaped reproductive structures rather than the neat, round dots that characterize Firedot Lichen.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "athallia-scopularis",
@@ -152,10 +126,11 @@
       "commonName": "Flaming Firedot Lichen",
       "scientificName": "Athallia pyracea",
       "thumbnailUrl": "https://static.inaturalist.org/photos/174844035/medium.jpg",
-      "distinction": "Flaming Firedot differs from its relative Firedot Lichen by having a much thinner, more inconspicuous main body and typically smaller orange fruiting bodies."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Athallia_holocarpa",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/462408"
 }

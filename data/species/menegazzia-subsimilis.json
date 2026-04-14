@@ -1,7 +1,7 @@
 {
   "slug": "menegazzia-subsimilis",
   "taxonId": 194700,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Tree Flute Lichen",
   "scientificName": "Menegazzia subsimilis",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -91,56 +91,31 @@
       "observationUrl": "https://www.inaturalist.org/observations/19470004"
     }
   ],
-  "nameStory": "Tree Flute Lichen gets its musical name from the way its lobes can curl and fold, creating small tube-like or flute-shaped structures along the edges. When you look closely at a healthy specimen, you can imagine tiny woodland creatures playing these delicate natural instruments. The name captures both its tree-dwelling habitat and its distinctive three-dimensional form.",
-  "description": "Tree Flute Lichen is a leafy (foliose) lichen that forms spreading patches on tree bark, with lobes that often curl upward at the edges like tiny scrolls. It typically appears grayish-green when dry and becomes more vibrant green when wet from rain or morning dew. This medium-sized lichen can spread several inches across when mature, creating attractive rosette-like colonies on its host trees. It's quite rare in New England, making any sighting a special discovery for lichen enthusiasts.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms leafy patches with lobes that characteristically curl upward at the edges, creating tube-like or scroll-like structures that give it a three-dimensional appearance",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Grayish-green when dry, becoming brighter green when wet; the underside is typically pale to whitish",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Grows exclusively on tree bark, particularly favoring mature trees with rough, textured bark surfaces",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Feels papery and somewhat brittle when dry, becoming more pliable when moist; surface appears smooth to slightly wrinkled",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual patches typically spread 2-4 inches across, with individual lobes measuring about half an inch wide",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Tree Flute Lichen is extremely rare in New England, typically found on the bark of mature deciduous and coniferous trees in older forests. It prefers areas with good air quality and moderate humidity, often in locations that receive filtered sunlight rather than deep shade or full sun. Look for it in well-established woodlands away from urban pollution and road salt.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Fresh spring rains bring out the brightest green coloration, making this the best time to spot its vibrant appearance. The curled edges become more pronounced as the lichen absorbs moisture.",
-    "summer": "During dry periods, it appears more grayish and may seem less noticeable, but the characteristic curled lobe edges remain the key identifying feature.",
-    "fall": "Cool, moist autumn weather again enhances the green coloration, and the lichen may be easier to spot as deciduous tree leaves fall away.",
-    "winter": "Remains visible year-round on evergreen hosts, appearing grayish during dry spells but greening up beautifully after winter storms and snow melt."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is a true world traveler that was originally discovered in Hawaii in 1941 and wasn't found anywhere else on Earth until 1993 – over 50 years later! Since then, scientists have discovered it scattered across six continents, making it one of the most mysteriously widespread lichens on the planet, yet it remains incredibly rare everywhere it's found.",
-  "confusionNotes": "Tree Flute Lichen could be confused with other leafy lichens on bark, but its distinctive upward-curling lobe edges set it apart from most common species. Remember the 'flute' in its name – if you don't see those characteristic tube-like curls along the edges, you're probably looking at a different species.",
-  "contextualKnowledge": "Despite being found on multiple continents, Tree Flute Lichen appears to be naturally rare everywhere rather than being threatened by human activities. Its scattered global distribution puzzles scientists, as most lichens have more predictable geographic patterns. The extreme rarity in New England means any confirmed sighting would be scientifically significant.",
-  "compareHints": "Tree Flute Lichen differs from its relative Port-hole Lichen by lacking the distinctive holes or 'port-holes' that give that species its name. While both have leafy growth forms, Tree Flute Lichen's signature feature is the curled, tube-like edges rather than perforations in the lichen body. Port-hole Lichen also tends to be more common and has a different surface texture.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "menegazzia-terebrata",
       "commonName": "Port-hole Lichen",
       "scientificName": "Menegazzia terebrata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34321099/medium.jpeg",
-      "distinction": "Port-hole Lichen differs from its relative Tree Flute Lichen by having round holes instead of elongated slits or cracks."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Menegazzia_subsimilis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/194700"
 }

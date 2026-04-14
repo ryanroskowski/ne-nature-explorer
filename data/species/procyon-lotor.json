@@ -3,6 +3,15 @@
   "taxonId": 41663,
   "group": "mammals",
   "commonName": "Common Raccoon",
+  "alternativeNames": [
+    "Northern Raccoon",
+    "Raccoon",
+    "North American Raccoon",
+    "Racoon",
+    "American Raccoon",
+    "Trash Panda",
+    "Bandit-masked Raccoon"
+  ],
   "scientificName": "Procyon lotor",
   "family": "Procyonidae",
   "familyCommonName": "Raccoons, Coatis, and Allies",
@@ -218,6 +227,7 @@
   "compareHints": "Raccoons are the only members of their genus (Procyon) in New England, making them unique in the region. Their closest relatives are tropical coatis and ringtails found in the southwestern United States and Central America. Unlike these relatives, raccoons have adapted to temperate climates and developed the famous facial mask pattern that makes them instantly recognizable.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Raccoon",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/41663"
 }

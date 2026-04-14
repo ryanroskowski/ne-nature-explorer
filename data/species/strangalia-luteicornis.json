@@ -3,6 +3,9 @@
   "taxonId": 129994,
   "group": "insects",
   "commonName": "Yellow-horned Flower Longhorn Beetle",
+  "alternativeNames": [
+    "Yellow-horned Strangalia"
+  ],
   "scientificName": "Strangalia luteicornis",
   "family": "Cerambycidae",
   "familyCommonName": "Longhorn Beetles",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Strangalia_luteicornis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/129994",
   "ecologicalRole": {

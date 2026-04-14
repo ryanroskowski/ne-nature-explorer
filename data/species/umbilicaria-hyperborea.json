@@ -1,7 +1,7 @@
 {
   "slug": "umbilicaria-hyperborea",
   "taxonId": 125052,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Blistered Rock Tripe",
   "scientificName": "Umbilicaria hyperborea",
   "family": "Umbilicariaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "rocktripes, bloodspot lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -260,24 +260,25 @@
       "commonName": "Punctured Rocktripe Lichen",
       "scientificName": "Umbilicaria torrefacta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10235385/medium.jpeg",
-      "distinction": "Unlike Smooth Rock Tripe which has solid, unperforated edges, or Blistered Rock Tripe which has bubble-like bumps, Punctured Rocktripe is the only species in its genus with the distinctive sieve-like holes along the margins."
+      "distinction": "undefined."
     },
     {
       "slug": "umbilicaria-hirsuta",
       "commonName": "Granulating Rocktripe Lichen",
       "scientificName": "Umbilicaria hirsuta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/296725989/medium.jpeg",
-      "distinction": "Among New England's rock tripes, Granulating Rocktripe stands out for its distinctly bumpy, granular surface texture that feels like coarse sandpaper."
+      "distinction": "undefined."
     },
     {
       "slug": "umbilicaria-polyphylla",
       "commonName": "Petalled Rocktripe Lichen",
       "scientificName": "Umbilicaria polyphylla",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/312306612/medium.jpg",
-      "distinction": "Among New England's rock tripes, Petalled Rocktripe stands out with its smooth upper surface - unlike the bumpy Smooth Rock Tripe (despite its name!) or the punctured appearance of Punctured Rocktripe."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Umbilicaria_hyperborea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/125052"
 }

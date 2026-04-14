@@ -1,8 +1,11 @@
 {
   "slug": "flavoparmelia-caperata",
   "taxonId": 117943,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "common greenshield lichen",
+  "alternativeNames": [
+    "common green shield lichen"
+  ],
   "scientificName": "Flavoparmelia caperata",
   "family": "Parmeliaceae",
   "familyCommonName": "shield lichens and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -234,6 +237,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Flavoparmelia_caperata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/117943"
 }

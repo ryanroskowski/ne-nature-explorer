@@ -1,7 +1,7 @@
 {
   "slug": "physciella-chloantha",
   "taxonId": 228062,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Powdery-margined Cryptic Shade Lichen",
   "scientificName": "Physciella chloantha",
   "family": "Physciaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "button lichens, rosette lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -225,10 +225,11 @@
       "commonName": "Mealy Cryptic Shade Lichen",
       "scientificName": "Physciella melanchra",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4722375/medium.jpg",
-      "distinction": "The Mealy Cryptic Shade Lichen differs from its close relative, the Powdery-margined Cryptic Shade Lichen, primarily in where the powdery texture appears - this species has the mealy texture across the entire surface, while its cousin concentrates the powder mainly along the margins."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Physciella_chloantha",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/228062"
 }

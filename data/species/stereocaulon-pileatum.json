@@ -1,7 +1,7 @@
 {
   "slug": "stereocaulon-pileatum",
   "taxonId": 182577,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Pixie Foam",
   "scientificName": "Stereocaulon pileatum",
   "family": "Stereocaulaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -165,31 +165,32 @@
       "commonName": "Granular Soil Foam Lichen",
       "scientificName": "Stereocaulon condensatum",
       "thumbnailUrl": "https://static.inaturalist.org/photos/9170717/medium.jpg",
-      "distinction": "Unlike its cousin Rock Foam Lichen which grows on solid rock surfaces, Granular Soil Foam strictly prefers soil substrates."
+      "distinction": "undefined."
     },
     {
       "slug": "stereocaulon-dactylophyllum",
       "commonName": "Finger-scale Foam",
       "scientificName": "Stereocaulon dactylophyllum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172310224/medium.jpg",
-      "distinction": "Unlike Rock Foam which tends to be coarser and less intricately branched, Finger-scale Foam creates much more delicate, highly divided coral-like structures."
+      "distinction": "undefined."
     },
     {
       "slug": "stereocaulon-paschale",
       "commonName": "Easter Foam",
       "scientificName": "Stereocaulon paschale",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/373327371/medium.jpg",
-      "distinction": "Easter Foam differs from Rock Foam by having more densely packed, coral-like branches rather than Rock Foam's more open, spreading structure."
+      "distinction": "undefined."
     },
     {
       "slug": "stereocaulon-alpinum",
       "commonName": "Alpine Foam Lichen",
       "scientificName": "Stereocaulon alpinum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32346090/medium.jpg",
-      "distinction": "Alpine Foam Lichen differs from its close relative Easter Foam by containing different types of cyanobacteria partners - Alpine Foam hosts lighter-colored Nostoc bacteria while Easter Foam contains darker Stigonema bacteria."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/182577"
 }

@@ -1,8 +1,12 @@
 {
   "slug": "aspicilia-cinerea",
   "taxonId": 182439,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "cinder lichen",
+  "alternativeNames": [
+    "Stool Pigeon",
+    "Ashy cinder"
+  ],
   "scientificName": "Aspicilia cinerea",
   "family": "Megasporaceae",
   "familyCommonName": "Megasporaceae",
@@ -12,7 +16,7 @@
   "orderCommonName": "wart lichens, water lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -225,10 +229,11 @@
       "commonName": "Smooth Sunken Disc Lichen",
       "scientificName": "Aspicilia laevata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/351346158/medium.jpg",
-      "distinction": "**[UNCERTAIN]** Compared to its relative cinder lichen (Aspicilia cinerea), smooth sunken disc lichen has more prominently sunken reproductive discs and tends to be lighter in overall coloration."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Aspicilia_cinerea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/182439"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "peltigera-ponojensis",
   "taxonId": 227393,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "pale-bellied pelt lichen",
   "scientificName": "Peltigera ponojensis",
   "family": "Peltigeraceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Peltigerales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 2955318,
@@ -91,46 +91,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/212582245"
     }
   ],
-  "nameStory": "The pale-bellied pelt lichen gets its name from its distinctive underside, which is notably lighter in color than many of its pelt lichen relatives. Like other pelt lichens, it resembles a soft animal hide or pelt spread across the ground, with the 'pale belly' referring to its whitish to cream-colored lower surface that you can see when you gently lift the edges.",
-  "description": "The pale-bellied pelt lichen is a leafy, ground-dwelling lichen that spreads like a soft leather mat across the forest floor. It forms medium-sized patches with lobed, rounded edges that can span several inches across. The upper surface is typically grayish-green when moist, fading to a duller gray when dry, while its most distinctive feature is the pale, whitish underside that gives it its common name.",
-  "idTips": [
-    {
-      "label": "Surface Color",
-      "description": "The underside is distinctly pale whitish to cream-colored, much lighter than the grayish-green upper surface",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms leafy, lobed patches that lie flat against the ground like soft leather, with rounded finger-like projections",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Feels smooth and slightly rubbery when moist, becoming more papery and brittle when completely dry",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Grows directly on soil, moss, or decaying organic matter in shaded forest areas",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual lobes typically 2-4 inches long, with whole colonies reaching 6 inches or more across",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "This rare lichen is found in cool, moist forests with rich organic soils, often in areas with consistent humidity and shade. It prefers undisturbed woodland environments where it can grow on soil mixed with decaying leaves and moss. Given its extremely limited observations in New England, it likely favors very specific microhabitats in northern forests.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more vibrant green as spring moisture awakens it from winter dormancy. The contrast between pale underside and green upper surface is most pronounced during wet spring days.",
-    "summer": "May appear duller and more grayish during dry periods, but maintains its characteristic pale underside. Look for it in consistently moist, shaded spots during summer droughts.",
-    "fall": "Often at its most visible as fallen leaves reveal ground-dwelling lichens. The pale underside provides good contrast against dark autumn soil and leaf litter.",
-    "winter": "Remains visible under light snow cover, appearing more grayish and subdued but still identifiable by its pale underside when examined closely."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is so rare in New England that it has been documented only once in the entire region, making any sighting a potentially significant scientific discovery that could help researchers understand its true range and habitat needs.",
-  "confusionNotes": "Most easily confused with other pelt lichens, especially the dog pelt lichen, but the pale-bellied pelt's distinctly whitish underside sets it apart from relatives that typically have darker, brownish, or mottled undersides. Memory trick: 'pale belly' means you're looking for a noticeably light-colored underside.",
-  "contextualKnowledge": "The scientific name 'ponojensis' refers to the Ponoi River region in northern Russia where this lichen was first described, highlighting its preference for northern, boreal forest conditions similar to those found in the coldest parts of New England.",
-  "compareHints": "Among pelt lichens, the pale-bellied pelt is distinguished by its consistently pale underside, whereas dog pelt lichen has a darker, often brownish underside with prominent veins, and freckled pelt lichen has distinctive dark spots on its upper surface. The pale underside of this species is typically more uniformly light-colored than the variable undersides of most other Peltigera species.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "peltigera-praetextata",
@@ -214,52 +188,53 @@
       "commonName": "field dog lichen",
       "scientificName": "Peltigera rufescens",
       "thumbnailUrl": "https://static.inaturalist.org/photos/2596956/medium.jpg",
-      "distinction": "Among the many pelt lichens in New England, field dog lichen stands out for its incredibly soft, velvety surface texture - most other dog lichens feel smoother or more leathery."
+      "distinction": "undefined."
     },
     {
       "slug": "peltigera-neopolydactyla",
       "commonName": "carpet pelt lichen",
       "scientificName": "Peltigera neopolydactyla",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/142861183/medium.jpeg",
-      "distinction": "Carpet pelt lichen differs from its pelt lichen relatives by its consistently smooth upper surface and preference for soil rather than rocks or trees."
+      "distinction": "undefined."
     },
     {
       "slug": "peltigera-membranacea",
       "commonName": "membranous pelt lichen",
       "scientificName": "Peltigera membranacea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/80724/medium.jpg",
-      "distinction": "Among the many pelt lichen species in New England, membranous pelt lichen stands out for its distinctly thin, papery texture - much more delicate than the thicker, more leathery dog pelt lichen or scaly pelt lichen."
+      "distinction": "undefined."
     },
     {
       "slug": "peltigera-phyllidiosa",
       "commonName": "Mother-of-many Pelt",
       "scientificName": "Peltigera phyllidiosa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11516613/medium.jpg",
-      "distinction": "Unlike the smooth-surfaced dog pelt lichen or the powdery-edged freckled pelt lichen, mother-of-many pelt is immediately recognizable by its bumpy, phyllidia-covered surface."
+      "distinction": "undefined."
     },
     {
       "slug": "peltigera-neckeri",
       "commonName": "Blacksaddle pelt lichen",
       "scientificName": "Peltigera neckeri",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52928985/medium.jpeg",
-      "distinction": "Unlike the more common dog pelt lichen which has rounded, disk-like apothecia along the lobe edges, blacksaddle pelt has distinctive tubular, saddle-shaped reproductive structures on the lichen surface."
+      "distinction": "undefined."
     },
     {
       "slug": "peltigera-collina",
       "commonName": "tree pelt lichen",
       "scientificName": "Peltigera collina",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/398894/medium.jpg",
-      "distinction": "Compared to its Peltigera relatives, tree pelt lichen has a distinctly more velvety surface texture and tends to be more brownish in color than the grayer dog pelt lichen or the more distinctly veined fan pelt lichen."
+      "distinction": "undefined."
     },
     {
       "slug": "peltigera-venosa",
       "commonName": "fan pelt lichen",
       "scientificName": "Peltigera venosa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/250255/medium.jpg",
-      "distinction": "Among its pelt lichen relatives, fan pelt lichen stands out with its smooth upper surface and distinctive raised black veins underneath."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/227393"
 }

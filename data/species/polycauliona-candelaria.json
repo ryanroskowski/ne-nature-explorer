@@ -1,7 +1,7 @@
 {
   "slug": "polycauliona-candelaria",
   "taxonId": 463825,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Shrubby Sunburst Lichen",
   "scientificName": "Polycauliona candelaria",
   "family": "Teloschistaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Sunburst Lichens and Allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -123,46 +123,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/256094694"
     }
   ],
-  "nameStory": "The 'sunburst' name comes from this lichen's bright golden-yellow color that radiates outward like rays of sunshine. The 'shrubby' part refers to its three-dimensional, branching growth form that creates tiny shrub-like clusters on tree bark, quite different from flat, crusty lichens.",
-  "description": "Shrubby Sunburst Lichen is a bright yellow-orange crusty organism that grows on tree bark throughout New England. Like all lichens, it's actually two organisms living together - a fungus and an algae - forming what looks like a single plant. It creates small, rounded patches that can spread several inches across, with a distinctive three-dimensional, somewhat bumpy texture. This ancient partnership has been thriving on trees for thousands of years.",
-  "idTips": [
-    {
-      "label": "Bright Yellow-Orange Color",
-      "description": "Look for patches of vibrant golden-yellow to orange coloration that really stands out against dark tree bark, almost glowing in sunlight",
-      "isPrimary": true
-    },
-    {
-      "label": "Crusty, Bumpy Texture",
-      "description": "Feel the surface - it's rough and warty with small raised bumps and ridges, not smooth or flat like paint",
-      "isPrimary": false
-    },
-    {
-      "label": "Tree Bark Habitat",
-      "description": "Always found growing directly on the bark of living trees, never on rocks, soil, or dead wood",
-      "isPrimary": false
-    },
-    {
-      "label": "Rounded Patches",
-      "description": "Forms roughly circular colonies that can merge together, typically 1-4 inches across with irregular edges",
-      "isPrimary": false
-    },
-    {
-      "label": "Three-Dimensional Growth",
-      "description": "Creates a shrub-like, branching structure that rises slightly off the bark surface, casting tiny shadows",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Shrubby Sunburst Lichen on the bark of deciduous trees like maples, oaks, and birches in New England's forests and parks. It prefers trees with relatively smooth bark and tends to grow on the trunk and larger branches where it gets some sunlight but isn't completely exposed. You'll often find it in mixed woodlands, suburban areas with mature trees, and along forest edges where air quality is decent.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The bright yellow-orange color becomes more vibrant as temperatures warm and moisture increases. This is an excellent time to spot it as the bare trees provide clear views of trunk lichens.",
-    "summer": "Colors may appear slightly faded in intense sunlight, but the lichen is actively photosynthesizing. Look for it in dappled shade on tree trunks.",
-    "fall": "Often appears most colorful as cooler, moister conditions return. The contrast against autumn leaves can make identification easier.",
-    "winter": "Remains visible year-round as a bright spot of color against snow and dark bark. The three-dimensional structure may collect small amounts of snow, making the texture more apparent."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen was one of the very first lichens ever scientifically described by Carl Linnaeus in 1753 - the same year he established our modern system for naming living things - making it one of the botanical world's original celebrities that's still thriving on New England trees today!",
-  "confusionNotes": "Can be confused with other yellow crusty lichens, but most others are flatter and lack the distinctive shrubby, three-dimensional growth. Remember: if it's bright yellow and bumpy like tiny coral on tree bark, you've likely found Shrubby Sunburst Lichen.",
-  "contextualKnowledge": "The scientific name has changed many times over the centuries as scientists better understand lichen relationships through DNA studies. What Linnaeus called one thing in 1753 has been shuffled through multiple genus names, finally landing in Polycauliona in 2013 - showing how science continuously refines our understanding of nature's family trees.",
-  "compareHints": "Shrubby Sunburst Lichen differs from its close relative Pin-cushion Sunburst Lichen by having a more irregular, branching growth pattern rather than neat cushion-like bumps. Compared to Ringed Firedot Lichen, it lacks the distinctive ring-like structures and has a more three-dimensional, shrubby appearance rather than a flatter crusty form.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "polycauliona-polycarpa",
@@ -180,6 +154,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Polycauliona_candelaria",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/463825"
 }

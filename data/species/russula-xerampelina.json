@@ -3,6 +3,9 @@
   "taxonId": 154875,
   "group": "fungi",
   "commonName": "Shellfish-scented Russula",
+  "alternativeNames": [
+    "Crab Brittlegill"
+  ],
   "scientificName": "Russula xerampelina",
   "family": "Russulaceae",
   "familyCommonName": "Milkcaps, Brittlegills and Allies",
@@ -806,6 +809,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Russula_xerampelina",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/154875"
 }

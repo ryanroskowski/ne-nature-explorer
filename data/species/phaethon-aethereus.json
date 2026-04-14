@@ -3,6 +3,9 @@
   "taxonId": 4317,
   "group": "birds",
   "commonName": "Red-billed Tropicbird",
+  "alternativeNames": [
+    "Red-billed Tropic Bird"
+  ],
   "scientificName": "Phaethon aethereus",
   "family": "Phaethontidae",
   "familyCommonName": "Tropicbirds",
@@ -254,6 +257,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-billed_tropicbird",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/4317",
   "xenoCantoUrl": "https://xeno-canto.org/species/Phaethon-aethereus"

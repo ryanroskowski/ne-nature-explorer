@@ -3,6 +3,9 @@
   "taxonId": 199010,
   "group": "insects",
   "commonName": "Cresson's Mining Bee",
+  "alternativeNames": [
+    "Yellow-legged Miner Bee"
+  ],
   "scientificName": "Andrena cressonii",
   "family": "Andrenidae",
   "familyCommonName": "Miner, Fairy, Allied Panurgine, and Oxaeine Bees",
@@ -660,6 +663,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Andrena_cressonii",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/199010",
   "ecologicalRole": {

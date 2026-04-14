@@ -3,6 +3,9 @@
   "taxonId": 786918,
   "group": "fungi",
   "commonName": "Gilled Polypore",
+  "alternativeNames": [
+    "birch mazegill"
+  ],
   "scientificName": "Trametes betulina",
   "family": "Polyporaceae",
   "familyCommonName": "Bracket Fungi",
@@ -320,6 +323,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Trametes_betulina",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/786918"
 }

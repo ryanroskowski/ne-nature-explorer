@@ -3,6 +3,10 @@
   "taxonId": 4356,
   "group": "birds",
   "commonName": "Common Gull",
+  "alternativeNames": [
+    "Sea Mew",
+    "Eurasian Mew Gull"
+  ],
   "scientificName": "Larus canus",
   "family": "Laridae",
   "familyCommonName": "Gulls, Terns, and Skimmers",
@@ -371,6 +375,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_gull",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/4356",
   "xenoCantoUrl": "https://xeno-canto.org/species/Larus-canus"

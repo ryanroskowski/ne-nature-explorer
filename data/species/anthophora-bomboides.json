@@ -3,6 +3,9 @@
   "taxonId": 198855,
   "group": "insects",
   "commonName": "Bumblebee-like Digger Bee",
+  "alternativeNames": [
+    "Bumble-bee-mimic Digger Bee"
+  ],
   "scientificName": "Anthophora bomboides",
   "family": "Apidae",
   "familyCommonName": "Honey Bees, Bumble Bees, and Allies",
@@ -228,6 +231,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Anthophora_bomboides",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/198855",
   "ecologicalRole": {

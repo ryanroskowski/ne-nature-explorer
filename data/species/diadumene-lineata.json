@@ -3,6 +3,9 @@
   "taxonId": 81783,
   "group": "cnidarians",
   "commonName": "Striped Green Sea Anemone",
+  "alternativeNames": [
+    "Lined Anemone"
+  ],
   "scientificName": "Diadumene lineata",
   "family": "Diadumenidae",
   "familyCommonName": "Diadumenidae",
@@ -236,6 +239,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Diadumene_lineata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/81783"
 }

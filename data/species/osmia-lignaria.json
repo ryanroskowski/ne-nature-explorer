@@ -3,6 +3,9 @@
   "taxonId": 121507,
   "group": "insects",
   "commonName": "Blue Orchard Bee",
+  "alternativeNames": [
+    "Orchard Mason Bee"
+  ],
   "scientificName": "Osmia lignaria",
   "family": "Megachilidae",
   "familyCommonName": "Mason, Leafcutter, Carder, and Resin Bees",
@@ -305,6 +308,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Osmia_lignaria",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/121507",
   "ecologicalRole": {

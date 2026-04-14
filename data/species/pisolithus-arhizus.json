@@ -3,6 +3,11 @@
   "taxonId": 179044,
   "group": "fungi",
   "commonName": "Dyeball",
+  "alternativeNames": [
+    "Horse Dung Fungus",
+    "Bohemian Truffle",
+    "Gum Puffball"
+  ],
   "scientificName": "Pisolithus arhizus",
   "family": "Pisolithaceae",
   "familyCommonName": "Pisolithaceae",
@@ -218,6 +223,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pisolithus_arhizus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/179044"
 }

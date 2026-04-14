@@ -1,7 +1,7 @@
 {
   "slug": "lecanora-symmicta",
   "taxonId": 222957,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Fused Rim Lichen",
   "scientificName": "Lecanora symmicta",
   "family": "Lecanoraceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 19576614,
@@ -139,51 +139,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/257164206"
     }
   ],
-  "nameStory": "The Fused Rim Lichen gets its name from its distinctive reproductive structures called apothecia, which have raised rims that appear to merge or 'fuse' together as they mature. This creates a bumpy, crowded appearance where individual disc-like structures blend into one another, quite different from other rim lichens where each disc sits separately with its own clear border.",
-  "description": "Fused Rim Lichen is a crusty, flat-growing lichen that forms patches on rock surfaces, creating what looks like a rough, grayish coating. It belongs to the large family of rim lichens, which are known for their disc-like reproductive structures with raised edges. This species typically forms small to medium-sized colonies that can slowly expand over many years. The lichen appears as a thin, closely-attached crust that can be difficult to peel away from its rocky home.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms a thin, crusty coating (called crustose) that's tightly glued to rock surfaces - you can't peel it off like you might with leafy lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Reproductive Structures",
-      "description": "Look for small, disc-like structures (apothecia) with raised rims that appear to merge or fuse together, creating a bumpy, crowded surface rather than separate individual discs",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Generally grayish to whitish when dry, may appear slightly darker and more defined when wet from rain or morning dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Almost exclusively found growing on hard rock surfaces, particularly granite and other acidic stones",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Feels rough and gritty to the touch, with a slightly powdery or granular surface that may leave chalky residue on your fingers",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual patches can range from coin-sized to several inches across, but growth is extremely slow over decades",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Found on exposed rock faces and boulders throughout New England's mountains and rocky areas, particularly favoring granite outcrops and acidic stone surfaces. Look for it on cliff faces, large glacial erratics, and rocky summits where it gets good light exposure. It tends to prefer somewhat sheltered spots that aren't constantly battered by the harshest weather.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Best viewing time as spring rains make the lichen more visible and pronounced, with colors becoming more defined and contrasted against wet rock.",
-    "summer": "Appears more faded and chalky during dry periods, but reproductive structures are often most active and noticeable in warm weather.",
-    "fall": "Colors may intensify slightly with increased moisture, and the lichen becomes more photogenic against autumn landscapes.",
-    "winter": "Still visible under snow, and freeze-thaw cycles can make it appear more textured and three-dimensional when exposed."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Despite being with us for potentially centuries on the same rock, this lichen grows so incredibly slowly that a patch the size of a quarter might be older than the oldest trees in the forest around it - some crusty rock lichens are estimated to live over 1,000 years!",
-  "confusionNotes": "Most easily confused with other rim lichens in the same genus, but remember the 'fused rim' trick - if the little disc structures look like they're melting into each other rather than sitting as separate, neat circles, you've likely found your Fused Rim Lichen.",
-  "contextualKnowledge": "With only one recorded observation in New England, this lichen is either extremely rare in our region or significantly under-reported, possibly because it's easily overlooked or misidentified as other rim lichen species. Citizen scientists have an important role in documenting its true distribution.",
-  "compareHints": "Unlike the Common Rim Lichen which has clearly separate, well-defined disc structures, Fused Rim Lichen's reproductive bodies appear to merge together. It differs from Granite-speck Rim Lichen by having larger, more obvious fused structures rather than tiny speckled dots, and lacks the distinctly white appearance of Pink-eyed White-rim when fresh.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "lecanora-protervula",
@@ -232,59 +201,60 @@
       "commonName": "Granite-speck Rim Lichen",
       "scientificName": "Lecanora polytropa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/111088029/medium.jpg",
-      "distinction": "Unlike many of its rim lichen relatives that grow on tree bark or soil, Granite-speck Rim Lichen is almost exclusively rock-dwelling."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-cinereofusca",
       "commonName": "Beaded Rim-lichen",
       "scientificName": "Lecanora cinereofusca",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/382262061/medium.jpg",
-      "distinction": "Beaded Rim-lichen differs from its many Lecanora relatives primarily through its distinctive beaded apothecia rims - most other rim lichens in the genus have smooth, clean rim edges."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-oreinoides",
       "commonName": "Sunken Rim-lichen",
       "scientificName": "Lecanora oreinoides",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5463234/medium.jpeg",
-      "distinction": "Unlike Common Rim Lichen which has prominent raised apothecia, or Granite-speck Rim Lichen which tends to form more scattered, speckled patterns, Sunken Rim-lichen's defining characteristic is those distinctive crater-like depressions."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-chlarotera",
       "commonName": "Dusted White-Rim",
       "scientificName": "Lecanora chlarotera",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340589/medium.jpg",
-      "distinction": "Among its rim lichen relatives, Dusted White-Rim stands out for its distinctly powdery surface texture, while species like Common Rim Lichen tend to have smoother surfaces."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-conizaeoides",
       "commonName": "rim lichen",
       "scientificName": "Lecanora conizaeoides",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29549376/medium.jpeg",
-      "distinction": "Among its rim lichen relatives, this species tends to prefer more acidic substrates compared to Common Rim Lichen, which grows on more neutral bark."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-intricata",
       "commonName": "Lecanora intricata",
       "scientificName": "Lecanora intricata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43543715/medium.jpeg",
-      "distinction": "Unlike the more common Granite-speck Rim Lichen which has a smoother surface, Lecanora intricata has that distinctive granular texture."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-pulicaris",
       "commonName": "Common Rim Lichen",
       "scientificName": "Lecanora pulicaris",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/470884105/medium.jpg",
-      "distinction": "**Uncertain comparison warning** Among its Lecanora relatives, Common Rim Lichen is distinguished by its preference for exposed rock (unlike bark-dwelling species like Mealy Rim-lichen) and its particularly well-defined raised rims around the apothecia."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-subimmergens",
       "commonName": "rim lichen",
       "scientificName": "Lecanora subimmergens",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/353878033/medium.jpeg",
-      "distinction": "Unlike its more common relatives like Common Rim Lichen which often grows on tree bark, rim lichen is strictly a rock specialist."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/222957"
 }

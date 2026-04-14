@@ -3,6 +3,9 @@
   "taxonId": 855205,
   "group": "fungi",
   "commonName": "Spindletree powdery mildew",
+  "alternativeNames": [
+    "Euonymus Powdery Mildew"
+  ],
   "scientificName": "Erysiphe euonymicola",
   "family": "Erysiphaceae",
   "familyCommonName": "Powdery Mildews",
@@ -557,6 +560,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Erysiphe_euonymicola",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/855205"
 }

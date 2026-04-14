@@ -1,7 +1,7 @@
 {
   "slug": "bryoria-furcellata",
   "taxonId": 117919,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Burred Horsehair Lichen",
   "scientificName": "Bryoria furcellata",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -225,24 +225,25 @@
       "commonName": "Horsehair Lichen",
       "scientificName": "Bryoria trichodes",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2237538/medium.JPG",
-      "distinction": "Horsehair Lichen differs from its relatives by having the finest, smoothest strands in the genus - Burred Horsehair Lichen has tiny projections along its strands, while Spiny Gray Horsehair Lichen appears more grayish and has surface irregularities."
+      "distinction": "undefined."
     },
     {
       "slug": "bryoria-nadvornikiana",
       "commonName": "Spiny Gray Horsehair Lichen",
       "scientificName": "Bryoria nadvornikiana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8999642/medium.jpg",
-      "distinction": "Spiny Gray Horsehair Lichen differs from other Bryoria species primarily in its rough, spiny texture - Burred Horsehair Lichen has distinctive bur-like swellings, while regular Horsehair Lichen feels smooth when rubbed between fingers."
+      "distinction": "undefined."
     },
     {
       "slug": "bryoria-kockiana",
       "commonName": "Bryoria kockiana",
       "scientificName": "Bryoria kockiana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8998979/medium.jpg",
-      "distinction": "Kock's horsehair lichen is virtually indistinguishable from other Bryoria species without close examination."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/117919"
 }

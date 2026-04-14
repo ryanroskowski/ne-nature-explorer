@@ -3,6 +3,9 @@
   "taxonId": 118513,
   "group": "insects",
   "commonName": "Green Cloverworm Moth",
+  "alternativeNames": [
+    "Black Snout"
+  ],
   "scientificName": "Hypena scabra",
   "family": "Erebidae",
   "familyCommonName": "Underwing, Tiger, Tussock, and Allied Moths",
@@ -221,6 +224,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hypena_scabra",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/118513",
   "ecologicalRole": {

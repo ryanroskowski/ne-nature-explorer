@@ -3,6 +3,12 @@
   "taxonId": 120138,
   "group": "echinoderms",
   "commonName": "Common Sea Star",
+  "alternativeNames": [
+    "Purple Starfish",
+    "Common Starfish",
+    "Atlantic Common Sea Star",
+    "Common Seastar"
+  ],
   "scientificName": "Asterias rubens",
   "family": "Asteriidae",
   "familyCommonName": "Asteriid Sea Stars",
@@ -221,6 +227,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_starfish",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/120138"
 }

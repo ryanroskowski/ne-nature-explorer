@@ -3,6 +3,9 @@
   "taxonId": 3901,
   "group": "birds",
   "commonName": "Eurasian Whimbrel",
+  "alternativeNames": [
+    "Common Whimbrel"
+  ],
   "scientificName": "Numenius phaeopus",
   "family": "Scolopacidae",
   "familyCommonName": "Sandpipers and Allies",
@@ -221,6 +224,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Whimbrel",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/3901",
   "xenoCantoUrl": "https://xeno-canto.org/species/Numenius-phaeopus"

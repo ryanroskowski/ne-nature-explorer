@@ -3,6 +3,9 @@
   "taxonId": 10585,
   "group": "birds",
   "commonName": "Lark Bunting",
+  "alternativeNames": [
+    "Prairie Finch"
+  ],
   "scientificName": "Calamospiza melanocorys",
   "family": "Passerellidae",
   "familyCommonName": "New World Sparrows",
@@ -272,6 +275,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lark_bunting",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/10585",
   "xenoCantoUrl": "https://xeno-canto.org/species/Calamospiza-melanocorys"

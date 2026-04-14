@@ -1,7 +1,7 @@
 {
   "slug": "pertusaria-plittiana",
   "taxonId": 227561,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Rock Wart Lichen",
   "scientificName": "Pertusaria plittiana",
   "family": "Pertusariaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "wart lichens, water lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -232,31 +232,32 @@
       "commonName": "Macoun's Wart Lichen",
       "scientificName": "Pertusaria macounii",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114097124/medium.jpeg",
-      "distinction": "Macoun's Wart Lichen differs from its Pertusaria relatives by having more prominent, well-defined warty bumps compared to the flatter Rock Wart Lichen or the more pustule-like Branch Bumps."
+      "distinction": "undefined."
     },
     {
       "slug": "pertusaria-rubefacta",
       "commonName": "Pertusaria rubefacta",
       "scientificName": "Pertusaria rubefacta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7787147/medium.jpg",
-      "distinction": "Unlike its more common relatives Rock Wart Lichen and Branch Bumps, this species shows distinctive reddish coloration rather than plain gray or white."
+      "distinction": "undefined."
     },
     {
       "slug": "pertusaria-sulcata",
       "commonName": "Pertusaria sulcata",
       "scientificName": "Pertusaria sulcata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/88171783/medium.jpg",
-      "distinction": "Unlike Rock Wart Lichen which forms obvious rounded bumps, or Branch Bumps which creates pustule-like growths, Pertusaria sulcata is distinguished by its grooved, furrowed surface texture."
+      "distinction": "undefined."
     },
     {
       "slug": "pertusaria-texana",
       "commonName": "Texas Wart Lichen",
       "scientificName": "Pertusaria texana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13437981/medium.jpeg",
-      "distinction": "Texas Wart Lichen differs from its Pertusaria relatives by having more distinctly rounded, wart-like bumps compared to the irregular lumps of Rock Wart Lichen or the pustule-like swellings of Branch Bumps."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/227561"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "rinodina-tephraspis",
   "taxonId": 230281,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Rinodina tephraspis",
   "scientificName": "Rinodina tephraspis",
   "family": "Physciaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "button lichens, rosette lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 17211915,
@@ -83,58 +83,38 @@
       "observationUrl": "https://www.inaturalist.org/observations/37233043"
     }
   ],
-  "nameStory": "The name \"pepper-spore\" comes from the tiny black reproductive structures that look like scattered pepper grains on the lichen's surface. The species name \"tephraspis\" comes from Greek words meaning \"ash-colored shield,\" referring to the grayish, shield-like appearance of this crusty lichen.",
-  "description": "Rinodina tephraspis is a crustose lichen that forms thin, crusty patches on rock surfaces, looking somewhat like dried paint or concrete splatter. This partnership between fungus and algae creates a grayish to whitish coating that can spread several inches across stone surfaces. The lichen body is quite thin and closely attached to its rocky home, with tiny black dots scattered across its surface like pepper flakes.",
-  "idTips": [
-    {
-      "label": "Black pepper-like dots",
-      "description": "Look for tiny black circular structures scattered across the surface that look exactly like coarse ground pepper - these are the spore-producing bodies that feel slightly raised when you run your finger gently over them",
-      "isPrimary": true
-    },
-    {
-      "label": "Crusty gray coating",
-      "description": "The main body forms a thin, crusty layer that's pale gray to whitish, feeling rough and chalky to the touch, like fine sandpaper adhered to rock",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock-hugging growth",
-      "description": "Grows as a tight crust directly on rock surfaces, so closely attached that it's nearly impossible to peel off without scraping with a fingernail",
-      "isPrimary": false
-    },
-    {
-      "label": "Patchy spread pattern",
-      "description": "Forms irregular patches that can merge together, creating a mottled appearance like spilled paint that has dried and cracked slightly at the edges",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Found on exposed rock surfaces throughout New England, particularly on granite outcrops, stone walls, and rocky ledges in both forested and open areas. Prefers sunny to partially shaded locations on hard, non-calcareous rocks from sea level to moderate elevations in the mountains.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Most visible as winter moisture fades and the gray crusty patches become more apparent on warming rock surfaces. Black spore structures may be particularly prominent.",
-    "summer": "Appears somewhat faded and dry during hot periods, but the characteristic pepper-like black dots remain clearly visible against the pale crusty background.",
-    "fall": "Becomes more vibrant with increased moisture, and the gray coloration intensifies. Good time to spot new growth expanding at patch edges.",
-    "winter": "Often obscured by snow and ice, but can be found on south-facing rock surfaces that receive sun exposure and dry quickly after storms."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen can actually survive being completely frozen solid and then thawed repeatedly throughout winter - a survival trick that would kill most other organisms, but lichens just pause their life processes and resume exactly where they left off when conditions improve.",
-  "confusionNotes": "Most easily confused with other gray crustose lichens on rocks, but the distinctive black pepper-like dots are the key difference - other rock lichens may have different colored reproductive structures or none visible at all. Remember: if it looks like someone sprinkled pepper on gray paint, it's likely Rinodina tephraspis.",
-  "contextualKnowledge": "Lichens are actually two organisms living together - a fungus and an alga - in one of nature's most successful partnerships. The fungus provides structure and gathers water, while the alga makes food through photosynthesis, which is why lichens can survive on bare rock where nothing else can grow.",
-  "compareHints": "Unlike the Scaly Pepper-spore Lichen which has a more obviously scaly, flaky texture, Rinodina tephraspis forms a smoother crust. Dusky Pepper-Spore tends to be darker overall with less contrast between the body and the black dots. The relatively smooth, pale gray crust with sharply contrasting black pepper-like structures makes tephraspis distinctive among its relatives.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "rinodina-ascociscana",
       "commonName": "Scaly Pepper-spore Lichen",
       "scientificName": "Rinodina ascociscana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/371756300/medium.jpg",
-      "distinction": "Unlike its relative the Dusky Pepper-Spore which tends to be darker and less scaly, Scaly Pepper-spore has that distinctive broken, scale-like surface texture."
+      "distinction": "undefined."
     },
     {
       "slug": "rinodina-maculans",
       "commonName": "Dusky Pepper-Spore",
       "scientificName": "Rinodina maculans",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31469192/medium.jpg",
-      "distinction": "Compared to the Scaly Pepper-spore Lichen, the Dusky Pepper-Spore has a smoother, less obviously scaly surface texture."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/230281"
 }

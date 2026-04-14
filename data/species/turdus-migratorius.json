@@ -3,6 +3,13 @@
   "taxonId": 12727,
   "group": "birds",
   "commonName": "American Robin",
+  "alternativeNames": [
+    "Robin Redbreast",
+    "Robin Thrush",
+    "Red Robin",
+    "Red-breasted Thrush",
+    "Migratory Thrush"
+  ],
   "scientificName": "Turdus migratorius",
   "family": "Turdidae",
   "familyCommonName": "Thrushes",
@@ -313,6 +320,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_robin",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/12727",
   "xenoCantoUrl": "https://xeno-canto.org/species/Turdus-migratorius"

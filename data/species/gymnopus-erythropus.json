@@ -3,6 +3,9 @@
   "taxonId": 179105,
   "group": "fungi",
   "commonName": "Red-stemmed Gymnopus",
+  "alternativeNames": [
+    "redleg toughshank"
+  ],
   "scientificName": "Gymnopus erythropus",
   "family": "Omphalotaceae",
   "familyCommonName": "Omphalotaceae",
@@ -274,6 +277,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/179105"
 }

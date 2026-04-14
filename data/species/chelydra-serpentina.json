@@ -3,6 +3,13 @@
   "taxonId": 39682,
   "group": "reptiles",
   "commonName": "Common Snapping Turtle",
+  "alternativeNames": [
+    "Snapping Turtle",
+    "North American Snapping Turtle",
+    "Common Snapper",
+    "Eastern Snapping Turtle",
+    "Snapper"
+  ],
   "scientificName": "Chelydra serpentina",
   "family": "Chelydridae",
   "familyCommonName": "Snapping Turtles",
@@ -221,6 +228,7 @@
   "compareHints": "Common Snapping Turtles are the only snapping turtle species found in New England, making them unique in their family here. They're most similar to the much larger Alligator Snapping Turtle found in southern states, but alligator snappers have a more pronounced hooked beak, a spiky shell, and a worm-like lure in their mouth. No other New England turtle comes close to the snapper's size and aggressive demeanor on land.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_snapping_turtle",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/39682"
 }

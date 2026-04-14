@@ -1,7 +1,7 @@
 {
   "slug": "stereocaulon-alpinum",
   "taxonId": 231686,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Alpine Foam Lichen",
   "scientificName": "Stereocaulon alpinum",
   "family": "Stereocaulaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 21407586,
@@ -67,46 +67,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/23168600"
     }
   ],
-  "nameStory": "Alpine Foam Lichen gets its name from its fluffy, foam-like appearance and its preference for high-altitude environments. The tiny branched structures covered in powdery granules look remarkably like sea foam frozen in place, while 'alpine' reflects its love of mountain peaks and exposed rocky areas.",
-  "description": "Alpine Foam Lichen is a fascinating three-dimensional lichen that grows upright like a tiny coral reef on rocks and soil. It forms small clusters of pale gray-green branched stalks, each covered in soft, powdery granules that give it a distinctly foamy texture. These miniature forests rarely grow taller than an inch, but they create intricate landscapes that look almost otherworldly when you examine them up close.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms upright branching stalks that feel firm but slightly spongy when gently pressed, like tiny coral branches growing from rock or soil",
-      "isPrimary": true
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Covered in soft, powdery granules that feel slightly rough to the touch and give the entire structure a frosted or foam-like appearance",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Pale gray-green when dry, becoming more vibrant green when wet, with the powdery coating remaining consistently light-colored",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Grows directly on exposed rock surfaces, gravelly soil, or thin soil over bedrock in harsh, exposed locations",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual stalks typically reach 0.5 to 1 inch tall, forming scattered colonies rather than dense mats",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Alpine Foam Lichen thrives in New England's most challenging environments - high elevation peaks, exposed rocky summits, and windswept ridges where few other plants can survive. Look for it on granite outcrops and thin soils above treeline in the White Mountains and other high peaks. It prefers areas with clean air and intense UV exposure, making it an indicator of pristine mountain environments.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more vibrant green as snowmelt provides moisture, though it remains visible and identifiable even when partially snow-covered from late spring storms.",
-    "summer": "Shows its best colors during morning dew or after rain showers, when the gray-green transforms to a more vivid green while retaining its distinctive powdery coating.",
-    "fall": "Remains active and colorful during cool, moist autumn weather, often looking freshest during this season's frequent cloud cover and mist.",
-    "winter": "Survives completely exposed to harsh mountain weather, appearing bleached and pale but still maintaining its characteristic branched structure under snow."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This tiny lichen is one of nature's most extreme survivors - it can photosynthesize at temperatures as low as -10°F and actually uses the daily freeze-thaw cycles of mountain peaks to help crack rocks and create new growing space for itself.",
-  "confusionNotes": "Most easily confused with Easter Foam Lichen, but Alpine Foam has a lighter, more powdery appearance and tends to grow in smaller, more scattered colonies rather than dense cushions. Remember: Alpine = airier and more scattered, Easter = denser and more cushion-like.",
-  "contextualKnowledge": "Despite being called 'Alpine,' this lichen can occasionally be found at lower elevations in New England, particularly on exposed coastal bluffs or other harsh environments that mimic alpine conditions. The extreme rarity in New England (only one documented observation) makes any sighting particularly noteworthy.",
-  "compareHints": "Alpine Foam Lichen differs from its close relative Easter Foam by containing different types of cyanobacteria partners - Alpine Foam hosts lighter-colored Nostoc bacteria while Easter Foam contains darker Stigonema bacteria. This gives Alpine Foam its characteristically paler, more powdery appearance compared to the slightly darker, more robust-looking Easter Foam. Rock Foam Lichen grows in similar habitats but forms much more compact, coral-like structures.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "stereocaulon-saxatile",
@@ -127,24 +101,25 @@
       "commonName": "Granular Soil Foam Lichen",
       "scientificName": "Stereocaulon condensatum",
       "thumbnailUrl": "https://static.inaturalist.org/photos/9170717/medium.jpg",
-      "distinction": "Unlike its cousin Rock Foam Lichen which grows on solid rock surfaces, Granular Soil Foam strictly prefers soil substrates."
+      "distinction": "undefined."
     },
     {
       "slug": "stereocaulon-dactylophyllum",
       "commonName": "Finger-scale Foam",
       "scientificName": "Stereocaulon dactylophyllum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172310224/medium.jpg",
-      "distinction": "Unlike Rock Foam which tends to be coarser and less intricately branched, Finger-scale Foam creates much more delicate, highly divided coral-like structures."
+      "distinction": "undefined."
     },
     {
       "slug": "stereocaulon-paschale",
       "commonName": "Easter Foam",
       "scientificName": "Stereocaulon paschale",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/373327371/medium.jpg",
-      "distinction": "Easter Foam differs from Rock Foam by having more densely packed, coral-like branches rather than Rock Foam's more open, spreading structure."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Stereocaulon_alpinum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/231686"
 }

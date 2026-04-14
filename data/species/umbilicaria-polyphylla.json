@@ -1,7 +1,7 @@
 {
   "slug": "umbilicaria-polyphylla",
   "taxonId": 125058,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Petalled Rocktripe Lichen",
   "scientificName": "Umbilicaria polyphylla",
   "family": "Umbilicariaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "rocktripes, bloodspot lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -139,46 +139,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/12505805"
     }
   ],
-  "nameStory": "The \"petalled\" in Petalled Rocktripe comes from the way this lichen's edges often develop distinctive lobes or divisions that resemble flower petals radiating outward. Like all rock tripes, it gets the \"rocktripe\" part of its name because it grows flat against rock surfaces like a piece of tripe (stomach lining) pressed onto stone.",
-  "description": "Petalled Rocktripe is a dark, leathery lichen that grows like a flat pancake directly on exposed rock surfaces. This fascinating organism is actually two living things working together - a fungus and an algae - creating what looks like a single dark brown to black circular patch. It typically measures 2-6 cm across (about the size of a large coin to a small saucer) and has a smooth upper surface with a sooty black underside.",
-  "idTips": [
-    {
-      "label": "Attachment Point",
-      "description": "Look for a single central attachment point on the rock - like a belly button where the lichen connects to its rocky home",
-      "isPrimary": true
-    },
-    {
-      "label": "Upper Surface Texture",
-      "description": "Feel the smooth, dark brown to black top surface - it's leathery and flat without bumps or ridges",
-      "isPrimary": false
-    },
-    {
-      "label": "Underside Color",
-      "description": "If you can peek underneath or find a loose edge, the bottom is distinctly sooty black",
-      "isPrimary": false
-    },
-    {
-      "label": "Edge Pattern",
-      "description": "The margins often develop petal-like lobes or divisions that give it its distinctive shape",
-      "isPrimary": false
-    },
-    {
-      "label": "Size Range",
-      "description": "Individual specimens are typically coin to saucer-sized, measuring 2-6 cm across",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "This lichen thrives on exposed rock faces in New England's mountain regions, particularly in areas that experience harsh weather conditions. Look for it on granite outcrops, cliff faces, and boulder fields in higher elevation sites where it can withstand extreme temperature changes and strong winds.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Best time to spot this lichen as winter snow melts away from rock faces, revealing the dark patches that may have been hidden for months.",
-    "summer": "Visible and identifiable, though it may appear somewhat dried and contracted during hot, dry periods when it goes dormant.",
-    "fall": "Excellent viewing season as cooler, moister conditions make the lichen more active and easier to spot against autumn-colored surroundings.",
-    "winter": "Often buried under snow on exposed rocks, but can be found on vertical cliff faces where snow doesn't accumulate."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Rock tripes like this one are incredibly tough survivors that can lose up to 95% of their water content and appear completely dead, then come back to life within minutes when it rains - like having a biological resurrection switch!",
-  "confusionNotes": "Most easily confused with other rock tripe species, but Petalled Rocktripe's smooth upper surface and petal-like edge divisions help distinguish it. Memory trick: \"Petals = smooth and scalloped\" while many other rock tripes have rougher, bumpier surfaces.",
-  "contextualKnowledge": "Despite being called \"rock tripe,\" this has nothing to do with the edible organ meat - it's named purely for its flat, leathery appearance pressed against rocks. However, some rock tripes have historically been used as emergency food by indigenous peoples and arctic explorers, though they require careful preparation.",
-  "compareHints": "Among New England's rock tripes, Petalled Rocktripe stands out with its smooth upper surface - unlike the bumpy Smooth Rock Tripe (despite its name!) or the punctured appearance of Punctured Rocktripe. The petal-like divisions at the edges are also more pronounced than in most of its relatives, giving it a more scalloped, decorative appearance.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "umbilicaria-mammulata",
@@ -227,17 +201,18 @@
       "commonName": "Punctured Rocktripe Lichen",
       "scientificName": "Umbilicaria torrefacta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10235385/medium.jpeg",
-      "distinction": "Unlike Smooth Rock Tripe which has solid, unperforated edges, or Blistered Rock Tripe which has bubble-like bumps, Punctured Rocktripe is the only species in its genus with the distinctive sieve-like holes along the margins."
+      "distinction": "undefined."
     },
     {
       "slug": "umbilicaria-hirsuta",
       "commonName": "Granulating Rocktripe Lichen",
       "scientificName": "Umbilicaria hirsuta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/296725989/medium.jpeg",
-      "distinction": "Among New England's rock tripes, Granulating Rocktripe stands out for its distinctly bumpy, granular surface texture that feels like coarse sandpaper."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Umbilicaria_polyphylla",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/125058"
 }

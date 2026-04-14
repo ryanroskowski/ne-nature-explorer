@@ -1,7 +1,7 @@
 {
   "slug": "caloplaca-cerina",
   "taxonId": 154108,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "gray-rimmed firedot lichen",
   "scientificName": "Caloplaca cerina",
   "family": "Teloschistaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Sunburst Lichens and Allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -179,48 +179,23 @@
       "observationUrl": "https://www.inaturalist.org/observations/194916251"
     }
   ],
-  "nameStory": "The gray-rimmed firedot lichen gets its fiery name from the bright orange or reddish dots (called apothecia) that look like tiny embers scattered across its surface. The 'gray-rimmed' part comes from the distinctive pale border that often surrounds these colorful reproductive structures, creating a striking contrast that makes this lichen stand out on bark and rock.",
-  "description": "The gray-rimmed firedot lichen is a crusty, flat-growing lichen that forms patches on tree bark and occasionally rocks. Its most eye-catching feature is the collection of bright orange to reddish-orange circular dots scattered across a grayish or pale yellowish background. These colorful spots are the lichen's reproductive structures, and they're what make this species so distinctive. Individual patches are typically small, usually just a few inches across.",
-  "idTips": [
-    {
-      "label": "Orange reproductive dots",
-      "description": "Look for bright orange to reddish-orange circular spots that feel slightly raised when you run your finger gently over them - these are the apothecia or fruiting bodies",
-      "isPrimary": true
-    },
-    {
-      "label": "Gray rim around dots",
-      "description": "Each orange dot is often surrounded by a thin, pale gray or whitish border that creates a subtle halo effect",
-      "isPrimary": false
-    },
-    {
-      "label": "Crusty texture",
-      "description": "The lichen body feels dry and slightly rough to the touch, like fine sandpaper, and grows tightly attached to its surface",
-      "isPrimary": false
-    },
-    {
-      "label": "Grayish background",
-      "description": "The main body of the lichen appears pale gray to yellowish-gray, providing a muted backdrop for the vibrant orange spots",
-      "isPrimary": false
-    },
-    {
-      "label": "Bark preference",
-      "description": "Most commonly found growing directly on tree bark where it forms irregular patches that follow the bark's natural texture",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Gray-rimmed firedot lichen grows on the bark of deciduous trees, particularly favoring trees with relatively smooth bark in open woodlands and forest edges. In New England, look for it in mixed forests and along woodland paths where trees receive good light exposure. It occasionally appears on rocks but is much more commonly found on living tree trunks at eye level or below.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The orange reproductive dots become more vibrant as moisture increases, making identification easier. This is an excellent time to spot the characteristic gray rims around the orange spots.",
-    "summer": "During dry periods, the lichen may appear duller and more contracted, but the orange dots remain visible. Look for it on the shaded sides of trees where it retains more moisture.",
-    "fall": "Autumn moisture often revives the lichen's colors, and the orange dots can appear particularly bright against the gray background as deciduous trees lose their leaves and expose more bark.",
-    "winter": "The lichen remains visible and identifiable year-round, though colors may be somewhat muted. Snow-free periods offer good viewing opportunities when the bark is exposed."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This humble lichen is actually the 'type species' for the entire Caloplaca genus - meaning when scientists first described and named the whole group of firedot lichens, this species was chosen as the official representative that defines what it means to be a 'firedot lichen'!",
-  "confusionNotes": "Other orange-fruited lichens in the firedot family can look similar, but most lack the distinctive gray rim around each orange dot. Remember the phrase 'fire with a halo' - the gray rim around each bright spot is your key distinguishing feature.",
-  "contextualKnowledge": "Like all lichens, this organism is actually two living things working together - a fungus and an algae in a mutually beneficial partnership. The fungus provides structure and protection while the algae produces food through photosynthesis, which is why lichens can grow on bare surfaces like bark and rock.",
-  "compareHints": "Since this is the only Caloplaca species in our New England dataset, compare it with other orange-fruited lichens in the sunburst family. The gray-rimmed firedot is distinguished by its consistently present pale borders around the orange reproductive structures, whereas other orange lichens typically have solid-colored dots without distinct rims. The crusty, tightly-attached growth form also helps separate it from more leafy or branching orange lichens.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Caloplaca_cerina",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/154108"
 }

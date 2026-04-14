@@ -3,6 +3,11 @@
   "taxonId": 3959,
   "group": "birds",
   "commonName": "Red-necked Phalarope",
+  "alternativeNames": [
+    "Red Necked Phalarope",
+    "Northern Phalarope",
+    "Hyperborean Phalarope"
+  ],
   "scientificName": "Phalaropus lobatus",
   "family": "Scolopacidae",
   "familyCommonName": "Sandpipers and Allies",
@@ -321,6 +326,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-necked_phalarope",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/3959",
   "xenoCantoUrl": "https://xeno-canto.org/species/Phalaropus-lobatus"

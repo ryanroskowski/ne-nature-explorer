@@ -1,7 +1,7 @@
 {
   "slug": "thelotrema-subtile",
   "taxonId": 232542,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Common Bark-barnacles",
   "scientificName": "Thelotrema subtile",
   "family": "Graphidaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "script lichens, whitewash lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 14159671,
@@ -163,56 +163,31 @@
       "observationUrl": "https://www.inaturalist.org/observations/333922104"
     }
   ],
-  "nameStory": "These lichens earned their 'bark-barnacle' name because their cup-shaped fruiting bodies look remarkably like tiny marine barnacles attached to tree bark. The scientific name Thelotrema comes from Greek words meaning 'nipple hole,' referring to the distinctive crater-like openings. Just like ocean barnacles cluster on rocks and ships, these lichens form communities on tree trunks!",
-  "description": "Common Bark-barnacles are crusty lichens that grow as thin, whitish-gray patches on tree bark. They're composite organisms made of fungi and algae living together in partnership - the fungus provides structure while the algae make food through photosynthesis. Individual patches can spread several inches across, but the most distinctive features are their tiny cup-shaped structures that look like miniature volcanoes dotting the surface. These 'cups' are actually the reproductive parts where spores develop.",
-  "idTips": [
-    {
-      "label": "Crater-like cups",
-      "description": "Look for tiny round openings about 1-2mm across that resemble volcanic craters or barnacle openings, often with slightly raised rims and dark interiors",
-      "isPrimary": true
-    },
-    {
-      "label": "Crusty texture",
-      "description": "The surface feels rough and chalky when touched gently, like dried paint or plaster that's starting to crack and peel",
-      "isPrimary": false
-    },
-    {
-      "label": "Whitish-gray color",
-      "description": "Overall pale gray to whitish appearance, sometimes with a slight greenish tint when moist, blending subtly with lighter-colored bark",
-      "isPrimary": false
-    },
-    {
-      "label": "Bark attachment",
-      "description": "Forms tight patches directly on bark surface that can't be peeled off easily - scraping with a fingernail produces white chalky powder",
-      "isPrimary": false
-    },
-    {
-      "label": "Scattered distribution",
-      "description": "Cups appear randomly scattered across the lichen surface rather than arranged in lines or patterns, like tiny pockmarks",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Found on the bark of deciduous trees in New England's mature forests, particularly favoring smooth-barked species like beech, maple, and oak. They prefer trees in partially shaded areas with good air circulation, often in mid-elevation forests rather than dense lowland swamps. Look for them on the trunk and larger branches where bark stays relatively dry but receives some filtered light.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Most visible after winter moisture has cleaned the bark surface, making the whitish patches stand out clearly against darker tree bark. This is when the lichen begins more active growth after winter dormancy.",
-    "summer": "During dry periods, the lichen may appear more grayish and contracted, but the distinctive crater-like cups remain clearly visible. Growth slows in very hot, dry weather.",
-    "fall": "Often looks most vibrant as autumn moisture returns, with cups appearing more defined and the overall color becoming slightly more greenish-white.",
-    "winter": "Remains visible year-round since it's a permanent part of the tree bark, though it may appear duller gray during very cold, dry periods."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "These lichens can live for decades on the same tree and actually help protect the bark from UV damage - they're like natural sunscreen for trees! **[Uncertain claim - lichen longevity and UV protection effects may vary]**",
-  "confusionNotes": "Most easily confused with other crusty lichens on bark, but the distinctive crater-like cups are the key difference - other crusty lichens typically have flat surfaces or different shaped reproductive structures. Memory trick: if it looks like tiny barnacles stuck to bark, you've found your bark-barnacle lichen!",
-  "contextualKnowledge": "Many people don't realize that lichens aren't plants at all, but rather a partnership between fungi and algae. This collaborative relationship is so successful that lichens can survive in harsh conditions where neither partner could live alone, making them excellent indicators of air quality.",
-  "compareHints": "Common Bark-barnacles differ from their close relative Bark Barnacles (Thelotrema lepadinum) primarily in size and cup structure - Common Bark-barnacles typically have smaller, more numerous cups that are more uniformly round. **[Uncertain claim - specific differences between these species may need verification]** The cups in Common Bark-barnacles also tend to have thinner, less prominent rims compared to other Thelotrema species.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "thelotrema-lepadinum",
       "commonName": "Bark Barnacles",
       "scientificName": "Thelotrema lepadinum",
       "thumbnailUrl": "https://static.inaturalist.org/photos/564280718/medium.jpg",
-      "distinction": "Bark barnacles differ from their close relative Common Bark-barnacles mainly in the size and prominence of their fruiting bodies - bark barnacles have more conspicuous, urn-shaped structures with more prominent white rims."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/232542"
 }

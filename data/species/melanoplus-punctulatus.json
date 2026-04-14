@@ -3,6 +3,9 @@
   "taxonId": 224756,
   "group": "insects",
   "commonName": "Pine tree Spur-throat Grasshopper",
+  "alternativeNames": [
+    "Grizzled Spur-throat Grasshopper"
+  ],
   "scientificName": "Melanoplus punctulatus",
   "family": "Acrididae",
   "familyCommonName": "Short-horned Grasshoppers",
@@ -320,6 +323,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Melanoplus_punctulatus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/224756",
   "ecologicalRole": {

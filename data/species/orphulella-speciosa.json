@@ -3,6 +3,9 @@
   "taxonId": 226628,
   "group": "insects",
   "commonName": "Pasture Locust",
+  "alternativeNames": [
+    "Pasture Grasshopper"
+  ],
   "scientificName": "Orphulella speciosa",
   "family": "Acrididae",
   "familyCommonName": "Short-horned Grasshoppers",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Orphulella_speciosa",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/226628",
   "ecologicalRole": {

@@ -3,6 +3,9 @@
   "taxonId": 122621,
   "group": "arachnids",
   "commonName": "Carolina Wolf Spider",
+  "alternativeNames": [
+    "Giant Wolf Spider"
+  ],
   "scientificName": "Hogna carolinensis",
   "family": "Lycosidae",
   "familyCommonName": "Wolf Spiders",
@@ -241,6 +244,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hogna_carolinensis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/122621"
 }

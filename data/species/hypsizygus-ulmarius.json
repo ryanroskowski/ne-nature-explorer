@@ -3,6 +3,9 @@
   "taxonId": 120862,
   "group": "fungi",
   "commonName": "Elm Mushroom",
+  "alternativeNames": [
+    "Elm Oyster"
+  ],
   "scientificName": "Hypsizygus ulmarius",
   "family": "Lyophyllaceae",
   "familyCommonName": "Lyophyllaceae",
@@ -194,6 +197,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hypsizygus_ulmarius",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/120862"
 }

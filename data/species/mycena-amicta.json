@@ -3,6 +3,9 @@
   "taxonId": 63433,
   "group": "fungi",
   "commonName": "Bluefoot Bonnet",
+  "alternativeNames": [
+    "Coldfoot bonnet"
+  ],
   "scientificName": "Mycena amicta",
   "family": "Mycenaceae",
   "familyCommonName": "Mycenaceae",
@@ -380,6 +383,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mycena_amicta",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/63433"
 }

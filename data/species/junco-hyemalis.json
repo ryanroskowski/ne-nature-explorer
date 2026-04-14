@@ -3,6 +3,9 @@
   "taxonId": 10094,
   "group": "birds",
   "commonName": "Dark-eyed Junco",
+  "alternativeNames": [
+    "Snowbird"
+  ],
   "scientificName": "Junco hyemalis",
   "family": "Passerellidae",
   "familyCommonName": "New World Sparrows",
@@ -306,6 +309,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Dark-eyed_junco",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/10094",
   "xenoCantoUrl": "https://xeno-canto.org/species/Junco-hyemalis"

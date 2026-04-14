@@ -1,7 +1,7 @@
 {
   "slug": "flavopunctelia-soredica",
   "taxonId": 220115,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Powder-edged Speckled Greenshield",
   "scientificName": "Flavopunctelia soredica",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -163,51 +163,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/22011504"
     }
   ],
-  "nameStory": "This lichen earned its name from the powdery white granules called soredia that form along the edges of its lobes, giving it a distinctly dusty border. The 'speckled greenshield' part comes from the tiny white dots scattered across its green-gray surface and its shield-like, flattened growth form that hugs tree bark like ancient armor.",
-  "description": "Powder-edged Speckled Greenshield is a leafy lichen that grows flat against tree bark in overlapping, shield-like patches. Its blue-gray to greenish surface is peppered with tiny white dots and bordered by distinctive powdery white edges that feel gritty to the touch. Individual patches can grow several inches across, often merging with neighboring colonies to form larger decorative crusts on bark. This widespread species has traveled the globe, appearing on trees from New England to Japan.",
-  "idTips": [
-    {
-      "label": "Reproductive Structures",
-      "description": "Powdery white granules line the lobe edges, feeling gritty like fine sand when rubbed gently between fingers",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Leafy and flat against bark with overlapping lobes that peel slightly at the edges, like layers of paint starting to curl",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Scattered with tiny white dots across the surface that look like someone sprinkled salt on gray-green fabric",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Blue-gray to greenish when dry, becoming more vibrant green when wet from rain or morning dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Almost exclusively found on tree bark, particularly favoring rough-barked deciduous trees",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual rosettes reach 2-4 inches across but often merge into much larger patches covering substantial areas of trunk",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for this lichen on the bark of deciduous trees throughout New England's forests, particularly on oaks, maples, and other rough-barked species. It thrives in areas with good air circulation and moderate moisture, from lowland forests to mid-elevation slopes. You'll often spot it on trees along forest edges, in parks, and even on street trees in cleaner suburban areas.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Colors become more vibrant green as spring rains wet the surface. The powdery edges are most noticeable when dry between rain showers.",
-    "summer": "Appears more gray-blue during dry periods but quickly greens up after summer thunderstorms. Growth is most active during humid summer months.",
-    "fall": "Easily spotted on bare tree trunks after leaves fall, when the speckled pattern shows clearly against dark bark.",
-    "winter": "Remains visible year-round on bark, often appearing more gray and subdued but still identifiable by its distinctive powdery edges and dotted surface."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen reproduces by literally blowing in the wind - those powdery white granules along its edges contain both fungal threads and algae partners bundled together, ready to start new colonies wherever they land, like tiny biological seed packets.",
-  "confusionNotes": "Most easily confused with its close relative the Speckled Greenshield, but remember 'powder at the perimeter' - only the Powder-edged species has those distinctive gritty white granules lining the lobe edges, while regular Speckled Greenshield has smooth edges.",
-  "contextualKnowledge": "Despite being called a 'greenshield,' this lichen can appear quite blue-gray much of the time, especially when dry. The scientific name 'soredica' refers to those powdery reproductive structures called soredia, which distinguish it from other speckled lichens.",
-  "compareHints": "The key difference from its cousin the regular Speckled Greenshield lies in reproduction strategy - Powder-edged reproduces with those gritty soredia granules along the edges, while regular Speckled Greenshield typically produces tiny finger-like projections called isidia scattered across its surface instead. Both share the characteristic white dots, but only Powder-edged has that distinctive dusty border that gives it its name.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "flavopunctelia-flaventior",
@@ -218,6 +187,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Flavopunctelia_soredica",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/220115"
 }

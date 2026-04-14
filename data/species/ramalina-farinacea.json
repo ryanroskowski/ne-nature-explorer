@@ -1,8 +1,11 @@
 {
   "slug": "ramalina-farinacea",
   "taxonId": 54758,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Farinose Cartilage Lichen",
+  "alternativeNames": [
+    "Dotted Ramalina"
+  ],
   "scientificName": "Ramalina farinacea",
   "family": "Ramalinaceae",
   "familyCommonName": "bushy lichens, sea-fog lichens, and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -171,51 +174,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/242746915"
     }
   ],
-  "nameStory": "The \"farinose\" in this lichen's name comes from the Latin word for flour or meal, referring to the powdery white spots that dust its edges like flour on a baker's apron. \"Cartilage\" describes its firm, flexible texture that feels remarkably similar to the cartilage in your ear or nose. Together, these names paint a picture of a tough but bendy lichen dusted with nature's own powdered sugar.",
-  "description": "Farinose Cartilage Lichen forms small, shrub-like tufts that dangle from tree branches like miniature decorations. These flattened, branching structures typically grow 1-2 inches long and have a distinctive yellow-green to gray-green color. What makes this lichen instantly recognizable are the powdery white spots scattered along the edges of its flattened branches. Despite its delicate appearance, it has a surprisingly tough, cartilage-like texture that bounces back when gently pressed.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "Look for powdery white spots (called soredia) dusting the edges of the branches - these feel slightly gritty when rubbed gently and are the lichen's main identifying feature",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms small, shrub-like tufts that hang from branches with flattened, branching segments rather than round, stringy ones",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Yellow-green to gray-green overall, becoming more vibrant green when wet from rain or morning dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Small tufts typically 1-2 inches long, much smaller than many of its bushy lichen relatives",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Hangs from tree trunks and branches, particularly on isolated trees or woodland edges rather than deep forest interiors",
-      "isPrimary": false
-    },
-    {
-      "label": "Texture Feel",
-      "description": "Firm and flexible like cartilage - you can bend the branches without breaking them, and they spring back to shape",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "In New England, look for Farinose Cartilage Lichen hanging from trees in coastal areas, woodland edges, and on isolated trees in open areas. It particularly thrives in areas influenced by sea fog and oceanic moisture, making it more common near the coast than inland. This lichen tolerates air pollution better than most of its relatives, so you might spot it even in areas where other sensitive lichens have disappeared.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more vibrant green with spring rains and increased humidity. The powdery white soredia along branch edges are most noticeable when contrasted against the fresh green color.",
-    "summer": "May appear more gray-green and somewhat duller during dry periods, but the characteristic powdery edges remain visible. Morning dew briefly brightens the color.",
-    "fall": "Color remains consistent, and the lichen is easily spotted as leaves fall away from surrounding branches. Fall rains refresh the green tones.",
-    "winter": "Persists through winter weather, often appearing gray-green against snow. The tough, cartilage-like texture helps it survive freezing and thawing cycles."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is like nature's air quality monitor - it's one of the few lichen species that can actually tolerate air pollution, earning it the nickname \"the survivor lichen\" among researchers who use it to track environmental changes in urban areas.",
-  "confusionNotes": "Most likely confused with other bushy lichens in the same genus, but the powdery white spots along the branch edges are unique to this species. Memory trick: \"Flour on the edges\" - no other New England bushy lichen has this distinctive powdery dusting pattern.",
-  "contextualKnowledge": "The scientific name reflects an interesting botanical history - first described by the famous Carl Linnaeus in 1753, making it one of the earliest scientifically named lichens. The genus name Ramalina comes from the Latin word for \"little branch,\" perfectly describing its growth form.",
-  "compareHints": "Unlike its relatives in the Ramalina genus, Farinose Cartilage Lichen is the only one with powdery white soredia along its branch edges. Sinewed Bushy Lichen and Rock Bushy Lichen lack these powdery spots entirely, while Frayed Ribbon Lichen has a more ribbon-like, less branched appearance. The cartilage-like texture combined with the distinctive white dusting makes this species unmistakable once you know what to look for.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "ramalina-americana",
@@ -243,17 +215,18 @@
       "commonName": "Thorny Ramalina",
       "scientificName": "Ramalina willeyi",
       "thumbnailUrl": "https://static.inaturalist.org/photos/28480517/medium.jpeg",
-      "distinction": "[UNCERTAIN: Detailed comparisons due to limited information] Unlike its relatives Sinewed Bushy Lichen and Rock Bushy Lichen, Thorny Ramalina is distinguished by its thorny surface projections rather than smooth branches."
+      "distinction": "undefined."
     },
     {
       "slug": "ramalina-complanata",
       "commonName": "cartilage lichen",
       "scientificName": "Ramalina complanata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2650835/medium.jpg",
-      "distinction": "Unlike its relatives in the bushy lichen genus, cartilage lichen has distinctly flattened branches rather than the more rounded or cylindrical branches of species like sinewed bushy lichen."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ramalina_farinacea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/54758"
 }

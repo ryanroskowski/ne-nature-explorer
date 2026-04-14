@@ -1,7 +1,7 @@
 {
   "slug": "halecania-pepegospora",
   "taxonId": 463086,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Halecania pepegospora",
   "scientificName": "Halecania pepegospora",
   "family": "Leprocaulaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Leprocaulales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -67,48 +67,23 @@
       "observationUrl": "https://www.inaturalist.org/observations/42856074"
     }
   ],
-  "nameStory": "This tiny lichen doesn't have a widely-used common name, so scientists simply call it by its scientific name, Halecania pepegospora. The genus name \"Halecania\" honors lichenologist Halecania, while \"pepegospora\" refers to the distinctive spores that help identify this species under a microscope.",
-  "description": "Halecania pepegospora is a crustose lichen that forms thin, almost invisible crusts on tree bark and rock surfaces. This inconspicuous organism appears as a pale grayish or whitish film that's so thin you might mistake it for a stain or discoloration on the substrate. The lichen typically spreads in patches just a few centimeters across, though multiple patches may occur on the same tree or rock. Like all lichens, it's actually a partnership between a fungus and algae working together.",
-  "idTips": [
-    {
-      "label": "Microscopic spores",
-      "description": "The most reliable identification feature requires a microscope - the spores have a distinctive warty or bumpy texture that gives this species its name",
-      "isPrimary": true
-    },
-    {
-      "label": "Thin crust texture",
-      "description": "Forms an extremely thin, smooth crust that feels like a slight roughening of the bark surface when you run your finger over it",
-      "isPrimary": false
-    },
-    {
-      "label": "Pale coloration",
-      "description": "Appears as a dull grayish-white to pale cream color that blends subtly with the substrate beneath",
-      "isPrimary": false
-    },
-    {
-      "label": "Small fruiting bodies",
-      "description": "Tiny black dots (apothecia) may be scattered across the surface, feeling like pinpricks when touched gently",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate preference",
-      "description": "Most commonly found on smooth bark of deciduous trees, particularly favoring younger branches and twigs",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "**[UNCERTAIN CLAIM]** This rare lichen appears to prefer the bark of deciduous trees in mixed forests throughout New England, particularly on smoother bark surfaces of younger branches. It may also occur on rock surfaces in shaded, humid environments. Given its extremely low observation count in the region, it likely requires very specific microhabitat conditions that are not yet well understood.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "**[UNCERTAIN CLAIM]** The thin crust may be more visible as trees leaf out and humidity increases, making the pale coloration more apparent against darker, moist bark.",
-    "summer": "**[UNCERTAIN CLAIM]** During humid summer months, the lichen may be at its most active, though visual changes are minimal due to its inconspicuous nature.",
-    "fall": "**[UNCERTAIN CLAIM]** As leaves fall and light conditions change, the subtle crust may become slightly more noticeable on exposed bark surfaces.",
-    "winter": "**[UNCERTAIN CLAIM]** The persistent crust remains visible year-round, though it may appear more muted against wet or snow-covered bark."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "**[UNCERTAIN CLAIM]** This lichen is so rare and inconspicuous that it has been recorded only once in all of New England, making anyone who finds it again a genuine contributor to scientific knowledge about our region's biodiversity!",
-  "confusionNotes": "**[UNCERTAIN CLAIM]** This species is easily overlooked entirely rather than confused with other species, as its extremely thin crust can appear to be simple bark discoloration or aging. Other pale crustose lichens like Lepraria species tend to be more powdery to the touch, while Halecania feels smoother and more integrated with the bark surface.",
-  "contextualKnowledge": "**[UNCERTAIN CLAIM]** Crustose lichens like this one are among the most challenging organisms for amateur naturalists to identify, as many species require microscopic examination of spore characteristics for definitive identification. The scientific name is the primary way to refer to this species since no common name has been established.",
-  "compareHints": "**[UNCERTAIN CLAIM]** Since this is the only Halecania species recorded in New England, compare it with other pale crustose lichens in the family Leprocaulaceae. Unlike the more powdery or granular textures of related species, Halecania pepegospora forms a distinctly smooth, thin crust that's tightly bound to its substrate. The microscopic spore characteristics ultimately separate it from similar-looking pale lichens.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/463086"
 }

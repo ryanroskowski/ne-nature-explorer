@@ -3,6 +3,9 @@
   "taxonId": 71219,
   "group": "insects",
   "commonName": "European Mole Cricket",
+  "alternativeNames": [
+    "Mole Cricket"
+  ],
   "scientificName": "Gryllotalpa gryllotalpa",
   "family": "Gryllotalpidae",
   "familyCommonName": "Mole Crickets",
@@ -262,6 +265,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Gryllotalpa_gryllotalpa",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/71219",
   "xenoCantoUrl": "https://xeno-canto.org/species/Gryllotalpa-gryllotalpa",

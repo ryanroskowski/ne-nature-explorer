@@ -3,6 +3,10 @@
   "taxonId": 27805,
   "group": "amphibians",
   "commonName": "Eastern Newt",
+  "alternativeNames": [
+    "Red Eft",
+    "Red-spotted Salamander"
+  ],
   "scientificName": "Notophthalmus viridescens",
   "family": "Salamandridae",
   "familyCommonName": "Newts",
@@ -221,6 +225,7 @@
   "compareHints": "Since the eastern newt is the only member of its genus in New England, compare it to other salamander families. Unlike lungless salamanders (like red-backed salamanders), newts have lungs and must surface to breathe when in water. Unlike mole salamanders, adult newts are aquatic rather than terrestrial, and they lack the robust, chunky build of species like spotted salamanders.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Eastern_newt",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/27805"
 }

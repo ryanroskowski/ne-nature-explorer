@@ -3,6 +3,9 @@
   "taxonId": 1506201,
   "group": "insects",
   "commonName": "Black-sided Pygmy Grasshopper",
+  "alternativeNames": [
+    "Sedge Grouse Locust"
+  ],
   "scientificName": "Tettigidea lateralis",
   "family": "Tetrigidae",
   "familyCommonName": "Pygmy Grasshoppers",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Tettigidea_lateralis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1506201",
   "ecologicalRole": {

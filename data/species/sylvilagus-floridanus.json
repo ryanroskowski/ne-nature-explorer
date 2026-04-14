@@ -3,6 +3,12 @@
   "taxonId": 43111,
   "group": "mammals",
   "commonName": "Eastern Cottontail",
+  "alternativeNames": [
+    "Gray Rabbit",
+    "Grey Rabbit",
+    "Molly-Cottontail",
+    "molly hare"
+  ],
   "scientificName": "Sylvilagus floridanus",
   "family": "Leporidae",
   "familyCommonName": "Hares and Rabbits",
@@ -218,6 +224,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_cottontail",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/43111"
 }

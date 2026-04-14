@@ -1,7 +1,7 @@
 {
   "slug": "ramalina-willeyi",
   "taxonId": 229785,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Thorny Ramalina",
   "scientificName": "Ramalina willeyi",
   "family": "Ramalinaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -91,46 +91,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/44522761"
     }
   ],
-  "nameStory": "The \"Thorny\" in Thorny Ramalina comes from the sharp, spiky projections that cover this lichen's branching structure, making it feel prickly to the touch. Unlike smooth bushy lichens, this species bristles with tiny thorn-like outgrowths that give it a distinctly rough, almost hostile appearance. The genus name Ramalina comes from the Latin \"ramulus\" meaning little branch, perfectly describing these tree-like lichens.",
-  "description": "Thorny Ramalina is a bushy, three-dimensional lichen that grows upright from tree bark like a miniature gray-green shrub. Its branching structure is covered with sharp, thorn-like projections that make it unmistakable among New England's bushy lichens. This species typically reaches 2-4 inches tall and forms small clusters on the bark of hardwood trees. [UNCERTAIN: Specific size and detailed morphology - very limited reference material available for this rare species]",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "Covered in sharp, thorn-like projections that feel prickly when gently touched - like tiny spines covering the entire branching structure",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Grows as upright, three-dimensional bushes with multiple irregular branches radiating from attachment points on bark",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Pale gray-green when dry, becoming more vibrant green when wet from rain or morning dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Found exclusively on the bark of hardwood trees, particularly favoring smooth-barked species in coastal areas",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Forms small clusters 2-4 inches tall, with individual branches less than an inch wide",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "This extremely rare lichen is found on the bark of hardwood trees in coastal New England, particularly in areas influenced by sea fog and salt spray. [UNCERTAIN: Specific habitat preferences due to rarity] It appears to prefer smooth-barked trees in maritime environments where humidity levels remain consistently high. With only three recorded observations in all of New England, finding this species is like discovering a botanical treasure.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "More vibrant green coloration as spring rains keep the lichen moist, making the thorny projections easier to see against the brightened thallus.",
-    "summer": "May appear grayer and more contracted during dry periods, but the diagnostic thorny texture remains obvious to touch.",
-    "fall": "Often at its most visible as deciduous trees lose leaves, exposing lichen-covered bark that was previously hidden.",
-    "winter": "Remains visible year-round, often appearing more prominent against bare winter bark, with moisture from snow making colors more vivid."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Thorny Ramalina is so rare in New England that it has been documented only three times across all six states - making it rarer than many endangered animals and earning it a spot among the region's most elusive natural treasures.",
-  "confusionNotes": "Could potentially be confused with other bushy lichens, but the sharp, thorn-like projections covering its surface make it unmistakable once you feel the texture. Memory trick: \"Thorny by name, thorny by nature\" - no other bushy lichen in New England has such pronounced spiky projections.",
-  "contextualKnowledge": "This species represents one of New England's rarest lichens, highlighting how much we still have to discover about these often-overlooked organisms. The extreme rarity might indicate very specific ecological requirements or possibly that it's at the edge of its natural range in our region.",
-  "compareHints": "[UNCERTAIN: Detailed comparisons due to limited information] Unlike its relatives Sinewed Bushy Lichen and Rock Bushy Lichen, Thorny Ramalina is distinguished by its thorny surface projections rather than smooth branches. While Frayed Ribbon Lichen has a more flattened, ribbon-like growth form, Thorny Ramalina maintains a fully three-dimensional bushy structure with its characteristic spiky texture.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "ramalina-americana",
@@ -158,17 +132,18 @@
       "commonName": "Farinose Cartilage Lichen",
       "scientificName": "Ramalina farinacea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/471356633/medium.jpg",
-      "distinction": "Unlike its relatives in the Ramalina genus, Farinose Cartilage Lichen is the only one with powdery white soredia along its branch edges."
+      "distinction": "undefined."
     },
     {
       "slug": "ramalina-complanata",
       "commonName": "cartilage lichen",
       "scientificName": "Ramalina complanata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2650835/medium.jpg",
-      "distinction": "Unlike its relatives in the bushy lichen genus, cartilage lichen has distinctly flattened branches rather than the more rounded or cylindrical branches of species like sinewed bushy lichen."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/229785"
 }

@@ -3,6 +3,9 @@
   "taxonId": 155122,
   "group": "fungi",
   "commonName": "Wrinkled Crust",
+  "alternativeNames": [
+    "Spreading Phlebia"
+  ],
   "scientificName": "Phlebia radiata",
   "family": "Meruliaceae",
   "familyCommonName": "Meruliaceae",
@@ -241,6 +244,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Phlebia_radiata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/155122"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "pectenia-plumbea",
   "taxonId": 823668,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Blue Felt Lichen",
   "scientificName": "Pectenia plumbea",
   "family": "Pannariaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Peltigerales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -99,48 +99,23 @@
       "observationUrl": "https://www.inaturalist.org/observations/82366805"
     }
   ],
-  "nameStory": "The \"blue felt\" name captures this lichen's distinctive blue-gray to blue-black coloration and its soft, velvety texture that feels remarkably like felt fabric. When you gently touch the surface, it has that characteristic fuzzy, cloth-like quality that makes the common name instantly memorable.",
-  "description": "Blue felt lichen is a leafy (foliose) lichen that forms soft, felt-like patches on tree bark and occasionally rocks. It displays beautiful blue-gray to blue-black colors that can shift toward brownish tones depending on conditions. The lichen grows in irregular, overlapping lobes that create a distinctive velvety carpet across its substrate. Individual patches can spread several inches across over many years of slow growth.",
-  "idTips": [
-    {
-      "label": "Color",
-      "description": "Distinctive blue-gray to blue-black coloration that may appear brownish in some lighting, unlike most other lichens which are green, gray, or yellow",
-      "isPrimary": true
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Soft, velvety surface that feels remarkably like felt fabric when gently touched - much softer than typical crusty lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Growth Form",
-      "description": "Foliose (leafy) with irregular, overlapping lobes that form spreading patches rather than upright branches or crusty coatings",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Primarily grows on tree bark in undisturbed forests, occasionally found on coastal rocks in maritime areas",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Forms patches that can spread several inches across, with individual lobes typically less than an inch wide",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Blue felt lichen thrives in undisturbed woodlands throughout New England, particularly in areas with maritime Atlantic climate influence. Look for it on tree bark in mature forests away from pollution sources, as it's highly sensitive to acid rain and air quality changes. It occasionally appears on coastal rocks in areas with consistent moisture and clean air.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The blue-gray colors become more vibrant with increased spring moisture, and the felt-like texture is most pronounced when slightly damp from rain or morning dew.",
-    "summer": "May appear somewhat duller and more brownish during dry periods, but the distinctive velvety texture remains constant throughout the growing season.",
-    "fall": "Colors often appear richest in the humid fall weather, with the blue-black tones standing out beautifully against autumn bark colors.",
-    "winter": "Remains visible and identifiable year-round, often appearing more blue-black against snow-covered bark, though growth is minimal in cold months."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "In 2022, Nova Scotia became the first province in Canada to designate an official provincial lichen, choosing blue felt lichen for this historic honor - making it perhaps the most politically important lichen in North America!",
-  "confusionNotes": "The blue-gray to blue-black coloration is so distinctive that blue felt lichen is rarely confused with other species - most lichens are various shades of green, yellow, or plain gray. If you see blue tones on a soft, felt-like lichen, you've likely found your match.",
-  "contextualKnowledge": "This species was formerly classified in the genus Degelia and may still be found in older field guides under the name Degelia plumbea. The recent reclassification to Pectenia reflects ongoing advances in lichen DNA research and taxonomy.",
-  "compareHints": "Blue felt lichen is currently the only species in the genus Pectenia found in New England, making it unique in its immediate taxonomic group. Within the broader Pannariaceae family, it stands out from relatives like the various Pannaria species by its distinctive blue coloration and exceptionally soft, felt-like texture. Most other family members are gray, brown, or greenish without the characteristic blue tones.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Degelia_plumbea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/823668"
 }

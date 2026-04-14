@@ -1,7 +1,7 @@
 {
   "slug": "hypotrachyna-revoluta",
   "taxonId": 117969,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Powdered Loop Lichen",
   "scientificName": "Hypotrachyna revoluta",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -107,46 +107,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/11796906"
     }
   ],
-  "nameStory": "The 'Powdered Loop Lichen' gets its name from the powdery soredia (tiny reproductive dust-like particles) that coat its surface, giving it a dusted appearance. The 'loop' part comes from the way its leaf-like lobes curve and twist, sometimes forming circular or loop-like patterns as they grow outward from rocks and bark.",
-  "description": "Powdered Loop Lichen is a leafy (foliose) lichen that forms grayish-green rosettes on tree bark and rocks. Its flat, branching lobes spread outward in overlapping patterns, often curling at the edges to reveal a darker underside. The upper surface has a distinctive powdery coating of soredia that helps distinguish it from similar shield lichens. Individual colonies can grow several inches across over many years.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "Upper surface feels slightly rough and has a distinctive powdery coating of soredia that will dust your fingers if you gently brush it",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms flat, leafy rosettes with branching lobes that often curl upward at the edges, revealing the darker underside",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Grayish-green to pale gray when dry, becoming more vibrant green when wet from rain or morning dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Found growing on tree bark (especially hardwoods) and occasionally on rocks, attached by root-like structures called rhizines",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual colonies typically 2-4 inches across, with lobes about 1/4 to 1/2 inch wide",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Powdered Loop Lichen grows on the bark of deciduous trees, particularly maples, oaks, and birches in New England's mixed forests. It prefers areas with good air circulation and moderate light levels, often found in forest edges, parks, and suburban areas with mature trees. This lichen is somewhat tolerant of air pollution, making it more common than some sensitive species in populated areas.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more vibrant green with spring rains, making it easier to spot against dark bark. The powdery soredia are most noticeable when the lichen is slightly damp but not soaking wet.",
-    "summer": "May appear duller and grayer during dry spells, but summer storms will quickly revive its green coloration. Hot, humid weather can make the powdery coating more prominent.",
-    "fall": "Often becomes more visible as leaves fall and expose previously shaded bark surfaces. Autumn moisture keeps the lichen looking fresh and green.",
-    "winter": "Remains visible year-round, appearing gray-green on snow-covered bark. Winter's alternating freeze-thaw cycles and moisture keep the lichen active even in cold weather."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is found on every continent except Antarctica, making it one of the most widely distributed lichens in the world - you could spot essentially the same species whether you're hiking in New Hampshire or trekking through the Australian outback!",
-  "confusionNotes": "Most easily confused with other powdery shield lichens like Powder-tipped Antler Lichen, but Powdered Loop Lichen has broader, flatter lobes that curl upward more distinctly. Remember: 'loops curl up' - if the edges are noticeably curled upward showing the dark underside, you're likely looking at a Loop Lichen.",
-  "contextualKnowledge": "Despite being called 'Powdered Loop Lichen,' the scientific name 'revoluta' actually means 'rolled back' in Latin, referring to how the lobe edges curl backward. This is a perfect example of how common names sometimes capture different features than the scientific names.",
-  "compareHints": "Powdered Loop Lichen differs from Powder-tipped Antler Lichen by having broader, more rounded lobes rather than narrow, branching ones. Unlike Clingy Square Britches, it has more obvious edge-curling and a consistently powdery surface rather than smooth areas. Showman's Loop Lichen tends to be larger overall with more dramatic lobe development.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "hypotrachyna-catawbiensis",
@@ -167,17 +141,18 @@
       "commonName": "Hypotrachyna afrorevoluta",
       "scientificName": "Hypotrachyna afrorevoluta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7989472/medium.jpg",
-      "distinction": "Compared to its relatives, this species has more dramatically rolled lobe margins than Powdered Loop Lichen and lacks the powdery soredia (reproductive dust) found on Powder-tipped Antler Lichen."
+      "distinction": "undefined."
     },
     {
       "slug": "hypotrachyna-showmanii",
       "commonName": "Showman's Loop Lichen",
       "scientificName": "Hypotrachyna showmanii",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28944300/medium.jpeg",
-      "distinction": "Unlike Powder-tipped Antler Lichen which has white powdery patches along its edges, Showman's Loop Lichen maintains a clean, smooth surface."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hypotrachyna_revoluta",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/117969"
 }

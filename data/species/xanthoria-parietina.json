@@ -1,7 +1,7 @@
 {
   "slug": "xanthoria-parietina",
   "taxonId": 55576,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Common Sunburst Lichen",
   "scientificName": "Xanthoria parietina",
   "family": "Teloschistaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Sunburst Lichens and Allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -47,7 +47,7 @@
       "slug": "species/xanthoria-parietina"
     }
   ],
-  "observationCount": 789,
+  "observationCount": 790,
   "abundanceTier": "very-common",
   "photos": [
     {
@@ -234,6 +234,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Xanthoria_parietina",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/55576"
 }

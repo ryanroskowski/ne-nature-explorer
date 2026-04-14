@@ -3,6 +3,9 @@
   "taxonId": 1275348,
   "group": "fungi",
   "commonName": "Luxury Caps",
+  "alternativeNames": [
+    "Luxuriant Thoughshank"
+  ],
   "scientificName": "Collybiopsis luxurians",
   "family": "Omphalotaceae",
   "familyCommonName": "Omphalotaceae",
@@ -261,6 +264,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1275348"
 }

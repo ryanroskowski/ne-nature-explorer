@@ -3,6 +3,10 @@
   "taxonId": 514081,
   "group": "fungi",
   "commonName": "Purple Fuzz",
+  "alternativeNames": [
+    "Violet Crust",
+    "Violet Crust Fungus"
+  ],
   "scientificName": "Punctularia atropurpurascens",
   "family": "Corticiaceae",
   "familyCommonName": "Corticiaceae",
@@ -187,6 +191,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Punctularia_atropurpurascens",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/514081"
 }

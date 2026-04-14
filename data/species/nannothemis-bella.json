@@ -3,6 +3,10 @@
   "taxonId": 106516,
   "group": "insects",
   "commonName": "Elfin Skimmer",
+  "alternativeNames": [
+    "Bluebell Skimmer",
+    "Bluebell"
+  ],
   "scientificName": "Nannothemis bella",
   "family": "Libellulidae",
   "familyCommonName": "Skimmers",
@@ -205,6 +209,7 @@
   "compareHints": "Since the elfin skimmer is the only species in its genus, compare it to other small skimmers in the Libellulidae family. It's significantly smaller than common skimmers like the four-spotted skimmer or widow skimmer, and lacks the distinctive wing patterns many of its relatives display. The powdery blue males and wasp-mimicking females make it unique among New England's dragonfly community.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nannothemis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/106516",
   "ecologicalRole": {

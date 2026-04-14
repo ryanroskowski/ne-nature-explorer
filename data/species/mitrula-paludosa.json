@@ -3,6 +3,9 @@
   "taxonId": 120551,
   "group": "fungi",
   "commonName": "Swamp beacon",
+  "alternativeNames": [
+    "Bog Beacon"
+  ],
   "scientificName": "Mitrula paludosa",
   "family": "Mitrulaceae",
   "familyCommonName": "Mitrulaceae",
@@ -186,6 +189,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Mitrula_paludosa",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/120551"
 }

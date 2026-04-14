@@ -1,7 +1,7 @@
 {
   "slug": "ropalospora-chlorantha",
   "taxonId": 230314,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Comet-spored lichen",
   "scientificName": "Ropalospora chlorantha",
   "family": "Ropalosporaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "rocktripes, bloodspot lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -229,6 +229,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/230314"
 }

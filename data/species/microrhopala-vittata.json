@@ -3,6 +3,9 @@
   "taxonId": 199931,
   "group": "insects",
   "commonName": "Goldenrod Leafminer",
+  "alternativeNames": [
+    "Goldenrod Leaf Miner Beetle"
+  ],
   "scientificName": "Microrhopala vittata",
   "family": "Chrysomelidae",
   "familyCommonName": "Leaf Beetles",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Microrhopala_vittata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/199931",
   "ecologicalRole": {

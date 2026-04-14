@@ -3,6 +3,9 @@
   "taxonId": 325890,
   "group": "fungi",
   "commonName": "olive-brown cup",
+  "alternativeNames": [
+    "flea's-ear"
+  ],
   "scientificName": "Chlorencoelia versiformis",
   "family": "Cenangiaceae",
   "familyCommonName": "Cenangiaceae",
@@ -219,6 +222,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chlorencoelia_versiformis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/325890"
 }

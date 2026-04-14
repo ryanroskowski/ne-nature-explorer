@@ -3,6 +3,9 @@
   "taxonId": 213079,
   "group": "arachnids",
   "commonName": "Painted Wolf Spider",
+  "alternativeNames": [
+    "Holarctic Wolf Spider"
+  ],
   "scientificName": "Alopecosa pictilis",
   "family": "Lycosidae",
   "familyCommonName": "Wolf Spiders",
@@ -149,6 +152,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Alopecosa_pictilis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/213079"
 }

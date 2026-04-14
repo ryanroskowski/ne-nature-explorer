@@ -1,7 +1,7 @@
 {
   "slug": "punctelia-missouriensis",
   "taxonId": 229445,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Mealy Speckled Shield Lichen",
   "scientificName": "Punctelia missouriensis",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 452490324,
@@ -163,46 +163,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/22944507"
     }
   ],
-  "nameStory": "The 'mealy' in this lichen's name comes from its powdery, flour-like surface texture that feels gritty when you gently rub it between your fingers. The 'speckled shield' part describes both its spotted appearance and its flat, shield-like growth form that spreads across tree bark like a leafy patch.",
-  "description": "Mealy Speckled Shield Lichen is a leafy (foliose) lichen that grows flat against tree bark in overlapping, petal-like lobes. It has a grayish-green color with a distinctly powdery, mealy surface texture that makes it feel rough to the touch. This medium-sized lichen can spread several inches across, forming circular or irregular patches that look like they've been dusted with coarse flour.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "The upper surface feels distinctly mealy or powdery, like coarse flour, and appears dusted with tiny granules that can rub off on your fingers",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms flat, leafy patches with overlapping lobes that spread outward from the center like flower petals pressed against bark",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Grayish-green to pale green when dry, becoming more vibrant green when wet, with the mealy surface giving it a matte, non-shiny appearance",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Almost exclusively grows on tree bark, particularly favoring hardwood trees like oaks and maples",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual patches typically reach 2-4 inches across, with lobes that are usually less than half an inch wide",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "In New England, this lichen is extremely rare, found only occasionally on the bark of hardwood trees in warmer, protected areas. It prefers locations with moderate humidity and some protection from harsh weather, such as forest edges or sheltered woodland areas at lower elevations.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more vibrant green as spring moisture activates growth, with the mealy texture most noticeable during dry spells between rain showers.",
-    "summer": "During humid summer days, the lichen appears greener and more active, while dry periods make the powdery surface texture very pronounced.",
-    "fall": "Remains visible and identifiable, though colors may appear more muted. The mealy texture persists and is often easier to feel in cooler, drier autumn air.",
-    "winter": "Visible year-round on tree bark, appearing grayish and dormant. Snow and ice may temporarily obscure it, but the distinctive texture remains when accessible."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is so rare in New England that it's been documented only once in the entire region, making any sighting a truly exceptional discovery that could contribute valuable data to our understanding of lichen distribution and climate change effects.",
-  "confusionNotes": "Can be confused with other shield lichens, but the distinctly mealy, powdery surface texture that rubs off on your fingers is the key difference - most other shield lichens have smooth or only slightly rough surfaces.",
-  "contextualKnowledge": "This species represents the northern edge of a primarily southeastern distribution, making New England sightings extremely unusual and scientifically significant for tracking how species ranges may be shifting with changing climate patterns.",
-  "compareHints": "Unlike the rough speckled shield lichen which has a more coarsely textured but not mealy surface, or the eastern speckled shield lichen which lacks the distinctive powdery coating, the mealy speckled shield lichen's flour-like surface texture is unique among its relatives. The Moondust Speckled Lichen may sound similar but has different surface characteristics and is found in different regions.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "punctelia-rudecta",
@@ -223,17 +197,18 @@
       "commonName": "Appalachian Speckleback Lichen",
       "scientificName": "Punctelia appalachensis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7989538/medium.jpg",
-      "distinction": "Among its speckled shield lichen relatives in New England, the Appalachian species is the only one with that distinctive black underside with pale brown edges."
+      "distinction": "undefined."
     },
     {
       "slug": "punctelia-bolliana",
       "commonName": "Eastern speckled shield lichen",
       "scientificName": "Punctelia bolliana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3001114/medium.JPG",
-      "distinction": "Eastern speckled shield lichen stands apart from its genus relatives by its notably clean appearance—while rough speckled shield lichen has bumpy isidia and mealy speckled shield lichen has powdery soredia, the eastern species keeps a smooth, speckled surface."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Punctelia_missouriensis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/229445"
 }

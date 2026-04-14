@@ -1,7 +1,7 @@
 {
   "slug": "heterodermia-casarettiana",
   "taxonId": 221309,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Heterodermia casarettiana",
   "scientificName": "Heterodermia casarettiana",
   "family": "Physciaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "button lichens, rosette lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 5470617,
@@ -83,41 +83,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/8435659"
     }
   ],
-  "nameStory": "This fringe lichen gets its name from the delicate, hair-like structures that often grow along the edges of its lobes, creating a fringed appearance. The scientific name honors Italian botanist Giovanni Casaretto, who contributed to lichen studies in the 19th century.",
-  "description": "Casaretto's Fringe Lichen is a leafy lichen that grows flat against tree bark, forming rosette-like patches. It belongs to the fringe lichen group, characterized by their leaf-like lobes that spread outward from a central point. Like all lichens, it's actually two organisms living together - a fungus and an algae - creating what looks like a single crusty or leafy growth on tree trunks.",
-  "idTips": [
-    {
-      "label": "Growth form",
-      "description": "Forms leafy, flat patches pressed against bark with lobes radiating outward like petals",
-      "isPrimary": true
-    },
-    {
-      "label": "Texture",
-      "description": "Feels papery and thin when dry, becoming slightly more pliable when moist",
-      "isPrimary": false
-    },
-    {
-      "label": "Attachment",
-      "description": "Firmly attached to bark at the center but lobe edges may lift slightly when dry",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface appearance",
-      "description": "Upper surface typically smooth to slightly wrinkled, without the powdery coating seen in some relatives",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Found growing on the bark of deciduous trees in New England forests, particularly favoring trees with relatively smooth bark. Prefers somewhat sheltered locations with moderate humidity rather than exposed, windy sites.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Most visible as trees leaf out and bark becomes more accessible for observation. Lichen may appear slightly more vibrant with increased moisture.",
-    "summer": "Can appear dry and somewhat shriveled during hot, dry periods but remains identifiable on tree trunks.",
-    "fall": "Often easier to spot as leaves fall and tree bark becomes more visible. Cool, moist conditions make it more prominent.",
-    "winter": "Remains present year-round on bark. Snow cover may make lower specimens harder to find, but upper trunk specimens stay visible."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is so rare in New England that it has only been documented once in the entire region - making any sighting a truly exceptional discovery that could contribute valuable data to our understanding of lichen distribution!",
-  "confusionNotes": "Most likely to be confused with other fringe lichens in the same genus, particularly Powdered Fringe Lichen, but that species has a distinctive powdery coating on its surface that feels gritty to the touch, while Casaretto's Fringe Lichen has a smoother surface.",
-  "contextualKnowledge": "The scientific name has changed over time - this species was previously known as Polyblastidium casarettianum, so you may find it listed under that name in older field guides or scientific papers.",
-  "compareHints": "Unlike Powdered Fringe Lichen which has a chalky, powdery surface coating, Casaretto's Fringe Lichen has a cleaner, smoother upper surface. It also tends to be less common than the Obscure Shield Lichen, which forms tighter, more compact patches with smaller lobes.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "heterodermia-speciosa",
@@ -131,17 +110,18 @@
       "commonName": "Obscure Shield Lichen",
       "scientificName": "Heterodermia obscurata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12460809/medium.jpeg",
-      "distinction": "Unlike its relative the Powdered Fringe Lichen which has obvious white powdery patches, Obscure Shield Lichen lacks any powdery coating and has a much more uniform, smooth crusty surface."
+      "distinction": "undefined."
     },
     {
       "slug": "heterodermia-langdoniana",
       "commonName": "Heterodermia langdoniana",
       "scientificName": "Heterodermia langdoniana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/187145653/medium.jpg",
-      "distinction": "Unlike the more common Powdered Fringe Lichen which tends to be larger and more densely powdery, Langdon's Fringe Lichen is smaller with less prominent powdery coating."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Polyblastidium_casarettianum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/221309"
 }

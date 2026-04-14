@@ -3,6 +3,10 @@
   "taxonId": 73149,
   "group": "birds",
   "commonName": "Northern Waterthrush",
+  "alternativeNames": [
+    "Common Water Thrush",
+    "Short-billed Waterthrush"
+  ],
   "scientificName": "Parkesia noveboracensis",
   "family": "Parulidae",
   "familyCommonName": "New World Warblers",
@@ -277,6 +281,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_waterthrush",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/73149",
   "xenoCantoUrl": "https://xeno-canto.org/species/Parkesia-noveboracensis"

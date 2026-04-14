@@ -3,6 +3,9 @@
   "taxonId": 362042,
   "group": "fungi",
   "commonName": "Yellow Club",
+  "alternativeNames": [
+    "Golden spindles"
+  ],
   "scientificName": "Clavulinopsis helvola",
   "family": "Clavariaceae",
   "familyCommonName": "antler and spindle fungi",
@@ -213,6 +216,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Clavulinopsis_helvola",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/362042"
 }

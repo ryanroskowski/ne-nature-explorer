@@ -3,6 +3,11 @@
   "taxonId": 58523,
   "group": "insects",
   "commonName": "Black Swallowtail",
+  "alternativeNames": [
+    "American Black Swallowtail",
+    "Parsnip Swallowtail",
+    "Parsleyworm"
+  ],
   "scientificName": "Papilio polyxenes",
   "family": "Papilionidae",
   "familyCommonName": "Swallowtails and Parnassians",
@@ -254,6 +259,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Papilio_polyxenes",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/58523",
   "ecologicalRole": {

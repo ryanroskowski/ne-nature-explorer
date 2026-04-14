@@ -3,6 +3,9 @@
   "taxonId": 154340,
   "group": "insects",
   "commonName": "Tropical House Cricket",
+  "alternativeNames": [
+    "Indian House Cricket"
+  ],
   "scientificName": "Gryllodes sigillatus",
   "family": "Gryllidae",
   "familyCommonName": "True Crickets",
@@ -236,6 +239,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Tropical_house_cricket",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/154340",
   "xenoCantoUrl": "https://xeno-canto.org/species/Gryllodes-sigillatus",

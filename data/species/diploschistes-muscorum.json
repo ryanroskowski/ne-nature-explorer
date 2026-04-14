@@ -1,7 +1,7 @@
 {
   "slug": "diploschistes-muscorum",
   "taxonId": 124441,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Cowpie Lichen",
   "scientificName": "Diploschistes muscorum",
   "family": "Graphidaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "script lichens, whitewash lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 2,
-  "abundanceTier": "moderate",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 940650,
@@ -131,46 +131,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/12444106"
     }
   ],
-  "nameStory": "The name \"Cowpie Lichen\" comes from this crusty lichen's unfortunate resemblance to dried cattle dung when it forms thick, brownish patches on rocks and soil. The scientific name \"muscorum\" means \"of mosses,\" referring to how this lichen often grows over or alongside mosses. It's not the most glamorous common name in nature, but it's certainly memorable!",
-  "description": "Cowpie Lichen is a crusty, flattened lichen that forms thick, brownish to grayish patches on rocks, soil, and sometimes over mosses. Like all lichens, it's actually two organisms living together - a fungus and an algae - working as a team to survive in tough conditions. This hardy partnership creates a tough, almost leathery surface that can grow several inches across. The lichen gets its nutrients from the air and rain, not from whatever it's growing on.",
-  "idTips": [
-    {
-      "label": "Crusty Surface",
-      "description": "The surface feels thick and leathery when dry, like old leather or dried mud, with a bumpy, warty texture that's tough to scrape off",
-      "isPrimary": true
-    },
-    {
-      "label": "Color Pattern",
-      "description": "Usually brownish-gray to dark gray, sometimes with lighter grayish patches, lacking the bright colors of many other lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms thick, flat crusts that seem glued to the surface, with raised bumps and crater-like depressions scattered across the surface",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate Preference",
-      "description": "Often found growing over mosses or on mineral-rich soil and rocks, sometimes completely covering the moss underneath",
-      "isPrimary": false
-    },
-    {
-      "label": "Edge Appearance",
-      "description": "The edges are typically thick and well-defined rather than thin or wispy, creating clear boundaries between the lichen and surrounding area",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Cowpie Lichen on exposed rocks, mineral-rich soil, and especially growing over moss beds in open areas throughout New England. It prefers spots with good air circulation and some exposure to sun, often found on rocky outcrops, stone walls, and disturbed ground. This lichen seems to particularly favor areas where mosses grow, sometimes completely overtaking moss colonies.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Most visible after snow melt when the thick, crusty surface becomes apparent on rocks and soil. Spring moisture helps rehydrate the lichen, making it slightly more pliable to touch.",
-    "summer": "During dry periods, the lichen becomes very hard and brittle, almost concrete-like. Look for the characteristic crater-like bumps that become more pronounced when dried out.",
-    "fall": "Fall rains soften the surface slightly, and the brownish colors may become more apparent. This is often the best time to spot the clear boundaries between lichen and surrounding mosses.",
-    "winter": "Remains visible under light snow cover due to its thick, raised profile. The crusty surface stays relatively unchanged, making it one of the more reliable lichens to find in winter."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is essentially a slow-motion land grab artist - it actually grows over and eventually smothers the mosses it depends on for habitat, completely taking over moss colonies in a process that can take decades to complete!",
-  "confusionNotes": "Most likely confused with dried mud, old concrete, or even actual dried animal dung due to its brownish, crusty appearance. The key difference is that true Cowpie Lichen will be firmly attached to its surface and won't flake off easily like dried mud would - try the \"thumbnail test\" and you'll find it's surprisingly tough to scrape.",
-  "contextualKnowledge": "Despite its unappetizing name, this lichen is part of an important ecological partnership and helps break down rocks into soil over very long periods. The name reflects our human tendency to compare unfamiliar natural things to familiar (if unpleasant) everyday objects.",
-  "compareHints": "Cowpie Lichen differs from its relative Crater Lichen by its preference for growing over mosses and its generally browner coloration. While both have bumpy, crater-like surfaces, Crater Lichen typically grows directly on bare rock and tends to be more grayish-white. Cowpie Lichen also forms thicker, more continuous crusts compared to the often more scattered patches of Crater Lichen.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "diploschistes-scruposus",
@@ -181,6 +155,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Diploschistes_muscorum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/124441"
 }

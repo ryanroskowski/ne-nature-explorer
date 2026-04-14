@@ -3,6 +3,10 @@
   "taxonId": 134149,
   "group": "insects",
   "commonName": "Dark-veined Longhorn Bee",
+  "alternativeNames": [
+    "Three-knotted Long-horned Bee",
+    "Dark-veined Long-horned Bee"
+  ],
   "scientificName": "Melissodes trinodis",
   "family": "Apidae",
   "familyCommonName": "Honey Bees, Bumble Bees, and Allies",
@@ -285,6 +289,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Melissodes_trinodis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/134149",
   "ecologicalRole": {

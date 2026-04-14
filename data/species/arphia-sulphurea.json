@@ -3,6 +3,9 @@
   "taxonId": 129134,
   "group": "insects",
   "commonName": "Sulphur-winged Grasshopper",
+  "alternativeNames": [
+    "Sulfurwinged Grasshopper"
+  ],
   "scientificName": "Arphia sulphurea",
   "family": "Acrididae",
   "familyCommonName": "Short-horned Grasshoppers",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Arphia_sulphurea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/129134",
   "ecologicalRole": {

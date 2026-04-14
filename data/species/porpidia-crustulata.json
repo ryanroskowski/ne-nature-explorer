@@ -1,7 +1,7 @@
 {
   "slug": "porpidia-crustulata",
   "taxonId": 182467,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "concentric boulder lichen",
   "scientificName": "Porpidia crustulata",
   "family": "Lecideaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Lecideales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -239,10 +239,11 @@
       "commonName": "Orange Boulder Lichen",
       "scientificName": "Porpidia flavicunda",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9288917/medium.jpg",
-      "distinction": "Orange Boulder Lichen stands out from its Porpidia relatives by its brilliant orange color, while Smokey-eyed Boulder Lichen is more gray-blue and Concentric Boulder Lichen forms circular patterns."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Porpidia_crustulata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/182467"
 }

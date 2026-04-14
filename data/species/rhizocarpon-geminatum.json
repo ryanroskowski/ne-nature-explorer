@@ -1,7 +1,7 @@
 {
   "slug": "rhizocarpon-geminatum",
   "taxonId": 229953,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Twin Map Lichen",
   "scientificName": "Rhizocarpon geminatum",
   "family": "Rhizocarpaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Rhizocarpales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -91,46 +91,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/22357975"
     }
   ],
-  "nameStory": "The Twin Map Lichen gets its name from the paired, double spores it produces, unlike many of its map lichen relatives that have single spores. Like other map lichens, its crusty patches on rock create patterns that look remarkably like the borders and boundaries you'd see on a geographic map, complete with contrasting colors that resemble different countries or states.",
-  "description": "Twin Map Lichen is a crusty, rock-hugging lichen that forms thin, spreading patches on stone surfaces. It appears as a yellowish-green or gray-green crust with darker lines running through it, creating a map-like pattern across the rock face. Individual patches can spread several inches across, but they're paper-thin and feel rough to the touch. This is a composite organism made of fungus and algae living together in partnership.",
-  "idTips": [
-    {
-      "label": "Double spores",
-      "description": "Under magnification, the reproductive structures contain paired spores rather than single ones - this is the key identifying feature that separates it from other map lichens",
-      "isPrimary": true
-    },
-    {
-      "label": "Crusty texture",
-      "description": "Feels like fine sandpaper when you run your finger across it - rough and gritty, firmly attached to the rock surface",
-      "isPrimary": false
-    },
-    {
-      "label": "Map-like pattern",
-      "description": "Dark lines create boundaries through the lighter-colored crust, resembling borders on a map when viewed from above",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock substrate",
-      "description": "Always found growing directly on hard rock surfaces, never on soil, wood, or bark - seems to meld into the stone itself",
-      "isPrimary": false
-    },
-    {
-      "label": "Yellowish-green color",
-      "description": "Overall coloration ranges from pale yellow-green to gray-green, often with darker edges where it meets bare rock",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Twin Map Lichen grows on exposed rock faces and boulders in mountainous areas of New England, particularly at higher elevations where the air is clean and unpolluted. Look for it on granite, quartzite, and other hard, acidic rock surfaces that receive good light but aren't constantly wet. It thrives in areas with cool, moist conditions but good air circulation.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more visible as snow melts away from rock faces, revealing the lichen patches that remained active under the snow. Look for fresh growth around the edges of existing colonies.",
-    "summer": "Most active growing season when the lichen appears most vibrant in color. Reproductive structures may be visible as small dark dots scattered across the surface.",
-    "fall": "Colors may become more muted but the lichen remains easily identifiable. This is often the best time to spot it as falling leaves reveal previously hidden rock surfaces.",
-    "winter": "Remains visible and identifiable on snow-free rock faces. The lichen can actually photosynthesize on warm winter days when snow melts temporarily off the rocks."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Twin Map Lichen can live for hundreds of years and grows so slowly that scientists use it as a natural clock to date when rockslides, glacial moraines, and stone structures were formed - a technique called lichenometry!",
-  "confusionNotes": "Most easily confused with Yellow Map Lichen, which is much more common and looks nearly identical to the naked eye. The only reliable way to tell them apart is to examine the spores under magnification - Twin Map Lichen has paired spores while Yellow Map Lichen has single spores. Remember: 'Twin' means two spores together.",
-  "contextualKnowledge": "The extremely low observation count (only 2 recorded) in New England suggests this species is either very rare in our region, often misidentified as the common Yellow Map Lichen, or requires specialized expertise to properly distinguish from its relatives. Many map lichens are difficult to separate without microscopic examination.",
-  "compareHints": "Twin Map Lichen is distinguished from Yellow Map Lichen primarily by its paired spores versus single spores, though they look nearly identical otherwise. Compared to other map lichens in the region, it shares the same crusty, map-like growth pattern but the spore arrangement is the definitive characteristic. The Crescent Map Lichen tends to have more distinctly curved or crescent-shaped reproductive structures.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "rhizocarpon-geographicum",
@@ -151,31 +125,32 @@
       "commonName": "Single-spored Map Lichen",
       "scientificName": "Rhizocarpon disporum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/56311514/medium.jpeg",
-      "distinction": "Unlike the more common Yellow Map Lichen which tends to be bright yellow-green, Single-spored Map Lichen often shows more varied coloration."
+      "distinction": "undefined."
     },
     {
       "slug": "rhizocarpon-eupetraeum",
       "commonName": "Rhizocarpon eupetraeum",
       "scientificName": "Rhizocarpon eupetraeum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8082076/medium.jpg",
-      "distinction": "Unlike the bright yellow, obviously cracked yellow map lichen that's common on New England rocks, R."
+      "distinction": "undefined."
     },
     {
       "slug": "rhizocarpon-ferax",
       "commonName": "Rhizocarpon ferax",
       "scientificName": "Rhizocarpon ferax",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/112172215/medium.jpeg",
-      "distinction": "Unlike the much more common yellow map lichen which displays bright yellow-green coloration, Rhizocarpon ferax appears more subdued in grayish tones."
+      "distinction": "undefined."
     },
     {
       "slug": "rhizocarpon-subgeminatum",
       "commonName": "Rhizocarpon subgeminatum",
       "scientificName": "Rhizocarpon subgeminatum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/350326575/medium.jpg",
-      "distinction": "**Comparison details uncertain due to rarity** - Differs from Yellow Map Lichen in having reproductive structures that appear nearly paired (suggested by \"subgeminatum\"), and likely differs from Twin Map Lichen in subtle microscopic features."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/229953"
 }

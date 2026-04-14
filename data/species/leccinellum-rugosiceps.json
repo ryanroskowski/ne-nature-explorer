@@ -3,6 +3,9 @@
   "taxonId": 1199034,
   "group": "fungi",
   "commonName": "wrinkled bolete",
+  "alternativeNames": [
+    "wrinkled leccinum"
+  ],
   "scientificName": "Leccinellum rugosiceps",
   "family": "Boletaceae",
   "familyCommonName": "boletes",
@@ -233,6 +236,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Leccinellum_rugosiceps",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1199034"
 }

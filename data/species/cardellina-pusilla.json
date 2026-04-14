@@ -3,6 +3,10 @@
   "taxonId": 145276,
   "group": "birds",
   "commonName": "Wilson's Warbler",
+  "alternativeNames": [
+    "Green Black-capt Flycatcher",
+    "Pileolated Warbler"
+  ],
   "scientificName": "Cardellina pusilla",
   "family": "Parulidae",
   "familyCommonName": "New World Warblers",
@@ -296,6 +300,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Wilson's_warbler",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/145276",
   "xenoCantoUrl": "https://xeno-canto.org/species/Cardellina-pusilla"

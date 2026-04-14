@@ -3,6 +3,13 @@
   "taxonId": 47962,
   "group": "insects",
   "commonName": "Eastern Elderberry Borer",
+  "alternativeNames": [
+    "Elderberry Longhorn Borer",
+    "Elderberry Borer Beetle",
+    "Elderberry Borer",
+    "Eastern Elder Borer",
+    "Cloacked Knotty-horn"
+  ],
   "scientificName": "Desmocerus palliatus",
   "family": "Cerambycidae",
   "familyCommonName": "Longhorn Beetles",
@@ -221,6 +228,7 @@
   "compareHints": "Since this is the only Desmocerus species commonly found in New England, compare it with other longhorn beetles by habitat - most longhorn beetles bore into trees like oak, pine, or maple, while this species is specialized for elderberry shrubs. Other longhorn beetles are often larger and found on different host plants, making the elderberry association your best identification clue.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Desmocerus_palliatus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/47962",
   "ecologicalRole": {

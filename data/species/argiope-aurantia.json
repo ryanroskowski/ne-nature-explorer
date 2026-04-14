@@ -3,6 +3,13 @@
   "taxonId": 67707,
   "group": "arachnids",
   "commonName": "Yellow Garden Spider",
+  "alternativeNames": [
+    "Black-and-yellow Argiope",
+    "Black-and-yellow Garden Spider",
+    "Writing Spider",
+    "Yellow Garden Orbweaver",
+    "Golden Argiope"
+  ],
   "scientificName": "Argiope aurantia",
   "family": "Araneidae",
   "familyCommonName": "Orbweavers",
@@ -197,6 +204,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Argiope_aurantia",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/67707"
 }

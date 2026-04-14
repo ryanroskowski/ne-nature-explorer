@@ -3,6 +3,9 @@
   "taxonId": 384484,
   "group": "fungi",
   "commonName": "Birch Witch's-broom",
+  "alternativeNames": [
+    "Birch Besom"
+  ],
   "scientificName": "Taphrina betulina",
   "family": "Taphrinaceae",
   "familyCommonName": "Taphrinaceae",
@@ -222,6 +225,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Taphrina_betulina",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/384484"
 }

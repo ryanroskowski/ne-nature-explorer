@@ -3,6 +3,9 @@
   "taxonId": 10479,
   "group": "birds",
   "commonName": "Lark Sparrow",
+  "alternativeNames": [
+    "Lark Finch"
+  ],
   "scientificName": "Chondestes grammacus",
   "family": "Passerellidae",
   "familyCommonName": "New World Sparrows",
@@ -301,6 +304,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lark_sparrow",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/10479",
   "xenoCantoUrl": "https://xeno-canto.org/species/Chondestes-grammacus"

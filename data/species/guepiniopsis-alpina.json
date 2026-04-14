@@ -3,6 +3,10 @@
   "taxonId": 118032,
   "group": "fungi",
   "commonName": "alpine jelly cone",
+  "alternativeNames": [
+    "jelly cup",
+    "poor man's gumdrop"
+  ],
   "scientificName": "Guepiniopsis alpina",
   "family": "Dacrymycetaceae",
   "familyCommonName": "Dacrymycetaceae",
@@ -147,6 +151,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Guepiniopsis_alpina",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/118032"
 }

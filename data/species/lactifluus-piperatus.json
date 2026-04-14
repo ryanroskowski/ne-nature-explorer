@@ -3,6 +3,9 @@
   "taxonId": 351321,
   "group": "fungi",
   "commonName": "Peppery Milkcap",
+  "alternativeNames": [
+    "Peppery White Milk Cap"
+  ],
   "scientificName": "Lactifluus piperatus",
   "family": "Russulaceae",
   "familyCommonName": "Milkcaps, Brittlegills and Allies",
@@ -261,6 +264,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lactifluus_piperatus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/351321"
 }

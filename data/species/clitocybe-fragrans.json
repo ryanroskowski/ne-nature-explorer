@@ -3,6 +3,9 @@
   "taxonId": 118370,
   "group": "fungi",
   "commonName": "Fragrant Funnel",
+  "alternativeNames": [
+    "Fragrant Clitocybe"
+  ],
   "scientificName": "Clitocybe fragrans",
   "family": "Clitocybaceae",
   "familyCommonName": "Clitocybaceae",
@@ -215,6 +218,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Clitocybe_fragrans",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/118370"
 }

@@ -3,6 +3,9 @@
   "taxonId": 4524,
   "group": "birds",
   "commonName": "Dovekie",
+  "alternativeNames": [
+    "Little Auk"
+  ],
   "scientificName": "Alle alle",
   "family": "Alcidae",
   "familyCommonName": "Auks, Murres, and Puffins",
@@ -259,6 +262,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Little_auk",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/4524",
   "xenoCantoUrl": "https://xeno-canto.org/species/Alle-alle"

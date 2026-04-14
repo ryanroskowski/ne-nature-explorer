@@ -1,8 +1,11 @@
 {
   "slug": "melanelia-culbersonii",
   "taxonId": 224563,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Culberson's Black-parmelia",
+  "alternativeNames": [
+    "Appalachian camouflage"
+  ],
   "scientificName": "Melanelia culbersonii",
   "family": "Parmeliaceae",
   "familyCommonName": "shield lichens and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +51,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 8248064,
@@ -83,46 +86,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/22456303"
     }
   ],
-  "nameStory": "This lichen honors Dr. William Louis Culberson, a renowned American lichenologist who revolutionized lichen identification by pioneering the use of chemical spot tests in the field. The \"black-parmelia\" part refers to its dark coloration and its classification in what was once considered part of the large Parmelia genus. Like a scientist's dedication to discovery, this lichen quietly persists in harsh mountain environments.",
-  "description": "Culberson's Black-parmelia is a leafy, shield-like lichen that forms dark gray to blackish patches on rocks in New England's mountains. It grows as overlapping lobes that lie fairly flat against the rock surface, creating rosette-like patterns up to 4 inches across. When dry, it appears almost charcoal-black, but when wet from rain or morning dew, it transforms to reveal more subtle gray tones. This is one of our rarer mountain lichens, found only in the most exposed, windswept locations.",
-  "idTips": [
-    {
-      "label": "Color",
-      "description": "Deep charcoal-black when dry, becoming dark gray with subtle brownish hints when wet - the color change is quite dramatic and happens quickly with moisture",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms leafy, overlapping lobes that feel leathery and somewhat brittle when dry, becoming more pliable when moist",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Upper surface appears smooth from a distance but reveals a fine, almost powdery texture when examined closely, without the bumpy outgrowths seen on many similar species",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Exclusively grows on exposed granite and other acidic rocks, never on bark or soil, typically in areas that receive the full force of mountain weather",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual patches typically 2-4 inches across, with lobes about 1/8 to 1/4 inch wide that radiate outward from the center",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for this rare lichen on exposed granite outcrops and rocky summits in New England's higher mountains, particularly in the White Mountains of New Hampshire and similar elevations in Vermont and western Massachusetts. It thrives in areas above treeline or on prominent rock faces where it receives intense sunlight, driving winds, and dramatic temperature fluctuations. These harsh, alpine-like conditions are essential for its survival.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Color changes are most dramatic during spring's frequent rain showers - watch it transform from black to gray as storms pass. New growth, though minimal, typically begins as temperatures warm.",
-    "summer": "Appears blackest during dry summer days, but morning dew often reveals its gray tones. This is the best time to observe its full rosette pattern before winter weather takes its toll.",
-    "fall": "Frequent moisture from fall rains keeps it in its gray phase more often. The lichen prepares for winter's harsh conditions by becoming increasingly brittle.",
-    "winter": "Survives extreme cold and ice storms that would kill most other organisms. Snow cover may hide it for months, but it emerges unchanged when exposed."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen can survive being frozen solid at temperatures that would instantly kill most plants, then resume photosynthesis within minutes of thawing - essentially coming back to life dozens of times each winter in New England's harsh mountain climate.",
-  "confusionNotes": "Most easily confused with its relative Stygian Black-parmelia, but Culberson's tends to be slightly smaller with more tightly packed lobes and lacks the subtle ridged texture often seen on Stygian. Memory trick: Culberson's feels smoother when you run your finger gently across it.",
-  "contextualKnowledge": "With only one recorded observation in New England, this may be our region's rarest lichen - finding one would be like discovering a botanical treasure. Many similar-looking dark lichens exist, so positive identification often requires chemical testing or expert confirmation.",
-  "compareHints": "Compared to Stygian Black-parmelia, Culberson's has slightly smaller, more tightly arranged lobes and a smoother surface texture without ridges. Unlike Rimmed Camouflage Lichen, it lacks any obvious pale margins around the lobe edges and tends to be uniformly dark across its surface. All three species prefer similar rocky mountain habitats, making careful attention to these subtle differences crucial for proper identification.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "melanelia-stygia",
@@ -140,6 +117,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/224563"
 }

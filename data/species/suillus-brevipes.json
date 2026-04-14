@@ -3,6 +3,9 @@
   "taxonId": 63496,
   "group": "fungi",
   "commonName": "Short-stalked Suillus",
+  "alternativeNames": [
+    "Short-stemmed Slippery Jack"
+  ],
   "scientificName": "Suillus brevipes",
   "family": "Suillaceae",
   "familyCommonName": "Suillaceae",
@@ -352,6 +355,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Suillus_brevipes",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/63496"
 }

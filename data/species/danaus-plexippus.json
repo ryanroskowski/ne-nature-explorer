@@ -3,6 +3,13 @@
   "taxonId": 48662,
   "group": "insects",
   "commonName": "Monarch",
+  "alternativeNames": [
+    "Monarch Butterfly",
+    "Wanderer",
+    "Black Veined Brown",
+    "Common Tiger",
+    "Soldier Martinique"
+  ],
   "scientificName": "Danaus plexippus",
   "family": "Nymphalidae",
   "familyCommonName": "Brush-footed Butterflies",
@@ -197,6 +204,7 @@
   "compareHints": "Monarchs are the only species in their genus found in New England, making them fairly unique. Among other orange butterflies in the brush-footed family, monarchs are much larger and more vividly orange than fritillaries, and unlike other orange species, they have that distinctive solid orange color without silver spots or complex patterns.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Monarch_butterfly",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/48662",
   "ecologicalRole": {

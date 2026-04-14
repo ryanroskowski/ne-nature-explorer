@@ -3,6 +3,9 @@
   "taxonId": 126514,
   "group": "arachnids",
   "commonName": "Ornamental Orbweaver",
+  "alternativeNames": [
+    "Bordered Orbweaver"
+  ],
   "scientificName": "Larinioides patagiatus",
   "family": "Araneidae",
   "familyCommonName": "Orbweavers",
@@ -236,6 +239,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Larinioides_patagiatus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/126514"
 }

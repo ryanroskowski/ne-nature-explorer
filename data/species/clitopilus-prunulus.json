@@ -3,6 +3,9 @@
   "taxonId": 64708,
   "group": "fungi",
   "commonName": "Sweetbread Mushroom",
+  "alternativeNames": [
+    "The Miller"
+  ],
   "scientificName": "Clitopilus prunulus",
   "family": "Entolomataceae",
   "familyCommonName": "Entolomataceae",
@@ -226,6 +229,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Clitopilus_prunulus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/64708"
 }

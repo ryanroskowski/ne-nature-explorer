@@ -3,6 +3,10 @@
   "taxonId": 109113,
   "group": "fish",
   "commonName": "Trout-perch",
+  "alternativeNames": [
+    "Grounder",
+    "Sand Minnow"
+  ],
   "scientificName": "Percopsis omiscomaycus",
   "family": "Percopsidae",
   "familyCommonName": "Trout-perches",
@@ -202,6 +206,7 @@
   "compareHints": "The trout-perch is the only member of its genus in our region, making it truly unique. Its closest relatives are found in western North America, but in New England waters, nothing else combines the adipose fin of trout with the spiny dorsal rays of perch. This distinctive fin combination, along with its translucent appearance and secretive deep-water habits, makes it unmistakable once you know what to look for.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Percopsis_omiscomaycus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/109113"
 }

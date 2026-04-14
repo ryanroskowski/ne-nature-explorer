@@ -1,7 +1,7 @@
 {
   "slug": "usnea-mutabilis",
   "taxonId": 233323,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Bloody Beard",
   "scientificName": "Usnea mutabilis",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 5782669,
@@ -99,51 +99,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/23332303"
     }
   ],
-  "nameStory": "The \"bloody\" in Bloody Beard comes from a hidden surprise — while this lichen looks pale green on the outside, if you carefully break open its thick central stem (called the axis), you'll find it's dull red inside! Combined with its beard-like dangly appearance, this gives us a rather dramatic common name for what looks like a mild-mannered lichen from the outside.",
-  "description": "Bloody Beard is a shrubby, branching lichen that hangs and grows from tree bark like a miniature pale green beard. It typically grows 3-7 centimeters long with uneven, irregular branching that creates a somewhat scraggly appearance. Unlike other beard lichens, it has a distinctly darker green color and a surface covered with small bumpy structures called isidia. This fruticose (shrub-like) lichen anchors itself to trees with small holdfast structures.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Shrubby and branching like a tiny beard hanging from tree bark, with irregular branching patterns that feel somewhat stiff and wiry to the touch",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Distinctly darker green than other beard lichens, with a grayish-yellowish pale green surface that becomes more vibrant when wet",
-      "isPrimary": false
-    },
-    {
-      "label": "Hidden Red Interior",
-      "description": "The thick central stem (axis) reveals a dull red color when carefully broken open — this is the key diagnostic feature that gives it the 'bloody' name",
-      "isPrimary": true
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Surface feels slightly rough and is covered with small bumpy growths called isidia, either scattered individually or clustered together",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Grows 3-7 centimeters long, making it a medium-sized member of the beard lichen family",
-      "isPrimary": false
-    },
-    {
-      "label": "Reproductive Structures",
-      "description": "Lacks the cup-shaped reproductive structures (apothecia) found on some lichens, reproducing instead through the bumpy isidia on its surface",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Bloody Beard grows on tree bark throughout New England's forests, where it anchors itself with small holdfasts to various tree species. It prefers the bark of deciduous and coniferous trees in mixed woodlands, from lowland forests to moderate elevations. You're most likely to spot it in mature forests where air quality is good, as beard lichens are sensitive to pollution.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Visible year-round, appearing darker green and more vibrant when moistened by spring rains. Growth is extremely slow, so size changes won't be noticeable season to season.",
-    "summer": "May appear more pale and grayish-yellow during dry summer periods, but the distinctive darker green color compared to other beard lichens remains apparent.",
-    "fall": "Fall moisture brings out the richer green coloration again, and the lichen may look fuller as it absorbs water from humid autumn air.",
-    "winter": "Remains visible on trees throughout winter, often appearing more subdued in color but still identifiable by its darker green hue and branching pattern when compared to other beard lichens."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Despite being called 'Bloody Beard,' this lichen is extremely rare in New England — there's only been one confirmed observation recorded in the entire region, making it one of the rarest lichens you could possibly encounter!",
-  "confusionNotes": "Bloody Beard can be confused with other beard lichens like Bushy Beard Lichen, but remember 'darker and redder' — it's consistently darker green on the outside and reveals red inside when the stem is broken. Most other beard lichens are paler green and have white interiors.",
-  "contextualKnowledge": "With only one recorded observation in all of New England, finding Bloody Beard would be an exceptional discovery. If you think you've found it, the red interior is crucial to confirm — but break only a tiny piece to check, as damaging rare lichens can harm slow-growing populations that take decades to recover.",
-  "compareHints": "Among its beard lichen relatives, Bloody Beard stands out for being consistently darker green than species like Bushy Beard Lichen or Bristly Beard Lichen. While Red Beard Lichen might sound similar, Bloody Beard's red color is hidden inside the stem rather than visible on the surface. The combination of darker green exterior color and red interior makes it unique among New England's beard lichens.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "usnea-strigosa",
@@ -199,52 +168,53 @@
       "commonName": "Red Beard Lichen",
       "scientificName": "Usnea rubicunda",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/818914/medium.jpg",
-      "distinction": "Red Beard Lichen is distinguished from its Usnea relatives primarily by its orange to red coloration - most other beard lichens like Bushy Beard Lichen or Bristly Beard Lichen display typical gray-green or pale colors."
+      "distinction": "undefined."
     },
     {
       "slug": "usnea-merrillii",
       "commonName": "Usnea merrillii",
       "scientificName": "Usnea merrillii",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8999327/medium.jpg",
-      "distinction": "Merrill's Beard Lichen differs from its Usnea relatives by having notably thicker, more robust main branches compared to species like Bushy Beard Lichen or Methuselah's Beard."
+      "distinction": "undefined."
     },
     {
       "slug": "usnea-subgracilis",
       "commonName": "Beard Lichen",
       "scientificName": "Usnea subgracilis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8999648/medium.jpg",
-      "distinction": "Beard Lichen differs from its relatives by having relatively smooth, unbranched strands - Bushy Beard Lichen has many more side branches, while Bristly Beard Lichen feels rougher and more textured."
+      "distinction": "undefined."
     },
     {
       "slug": "usnea-barbata",
       "commonName": "Usnea barbata",
       "scientificName": "Usnea barbata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173211361/medium.jpeg",
-      "distinction": "Usnea barbata tends to have relatively thick main strands compared to some other beard lichens like the more delicate Methuselah's beard lichen."
+      "distinction": "undefined."
     },
     {
       "slug": "usnea-subrubicunda",
       "commonName": "Usnea subrubicunda",
       "scientificName": "Usnea subrubicunda",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7989668/medium.jpg",
-      "distinction": "Usnea subrubicunda differs from its close relative Red Beard Lichen (U."
+      "distinction": "undefined."
     },
     {
       "slug": "usnea-ceratina",
       "commonName": "Warty Beard Lichen",
       "scientificName": "Usnea ceratina",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340432/medium.jpg",
-      "distinction": "Unlike the smooth-branched Bushy Beard Lichen or the bristly Bristly Beard Lichen, Warty Beard has those distinctive rounded bumps."
+      "distinction": "undefined."
     },
     {
       "slug": "usnea-cavernosa",
       "commonName": "Pitted Beard Lichen",
       "scientificName": "Usnea cavernosa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31381681/medium.jpg",
-      "distinction": "Unlike the more common Bushy Beard Lichen which has a fuzzy, cotton-like texture, or Bristly Beard Lichen with its spiky projections, Pitted Beard is distinguished by its smooth strands interrupted by those characteristic deep cavities."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Usnea_mutabilis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/233323"
 }

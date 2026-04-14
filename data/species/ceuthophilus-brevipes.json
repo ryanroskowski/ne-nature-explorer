@@ -3,6 +3,9 @@
   "taxonId": 216544,
   "group": "insects",
   "commonName": "Short-legged Camel Cricket",
+  "alternativeNames": [
+    "Boreal Camel Cricket"
+  ],
   "scientificName": "Ceuthophilus brevipes",
   "family": "Rhaphidophoridae",
   "familyCommonName": "Camel Crickets, Cave Crickets, and Cave Wēta",
@@ -120,6 +123,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Ceuthophilus_brevipes",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/216544",
   "ecologicalRole": {

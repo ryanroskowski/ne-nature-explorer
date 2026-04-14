@@ -3,6 +3,24 @@
   "taxonId": 48398,
   "group": "fish",
   "commonName": "Blackspotted Stickleback",
+  "alternativeNames": [
+    "Thornback",
+    "Barnstickle",
+    "Barnystickle",
+    "Barnytickle",
+    "Branstickle",
+    "Spanicle",
+    "Spannistickle",
+    "Spanny",
+    "Spannytickle",
+    "Spantickle",
+    "Sparnicle",
+    "Sparnytickle",
+    "Spawnykettle",
+    "Spawnytickle",
+    "Black-spotted Stickleback",
+    "Two-spined stickleback"
+  ],
   "scientificName": "Gasterosteus wheatlandi",
   "family": "Gasterosteidae",
   "familyCommonName": "Sticklebacks",
@@ -173,6 +191,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Blackspotted_stickleback",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/48398"
 }

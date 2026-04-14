@@ -3,6 +3,9 @@
   "taxonId": 18995,
   "group": "birds",
   "commonName": "White-fronted Amazon",
+  "alternativeNames": [
+    "White-fronted Parrot"
+  ],
   "scientificName": "Amazona albifrons",
   "family": "Psittacidae",
   "familyCommonName": "New World and African Parrots",
@@ -256,6 +259,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/White-fronted_amazon",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/18995",
   "xenoCantoUrl": "https://xeno-canto.org/species/Amazona-albifrons"

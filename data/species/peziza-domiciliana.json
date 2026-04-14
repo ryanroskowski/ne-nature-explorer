@@ -3,6 +3,9 @@
   "taxonId": 319053,
   "group": "fungi",
   "commonName": "Home Cup",
+  "alternativeNames": [
+    "Domicile Cup"
+  ],
   "scientificName": "Peziza domiciliana",
   "family": "Pezizaceae",
   "familyCommonName": "Pezizas, Desert Truffles, and Allies",
@@ -225,6 +228,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Peziza_domiciliana",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/319053"
 }

@@ -3,6 +3,11 @@
   "taxonId": 133220,
   "group": "insects",
   "commonName": "House Cricket",
+  "alternativeNames": [
+    "Cricket on the Hearth",
+    "European House-Cricket",
+    "Common House Cricket"
+  ],
   "scientificName": "Acheta domesticus",
   "family": "Gryllidae",
   "familyCommonName": "True Crickets",
@@ -236,6 +241,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/House_cricket",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/133220",
   "xenoCantoUrl": "https://xeno-canto.org/species/Acheta-domesticus",

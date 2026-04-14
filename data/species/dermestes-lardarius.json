@@ -3,6 +3,9 @@
   "taxonId": 131076,
   "group": "insects",
   "commonName": "Larder Beetle",
+  "alternativeNames": [
+    "Moisture Bug"
+  ],
   "scientificName": "Dermestes lardarius",
   "family": "Dermestidae",
   "familyCommonName": "Skin Beetles",
@@ -221,6 +224,7 @@
   "compareHints": "While there are other Dermestes species like the black larder beetle, the regular larder beetle is easily distinguished by its prominent yellow band with three black dots. Other skin beetles in the Dermestidae family are typically smaller, more uniformly colored, or have different spot patterns without the characteristic triangular arrangement of dots.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Dermestes_lardarius",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/131076",
   "ecologicalRole": {

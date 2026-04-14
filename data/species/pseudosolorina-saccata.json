@@ -1,7 +1,7 @@
 {
   "slug": "pseudosolorina-saccata",
   "taxonId": 1623773,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Common Chocolate Chip Lichen",
   "scientificName": "Pseudosolorina saccata",
   "family": "Peltigeraceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Peltigerales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 7,
-  "abundanceTier": "common",
+  "abundanceTier": "moderate",
   "photos": [
     {
       "id": 18731600,
@@ -218,6 +218,7 @@
   "compareHints": "Since this is the only Pseudosolorina species in our New England dataset, compare it with other soil-dwelling members of the Peltigeraceae family like Dog Lichens (Peltigera species). However, Peltigera species are typically larger, often have a more distinctly veined underside, and lack the characteristic chocolate chip fruiting bodies that make Pseudosolorina saccata unique.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1623773"
 }

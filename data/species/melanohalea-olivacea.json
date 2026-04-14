@@ -1,7 +1,7 @@
 {
   "slug": "melanohalea-olivacea",
   "taxonId": 463489,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Spotted Camouflage Lichen",
   "scientificName": "Melanohalea olivacea",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -115,46 +115,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/121006811"
     }
   ],
-  "nameStory": "The \"spotted camouflage lichen\" gets its name from the small pale spots scattered across its olive-brown surface, creating a mottled pattern that resembles military camouflage. These spots, called pseudocyphellae, break up the dark coloration and help this lichen blend seamlessly with the dappled light and shadow on tree bark.",
-  "description": "Spotted camouflage lichen is a leafy, shield-like lichen that forms neat, rounded patches on tree bark. Its olive-brown to dark brown surface is decorated with tiny pale spots that give it a distinctive speckled appearance. These circular colonies typically grow 2-3 inches across, creating flat rosettes that hug tight against the bark. Despite being uncommon in New England, it's a striking find when you spot one.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "Look for small, pale spots (pseudocyphellae) scattered across the dark brown upper surface like tiny windows - these feel smooth when you run your finger over them and are the key identifying feature",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms neat, circular patches that lie flat against bark with lobed edges, feeling papery and flexible when dry, becoming more pliable when wet",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Upper surface is olive-brown to dark brown, while the underside is jet black - flip up an edge to see this stark contrast",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual colonies typically measure 2-3 inches across, though older specimens can grow larger over many years",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Almost exclusively found on birch bark, particularly on the smooth, white bark of paper birches in cooler mountain forests",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "In New England, look for this rare lichen in cool, moist mountain forests where paper birches thrive, particularly at higher elevations in the White Mountains of New Hampshire and similar habitats in Vermont and Maine. It prefers the clean air of undisturbed boreal-type forests and is most often found in areas that receive significant winter snow cover. This is definitely a lichen of the cooler, northern parts of New England rather than the warmer southern regions.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "As snow melts away from tree trunks, newly exposed colonies appear fresh and may show their brightest olive-brown coloration. The pale spots are often most visible during this season's variable wet and dry conditions.",
-    "summer": "During dry periods, the lichen becomes more brittle and papery, with colors often appearing darker. Wet summer days bring out the olive tones and make the texture more flexible.",
-    "fall": "Autumn moisture keeps the lichen pliable and brings out rich brown tones. This is an excellent time to observe the contrast between the upper and lower surfaces as humidity makes handling easier.",
-    "winter": "Often buried under snow for months, which actually protects it from harsh conditions. When visible above snow line, it appears dark and contracted against the white birch bark."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen creates a natural \"snow depth ruler\" on birch trees - in Scandinavian mountains, the upper edge of where this lichen grows marks exactly how deep the winter snow gets year after year, creating what scientists call the \"olivacea line\" that's been used for centuries to predict snow conditions!",
-  "confusionNotes": "Most likely confused with other brown shield lichens on birch bark, but the scattered pale spots are unique - if you don't see those tiny \"windows\" in the surface, it's probably a different species. Remember: \"Spots equal spotted camouflage.\"",
-  "contextualKnowledge": "Despite being called \"olivacea\" (meaning olive-colored), this lichen often appears more brown than olive, especially when dry. The scientific name has quite a history - originally named by the famous botanist Carl Linnaeus in 1753, it bounced around different genus names for over 250 years before DNA studies in 2004 finally settled it in its current home.",
-  "compareHints": "Within its genus Melanohalea, spotted camouflage lichen is distinguished from northern camouflage lichen by its scattered pale spots rather than a more uniformly colored surface. Compared to Appalachian tree brown-shield, it has a darker overall coloration and those characteristic pseudocyphellae (pale spots) that the others lack. The jet-black underside with dark attachment threads is consistent across all three species.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "melanohalea-septentrionalis",
@@ -168,10 +142,11 @@
       "commonName": "Appalachian Tree Brown-Shield",
       "scientificName": "Melanohalea halei",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8026778/medium.jpg",
-      "distinction": "Compared to its relatives Northern Camouflage Lichen and Spotted Camouflage Lichen, the Appalachian Tree Brown-Shield has more uniform coloring without the distinctive light-and-dark camouflage patterns."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Melanohalea_olivacea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/463489"
 }

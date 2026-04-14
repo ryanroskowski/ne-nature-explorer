@@ -3,6 +3,9 @@
   "taxonId": 48767,
   "group": "fungi",
   "commonName": "Sulphur Tuft",
+  "alternativeNames": [
+    "sulfur tuft"
+  ],
   "scientificName": "Hypholoma fasciculare",
   "family": "Strophariaceae",
   "familyCommonName": "Strophariaceae",
@@ -224,6 +227,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hypholoma_fasciculare",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/48767"
 }

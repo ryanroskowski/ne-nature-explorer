@@ -1,8 +1,11 @@
 {
   "slug": "protoparmeliopsis-muralis",
   "taxonId": 632126,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Stonewall Rim Lichen",
+  "alternativeNames": [
+    "My Old Friend"
+  ],
   "scientificName": "Protoparmeliopsis muralis",
   "family": "Lecanoraceae",
   "familyCommonName": "rim lichens, disc lichens, and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -226,6 +229,7 @@
   "compareHints": "Since this is the only member of its genus in New England, compare it to other common rock lichens in the same family. It's paler and greener than the honey-colored rock lichens, and more yellow than the gray-green species. The rosette growth pattern and rimmed fruiting bodies are key distinguishing features from its relatives.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lecanora_muralis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/632126"
 }

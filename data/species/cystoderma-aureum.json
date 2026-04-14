@@ -3,6 +3,9 @@
   "taxonId": 790781,
   "group": "fungi",
   "commonName": "Golden Cap",
+  "alternativeNames": [
+    "Golden Bootleg"
+  ],
   "scientificName": "Cystoderma aureum",
   "family": "Squamanitaceae",
   "familyCommonName": "Squamanitaceae",
@@ -233,6 +236,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Phaeolepiota",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/790781"
 }

@@ -3,6 +3,9 @@
   "taxonId": 7106,
   "group": "birds",
   "commonName": "Mandarin Duck",
+  "alternativeNames": [
+    "Mandarin"
+  ],
   "scientificName": "Aix galericulata",
   "family": "Anatidae",
   "familyCommonName": "Ducks, Geese, and Swans",
@@ -293,6 +296,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Mandarin_duck",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/7106",
   "xenoCantoUrl": "https://xeno-canto.org/species/Aix-galericulata"

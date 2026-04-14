@@ -3,6 +3,9 @@
   "taxonId": 517822,
   "group": "fungi",
   "commonName": "ink stain bolete",
+  "alternativeNames": [
+    "inkstain bolete"
+  ],
   "scientificName": "Cyanoboletus pulverulentus",
   "family": "Boletaceae",
   "familyCommonName": "boletes",
@@ -219,6 +222,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cyanoboletus_pulverulentus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/517822"
 }

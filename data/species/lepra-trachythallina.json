@@ -1,7 +1,7 @@
 {
   "slug": "lepra-trachythallina",
   "taxonId": 630831,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Powdered Wart Lichen",
   "scientificName": "Lepra trachythallina",
   "family": "Pertusariaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "wart lichens, water lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -67,46 +67,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/63083101"
     }
   ],
-  "nameStory": "This lichen gets its name from its distinctive appearance that looks like someone dusted white powder over crusty warts on tree bark. The 'powdered' part comes from the fine, chalky coating that covers the warty bumps, while 'wart lichen' describes the raised, bumpy growths that characterize this family of lichens.",
-  "description": "Powdered Wart Lichen is a crusty lichen that forms patches on tree bark, looking like white or pale gray warty bumps dusted with powder. It creates thin, spreading crusts that can cover several inches of bark surface. The lichen consists of fungal and algal partners working together, with the fungus forming the crusty structure and the algae providing food through photosynthesis. Individual patches rarely exceed 4-6 inches across, but multiple colonies can merge to cover larger areas.",
-  "idTips": [
-    {
-      "label": "Powdery coating",
-      "description": "Look for a fine, chalky white powder coating the surface that may rub off on your finger when touched gently, leaving a whitish residue",
-      "isPrimary": true
-    },
-    {
-      "label": "Warty texture",
-      "description": "The surface feels rough and bumpy like sandpaper, with raised wart-like protrusions that are firm to the touch and don't compress easily",
-      "isPrimary": false
-    },
-    {
-      "label": "Color pattern",
-      "description": "Appears whitish to pale gray overall, often with slightly darker centers on the warty bumps and brighter white edges",
-      "isPrimary": false
-    },
-    {
-      "label": "Bark attachment",
-      "description": "Forms a thin but firmly attached crust on bark that doesn't peel away easily when scraped with a fingernail",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface pores",
-      "description": "Close inspection reveals tiny pores or openings scattered across the warty surface, often appearing as small dark dots",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Found on the bark of deciduous trees, particularly maples, oaks, and birches in mature forests throughout New England. Prefers trees in somewhat shaded locations with consistent moisture, often in mixed hardwood forests at low to moderate elevations. Most commonly spotted on the smooth bark of younger trees or the upper portions of older trees where the bark hasn't become deeply furrowed.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Most visible after winter moisture has enhanced the powdery coating. The white coloration stands out clearly against dark, wet bark in early spring woods.",
-    "summer": "May appear less prominent during dry periods as the powdery coating can weather away. Look for it on the shadier sides of trees where moisture persists longer.",
-    "fall": "Often becomes more noticeable again as autumn rains restore moisture and the powdery surface coating. Easy to spot against colorful fall foliage backdrop.",
-    "winter": "Remains visible year-round but may be covered by snow. Winter's bare trees make it easier to scan bark surfaces systematically for lichen patches."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Like all lichens, this species is actually two organisms living as one - a fungus and an algae in perfect partnership, where the fungus provides shelter and gathers water while the algae makes food from sunlight, creating a living organism that can survive conditions neither partner could handle alone.",
-  "confusionNotes": "Most easily confused with other white crusty lichens on bark, but the distinctive powdery coating that rubs off on your finger is a key distinguishing feature. Remember: if it leaves white chalk-like residue when touched gently, you've likely found Powdered Wart Lichen rather than other similar species.",
-  "contextualKnowledge": "Despite being called a 'wart' lichen, these growths are completely harmless to both trees and humans - the name simply describes their bumpy appearance. The 'Lepra' genus name might sound concerning but comes from an old Greek word meaning 'scaly' and has no relation to any disease.",
-  "compareHints": "Compared to its relatives like Bitter Wart Lichen, Powdered Wart Lichen has that distinctive chalky coating that rubs off easily. Pore Lichen tends to be smoother and less warty, while Pustule Crust Lichen has more pronounced raised bumps but lacks the powdery surface coating. The powdery texture combined with moderate-sized warts makes this species distinctive within its genus.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "lepra-amara",
@@ -127,17 +101,18 @@
       "commonName": "Fumarprotocetraric Fluff-Wart",
       "scientificName": "Lepra multipunctoides",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/377438611/medium.jpg",
-      "distinction": "Among its Lepra relatives, this species stands out for its uniquely soft, fluffy texture - bitter wart lichen feels hard and crusty, while Pustule Crust Lichen has obvious raised bumps rather than a cottony surface."
+      "distinction": "undefined."
     },
     {
       "slug": "lepra-albescens",
       "commonName": "Pore lichen",
       "scientificName": "Lepra albescens",
       "thumbnailUrl": "https://static.inaturalist.org/photos/29543607/medium.jpeg",
-      "distinction": "Pore lichen differs from its relatives like bitter wart lichen by its smoother, less warty surface and more prominent pores."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/630831"
 }

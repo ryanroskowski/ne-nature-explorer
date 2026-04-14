@@ -1,7 +1,7 @@
 {
   "slug": "buellia-maculata",
   "taxonId": 462529,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Buellia maculata",
   "scientificName": "Buellia maculata",
   "family": "Caliciaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "button lichens, rosette lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -75,46 +75,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/73056476"
     }
   ],
-  "nameStory": "The name \"Speckled Button Lichen\" comes from its distinctive spotted appearance and the small, dark, button-like fruiting bodies it produces. The scientific name \"maculata\" literally means \"spotted\" in Latin, referring to the characteristic speckled pattern that covers its surface.",
-  "description": "Speckled Button Lichen is a crusty lichen that forms thin, grayish patches on tree bark and rocks. It gets its name from the scattered dark spots that pepper its surface, along with tiny black button-like structures called apothecia that contain spores. This lichen typically grows in small patches just a few inches across, creating a painted-on appearance where it colonizes surfaces. Like all lichens, it's actually two organisms living together - a fungus and an algae working as partners.",
-  "idTips": [
-    {
-      "label": "Speckled surface pattern",
-      "description": "Look for a grayish crust covered in distinctive dark spots or speckles that feel slightly rough to the touch, like fine sandpaper",
-      "isPrimary": true
-    },
-    {
-      "label": "Button-like fruiting bodies",
-      "description": "Small, round, black structures about the size of pinheads dot the surface, feeling firm and slightly raised when you run your finger over them",
-      "isPrimary": false
-    },
-    {
-      "label": "Crusty texture",
-      "description": "The lichen forms a thin, crusty layer that adheres tightly to bark or rock and cannot be peeled off in sheets like some other lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Gray coloration",
-      "description": "Overall appearance is pale to medium gray, sometimes with a slightly greenish tint when moist, but always maintaining the speckled pattern",
-      "isPrimary": false
-    },
-    {
-      "label": "Small patch size",
-      "description": "Individual colonies typically measure 1-3 inches across, though several patches may grow near each other on favorable surfaces",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Speckled Button Lichen grows on the bark of deciduous and coniferous trees throughout New England's forests, particularly favoring oak, maple, and pine. It prefers somewhat sheltered locations with moderate moisture and can be found from sea level to mid-elevations in the mountains. Look for it in mixed woodlands where it colonizes the rough bark of mature trees, often on the north-facing sides where conditions stay more consistently humid.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The lichen becomes more vibrant as spring moisture returns, with the gray surface appearing slightly greener. This is an excellent time to spot the contrast between the dark speckles and lighter background.",
-    "summer": "During dry summer periods, the lichen may appear more faded and crusty, but the distinctive speckled pattern remains clearly visible. The black fruiting bodies are often most prominent in late summer.",
-    "fall": "Fall rains refresh the lichen's appearance, making it easier to distinguish from surrounding bark. The speckled pattern becomes quite pronounced against the moistened gray surface.",
-    "winter": "The lichen remains visible year-round, though it may appear somewhat dormant. Snow cover can make it harder to spot, but on bare bark the dark speckles still show clearly against the gray background."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen can actually survive being completely dried out for months, then spring back to life within minutes of getting wet - it's like nature's own freeze-dried organism that can essentially pause its entire life process and resume it instantly when conditions improve!",
-  "confusionNotes": "Speckled Button Lichen might be confused with other gray crusty lichens, but the distinctive speckled pattern is your best clue - think of it as nature's dalmatian print. If you see uniform gray without the dark spots, or spots that are white instead of dark, you're looking at a different species.",
-  "contextualKnowledge": "With only one recorded observation in New England, this lichen is extremely rare in our region and may be at the edge of its natural range. Finding it would be a significant discovery, so be sure to document any potential sightings with photos and location details.",
-  "compareHints": "Unlike Common Button Lichen which has a more uniform gray surface, Speckled Button Lichen is distinguished by its characteristic spotted pattern. Sunken Button Lichen has fruiting bodies that appear more recessed into the surface rather than raised, while Speckled Button Lichen's spots and buttons are more prominent and visible.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "buellia-erubescens",
@@ -128,17 +102,18 @@
       "commonName": "Sunken Button Lichen",
       "scientificName": "Buellia spuria",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/326619110/medium.jpg",
-      "distinction": "Sunken Button Lichen stands out from its Button Lichen relatives by having the most dramatic black-and-white contrast - the black borders are much more prominent and continuous than in Common Button Lichen."
+      "distinction": "undefined."
     },
     {
       "slug": "buellia-griseovirens",
       "commonName": "Buellia griseovirens",
       "scientificName": "Buellia griseovirens",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/65536271/medium.jpeg",
-      "distinction": "Compared to Common Button Lichen (Buellia erubescens), this species tends to have a more greenish cast rather than pure gray coloration."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/462529"
 }

@@ -3,6 +3,9 @@
   "taxonId": 382882,
   "group": "fungi",
   "commonName": "Downy milk cap",
+  "alternativeNames": [
+    "Bearded Milkcap"
+  ],
   "scientificName": "Lactarius pubescens",
   "family": "Russulaceae",
   "familyCommonName": "Milkcaps, Brittlegills and Allies",
@@ -545,6 +548,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lactarius_pubescens",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/382882"
 }

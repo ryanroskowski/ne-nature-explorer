@@ -3,6 +3,10 @@
   "taxonId": 4836,
   "group": "birds",
   "commonName": "Black-necked Stilt",
+  "alternativeNames": [
+    "Long-legged Avocet",
+    "Mexican Stilt"
+  ],
   "scientificName": "Himantopus mexicanus",
   "family": "Recurvirostridae",
   "familyCommonName": "Stilts and Avocets",
@@ -267,6 +271,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-necked_stilt",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/4836",
   "xenoCantoUrl": "https://xeno-canto.org/species/Himantopus-mexicanus"

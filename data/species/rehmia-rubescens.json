@@ -1,7 +1,7 @@
 {
   "slug": "rehmia-rubescens",
   "taxonId": 1648964,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Rehmia rubescens",
   "scientificName": "Rehmia rubescens",
   "family": "Rhizocarpaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Rhizocarpales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -67,56 +67,31 @@
       "observationUrl": "https://www.inaturalist.org/observations/13240017"
     }
   ],
-  "nameStory": "The 'rubescens' in this lichen's name comes from the Latin word meaning 'becoming red' or 'blushing,' referring to the reddish tints that develop on its surface. Like a person blushing in the sunlight, this lichen often shows warm red or pink hues when exposed to bright conditions.",
-  "description": "Rehmia rubescens is a crusty lichen that forms thin, patch-like growths on rock surfaces. This organism is actually a partnership between a fungus and algae working together - the fungus provides structure and protection while the algae make food through photosynthesis. It typically forms irregular patches a few inches across, creating a paint-like coating on stone surfaces. The thallus (lichen body) is relatively thin and closely pressed against its rocky home.",
-  "idTips": [
-    {
-      "label": "Reddish coloration",
-      "description": "Look for distinctive reddish, pink, or rust-colored patches on the lichen surface, especially noticeable in bright light - like a faint blush across the rock",
-      "isPrimary": true
-    },
-    {
-      "label": "Crusty texture",
-      "description": "The surface feels rough and chalky to the touch, similar to dried paint that's been weathered by the elements",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock-hugging growth",
-      "description": "Forms thin patches that seem almost painted onto rock surfaces, impossible to peel off without scraping",
-      "isPrimary": false
-    },
-    {
-      "label": "Irregular patches",
-      "description": "Creates uneven, map-like outlines rather than neat circular shapes, often with fuzzy or indistinct edges",
-      "isPrimary": false
-    },
-    {
-      "label": "Small reproductive structures",
-      "description": "Tiny dark dots (apothecia) may be scattered across the surface, looking like pepper specks embedded in the lichen",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "This uncommon lichen grows on exposed rock surfaces, particularly favoring acidic stone types in sunny to partially shaded locations. In New England, look for it on granite outcrops, stone walls, and rocky ledges from low elevations up into the mountains. It seems to prefer spots that get good air circulation but aren't constantly wet.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Fresh growth may begin as winter moisture recedes, with the reddish coloration becoming more pronounced as sunlight increases. Look for slightly more vibrant colors as the lichen becomes active again.",
-    "summer": "Peak time for observation as the reddish hues are most visible in strong sunlight. Any reproductive structures will be most apparent during dry summer conditions.",
-    "fall": "Colors may appear more muted as light levels decrease, but the lichen remains identifiable. Good time to spot it before winter weather sets in.",
-    "winter": "Still visible but colors may appear duller and grayer. Snow cover may hide it for extended periods, making it harder to locate reliably."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is so rare in New England that it's been documented only once in the entire region - making any sighting a genuine scientific treasure that could help researchers understand its true distribution and habitat needs.",
-  "confusionNotes": "Could be confused with other reddish rock-dwelling lichens, but the specific combination of crusty texture and particular shade of reddish coloration helps distinguish it. Remember: 'rubescens blushes' - the red tones are key to identification.",
-  "contextualKnowledge": "Lichens are often overlooked as 'just stuff growing on rocks,' but they're actually incredible examples of symbiosis - two completely different organisms living together successfully. They're also excellent indicators of air quality, as they absorb nutrients and water directly from the atmosphere.",
-  "compareHints": "Unlike its relative the Drenched Map Lichen (Rehmia lavata), which tends toward grayer colors and prefers consistently moist conditions, Rehmia rubescens shows those characteristic reddish tones and tolerates drier exposures. The 'rubescens' species appears more willing to handle sunny, exposed locations where other map lichens might struggle.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "rehmia-lavata",
       "commonName": "Drenched Map Lichen",
       "scientificName": "Rehmia lavata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23567908/medium.jpg",
-      "distinction": "Drenched Map Lichen differs from its relative Rehmia rubescens by its preference for wetter habitats and less reddish coloration."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1648964"
 }

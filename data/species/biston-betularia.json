@@ -3,6 +3,11 @@
   "taxonId": 143517,
   "group": "insects",
   "commonName": "Peppered Moth",
+  "alternativeNames": [
+    "Pepper-and-salt Geometer",
+    "Pepper and Salt Geometer",
+    "Pepper-and-salt Geometer Moth"
+  ],
   "scientificName": "Biston betularia",
   "family": "Geometridae",
   "familyCommonName": "Geometer Moths",
@@ -181,6 +186,7 @@
   "compareHints": "While peppered moths are the only Biston species commonly found in New England, they can be distinguished from other geometer moths in the region by their specific speckled pattern and medium size. Most other geometers are either much smaller, lack the distinctive pepper-like speckling, or have more geometric patterns on their wings rather than the organic, scattered dots of the peppered moth.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Peppered_moth",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/143517",
   "ecologicalRole": {

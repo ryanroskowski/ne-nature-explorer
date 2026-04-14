@@ -3,6 +3,9 @@
   "taxonId": 120113,
   "group": "insects",
   "commonName": "Varied Carpet Beetle",
+  "alternativeNames": [
+    "Carpet Beetle"
+  ],
   "scientificName": "Anthrenus verbasci",
   "family": "Dermestidae",
   "familyCommonName": "Skin Beetles",
@@ -205,6 +208,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Varied_carpet_beetle",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/120113",
   "ecologicalRole": {

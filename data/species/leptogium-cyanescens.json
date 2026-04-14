@@ -1,7 +1,7 @@
 {
   "slug": "leptogium-cyanescens",
   "taxonId": 182554,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Blue Jellyskin",
   "scientificName": "Leptogium cyanescens",
   "family": "Collemataceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Peltigerales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -201,24 +201,25 @@
       "commonName": "Stretched Jellyskin",
       "scientificName": "Leptogium milligranum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7985530/medium.jpg",
-      "distinction": "Stretched Jellyskin differs from Blue Jellyskin by being thinner and more tightly attached to bark, while Blue Jellyskin tends to have more pronounced lobes that lift away from the surface."
+      "distinction": "undefined."
     },
     {
       "slug": "leptogium-laceroides",
       "commonName": "Leptogium laceroides",
       "scientificName": "Leptogium laceroides",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8999627/medium.jpg",
-      "distinction": "**[UNCERTAIN]** Compared to the more common Blue Jellyskin in the same genus, Leptogium laceroides appears to have more fragmented, irregularly torn lobe margins and may be overall smaller in size."
+      "distinction": "undefined."
     },
     {
       "slug": "leptogium-acadiense",
       "commonName": "Leptogium acadiense",
       "scientificName": "Leptogium acadiense",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9670456/medium.jpeg",
-      "distinction": "Unlike Blue Jellyskin which has a more distinctly bluish cast when wet, this species tends toward brownish-gray tones."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Leptogium_cyanescens",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/182554"
 }

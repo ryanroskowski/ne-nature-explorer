@@ -1,7 +1,7 @@
 {
   "slug": "loxospora-cismonica",
   "taxonId": 224148,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Frosted Ragged-rim Lichen",
   "scientificName": "Loxospora cismonica",
   "family": "Sarrameanaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Sarrameanales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 12706614,
@@ -67,46 +67,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/7082609"
     }
   ],
-  "nameStory": "The 'frosted' part of this lichen's name comes from its distinctive whitish, powdery appearance that looks like someone dusted it with fine sugar or frost. The 'ragged-rim' refers to the irregular, torn-looking edges of its fruiting bodies, which appear jagged rather than smooth and circular like many other lichens.",
-  "description": "Frosted Ragged-rim Lichen is a crusty lichen that forms thin, spreading patches on tree bark and sometimes rocks. It creates grayish-white to pale greenish crusts that can spread several inches across, though individual patches are often just an inch or two wide. The surface has a distinctly powdery, flour-like texture and produces small, dark fruiting bodies with characteristically irregular, jagged edges. This is an extremely rare lichen in New England, with only one confirmed observation in the region.",
-  "idTips": [
-    {
-      "label": "Ragged fruiting bodies",
-      "description": "Look for small, dark brown to black disk-like structures with distinctly irregular, torn-looking edges rather than smooth circular rims",
-      "isPrimary": true
-    },
-    {
-      "label": "Frosted surface texture",
-      "description": "The lichen surface feels powdery and looks dusted with white or pale gray powder, like flour sprinkled on bark",
-      "isPrimary": false
-    },
-    {
-      "label": "Crusty growth form",
-      "description": "Forms thin, tightly attached crusts on bark that cannot be peeled off without damaging the surface underneath",
-      "isPrimary": false
-    },
-    {
-      "label": "Pale coloration",
-      "description": "Overall grayish-white to very pale greenish color, sometimes with a slightly yellowish tint in bright sunlight",
-      "isPrimary": false
-    },
-    {
-      "label": "Small size",
-      "description": "Individual patches typically 1-3 inches across, with fruiting bodies only 1-2 millimeters wide",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "This extremely rare lichen grows on the bark of deciduous trees, particularly in older forests with good air quality. In New England, it has been found in mature hardwood forests at mid-elevations, typically on smooth-barked trees like beech or maple. It seems to prefer areas with consistent moisture and minimal air pollution.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Fruiting bodies may be most visible as the lichen begins active growth after winter dormancy. The frosted appearance becomes more pronounced with spring moisture.",
-    "summer": "The powdery surface texture is most apparent during dry summer conditions. Look for the characteristic ragged-rimmed fruiting bodies which are easiest to spot when fully developed.",
-    "fall": "Lichen remains visible and identifiable, though may be partially obscured by fallen leaves on lower tree trunks. The pale coloration stands out well against darkening bark.",
-    "winter": "Still present and identifiable on bark, though growth slows significantly. The frosted appearance may be less obvious but the distinctive fruiting body shape remains key for identification."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is so rare in New England that finding it would be like discovering a botanical needle in a haystack - there's literally only been one confirmed sighting in the entire region, making any new discovery potentially significant to scientists studying lichen distribution and climate change impacts.",
-  "confusionNotes": "Could be confused with other crusty lichens that have powdery surfaces, but the combination of the distinctly ragged-edged fruiting bodies and frosted appearance is unique. Remember: 'ragged rims, frosted dims' - if the fruiting body edges are jagged and the surface looks dimmed by frost-like powder, you've likely found your match.",
-  "contextualKnowledge": "The scientific name Loxospora comes from Greek words meaning 'slanted spore,' referring to the distinctive shape of the microscopic spores. Lichens in general are actually two organisms living together - a fungus and an algae - making them one of nature's most successful partnerships.",
-  "compareHints": "Unlike its relative the Eastern Ragged-rim Lichen which has more yellowish tones and different spore characteristics, Frosted Ragged-rim has that distinctive whitish, powdery coating. The other related species, Loxospora elatina, typically grows on different substrates and lacks the pronounced frosted appearance. All three share the characteristic irregular, jagged-edged fruiting bodies that give this genus its common name.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "loxospora-ochrophaea",
@@ -120,10 +94,11 @@
       "commonName": "Loxospora elatina",
       "scientificName": "Loxospora elatina",
       "thumbnailUrl": "https://static.inaturalist.org/photos/9170646/medium.jpg",
-      "distinction": "Loxospora elatina differs from its relatives Eastern Ragged-rim Lichen and Frosted Ragged-rim Lichen primarily in its smoother, less textured surface - it lacks the distinctive 'ragged' or heavily frosted appearance of its cousins."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/224148"
 }

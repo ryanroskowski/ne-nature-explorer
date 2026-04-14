@@ -3,6 +3,9 @@
   "taxonId": 63405,
   "group": "fungi",
   "commonName": "Jelly-antler",
+  "alternativeNames": [
+    "Yellow Stagshorn"
+  ],
   "scientificName": "Calocera viscosa",
   "family": "Dacrymycetaceae",
   "familyCommonName": "Dacrymycetaceae",
@@ -219,6 +222,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Calocera_viscosa",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/63405"
 }

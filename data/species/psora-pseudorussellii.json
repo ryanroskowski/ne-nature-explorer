@@ -1,7 +1,7 @@
 {
   "slug": "psora-pseudorussellii",
   "taxonId": 229256,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "False Russell's fishscale lichen",
   "scientificName": "Psora pseudorussellii",
   "family": "Psoraceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -155,48 +155,23 @@
       "observationUrl": "https://www.inaturalist.org/observations/77969706"
     }
   ],
-  "nameStory": "This lichen gets its \"fishscale\" name from its growth pattern of small, overlapping scales that look remarkably like fish scales scattered across rock surfaces. The \"false Russell's\" part comes from its history of mistaken identity - for decades, scientists confused it with the similar Russell's fishscale lichen until DNA testing in the 1980s revealed they were different species entirely.",
-  "description": "False Russell's fishscale lichen is a rock-hugging lichen that forms patches of small, brown, scale-like pieces with bright white edges. Each individual scale is roughly the size of a pencil eraser, and together they create distinctive patches that can spread several inches across limestone and other calcium-rich rocks. Unlike leafy lichens that lift away from their surface, these scales lie flat and tight against the rock like nature's own mosaic tiles.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "Small brown scales with distinctive bright white margins that feel slightly rough and papery when dry, like touching fine sandpaper",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Squamulose (scale-like) growth forming patches of overlapping scales that lie flat against rock surfaces, never lifting up like leaves",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Brown to reddish-brown scales with contrasting white to pale gray borders that become more pronounced when wet",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Exclusively found on limestone, concrete, mortar, and other calcium-rich rocky surfaces, never on acidic rocks or bark",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual scales are small (2-4mm across) but patches can spread to cover several inches of rock surface",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "In New England, look for this rare lichen on limestone outcrops, old stone walls made with lime mortar, and concrete structures in areas with calcareous bedrock. It prefers partially shaded to sunny locations on vertical or sloping rock faces. Given only 2 observations in New England, it's likely restricted to areas with suitable limestone geology, possibly in western Massachusetts or Connecticut where such rocks are more common.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Scales may appear slightly swollen and darker brown when wet from spring rains, making the white borders more contrasting and easier to spot.",
-    "summer": "During dry periods, scales become lighter brown and more papery-textured, with borders appearing more cream-colored than white.",
-    "fall": "Autumn moisture brings out the richest brown colors in the scales, and this is often when the contrast with white margins is most striking.",
-    "winter": "Snow and ice may obscure patches, but exposed areas show consistent coloration year-round, as lichens don't go dormant like plants."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen was hiding in plain sight for over a century - scientists kept finding it and filing it away as Russell's fishscale lichen until DNA testing in 1986 revealed it was actually a completely separate North American species that had never been properly described!",
-  "confusionNotes": "Most easily confused with true Russell's fishscale lichen, but that species doesn't occur in North America. Other scale lichens lack the distinctive bright white borders. Memory trick: \"False Russell's has WHITE borders that are RIGHT for North America.\"",
-  "contextualKnowledge": "The name \"pseudorussellii\" literally means \"false Russell's\" in scientific Latin, directly referencing the century-long case of mistaken identity. This highlights how DNA technology has revolutionized lichen taxonomy, revealing that many widespread species are actually complexes of related but distinct organisms.",
-  "compareHints": "This is the only Psora species documented in our New England dataset, making it unique in the region. Compared to other scale lichens in the area, False Russell's fishscale is distinguished by its consistent white-bordered brown scales and strict preference for limestone substrates. Most other local scale lichens either lack the white margins or grow on different rock types.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Psora_pseudorussellii",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/229256"
 }

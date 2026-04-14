@@ -1,7 +1,7 @@
 {
   "slug": "bryoria-nadvornikiana",
   "taxonId": 205670,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Spiny Gray Horsehair Lichen",
   "scientificName": "Bryoria nadvornikiana",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -67,46 +67,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/8472968"
     }
   ],
-  "nameStory": "This lichen gets its \"horsehair\" name from its long, stringy growth form that dangles from tree branches like coarse hair from a horse's mane. The \"spiny\" part comes from tiny projections along its strands that give it a rougher texture than its smoother horsehair cousins. It's also called \"blonde horsehair lichen\" because of its pale, grayish-blonde color when dry.",
-  "description": "Spiny Gray Horsehair Lichen is a fruticose (shrub-like) lichen that hangs in long, thin strands from tree branches, looking remarkably like tangled gray hair. The strands are typically pale gray to grayish-blonde when dry, becoming darker when wet. Each strand is very thin, usually less than 1mm wide, and can grow several inches long, creating distinctive curtain-like masses on host trees. This is one of the rarest horsehair lichens in New England, making it a special find for lichen enthusiasts.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Hangs in long, thin strands from tree branches like tangled hair or string, creating curtain-like masses that sway in the breeze",
-      "isPrimary": true
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Strands feel rough to the touch with tiny spiny projections along their length, unlike the smoother texture of other horsehair lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Pale gray to grayish-blonde when dry, becoming noticeably darker gray or brownish when wet from rain or dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Always grows on tree bark, particularly favoring conifers like spruces and firs in cooler, moister locations",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual strands are hair-thin (less than 1mm wide) but can reach several inches in length, forming noticeable clumps",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "This rare lichen is found in cool, moist coniferous forests throughout New England's mountains and northern regions. It particularly favors mature spruce and fir trees in areas with clean air and high humidity, such as cloud forests on mountain slopes and deep valley forests. Look for it in old-growth or mature second-growth forests where air pollution is minimal.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "More visible as tree canopies leaf out and humidity increases, with strands appearing darker and more prominent due to frequent moisture from spring rains.",
-    "summer": "Easiest to spot in its pale, dry form during drier periods, though it may be less noticeable as full tree canopies provide more shade and competing visual elements.",
-    "fall": "Becomes more conspicuous again as deciduous trees drop their leaves, revealing the lichen curtains on evergreen hosts more clearly.",
-    "winter": "Highly visible against snow-covered branches, with strands alternating between dark (when wet from snow melt) and pale gray (when frozen and dry)."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is so rare in New England that it's been documented only twice in the entire region, making any sighting a truly exceptional discovery that could contribute valuable data to regional biodiversity records.",
-  "confusionNotes": "Most likely confused with the more common Horsehair Lichen, but the spiny texture is the key difference - run the strands gently between your fingers and you'll feel the rough, spiny projections that give this species its name, unlike the smooth feel of regular Horsehair Lichen.",
-  "contextualKnowledge": "Despite being called \"horsehair\" lichens, these organisms are actually a partnership between fungi and algae, not hair at all. The hair-like appearance is purely coincidental but makes for memorable common names that help people recognize these distinctive hanging lichens in the field.",
-  "compareHints": "Spiny Gray Horsehair Lichen differs from other Bryoria species primarily in its rough, spiny texture - Burred Horsehair Lichen has distinctive bur-like swellings, while regular Horsehair Lichen feels smooth when rubbed between fingers. The pale grayish-blonde color when dry also helps distinguish it from the often darker tones of its relatives.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "bryoria-furcellata",
@@ -120,17 +94,18 @@
       "commonName": "Horsehair Lichen",
       "scientificName": "Bryoria trichodes",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2237538/medium.JPG",
-      "distinction": "Horsehair Lichen differs from its relatives by having the finest, smoothest strands in the genus - Burred Horsehair Lichen has tiny projections along its strands, while Spiny Gray Horsehair Lichen appears more grayish and has surface irregularities."
+      "distinction": "undefined."
     },
     {
       "slug": "bryoria-kockiana",
       "commonName": "Bryoria kockiana",
       "scientificName": "Bryoria kockiana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8998979/medium.jpg",
-      "distinction": "Kock's horsehair lichen is virtually indistinguishable from other Bryoria species without close examination."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bryoria_nadvornikiana",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/205670"
 }

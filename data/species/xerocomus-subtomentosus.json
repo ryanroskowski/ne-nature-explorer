@@ -3,6 +3,9 @@
   "taxonId": 485374,
   "group": "fungi",
   "commonName": "Suede Bolete",
+  "alternativeNames": [
+    "Boring Brown Bolete"
+  ],
   "scientificName": "Xerocomus subtomentosus",
   "family": "Boletaceae",
   "familyCommonName": "boletes",
@@ -233,6 +236,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Xerocomus_subtomentosus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/485374"
 }

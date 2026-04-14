@@ -1,8 +1,11 @@
 {
   "slug": "lasallia-pensylvanica",
   "taxonId": 222670,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Pennsylvania Toadskin Lichen",
+  "alternativeNames": [
+    "Pennsylvania blistered naval lichen"
+  ],
   "scientificName": "Lasallia pensylvanica",
   "family": "Umbilicariaceae",
   "familyCommonName": "Rocktripes, Toadskin Lichens, and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "rocktripes, bloodspot lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/222670"
 }

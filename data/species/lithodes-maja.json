@@ -3,6 +3,11 @@
   "taxonId": 447323,
   "group": "crustaceans",
   "commonName": "Norway King Crab",
+  "alternativeNames": [
+    "Deepsea King Crab",
+    "Stone King Crab",
+    "Northern stone crab"
+  ],
   "scientificName": "Lithodes maja",
   "family": "Lithodidae",
   "familyCommonName": "King Crabs",
@@ -189,6 +194,7 @@
   "compareHints": "Since there are no other Lithodes species in New England waters, compare this to other king crab relatives like hermit crabs, which share the asymmetrical abdomen but lack the heavily spined, circular carapace. Unlike the smooth-shelled or lightly bumpy crabs common in New England, the Norway King Crab's massive spines make it unmistakable if you ever encounter one.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lithodes_maja",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/447323"
 }

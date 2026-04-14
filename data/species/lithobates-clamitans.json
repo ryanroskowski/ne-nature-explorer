@@ -3,6 +3,11 @@
   "taxonId": 65982,
   "group": "amphibians",
   "commonName": "Green Frog",
+  "alternativeNames": [
+    "North American Green Frog",
+    "Northern Green Frog",
+    "Bronze Frog"
+  ],
   "scientificName": "Lithobates clamitans",
   "family": "Ranidae",
   "familyCommonName": "Typical Frogs",
@@ -297,6 +302,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lithobates_clamitans",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/65982"
 }

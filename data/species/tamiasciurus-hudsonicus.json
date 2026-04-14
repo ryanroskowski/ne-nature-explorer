@@ -3,6 +3,17 @@
   "taxonId": 46260,
   "group": "mammals",
   "commonName": "American Red Squirrel",
+  "alternativeNames": [
+    "North American Red Squirrel",
+    "Chickaree",
+    "Hudsonian Squirrel",
+    "Pine Squirrel",
+    "Hudson's Bay Squirrel",
+    "Downy Squirrel",
+    "Red Squirrel",
+    "Eastern Red Squirrel",
+    "Piney Squirrel"
+  ],
   "scientificName": "Tamiasciurus hudsonicus",
   "family": "Sciuridae",
   "familyCommonName": "Squirrels",
@@ -213,6 +224,7 @@
   "compareHints": "American red squirrels are the only pine squirrel species in New England, making them unique in their genus here. Compared to other tree squirrels in the region, they're much smaller than gray or fox squirrels and lack the flying squirrel's gliding membrane. Their cone-hoarding behavior and preference for conifers also sets them apart from other New England squirrels.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_red_squirrel",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/46260"
 }

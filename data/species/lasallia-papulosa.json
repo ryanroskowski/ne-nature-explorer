@@ -1,7 +1,7 @@
 {
   "slug": "lasallia-papulosa",
   "taxonId": 125708,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Common Toadskin Lichen",
   "scientificName": "Lasallia papulosa",
   "family": "Umbilicariaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "rocktripes, bloodspot lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -234,6 +234,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lasallia_papulosa",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/125708"
 }

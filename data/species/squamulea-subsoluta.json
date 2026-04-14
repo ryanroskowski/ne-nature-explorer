@@ -1,8 +1,11 @@
 {
   "slug": "squamulea-subsoluta",
   "taxonId": 532349,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Orange Atoms",
+  "alternativeNames": [
+    "Dispersed Firedot Lichen"
+  ],
   "scientificName": "Squamulea subsoluta",
   "family": "Teloschistaceae",
   "familyCommonName": "sunburst lichens, firedots, and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "Sunburst Lichens and Allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -107,48 +110,23 @@
       "observationUrl": "https://www.inaturalist.org/observations/53234904"
     }
   ],
-  "nameStory": "The common name 'Orange Atoms' perfectly captures what this tiny lichen looks like when you spot it on rocks - scattered bright orange dots so small they resemble atoms under a microscope. Each individual scale is minuscule, but together they create vibrant orange patches that seem to glow against gray stone surfaces.",
-  "description": "Orange Atoms is a crusty, scale-forming lichen that creates small patches of brilliant orange color on rocks. Each individual piece, called a squamule, is tiny and overlapping, giving the whole colony a bumpy, granular texture. The patches are typically only a few inches across, but the intense orange color makes them surprisingly noticeable against darker rock surfaces. Like all lichens, it's actually two organisms living together - a fungus and an algae working as a team.",
-  "idTips": [
-    {
-      "label": "Bright orange color",
-      "description": "Vivid orange to orange-yellow coloration that stands out dramatically against rock surfaces, often described as traffic cone orange",
-      "isPrimary": true
-    },
-    {
-      "label": "Squamulose texture",
-      "description": "Made up of tiny overlapping scales that feel slightly rough and crusty to the touch, like fine sandpaper",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock-dwelling habit",
-      "description": "Always found growing directly on bare rock surfaces, never on trees, soil, or other materials",
-      "isPrimary": false
-    },
-    {
-      "label": "Small colony size",
-      "description": "Forms compact patches typically 1-3 inches across, rarely larger, with clearly defined edges",
-      "isPrimary": false
-    },
-    {
-      "label": "Dry, brittle feel",
-      "description": "When dry, the scales feel papery and brittle, easily crumbling if scraped with a fingernail",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Orange Atoms grows on exposed rock surfaces throughout New England, particularly favoring granite outcrops, stone walls, and rocky ledges. Look for it on south-facing rocks that receive plenty of direct sunlight, especially in areas with good air circulation. It's most commonly found at low to moderate elevations on stable rock surfaces that don't experience heavy water flow.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Most noticeable as snow melts and exposes rock surfaces. The orange color may appear slightly more muted after winter moisture but becomes more vibrant as conditions dry.",
-    "summer": "Peak visibility period when the bright orange coloration is most intense and patches are easiest to spot against sun-warmed rocks.",
-    "fall": "Still clearly visible and identifiable, though colors may begin to fade slightly as moisture levels increase with autumn rains.",
-    "winter": "Often hidden under snow, but when exposed, appears duller and darker orange due to wet conditions and reduced light."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Despite being called 'atoms,' each tiny orange scale is actually a complex biological partnership between thousands of fungal cells and algae cells, making every speck you see a bustling microscopic city where two completely different life forms share resources to survive on bare rock.",
-  "confusionNotes": "Most likely confused with other orange crusty lichens in the sunburst lichen family, but Orange Atoms' distinctly small, overlapping scales and compact growth pattern help distinguish it from more spreading or powdery orange lichens. Remember: if it looks like tiny orange fish scales on rock, you've found Orange Atoms.",
-  "contextualKnowledge": "This lichen has had quite the scientific name journey - originally described as a variety of a completely different genus before being promoted to its own species, and then moved to yet another genus in 2013 based on DNA studies. This reflects how lichen taxonomy is constantly evolving as scientists better understand these complex partnerships.",
-  "compareHints": "As the only Squamulea species documented in New England, Orange Atoms is distinguished from other orange lichens in its family by its distinctly squamulose (scale-like) growth form rather than a crusty or powdery texture. Unlike the more common orange crusty lichens that form continuous patches, Orange Atoms maintains its characteristic overlapping scale pattern that gives it a more three-dimensional appearance.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Squamulea_subsoluta",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/532349"
 }

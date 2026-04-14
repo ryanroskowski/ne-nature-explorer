@@ -3,6 +3,9 @@
   "taxonId": 146886,
   "group": "insects",
   "commonName": "Red-headed Inchworm Moth",
+  "alternativeNames": [
+    "redheaded inchworm"
+  ],
   "scientificName": "Macaria bisignata",
   "family": "Geometridae",
   "familyCommonName": "Geometer Moths",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Macaria_bisignata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/146886",
   "ecologicalRole": {

@@ -3,6 +3,11 @@
   "taxonId": 14995,
   "group": "birds",
   "commonName": "Gray Catbird",
+  "alternativeNames": [
+    "Grey Catbird",
+    "Cat Bird",
+    "slate-colored mockingbird"
+  ],
   "scientificName": "Dumetella carolinensis",
   "family": "Mimidae",
   "familyCommonName": "Mockingbirds and Thrashers",
@@ -290,6 +295,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Gray_catbird",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/14995",
   "xenoCantoUrl": "https://xeno-canto.org/species/Dumetella-carolinensis"

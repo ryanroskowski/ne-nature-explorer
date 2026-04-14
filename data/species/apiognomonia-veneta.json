@@ -3,6 +3,10 @@
   "taxonId": 68757,
   "group": "fungi",
   "commonName": "sycamore anthracnose",
+  "alternativeNames": [
+    "Sweetgum anthracnose",
+    "Plane Anthracnose"
+  ],
   "scientificName": "Apiognomonia veneta",
   "family": "Gnomoniaceae",
   "familyCommonName": "Gnomoniaceae",
@@ -99,6 +103,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Apiognomonia_veneta",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/68757"
 }

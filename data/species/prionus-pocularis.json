@@ -3,6 +3,9 @@
   "taxonId": 228715,
   "group": "insects",
   "commonName": "Tooth-necked Longhorn Beetle",
+  "alternativeNames": [
+    "Tooth-necked Longhorn"
+  ],
   "scientificName": "Prionus pocularis",
   "family": "Cerambycidae",
   "familyCommonName": "Longhorn Beetles",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Prionus_pocularis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/228715",
   "ecologicalRole": {

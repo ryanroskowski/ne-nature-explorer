@@ -3,6 +3,9 @@
   "taxonId": 198813,
   "group": "insects",
   "commonName": "Compton Tortoiseshell",
+  "alternativeNames": [
+    "False Comma"
+  ],
   "scientificName": "Nymphalis l-album",
   "family": "Nymphalidae",
   "familyCommonName": "Brush-footed Butterflies",
@@ -213,6 +216,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Nymphalis_vaualbum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/198813",
   "ecologicalRole": {

@@ -1,7 +1,7 @@
 {
   "slug": "melanelia-stygia",
   "taxonId": 224578,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Stygian Black-parmelia",
   "scientificName": "Melanelia stygia",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -200,10 +200,11 @@
       "commonName": "Culberson's Black-parmelia",
       "scientificName": "Melanelia culbersonii",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8248064/medium.jpg",
-      "distinction": "Compared to Stygian Black-parmelia, Culberson's has slightly smaller, more tightly arranged lobes and a smoother surface texture without ridges."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Melanelia_stygia",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/224578"
 }

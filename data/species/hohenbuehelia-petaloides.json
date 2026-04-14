@@ -3,6 +3,9 @@
   "taxonId": 154750,
   "group": "fungi",
   "commonName": "Shoehorn Oyster",
+  "alternativeNames": [
+    "Floury Oyster"
+  ],
   "scientificName": "Hohenbuehelia petaloides",
   "family": "Pleurotaceae",
   "familyCommonName": "Pleurotaceae",
@@ -233,6 +236,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hohenbuehelia_petaloides",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/154750"
 }

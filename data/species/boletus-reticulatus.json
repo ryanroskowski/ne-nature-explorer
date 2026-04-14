@@ -3,6 +3,9 @@
   "taxonId": 350216,
   "group": "fungi",
   "commonName": "Summer Bolete",
+  "alternativeNames": [
+    "summer cep"
+  ],
   "scientificName": "Boletus reticulatus",
   "family": "Boletaceae",
   "familyCommonName": "boletes",
@@ -298,6 +301,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Boletus_reticulatus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/350216"
 }

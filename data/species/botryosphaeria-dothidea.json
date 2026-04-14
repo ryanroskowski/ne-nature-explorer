@@ -3,6 +3,9 @@
   "taxonId": 143715,
   "group": "fungi",
   "commonName": "Asteromyia Gall Midge Fungus",
+  "alternativeNames": [
+    "Carbonifera Gall Midge Fungus"
+  ],
   "scientificName": "Botryosphaeria dothidea",
   "family": "Botryosphaeriaceae",
   "familyCommonName": "Botryosphaeriaceae",
@@ -203,6 +206,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Botryosphaeria_dothidea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/143715"
 }

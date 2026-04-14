@@ -3,6 +3,9 @@
   "taxonId": 350832,
   "group": "fungi",
   "commonName": "Four-rayed Earthstar",
+  "alternativeNames": [
+    "Rayed Earthstar"
+  ],
   "scientificName": "Geastrum quadrifidum",
   "family": "Geastraceae",
   "familyCommonName": "Geastraceae",
@@ -194,6 +197,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Geastrum_quadrifidum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/350832"
 }

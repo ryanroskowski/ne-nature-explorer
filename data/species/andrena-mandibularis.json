@@ -3,6 +3,9 @@
   "taxonId": 198984,
   "group": "insects",
   "commonName": "Toothed Miner Bee",
+  "alternativeNames": [
+    "Mandibulate Miner"
+  ],
   "scientificName": "Andrena mandibularis",
   "family": "Andrenidae",
   "familyCommonName": "Miner, Fairy, Allied Panurgine, and Oxaeine Bees",
@@ -540,6 +543,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrena_mandibularis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/198984",
   "ecologicalRole": {

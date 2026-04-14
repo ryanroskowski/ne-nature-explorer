@@ -1,7 +1,7 @@
 {
   "slug": "bryoria-kockiana",
   "taxonId": 462509,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Bryoria kockiana",
   "scientificName": "Bryoria kockiana",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -59,46 +59,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/46250900"
     }
   ],
-  "nameStory": "Kock's horsehair lichen gets its 'horsehair' name from its stringy, thread-like appearance that dangles from tree branches like coarse hair from a horse's mane. The species name 'kockiana' honors a botanist named Kock who contributed to lichen research. When you see these dark, wiry strands hanging from conifer branches, the horsehair comparison becomes immediately obvious.",
-  "description": "Kock's horsehair lichen is a fruticose (shrubby) lichen that grows as long, thin, dark strands hanging from conifer tree branches. It forms tangled masses of hair-like threads that can dangle several inches down from its host tree. This lichen is part of a group called horsehair lichens, all of which have this distinctive stringy, pendant growth form. It's quite rare in New England, making any sighting special for lichen enthusiasts.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms long, thin, thread-like strands that hang down from tree branches like dark hair or string, creating tangled pendant masses",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Dark colored strands, typically appearing blackish or dark brown, with little change between wet and dry conditions",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Always grows on conifer tree branches, never on deciduous trees, rocks, or other surfaces",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Feels wiry and somewhat brittle when dry, like coarse hair or thin string, with a slightly rough texture when rolled between fingers",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual strands are very thin but can grow several inches long, often forming larger hanging clumps",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Kock's horsehair lichen hanging from the branches of conifer trees throughout New England's forests. It prefers spruce, fir, and pine trees in areas with good air quality, as horsehair lichens are sensitive to pollution. You're most likely to spot it in mature coniferous or mixed forests at various elevations.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Visible year-round as dark hanging strands. Spring's increased humidity may make the lichen slightly more pliable and easier to examine closely.",
-    "summer": "Still visible but may appear more brittle and dry during hot weather. Summer is a good time to photograph the contrast between the dark lichen and green conifer needles.",
-    "fall": "Remains unchanged in appearance. Fall's clearer air after leaves drop can make it easier to spot these dark strands against bare branches.",
-    "winter": "Most easily spotted in winter when deciduous leaves are gone and the dark strands stand out dramatically against snow-covered conifer branches."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Horsehair lichens like this one are actually used by birds as nesting material - some species specifically seek out these strong, flexible strands to weave into their nests, creating natural homes reinforced with living organisms!",
-  "confusionNotes": "Kock's horsehair lichen can be confused with other horsehair lichens in the same genus, but it's extremely rare in New England with only one recorded observation. You're much more likely to encounter the more common Horsehair Lichen (Bryoria trichodes). Remember: if you find stringy, hair-like lichens on conifers, you've found a horsehair lichen - identifying the exact species requires expert examination.",
-  "contextualKnowledge": "The Bryoria genus contains several species that look remarkably similar to the untrained eye, and definitive identification often requires microscopic examination or chemical tests. Don't be discouraged if you can't tell the horsehair lichens apart in the field - even experts sometimes need laboratory analysis to be certain of the species.",
-  "compareHints": "Kock's horsehair lichen is virtually indistinguishable from other Bryoria species without close examination. Compared to the more common Horsehair Lichen (Bryoria trichodes), it may have subtle differences in branching patterns or surface texture, but these differences are too minor for reliable field identification. All horsehair lichens share the same basic stringy, pendant growth form on conifers.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "bryoria-furcellata",
@@ -112,17 +86,18 @@
       "commonName": "Horsehair Lichen",
       "scientificName": "Bryoria trichodes",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2237538/medium.JPG",
-      "distinction": "Horsehair Lichen differs from its relatives by having the finest, smoothest strands in the genus - Burred Horsehair Lichen has tiny projections along its strands, while Spiny Gray Horsehair Lichen appears more grayish and has surface irregularities."
+      "distinction": "undefined."
     },
     {
       "slug": "bryoria-nadvornikiana",
       "commonName": "Spiny Gray Horsehair Lichen",
       "scientificName": "Bryoria nadvornikiana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8999642/medium.jpg",
-      "distinction": "Spiny Gray Horsehair Lichen differs from other Bryoria species primarily in its rough, spiny texture - Burred Horsehair Lichen has distinctive bur-like swellings, while regular Horsehair Lichen feels smooth when rubbed between fingers."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bryoria_kockiana",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/462509"
 }

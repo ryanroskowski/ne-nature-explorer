@@ -3,6 +3,9 @@
   "taxonId": 198953,
   "group": "insects",
   "commonName": "Golden-Alexanders Mining Bee",
+  "alternativeNames": [
+    "Golden Alexanders Miner Bee"
+  ],
   "scientificName": "Andrena ziziae",
   "family": "Andrenidae",
   "familyCommonName": "Miner, Fairy, Allied Panurgine, and Oxaeine Bees",
@@ -660,6 +663,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrena_ziziae",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/198953",
   "ecologicalRole": {

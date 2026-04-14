@@ -1,8 +1,11 @@
 {
   "slug": "cladonia-peziziformis",
   "taxonId": 194163,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "turban cup lichen",
+  "alternativeNames": [
+    "turban lichen"
+  ],
   "scientificName": "Cladonia peziziformis",
   "family": "Cladoniaceae",
   "familyCommonName": "spindles and structured lichens",
@@ -12,7 +15,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -139,46 +142,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/19416309"
     }
   ],
-  "nameStory": "The turban cup lichen gets its name from its distinctive cup-shaped fruiting structures that resemble tiny turbans sitting atop small stalks. Like many cup lichens in the Cladonia genus, it forms these characteristic goblet or cup-like structures called podetia that catch the eye of nature explorers.",
-  "description": "Turban cup lichen is a small, cup-forming lichen that belongs to the diverse pixie cup and reindeer lichen family. It produces tiny cup-shaped structures on short stalks, giving it a distinctive turban-like appearance when viewed up close. This fruticose lichen typically grows in small colonies, creating miniature landscapes of cups and goblets. Like other cup lichens, it starts as a crusty base layer and develops its characteristic upright cup structures over time.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms distinctive cup-shaped structures (podetia) on short stalks rising from a crusty base layer, resembling tiny turbans or goblets",
-      "isPrimary": true
-    },
-    {
-      "label": "Size",
-      "description": "Cups are small and delicate, typically less than an inch tall, easily overlooked unless you're looking closely at the ground",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Cups feel papery and fragile to gentle touch, with smooth inner surfaces that may collect tiny debris or rainwater",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Generally pale grayish or brownish when dry, may appear slightly greenish when moist, with cup interiors often lighter than exteriors",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Grows on soil, moss, or decaying organic matter in terrestrial habitats, often among other small lichens and bryophytes",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Based on its single recorded observation in New England, turban cup lichen appears to be quite rare in our region. It likely grows in similar habitats to other cup lichens, preferring acidic soils in open areas such as trail edges, disturbed ground, or sparse woodland clearings. Look for it among mosses and other small ground-dwelling lichens in areas with some exposure to light.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Most visible during wet spring weather when the lichen becomes hydrated and any greenish coloration is enhanced. Cups may collect small amounts of rainwater.",
-    "summer": "Appears dry and pale, with cup structures clearly defined. This may be the best time to spot the distinctive turban-like shape as the lichen dries out and contracts.",
-    "fall": "Maintains its cup structure through autumn rains, often becoming more noticeable as surrounding vegetation dies back and exposes the ground layer.",
-    "winter": "Persists through winter weather, though may be hidden under snow. During mild periods, cups remain intact and identifiable."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Despite being part of a genus with nearly 50 species in New England, turban cup lichen has been recorded only once in our region, making it one of the rarest lichens you could possibly encounter on a nature walk!",
-  "confusionNotes": "Could be confused with other small cup lichens like Pebbled Pixie Cup or Mealy Pixie Cup, but the specific turban-like shape of its cups and their proportions relative to the stalks help distinguish it. Remember: if you think you've found this species, you're probably looking at a more common cup lichen since this one is extremely rare in New England.",
-  "contextualKnowledge": "The extreme rarity of this species in New England (only one recorded observation) means that any potential sighting should be documented carefully and possibly verified by lichen experts. It's much more likely you're seeing one of the many other cup-forming Cladonia species that are common in our region.",
-  "compareHints": "Unlike the bright red caps of British Soldier lichen or the branching antler-like forms of reindeer lichens, turban cup lichen maintains a simple cup-on-stalk structure. It differs from Pebbled Pixie Cup by its more pronounced turban-like cup shape and from Mealy Pixie Cup by lacking the powdery soredia that give that species its \"mealy\" appearance. The key is in the distinctive proportions and shape of its cups compared to other cup lichens.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "cladonia-cristatella",
@@ -331,7 +308,7 @@
       "slug": "cladonia-pyxidata",
       "commonName": "Pebbled Pixie Cup",
       "scientificName": "Cladonia pyxidata",
-      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/163996065/medium.jpg",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/223688997/medium.jpeg",
       "distinction": "Unlike its smooth-surfaced cousin the Mealy Pixie Cup, this species has that distinctive gritty texture."
     },
     {
@@ -388,143 +365,144 @@
       "commonName": "Black-footed Reindeer Lichen",
       "scientificName": "Cladonia stygia",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/373403517/medium.jpeg",
-      "distinction": "Among the reindeer lichens, Black-footed stands out with its dark base coloration - Gray Reindeer Lichen is uniformly pale, while Star-tipped Reindeer Lichen has distinctive star-shaped branch tips."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-cenotea",
       "commonName": "Powdered Funnel Lichen",
       "scientificName": "Cladonia cenotea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/317147880/medium.jpeg",
-      "distinction": "Unlike the bright red caps of British Soldier Lichen or the branching antler-like form of reindeer lichens, Powdered Funnel Lichen has simple, unbranched cups with a distinctive powdery coating."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-multiformis",
       "commonName": "Sieve Lichen",
       "scientificName": "Cladonia multiformis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340554/medium.jpg",
-      "distinction": "Unlike the solid-walled Pebbled Pixie Cup or Mealy Pixie Cup, Sieve Lichen's perforated walls are unmistakable once you know what to look for."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-bellidiflora",
       "commonName": "Toy Soldiers",
       "scientificName": "Cladonia bellidiflora",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/276667118/medium.jpeg",
-      "distinction": "Unlike the bright red caps of British Soldiers or the branching antler-like growth of Reindeer Lichens, Toy Soldiers maintains the simple cup form throughout its life cycle."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-turgida",
       "commonName": "Crazy Scale Lichen",
       "scientificName": "Cladonia turgida",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322873257/medium.jpeg",
-      "distinction": "Unlike the neat cup-forming pixie cups or the branching reindeer lichens in its genus, Crazy Scale Lichen stays low and scaly throughout its life."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-digitata",
       "commonName": "Finger Cup Lichen",
       "scientificName": "Cladonia digitata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/190429785/medium.jpeg",
-      "distinction": "Unlike the unbranched cups of pebbled pixie cup or the red-capped British soldier lichen, finger cup lichen always shows distinctive branching projections from its cups."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-labradorica",
       "commonName": "Labrador Prostrate Cladonia",
       "scientificName": "Cladonia labradorica",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41693749/medium.jpeg",
-      "distinction": "Unlike the familiar gray reindeer lichen which grows in tall, branching cushions, Labrador Prostrate Cladonia stays flat against the ground."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-ramulosa",
       "commonName": "Branched Pixie-cup Lichen",
       "scientificName": "Cladonia ramulosa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/184299746/medium.jpg",
-      "distinction": "Unlike the common Pebbled Pixie Cup which has simple unbranched cups, Branched Pixie-cup develops complex networks of forked branches from its cups."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-sulphurina",
       "commonName": "Greater Sulphur-cup Lichen",
       "scientificName": "Cladonia sulphurina",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/481355241/medium.jpeg",
-      "distinction": "Among its Cladonia relatives, Greater Sulphur-cup stands out for its intense yellow coloring - much brighter than the pale yellows of Common Powderhorn or the reds of British Soldier Lichen."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-rappii",
       "commonName": "Slender Ladder Lichen",
       "scientificName": "Cladonia rappii",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8313077/medium.jpeg",
-      "distinction": "Among the ladder-forming Cladonias, Slender Ladder Lichen is distinguished by its particularly thin stalks and compact size."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-crispata",
       "commonName": "Organ-pipe Lichen",
       "scientificName": "Cladonia crispata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/462506041/medium.jpg",
-      "distinction": "Among its Cladonia relatives, Organ-pipe Lichen stands out for its dramatically flared cup openings - while Trumpet Lichen and various powderhorns have tubes, none have the distinctive organ-pipe flare."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-cervicornis",
       "commonName": "Browned Pixie-cup Lichen",
       "scientificName": "Cladonia cervicornis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/105525517/medium.jpeg",
-      "distinction": "Among the many Cladonia species in New England, Browned Pixie-cup stands out for its brownish cup coloration - most of its relatives like Pebbled Pixie Cup or Mealy Pixie Cup have gray or whitish cups."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-subulata",
       "commonName": "Antlered Powderhorn",
       "scientificName": "Cladonia subulata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/452573008/medium.jpg",
-      "distinction": "Unlike the bright red caps of British Soldier Lichen or the obvious cups of Pebbled Pixie Cup, Antlered Powderhorn focuses its energy on intricate branching rather than showy reproductive structures."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-transcendens",
       "commonName": "Cladonia transcendens",
       "scientificName": "Cladonia transcendens",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/255852090/medium.jpeg",
-      "distinction": "Unlike the common Pebbled Pixie Cup which forms simple, single cups, graduated cup lichen creates distinctive tiered structures."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-botrytes",
       "commonName": "Wooden Soldiers Lichen",
       "scientificName": "Cladonia botrytes",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/306635385/medium.jpeg",
-      "distinction": "Unlike British Soldier lichen which has bright red caps and grows on various surfaces, Wooden Soldiers lacks colorful tops and sticks strictly to decaying wood."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-didyma",
       "commonName": "Southern Soldiers",
       "scientificName": "Cladonia didyma",
       "thumbnailUrl": "https://static.inaturalist.org/photos/30850776/medium.jpg",
-      "distinction": "Unlike the more common British Soldier lichen which has distinctly cup-shaped structures before developing red caps, Southern Soldiers tends to branch more directly into its red-topped forms."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-macrophylla",
       "commonName": "Fig-leaved Pixie Lichen",
       "scientificName": "Cladonia macrophylla",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60250068/medium.jpg",
-      "distinction": "Fig-leaved Pixie Lichen stands out from its Cladonia relatives by having proportionally larger, more distinctly leaf-shaped basal scales compared to species like British Soldier Lichen or Common Powderhorn."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-oricola",
       "commonName": "Cladonia oricola",
       "scientificName": "Cladonia oricola",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101539953/medium.jpeg",
-      "distinction": "Unlike the common British Soldier lichen with its bright red caps, or the branching reindeer lichens, this species maintains the classic small cup shape but in a much more diminutive package."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-pocillum",
       "commonName": "Rosette Pixie-cup Lichen",
       "scientificName": "Cladonia pocillum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/16215315/medium.jpg",
-      "distinction": "Among its Cladonia relatives, Rosette Pixie-cup stands out for its neat rosette clustering pattern, unlike the more randomly scattered cups of Pebbled Pixie Cup or the branching, antler-like forms of reindeer lichens."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-terrae-novae",
       "commonName": "Reindeer Lichen",
       "scientificName": "Cladonia terrae-novae",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1445976/medium.jpeg",
-      "distinction": "Reindeer Lichen differs from its close relative Gray Reindeer Lichen by its denser, more cushion-like growth form and tendency to branch in groups of 3-4 rather than mainly in pairs."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cladonia_peziziformis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/194163"
 }

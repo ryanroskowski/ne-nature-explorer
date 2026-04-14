@@ -1,7 +1,7 @@
 {
   "slug": "hypogymnia-physodes",
   "taxonId": 117971,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Hooded Tube Lichen",
   "scientificName": "Hypogymnia physodes",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -248,6 +248,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hypogymnia_physodes",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/117971"
 }

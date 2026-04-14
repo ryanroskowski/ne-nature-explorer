@@ -3,6 +3,10 @@
   "taxonId": 263173,
   "group": "arachnids",
   "commonName": "Spruce Spider Mite",
+  "alternativeNames": [
+    "Spruce Mite",
+    "Conifer Spinning Mite"
+  ],
   "scientificName": "Oligonychus ununguis",
   "family": "Tetranychidae",
   "familyCommonName": "Spider Mites",
@@ -109,6 +113,7 @@
   "compareHints": "Since this is the only Oligonychus species commonly found in New England, compare it with other spider mites in the same family. Spruce Spider Mites are distinguished by their specific preference for conifers and their reddish color when crushed, while many other spider mites prefer deciduous plants and may not produce the same red staining.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Oligonychus_ununguis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/263173"
 }

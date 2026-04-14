@@ -3,6 +3,11 @@
   "taxonId": 515419,
   "group": "reptiles",
   "commonName": "Eastern Milksnake",
+  "alternativeNames": [
+    "Eastern Milk Snake",
+    "red milk snake",
+    "Red Milksnake"
+  ],
   "scientificName": "Lampropeltis triangulum",
   "family": "Colubridae",
   "familyCommonName": "Colubrid Snakes",
@@ -236,6 +241,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Milk_snake",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/515419"
 }

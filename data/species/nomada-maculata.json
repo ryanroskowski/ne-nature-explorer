@@ -3,6 +3,9 @@
   "taxonId": 1426462,
   "group": "insects",
   "commonName": "Spotted Nomad Bee",
+  "alternativeNames": [
+    "Maculated Cuckoo Nomad Bee"
+  ],
   "scientificName": "Nomada maculata",
   "family": "Apidae",
   "familyCommonName": "Honey Bees, Bumble Bees, and Allies",
@@ -368,6 +371,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426462",
   "ecologicalRole": {

@@ -3,6 +3,11 @@
   "taxonId": 51135,
   "group": "fungi",
   "commonName": "devil's-fingers",
+  "alternativeNames": [
+    "Octopus Stinkhorn",
+    "Devils Fingers",
+    "Seastar Stinkhorn"
+  ],
   "scientificName": "Clathrus archeri",
   "family": "Clathraceae",
   "familyCommonName": "Clathraceae",
@@ -187,6 +192,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Clathrus_archeri",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/51135"
 }

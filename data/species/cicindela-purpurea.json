@@ -3,6 +3,9 @@
   "taxonId": 53598,
   "group": "insects",
   "commonName": "Purple Tiger Beetle",
+  "alternativeNames": [
+    "Cow Path Tiger Beetle"
+  ],
   "scientificName": "Cicindela purpurea",
   "family": "Cicindelidae",
   "familyCommonName": "Tiger Beetles",
@@ -270,6 +273,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cicindela_purpurea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/53598",
   "ecologicalRole": {

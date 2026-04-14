@@ -3,6 +3,9 @@
   "taxonId": 54025,
   "group": "fungi",
   "commonName": "Liberty Cap",
+  "alternativeNames": [
+    "Magic Mushroom"
+  ],
   "scientificName": "Psilocybe semilanceata",
   "family": "Hymenogastraceae",
   "familyCommonName": "Hymenogastraceae",
@@ -199,6 +202,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Psilocybe_semilanceata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/54025"
 }

@@ -3,6 +3,10 @@
   "taxonId": 215458,
   "group": "fish",
   "commonName": "Cusk",
+  "alternativeNames": [
+    "Torsk",
+    "Tusk"
+  ],
   "scientificName": "Brosme brosme",
   "family": "Lotidae",
   "familyCommonName": "Hakes and Burbots",
@@ -154,6 +158,7 @@
   "compareHints": "As the only member of genus Brosme, cusk are unique among New England fish. Compared to their closest relatives in the hake and burbot family, cusk have the distinctive continuous fin arrangement and are strictly marine, while burbot (their closest relative) live in freshwater and have two separate dorsal fins.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cusk_(fish)",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/215458"
 }

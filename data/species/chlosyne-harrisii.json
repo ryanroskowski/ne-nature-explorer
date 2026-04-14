@@ -3,6 +3,9 @@
   "taxonId": 58575,
   "group": "insects",
   "commonName": "Harris's Checkerspot",
+  "alternativeNames": [
+    "Harris' Checkerspot"
+  ],
   "scientificName": "Chlosyne harrisii",
   "family": "Nymphalidae",
   "familyCommonName": "Brush-footed Butterflies",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chlosyne_harrisii",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/58575",
   "ecologicalRole": {

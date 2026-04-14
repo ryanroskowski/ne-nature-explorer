@@ -3,6 +3,9 @@
   "taxonId": 339592,
   "group": "birds",
   "commonName": "Surfbird",
+  "alternativeNames": [
+    "Townsend's Sandpiper"
+  ],
   "scientificName": "Calidris virgata",
   "family": "Scolopacidae",
   "familyCommonName": "Sandpipers and Allies",
@@ -323,6 +326,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Surfbird",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/339592",
   "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-virgata"

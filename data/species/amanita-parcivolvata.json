@@ -3,6 +3,9 @@
   "taxonId": 500030,
   "group": "fungi",
   "commonName": "False Caesar's Mushroom",
+  "alternativeNames": [
+    "Ringless False Fly Agaric"
+  ],
   "scientificName": "Amanita parcivolvata",
   "family": "Amanitaceae",
   "familyCommonName": "amanita mushrooms and allies",
@@ -628,6 +631,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Amanita_parcivolvata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/500030"
 }

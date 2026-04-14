@@ -1,8 +1,11 @@
 {
   "slug": "lepra-amara",
   "taxonId": 630835,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "bitter wart lichen",
+  "alternativeNames": [
+    "Bitter fluff-wart"
+  ],
   "scientificName": "Lepra amara",
   "family": "Pertusariaceae",
   "familyCommonName": "wart lichens, pore lichens, and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "wart lichens, water lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -232,24 +235,25 @@
       "commonName": "Powdered Wart Lichen",
       "scientificName": "Lepra trachythallina",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/16226304/medium.jpeg",
-      "distinction": "Compared to its relatives like Bitter Wart Lichen, Powdered Wart Lichen has that distinctive chalky coating that rubs off easily."
+      "distinction": "undefined."
     },
     {
       "slug": "lepra-multipunctoides",
       "commonName": "Fumarprotocetraric Fluff-Wart",
       "scientificName": "Lepra multipunctoides",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/377438611/medium.jpg",
-      "distinction": "Among its Lepra relatives, this species stands out for its uniquely soft, fluffy texture - bitter wart lichen feels hard and crusty, while Pustule Crust Lichen has obvious raised bumps rather than a cottony surface."
+      "distinction": "undefined."
     },
     {
       "slug": "lepra-albescens",
       "commonName": "Pore lichen",
       "scientificName": "Lepra albescens",
       "thumbnailUrl": "https://static.inaturalist.org/photos/29543607/medium.jpeg",
-      "distinction": "Pore lichen differs from its relatives like bitter wart lichen by its smoother, less warty surface and more prominent pores."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/630835"
 }

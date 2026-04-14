@@ -1,7 +1,7 @@
 {
   "slug": "sticta-beauvoisii",
   "taxonId": 231738,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Fringed Moon Lichen",
   "scientificName": "Sticta beauvoisii",
   "family": "Lobariaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Peltigerales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 7575776,
@@ -115,53 +115,23 @@
       "observationUrl": "https://www.inaturalist.org/observations/23173804"
     }
   ],
-  "nameStory": "The \"Fringed Moon Lichen\" gets its celestial name from the pale, silvery-blue color of its lobes that can shimmer like moonlight filtering through clouds. The \"fringed\" part comes from the delicate, lace-like edges of its leaf-like lobes that create an intricate border around each section.",
-  "description": "Fringed Moon Lichen is a large, leafy lichen that forms spectacular rosettes on tree bark, looking almost like blue-gray lettuce leaves scattered across the trunk. This foliose lichen can grow quite large, with individual colonies reaching 6-8 inches across when mature. Its lobes have an almost rubbery texture and display beautiful blue-gray colors when wet, fading to pale gray or whitish when dry.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Large, leafy lobes that attach loosely to bark like overlapping shingles, with edges that lift away from the surface and feel slightly rubbery to the touch",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Striking blue-gray when wet (like a stormy sky), fading to pale whitish-gray when dry, with the underside showing dark patches and pale areas",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Smooth and somewhat glossy upper surface that feels like thin leather, with intricate ridges and networks visible up close",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Almost exclusively found on the bark of hardwood trees, particularly favoring smooth-barked species in humid forest environments",
-      "isPrimary": false
-    },
-    {
-      "label": "Edges",
-      "description": "Lobes have delicately fringed or scalloped edges that create an ornate, lace-like border around each section",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual lobes can be 1-2 inches wide, with entire colonies growing impressively large over many decades",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Fringed Moon Lichen in mature, humid hardwood forests, especially on the trunks of maple, birch, and beech trees in protected ravines or north-facing slopes. It thrives in areas with consistent moisture and clean air, often found in old-growth or undisturbed forest remnants. This lichen prefers the middle to lower portions of tree trunks where humidity remains high.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Colors become more vibrant with spring rains, showing beautiful blue-gray hues. This is an excellent time to photograph the lichen as frequent moisture keeps it at its most colorful.",
-    "summer": "May appear more faded and pale during dry spells, but thunderstorms and humid nights bring out the striking colors again. Growth is most active during warm, moist summer conditions.",
-    "fall": "Autumn rains rejuvenate the colors beautifully, and the lichen stands out dramatically against colorful fall foliage. Cool, moist conditions make this another prime viewing season.",
-    "winter": "Remains visible and identifiable even under light snow, though colors are more muted. Ice storms can highlight the intricate lobe patterns beautifully."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Fringed Moon Lichen is so sensitive to air pollution that finding a healthy colony is like discovering a natural air quality certificate – it literally cannot survive in areas with significant air contamination, making it a living indicator of pristine forest conditions.",
-  "confusionNotes": "Most likely confused with other large foliose lichens, but the distinctive fringed edges and blue-gray coloration when wet help distinguish it. Remember: \"Fringed edges and blue when wet\" – if the edges are smooth or it never shows blue tones, it's probably a different species.",
-  "contextualKnowledge": "This lichen is extremely rare in New England, with only one recorded observation, making any sighting scientifically significant. Climate change and air pollution have drastically reduced populations of sensitive lichens like this one throughout the region.",
-  "compareHints": "Since this is the only Sticta species commonly found in New England, compare it with other large foliose lichens in the Lobariaceae family like Lung Lichen (Lobaria pulmonaria). Fringed Moon Lichen lacks the distinctive pitted surface texture of Lung Lichen and has much more pronounced fringed edges. The blue-gray wet coloration is also more intense than most related species.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/231738"
 }

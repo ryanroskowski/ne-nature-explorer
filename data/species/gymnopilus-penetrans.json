@@ -3,6 +3,9 @@
   "taxonId": 194304,
   "group": "fungi",
   "commonName": "Common Rustgill",
+  "alternativeNames": [
+    "Scaly Rustgill"
+  ],
   "scientificName": "Gymnopilus penetrans",
   "family": "Hymenogastraceae",
   "familyCommonName": "Hymenogastraceae",
@@ -310,6 +313,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Gymnopilus_sapineus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/194304"
 }

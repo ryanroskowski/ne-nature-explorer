@@ -1,7 +1,7 @@
 {
   "slug": "scoliciosporum-chlorococcum",
   "taxonId": 230642,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "City Dot Lichen",
   "scientificName": "Scoliciosporum chlorococcum",
   "family": "Scoliciosporaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 32598125,
@@ -99,61 +99,31 @@
       "observationUrl": "https://www.inaturalist.org/observations/3477883"
     }
   ],
-  "nameStory": "City Dot Lichen gets its name from its preference for urban environments and its distinctive small, dot-like reproductive structures called apothecia. Unlike many lichens that flee from pollution, this hardy species actually thrives in cities, making it a true urban pioneer. The 'dot' part comes from the tiny black specks scattered across its surface that look like someone dabbed it with a fine-tipped pen.",
-  "description": "City Dot Lichen is a thin, crusty lichen that forms patchy gray-green to yellowish-green coatings on tree bark and concrete surfaces. It grows as a crustose lichen, meaning it lies flat against its substrate like a living paint job that you can't peel off. The thallus (lichen body) is typically small, reaching only 2-4 inches across, and is dotted with tiny black reproductive structures. This urban-adapted species has a somewhat powdery or granular surface texture that feels slightly gritty to the touch.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms a thin, crusty coating that's firmly attached to the substrate - you can't peel it off like paper, and it feels almost painted on",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Gray-green to pale yellowish-green when dry, becoming more vibrant green when wet from rain or morning dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Reproductive Structures",
-      "description": "Tiny black dots (apothecia) scattered across the surface like pepper flakes - these are the key identifying feature",
-      "isPrimary": true
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Feels slightly gritty or powdery to the touch, with a somewhat granular appearance under close inspection",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Commonly found on smooth bark of city trees and concrete surfaces, rarely on rough or deeply furrowed bark",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual patches typically 2-4 inches across, though multiple patches may grow together to cover larger areas",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "City Dot Lichen thrives in urban and suburban environments throughout New England, particularly on the smooth bark of street trees like maples, lindens, and ornamental species. It's commonly found on concrete walls, building foundations, and other artificial surfaces in cities and towns. This pollution-tolerant species is most abundant at lower elevations where human activity is concentrated.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more vibrant green with spring rains, and the black dots (apothecia) may appear more prominent. Surface feels slightly damp and the colors are at their most saturated.",
-    "summer": "Appears more gray-green and dusty during dry periods, but perks up after summer thunderstorms. The granular texture is most noticeable when dry.",
-    "fall": "Colors remain fairly consistent, though wet autumn weather brings out the greener tones. Still easy to spot as deciduous trees lose their leaves.",
-    "winter": "Continues to be visible and identifiable year-round, often appearing more grayish in winter conditions but still showing characteristic black dots."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "While most lichens struggle in polluted city air, City Dot Lichen actually uses nitrogen from car exhaust and urban runoff as fertilizer, making it one of the few lichens that gets stronger as cities get busier!",
-  "confusionNotes": "Most likely confused with other small crustose lichens on urban surfaces, but the combination of granular texture and tiny black dots scattered across a gray-green surface is distinctive. Remember: 'City dots are black spots' - if you see tiny black reproductive structures on a gritty, pale green urban lichen, you've likely found City Dot Lichen.",
+  "funFact": "",
+  "confusionNotes": null,
   "contextualKnowledge": null,
-  "compareHints": "City Dot Lichen differs from its close relative Scoliciosporum pruinosum by having a more granular, powdery surface and preferring urban environments over natural forest settings. The black apothecia in City Dot Lichen are typically smaller and more numerous than those found in other Scoliciosporum species. Its tolerance for pollution and artificial substrates also sets it apart from most other members of its genus.",
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "scoliciosporum-pruinosum",
       "commonName": "Scoliciosporum pruinosum",
       "scientificName": "Scoliciosporum pruinosum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98616674/medium.jpg",
-      "distinction": "Unlike its relative City Dot Lichen which has more obvious dark fruiting bodies and lacks the distinctive powdery coating, this species is characterized by its frosted appearance."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/230642"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "acarospora-privigna",
   "taxonId": 1360646,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Common Coal Dust Lichen",
   "scientificName": "Acarospora privigna",
   "family": "Acarosporaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "cobblestone lichens, eiglera lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -147,46 +147,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/15775307"
     }
   ],
-  "nameStory": "This lichen gets its \"coal dust\" name from its dark, sooty appearance that looks like someone sprinkled fine coal powder on rocks. The scientific name \"privigna\" means \"stepdaughter\" in Latin, perhaps reflecting how this species was initially overlooked or considered secondary to other, more prominent lichens. When you spot it, you'll understand why early naturalists thought it resembled the black dust left behind by coal-burning stoves.",
-  "description": "Common coal dust lichen is a crusty, dark-colored lichen that forms thin patches on rocks and concrete surfaces. It appears as a blackish-gray to charcoal-colored crust that seems almost painted onto its surface, typically spreading 1-3 inches across. Like all lichens, it's actually two organisms living together: a fungus and algae working as partners. The surface is dotted with tiny, darker spots called apothecia (a-po-THEE-see-uh) where the fungus reproduces.",
-  "idTips": [
-    {
-      "label": "Sooty black crust",
-      "description": "Forms a thin, dark charcoal to black crusty layer that feels slightly rough to the touch, like fine sandpaper",
-      "isPrimary": true
-    },
-    {
-      "label": "Tiny dark dots",
-      "description": "Surface is peppered with pinhead-sized, almost black circular spots (apothecia) that are slightly raised and feel like tiny bumps",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock-hugging growth",
-      "description": "Grows so tightly against rock surfaces that it's nearly impossible to peel off without scraping with a fingernail",
-      "isPrimary": false
-    },
-    {
-      "label": "Irregular patches",
-      "description": "Forms roughly circular to irregular patches with slightly lighter gray edges that blend into the darker center",
-      "isPrimary": false
-    },
-    {
-      "label": "Concrete preference",
-      "description": "Often found on human-made surfaces like concrete walls, sidewalks, and stone foundations rather than natural rock",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for common coal dust lichen on concrete walls, sidewalks, stone foundations, and occasionally on natural rock surfaces in urban and suburban areas throughout New England. It thrives in areas with some air pollution and is particularly common on north-facing concrete surfaces that stay moist longer. You'll often spot it in cities and towns rather than pristine wilderness areas.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Most visible after winter moisture has helped it grow and darken. The tiny reproductive structures (apothecia) may be more prominent as the lichen becomes active.",
-    "summer": "Can appear dried out and less noticeable during hot, dry periods, with colors fading to lighter gray-black. Still present but may blend more with concrete surfaces.",
-    "fall": "Becomes more active and visible again with increased moisture, darkening to its characteristic coal-dust appearance. Good time for identification.",
-    "winter": "Remains visible year-round and actually easier to spot on snow-free concrete surfaces. The dark color contrasts nicely against winter's muted palette."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This urban-loving lichen actually thrives in polluted air that would stress many other species, making it one of nature's pollution indicators - finding lots of it suggests you're in an area with significant air quality issues, while its absence in cities might mean the air is cleaner than expected.",
-  "confusionNotes": "Most commonly confused with simple dirt, algae stains, or pollution marks on concrete. The key difference is the tiny raised dots (apothecia) scattered across the surface - dirt and stains don't have these organized reproductive structures. Remember: \"Dots mean lichen, smooth means grime.\"",
-  "contextualKnowledge": "Many people dismiss this lichen as just \"dirty concrete\" or assume it's harmful mold or algae. In reality, lichens are completely harmless and are actually fascinating examples of two different organisms (fungus and algae) living together successfully. They're some of the oldest life forms on Earth and can be found growing in environments from arctic tundra to desert rocks.",
-  "compareHints": "Common coal dust lichen is much darker and more uniformly black than brown cobblestone lichen, which has a brownish or grayish-brown color. Unlike Sinoper lichen which has reddish or orange tints, coal dust lichen maintains its characteristic dark charcoal appearance. All three share the crusty texture and tiny dots, but coal dust lichen's preference for urban concrete surfaces helps distinguish it from its more rock-loving relatives.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "acarospora-fuscata",
@@ -200,10 +174,11 @@
       "commonName": "Sinoper Lichen",
       "scientificName": "Acarospora sinopica",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31350442/medium.jpg",
-      "distinction": "**Uncertainty note: Detailed comparisons are limited due to species rarity."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1360646"
 }

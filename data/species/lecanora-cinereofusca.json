@@ -1,8 +1,11 @@
 {
   "slug": "lecanora-cinereofusca",
   "taxonId": 222840,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Beaded Rim-lichen",
+  "alternativeNames": [
+    "Bark beaded-rim"
+  ],
   "scientificName": "Lecanora cinereofusca",
   "family": "Lecanoraceae",
   "familyCommonName": "rim lichens, disc lichens, and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -131,46 +134,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/22284003"
     }
   ],
-  "nameStory": "The Beaded Rim-lichen gets its name from the tiny, bead-like structures that often form around the edges of its disc-shaped reproductive parts called apothecia. These beaded rims give the lichen a distinctive jewelry-like appearance when viewed up close. The scientific name 'cinereofusca' means 'ashy-brown,' describing its muted earthy coloration.",
-  "description": "Beaded Rim-lichen is a crusty lichen that forms thin, patchy coatings directly on tree bark, looking almost like someone splattered grayish paint that dried and cracked. It produces small, dark disc-shaped structures (apothecia) with characteristic beaded or granular rims that help distinguish it from other bark lichens. This species forms modest patches typically a few inches across, never growing into the large, dramatic displays of some other lichens. Like all crustose lichens, it's so tightly bonded to its host bark that you can't peel it off without damaging it.",
-  "idTips": [
-    {
-      "label": "Reproductive Structures",
-      "description": "Look for small, dark brown to blackish disc-shaped apothecia with distinctly beaded or granular white to pale gray rims that feel slightly rough to the touch",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms a thin, crusty coating that's completely fused to bark and impossible to peel off, with a cracked or areolate surface texture",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Overall ashy-gray to brownish-gray color that may appear slightly darker when wet and lighter when completely dry",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Found exclusively on tree bark, particularly favoring the rough bark of deciduous trees rather than smooth-barked species",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Surface feels rough and gritty like fine sandpaper, with a matte finish that lacks any powdery or sorediate areas",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Beaded Rim-lichen grows on the bark of deciduous trees in New England's mixed and hardwood forests, particularly favoring trees with textured bark like oaks, maples, and ash trees. It's typically found in semi-shaded forest environments rather than completely exposed locations, preferring areas with moderate moisture and air circulation. Look for it in mature forest stands rather than young woodlands or urban areas with heavy air pollution.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more visible as spring moisture darkens the thallus and makes the beaded rims of apothecia more prominent. This is an excellent time to spot the diagnostic rim details.",
-    "summer": "Often appears lighter and more grayish during dry periods, but the characteristic beaded apothecia rims remain visible throughout the season.",
-    "fall": "Color may intensify slightly with increased moisture, and this can be a good time for identification as leaves fall and expose more bark surface.",
-    "winter": "Remains visible year-round on bare bark, often appearing darker when wet from snow or rain, making it easier to distinguish from the bark surface."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Despite being extremely rare in New England with only 3 recorded observations, Beaded Rim-lichen can potentially live for decades or even centuries, meaning some of the specimens you might find could have been quietly growing on the same tree since before your grandparents were born!",
-  "confusionNotes": "Beaded Rim-lichen can be confused with other gray crusty bark lichens, but the beaded or granular rim around its dark apothecia is the key distinguishing feature - most other rim lichens have smooth, unadorned rims. Remember: if the rim looks like tiny beads strung together, you've likely found your match.",
-  "contextualKnowledge": "This lichen is extremely rare in New England, so if you think you've found it, consider taking photos and reporting your observation to local naturalist groups or iNaturalist - you could be documenting a significant regional find that adds to our understanding of lichen distribution in the area.",
-  "compareHints": "Beaded Rim-lichen differs from its many Lecanora relatives primarily through its distinctive beaded apothecia rims - most other rim lichens in the genus have smooth, clean rim edges. Common Rim Lichen and other relatives typically show plain white or pale rims without the granular, beaded texture. The ashy-brown coloration also sets it apart from brighter white species like Pink-eyed White-rim or the more distinctly colored Frosted Rim-lichen.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "lecanora-protervula",
@@ -219,59 +196,60 @@
       "commonName": "Granite-speck Rim Lichen",
       "scientificName": "Lecanora polytropa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/111088029/medium.jpg",
-      "distinction": "Unlike many of its rim lichen relatives that grow on tree bark or soil, Granite-speck Rim Lichen is almost exclusively rock-dwelling."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-oreinoides",
       "commonName": "Sunken Rim-lichen",
       "scientificName": "Lecanora oreinoides",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5463234/medium.jpeg",
-      "distinction": "Unlike Common Rim Lichen which has prominent raised apothecia, or Granite-speck Rim Lichen which tends to form more scattered, speckled patterns, Sunken Rim-lichen's defining characteristic is those distinctive crater-like depressions."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-chlarotera",
       "commonName": "Dusted White-Rim",
       "scientificName": "Lecanora chlarotera",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340589/medium.jpg",
-      "distinction": "Among its rim lichen relatives, Dusted White-Rim stands out for its distinctly powdery surface texture, while species like Common Rim Lichen tend to have smoother surfaces."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-conizaeoides",
       "commonName": "rim lichen",
       "scientificName": "Lecanora conizaeoides",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29549376/medium.jpeg",
-      "distinction": "Among its rim lichen relatives, this species tends to prefer more acidic substrates compared to Common Rim Lichen, which grows on more neutral bark."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-intricata",
       "commonName": "Lecanora intricata",
       "scientificName": "Lecanora intricata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43543715/medium.jpeg",
-      "distinction": "Unlike the more common Granite-speck Rim Lichen which has a smoother surface, Lecanora intricata has that distinctive granular texture."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-pulicaris",
       "commonName": "Common Rim Lichen",
       "scientificName": "Lecanora pulicaris",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/470884105/medium.jpg",
-      "distinction": "**Uncertain comparison warning** Among its Lecanora relatives, Common Rim Lichen is distinguished by its preference for exposed rock (unlike bark-dwelling species like Mealy Rim-lichen) and its particularly well-defined raised rims around the apothecia."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-subimmergens",
       "commonName": "rim lichen",
       "scientificName": "Lecanora subimmergens",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/353878033/medium.jpeg",
-      "distinction": "Unlike its more common relatives like Common Rim Lichen which often grows on tree bark, rim lichen is strictly a rock specialist."
+      "distinction": "undefined."
     },
     {
       "slug": "lecanora-symmicta",
       "commonName": "Fused Rim Lichen",
       "scientificName": "Lecanora symmicta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/347709977/medium.jpg",
-      "distinction": "Unlike the Common Rim Lichen which has clearly separate, well-defined disc structures, Fused Rim Lichen's reproductive bodies appear to merge together."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lecanora_cinereofusca",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/222840"
 }

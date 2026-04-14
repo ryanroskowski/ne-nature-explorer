@@ -3,6 +3,9 @@
   "taxonId": 1668859,
   "group": "amphibians",
   "commonName": "Squirrel Tree Frog",
+  "alternativeNames": [
+    "Squirrel Treefrog"
+  ],
   "scientificName": "Dryophytes squirellus",
   "family": "Hylidae",
   "familyCommonName": "Hyline Tree Frogs",
@@ -253,6 +256,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Squirrel_tree_frog",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1668859",
   "xenoCantoUrl": "https://xeno-canto.org/species/Dryophytes-squirellus"

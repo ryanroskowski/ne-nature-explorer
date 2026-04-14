@@ -3,6 +3,10 @@
   "taxonId": 6930,
   "group": "birds",
   "commonName": "Mallard",
+  "alternativeNames": [
+    "Mallard Duck",
+    "Greenhead"
+  ],
   "scientificName": "Anas platyrhynchos",
   "family": "Anatidae",
   "familyCommonName": "Ducks, Geese, and Swans",
@@ -309,6 +313,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Mallard",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/6930",
   "xenoCantoUrl": "https://xeno-canto.org/species/Anas-platyrhynchos"

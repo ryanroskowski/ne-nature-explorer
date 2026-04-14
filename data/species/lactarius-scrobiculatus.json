@@ -3,6 +3,9 @@
   "taxonId": 351305,
   "group": "fungi",
   "commonName": "spotted milkcap",
+  "alternativeNames": [
+    "Scrobiculate Milk Cap"
+  ],
   "scientificName": "Lactarius scrobiculatus",
   "family": "Russulaceae",
   "familyCommonName": "Milkcaps, Brittlegills and Allies",
@@ -441,6 +444,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lactarius_scrobiculatus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/351305"
 }

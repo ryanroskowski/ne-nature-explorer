@@ -1,7 +1,7 @@
 {
   "slug": "polycauliona-verruculifera",
   "taxonId": 463842,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Ringed Firedot Lichen",
   "scientificName": "Polycauliona verruculifera",
   "family": "Teloschistaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Sunburst Lichens and Allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -224,10 +224,11 @@
       "commonName": "Shrubby Sunburst Lichen",
       "scientificName": "Polycauliona candelaria",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3618475/medium.jpg",
-      "distinction": "Shrubby Sunburst Lichen differs from its close relative Pin-cushion Sunburst Lichen by having a more irregular, branching growth pattern rather than neat cushion-like bumps."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Verrucoplaca",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/463842"
 }

@@ -1,8 +1,11 @@
 {
   "slug": "teloschistes-chrysophthalmus",
   "taxonId": 55553,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Golden-eye Lichen",
+  "alternativeNames": [
+    "Goldeneye Lichen"
+  ],
   "scientificName": "Teloschistes chrysophthalmus",
   "family": "Teloschistaceae",
   "familyCommonName": "sunburst lichens, firedots, and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "Sunburst Lichens and Allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -216,6 +219,7 @@
   "compareHints": "Golden-eye lichen is the only member of its genus (Teloschistes) recorded in New England, making it unique in the region. Compared to other members of the sunburst lichen family, it stands out with its distinctive fruticose growth form - most of its relatives are flatter, crusty types. The combination of three-dimensional branching structure and bright orange 'eyes' with spiny rims makes it unmistakable among New England lichens.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Teloschistes_chrysophthalmus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/55553"
 }

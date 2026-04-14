@@ -3,6 +3,13 @@
   "taxonId": 81554,
   "group": "fish",
   "commonName": "Channel Catfish",
+  "alternativeNames": [
+    "Channel Cat",
+    "Spotted Catfish",
+    "Speckled Catfish",
+    "Silver Catfish",
+    "Graceful catfish"
+  ],
   "scientificName": "Ictalurus punctatus",
   "family": "Ictaluridae",
   "familyCommonName": "North American Freshwater Catfishes",
@@ -202,6 +209,7 @@
   "compareHints": "Channel catfish are the only member of their genus commonly found in New England waters. Compared to other catfish in the region like brown bullheads or white catfish, channel cats are more streamlined with deeply forked tails and prefer flowing water over still ponds. Their barbels are also proportionally longer and more prominent than those of smaller bullhead species.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Channel_catfish",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/81554"
 }

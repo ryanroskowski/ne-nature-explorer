@@ -3,6 +3,10 @@
   "taxonId": 452931,
   "group": "insects",
   "commonName": "Canadian Cellophane-cuckoo Bee",
+  "alternativeNames": [
+    "Canada Cellophane-cuckoo Bee",
+    "Canadian cuckoo nomad bee"
+  ],
   "scientificName": "Epeolus canadensis",
   "family": "Apidae",
   "familyCommonName": "Honey Bees, Bumble Bees, and Allies",
@@ -261,6 +265,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Epeolus_canadensis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/452931",
   "ecologicalRole": {

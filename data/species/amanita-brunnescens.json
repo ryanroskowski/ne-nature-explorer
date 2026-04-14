@@ -3,6 +3,9 @@
   "taxonId": 58692,
   "group": "fungi",
   "commonName": "Brown American Star-footed Amanita",
+  "alternativeNames": [
+    "Cleft-footed Amanita"
+  ],
   "scientificName": "Amanita brunnescens",
   "family": "Amanitaceae",
   "familyCommonName": "amanita mushrooms and allies",
@@ -675,6 +678,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Amanita_brunnescens",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/58692"
 }

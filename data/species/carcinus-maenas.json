@@ -3,6 +3,13 @@
   "taxonId": 52523,
   "group": "crustaceans",
   "commonName": "European Green Crab",
+  "alternativeNames": [
+    "Green Shore Crab",
+    "Shore Crab",
+    "European Shorecrab",
+    "Green Crab",
+    "European Shore Crab"
+  ],
   "scientificName": "Carcinus maenas",
   "family": "Carcinidae",
   "familyCommonName": "Carcinidae",
@@ -205,6 +212,7 @@
   "compareHints": "Since this is the only green crab species in New England waters, compare it to native Rock Crabs and Jonah Crabs which share similar habitats. European Green Crabs are generally smaller and more aggressive than these natives, with their distinctive five-spine pattern being the dead giveaway. Unlike the chunky, heavy-bodied Rock Crabs, Green Crabs have a more streamlined, athletic build that reflects their active predatory lifestyle.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Carcinus_maenas",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/52523"
 }

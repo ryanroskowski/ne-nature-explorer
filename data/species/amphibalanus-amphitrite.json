@@ -3,6 +3,9 @@
   "taxonId": 119104,
   "group": "crustaceans",
   "commonName": "Striped Barnacle",
+  "alternativeNames": [
+    "Salton Sea barnacle"
+  ],
   "scientificName": "Amphibalanus amphitrite",
   "family": "Balanidae",
   "familyCommonName": "Balanidae",
@@ -218,6 +221,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Amphibalanus_amphitrite",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/119104"
 }

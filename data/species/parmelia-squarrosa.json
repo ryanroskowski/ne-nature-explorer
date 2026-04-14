@@ -1,7 +1,7 @@
 {
   "slug": "parmelia-squarrosa",
   "taxonId": 125728,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Bottlebrush Shield Lichen",
   "scientificName": "Parmelia squarrosa",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -246,10 +246,11 @@
       "commonName": "Parmelia fertilis",
       "scientificName": "Parmelia fertilis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/166835535/medium.jpg",
-      "distinction": "Among the shield lichens, fertile shield lichen is distinguished by its pale, prominent pores and frequent fruiting body production."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Parmelia_squarrosa",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/125728"
 }

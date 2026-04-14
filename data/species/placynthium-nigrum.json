@@ -1,7 +1,7 @@
 {
   "slug": "placynthium-nigrum",
   "taxonId": 228248,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Blackthread Lichen",
   "scientificName": "Placynthium nigrum",
   "family": "Placynthiaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Peltigerales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -147,61 +147,31 @@
       "observationUrl": "https://www.inaturalist.org/observations/166425991"
     }
   ],
-  "nameStory": "The name \"Blackthread Lichen\" comes from its distinctive appearance of thin, dark lines that look like tiny black threads drawn across rock surfaces. When you spot this lichen, it truly does resemble someone took a fine-tipped black marker and sketched delicate, branching lines on stone.",
-  "description": "Blackthread Lichen is a crustose lichen that forms intricate networks of thin, dark lines across rock surfaces. The lichen grows as narrow, thread-like structures that branch and interconnect, creating patterns that can span several inches across a rock face. Individual \"threads\" are typically just 1-2 millimeters wide, but colonies can cover areas up to 6 inches or more in diameter. This lichen forms such a tight bond with its rock substrate that it appears almost painted onto the surface.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms narrow, thread-like lines that branch and merge like a delicate black river system across rock surfaces",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Deep black to dark gray when dry, may appear slightly more brownish when wet - the color remains quite dark in all conditions",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Found exclusively on limestone, marble, and other calcium-rich rocks - never on acidic stones like granite",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Feels completely smooth and flush with the rock surface - you can barely detect it with your fingertips as it's so thin",
-      "isPrimary": false
-    },
-    {
-      "label": "Reproductive Structures",
-      "description": "Tiny black dots (apothecia) may appear along the thread-like branches, but are often absent and hard to spot without magnification",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual threads are hair-thin (1-2mm wide) but colonies can sprawl across hand-sized areas of rock",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Blackthread Lichen on exposed limestone cliffs, marble outcrops, and calcium-rich rock faces throughout New England's mountainous regions. It prefers well-lit but not scorching locations, often on vertical or slightly overhanging rock surfaces that stay relatively dry. You'll most commonly find it in areas where limestone bedrock is exposed, such as certain parts of Vermont's marble regions or limestone formations in western Massachusetts.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "More visible after spring rains when the dark threads contrast sharply against wet, light-colored limestone. Growth may be slightly more active during mild, moist spring weather.",
-    "summer": "Often less noticeable during hot, dry periods when both lichen and rock appear dusty and faded. Look for it in shadier spots or after summer thunderstorms.",
-    "fall": "Autumn moisture makes the black threads very prominent against pale rock surfaces. This is often the best time for photography and identification.",
-    "winter": "Remains visible under snow cover and may be easier to spot against snow-dusted rocks. The lichen is completely dormant but well-preserved."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is so rare in New England that it's been documented only twice in the entire region - making it one of our most elusive lichen species and a true treasure for any nature explorer lucky enough to find it!",
-  "confusionNotes": "Could be mistaken for dark mineral veins in rock or even permanent marker graffiti, but mineral veins typically follow geological fracture patterns while Blackthread Lichen creates more organic, branching networks. Unlike mineral stains, the lichen has a very slightly raised texture if you look closely.",
-  "contextualKnowledge": "**Uncertain claim flagged**: The extreme rarity (only 2 observations) in New England suggests this species may be at the edge of its range or requires very specific microhabitat conditions that are uncommon in our region.",
-  "compareHints": "Blackthread Lichen differs from its relative Scaly Ink Lichen by forming continuous thread-like lines rather than small, separate scale-like patches. While Scaly Ink Lichen looks like tiny dark flakes scattered on rock, Blackthread creates connected linear networks. Both prefer limestone, but Blackthread's linear growth form is unmistakable once you know what to look for.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "placynthium-flabellosum",
       "commonName": "Scaly Ink Lichen",
       "scientificName": "Placynthium flabellosum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23567938/medium.jpg",
-      "distinction": "Scaly Ink Lichen differs from its relative Blackthread Lichen by having distinct overlapping scales rather than a smooth or granular surface."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/228248"
 }

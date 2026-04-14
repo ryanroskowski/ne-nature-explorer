@@ -3,6 +3,10 @@
   "taxonId": 9420,
   "group": "birds",
   "commonName": "Spotted Towhee",
+  "alternativeNames": [
+    "Western Rufous-sided Towhee",
+    "Spotted Rufous-sided Towhee"
+  ],
   "scientificName": "Pipilo maculatus",
   "family": "Passerellidae",
   "familyCommonName": "New World Sparrows",
@@ -295,6 +299,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Spotted_towhee",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/9420",
   "xenoCantoUrl": "https://xeno-canto.org/species/Pipilo-maculatus"

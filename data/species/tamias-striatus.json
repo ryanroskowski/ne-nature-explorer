@@ -3,6 +3,12 @@
   "taxonId": 46217,
   "group": "mammals",
   "commonName": "Eastern Chipmunk",
+  "alternativeNames": [
+    "Chipping Squirrel",
+    "Chippie",
+    "Hackee",
+    "Ground Squirrel"
+  ],
   "scientificName": "Tamias striatus",
   "family": "Sciuridae",
   "familyCommonName": "Squirrels",
@@ -194,6 +200,7 @@
   "compareHints": "Eastern chipmunks are the only chipmunk species in New England, making them unique in their genus here. Compared to their closest relatives in the squirrel family, they're much smaller than gray squirrels (which lack stripes entirely) and have more prominent stripes than the rusty-colored red squirrels. Unlike tree squirrels, chipmunks have internal cheek pouches and are primarily ground-dwelling rather than arboreal.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_chipmunk",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/46217"
 }

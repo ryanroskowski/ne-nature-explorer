@@ -1,7 +1,7 @@
 {
   "slug": "physciella-melanchra",
   "taxonId": 228063,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Mealy Cryptic Shade Lichen",
   "scientificName": "Physciella melanchra",
   "family": "Physciaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "button lichens, rosette lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -107,46 +107,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/37708647"
     }
   ],
-  "nameStory": "This lichen gets its 'mealy' name from its powdery, flour-like appearance on the surface, especially along the edges where tiny granules give it a distinctly dusty texture. The 'cryptic shade' part refers to how it quietly hides in shadowy spots where most people wouldn't think to look, making it a secretive resident of New England's dimmer corners.",
-  "description": "The Mealy Cryptic Shade Lichen is a small, crusty organism that forms grayish patches on tree bark and rocks. Like all lichens, it's actually two organisms living together - a fungus and algae working as partners to survive. These patches typically grow 1-3 inches across and have a distinctly powdery, granular surface that feels gritty to the touch. You'll find small, dark reproductive structures (called apothecia) scattered across the surface like tiny black dots.",
-  "idTips": [
-    {
-      "label": "Mealy surface texture",
-      "description": "The surface feels distinctly gritty and powdery, like coarse flour or cornmeal, especially prominent along the growing edges",
-      "isPrimary": true
-    },
-    {
-      "label": "Grayish coloration",
-      "description": "Overall pale gray to whitish-gray color that may appear slightly greenish when damp",
-      "isPrimary": false
-    },
-    {
-      "label": "Dark reproductive dots",
-      "description": "Small black circular structures (apothecia) scattered across the surface, usually less than 2mm wide",
-      "isPrimary": false
-    },
-    {
-      "label": "Crusty growth form",
-      "description": "Forms thin, crusty patches that adhere tightly to the substrate and cannot be peeled off in sheets",
-      "isPrimary": false
-    },
-    {
-      "label": "Size and shape",
-      "description": "Irregular patches typically 1-3 inches across with no distinct lobes or leaf-like structures",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for this lichen on the bark of deciduous trees, particularly in shaded forest understories and along woodland edges where humidity stays higher. It prefers smooth-barked trees and occasionally colonizes shaded rock faces. You're most likely to spot it in mixed hardwood forests at low to mid elevations throughout New England.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more noticeable as it absorbs moisture from spring rains, appearing slightly more greenish and vibrant. Good time to spot the contrast between the mealy surface and dark reproductive structures.",
-    "summer": "May appear duller and more grayish during dry periods, but the powdery texture remains distinctive. Summer humidity helps maintain its visibility.",
-    "fall": "Often most apparent as deciduous canopy opens up, allowing more light to reach previously hidden patches. The mealy texture remains consistent.",
-    "winter": "Continues to be visible year-round, sometimes appearing more prominent against snow-covered surroundings. Cold weather doesn't affect its identifying characteristics."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen can actually 'hold its breath' for months during dry spells, shutting down all life processes and becoming completely dormant, then spring back to active photosynthesis within minutes of getting wet again - essentially going from dead-looking to alive faster than you can make a cup of coffee!",
-  "confusionNotes": "Most easily confused with other crusty gray lichens on bark, but the distinctly mealy, flour-like texture sets it apart - if it feels smooth or has obvious leaf-like lobes, it's something else. Memory trick: 'Mealy means gritty' - run your finger gently across it and you should feel that granular texture.",
-  "contextualKnowledge": "With only 2 recorded observations in New England, this is either a very rare species or one that's easily overlooked - many small crusty lichens get lumped together as 'gray stuff on trees' by casual observers, so there may be more out there waiting to be properly identified by patient naturalists.",
-  "compareHints": "The Mealy Cryptic Shade Lichen differs from its close relative, the Powdery-margined Cryptic Shade Lichen, primarily in where the powdery texture appears - this species has the mealy texture across the entire surface, while its cousin concentrates the powder mainly along the margins. Both prefer similar shaded habitats, but the Mealy species tends to have a more uniformly granular feel throughout.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "physciella-chloantha",
@@ -157,6 +131,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/228063"
 }

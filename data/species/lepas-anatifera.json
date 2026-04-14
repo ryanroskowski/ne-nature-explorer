@@ -3,6 +3,11 @@
   "taxonId": 69949,
   "group": "crustaceans",
   "commonName": "Pelagic Gooseneck Barnacle",
+  "alternativeNames": [
+    "Smooth Gooseneck Barnacle",
+    "duck barnacle",
+    "Goose barnacle"
+  ],
   "scientificName": "Lepas anatifera",
   "family": "Lepadidae",
   "familyCommonName": "Goose Barnacles",
@@ -241,6 +246,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lepas_anatifera",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/69949"
 }

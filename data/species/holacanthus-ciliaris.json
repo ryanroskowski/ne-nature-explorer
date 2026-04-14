@@ -3,6 +3,9 @@
   "taxonId": 47235,
   "group": "fish",
   "commonName": "Queen Angelfish",
+  "alternativeNames": [
+    "Blue angelfish"
+  ],
   "scientificName": "Holacanthus ciliaris",
   "family": "Pomacanthidae",
   "familyCommonName": "Angelfishes",
@@ -205,6 +208,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Queen_angelfish",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/47235"
 }

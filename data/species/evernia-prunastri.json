@@ -1,8 +1,13 @@
 {
   "slug": "evernia-prunastri",
   "taxonId": 123175,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Oakmoss",
+  "alternativeNames": [
+    "Oakmoss lichen",
+    "Antlered Perfume",
+    "Oak moss lichen"
+  ],
   "scientificName": "Evernia prunastri",
   "family": "Parmeliaceae",
   "familyCommonName": "shield lichens and allies",
@@ -12,7 +17,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -147,46 +152,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/12317510"
     }
   ],
-  "nameStory": "Oakmoss gets its name from its preference for growing on oak trees, where it drapes like tiny moss from branches and trunks. Though it's not actually a moss at all, early observers thought its soft, branching form looked remarkably similar to the mosses they knew from forest floors.",
-  "description": "Oakmoss is a fruticose lichen that forms small, branching tufts that hang or spread from tree bark like miniature antlers. These pale greenish-gray to whitish clumps are typically 3-4 cm long and have a soft, almost fuzzy texture. The branches are flattened and repeatedly fork, creating an intricate network that's lighter colored on top and darker underneath.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms branching, antler-like tufts that hang or spread from bark, with flattened branches that fork repeatedly like tiny deer antlers",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Pale greenish-gray to whitish on top, darker grayish underneath; colors become more vivid when wet",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Feels soft and slightly fuzzy to the touch, not rough or crusty like many other lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Small tufts typically 3-4 cm long, forming modest colonies rather than large patches",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Grows primarily on oak bark but also found on other deciduous trees and occasionally conifers like fir and pine",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for oakmoss in mountainous temperate forests throughout New England, particularly on oak trees but also other deciduous species. It thrives in areas with good air quality and moderate moisture, often in mature forest settings where trees have had time to develop the right bark conditions.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Fresh spring moisture brings out the greenish tones in the lichen, making it more noticeable against dark, wet bark.",
-    "summer": "During dry periods, oakmoss appears more whitish-gray and may seem less prominent, but it's still easily identifiable by its distinctive branching form.",
-    "fall": "Autumn rains revive the colors, and the lichen stands out beautifully against colorful fall foliage and freshly wet bark.",
-    "winter": "Snow and ice highlight the delicate branching structure, making winter an excellent time to spot its antler-like growth pattern against dark tree trunks."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Oakmoss is highly prized in the perfume industry and has been used as a base note in fragrances for centuries—you might literally be wearing this New England lichen without knowing it!",
-  "confusionNotes": "Could be confused with other small, branching lichens, but oakmoss has distinctively flattened branches that fork repeatedly, unlike the more cylindrical branches of many similar species. Remember: flat forks favor oakmoss!",
-  "contextualKnowledge": "Despite its name suggesting it only grows on oaks, this lichen is quite adaptable and will happily colonize many different tree species when conditions are right.",
-  "compareHints": "Oakmoss differs from its relative Boreal Oakmoss by being generally smaller and having more delicate, flattened branches. While Boreal Oakmoss tends to prefer cooler, more northern locations, regular oakmoss is more adaptable to various forest conditions throughout New England's temperate zones.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "evernia-mesomorpha",
@@ -197,6 +176,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Evernia_prunastri",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/123175"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "pertusaria-sulcata",
   "taxonId": 227580,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Pertusaria sulcata",
   "scientificName": "Pertusaria sulcata",
   "family": "Pertusariaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "wart lichens, water lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 88171783,
@@ -59,46 +59,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/22758000"
     }
   ],
-  "nameStory": "The species name 'sulcata' comes from the Latin word meaning 'furrowed' or 'grooved,' referring to the distinctive channels and ridges that mark this lichen's surface. While it doesn't have a widely-used common name, it belongs to the group called pore lichens because of the tiny pores where spores are released.",
-  "description": "Pertusaria sulcata is a crusty lichen that forms thick, whitish to pale gray patches on tree bark and rocks. This composite organism is actually two living things working together - a fungus and algae - creating what looks like rough, warty growths with distinctive grooves and ridges. The patches can spread several inches across and feel quite thick and bumpy to the touch, almost like hardened paint that's been textured.",
-  "idTips": [
-    {
-      "label": "Grooved surface texture",
-      "description": "Look for distinctive furrows and ridges running across the surface, giving it a wrinkled or brain-like appearance that you can feel with your finger",
-      "isPrimary": true
-    },
-    {
-      "label": "Thick, crusty growth",
-      "description": "The lichen forms substantial, raised patches that feel firm and chalky, much thicker than many other crusty lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Pale coloration",
-      "description": "Ranges from whitish to pale gray, sometimes with a slightly greenish tint when moist",
-      "isPrimary": false
-    },
-    {
-      "label": "Small dark pores",
-      "description": "Tiny black dots scattered across the surface are the spore-releasing structures, often barely visible without close inspection",
-      "isPrimary": false
-    },
-    {
-      "label": "Bark preference",
-      "description": "Most commonly found on the bark of deciduous trees, where it feels firmly attached and difficult to scrape off",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "This lichen grows on the bark of deciduous trees in mature forests throughout New England, particularly favoring oak, maple, and ash trees. It prefers areas with good air quality and moderate moisture, often found in well-established woodlands rather than disturbed or urban areas.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The lichen may appear slightly more vibrant as moisture returns, with any greenish tints becoming more noticeable. Grooved textures remain constant year-round.",
-    "summer": "During dry periods, the lichen becomes more whitish and chalky in appearance. The thick, crusty texture helps it survive hot, dry conditions.",
-    "fall": "Easier to spot on deciduous trees as leaves drop, revealing the distinctive grooved patches on bark. Color remains fairly consistent.",
-    "winter": "Most visible season for identification as bare tree trunks expose the lichen clearly. The thick, crusty texture remains unchanged by cold weather."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is essentially a solar-powered partnership where the fungus builds the 'house' and the algae cook the 'food' using sunlight - and they're so successful at this arrangement that they can live for decades on the same tree, slowly growing outward year by year.",
-  "confusionNotes": "It can be confused with other crusty white lichens, but the distinctive grooved surface texture is the key difference - run your finger across it and you'll feel the ridges and furrows that give this species its name.",
-  "contextualKnowledge": "Like many lichens, Pertusaria sulcata is sensitive to air pollution, so finding healthy specimens often indicates good local air quality. The scientific naming can be confusing since this species lacks a widely-accepted common name, making it one of those organisms better known by its Latin name.",
-  "compareHints": "Unlike Rock Wart Lichen which forms obvious rounded bumps, or Branch Bumps which creates pustule-like growths, Pertusaria sulcata is distinguished by its grooved, furrowed surface texture. While other Pertusaria species tend to be warty or bumpy, sulcata's ridged appearance makes it relatively easy to separate from its relatives once you know what to feel for.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "pertusaria-plittiana",
@@ -119,24 +93,25 @@
       "commonName": "Macoun's Wart Lichen",
       "scientificName": "Pertusaria macounii",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114097124/medium.jpeg",
-      "distinction": "Macoun's Wart Lichen differs from its Pertusaria relatives by having more prominent, well-defined warty bumps compared to the flatter Rock Wart Lichen or the more pustule-like Branch Bumps."
+      "distinction": "undefined."
     },
     {
       "slug": "pertusaria-rubefacta",
       "commonName": "Pertusaria rubefacta",
       "scientificName": "Pertusaria rubefacta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7787147/medium.jpg",
-      "distinction": "Unlike its more common relatives Rock Wart Lichen and Branch Bumps, this species shows distinctive reddish coloration rather than plain gray or white."
+      "distinction": "undefined."
     },
     {
       "slug": "pertusaria-texana",
       "commonName": "Texas Wart Lichen",
       "scientificName": "Pertusaria texana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13437981/medium.jpeg",
-      "distinction": "Texas Wart Lichen differs from its Pertusaria relatives by having more distinctly rounded, wart-like bumps compared to the irregular lumps of Rock Wart Lichen or the pustule-like swellings of Branch Bumps."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/227580"
 }

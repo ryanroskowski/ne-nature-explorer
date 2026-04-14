@@ -3,6 +3,9 @@
   "taxonId": 491859,
   "group": "fungi",
   "commonName": "Woolly Velvet Polypore",
+  "alternativeNames": [
+    "velvet rosette"
+  ],
   "scientificName": "Onnia tomentosa",
   "family": "Hymenochaetaceae",
   "familyCommonName": "Hymenochaetaceae",
@@ -240,6 +243,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Onnia_tomentosa",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/491859"
 }

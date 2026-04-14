@@ -3,6 +3,9 @@
   "taxonId": 127754,
   "group": "insects",
   "commonName": "White-banded Sweat Bee",
+  "alternativeNames": [
+    "White-zoned Furrow Bee"
+  ],
   "scientificName": "Lasioglossum leucozonium",
   "family": "Halictidae",
   "familyCommonName": "Sweat Bees",
@@ -514,6 +517,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lasioglossum_leucozonium",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/127754",
   "ecologicalRole": {

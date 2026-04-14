@@ -3,6 +3,9 @@
   "taxonId": 17356,
   "group": "birds",
   "commonName": "Bell's Vireo",
+  "alternativeNames": [
+    "Least Vireo"
+  ],
   "scientificName": "Vireo bellii",
   "family": "Vireonidae",
   "familyCommonName": "Vireos, Shrike-Babblers, and Erpornis",
@@ -344,6 +347,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bell's_vireo",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/17356",
   "xenoCantoUrl": "https://xeno-canto.org/species/Vireo-bellii"

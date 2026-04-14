@@ -1,7 +1,7 @@
 {
   "slug": "sarcogyne-pruinosa",
   "taxonId": 1640995,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Frosted Grain-spored Lichen",
   "scientificName": "Sarcogyne pruinosa",
   "family": "Acarosporaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "cobblestone lichens, eiglera lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -115,46 +115,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/164099501"
     }
   ],
-  "nameStory": "The \"frosted\" name comes from the white, powdery bloom that covers this lichen's surface, making it look like someone dusted it with flour or frost. The \"grain-spored\" part refers to the tiny, grain-like spores this lichen produces - visible only under a microscope but important enough to name the whole genus after.",
-  "description": "Frosted Grain-spored Lichen is a crusty lichen that forms thin, grayish patches on rocks and concrete surfaces. It creates small, scattered colonies that look like splashes of gray paint with a white, powdery coating. Individual patches are typically less than an inch across, though several may grow together to cover larger areas.",
-  "idTips": [
-    {
-      "label": "White powdery coating",
-      "description": "The surface has a distinctive white, chalky bloom that feels slightly gritty if you gently touch it - like fine flour dusted over gray paint",
-      "isPrimary": true
-    },
-    {
-      "label": "Crusty texture",
-      "description": "Forms a thin, crusty layer that's firmly attached to the substrate and feels rough and slightly brittle to the touch",
-      "isPrimary": false
-    },
-    {
-      "label": "Gray base color",
-      "description": "Underneath the white coating, the lichen body is pale to medium gray, sometimes with a slightly greenish tint",
-      "isPrimary": false
-    },
-    {
-      "label": "Small scattered patches",
-      "description": "Grows in small, irregular patches usually less than an inch wide, often appearing as disconnected spots rather than large continuous areas",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock and concrete preference",
-      "description": "Almost always found growing directly on hard surfaces like granite, concrete, or stone walls rather than on wood or soil",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Frosted Grain-spored Lichen on exposed rock faces, stone walls, concrete structures, and granite outcrops throughout New England. It particularly favors urban and suburban environments where it colonizes sidewalks, building foundations, and cemetery monuments. This hardy lichen thrives in areas with good air circulation and periodic moisture from rain or dew.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The white powdery coating becomes more pronounced as spring rains wash away accumulated debris. New growth may appear as fresh gray patches.",
-    "summer": "During dry periods, the lichen appears more gray and less vibrant, with the frosted coating most visible in shaded areas that retain some moisture.",
-    "fall": "Fall rains refresh the appearance, making the white coating more obvious and the gray base color more saturated and easier to distinguish.",
-    "winter": "The lichen remains visible year-round, often standing out starkly against snow-covered rocks. Cold weather makes the crusty texture more brittle."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This tiny lichen is actually a pollution detective - it's surprisingly tolerant of urban air pollution and can thrive on city sidewalks and buildings where many other lichens can't survive, making it one of nature's urban pioneers.",
-  "confusionNotes": "Most easily confused with other crusty gray lichens on rocks, but the distinctive white powdery coating sets it apart. Remember: if it looks like someone dusted flour on gray paint, you've probably found your frosted lichen.",
-  "contextualKnowledge": "**Note: This identification is based on limited reference material. With only one recorded observation in New England, this species may be quite rare in our region or possibly misidentified in databases. Exercise caution with this identification and consider consulting local lichen experts.**",
-  "compareHints": "Compared to its relative Big-disk grain-spore (Sarcogyne clavus), Frosted Grain-spored Lichen has a much more prominent white powdery coating and forms smaller, more scattered patches. Big-disk grain-spore tends to be more brownish and forms larger, more continuous crusty areas without the distinctive frosted appearance.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "sarcogyne-clavus",
@@ -165,6 +139,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1640995"
 }

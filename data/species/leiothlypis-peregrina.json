@@ -3,6 +3,9 @@
   "taxonId": 979756,
   "group": "birds",
   "commonName": "Tennessee Warbler",
+  "alternativeNames": [
+    "Coffee Warbler"
+  ],
   "scientificName": "Leiothlypis peregrina",
   "family": "Parulidae",
   "familyCommonName": "New World Warblers",
@@ -310,6 +313,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Tennessee_warbler",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/979756",
   "xenoCantoUrl": "https://xeno-canto.org/species/Leiothlypis-peregrina"

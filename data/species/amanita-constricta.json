@@ -3,6 +3,9 @@
   "taxonId": 67355,
   "group": "fungi",
   "commonName": "Constricted Grisette",
+  "alternativeNames": [
+    "Great Gray-Sack Ringless Amanita"
+  ],
   "scientificName": "Amanita constricta",
   "family": "Amanitaceae",
   "familyCommonName": "amanita mushrooms and allies",
@@ -556,6 +559,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Amanita_constricta",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/67355"
 }

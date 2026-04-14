@@ -3,6 +3,10 @@
   "taxonId": 143009,
   "group": "insects",
   "commonName": "Small Engrailed",
+  "alternativeNames": [
+    "The Engrailed",
+    "Small Engrailed Moth"
+  ],
   "scientificName": "Ectropis crepuscularia",
   "family": "Geometridae",
   "familyCommonName": "Geometer Moths",
@@ -202,6 +206,7 @@
   "compareHints": "Since there are no other Ectropis species in our New England dataset, compare the Small Engrailed with other geometer moths like the Willow Beauty. The Small Engrailed has more subdued, powdery-looking wing patterns compared to the sharper, more contrasting markings of similar species. Its medium size also helps distinguish it from both the larger geometers and the smaller, more delicate species in the family.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Engrailed_(moth)",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/143009",
   "ecologicalRole": {

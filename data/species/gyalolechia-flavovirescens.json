@@ -1,7 +1,7 @@
 {
   "slug": "gyalolechia-flavovirescens",
   "taxonId": 463071,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Sulphur Firedot",
   "scientificName": "Gyalolechia flavovirescens",
   "family": "Teloschistaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Sunburst Lichens and Allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -225,10 +225,11 @@
       "commonName": "Bark Sulphur-firedot Lichen",
       "scientificName": "Gyalolechia flavorubescens",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11449786/medium.jpeg",
-      "distinction": "The closely related Sulphur Firedot (Gyalolechia flavovirescens) has a more greenish-yellow main body color compared to this species' orange tones, and its reproductive dots tend to be less intensely colored."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Gyalolechia_flavovirescens",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/463071"
 }

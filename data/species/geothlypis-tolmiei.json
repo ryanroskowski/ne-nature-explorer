@@ -3,6 +3,9 @@
   "taxonId": 145223,
   "group": "birds",
   "commonName": "MacGillivray's Warbler",
+  "alternativeNames": [
+    "Tolmie's Warbler"
+  ],
   "scientificName": "Geothlypis tolmiei",
   "family": "Parulidae",
   "familyCommonName": "New World Warblers",
@@ -323,6 +326,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/MacGillivray's_warbler",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/145223",
   "xenoCantoUrl": "https://xeno-canto.org/species/Geothlypis-tolmiei"

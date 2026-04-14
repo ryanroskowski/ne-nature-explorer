@@ -1,8 +1,11 @@
 {
   "slug": "platismatia-glauca",
   "taxonId": 117874,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Varied Rag Lichen",
+  "alternativeNames": [
+    "Ragbag"
+  ],
   "scientificName": "Platismatia glauca",
   "family": "Parmeliaceae",
   "familyCommonName": "shield lichens and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -234,6 +237,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Platismatia_glauca",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/117874"
 }

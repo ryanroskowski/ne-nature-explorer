@@ -3,6 +3,14 @@
   "taxonId": 101204,
   "group": "fish",
   "commonName": "Eastern Mosquitofish",
+  "alternativeNames": [
+    "Eastern Gambusia",
+    "Top Minnow",
+    "Gambies",
+    "Bore-drain Fish",
+    "Starling's Perch",
+    "Plague Minnow"
+  ],
   "scientificName": "Gambusia holbrooki",
   "family": "Poeciliidae",
   "familyCommonName": "Guppies, Mollies, Platys, and Swordtails",
@@ -205,6 +213,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_mosquitofish",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/101204"
 }

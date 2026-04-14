@@ -1,7 +1,7 @@
 {
   "slug": "melanohalea-halei",
   "taxonId": 463486,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Appalachian Tree Brown-Shield",
   "scientificName": "Melanohalea halei",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -75,51 +75,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/46348601"
     }
   ],
-  "nameStory": "The Appalachian Tree Brown-Shield gets its name from its shield-like shape and brownish coloration, plus its original discovery in the Appalachian Mountains of eastern North America. Like other shield lichens, it forms rounded patches that lie flat against tree bark like protective shields, while its earthy brown tones help it blend perfectly with the bark of the hardwood trees it calls home.",
-  "description": "The Appalachian Tree Brown-Shield is a leaf-like lichen that forms neat, circular patches on tree bark, typically reaching about 4 inches across. Its yellowish-brown to greenish-brown coloration gives it an earthy, natural appearance that blends beautifully with bark. This shield lichen lies flat against its host tree, developing intricate tiny lobes toward the center that create an almost lace-like pattern. Mature specimens often produce distinctive reddish-brown, cup-shaped fruiting bodies that stand out against the brownish background.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms rounded, flat patches that hug tree bark tightly, with delicate side lobes developing toward the center creating an intricate, layered appearance",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Yellowish-brown to greenish-brown overall, with earthy tones that may appear more vibrant when wet and duller when dry",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Typically grows in roundish patches about 4 inches across, though older specimens may form larger colonies",
-      "isPrimary": false
-    },
-    {
-      "label": "Reproductive Structures",
-      "description": "Produces distinctive reddish-brown, cup-shaped fruiting bodies (apothecia) that contrast nicely with the brownish thallus, usually found on older specimens",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Found exclusively on the bark of deciduous trees, especially oaks, maples, and beeches in hardwood forests",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Smooth to slightly wrinkled surface that feels thin and papery when dry, becoming more pliable when moist",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for this lichen in mature hardwood forests throughout New England's mountains and foothills, particularly in areas with oak, maple, and beech trees. It thrives in the temperate deciduous forests of the region, growing on the bark of living trees in relatively undisturbed woodland settings. You're most likely to spot it in forests with good air quality, as shield lichens are sensitive to pollution.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Visible year-round, but spring moisture makes the brownish colors more vibrant and the lichen more pliable to the touch. Look for the developing fruiting bodies on older patches.",
-    "summer": "During dry summer weather, the lichen appears duller and more brittle, with colors fading to lighter browns and grays. The cup-shaped fruiting bodies are often most prominent during this season.",
-    "fall": "Autumn rains refresh the colors back to rich yellowish and greenish-browns, making identification easier. The contrast with changing leaf colors can help you spot patches on tree trunks.",
-    "winter": "Remains visible on bare tree trunks when deciduous leaves are gone, though colors are muted. Snow and ice may temporarily obscure smaller specimens, but larger patches remain detectable."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen was hiding in plain sight for decades until 1966, when scientists realized that many specimens they thought were a different species were actually this unique Appalachian endemic – imagine how many 'known' lichens had been misidentified for years before someone looked closely enough to spot the difference!",
-  "confusionNotes": "Most easily confused with its cousin, the Spotted Camouflage Lichen, which has a more mottled appearance with distinct light and dark patches. Remember: Appalachian Tree Brown-Shield has more uniform coloring and those distinctive tiny lobes toward the center, while Spotted Camouflage Lichen looks more like military camouflage with irregular splotches.",
-  "contextualKnowledge": "This species represents a classic example of how lichen taxonomy has evolved – what scientists thought was one widespread species turned out to be several distinct ones when examined more carefully. The chemical spot tests mentioned in technical guides (K+ yellow, P+ red reactions) require special reagents and training, so field identification relies primarily on visual and tactile characteristics.",
-  "compareHints": "Compared to its relatives Northern Camouflage Lichen and Spotted Camouflage Lichen, the Appalachian Tree Brown-Shield has more uniform coloring without the distinctive light-and-dark camouflage patterns. While Northern Camouflage Lichen tends to be grayer and Spotted Camouflage Lichen has obvious mottling, this species maintains fairly consistent yellowish to greenish-brown tones across its surface. The tiny central lobes are also more pronounced in this species than in its cousins.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "melanohalea-septentrionalis",
@@ -133,10 +102,11 @@
       "commonName": "Spotted Camouflage Lichen",
       "scientificName": "Melanohalea olivacea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34956973/medium.jpg",
-      "distinction": "Within its genus Melanohalea, spotted camouflage lichen is distinguished from northern camouflage lichen by its scattered pale spots rather than a more uniformly colored surface."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Melanohalea_halei",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/463486"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "punctelia-rudecta",
   "taxonId": 151767,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "rough speckled shield lichen",
   "scientificName": "Punctelia rudecta",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -232,24 +232,25 @@
       "commonName": "Appalachian Speckleback Lichen",
       "scientificName": "Punctelia appalachensis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7989538/medium.jpg",
-      "distinction": "Among its speckled shield lichen relatives in New England, the Appalachian species is the only one with that distinctive black underside with pale brown edges."
+      "distinction": "undefined."
     },
     {
       "slug": "punctelia-bolliana",
       "commonName": "Eastern speckled shield lichen",
       "scientificName": "Punctelia bolliana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3001114/medium.JPG",
-      "distinction": "Eastern speckled shield lichen stands apart from its genus relatives by its notably clean appearance—while rough speckled shield lichen has bumpy isidia and mealy speckled shield lichen has powdery soredia, the eastern species keeps a smooth, speckled surface."
+      "distinction": "undefined."
     },
     {
       "slug": "punctelia-missouriensis",
       "commonName": "Mealy Speckled Shield Lichen",
       "scientificName": "Punctelia missouriensis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/452490324/medium.jpeg",
-      "distinction": "Unlike the rough speckled shield lichen which has a more coarsely textured but not mealy surface, or the eastern speckled shield lichen which lacks the distinctive powdery coating, the mealy speckled shield lichen's flour-like surface texture is unique among its relatives."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Punctelia_rudecta",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/151767"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "umbilicaria-hirsuta",
   "taxonId": 233245,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Granulating Rocktripe Lichen",
   "scientificName": "Umbilicaria hirsuta",
   "family": "Umbilicariaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "rocktripes, bloodspot lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -155,51 +155,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/268302318"
     }
   ],
-  "nameStory": "The 'granulating' in this lichen's name comes from its bumpy, grain-like surface texture that feels rough to the touch. 'Rock tripe' refers to the way these lichens attach to rocks like flat, leathery sheets - early settlers sometimes boiled them as an emergency food that resembled tripe (stomach lining). The name captures both its rocky habitat and its distinctive granular appearance.",
-  "description": "Granulating Rocktripe Lichen is a fascinating partnership between fungi and algae that grows as flat, circular patches on rock surfaces. These gray-brown to blackish discs can reach 2-4 inches across and attach to rocks at a single central point, like a natural belly button. The surface has a distinctly bumpy, granular texture that gives it its common name. Unlike plants, lichens don't have roots, stems, or leaves - they're entirely different organisms that create their own food through photosynthesis.",
-  "idTips": [
-    {
-      "label": "Granular Surface Texture",
-      "description": "The top surface feels noticeably bumpy and rough, like coarse sandpaper, with tiny granular bumps scattered across it - this texture is the key identifying feature",
-      "isPrimary": true
-    },
-    {
-      "label": "Single Central Attachment",
-      "description": "Attached to rock at just one point in the center, creating a belly-button-like connection that you can feel by gently lifting the edges",
-      "isPrimary": false
-    },
-    {
-      "label": "Circular to Irregular Shape",
-      "description": "Forms roughly round patches that may become more irregular with age, typically 2-4 inches across with slightly wavy or torn-looking edges",
-      "isPrimary": false
-    },
-    {
-      "label": "Gray-Brown Coloration",
-      "description": "Upper surface ranges from grayish-brown to dark brown or blackish, often appearing dusty or powdery in dry conditions",
-      "isPrimary": false
-    },
-    {
-      "label": "Leathery Flexibility",
-      "description": "When moist, feels somewhat flexible and leathery rather than brittle, though it becomes more rigid when completely dry",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock Surface Habitat",
-      "description": "Always found growing directly on bare rock surfaces, never on soil, bark, or other substrates",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Granulating Rocktripe Lichen on exposed rock faces and boulders in mountainous areas of New England, particularly on granite and other acidic rocks. It thrives on vertical or sloping rock surfaces that receive good air circulation but aren't constantly wet. You'll most likely spot it at higher elevations in the White Mountains and similar rocky terrain throughout the region.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more visible as snow melts away from rock faces, appearing fresh and slightly more flexible from increased moisture. Spring rains help rehydrate the lichen after winter dormancy.",
-    "summer": "Most active period for growth and reproduction, though may appear dusty and contracted during hot, dry spells. Look for the granular texture to be most pronounced during this season.",
-    "fall": "Remains visible and identifiable, often looking more vibrant after fall rains rehydrate the thallus. Cool, moist conditions make the leathery texture more apparent.",
-    "winter": "Still present but may be hidden under snow on mountain rocks. When exposed, appears more brittle and contracted, though the granular surface texture remains diagnostic."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen can survive being completely dried out for months, appearing dead and crispy, then spring back to life within minutes of getting wet - it can go from looking like a dried potato chip to a living, photosynthesizing organism faster than you can make a cup of coffee!",
-  "confusionNotes": "Most easily confused with Smooth Rock Tripe, but the granular, sandpaper-like surface texture immediately distinguishes it from its smooth-surfaced cousin. Memory trick: 'Granulating = Gritty' - if it feels rough and bumpy, you've found the granulating species.",
-  "contextualKnowledge": "Despite the name 'rock tripe,' this lichen is not recommended as food today due to potential toxin accumulation and the critical role lichens play in mountain ecosystems. Rock tripes are extremely slow-growing and can take decades to reach full size, making them sensitive indicators of air quality.",
-  "compareHints": "Among New England's rock tripes, Granulating Rocktripe stands out for its distinctly bumpy, granular surface texture that feels like coarse sandpaper. Smooth Rock Tripe lives up to its name with a much smoother surface, while Blistered Rock Tripe has raised bubble-like bumps rather than the fine granular texture. The granular surface is so distinctive that once you feel it, you'll never mistake this species for its relatives.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "umbilicaria-mammulata",
@@ -248,17 +217,18 @@
       "commonName": "Punctured Rocktripe Lichen",
       "scientificName": "Umbilicaria torrefacta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10235385/medium.jpeg",
-      "distinction": "Unlike Smooth Rock Tripe which has solid, unperforated edges, or Blistered Rock Tripe which has bubble-like bumps, Punctured Rocktripe is the only species in its genus with the distinctive sieve-like holes along the margins."
+      "distinction": "undefined."
     },
     {
       "slug": "umbilicaria-polyphylla",
       "commonName": "Petalled Rocktripe Lichen",
       "scientificName": "Umbilicaria polyphylla",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/312306612/medium.jpg",
-      "distinction": "Among New England's rock tripes, Petalled Rocktripe stands out with its smooth upper surface - unlike the bumpy Smooth Rock Tripe (despite its name!) or the punctured appearance of Punctured Rocktripe."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/233245"
 }

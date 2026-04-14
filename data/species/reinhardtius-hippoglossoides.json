@@ -3,6 +3,10 @@
   "taxonId": 229837,
   "group": "fish",
   "commonName": "Greenland Halibut",
+  "alternativeNames": [
+    "Flatty",
+    "Greenland Turbot"
+  ],
   "scientificName": "Reinhardtius hippoglossoides",
   "family": "Pleuronectidae",
   "familyCommonName": "Righteye Flounders",
@@ -149,6 +153,7 @@
   "compareHints": "As the only member of its genus Reinhardtius, the Greenland halibut is unique among North Atlantic flatfish for its upright swimming behavior and bilateral coloration. Compared to other righteye flounders in its family, it's distinguished by its incomplete eye migration, vertical swimming posture, and preference for much deeper, colder waters than typical bottom-dwelling flatfish. Most other flounders in New England waters are smaller, live in shallower water, and lie flat on the bottom.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Greenland_halibut",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/229837"
 }

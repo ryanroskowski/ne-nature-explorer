@@ -3,6 +3,9 @@
   "taxonId": 179221,
   "group": "fungi",
   "commonName": "meadow coral fungus",
+  "alternativeNames": [
+    "meadow coral"
+  ],
   "scientificName": "Clavulinopsis corniculata",
   "family": "Clavariaceae",
   "familyCommonName": "antler and spindle fungi",
@@ -213,6 +216,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Clavulinopsis_corniculata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/179221"
 }

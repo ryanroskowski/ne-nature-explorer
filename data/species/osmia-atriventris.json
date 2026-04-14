@@ -3,6 +3,11 @@
   "taxonId": 199126,
   "group": "insects",
   "commonName": "Maine Blueberry Bee",
+  "alternativeNames": [
+    "Small Black-bellied Mason Bee",
+    "Black-bellied Mason Bee",
+    "Blueberry bee"
+  ],
   "scientificName": "Osmia atriventris",
   "family": "Megachilidae",
   "familyCommonName": "Mason, Leafcutter, Carder, and Resin Bees",
@@ -287,6 +292,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Osmia_atriventris",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/199126",
   "ecologicalRole": {

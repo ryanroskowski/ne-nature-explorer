@@ -3,6 +3,9 @@
   "taxonId": 125378,
   "group": "fungi",
   "commonName": "Powder Cap",
+  "alternativeNames": [
+    "Powdery Piggyback"
+  ],
   "scientificName": "Asterophora lycoperdoides",
   "family": "Lyophyllaceae",
   "familyCommonName": "Lyophyllaceae",
@@ -213,6 +216,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Asterophora_lycoperdoides",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/125378"
 }

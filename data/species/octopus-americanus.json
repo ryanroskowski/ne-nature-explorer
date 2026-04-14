@@ -3,6 +3,11 @@
   "taxonId": 1288883,
   "group": "mollusks",
   "commonName": "American Octopus",
+  "alternativeNames": [
+    "American Common Octopus",
+    "West Atlantic Octopus",
+    "West Atlantic Common Octopus"
+  ],
   "scientificName": "Octopus americanus",
   "family": "Octopodidae",
   "familyCommonName": "Typical Octopuses",
@@ -226,6 +231,7 @@
   "compareHints": "Since no other Octopus species are commonly found in New England waters, compare with squid (which have 10 arms total - 8 regular arms plus 2 longer tentacles) or cuttlefish (rarely seen here, but have a more oval, flattened body). The American octopus is distinguished by having exactly 8 arms of similar length and a more rounded, bag-like body.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1288883"
 }

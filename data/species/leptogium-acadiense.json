@@ -1,7 +1,7 @@
 {
   "slug": "leptogium-acadiense",
   "taxonId": 532117,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Leptogium acadiense",
   "scientificName": "Leptogium acadiense",
   "family": "Collemataceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Peltigerales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -115,46 +115,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/7030941"
     }
   ],
-  "nameStory": "This lichen doesn't have a widely-used common name yet, being newly discovered in 2016! Scientists named it 'acadiense' after the historic Acadian region of northeastern North America, where French settlers once lived and where this lichen seems most at home. Like other members of its genus, it belongs to the 'skin lichens' group because of its thin, skin-like appearance when you find it growing on tree bark.",
-  "description": "Leptogium acadiense is a relatively new addition to New England's lichen family, formally recognized by scientists less than a decade ago. This foliose lichen grows as thin, leaf-like lobes that spread across tree bark, creating patches that look somewhat like dried, wrinkled skin. As a member of the skin lichen group, it has that characteristic thin, flexible texture that sets it apart from crusty or bushy lichens. Being so recently discovered, much about its size range and detailed appearance is still being studied by researchers.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms thin, leaf-like lobes that lie flat against tree bark, creating patches that feel flexible and skin-like when gently touched",
-      "isPrimary": true
-    },
-    {
-      "label": "Substrate",
-      "description": "Always found growing directly on tree bark (corticolous), never on rocks or soil",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Has a smooth to slightly wrinkled surface that becomes more pliable and darker when wet, similar to thin leather",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Appears grayish to brownish when dry, becoming darker and more vibrant when moistened by rain or dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Regional Occurrence",
-      "description": "Extremely rare in New England with only one confirmed observation, making any sighting noteworthy for citizen science",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "This rare lichen is found on tree bark in the forests of northeastern North America, with a particular preference for the Acadian forest region. In New England, it would most likely be encountered in mature forests where it can colonize the bark of various tree species. Given its rarity in our region, it may prefer specific microclimatic conditions or particular tree hosts that are still being studied by researchers.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Look for this lichen as it becomes more active with spring moisture, appearing darker and more flexible on wet bark after rain showers.",
-    "summer": "During dry summer periods, it will appear lighter and more brittle, but humid mornings may temporarily darken and soften its appearance.",
-    "fall": "Fall rains will rejuvenate its appearance, making it easier to spot as it darkens and becomes more pliable against the bark.",
-    "winter": "Remains visible year-round but appears in its driest, lightest state during winter months, becoming briefly darker during snow melts."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen was hiding in plain sight for centuries until 2016, when scientists realized it was actually a completely new species distinct from its relatives - imagine how many other 'new' lichens might be quietly growing on trees in your local forest right now!",
-  "confusionNotes": "Could be confused with other skin lichens like Blue Jellyskin, but the exact distinguishing features are still being documented since this species was only recently discovered. When in doubt with any thin, skin-like lichen on bark, note the exact location and consider contributing to citizen science databases.",
-  "contextualKnowledge": "Being described as recently as 2016 means this lichen represents the ongoing discovery of biodiversity even in well-studied regions like New England. Its extreme rarity here suggests we're at the edge of its preferred range, making any local sightings particularly valuable for understanding its distribution.",
-  "compareHints": "Unlike Blue Jellyskin which has a more distinctly bluish cast when wet, this species tends toward brownish-gray tones. Stretched Jellyskin typically has a more granular surface texture, while this species maintains a smoother appearance. The key difference is often in subtle color variations and surface characteristics that require close examination and experience with the genus.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "leptogium-cyanescens",
@@ -168,17 +142,18 @@
       "commonName": "Stretched Jellyskin",
       "scientificName": "Leptogium milligranum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7985530/medium.jpg",
-      "distinction": "Stretched Jellyskin differs from Blue Jellyskin by being thinner and more tightly attached to bark, while Blue Jellyskin tends to have more pronounced lobes that lift away from the surface."
+      "distinction": "undefined."
     },
     {
       "slug": "leptogium-laceroides",
       "commonName": "Leptogium laceroides",
       "scientificName": "Leptogium laceroides",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8999627/medium.jpg",
-      "distinction": "**[UNCERTAIN]** Compared to the more common Blue Jellyskin in the same genus, Leptogium laceroides appears to have more fragmented, irregularly torn lobe margins and may be overall smaller in size."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Leptogium_acadiense",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/532117"
 }

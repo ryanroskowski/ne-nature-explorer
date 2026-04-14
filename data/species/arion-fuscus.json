@@ -3,6 +3,9 @@
   "taxonId": 324194,
   "group": "mollusks",
   "commonName": "Northern Dusky Slug",
+  "alternativeNames": [
+    "Dusky Arion"
+  ],
   "scientificName": "Arion fuscus",
   "family": "Arionidae",
   "familyCommonName": "Roundback Slugs",
@@ -264,6 +267,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Arion_fuscus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/324194"
 }

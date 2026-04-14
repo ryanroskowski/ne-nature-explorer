@@ -3,6 +3,10 @@
   "taxonId": 199455,
   "group": "insects",
   "commonName": "Rough Hermit Beetle",
+  "alternativeNames": [
+    "Rough Osmoderma",
+    "Scabby Flower Chafer"
+  ],
   "scientificName": "Osmoderma scabrum",
   "family": "Scarabaeidae",
   "familyCommonName": "Scarabs",
@@ -229,6 +233,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Osmoderma_scabra",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/199455",
   "ecologicalRole": {

@@ -3,6 +3,12 @@
   "taxonId": 199833,
   "group": "birds",
   "commonName": "Chuck-will's-widow",
+  "alternativeNames": [
+    "Twixt-hell-and-the-white-oak",
+    "chuck wills widow",
+    "chuck-wills-widow",
+    "whipperwill"
+  ],
   "scientificName": "Antrostomus carolinensis",
   "family": "Caprimulgidae",
   "familyCommonName": "Nightjars and Allies",
@@ -301,6 +307,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chuck-will's-widow",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/199833",
   "xenoCantoUrl": "https://xeno-canto.org/species/Antrostomus-carolinensis"

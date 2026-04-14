@@ -1,7 +1,7 @@
 {
   "slug": "buellia-spuria",
   "taxonId": 205699,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Sunken Button Lichen",
   "scientificName": "Buellia spuria",
   "family": "Caliciaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "button lichens, rosette lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -115,46 +115,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/102534003"
     }
   ],
-  "nameStory": "The \"Sunken Button\" name comes from the lichen's distinctive black reproductive structures (called apothecia) that appear sunken into the surface, looking like tiny dark buttons pressed into the whitish crust. These button-like features are actually disc-shaped, which is why it's also called the \"disc lichen.\" The sunken appearance creates a unique dimpled texture that sets it apart from other crusty lichens.",
-  "description": "Sunken Button Lichen is a crusty, rock-hugging lichen that forms patches of whitish to light gray segments on stone surfaces. It creates a puzzle-piece pattern of small, angular chunks (called areoles) that are outlined by striking black borders. This hardy organism is actually a partnership between fungi and algae, working together to survive on bare rock faces. The patches can spread several inches across, creating distinctive mottled patterns on suitable rocky surfaces.",
-  "idTips": [
-    {
-      "label": "Black-outlined puzzle pieces",
-      "description": "Look for whitish to ashy gray chunks arranged like puzzle pieces, each outlined by a bold black border that creates dramatic contrast - almost like a coloring book design",
-      "isPrimary": true
-    },
-    {
-      "label": "Sunken dark buttons",
-      "description": "Run your finger gently over the surface to feel small, dark, button-like structures that are pressed down into the lichen crust, creating tiny dimples",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock-hugging growth",
-      "description": "Forms tight, crusty patches directly on rock surfaces - you can't peel it off like paper, it's fused to the stone substrate",
-      "isPrimary": false
-    },
-    {
-      "label": "Mountainous habitat preference",
-      "description": "Found on exposed rock faces in higher elevation areas, often on vertical or steep surfaces that get good air circulation",
-      "isPrimary": false
-    },
-    {
-      "label": "Matte texture",
-      "description": "The surface feels dry and slightly rough to the touch, never glossy or wet-looking, with a chalky or powdery appearance",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "In New England, look for Sunken Button Lichen on exposed rock faces in mountainous areas, particularly on granite outcrops and cliff faces in places like the White Mountains or Green Mountains. It prefers hard, silica-rich rocks on vertical or steep surfaces that receive good air circulation. You're most likely to spot it on sunny, wind-exposed rocky areas above 2000 feet elevation.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Lichen becomes more visible as snow melts away from rock faces, revealing the distinctive black-outlined patches that may look fresher after winter moisture.",
-    "summer": "Peak viewing season when the contrast between white areoles and black borders is most pronounced on dry, sun-exposed rocks.",
-    "fall": "Still clearly visible on rock faces, though the lichen may appear slightly duller as it enters a less active growth phase.",
-    "winter": "Often hidden under snow on mountain rock faces, but visible patches show remarkable frost tolerance and maintain their distinctive appearance."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is essentially a microscopic farmer - the fungal partner creates a protective shelter while the algae partner photosynthesizes food, and together they can literally eat rock by secreting acids that slowly dissolve minerals, helping to break down mountains grain by grain over thousands of years!",
-  "confusionNotes": "Most likely confused with other crusty rock lichens, but the bold black outlines around each puzzle piece segment are distinctive. Remember: \"Sunken Button = Black outlined chunks\" - if you see uniform gray or white without the dramatic black borders, it's probably a different lichen species.",
-  "contextualKnowledge": "Despite being called \"Sunken Button Lichen\" for its appearance, some field guides may list it as \"Disc Lichen\" - both names refer to the same species. The scientific understanding of lichen partnerships revolutionized biology, as they were among the first organisms recognized as successful collaborations between completely different life forms.",
-  "compareHints": "Sunken Button Lichen stands out from its Button Lichen relatives by having the most dramatic black-and-white contrast - the black borders are much more prominent and continuous than in Common Button Lichen. While other Buellia species might have dark edges, none create such a striking \"puzzle piece\" pattern with bold black outlines. If the black borders aren't obvious and continuous, you're likely looking at a different button lichen species.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "buellia-erubescens",
@@ -168,17 +142,18 @@
       "commonName": "Buellia griseovirens",
       "scientificName": "Buellia griseovirens",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/65536271/medium.jpeg",
-      "distinction": "Compared to Common Button Lichen (Buellia erubescens), this species tends to have a more greenish cast rather than pure gray coloration."
+      "distinction": "undefined."
     },
     {
       "slug": "buellia-maculata",
       "commonName": "Buellia maculata",
       "scientificName": "Buellia maculata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29706219/medium.jpg",
-      "distinction": "Unlike Common Button Lichen which has a more uniform gray surface, Speckled Button Lichen is distinguished by its characteristic spotted pattern."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Buellia_spuria",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/205699"
 }

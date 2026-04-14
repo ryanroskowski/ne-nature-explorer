@@ -3,6 +3,9 @@
   "taxonId": 83846,
   "group": "fish",
   "commonName": "Red Hake",
+  "alternativeNames": [
+    "Squirrel Hake"
+  ],
   "scientificName": "Urophycis chuss",
   "family": "Phycidae",
   "familyCommonName": "Phycid Hakes",
@@ -241,6 +244,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red_hake",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/83846"
 }

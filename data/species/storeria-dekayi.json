@@ -3,6 +3,13 @@
   "taxonId": 28562,
   "group": "reptiles",
   "commonName": "DeKay's Brownsnake",
+  "alternativeNames": [
+    "De Kay's Brown Snake",
+    "Northern Brown Snake",
+    "Marsh Brown Snake",
+    "Texas Brown Snake",
+    "Midland Brown Snake"
+  ],
   "scientificName": "Storeria dekayi",
   "family": "Colubridae",
   "familyCommonName": "Colubrid Snakes",
@@ -218,6 +225,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Storeria_dekayi",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/28562"
 }

@@ -3,6 +3,9 @@
   "taxonId": 56314,
   "group": "fungi",
   "commonName": "Trooping Crumble Cap",
+  "alternativeNames": [
+    "Fairy Inkcap"
+  ],
   "scientificName": "Coprinellus disseminatus",
   "family": "Psathyrellaceae",
   "familyCommonName": "Brittlestems and Allies",
@@ -254,6 +257,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Coprinellus_disseminatus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/56314"
 }

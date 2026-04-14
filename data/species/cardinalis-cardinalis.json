@@ -3,6 +3,22 @@
   "taxonId": 9083,
   "group": "birds",
   "commonName": "Northern Cardinal",
+  "alternativeNames": [
+    "Red Cardinal",
+    "Virginia Cardinal",
+    "Cardinal",
+    "Cardinal Grosbeak",
+    "Virginian Nightingale",
+    "Common Cardinal",
+    "Red-bird",
+    "Cardinal-bird",
+    "Cardinal Redbird",
+    "Crested Redbird",
+    "Top-knot Redbird",
+    "Virginia Redbird",
+    "Virginia Nightingale",
+    "Redbird"
+  ],
   "scientificName": "Cardinalis cardinalis",
   "family": "Cardinalidae",
   "familyCommonName": "Cardinals and Allies",
@@ -250,6 +266,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_cardinal",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/9083",
   "xenoCantoUrl": "https://xeno-canto.org/species/Cardinalis-cardinalis"

@@ -3,6 +3,12 @@
   "taxonId": 44311,
   "group": "mammals",
   "commonName": "Eastern Meadow Vole",
+  "alternativeNames": [
+    "Meadow Vole",
+    "Muskeget Vole",
+    "Beach Vole",
+    "Gray Mouse"
+  ],
   "scientificName": "Microtus pennsylvanicus",
   "family": "Cricetidae",
   "familyCommonName": "Hamsters, Voles, Lemmings, and Allies",
@@ -218,6 +224,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Meadow_vole",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/44311"
 }

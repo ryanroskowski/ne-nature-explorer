@@ -3,6 +3,10 @@
   "taxonId": 1286843,
   "group": "birds",
   "commonName": "Sedge Wren",
+  "alternativeNames": [
+    "Northern Sedge Wren",
+    "Short-billed Marsh Wren"
+  ],
   "scientificName": "Cistothorus stellaris",
   "family": "Troglodytidae",
   "familyCommonName": "Wrens",
@@ -296,6 +300,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Sedge_wren",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1286843",
   "xenoCantoUrl": "https://xeno-canto.org/species/Cistothorus-stellaris"

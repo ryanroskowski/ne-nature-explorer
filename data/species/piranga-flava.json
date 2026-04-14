@@ -3,6 +3,19 @@
   "taxonId": 9924,
   "group": "birds",
   "commonName": "Hepatic Tanager",
+  "alternativeNames": [
+    "Red Tanager",
+    "Tooth-billed Tanager",
+    "Northern Hepatic Tanager",
+    "Northern Hepatic-Tanager",
+    "Highland Hepatic Tanager",
+    "Highland Hepatic-Tanager",
+    "Lowland Hepatic Tanager",
+    "Lowland Hepatic-Tanager",
+    "Hepatic Piranga",
+    "Tooth-billed Piranga",
+    "Red Piranga"
+  ],
   "scientificName": "Piranga flava",
   "family": "Cardinalidae",
   "familyCommonName": "Cardinals and Allies",
@@ -254,6 +267,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hepatic_tanager",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/9924",
   "xenoCantoUrl": "https://xeno-canto.org/species/Piranga-flava"

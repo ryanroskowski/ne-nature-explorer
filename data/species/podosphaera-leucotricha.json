@@ -3,6 +3,9 @@
   "taxonId": 408176,
   "group": "fungi",
   "commonName": "Apple Powdery Mildew",
+  "alternativeNames": [
+    "Powdery Mildew of Apple"
+  ],
   "scientificName": "Podosphaera leucotricha",
   "family": "Erysiphaceae",
   "familyCommonName": "Powdery Mildews",
@@ -299,6 +302,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Podosphaera_leucotricha",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/408176"
 }

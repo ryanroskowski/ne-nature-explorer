@@ -1,7 +1,7 @@
 {
   "slug": "athallia-scopularis",
   "taxonId": 462411,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Athallia scopularis",
   "scientificName": "Athallia scopularis",
   "family": "Teloschistaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Sunburst Lichens and Allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -217,17 +217,18 @@
       "commonName": "Firedot Lichen",
       "scientificName": "Athallia holocarpa",
       "thumbnailUrl": "https://static.inaturalist.org/photos/54529091/medium.jpg",
-      "distinction": "Compared to its close relative the Flaming Firedot Lichen, this species typically has smaller, more numerous orange dots and a paler background color."
+      "distinction": "undefined."
     },
     {
       "slug": "athallia-pyracea",
       "commonName": "Flaming Firedot Lichen",
       "scientificName": "Athallia pyracea",
       "thumbnailUrl": "https://static.inaturalist.org/photos/174844035/medium.jpg",
-      "distinction": "Flaming Firedot differs from its relative Firedot Lichen by having a much thinner, more inconspicuous main body and typically smaller orange fruiting bodies."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Athallia_scopularis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/462411"
 }

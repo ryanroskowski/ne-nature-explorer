@@ -3,6 +3,9 @@
   "taxonId": 232419,
   "group": "insects",
   "commonName": "Ornate Grouse Locust",
+  "alternativeNames": [
+    "Ornate Pygmy Grasshopper"
+  ],
   "scientificName": "Tetrix ornata",
   "family": "Tetrigidae",
   "familyCommonName": "Pygmy Grasshoppers",
@@ -162,6 +165,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Tetrix_ornata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/232419",
   "ecologicalRole": {

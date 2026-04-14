@@ -3,6 +3,11 @@
   "taxonId": 24268,
   "group": "amphibians",
   "commonName": "Spring Peeper",
+  "alternativeNames": [
+    "Northern Spring Peeper",
+    "Pinkletink",
+    "Southern Spring Peeper"
+  ],
   "scientificName": "Pseudacris crucifer",
   "family": "Hylidae",
   "familyCommonName": "Hyline Tree Frogs",
@@ -251,6 +256,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Spring_peeper",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/24268",
   "xenoCantoUrl": "https://xeno-canto.org/species/Pseudacris-crucifer"

@@ -1,8 +1,11 @@
 {
   "slug": "scytinium-lichenoides",
   "taxonId": 526717,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Tattered Jellyskin Lichen",
+  "alternativeNames": [
+    "Tattered Jellyskin"
+  ],
   "scientificName": "Scytinium lichenoides",
   "family": "Collemataceae",
   "familyCommonName": "Collemataceae",
@@ -12,7 +15,7 @@
   "orderCommonName": "Peltigerales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -115,63 +118,38 @@
       "observationUrl": "https://www.inaturalist.org/observations/52671704"
     }
   ],
-  "nameStory": "The \"tattered\" in this lichen's name comes from its distinctive ragged, fringed edges that look like they've been torn or shredded. The \"jellyskin\" part refers to how this lichen becomes soft, gelatinous, and almost jelly-like when wet, transforming from a dry, papery texture to something that feels surprisingly squishy to the touch.",
-  "description": "Tattered Jellyskin Lichen is a leafy lichen that forms small patches on rocks and thin soil. What makes it instantly recognizable are the numerous tiny, finger-like projections along its lobe edges that give it a distinctly frayed appearance. When dry, it appears dark and papery, but when moistened by rain or dew, it transforms into a softer, more pliable greenish-gray mass. Individual patches typically grow to just a few inches across.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "The edges are covered with small cylindrical outgrowths that feel like tiny fingers when wet, creating an unmistakable tattered or fringed appearance that no other New England lichen quite matches",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms leafy patches with distinct lobes that lie flat against the substrate, becoming dramatically more flexible and jelly-like when wet compared to when dry",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Dark brownish-black when dry, transforming to olive-green or grayish-green when moist, with the color change being quite dramatic and noticeable",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Almost always found on limestone, concrete, or other calcium-rich rocky surfaces, often nestled among cushions of moss in consistently moist spots",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual patches remain relatively small, typically reaching only 1-3 inches across even in mature specimens, though multiple patches may grow near each other",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Tattered Jellyskin Lichen on limestone outcrops, old concrete walls, and other calcium-rich rocky surfaces throughout New England's valleys and lower elevations. It thrives in spots that stay consistently moist, often tucked among moss cushions or in shaded crevices where water lingers after rain. You're most likely to find it near streams, at the base of rock faces, or on north-facing surfaces that don't get intense direct sunlight.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Spring rains bring out the lichen's gelatinous texture most dramatically, making it easier to feel the characteristic squishy, jelly-like consistency and observe the color transformation from dark to greenish.",
-    "summer": "During dry summer periods, it appears dark and papery, with the tattered edges most visible as crisp, dry projections that contrast sharply with the main body of the lichen.",
-    "fall": "Fall moisture returns the lichen to its softer state, and cooler temperatures mean it stays hydrated longer, giving more opportunities to observe both wet and dry forms in the same day.",
-    "winter": "Snow and ice may obscure the lichen, but during winter thaws it becomes active again, with the gelatinous texture particularly noticeable against the stark winter landscape."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This ancient lichen was first scientifically described by Carl Linnaeus in 1753 - the same year he established the modern system of naming species - but he originally thought it was a type of fungus called Tremella, not realizing it was actually a partnership between fungus and algae working together!",
-  "confusionNotes": "The fringed, tattered edges make this species quite distinctive, but when dry it might be confused with other dark, leafy lichens. Remember the simple rule: if the edges aren't obviously fringed with tiny projections, it's not Tattered Jellyskin - no other lichen in New England has quite the same shredded appearance around its borders.",
-  "contextualKnowledge": "This lichen has been shuffled between different scientific names and classifications multiple times over the centuries, most recently being moved to the genus Scytinium in 2013 based on DNA studies. Despite being described nearly 300 years ago, scientists are still learning about its relationships to other lichens through modern genetic techniques.",
-  "compareHints": "Tattered Jellyskin differs from its relatives Appressed Jellyskin and Beaded Jellyskin primarily in those distinctive fringed edges - the other jellyskins have smoother margins without the characteristic cylindrical projections. While all three become gelatinous when wet, only Tattered Jellyskin looks truly \"shredded\" around the edges, making it the easiest of the jellyskins to identify with confidence.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "scytinium-subtile",
       "commonName": "Appressed Jellyskin Lichen",
       "scientificName": "Scytinium subtile",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11824105/medium.jpg",
-      "distinction": "Appressed Jellyskin differs from its relatives by being extremely flat and smooth—Tattered Jellyskin has a more wrinkled, folded appearance even when wet, while Beaded Jellyskin forms small, rounded bumps or beads rather than smooth patches."
+      "distinction": "undefined."
     },
     {
       "slug": "scytinium-teretiusculum",
       "commonName": "Beaded Jellyskin Lichen",
       "scientificName": "Scytinium teretiusculum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10653046/medium.jpg",
-      "distinction": "Unlike its relative the Tattered Jellyskin Lichen which has a more wrinkled, folded appearance, Beaded Jellyskin has that distinctive bumpy, beaded surface texture."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Scytinium_lichenoides",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/526717"
 }

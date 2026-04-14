@@ -1,7 +1,7 @@
 {
   "slug": "stereocaulon-paschale",
   "taxonId": 180488,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Easter Foam",
   "scientificName": "Stereocaulon paschale",
   "family": "Stereocaulaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -107,51 +107,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/18048805"
     }
   ],
-  "nameStory": "Easter Foam gets its name from its resemblance to delicate sea foam or soap suds, with tiny branched structures that create a foamy appearance. The \"Easter\" part of the name comes from when this lichen was first formally described in scientific literature, though it can be found throughout the year.",
-  "description": "Easter Foam is a small, intricate lichen that looks like miniature coral or sea foam sprouting from rocks and soil. It forms dense clusters of tiny, branched structures called podetia that rise up like little fingers, each covered in even tinier scales and granules. The whole colony rarely grows taller than your thumb, but what it lacks in size it makes up for in delicate beauty. This fruticose lichen has a complex, three-dimensional structure that sets it apart from flat, crusty lichens.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms dense clusters of tiny branched stalks (podetia) that feel slightly spongy when gently pressed, creating a miniature coral-like appearance",
-      "isPrimary": true
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Each tiny branch is covered in even smaller scales and granules that give it a rough, bumpy texture when examined closely",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Typically pale gray to whitish when dry, becoming slightly darker and more vibrant when wet from rain or dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual colonies are small, usually less than an inch tall, but may form extensive carpets across suitable surfaces",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Found growing on acidic soil, rocks, and sometimes old wood, particularly in areas with good air circulation",
-      "isPrimary": false
-    },
-    {
-      "label": "Reproductive Structures",
-      "description": "May produce small reddish-brown fruiting bodies (apothecia) at the tips of branches, though these are not always present",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Easter Foam thrives in New England's acidic soils and rocky areas, particularly in open woodlands, along trail edges, and on exposed hillsides with good air circulation. It prefers areas that aren't too shaded, often growing alongside mosses and other small lichens on thin soil over bedrock. You'll most likely spot it in the mountains and hills where the air is clean and the soil stays somewhat moist but well-drained.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more vibrant as spring moisture returns, with the gray-white branches looking fresh and clean after winter. This is an excellent time to spot the intricate branching structure as new growth begins.",
-    "summer": "May appear slightly duller during dry spells, but maintains its characteristic foamy texture. Look for small reddish-brown fruiting bodies that sometimes appear at branch tips during humid summer weather.",
-    "fall": "Often looks its most robust as fall rains refresh the colonies, making the branching pattern more visible. The contrast between the pale lichen and colorful fallen leaves makes it easier to spot.",
-    "winter": "Remains visible under light snow cover, appearing as small gray-white tufts. The branched structure becomes more apparent when wet from melting snow or winter rains."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Despite being found around the world, Easter Foam is considered vulnerable in Iceland, where it's so rare that scientists carefully monitor every known population - yet in New England, patient observers can find it quietly growing in suitable habitats, making it a special treasure hiding in plain sight.",
-  "confusionNotes": "Easter Foam can be confused with other small foam lichens, but its densely branched, coral-like growth sets it apart from flatter species. Remember: if it looks like tiny underwater coral growing on land, you've likely found Easter Foam rather than its more sprawling relatives.",
-  "contextualKnowledge": "The genus name Stereocaulon means \"solid stem\" in Greek, referring to the sturdy little branches, though they're actually quite delicate to the touch. Despite being called \"foam\" lichens, these organisms are completely unrelated to sea foam and are actually a partnership between fungi and algae.",
-  "compareHints": "Easter Foam differs from Rock Foam by having more densely packed, coral-like branches rather than Rock Foam's more open, spreading structure. Unlike Pixie Foam, which tends to have cup-shaped structures, Easter Foam's branches remain consistently finger-like throughout. Alpine Foam Lichen grows in more extreme mountain conditions, while Easter Foam tolerates a broader range of New England elevations.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "stereocaulon-saxatile",
@@ -172,24 +141,25 @@
       "commonName": "Granular Soil Foam Lichen",
       "scientificName": "Stereocaulon condensatum",
       "thumbnailUrl": "https://static.inaturalist.org/photos/9170717/medium.jpg",
-      "distinction": "Unlike its cousin Rock Foam Lichen which grows on solid rock surfaces, Granular Soil Foam strictly prefers soil substrates."
+      "distinction": "undefined."
     },
     {
       "slug": "stereocaulon-dactylophyllum",
       "commonName": "Finger-scale Foam",
       "scientificName": "Stereocaulon dactylophyllum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172310224/medium.jpg",
-      "distinction": "Unlike Rock Foam which tends to be coarser and less intricately branched, Finger-scale Foam creates much more delicate, highly divided coral-like structures."
+      "distinction": "undefined."
     },
     {
       "slug": "stereocaulon-alpinum",
       "commonName": "Alpine Foam Lichen",
       "scientificName": "Stereocaulon alpinum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32346090/medium.jpg",
-      "distinction": "Alpine Foam Lichen differs from its close relative Easter Foam by containing different types of cyanobacteria partners - Alpine Foam hosts lighter-colored Nostoc bacteria while Easter Foam contains darker Stigonema bacteria."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Stereocaulon_paschale",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/180488"
 }

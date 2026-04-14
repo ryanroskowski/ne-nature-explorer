@@ -3,6 +3,12 @@
   "taxonId": 67328,
   "group": "arachnids",
   "commonName": "Long-bodied Cellar Spider",
+  "alternativeNames": [
+    "Longbodied Cellar Spider",
+    "Skull Spider",
+    "Daddy Longlegs Spider",
+    "Cellar Spider"
+  ],
   "scientificName": "Pholcus phalangioides",
   "family": "Pholcidae",
   "familyCommonName": "Cellar Spiders",
@@ -243,6 +249,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pholcus_phalangioides",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/67328"
 }

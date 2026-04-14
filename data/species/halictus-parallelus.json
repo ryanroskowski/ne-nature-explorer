@@ -3,6 +3,9 @@
   "taxonId": 199105,
   "group": "insects",
   "commonName": "Parallel-striped Sweat Bee",
+  "alternativeNames": [
+    "Parallel Furrow Bee"
+  ],
   "scientificName": "Halictus parallelus",
   "family": "Halictidae",
   "familyCommonName": "Sweat Bees",
@@ -243,6 +246,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Halictus_parallelus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/199105",
   "ecologicalRole": {

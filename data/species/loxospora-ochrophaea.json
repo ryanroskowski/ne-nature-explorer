@@ -1,7 +1,7 @@
 {
   "slug": "loxospora-ochrophaea",
   "taxonId": 224150,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Eastern Ragged-rim Lichen",
   "scientificName": "Loxospora ochrophaea",
   "family": "Sarrameanaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Sarrameanales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 27,
-  "abundanceTier": "very-common",
+  "abundanceTier": "common",
   "photos": [
     {
       "id": 8347226,
@@ -225,17 +225,18 @@
       "commonName": "Loxospora elatina",
       "scientificName": "Loxospora elatina",
       "thumbnailUrl": "https://static.inaturalist.org/photos/9170646/medium.jpg",
-      "distinction": "Loxospora elatina differs from its relatives Eastern Ragged-rim Lichen and Frosted Ragged-rim Lichen primarily in its smoother, less textured surface - it lacks the distinctive 'ragged' or heavily frosted appearance of its cousins."
+      "distinction": "undefined."
     },
     {
       "slug": "loxospora-cismonica",
       "commonName": "Frosted Ragged-rim Lichen",
       "scientificName": "Loxospora cismonica",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12706614/medium.jpg",
-      "distinction": "Unlike its relative the Eastern Ragged-rim Lichen which has more yellowish tones and different spore characteristics, Frosted Ragged-rim has that distinctive whitish, powdery coating."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Loxospora_ochrophaea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/224150"
 }

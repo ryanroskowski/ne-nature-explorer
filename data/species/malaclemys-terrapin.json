@@ -3,6 +3,11 @@
   "taxonId": 39836,
   "group": "reptiles",
   "commonName": "Diamondback Terrapin",
+  "alternativeNames": [
+    "Terrapin",
+    "Diamond-backed Terrapin",
+    "Salt Marsh Turtle"
+  ],
   "scientificName": "Malaclemys terrapin",
   "family": "Emydidae",
   "familyCommonName": "Pond and Box Turtles",
@@ -213,6 +218,7 @@
   "compareHints": "The diamondback terrapin is the only species in its genus Malaclemys, making it truly unique. Compared to other members of the pond and box turtle family (Emydidae) found in New England, terrapins are the only ones adapted to salt water - painted turtles, spotted turtles, and box turtles all prefer fresh water and lack the specialized salt glands and distinctive diamond shell patterns.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Diamondback_terrapin",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/39836"
 }

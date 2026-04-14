@@ -1,8 +1,12 @@
 {
   "slug": "cetraria-islandica",
   "taxonId": 180450,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Iceland Lichen",
+  "alternativeNames": [
+    "True Iceland Lichen",
+    "Iceland Moss"
+  ],
   "scientificName": "Cetraria islandica",
   "family": "Parmeliaceae",
   "familyCommonName": "shield lichens and allies",
@@ -12,7 +16,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +52,7 @@
     }
   ],
   "observationCount": 2,
-  "abundanceTier": "moderate",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 239528537,
@@ -99,46 +103,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/18045002"
     }
   ],
-  "nameStory": "This lichen gets its name from Iceland, where it grows abundantly across the rocky, windswept landscape. Despite being called 'Iceland moss,' it's not actually a moss at all—it's a lichen, which is a partnership between fungi and algae. The 'moss' part of the name comes from its upright, branching growth that can look surprisingly moss-like from a distance.",
-  "description": "Iceland Lichen is a distinctive fruticose (shrub-like) lichen that grows in upright, branching clumps. Its thallus (body) consists of flattened, leaf-like branches that stand erect like tiny shrubs, typically reaching 2-4 inches tall. The branches are olive-brown to grayish-brown when dry, becoming more vibrant greenish-brown when wet. This Arctic-alpine species creates small colonies that can carpet suitable rocky surfaces in cooler climates.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Grows upright in shrub-like clumps with flattened, leaf-like branches that feel leathery and somewhat brittle when dry",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Olive-brown to grayish-brown when dry, transforming to a richer greenish-brown when moistened by rain or dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Found growing directly on acidic soil, thin soil over rock, or sometimes on bare rock in exposed locations",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Branches feel smooth to slightly rough, with a matte finish rather than glossy, and often have small white spots (pseudocyphellae) on the undersides",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual clumps typically 2-4 inches tall, but can form extensive colonies several feet across in ideal conditions",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "In New England, Iceland Lichen is extremely rare, found only in the highest, most exposed alpine areas of the White Mountains and similar harsh environments. It prefers acidic, well-drained soil or thin soil over granite, often in areas with late-lying snow and frequent fog. Look for it in windswept locations above treeline where few other plants can survive the harsh conditions.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Most vibrant as snow melts and frequent moisture keeps it plump and greenish-brown. Easy to spot against dark, wet soil and rocks.",
-    "summer": "May appear more brownish and contracted during dry spells, but summer rains quickly revive its color. Growth occurs slowly during the brief growing season.",
-    "fall": "Often looks its best in fall with frequent moisture from clouds and rain, showing rich brown-green colors before winter dormancy.",
-    "winter": "Remains visible under snow but appears dried and brittle. Completely dormant but ready to spring back to life with the first warm, wet weather."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Iceland Lichen is traditionally eaten in Nordic countries—it's soaked to remove bitter compounds, then dried and ground into flour or made into a nutritious porridge that helped people survive harsh Arctic winters for centuries!",
-  "confusionNotes": "Could be confused with reindeer lichens, but Iceland Lichen has distinctly flattened, leaf-like branches while reindeer lichens are more rounded and coral-like. Remember: Iceland Lichen looks like tiny upright leaves, reindeer lichens look like miniature branching corals.",
-  "contextualKnowledge": "The 'moss' in its common name causes confusion—this is definitely a lichen, not a moss. Mosses have tiny leaves and stems, while lichens are fungal-algal partnerships with completely different structures. The name persists because early observers noted its moss-like upright growth habit.",
-  "compareHints": "Iceland Lichen differs from its relatives by having broader, more distinctly flattened branches compared to Sand-loving Iceland Lichen's narrower branches. Striped Iceland Lichen shows obvious white stripes on its undersides, while true Iceland Lichen has more subtle white spotting. Iceland Lichen also tends to grow in more exposed, harsher conditions than its cousins.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "cetraria-arenaria",
@@ -156,6 +134,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Iceland_moss",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/180450"
 }

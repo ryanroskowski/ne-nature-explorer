@@ -3,6 +3,9 @@
   "taxonId": 207616,
   "group": "insects",
   "commonName": "Three-banded Lady Beetle",
+  "alternativeNames": [
+    "Three-banded Ladybug"
+  ],
   "scientificName": "Coccinella trifasciata",
   "family": "Coccinellidae",
   "familyCommonName": "Lady Beetles",
@@ -221,6 +224,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Coccinella_trifasciata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/207616",
   "ecologicalRole": {

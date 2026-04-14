@@ -1,7 +1,7 @@
 {
   "slug": "lepraria-normandinoides",
   "taxonId": 463354,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Elf-ear Dust",
   "scientificName": "Lepraria normandinoides",
   "family": "Stereocaulaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -239,10 +239,11 @@
       "commonName": "White Dust Lichen",
       "scientificName": "Lepraria albicans",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/102922955/medium.jpeg",
-      "distinction": "White Dust Lichen is brighter white than its relatives like Fluffy Dust Lichen, which tends toward gray-green, and Zoned Dust Lichen, which forms more distinct concentric patterns."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/463354"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "flavopunctelia-flaventior",
   "taxonId": 69436,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Speckled Greenshield",
   "scientificName": "Flavopunctelia flaventior",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 6,
-  "abundanceTier": "common",
+  "abundanceTier": "moderate",
   "photos": [
     {
       "id": 16916441,
@@ -225,10 +225,11 @@
       "commonName": "Powder-edged Speckled Greenshield",
       "scientificName": "Flavopunctelia soredica",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/15373445/medium.jpg",
-      "distinction": "The key difference from its cousin the regular Speckled Greenshield lies in reproduction strategy - Powder-edged reproduces with those gritty soredia granules along the edges, while regular Speckled Greenshield typically produces tiny finger-like projections called isidia scattered across its surface instead."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Flavopunctelia_flaventior",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/69436"
 }

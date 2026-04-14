@@ -3,6 +3,9 @@
   "taxonId": 626642,
   "group": "insects",
   "commonName": "Red-footed Cuckoo Leafcutter",
+  "alternativeNames": [
+    "Red-footed Sharptail"
+  ],
   "scientificName": "Coelioxys rufitarsis",
   "family": "Megachilidae",
   "familyCommonName": "Mason, Leafcutter, Carder, and Resin Bees",
@@ -268,6 +271,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Coelioxys_rufitarsis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/626642",
   "ecologicalRole": {

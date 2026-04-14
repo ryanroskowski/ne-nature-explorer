@@ -3,6 +3,20 @@
   "taxonId": 1071971,
   "group": "crustaceans",
   "commonName": "Northern White Shrimp",
+  "alternativeNames": [
+    "White Shrimp",
+    "Green-tailed Shrimp",
+    "Blue-tailed Shrimp",
+    "Rainbow Shrimp",
+    "Mayport Shrimp",
+    "Common Shrimp",
+    "Southern Shrimp",
+    "Gray Shrimp",
+    "Lake Shrimp",
+    "Green Shrimp",
+    "Daytona Shrimp",
+    "Atlantic White Shrimp"
+  ],
   "scientificName": "Penaeus setiferus",
   "family": "Penaeidae",
   "familyCommonName": "Penaeid Prawns",
@@ -165,6 +179,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Litopenaeus_setiferus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1071971"
 }

@@ -3,6 +3,10 @@
   "taxonId": 84778,
   "group": "insects",
   "commonName": "Colorado Potato Beetle",
+  "alternativeNames": [
+    "new-fashioned potato bug",
+    "Ten-striped Colorado Potato Beetle"
+  ],
   "scientificName": "Leptinotarsa decemlineata",
   "family": "Chrysomelidae",
   "familyCommonName": "Leaf Beetles",
@@ -205,6 +209,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Colorado_potato_beetle",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/84778",
   "ecologicalRole": {

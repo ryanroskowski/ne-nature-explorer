@@ -1,7 +1,7 @@
 {
   "slug": "physcia-thomsoniana",
   "taxonId": 550161,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Thomson's Rosette Lichen",
   "scientificName": "Physcia thomsoniana",
   "family": "Physciaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "button lichens, rosette lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -260,38 +260,39 @@
       "commonName": "black-eyed rosette lichen",
       "scientificName": "Physcia phaea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/348847443/medium.jpg",
-      "distinction": "Black-eyed rosette lichen differs from its Physcia relatives primarily by having more prominent and consistently dark apothecia compared to species like star rosette lichen or hoary rosette lichen."
+      "distinction": "undefined."
     },
     {
       "slug": "physcia-tenella",
       "commonName": "Fringed Rosette Lichen",
       "scientificName": "Physcia tenella",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/376664895/medium.jpeg",
-      "distinction": "Among its rosette lichen relatives, Fringed Rosette Lichen is distinguished by its combination of narrow lobes and fringed edges - Star Rosette Lichen has broader lobes without fringe, while Hooded Rosette Lichen has distinctive hood-shaped reproductive structures on the lobe tips."
+      "distinction": "undefined."
     },
     {
       "slug": "physcia-dubia",
       "commonName": "Powder-tipped Rosette Lichen",
       "scientificName": "Physcia dubia",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9425952/medium.jpg",
-      "distinction": "Unlike Star Rosette Lichen which has more pointed, star-like lobes, Powder-tipped Rosette Lichen has broader lobes with those telltale white powdery tips."
+      "distinction": "undefined."
     },
     {
       "slug": "physcia-subtilis",
       "commonName": "slender rosette lichen",
       "scientificName": "Physcia subtilis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13740267/medium.jpeg",
-      "distinction": "Slender rosette lichen stands out from its Physcia relatives primarily by its notably narrow lobes - most other rosette lichens have broader, more substantial-looking lobes."
+      "distinction": "undefined."
     },
     {
       "slug": "physcia-americana",
       "commonName": "American Rosette Lichen",
       "scientificName": "Physcia americana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11142464/medium.jpg",
-      "distinction": "American Rosette Lichen differs from Star Rosette Lichen by having more powder on its surface and less distinct dark centers."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/550161"
 }

@@ -3,6 +3,10 @@
   "taxonId": 201450,
   "group": "birds",
   "commonName": "Sargasso Shearwater",
+  "alternativeNames": [
+    "Audubon's Shearwater",
+    "Dusky Petrel"
+  ],
   "scientificName": "Puffinus lherminieri",
   "family": "Procellariidae",
   "familyCommonName": "Shearwaters and Petrels",
@@ -217,6 +221,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Audubon's_shearwater",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/201450",
   "xenoCantoUrl": "https://xeno-canto.org/species/Puffinus-lherminieri"

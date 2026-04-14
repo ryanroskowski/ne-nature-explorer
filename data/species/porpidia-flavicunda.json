@@ -1,7 +1,7 @@
 {
   "slug": "porpidia-flavicunda",
   "taxonId": 463867,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Orange Boulder Lichen",
   "scientificName": "Porpidia flavicunda",
   "family": "Lecideaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Lecideales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -83,46 +83,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/28267975"
     }
   ],
-  "nameStory": "The Orange Boulder Lichen gets its straightforward name from its vibrant yellow-orange color and its preferred home on large rocks and boulders. Unlike many lichens with mysterious scientific names, this one's common name tells you exactly what to look for – bright orange patches decorating the rocky landscape like natural paint splatters.",
-  "description": "Orange Boulder Lichen is a crusty, rock-hugging lichen that forms bright yellow-orange patches on stone surfaces. This crustose lichen grows directly into the rock surface, creating colorful crusty patches that can't be peeled off like paper. The patches are bordered by distinctive thin black lines and dotted with tiny black disc-shaped fruiting bodies that look like pepper flakes scattered on orange cheese. It's one of the most eye-catching lichens you'll encounter on New England's rocky surfaces.",
-  "idTips": [
-    {
-      "label": "Bright orange color",
-      "description": "Vivid yellow-orange patches that stand out dramatically against gray rock surfaces, with a slightly powdery or crusty texture when touched gently",
-      "isPrimary": true
-    },
-    {
-      "label": "Black border lines",
-      "description": "Distinctive narrow black lines that outline the orange patches like someone drew around them with a fine marker",
-      "isPrimary": false
-    },
-    {
-      "label": "Crusty texture",
-      "description": "Forms a crusty, granular surface that's firmly attached to the rock and feels slightly rough to the touch, like coarse sandpaper",
-      "isPrimary": false
-    },
-    {
-      "label": "Black fruiting discs",
-      "description": "Small black disc-shaped structures scattered across the orange surface that look like tiny buttons or pepper flakes",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock preference",
-      "description": "Always found growing directly on hard, siliceous rocks like granite or quartzite, never on limestone or tree bark",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Orange Boulder Lichen on exposed siliceous rocks like granite, quartzite, and similar hard stone surfaces throughout New England's mountains, rocky shores, and boulder fields. It thrives on sun-exposed rock faces and large boulders in areas with clean air, from coastal granite outcrops to high-elevation rocky summits. You'll often find it alongside other rock-dwelling lichens on stone walls, cliff faces, and glacial erratics.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The orange color becomes more vibrant as winter weathering ends, and black fruiting discs may begin developing on established patches.",
-    "summer": "Prime time for identification with the brightest orange coloration and most visible black fruiting structures actively releasing spores.",
-    "fall": "Color remains bright and distinctive, making it easy to spot against autumn's changing landscape colors.",
-    "winter": "Still visible and identifiable under snow-free conditions, though colors may appear slightly muted during harsh weather."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is so hardy that it's among the most common lichens found growing on rocks in Iceland, thriving in some of the harshest weather conditions on Earth while maintaining its brilliant orange glow year-round.",
-  "confusionNotes": "The bright orange color and distinctive black border lines make this species quite unique, but it could be confused with other orange rock lichens. Remember the black outline trick – Orange Boulder Lichen is bordered by narrow black lines like a coloring book outline, which most other orange lichens lack.",
-  "contextualKnowledge": "Despite being called a 'boulder' lichen, it's equally happy on smaller rocks and cliff faces – the name simply reflects its preference for substantial rock surfaces rather than pebbles or soil.",
-  "compareHints": "Orange Boulder Lichen stands out from its Porpidia relatives by its brilliant orange color, while Smokey-eyed Boulder Lichen is more gray-blue and Concentric Boulder Lichen forms circular patterns. The bright orange coloration combined with the distinctive black border lines make this the most colorful and easily recognized member of its genus in New England.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "porpidia-albocaerulescens",
@@ -147,6 +121,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Porpidia_flavicunda",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/463867"
 }

@@ -3,6 +3,9 @@
   "taxonId": 84809,
   "group": "insects",
   "commonName": "Dogwood Leaf Beetle",
+  "alternativeNames": [
+    "Dogwood Calligrapher Beetle"
+  ],
   "scientificName": "Calligrapha philadelphica",
   "family": "Chrysomelidae",
   "familyCommonName": "Leaf Beetles",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Calligrapha_philadelphica",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/84809",
   "ecologicalRole": {

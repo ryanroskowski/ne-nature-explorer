@@ -3,6 +3,9 @@
   "taxonId": 81495,
   "group": "insects",
   "commonName": "Twelve-spotted Skimmer",
+  "alternativeNames": [
+    "Twelve-spot Skimmer"
+  ],
   "scientificName": "Libellula pulchella",
   "family": "Libellulidae",
   "familyCommonName": "Skimmers",
@@ -285,6 +288,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Twelve-spotted_skimmer",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/81495",
   "ecologicalRole": {

@@ -1,7 +1,7 @@
 {
   "slug": "phaeophyscia-squarrosa",
   "taxonId": 463738,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Scaly Shadow Lichen",
   "scientificName": "Phaeophyscia squarrosa",
   "family": "Physciaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "button lichens, rosette lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -171,46 +171,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/156428386"
     }
   ],
-  "nameStory": "The 'scaly' in this lichen's name comes from its distinctive squarrose structure - tiny leaf-like lobes that curl up and away from the surface like fish scales or roof shingles. The 'shadow' part refers to its preference for growing in partially shaded spots rather than full sun, where many other lichens thrive.",
-  "description": "Scaly Shadow Lichen is a crusty, leaf-like lichen that forms small grayish patches on tree bark and rocks. This composite organism is actually two life forms living together - a fungus and an algae working as partners. The lichen creates flat, spreading colonies up to 2-3 inches across, with distinctive curled-up edges that give it a ruffled, three-dimensional appearance. Individual lobes are quite small, typically just a few millimeters wide.",
-  "idTips": [
-    {
-      "label": "Squarrose lobes",
-      "description": "The tiny leaf-like segments curl upward and outward from the surface, creating a distinctly scaly texture that you can feel with your fingertip - like running your finger backwards along fish scales",
-      "isPrimary": true
-    },
-    {
-      "label": "Gray-brown coloration",
-      "description": "Overall grayish to brownish-gray color with slightly darker tips on the curled lobes, sometimes with a subtle bluish tint when moist",
-      "isPrimary": false
-    },
-    {
-      "label": "Small colony size",
-      "description": "Forms compact patches typically 1-3 inches across, much smaller than many other crusty lichens that can spread across large areas of bark",
-      "isPrimary": false
-    },
-    {
-      "label": "Bark preference",
-      "description": "Almost always found on tree bark rather than rocks, with a preference for trees with slightly rough or furrowed bark where it can nestle into crevices",
-      "isPrimary": false
-    },
-    {
-      "label": "Dry brittle texture",
-      "description": "Feels crisp and papery when dry, making a subtle crackling sound if gently pressed, but becomes more pliable when damp from rain or morning dew",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Scaly Shadow Lichen on the bark of deciduous trees in partially shaded areas throughout New England's forests and suburban landscapes. It particularly favors trees with moderately rough bark like oaks, maples, and ash trees, typically growing 3-8 feet up from the base. You'll most often spot it in mixed woodlands, park settings, and tree-lined streets where it gets some protection from direct sunlight.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more visible as it absorbs moisture from spring rains, taking on a slightly greener tint as the algal partner becomes more active. The scaly texture is most pronounced during damp spring mornings.",
-    "summer": "May appear somewhat dormant and dried out during hot, dry periods, with lobes curling even tighter. Look for it on the shadier sides of trees where it stays more hydrated.",
-    "fall": "Often at its most visible as falling leaves reduce overhead shade, making the gray patches stand out more against darkening bark. The crisp autumn air keeps it in good condition for observation.",
-    "winter": "Remains visible and identifiable year-round, often appearing more prominent against snow-covered bark. Winter moisture from snow and ice can temporarily plump up the lobes."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is essentially a solar-powered partnership where the fungus builds the 'house' and the algae runs the 'kitchen' - the algae captures sunlight to make food while the fungus provides structure and gathers water and minerals, creating a living organism that can survive for decades without soil or roots.",
-  "confusionNotes": "Most easily confused with other small gray lichens on bark, but remember 'scaly shadow = curly cups' - the distinctive upward-curling lobes set it apart from flat, crusty lichens that lie tight against the bark surface.",
-  "contextualKnowledge": "Like all lichens, this species is extremely sensitive to air pollution, particularly sulfur dioxide, making it a natural air quality indicator - areas with healthy populations of diverse lichens generally have cleaner air.",
-  "compareHints": "Among its shadow lichen relatives, Scaly Shadow Lichen is distinguished by its prominently curled, squarrose lobes that create a three-dimensional texture. Orange-cored Shadow Lichen has flatter lobes with orange centers when broken, while Mealy Shadow Lichen has a powdery, granular surface rather than distinct curled scales. The strongly upturned edges are really the key feature that separates this species from its close cousins.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "phaeophyscia-rubropulchra",
@@ -238,45 +212,46 @@
       "commonName": "Ciliate Wreath Lichen",
       "scientificName": "Phaeophyscia ciliata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35065558/medium.jpg",
-      "distinction": "Unlike its relatives in the Phaeophyscia genus, Ciliate Wreath Lichen is the only one with prominent white hair-like projections along all lobe edges."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-hirsuta",
       "commonName": "Hairy Shadow Lichen",
       "scientificName": "Phaeophyscia hirsuta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30674510/medium.jpg",
-      "distinction": "Among its relatives, Hairy Shadow Lichen is distinguished by those characteristic hair-like edge projections that other shadow lichens lack."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-sciastra",
       "commonName": "Dark Shadow Lichen",
       "scientificName": "Phaeophyscia sciastra",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/197801920/medium.jpg",
-      "distinction": "Unlike its relatives in the Phaeophyscia genus, Dark Shadow Lichen is easily recognized by its abundant black isidia that cover both the center and edges of the lobes."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-orbicularis",
       "commonName": "Mealy Shadow Lichen",
       "scientificName": "Phaeophyscia orbicularis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/45382098/medium.jpeg",
-      "distinction": "Unlike its relatives such as Orange-cored Shadow Lichen (which has orange inner tissues) or Hairy Shadow Lichen (which has fuzzy edges), Mealy Shadow Lichen lacks both colorful internal tissues and hairy margins."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-endococcinodes",
       "commonName": "Red-cored Starburst Shadow Lichen",
       "scientificName": "Phaeophyscia endococcinodes",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52995932/medium.jpeg",
-      "distinction": "Unlike its relatives like Orange-cored Shadow Lichen (which has orange interiors) or Mealy Shadow Lichen (which has white powdery surfaces), Red-cored Starburst Shadow Lichen is the only species in its genus with the distinctive crimson interior."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-hispidula",
       "commonName": "Whiskered Shadow Lichen",
       "scientificName": "Phaeophyscia hispidula",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57630316/medium.jpeg",
-      "distinction": "Among its Phaeophyscia relatives, Whiskered Shadow Lichen is distinguished by its particularly prominent marginal cilia and small size."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/463738"
 }

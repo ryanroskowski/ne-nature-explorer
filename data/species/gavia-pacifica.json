@@ -3,6 +3,10 @@
   "taxonId": 4621,
   "group": "birds",
   "commonName": "Pacific Loon",
+  "alternativeNames": [
+    "Pacific Diver",
+    "Pacific Diver/Loon"
+  ],
   "scientificName": "Gavia pacifica",
   "family": "Gaviidae",
   "familyCommonName": "Loons",
@@ -270,6 +274,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pacific_loon",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/4621",
   "xenoCantoUrl": "https://xeno-canto.org/species/Gavia-pacifica"

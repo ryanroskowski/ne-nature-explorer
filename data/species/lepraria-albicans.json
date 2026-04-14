@@ -1,7 +1,7 @@
 {
   "slug": "lepraria-albicans",
   "taxonId": 463334,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "White Dust Lichen",
   "scientificName": "Lepraria albicans",
   "family": "Stereocaulaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -67,51 +67,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/46333400"
     }
   ],
-  "nameStory": "White Dust Lichen gets its name from its powdery, flour-like appearance that looks remarkably like someone sprinkled white dust across tree bark and rocks. The scientific name 'albicans' comes from Latin meaning 'becoming white,' perfectly capturing how this lichen creates chalky white patches wherever it grows. Touch it gently and you'll understand why early botanists thought it looked more like spilled baking powder than a living organism!",
-  "description": "White Dust Lichen is a crusty lichen that forms powdery white to pale gray patches on tree bark and rocks. Unlike lichens that grow in distinct shapes, this one spreads as a thin, dusty coating that can cover areas from thumbnail-sized spots to patches several inches across. It's what scientists call a 'crustose' lichen, meaning it forms a crust that's tightly attached to whatever surface it's growing on. The entire patch is made up of tiny granules called soredia that help the lichen reproduce.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "Feels powdery and granular, like fine chalk dust or flour when touched gently - your finger may pick up white particles",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms thin, crusty patches that spread irregularly across surfaces without any defined edges or raised structures",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Bright white when dry, becoming slightly grayish when wet, always maintaining a chalky appearance",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Most commonly found on smooth bark of hardwood trees like maple and ash, occasionally on rocks in shaded areas",
-      "isPrimary": false
-    },
-    {
-      "label": "Reproductive Structures",
-      "description": "Produces only soredia (powdery granules) for reproduction - never forms cup-shaped fruiting bodies or other raised structures",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual patches range from coin-sized to dinner plate-sized, often merging with nearby patches to cover large areas",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "White Dust Lichen prefers the smooth bark of deciduous trees in New England's mixed and hardwood forests, especially favoring maples, ashes, and young oaks. You'll find it most commonly in partially shaded areas where humidity stays moderate - not in deep forest shade, but not in full sun either. It occasionally grows on horizontal rock surfaces in wooded areas, particularly on limestone or other calcium-rich stones.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Appears bright white against dark, wet bark as trees leaf out. The contrast makes it very noticeable during spring rains when the lichen briefly turns grayish.",
-    "summer": "Most vibrant and easiest to spot during humid summer days. Growth is most active during warm, moist periods when the powdery texture is most pronounced.",
-    "fall": "Remains clearly visible on bare branches as leaves drop, creating stark white patches against brown and gray bark. Color stays consistent despite temperature changes.",
-    "winter": "Stands out dramatically against snow-covered bark and remains active during mild winter thaws. The white-on-white effect can make it blend in during heavy snow."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "White Dust Lichen is essentially a living powder factory - it reproduces by literally crumbling apart, with each tiny particle that breaks off capable of starting a new lichen colony wherever the wind carries it, making it one of nature's most efficient hitchhikers.",
-  "confusionNotes": "Most commonly confused with bird droppings or paint splatters on tree bark, but unlike these substances, White Dust Lichen has a uniform granular texture and spreads in irregular patches rather than distinct splots. Memory trick: if it looks powdery all over and spreads gradually outward, it's lichen - if it looks like it was dropped or splashed, it's probably not!",
-  "contextualKnowledge": "The term 'dust lichen' can be confusing because several different lichen species share this common name due to their similar powdery appearance. White Dust Lichen is just one member of a whole group of lichens that gave up forming traditional shapes in favor of this highly successful powdery growth strategy.",
-  "compareHints": "White Dust Lichen is brighter white than its relatives like Fluffy Dust Lichen, which tends toward gray-green, and Zoned Dust Lichen, which forms more distinct concentric patterns. Among the dust lichens, White Dust Lichen produces the finest, most flour-like powder, while Elf-ear Dust tends to form slightly coarser, more irregular granules. The pure white color when dry is White Dust Lichen's signature trait among its dusty cousins.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "lepraria-finkii",
@@ -136,6 +105,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/463334"
 }

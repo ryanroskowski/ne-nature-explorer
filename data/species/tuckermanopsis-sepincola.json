@@ -1,7 +1,7 @@
 {
   "slug": "tuckermanopsis-sepincola",
   "taxonId": 1019559,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Chestnut Wrinkle Lichen",
   "scientificName": "Tuckermanopsis sepincola",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -99,46 +99,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/101955902"
     }
   ],
-  "nameStory": "The Chestnut Wrinkle Lichen gets its name from its distinctive chestnut-brown color and the deeply wrinkled, crumpled appearance of its surface. Like an old piece of leather left out in the weather, this lichen develops characteristic furrows and ridges that make it instantly recognizable among the wrinkle lichen family.",
-  "description": "Chestnut Wrinkle Lichen is a medium-sized foliose lichen that forms leafy, overlapping patches on tree bark. Its thallus (the main body of the lichen) displays rich chestnut to reddish-brown colors and develops deep wrinkles and furrows as it matures. Individual lobes can spread 2-4 inches across, creating colonies that may cover several square inches of bark surface over many decades of slow growth.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "Deeply wrinkled and furrowed surface that feels like crumpled leather when dry, with ridges and valleys creating a distinctive topography",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Rich chestnut to reddish-brown when dry, becoming darker and more vibrant when wet, with the wrinkles creating shadows that enhance the textured appearance",
-      "isPrimary": false
-    },
-    {
-      "label": "Growth Form",
-      "description": "Foliose with broad, overlapping lobes that attach loosely to bark, edges often curling upward and creating a layered appearance",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Almost exclusively found on the bark of deciduous trees, particularly favoring smooth-barked species in protected locations",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual colonies typically 2-6 inches across, with mature specimens occasionally reaching nearly a foot in diameter on undisturbed trees",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Chestnut Wrinkle Lichen prefers the bark of deciduous trees in mature forests throughout New England, particularly in sheltered valleys and north-facing slopes. It thrives in areas with consistent moisture and good air quality, often found in old-growth or minimally disturbed woodlands. You're most likely to spot it on smooth-barked trees like beech, maple, or birch in humid forest environments.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Colors become more vibrant as spring rains saturate the thallus, and the wrinkled texture is most pronounced as the lichen swells with moisture.",
-    "summer": "During dry periods, the lichen appears lighter brown and more brittle, with the wrinkles becoming more deeply defined as the thallus contracts.",
-    "fall": "Autumn moisture brings out rich chestnut tones, and falling leaves may temporarily obscure specimens growing on lower trunk sections.",
-    "winter": "Snow and ice highlight the textured surface beautifully, and the lichen remains visible and identifiable throughout the cold months on bare tree trunks."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Despite being called 'chestnut' colored, this lichen actually contains compounds that were historically used to create yellow and orange dyes - the brown color you see is just the surface, while the chemistry inside tells a completely different colorful story!",
-  "confusionNotes": "Most commonly confused with other brown foliose lichens, but the deep wrinkled texture is diagnostic - run your finger gently across the surface and you'll feel distinct ridges and valleys that other brown lichens lack. Remember: 'wrinkled like a raisin, brown like a chestnut.'",
-  "contextualKnowledge": "With only 2 recorded observations in New England, this lichen is either genuinely rare in our region or significantly under-reported, possibly because it's often mistaken for more common brown lichens. Citizen science contributions of verified sightings would be especially valuable for understanding its true distribution.",
-  "compareHints": "Unlike Fringed Wrinkle Lichen which has obvious hair-like projections along the edges, Chestnut Wrinkle Lichen has smooth lobe margins. It's also much more deeply wrinkled than Variable Wrinkle Lichen and lacks the extensive white markings often seen in Trailrunner. The rich chestnut color combined with pronounced surface texture sets it apart from all its relatives.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "tuckermanopsis-americana",
@@ -163,6 +137,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1019559"
 }

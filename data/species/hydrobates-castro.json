@@ -3,6 +3,12 @@
   "taxonId": 1289617,
   "group": "birds",
   "commonName": "Band-rumped Storm-Petrel",
+  "alternativeNames": [
+    "Harcourt's Storm-Petrel",
+    "Madeiran Storm Petrel",
+    "Madeiran Petrel",
+    "Band-rumped Storm Petrel"
+  ],
   "scientificName": "Hydrobates castro",
   "family": "Hydrobatidae",
   "familyCommonName": "Northern Storm-Petrels",
@@ -272,6 +278,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Band-rumped_storm_petrel",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1289617",
   "xenoCantoUrl": "https://xeno-canto.org/species/Hydrobates-castro"

@@ -3,6 +3,13 @@
   "taxonId": 39826,
   "group": "reptiles",
   "commonName": "Northern Red-bellied Cooter",
+  "alternativeNames": [
+    "American Red-bellied Turtle",
+    "Northern Redbelly Turtle",
+    "Eastern Redbelly Turtle",
+    "Northern Red-bellied Turtle",
+    "Northern Redbelly Cooter"
+  ],
   "scientificName": "Pseudemys rubriventris",
   "family": "Emydidae",
   "familyCommonName": "Pond and Box Turtles",
@@ -221,6 +228,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Northern_red-bellied_cooter",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/39826"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "pertusaria-macounii",
   "taxonId": 227551,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Macoun's Wart Lichen",
   "scientificName": "Pertusaria macounii",
   "family": "Pertusariaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "wart lichens, water lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -123,46 +123,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/22755102"
     }
   ],
-  "nameStory": "This lichen is named after John Macoun, a 19th-century Canadian botanist who spent decades exploring and cataloging the plants of eastern North America. The 'wart' part of the name comes from the bumpy, warty texture of its surface, which looks like tiny raised bumps scattered across tree bark. It's one of many species in the pore lichen family that create these distinctive warty growths.",
-  "description": "Macoun's Wart Lichen is a crusty, grayish lichen that forms patches on tree bark, creating a bumpy, warty surface that looks almost like the bark has developed small blisters. This organism is actually two living things working together: a fungus and an algae that share nutrients with each other in a partnership called symbiosis. The patches can grow several inches across, forming irregular, crusty mats that blend seamlessly with the bark. Individual 'warts' or bumps are typically 1-3 millimeters across, giving the whole colony a distinctly textured appearance.",
-  "idTips": [
-    {
-      "label": "Warty surface texture",
-      "description": "Run your finger gently over the surface - it feels bumpy and rough, like tiny hard pebbles glued to the bark. The raised bumps are firm and don't compress when pressed lightly.",
-      "isPrimary": true
-    },
-    {
-      "label": "Gray to whitish color",
-      "description": "The overall color is pale gray to dirty white, often with a slightly chalky appearance that may leave a faint residue on your fingers when rubbed.",
-      "isPrimary": false
-    },
-    {
-      "label": "Bark-hugging growth",
-      "description": "Grows as a thin, tightly attached crust that follows every contour of the bark - you can't peel it off in pieces like some other lichens.",
-      "isPrimary": false
-    },
-    {
-      "label": "Tiny dark pores",
-      "description": "Look closely at the bumps with a hand lens - many have tiny black dots or pores at their centers, like miniature volcanic craters.",
-      "isPrimary": false
-    },
-    {
-      "label": "Irregular patch shape",
-      "description": "Forms rounded to irregularly shaped patches that can merge together, creating larger colonies with wavy, indistinct borders.",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Macoun's Wart Lichen on the bark of deciduous trees, particularly maples, oaks, and birches in mature forests throughout New England's lower elevations. It prefers partially shaded areas with good air circulation, often found on the north-facing sides of trees or in forest interiors where humidity stays relatively constant. This species seems to favor areas with clean air, making it more common in undisturbed woodlands away from heavy pollution.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The grayish patches become more noticeable as they contrast with fresh green growth around them. This is a good time to spot them as the forest floor is less cluttered and tree trunks are more visible.",
-    "summer": "The lichen may appear slightly darker and more muted during hot, dry periods. Look for the characteristic warty texture which remains constant regardless of moisture levels.",
-    "fall": "Often easier to spot as leaves fall away, revealing more of the tree trunk surface. The patches may appear more prominent against the changing colors of autumn foliage.",
-    "winter": "Excellent visibility when deciduous trees are bare. The lichen remains active in winter moisture, sometimes appearing slightly more vibrant after snow melts and provides additional humidity."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Despite looking like a simple crusty growth, this lichen is actually older than many of the trees it grows on - some patches can live for over 100 years, slowly expanding outward just a few millimeters each year while surviving ice storms, droughts, and forest changes that would kill most other organisms.",
-  "confusionNotes": "Can be confused with other crusty lichens on bark, but most lack the distinctive raised warts - remember 'Macoun's has mountains' (the warty bumps). Smooth crusty lichens feel flat when you run your finger across them, while Macoun's always feels bumpy and textured.",
-  "contextualKnowledge": "John Macoun was known as 'Canada's Grand Old Man of Botany' and traveled over 100,000 miles by foot, canoe, and horseback to document North American plants. Having a lichen named after him reflects how important these often-overlooked organisms are to understanding forest ecosystems, even though most people walk past them without a second glance.",
-  "compareHints": "Macoun's Wart Lichen differs from its Pertusaria relatives by having more prominent, well-defined warty bumps compared to the flatter Rock Wart Lichen or the more pustule-like Branch Bumps. While other pore lichens in this genus may have similar textures, Macoun's warts are typically more uniform in size and more densely packed across the surface. The gray coloration is also more consistent than some relatives which may show yellowish or brownish tints.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "pertusaria-plittiana",
@@ -183,24 +157,25 @@
       "commonName": "Pertusaria rubefacta",
       "scientificName": "Pertusaria rubefacta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7787147/medium.jpg",
-      "distinction": "Unlike its more common relatives Rock Wart Lichen and Branch Bumps, this species shows distinctive reddish coloration rather than plain gray or white."
+      "distinction": "undefined."
     },
     {
       "slug": "pertusaria-sulcata",
       "commonName": "Pertusaria sulcata",
       "scientificName": "Pertusaria sulcata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/88171783/medium.jpg",
-      "distinction": "Unlike Rock Wart Lichen which forms obvious rounded bumps, or Branch Bumps which creates pustule-like growths, Pertusaria sulcata is distinguished by its grooved, furrowed surface texture."
+      "distinction": "undefined."
     },
     {
       "slug": "pertusaria-texana",
       "commonName": "Texas Wart Lichen",
       "scientificName": "Pertusaria texana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13437981/medium.jpeg",
-      "distinction": "Texas Wart Lichen differs from its Pertusaria relatives by having more distinctly rounded, wart-like bumps compared to the irregular lumps of Rock Wart Lichen or the pustule-like swellings of Branch Bumps."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/227551"
 }

@@ -3,6 +3,9 @@
   "taxonId": 121517,
   "group": "insects",
   "commonName": "Yellow-banded Bumble Bee",
+  "alternativeNames": [
+    "Yellow-banded Bumblebee"
+  ],
   "scientificName": "Bombus terricola",
   "family": "Apidae",
   "familyCommonName": "Honey Bees, Bumble Bees, and Allies",
@@ -310,6 +313,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bombus_terricola",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/121517",
   "ecologicalRole": {

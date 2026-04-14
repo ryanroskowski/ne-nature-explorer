@@ -1,8 +1,11 @@
 {
   "slug": "lecidea-atrobrunnea",
   "taxonId": 209793,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Brown Tile Lichen",
+  "alternativeNames": [
+    "lecidea lichen"
+  ],
   "scientificName": "Lecidea atrobrunnea",
   "family": "Lecideaceae",
   "familyCommonName": "Lecideaceae",
@@ -12,7 +15,7 @@
   "orderCommonName": "Lecideales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -139,46 +142,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/20979308"
     }
   ],
-  "nameStory": "The Brown Tile Lichen gets its name from its distinctive appearance - it forms brownish patches that crack and divide into small, tile-like sections called areoles. The scientific name 'atrobrunnea' literally means 'blackish-brown' in Latin, combining 'atro' (black) and 'brunnea' (dark brown), perfectly describing its color that appears black from far away but reveals rich brown tones up close.",
-  "description": "Brown Tile Lichen is a crusty, rock-hugging lichen that forms patch-like colonies on stone surfaces. It creates intricate patterns of small, tile-like segments that range from pale to dark reddish-brown in color, often appearing nearly black from a distance. This lichen is part of a complex group of similar species that scientists are still working to fully understand and classify. The colonies can completely cover rock faces or form colorful mosaics alongside other lichen communities.",
-  "idTips": [
-    {
-      "label": "Tile-like surface pattern",
-      "description": "Look for the distinctive cracked, tile-like pattern of small segments (areoles) that give this lichen its common name - feels rough and bumpy to the touch like broken ceramic",
-      "isPrimary": true
-    },
-    {
-      "label": "Color variation by distance",
-      "description": "Appears black from far away but reveals rich brown, reddish-brown, or pale brown colors when you get close - the centers of the tile sections are usually the darkest",
-      "isPrimary": false
-    },
-    {
-      "label": "Black reproductive structures",
-      "description": "Small, dark black disc-like spots (apothecia) scattered across the surface - these feel slightly raised and have a matte finish",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock-hugging growth",
-      "description": "Forms a crusty coating that seems painted directly onto rock surfaces - impossible to peel off in sheets like some other lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Shiny undersides",
-      "description": "Where edges can be seen lifting from rock, the underside appears shiny and dark - quite different from the matte upper surface",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "In New England, look for Brown Tile Lichen on exposed rock faces, particularly granite outcrops and cliff surfaces in mountainous areas. It prefers high-elevation sites with good air circulation and minimal soil accumulation. Based on its western distribution patterns, it would most likely be found in the White Mountains of New Hampshire and similar high-elevation rocky areas throughout the region.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Lichen remains visible as snow melts, revealing the dark patches against wet rock faces. Spring moisture may enhance the brown coloration.",
-    "summer": "Most active growing season when the lichen appears most vibrant. Black reproductive discs are most noticeable during dry summer conditions.",
-    "fall": "Colors may appear more muted as temperatures drop, but the tile-like pattern remains clearly visible against autumn-colored surroundings.",
-    "winter": "Often visible even under light snow cover due to its dark coloration. The contrast against white snow makes colonies easier to spot from a distance."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is part of the spectacular dark streaks that Native Americans called 'Face of a Young Woman Stained with Tears' on Half Dome in Yosemite - what looks like dramatic black tears streaming down the granite cliff face from miles away is actually millions of tiny lichen colonies creating one of nature's most poetic optical illusions.",
-  "confusionNotes": "Most easily confused with other dark, crusty lichens on rocks, but the distinctive tile-like cracking pattern and the color change from black-at-distance to brown-up-close is unique. Remember: 'Black from back, brown up close' to distinguish it from uniformly dark rock lichens.",
-  "contextualKnowledge": "Scientists recently discovered that what we call 'Brown Tile Lichen' is actually a complex of many different but very similar species that haven't been fully sorted out yet - so you might be looking at several different organisms that are nearly impossible to tell apart without genetic testing. This is common in lichen taxonomy where traditional identification methods are being revolutionized by DNA analysis.",
-  "compareHints": "Brown Tile Lichen differs from its relatives like Gray-orange Disk Lichen by its distinctly brownish (rather than grayish-orange) coloration and its preference for high-elevation rock faces. Unlike the regular Tile Lichen, it shows the characteristic color shift from black-at-distance to brown-up-close. The tile-like cracking pattern is shared among the genus, but the specific brown coloration and black reproductive structures help distinguish this species group.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "lecidea-lapicida",
@@ -192,24 +169,25 @@
       "commonName": "Tile Lichen",
       "scientificName": "Lecidea tessellata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110875620/medium.jpg",
-      "distinction": "Tile Lichen differs from its relatives like Gray-orange Disk Lichen by its distinctive tessellated surface pattern and more neutral coloration."
+      "distinction": "undefined."
     },
     {
       "slug": "lecidea-auriculata",
       "commonName": "Lecidea auriculata",
       "scientificName": "Lecidea auriculata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24954074/medium.jpg",
-      "distinction": "**Uncertainty note: Limited reference material available** Unlike Gray-orange Disk Lichen which has flatter, orange-tinged fruiting bodies, Lecidea auriculata has distinctly raised, ear-like margins on its black apothecia."
+      "distinction": "undefined."
     },
     {
       "slug": "lecidea-nylanderi",
       "commonName": "Nylander's Tile Lichen",
       "scientificName": "Lecidea nylanderi",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17226156/medium.jpg",
-      "distinction": "**Comparisons uncertain due to limited New England data:** Compared to other tile lichens in the Lecidea genus, Nylander's Tile Lichen likely has the most consistently black fruiting bodies without orange or brown tones that characterize Gray-orange Disk Lichen or Brown Tile Lichen."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lecidea_atrobrunnea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/209793"
 }

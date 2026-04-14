@@ -3,6 +3,9 @@
   "taxonId": 437504,
   "group": "crustaceans",
   "commonName": "Northern Shrimp",
+  "alternativeNames": [
+    "sweet shrimp"
+  ],
   "scientificName": "Pandalus borealis",
   "family": "Pandalidae",
   "familyCommonName": "Pandalid Shrimp",
@@ -178,6 +181,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pandalus_borealis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/437504"
 }

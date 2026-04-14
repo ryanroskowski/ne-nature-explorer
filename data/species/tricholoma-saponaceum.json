@@ -3,6 +3,9 @@
   "taxonId": 118213,
   "group": "fungi",
   "commonName": "Soapy Trich",
+  "alternativeNames": [
+    "Soapy Knight"
+  ],
   "scientificName": "Tricholoma saponaceum",
   "family": "Tricholomataceae",
   "familyCommonName": "Tricholomataceae",
@@ -442,6 +445,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Tricholoma_saponaceum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/118213"
 }

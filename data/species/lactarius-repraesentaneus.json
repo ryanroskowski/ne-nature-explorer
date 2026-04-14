@@ -3,6 +3,9 @@
   "taxonId": 499712,
   "group": "fungi",
   "commonName": "Purple-staining Bearded Milk Cap",
+  "alternativeNames": [
+    "yellow bearded milkcap"
+  ],
   "scientificName": "Lactarius repraesentaneus",
   "family": "Russulaceae",
   "familyCommonName": "Milkcaps, Brittlegills and Allies",
@@ -553,6 +556,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lactarius_repraesentaneus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/499712"
 }

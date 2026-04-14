@@ -3,6 +3,9 @@
   "taxonId": 198846,
   "group": "insects",
   "commonName": "Sanderson's Bumble Bee",
+  "alternativeNames": [
+    "Sanderson Bumble Bee"
+  ],
   "scientificName": "Bombus sandersoni",
   "family": "Apidae",
   "familyCommonName": "Honey Bees, Bumble Bees, and Allies",
@@ -324,6 +327,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bombus_sandersoni",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/198846",
   "ecologicalRole": {

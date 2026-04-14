@@ -1,7 +1,7 @@
 {
   "slug": "cladonia-subulata",
   "taxonId": 117948,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Antlered Powderhorn",
   "scientificName": "Cladonia subulata",
   "family": "Cladoniaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -91,51 +91,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/11794804"
     }
   ],
-  "nameStory": "The Antlered Powderhorn gets its charming name from its distinctive branching structure that looks remarkably like tiny deer antlers sprouting from the ground. The 'powderhorn' part refers to the hollow, horn-like tubes that make up its body, similar to the curved powder horns that colonial settlers used to store gunpowder. When you spot a cluster of these lichens, it's easy to imagine a miniature deer herd has left their antlers scattered across the forest floor!",
-  "description": "Antlered Powderhorn is a fruticose (shrub-like) lichen that grows in small, intricate clusters resembling tiny branched coral or deer antlers. This cup lichen starts with small, scaly patches at the base and sends up hollow, tube-like branches that fork and divide repeatedly, creating delicate, three-dimensional sculptures. The entire structure typically reaches only an inch or two in height, making it a miniature marvel that rewards close observation. Like other Cladonia lichens, it's actually two organisms living together - a fungus and an algae working as partners.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Look for repeatedly branching, hollow tubes that fork like tiny antlers, growing from small scaly patches at the base",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Typically pale gray to greenish-gray when dry, becoming more vivid green when wet from rain or morning dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Smooth to slightly rough surface that feels papery and brittle when dry, becoming softer and more pliable when moist",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Diminutive clusters usually under 2 inches tall, with individual 'antler branches' as thin as pencil lead",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Grows directly on acidic soil, rotting wood, or moss-covered surfaces, never on tree bark",
-      "isPrimary": false
-    },
-    {
-      "label": "Reproductive Structures",
-      "description": "May have small brown or reddish caps (apothecia) at the tips of branches, looking like tiny mushrooms perched on antler points",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Antlered Powderhorn thrives in acidic environments throughout New England's coniferous and mixed forests, particularly on sandy or peaty soils. You're most likely to find it along forest paths, in clearings, or on disturbed ground where the soil is exposed but not too trampled. It often grows alongside mosses and other small Cladonia lichens in areas that stay somewhat moist but have good air circulation.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes vibrant green after spring rains, making it easier to spot against dark soil. New growth may be visible as tiny emerging 'antler tips' from the base.",
-    "summer": "Often appears gray and somewhat brittle during dry spells, but perks up immediately after summer storms. This is when you're most likely to see reproductive structures forming.",
-    "fall": "Maintains good visibility as deciduous leaves fall away, revealing clusters that may have been hidden. Colors remain muted but structure is clearly defined.",
-    "winter": "Visible year-round under snow cover, appearing gray-brown and dormant but still identifiable by its distinctive branching pattern when exposed."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Despite being only found once in New England according to current records, Antlered Powderhorn is actually one of the first lichens ever scientifically described - it was named by Carl Linnaeus himself in 1753, the same year he established our modern system of naming species!",
-  "confusionNotes": "Most easily confused with other branching Cladonia species like Many-forked Cladonia, but Antlered Powderhorn has more delicate, repeatedly divided branches that truly resemble antlers rather than simple forks. Memory trick: 'Antlered' means multiple branches from branches, not just two-way splits.",
-  "contextualKnowledge": "As a member of the Cladonia genus, this species represents the 'pixie cup and reindeer lichen' group, though it lacks the obvious cups of pixie cups and the dense mat-forming habit of reindeer lichens. The rarity of observations in New England (only one recorded) doesn't necessarily mean it's endangered - many lichens are simply overlooked due to their small size and the specialized knowledge needed to identify them accurately.",
-  "compareHints": "Unlike the bright red caps of British Soldier Lichen or the obvious cups of Pebbled Pixie Cup, Antlered Powderhorn focuses its energy on intricate branching rather than showy reproductive structures. It's much more delicately branched than the robust, mat-forming reindeer lichens in its genus, and lacks the simple two-way forking pattern of Many-forked Cladonia. Think of it as the most architecturally complex small Cladonia - built for beauty rather than ground coverage.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "cladonia-cristatella",
@@ -288,7 +257,7 @@
       "slug": "cladonia-pyxidata",
       "commonName": "Pebbled Pixie Cup",
       "scientificName": "Cladonia pyxidata",
-      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/163996065/medium.jpg",
+      "thumbnailUrl": "https://static.inaturalist.org/photos/223688997/medium.jpeg",
       "distinction": "Unlike its smooth-surfaced cousin the Mealy Pixie Cup, this species has that distinctive gritty texture."
     },
     {
@@ -345,143 +314,144 @@
       "commonName": "Black-footed Reindeer Lichen",
       "scientificName": "Cladonia stygia",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/373403517/medium.jpeg",
-      "distinction": "Among the reindeer lichens, Black-footed stands out with its dark base coloration - Gray Reindeer Lichen is uniformly pale, while Star-tipped Reindeer Lichen has distinctive star-shaped branch tips."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-cenotea",
       "commonName": "Powdered Funnel Lichen",
       "scientificName": "Cladonia cenotea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/317147880/medium.jpeg",
-      "distinction": "Unlike the bright red caps of British Soldier Lichen or the branching antler-like form of reindeer lichens, Powdered Funnel Lichen has simple, unbranched cups with a distinctive powdery coating."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-multiformis",
       "commonName": "Sieve Lichen",
       "scientificName": "Cladonia multiformis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340554/medium.jpg",
-      "distinction": "Unlike the solid-walled Pebbled Pixie Cup or Mealy Pixie Cup, Sieve Lichen's perforated walls are unmistakable once you know what to look for."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-bellidiflora",
       "commonName": "Toy Soldiers",
       "scientificName": "Cladonia bellidiflora",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/276667118/medium.jpeg",
-      "distinction": "Unlike the bright red caps of British Soldiers or the branching antler-like growth of Reindeer Lichens, Toy Soldiers maintains the simple cup form throughout its life cycle."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-turgida",
       "commonName": "Crazy Scale Lichen",
       "scientificName": "Cladonia turgida",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/322873257/medium.jpeg",
-      "distinction": "Unlike the neat cup-forming pixie cups or the branching reindeer lichens in its genus, Crazy Scale Lichen stays low and scaly throughout its life."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-digitata",
       "commonName": "Finger Cup Lichen",
       "scientificName": "Cladonia digitata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/190429785/medium.jpeg",
-      "distinction": "Unlike the unbranched cups of pebbled pixie cup or the red-capped British soldier lichen, finger cup lichen always shows distinctive branching projections from its cups."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-labradorica",
       "commonName": "Labrador Prostrate Cladonia",
       "scientificName": "Cladonia labradorica",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41693749/medium.jpeg",
-      "distinction": "Unlike the familiar gray reindeer lichen which grows in tall, branching cushions, Labrador Prostrate Cladonia stays flat against the ground."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-ramulosa",
       "commonName": "Branched Pixie-cup Lichen",
       "scientificName": "Cladonia ramulosa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/184299746/medium.jpg",
-      "distinction": "Unlike the common Pebbled Pixie Cup which has simple unbranched cups, Branched Pixie-cup develops complex networks of forked branches from its cups."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-sulphurina",
       "commonName": "Greater Sulphur-cup Lichen",
       "scientificName": "Cladonia sulphurina",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/481355241/medium.jpeg",
-      "distinction": "Among its Cladonia relatives, Greater Sulphur-cup stands out for its intense yellow coloring - much brighter than the pale yellows of Common Powderhorn or the reds of British Soldier Lichen."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-rappii",
       "commonName": "Slender Ladder Lichen",
       "scientificName": "Cladonia rappii",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8313077/medium.jpeg",
-      "distinction": "Among the ladder-forming Cladonias, Slender Ladder Lichen is distinguished by its particularly thin stalks and compact size."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-crispata",
       "commonName": "Organ-pipe Lichen",
       "scientificName": "Cladonia crispata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/462506041/medium.jpg",
-      "distinction": "Among its Cladonia relatives, Organ-pipe Lichen stands out for its dramatically flared cup openings - while Trumpet Lichen and various powderhorns have tubes, none have the distinctive organ-pipe flare."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-cervicornis",
       "commonName": "Browned Pixie-cup Lichen",
       "scientificName": "Cladonia cervicornis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/105525517/medium.jpeg",
-      "distinction": "Among the many Cladonia species in New England, Browned Pixie-cup stands out for its brownish cup coloration - most of its relatives like Pebbled Pixie Cup or Mealy Pixie Cup have gray or whitish cups."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-transcendens",
       "commonName": "Cladonia transcendens",
       "scientificName": "Cladonia transcendens",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/255852090/medium.jpeg",
-      "distinction": "Unlike the common Pebbled Pixie Cup which forms simple, single cups, graduated cup lichen creates distinctive tiered structures."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-peziziformis",
       "commonName": "turban cup lichen",
       "scientificName": "Cladonia peziziformis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/145638305/medium.jpg",
-      "distinction": "Unlike the bright red caps of British Soldier lichen or the branching antler-like forms of reindeer lichens, turban cup lichen maintains a simple cup-on-stalk structure."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-botrytes",
       "commonName": "Wooden Soldiers Lichen",
       "scientificName": "Cladonia botrytes",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/306635385/medium.jpeg",
-      "distinction": "Unlike British Soldier lichen which has bright red caps and grows on various surfaces, Wooden Soldiers lacks colorful tops and sticks strictly to decaying wood."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-didyma",
       "commonName": "Southern Soldiers",
       "scientificName": "Cladonia didyma",
       "thumbnailUrl": "https://static.inaturalist.org/photos/30850776/medium.jpg",
-      "distinction": "Unlike the more common British Soldier lichen which has distinctly cup-shaped structures before developing red caps, Southern Soldiers tends to branch more directly into its red-topped forms."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-macrophylla",
       "commonName": "Fig-leaved Pixie Lichen",
       "scientificName": "Cladonia macrophylla",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60250068/medium.jpg",
-      "distinction": "Fig-leaved Pixie Lichen stands out from its Cladonia relatives by having proportionally larger, more distinctly leaf-shaped basal scales compared to species like British Soldier Lichen or Common Powderhorn."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-oricola",
       "commonName": "Cladonia oricola",
       "scientificName": "Cladonia oricola",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101539953/medium.jpeg",
-      "distinction": "Unlike the common British Soldier lichen with its bright red caps, or the branching reindeer lichens, this species maintains the classic small cup shape but in a much more diminutive package."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-pocillum",
       "commonName": "Rosette Pixie-cup Lichen",
       "scientificName": "Cladonia pocillum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/16215315/medium.jpg",
-      "distinction": "Among its Cladonia relatives, Rosette Pixie-cup stands out for its neat rosette clustering pattern, unlike the more randomly scattered cups of Pebbled Pixie Cup or the branching, antler-like forms of reindeer lichens."
+      "distinction": "undefined."
     },
     {
       "slug": "cladonia-terrae-novae",
       "commonName": "Reindeer Lichen",
       "scientificName": "Cladonia terrae-novae",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1445976/medium.jpeg",
-      "distinction": "Reindeer Lichen differs from its close relative Gray Reindeer Lichen by its denser, more cushion-like growth form and tendency to branch in groups of 3-4 rather than mainly in pairs."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cladonia_subulata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/117948"
 }

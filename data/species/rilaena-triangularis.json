@@ -3,6 +3,10 @@
   "taxonId": 488349,
   "group": "arachnids",
   "commonName": "Spring Harvestman",
+  "alternativeNames": [
+    "Spring Harvester",
+    "Pale-saddled Harvestman"
+  ],
   "scientificName": "Rilaena triangularis",
   "family": "Phalangiidae",
   "familyCommonName": "Phalangiid Harvestmen",
@@ -221,6 +225,7 @@
   "compareHints": "Since this is the only Rilaena species in New England, compare it with other spring-active harvestmen in the Phalangiidae family by looking for its distinctive triangular body outline. Most other early-season harvestmen have more rounded or oval bodies, while the Spring Harvestman's angular shape makes it stand out. Its moderate size also distinguishes it from both the tiny early harvestmen and the larger species that emerge later in the year.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Rilaena_triangularis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/488349"
 }

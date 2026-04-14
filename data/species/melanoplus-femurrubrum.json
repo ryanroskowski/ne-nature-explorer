@@ -3,6 +3,9 @@
   "taxonId": 129094,
   "group": "insects",
   "commonName": "Red-legged Grasshopper",
+  "alternativeNames": [
+    "Red-legged Locust"
+  ],
   "scientificName": "Melanoplus femurrubrum",
   "family": "Acrididae",
   "familyCommonName": "Short-horned Grasshoppers",
@@ -293,6 +296,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Melanoplus_femurrubrum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/129094",
   "ecologicalRole": {

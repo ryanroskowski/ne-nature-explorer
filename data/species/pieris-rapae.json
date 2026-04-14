@@ -3,6 +3,13 @@
   "taxonId": 55626,
   "group": "insects",
   "commonName": "Small White",
+  "alternativeNames": [
+    "Cabbage White",
+    "Cabbage Butterfly",
+    "Small Cabbage White",
+    "White Butterfly",
+    "Pepe Ma"
+  ],
   "scientificName": "Pieris rapae",
   "family": "Pieridae",
   "familyCommonName": "Whites, Yellows, and Sulphurs",
@@ -212,6 +219,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pieris_rapae",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/55626",
   "ecologicalRole": {

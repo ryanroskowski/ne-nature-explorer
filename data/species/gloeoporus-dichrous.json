@@ -3,6 +3,9 @@
   "taxonId": 202418,
   "group": "fungi",
   "commonName": "bicoloured bracket",
+  "alternativeNames": [
+    "bicolored bracket"
+  ],
   "scientificName": "Gloeoporus dichrous",
   "family": "Irpicaceae",
   "familyCommonName": "Irpicaceae",
@@ -234,6 +237,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Gloeoporus_dichrous",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/202418"
 }

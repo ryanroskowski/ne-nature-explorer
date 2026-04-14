@@ -3,6 +3,9 @@
   "taxonId": 1426453,
   "group": "insects",
   "commonName": "Belle Nomad Bee",
+  "alternativeNames": [
+    "Beautiful Cuckoo Nomad Bee"
+  ],
   "scientificName": "Nomada bella",
   "family": "Apidae",
   "familyCommonName": "Honey Bees, Bumble Bees, and Allies",
@@ -310,6 +313,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1426453",
   "ecologicalRole": {

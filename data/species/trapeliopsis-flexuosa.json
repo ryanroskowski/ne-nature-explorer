@@ -1,7 +1,7 @@
 {
   "slug": "trapeliopsis-flexuosa",
   "taxonId": 180493,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Board Lichen",
   "scientificName": "Trapeliopsis flexuosa",
   "family": "Trapeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Trapeliales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 2,
-  "abundanceTier": "moderate",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 132981340,
@@ -83,56 +83,31 @@
       "observationUrl": "https://www.inaturalist.org/observations/18049301"
     }
   ],
-  "nameStory": "Board Lichen gets its common name from its flat, board-like appearance when it forms thin crusts on wood and bark surfaces. The scientific name 'flexuosa' means 'bent' or 'curved,' referring to the slightly wavy edges of its fruiting bodies that can flex and bend with the wood as it weathers.",
-  "description": "Board Lichen is a crusty lichen that forms thin, flat patches on dead wood, old fence posts, and weathered tree bark. It creates a grayish to brownish crust that looks almost painted onto the surface, typically spreading 1-3 inches across. The lichen produces small, dark reproductive structures called apothecia that look like tiny black dots scattered across the crusty surface. This inconspicuous lichen is easily overlooked but becomes more noticeable once you know what to look for.",
-  "idTips": [
-    {
-      "label": "Crusty texture on wood",
-      "description": "Forms a thin, rough crust that feels slightly gritty when you run your finger across it, almost like fine sandpaper adhered to the wood surface",
-      "isPrimary": true
-    },
-    {
-      "label": "Gray-brown coloration",
-      "description": "Displays muted gray to brownish tones that blend with weathered wood, sometimes with a slightly greenish tint when moist",
-      "isPrimary": false
-    },
-    {
-      "label": "Small black dots",
-      "description": "Tiny dark apothecia (fruiting bodies) appear as pinprick-sized black spots scattered across the surface, feeling smooth and slightly raised",
-      "isPrimary": false
-    },
-    {
-      "label": "Wood substrate preference",
-      "description": "Almost exclusively grows on dead wood surfaces - old boards, fallen logs, weathered fence posts - rarely found on living bark",
-      "isPrimary": false
-    },
-    {
-      "label": "Thin profile",
-      "description": "Creates an extremely flat crust that follows every contour of the wood grain, with edges that are barely raised above the surface",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Board Lichen thrives on weathered wood surfaces throughout New England's forests and rural areas, particularly on old fence posts, fallen logs, and dead branches. It prefers partially shaded locations with good air circulation, often found in mixed hardwood forests and along woodland edges. You'll spot it most commonly on oak, maple, and pine wood that has been exposed to the elements for several years.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The lichen appears more vibrant and slightly greenish after spring rains moisten the crusty surface. New growth edges may be visible as the lichen slowly expands.",
-    "summer": "During dry periods, the crust appears more gray and subdued, with black fruiting bodies being most prominent and easiest to spot against the lighter background.",
-    "fall": "Autumn moisture brings out subtle color variations, and the lichen remains active while many other organisms slow down for winter.",
-    "winter": "The lichen persists through cold weather, often being one of the few visible organisms on snow-covered dead wood, appearing as dark patches against white backgrounds."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Board Lichen can remain dormant for months during dry spells, then spring back to life within minutes of getting wet - it can go from completely dried out and seemingly dead to actively photosynthesizing faster than you can make a cup of coffee!",
-  "confusionNotes": "Board Lichen is often confused with simple wood staining or discoloration, especially when the black fruiting bodies aren't prominent. Look for the slightly raised, gritty texture - real wood stains will be completely smooth and flat, while Board Lichen has a subtle three-dimensional quality you can feel with your fingertip.",
-  "contextualKnowledge": "Like all lichens, Board Lichen is actually two organisms living together - a fungus and an algae in partnership. The fungus provides structure and protection while the algae performs photosynthesis, making this crusty growth more like a tiny ecosystem than a single organism.",
-  "compareHints": "Board Lichen differs from its relative Granular Mottled-disk Lichen by growing specifically on wood rather than soil or rock, and by forming a smoother, more continuous crust rather than granular, bumpy patches. While Granular Mottled-disk has a distinctly bumpy, warty texture, Board Lichen maintains its characteristically flat, board-like appearance that follows the wood grain closely.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "trapeliopsis-granulosa",
       "commonName": "Granular Mottled-disk Lichen",
       "scientificName": "Trapeliopsis granulosa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/445071303/medium.jpeg",
-      "distinction": "Unlike its relative Board Lichen (Trapeliopsis flexuosa), which tends to grow on wood and has a smoother, more uniform surface, Granular Mottled-disk Lichen has that distinctive gritty texture and prefers living tree bark."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/180493"
 }

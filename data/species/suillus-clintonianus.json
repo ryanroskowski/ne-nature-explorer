@@ -3,6 +3,9 @@
   "taxonId": 1302186,
   "group": "fungi",
   "commonName": "Larch Suillus",
+  "alternativeNames": [
+    "Tamarack Jack"
+  ],
   "scientificName": "Suillus clintonianus",
   "family": "Suillaceae",
   "familyCommonName": "Suillaceae",
@@ -328,6 +331,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1302186"
 }

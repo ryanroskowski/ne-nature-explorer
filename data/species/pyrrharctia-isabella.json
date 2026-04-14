@@ -3,6 +3,15 @@
   "taxonId": 59675,
   "group": "insects",
   "commonName": "Isabella Tiger Moth",
+  "alternativeNames": [
+    "Banded Woolly Bear",
+    "Wooly Worm",
+    "Isabelline Tiger",
+    "Woolly Bear",
+    "Woolly Worm",
+    "Woolly Bear Caterpillar",
+    "Wooly Bear"
+  ],
   "scientificName": "Pyrrharctia isabella",
   "family": "Erebidae",
   "familyCommonName": "Underwing, Tiger, Tussock, and Allied Moths",
@@ -226,6 +235,7 @@
   "compareHints": "As the only Pyrrharctia species in New England, the Isabella tiger moth is most easily confused with other tiger moths in the family Erebidae. However, the combination of cream-colored wings with small black spots and the bright orange-yellow body makes it distinctive. Most other tiger moths have either more complex wing patterns, different body colors, or lack the scattered-dot pattern on pale wings.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pyrrharctia_isabella",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/59675",
   "ecologicalRole": {

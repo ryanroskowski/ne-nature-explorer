@@ -1,7 +1,7 @@
 {
   "slug": "scytinium-subtile",
   "taxonId": 532317,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Appressed Jellyskin Lichen",
   "scientificName": "Scytinium subtile",
   "family": "Collemataceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Peltigerales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -99,68 +99,38 @@
       "observationUrl": "https://www.inaturalist.org/observations/53231700"
     }
   ],
-  "nameStory": "The 'Appressed Jellyskin' name perfectly captures this lichen's two main characteristics. When wet, it transforms into a jelly-like, slippery coating that feels surprisingly smooth and gelatinous to the touch. The 'appressed' part refers to how tightly it hugs its surface—pressed so flat against bark or rock that it almost seems painted on.",
-  "description": "Appressed Jellyskin Lichen is a small, dark lichen that forms thin, smooth patches pressed tightly against tree bark and rocks. When dry, it appears as dark olive-brown to blackish crusty patches that might be overlooked entirely. But add some moisture from rain or morning dew, and it transforms dramatically into a glossy, jelly-like coating with a surprisingly slippery texture. Individual patches typically measure just a few centimeters across, though several may grow together to form larger colonies.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms extremely thin, smooth patches that lie completely flat against surfaces—so flat you could run your finger over it and barely feel any texture",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Dramatically changes from dull dark olive-brown when dry to glossy black or dark green when wet, with a almost mirror-like shine",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "The magic moment—when moist, becomes surprisingly slippery and jelly-like, feeling almost like wet seaweed or a smooth gel coating",
-      "isPrimary": true
-    },
-    {
-      "label": "Substrate",
-      "description": "Most commonly found on smooth bark of deciduous trees, especially maple and oak, but also colonizes rock surfaces in shaded areas",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual patches are typically small, usually 1-3 centimeters across, though multiple colonies can merge into larger irregular patches",
-      "isPrimary": false
-    },
-    {
-      "label": "Reproductive Structures",
-      "description": "Rarely produces visible fruiting bodies; reproduction happens mostly through fragmentation of the jelly-like thallus body",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Appressed Jellyskin Lichen in moist, shaded woodlands throughout New England, particularly on the smooth bark of maple, oak, and beech trees. It thrives in areas with consistent humidity—stream valleys, north-facing slopes, and the understory of mature forests where morning dew lingers. You'll also find it on shaded rock outcrops and stone walls in wooded areas.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Prime viewing season as frequent rains activate the jelly-like texture. Morning dew makes colonies especially glossy and slippery—perfect for experiencing the dramatic wet transformation.",
-    "summer": "Often appears dried and inconspicuous during hot, dry periods, but summer thunderstorms will quickly reactivate the gelatinous properties within minutes of getting wet.",
-    "fall": "Cool, moist autumn weather keeps colonies active longer. Look for it when morning fog and dew are common—the glossy black patches become quite noticeable against colorful fall foliage.",
-    "winter": "Remains visible but often dry and dormant. However, winter thaws and rain will still trigger the jelly-like transformation, creating striking dark patches against snow-covered bark."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen can go from bone-dry and seemingly lifeless to fully hydrated and jelly-like in less than 60 seconds when hit by rain—faster than a sponge soaking up water, thanks to specialized cells that can absorb up to 20 times their weight in moisture instantly.",
-  "confusionNotes": "When dry, it's easily mistaken for simple dark stains, algae, or even dirt on bark—the key is to splash a little water on suspicious dark patches to see if they transform into the telltale jelly texture. Unlike true algae, it won't feel slimy when wet, just smooth and slippery.",
-  "contextualKnowledge": "**Note: Information about this specific species is limited in field guides, as it's rarely documented and easily overlooked.** The dramatic wet-dry transformation is common to all 'jellyskin' lichens, but distinguishing between the different Scytinium species often requires microscopic examination by experts.",
-  "compareHints": "Appressed Jellyskin differs from its relatives by being extremely flat and smooth—Tattered Jellyskin has a more wrinkled, folded appearance even when wet, while Beaded Jellyskin forms small, rounded bumps or beads rather than smooth patches. Think of Appressed as the 'painted-on' member of the family, forming the thinnest, smoothest coating of all the jellyskin lichens.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "scytinium-lichenoides",
       "commonName": "Tattered Jellyskin Lichen",
       "scientificName": "Scytinium lichenoides",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/351340272/medium.jpg",
-      "distinction": "Tattered Jellyskin differs from its relatives Appressed Jellyskin and Beaded Jellyskin primarily in those distinctive fringed edges - the other jellyskins have smoother margins without the characteristic cylindrical projections."
+      "distinction": "undefined."
     },
     {
       "slug": "scytinium-teretiusculum",
       "commonName": "Beaded Jellyskin Lichen",
       "scientificName": "Scytinium teretiusculum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10653046/medium.jpg",
-      "distinction": "Unlike its relative the Tattered Jellyskin Lichen which has a more wrinkled, folded appearance, Beaded Jellyskin has that distinctive bumpy, beaded surface texture."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/532317"
 }

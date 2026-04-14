@@ -3,6 +3,12 @@
   "taxonId": 24259,
   "group": "amphibians",
   "commonName": "Pacific chorus frog",
+  "alternativeNames": [
+    "Pacific tree frog",
+    "Northern Baja California treefrog",
+    "Sierran Tree Frog",
+    "Northern Pacific Treefrog"
+  ],
   "scientificName": "Pseudacris regilla",
   "family": "Hylidae",
   "familyCommonName": "Hyline Tree Frogs",
@@ -238,6 +244,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pacific_tree_frog",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/24259",
   "xenoCantoUrl": "https://xeno-canto.org/species/Pseudacris-regilla"

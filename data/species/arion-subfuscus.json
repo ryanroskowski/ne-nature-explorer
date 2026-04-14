@@ -3,6 +3,10 @@
   "taxonId": 61428,
   "group": "mollusks",
   "commonName": "Western Dusky Slug",
+  "alternativeNames": [
+    "Dusky Slug",
+    "Dusky Arion"
+  ],
   "scientificName": "Arion subfuscus",
   "family": "Arionidae",
   "familyCommonName": "Roundback Slugs",
@@ -269,6 +273,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Arion_fuscus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/61428"
 }

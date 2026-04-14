@@ -3,6 +3,10 @@
   "taxonId": 105212,
   "group": "mollusks",
   "commonName": "Freshwater Pearl Mussel",
+  "alternativeNames": [
+    "Eastern Pearlshell",
+    "Freshwater Pearlshell"
+  ],
   "scientificName": "Margaritifera margaritifera",
   "family": "Margaritiferidae",
   "familyCommonName": "Margaritiferidae",
@@ -205,6 +209,7 @@
   "compareHints": "This is the only Margaritifera species in New England, but it differs from other local freshwater mussels in the Unionidae family by its much thicker shell, more brilliant interior nacre, and preference for faster-flowing, colder water. While other mussels prefer slower rivers and ponds, pearl mussels need the constant flow of clean streams and have that unmistakable mirror-like inner shell that other species simply can't match.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Freshwater_pearl_mussel",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/105212"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "xanthoparmelia-conspersa",
   "taxonId": 203800,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Peppered Rock-shield",
   "scientificName": "Xanthoparmelia conspersa",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -244,17 +244,18 @@
       "commonName": "Narrow-lobed Rock-shield",
       "scientificName": "Xanthoparmelia angustiphylla",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/364516880/medium.jpeg",
-      "distinction": "Unlike the Peppered Rock-shield which has broader lobes and often shows white spots (soredia), Narrow-lobed Rock-shield has distinctly thin, finger-like lobes without the powdery white patches."
+      "distinction": "undefined."
     },
     {
       "slug": "xanthoparmelia-viriduloumbrina",
       "commonName": "Shingled Rock-shield Lichen",
       "scientificName": "Xanthoparmelia viriduloumbrina",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/350490100/medium.jpeg",
-      "distinction": "Unlike the more common Peppered Rock-shield which has a distinctly speckled appearance, Shingled Rock-shield lacks those pepper-like spots and has more pronounced overlapping lobes."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Xanthoparmelia_conspersa",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/203800"
 }

@@ -3,6 +3,13 @@
   "taxonId": 49591,
   "group": "fish",
   "commonName": "Bluegill",
+  "alternativeNames": [
+    "Bluegill Sunfish",
+    "Bream",
+    "Gill",
+    "Bull",
+    "Copperbelly"
+  ],
   "scientificName": "Lepomis macrochirus",
   "family": "Centrarchidae",
   "familyCommonName": "Freshwater Sunfishes",
@@ -223,6 +230,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bluegill",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/49591"
 }

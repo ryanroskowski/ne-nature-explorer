@@ -1,7 +1,7 @@
 {
   "slug": "coenogonium-pineti",
   "taxonId": 462754,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Pink Dimple Lichen",
   "scientificName": "Coenogonium pineti",
   "family": "Coenogoniaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "script lichens, whitewash lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -115,56 +115,31 @@
       "observationUrl": "https://www.inaturalist.org/observations/46275403"
     }
   ],
-  "nameStory": "The 'Pink Dimple Lichen' gets its charming name from the small, pale pinkish apothecia (spore-producing structures) that dot its surface like tiny dimples. These delicate reproductive features create subtle dimpled patterns across the lichen's otherwise smooth, greyish-green body, giving it a uniquely textured appearance that early naturalists found reminiscent of dimpled skin.",
-  "description": "Pink Dimple Lichen is a crusty, flat-growing lichen that spreads across tree bark like a thin, smooth patch of greyish-green to greenish-black paint. This small but charming organism typically measures about 1/4 to 3/4 inch across, creating circular or irregular patches on its host surface. What makes it special are the tiny pale spots scattered across its surface - these are its reproductive structures that give the lichen its 'dimpled' appearance. Like all lichens, it's actually two organisms living together: a fungus and an algae working as a team.",
-  "idTips": [
-    {
-      "label": "Pale dimpled spots",
-      "description": "Look for tiny pale spots (about the size of a pinhead) scattered across the surface - these feel slightly raised when you gently run your finger over them and create the characteristic 'dimpled' texture",
-      "isPrimary": true
-    },
-    {
-      "label": "Smooth crusty texture",
-      "description": "The main body feels smooth and slightly rough like fine sandpaper, completely flat against the bark with no leafy edges or branching structures",
-      "isPrimary": false
-    },
-    {
-      "label": "Greyish-green color",
-      "description": "Color ranges from greyish-green when dry to a deeper greenish-black when moist, often with a subtle matte finish that doesn't reflect light",
-      "isPrimary": false
-    },
-    {
-      "label": "Small circular patches",
-      "description": "Forms neat, roughly circular patches usually smaller than a quarter, though sometimes several patches grow together into larger irregular shapes",
-      "isPrimary": false
-    },
-    {
-      "label": "Bark-hugging growth",
-      "description": "Grows so tightly against tree bark that you cannot peel it off without scraping - it becomes part of the bark's surface texture",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Pink Dimple Lichen makes its home on the bark of various trees throughout New England's forests, particularly favoring cooler, more humid woodland areas. You'll most often spot it in mixed deciduous and coniferous forests at various elevations, where it appreciates the stable moisture conditions and filtered light. Occasionally, this adaptable lichen will also colonize mossy surfaces in the same forest environments.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The lichen becomes more vibrant as spring moisture returns, with colors shifting from winter's duller tones to brighter greyish-greens. This is an excellent time to spot the pale dimpled reproductive structures as they become more prominent.",
-    "summer": "During dry summer periods, the lichen may appear more greyish and less green, but the characteristic dimpled texture remains clearly visible. Look for it during humid mornings when colors are most saturated.",
-    "fall": "Fall's increased moisture brings out rich greenish-black coloration, making this an ideal season for identification. The contrast between the dark body and pale dimples is most pronounced now.",
-    "winter": "Though colors are more subdued in winter, the lichen remains identifiable by its smooth texture and dimpled pattern. Snow cover may obscure it temporarily, but it's perfectly hardy through New England winters."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Pink Dimple Lichen is actually a biological mystery in disguise - recent DNA analysis has revealed that what we call one species might actually be several 'cryptic species' that look identical but are genetically distinct, like biological doppelgangers that have fooled scientists for over 200 years!",
-  "confusionNotes": "Pink Dimple Lichen can be confused with other small crusty lichens on bark, but the key difference is those tiny pale dimples - most other crusty lichens either have no spots at all or have much darker, more prominent fruiting bodies. Remember: 'pale dimples on dark crust' is your magic phrase for identification.",
-  "contextualKnowledge": "Despite its common name, the 'pink' in Pink Dimple Lichen refers to very pale, almost whitish spots rather than bright pink coloration - don't expect the vibrant pink you might imagine. This lichen represents one of many cases where DNA analysis is revolutionizing our understanding of species that were classified centuries ago based on appearance alone.",
-  "compareHints": "Pink Dimple Lichen differs from its relative Orange Dimple Lichen primarily in the color of its reproductive structures - Pink Dimple has pale, nearly white dimples while Orange Dimple has distinctly orange-tinted ones. Both species share the same smooth, crusty growth form and similar size, but the dimple color is the reliable distinguishing feature. The overall body color of Pink Dimple also tends to be more greyish-green compared to Orange Dimple's often brighter green tones.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "coenogonium-luteum",
       "commonName": "Orange Dimple Lichen",
       "scientificName": "Coenogonium luteum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/75612565/medium.jpeg",
-      "distinction": "Orange Dimple Lichen differs from its relative Pink Dimple Lichen mainly in the color of its reproductive structures - orange versus pink dots."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Coenogonium_pineti",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/462754"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "pertusaria-rubefacta",
   "taxonId": 227568,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Pertusaria rubefacta",
   "scientificName": "Pertusaria rubefacta",
   "family": "Pertusariaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "wart lichens, water lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 7787147,
@@ -75,46 +75,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/7082683"
     }
   ],
-  "nameStory": "The scientific name 'rubefacta' means 'made red' or 'reddened,' hinting at this lichen's distinctive reddish coloring that sets it apart from its paler cousins. Like other members of the Pertusaria genus, it gets the common name 'pore lichen' from the tiny pore-like openings where its spores are released, resembling miniature volcanic craters on its crusty surface.",
-  "description": "This is a crustose lichen that forms thin, crusty patches directly on tree bark, looking almost like someone splashed reddish-gray paint that dried and cracked. The thallus (lichen body) is typically grayish with distinctive reddish tinges, especially around the reproductive structures. It grows in irregular patches that can span several inches across, though individual colonies often merge together. Like all lichens, it's actually two organisms living together - a fungus and an alga working as a team.",
-  "idTips": [
-    {
-      "label": "Reddish coloration",
-      "description": "Look for the telltale reddish or pinkish tinge, especially noticeable around the small bumpy structures (perithecia) that dot the surface like tiny volcanoes",
-      "isPrimary": true
-    },
-    {
-      "label": "Crusty texture",
-      "description": "Feels rough and chalky to the touch, firmly attached to bark and impossible to peel off in sheets - it would crumble if you tried to scrape it",
-      "isPrimary": false
-    },
-    {
-      "label": "Pore-like openings",
-      "description": "Tiny dark dots or pores scattered across the surface, each about the size of a pinhead, where spores are released",
-      "isPrimary": false
-    },
-    {
-      "label": "Bark-dwelling habit",
-      "description": "Always found growing directly on tree bark, never on rocks or soil, forming irregular patches that follow the bark's contours",
-      "isPrimary": false
-    },
-    {
-      "label": "Smooth thallus surface",
-      "description": "The main body appears relatively smooth between the raised bumps, with a slightly powdery or granular texture when viewed closely",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Found on the bark of deciduous trees in New England's forests, particularly favoring oak, maple, and ash trees. Prefers somewhat sheltered locations in mature forests where humidity levels remain fairly consistent. Most commonly spotted in mixed hardwood forests at low to moderate elevations throughout the region.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more noticeable as trees leaf out and forest humidity increases, making the reddish coloration more pronounced against the dark, moist bark.",
-    "summer": "At its most visible during humid summer months when the lichen is actively photosynthesizing, though the thick forest canopy may make it harder to spot in deep shade.",
-    "fall": "Easier to observe as leaves fall and expose more bark surface, with the reddish tones often standing out beautifully against autumn colors.",
-    "winter": "Still present and identifiable on bare bark, though colors may appear somewhat muted in the dry winter air and harsh lighting conditions."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is so rare in New England that it's been spotted only once in recent scientific surveys, making it potentially rarer than some endangered mammals - you'd have a better chance of seeing a bobcat than finding this crusty treasure!",
-  "confusionNotes": "Most easily confused with other Pertusaria species that lack the distinctive reddish coloration - if you don't see any pinkish or reddish tinge, you're probably looking at Rock Wart Lichen or Branch Bumps instead. Remember: 'Red for rare' - the reddish color is your key clue that you've found something special.",
-  "contextualKnowledge": "**Note: This identification is based on limited training data due to the species' extreme rarity in New England.** The single observation record suggests this may be at the northern edge of its range or represents a very uncommon occurrence. Any potential sighting should be documented with photos and reported to local naturalist groups for verification.",
-  "compareHints": "Unlike its more common relatives Rock Wart Lichen and Branch Bumps, this species shows distinctive reddish coloration rather than plain gray or white. While Branch Bumps has more prominent raised bumps and Rock Wart Lichen tends to be thicker and chalkier, this species combines a relatively smooth surface with those diagnostic reddish tones. The pore-like structures are similar across all Pertusaria species, but the color is your best distinguishing feature.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "pertusaria-plittiana",
@@ -135,24 +109,25 @@
       "commonName": "Macoun's Wart Lichen",
       "scientificName": "Pertusaria macounii",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114097124/medium.jpeg",
-      "distinction": "Macoun's Wart Lichen differs from its Pertusaria relatives by having more prominent, well-defined warty bumps compared to the flatter Rock Wart Lichen or the more pustule-like Branch Bumps."
+      "distinction": "undefined."
     },
     {
       "slug": "pertusaria-sulcata",
       "commonName": "Pertusaria sulcata",
       "scientificName": "Pertusaria sulcata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/88171783/medium.jpg",
-      "distinction": "Unlike Rock Wart Lichen which forms obvious rounded bumps, or Branch Bumps which creates pustule-like growths, Pertusaria sulcata is distinguished by its grooved, furrowed surface texture."
+      "distinction": "undefined."
     },
     {
       "slug": "pertusaria-texana",
       "commonName": "Texas Wart Lichen",
       "scientificName": "Pertusaria texana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13437981/medium.jpeg",
-      "distinction": "Texas Wart Lichen differs from its Pertusaria relatives by having more distinctly rounded, wart-like bumps compared to the irregular lumps of Rock Wart Lichen or the pustule-like swellings of Branch Bumps."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/227568"
 }

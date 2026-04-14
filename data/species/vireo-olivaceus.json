@@ -3,6 +3,10 @@
   "taxonId": 891704,
   "group": "birds",
   "commonName": "Red-eyed Vireo",
+  "alternativeNames": [
+    "Northern Red-eyed Vireo",
+    "Magnolia bird"
+  ],
   "scientificName": "Vireo olivaceus",
   "family": "Vireonidae",
   "familyCommonName": "Vireos, Shrike-Babblers, and Erpornis",
@@ -341,6 +345,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Red-eyed_vireo",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/891704",
   "xenoCantoUrl": "https://xeno-canto.org/species/Vireo-olivaceus"

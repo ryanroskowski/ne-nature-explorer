@@ -1,7 +1,7 @@
 {
   "slug": "phaeophyscia-orbicularis",
   "taxonId": 60718,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Mealy Shadow Lichen",
   "scientificName": "Phaeophyscia orbicularis",
   "family": "Physciaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "button lichens, rosette lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -155,46 +155,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/64669449"
     }
   ],
-  "nameStory": "The \"mealy\" in this lichen's name comes from its powdery, flour-like surface coating that feels gritty when you gently rub it between your fingers. The \"shadow\" part refers to its preference for growing in partially shaded spots rather than full sun, while \"orbicularis\" means circular, describing its round, coin-like growth pattern.",
-  "description": "Mealy Shadow Lichen is a crusty, circular lichen that forms small gray-green patches on tree bark and rocks. Each patch typically grows 1-3 inches across and has a distinctive powdery, granular surface that looks almost like it's been dusted with coarse flour. This lichen belongs to a large group of organisms that are part fungus and part algae living together in partnership. It's quite uncommon in New England, making it an exciting find for lichen enthusiasts.",
-  "idTips": [
-    {
-      "label": "Powdery surface texture",
-      "description": "The entire surface feels gritty and granular, like coarse cornmeal, and leaves a slight dusty residue on your fingertip when touched gently",
-      "isPrimary": true
-    },
-    {
-      "label": "Circular growth pattern",
-      "description": "Forms distinct round or oval patches that spread outward from the center, resembling gray-green coins pressed against the surface",
-      "isPrimary": false
-    },
-    {
-      "label": "Gray-green coloration",
-      "description": "Overall color is a muted gray-green, sometimes appearing more bluish-gray in shade or yellowish-gray in brighter light",
-      "isPrimary": false
-    },
-    {
-      "label": "Crusty attachment",
-      "description": "Grows tightly attached to its surface with no leaf-like edges or raised portions - completely flat and crusty to the substrate",
-      "isPrimary": false
-    },
-    {
-      "label": "Small reproductive structures",
-      "description": "May have tiny dark dots (fruiting bodies) scattered across the surface that look like pepper flakes embedded in the powdery coating",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Mealy Shadow Lichen on the bark of deciduous trees, particularly maples and oaks, in partially shaded woodland edges and urban parks. It prefers spots that get some morning sun but are protected from harsh afternoon light, often on the east or north sides of tree trunks. This species seems to tolerate moderate air pollution better than many other lichens, making it occasionally findable in suburban areas.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The powdery surface becomes more noticeable as humidity increases, and any reproductive structures may be most visible during this growing season.",
-    "summer": "Growth is active during humid periods, though the lichen may appear somewhat faded during very dry spells in full summer heat.",
-    "fall": "Often at its most distinctive as cooler, moister conditions enhance the contrast between the powdery surface and darker fruiting structures.",
-    "winter": "Remains visible and identifiable year-round, sometimes appearing more prominent against bare tree bark when leaves have fallen."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen can actually \"eat\" air pollution - it absorbs nitrogen compounds from car exhaust and industrial emissions through its powdery surface, which is why it's one of the few lichens that can survive in moderately polluted urban environments where most of its relatives disappear.",
-  "confusionNotes": "Most easily confused with other gray crusty lichens, but the distinctive mealy, flour-like texture sets it apart - other similar species feel smooth, bumpy, or cracked, but not gritty and powdery. Remember: if it feels like you're touching coarse flour, you've likely found the mealy shadow lichen.",
-  "contextualKnowledge": "With only one recorded observation in New England, this species represents one of our region's rarest lichens, making any sighting scientifically valuable. The scarcity could be due to specific habitat requirements or simply because it's easily overlooked among more common crusty lichens.",
-  "compareHints": "Unlike its relatives such as Orange-cored Shadow Lichen (which has orange inner tissues) or Hairy Shadow Lichen (which has fuzzy edges), Mealy Shadow Lichen lacks both colorful internal tissues and hairy margins. Its uniformly powdery surface distinguishes it from the scaly Scaly Shadow Lichen or the whisker-edged Whiskered Shadow Lichen.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "phaeophyscia-rubropulchra",
@@ -222,45 +196,46 @@
       "commonName": "Ciliate Wreath Lichen",
       "scientificName": "Phaeophyscia ciliata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35065558/medium.jpg",
-      "distinction": "Unlike its relatives in the Phaeophyscia genus, Ciliate Wreath Lichen is the only one with prominent white hair-like projections along all lobe edges."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-hirsuta",
       "commonName": "Hairy Shadow Lichen",
       "scientificName": "Phaeophyscia hirsuta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30674510/medium.jpg",
-      "distinction": "Among its relatives, Hairy Shadow Lichen is distinguished by those characteristic hair-like edge projections that other shadow lichens lack."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-sciastra",
       "commonName": "Dark Shadow Lichen",
       "scientificName": "Phaeophyscia sciastra",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/197801920/medium.jpg",
-      "distinction": "Unlike its relatives in the Phaeophyscia genus, Dark Shadow Lichen is easily recognized by its abundant black isidia that cover both the center and edges of the lobes."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-endococcinodes",
       "commonName": "Red-cored Starburst Shadow Lichen",
       "scientificName": "Phaeophyscia endococcinodes",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52995932/medium.jpeg",
-      "distinction": "Unlike its relatives like Orange-cored Shadow Lichen (which has orange interiors) or Mealy Shadow Lichen (which has white powdery surfaces), Red-cored Starburst Shadow Lichen is the only species in its genus with the distinctive crimson interior."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-hispidula",
       "commonName": "Whiskered Shadow Lichen",
       "scientificName": "Phaeophyscia hispidula",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57630316/medium.jpeg",
-      "distinction": "Among its Phaeophyscia relatives, Whiskered Shadow Lichen is distinguished by its particularly prominent marginal cilia and small size."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-squarrosa",
       "commonName": "Scaly Shadow Lichen",
       "scientificName": "Phaeophyscia squarrosa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13552775/medium.jpeg",
-      "distinction": "Among its shadow lichen relatives, Scaly Shadow Lichen is distinguished by its prominently curled, squarrose lobes that create a three-dimensional texture."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/60718"
 }

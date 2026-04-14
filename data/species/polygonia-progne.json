@@ -3,6 +3,9 @@
   "taxonId": 58580,
   "group": "insects",
   "commonName": "Gray Comma",
+  "alternativeNames": [
+    "Grey Comma"
+  ],
   "scientificName": "Polygonia progne",
   "family": "Nymphalidae",
   "familyCommonName": "Brush-footed Butterflies",
@@ -249,6 +252,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Polygonia_progne",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/58580",
   "ecologicalRole": {

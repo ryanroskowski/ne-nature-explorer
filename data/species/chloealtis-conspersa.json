@@ -3,6 +3,9 @@
   "taxonId": 216778,
   "group": "insects",
   "commonName": "Sprinkled Locust",
+  "alternativeNames": [
+    "Sprinkled Grasshopper"
+  ],
   "scientificName": "Chloealtis conspersa",
   "family": "Acrididae",
   "familyCommonName": "Short-horned Grasshoppers",
@@ -249,6 +252,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chloealtis_conspersa",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/216778",
   "ecologicalRole": {

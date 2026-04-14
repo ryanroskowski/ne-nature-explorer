@@ -3,6 +3,9 @@
   "taxonId": 896143,
   "group": "fungi",
   "commonName": "Boxwood Blight",
+  "alternativeNames": [
+    "box blight"
+  ],
   "scientificName": "Calonectria pseudonaviculata",
   "family": "Nectriaceae",
   "familyCommonName": "Nectriaceae",
@@ -107,6 +110,7 @@
   "compareHints": "",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Boxwood_blight",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/896143"
 }

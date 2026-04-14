@@ -1,7 +1,7 @@
 {
   "slug": "phaeophyscia-sciastra",
   "taxonId": 227662,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Dark Shadow Lichen",
   "scientificName": "Phaeophyscia sciastra",
   "family": "Physciaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "button lichens, rosette lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -99,46 +99,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/70854380"
     }
   ],
-  "nameStory": "The Dark Shadow Lichen gets its name from the distinctive black, granular bumps called isidia that dot its surface like stubble on a face. It's also sometimes called the \"five o'clock shadow\" lichen because these dark specks give it the same dusky appearance as facial hair emerging through skin.",
-  "description": "Dark Shadow Lichen is a crusty, flat organism that's actually two life forms living together - a fungus and an algae in partnership. It forms neat, circular rosettes up to 2 inches across on sun-baked rocks, made up of tiny flat lobes that hug tightly to the stone surface. Each lobe is only about half a millimeter wide, creating an intricate pattern that looks almost like a miniature succulent plant pressed flat against the rock.",
-  "idTips": [
-    {
-      "label": "Black granular bumps",
-      "description": "Look for distinctive black, sand-like granules scattered across the surface and edges - these isidia feel slightly rough to the touch and are the key identifying feature",
-      "isPrimary": true
-    },
-    {
-      "label": "Rosette growth pattern",
-      "description": "Forms neat, circular patterns up to 2 inches across that radiate outward from the center like flower petals",
-      "isPrimary": false
-    },
-    {
-      "label": "Tiny flat lobes",
-      "description": "Individual lobes are extremely narrow (about 0.5mm) and feel smooth except for the granular isidia, lying completely flat against the rock",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock-hugging habit",
-      "description": "Adheres so tightly to rock surfaces that it's nearly impossible to peel off without damaging - feels like it's painted on",
-      "isPrimary": false
-    },
-    {
-      "label": "Sun-exposed location",
-      "description": "Almost always found on rocks that get direct sunlight for much of the day, especially on vertical or slanted surfaces",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Dark Shadow Lichen on sun-exposed rocky outcrops, stone walls, and boulders throughout New England, with a particular fondness for sandstone surfaces. It thrives on vertical rock faces and slanted surfaces that catch plenty of direct sunlight. You'll often find it sharing space with other rock-dwelling lichens on everything from roadside stone walls to natural cliff faces.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The black isidia become more prominent as the lichen begins its growing season, making identification easier on warming rocks.",
-    "summer": "Most active growth period when the rosette patterns are most clearly defined and the contrast between the lichen body and black granules is strongest.",
-    "fall": "Still easily identifiable as the lichen remains active in cool weather, with isidia clearly visible against the changing light.",
-    "winter": "Remains visible year-round on snow-free rock faces, though may appear slightly duller; the distinctive black granules still provide reliable identification."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This tiny lichen is one of the most well-traveled organisms on Earth, naturally occurring on every continent except Antarctica and thriving in environments from African deserts to Arctic tundra - all while never moving from its chosen rock!",
-  "confusionNotes": "Can be confused with other shadow lichens in the same genus, but the abundant black isidia scattered across both the center and edges of the lobes are distinctive. Memory trick: if it looks like it needs a shave with all those black stubble-like bumps, it's the Dark Shadow Lichen.",
-  "contextualKnowledge": "Despite being called a \"lichen,\" this organism is actually a successful partnership between a fungus and an algae that has been so evolutionarily successful it's found on six continents. The name \"shadow\" doesn't refer to shade-loving habits - quite the opposite, as these lichens prefer sunny exposures.",
-  "compareHints": "Unlike its relatives in the Phaeophyscia genus, Dark Shadow Lichen is easily recognized by its abundant black isidia that cover both the center and edges of the lobes. The Orange-cored and Red-cored Shadow Lichens show colorful centers when broken, while others like the Hairy Shadow Lichen have hair-like projections instead of granular bumps. The black isidia make Dark Shadow Lichen the \"stubbly\" member of the shadow lichen family.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "phaeophyscia-rubropulchra",
@@ -166,45 +140,46 @@
       "commonName": "Ciliate Wreath Lichen",
       "scientificName": "Phaeophyscia ciliata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35065558/medium.jpg",
-      "distinction": "Unlike its relatives in the Phaeophyscia genus, Ciliate Wreath Lichen is the only one with prominent white hair-like projections along all lobe edges."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-hirsuta",
       "commonName": "Hairy Shadow Lichen",
       "scientificName": "Phaeophyscia hirsuta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30674510/medium.jpg",
-      "distinction": "Among its relatives, Hairy Shadow Lichen is distinguished by those characteristic hair-like edge projections that other shadow lichens lack."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-orbicularis",
       "commonName": "Mealy Shadow Lichen",
       "scientificName": "Phaeophyscia orbicularis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/45382098/medium.jpeg",
-      "distinction": "Unlike its relatives such as Orange-cored Shadow Lichen (which has orange inner tissues) or Hairy Shadow Lichen (which has fuzzy edges), Mealy Shadow Lichen lacks both colorful internal tissues and hairy margins."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-endococcinodes",
       "commonName": "Red-cored Starburst Shadow Lichen",
       "scientificName": "Phaeophyscia endococcinodes",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52995932/medium.jpeg",
-      "distinction": "Unlike its relatives like Orange-cored Shadow Lichen (which has orange interiors) or Mealy Shadow Lichen (which has white powdery surfaces), Red-cored Starburst Shadow Lichen is the only species in its genus with the distinctive crimson interior."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-hispidula",
       "commonName": "Whiskered Shadow Lichen",
       "scientificName": "Phaeophyscia hispidula",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57630316/medium.jpeg",
-      "distinction": "Among its Phaeophyscia relatives, Whiskered Shadow Lichen is distinguished by its particularly prominent marginal cilia and small size."
+      "distinction": "undefined."
     },
     {
       "slug": "phaeophyscia-squarrosa",
       "commonName": "Scaly Shadow Lichen",
       "scientificName": "Phaeophyscia squarrosa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13552775/medium.jpeg",
-      "distinction": "Among its shadow lichen relatives, Scaly Shadow Lichen is distinguished by its prominently curled, squarrose lobes that create a three-dimensional texture."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Phaeophyscia_sciastra",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/227662"
 }

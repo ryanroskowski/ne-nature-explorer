@@ -3,6 +3,9 @@
   "taxonId": 381762,
   "group": "fungi",
   "commonName": "Hakea Gummosis Fungus",
+  "alternativeNames": [
+    "Needlebush Gummosis"
+  ],
   "scientificName": "Colletotrichum acutatum",
   "family": "Glomerellaceae",
   "familyCommonName": "Glomerellaceae",
@@ -137,6 +140,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Colletotrichum_acutatum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/381762"
 }

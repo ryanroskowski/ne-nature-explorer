@@ -3,6 +3,9 @@
   "taxonId": 226688,
   "group": "insects",
   "commonName": "Hermit Flower Beetle",
+  "alternativeNames": [
+    "Hermit Beetle"
+  ],
   "scientificName": "Osmoderma eremicola",
   "family": "Scarabaeidae",
   "familyCommonName": "Scarabs",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Osmoderma_eremicola",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/226688",
   "ecologicalRole": {

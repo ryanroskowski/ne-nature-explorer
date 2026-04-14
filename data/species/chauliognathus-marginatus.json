@@ -3,6 +3,10 @@
   "taxonId": 84040,
   "group": "insects",
   "commonName": "Margined Leatherwing Beetle",
+  "alternativeNames": [
+    "Margined Soldier Beetle",
+    "Margined Leatherwing"
+  ],
   "scientificName": "Chauliognathus marginatus",
   "family": "Cantharidae",
   "familyCommonName": "Soldier Beetles",
@@ -234,6 +238,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Chauliognathus_marginatus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/84040",
   "ecologicalRole": {

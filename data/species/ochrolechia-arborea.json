@@ -1,8 +1,11 @@
 {
   "slug": "ochrolechia-arborea",
   "taxonId": 226109,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Tree Saucer Lichen",
+  "alternativeNames": [
+    "Tree Crabseye Lichen"
+  ],
   "scientificName": "Ochrolechia arborea",
   "family": "Ochrolechiaceae",
   "familyCommonName": "Ochrolechiaceae",
@@ -12,7 +15,7 @@
   "orderCommonName": "wart lichens, water lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -155,46 +158,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/22610904"
     }
   ],
-  "nameStory": "Tree Saucer Lichen gets its name from its distinctive cup-shaped reproductive structures that look like tiny saucers scattered across tree bark. The \"saucer\" part refers to these round, shallow discs called apothecia, while \"tree\" indicates its preferred growing surface on bark rather than rocks or soil.",
-  "description": "Tree Saucer Lichen is a crusty, patch-forming lichen that grows directly on tree bark, creating irregular whitish-gray to pale greenish patches. Like all lichens, it's actually two organisms living together - a fungus and an algae in partnership. The body of the lichen forms thin, crusty patches that can spread several inches across, dotted with small, saucer-like reproductive structures. It's a slow-growing organism that can persist for many years once established.",
-  "idTips": [
-    {
-      "label": "Saucer-shaped discs",
-      "description": "Look for small, round, shallow cup-like structures (apothecia) about 1-3mm across with pale edges and darker centers - they feel slightly raised and firm to the touch",
-      "isPrimary": true
-    },
-    {
-      "label": "Crusty white-gray surface",
-      "description": "The main body feels rough and chalky, like dried paint, with a whitish-gray to pale greenish color that may crack in dry conditions",
-      "isPrimary": false
-    },
-    {
-      "label": "Tree bark habitat",
-      "description": "Always found growing directly on living tree bark, never on rocks or dead wood - feels firmly attached and difficult to scrape off",
-      "isPrimary": false
-    },
-    {
-      "label": "Irregular patch shape",
-      "description": "Forms spreading, irregular patches with no defined border, often merging with other lichen patches in a patchwork pattern",
-      "isPrimary": false
-    },
-    {
-      "label": "Smooth inner surface",
-      "description": "If you can carefully lift an edge, the underside lacks root-like structures and appears smooth and pale",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Tree Saucer Lichen grows on the bark of deciduous and coniferous trees in New England's forests, particularly favoring trees with smooth to moderately rough bark. It's most commonly found in mature forests with good air quality, from sea level to mid-elevation mountains. Look for it on oak, maple, birch, and pine trees in both mixed and pure stands.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The crusty body remains visible as snow melts, and the saucer-shaped reproductive structures may appear more prominent as the lichen becomes active with increased moisture.",
-    "summer": "Peak growing season when the lichen body appears most vibrant and the distinctive saucer discs are easiest to spot against the pale crusty surface.",
-    "fall": "Still clearly visible and identifiable, though growth slows - this is often when reproductive structures are most mature and well-developed.",
-    "winter": "Remains visible year-round on bark, though may appear duller or grayer - the raised saucer structures help distinguish it even when partially snow-covered."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Tree Saucer Lichen is so sensitive to air pollution that scientists use it as a living air quality monitor - areas where it thrives indicate exceptionally clean air, making it nature's own environmental report card!",
-  "confusionNotes": "Most easily confused with other crusty white lichens on bark, but the distinctive small saucer-shaped reproductive discs are the giveaway - remember \"saucers for tea on the tree\" to distinguish it from flat, disc-less crusty lichens.",
-  "contextualKnowledge": "Despite being called Tree Saucer \"Lichen,\" remember that lichens aren't plants at all - they're a fascinating partnership between fungi and algae that has been so successful it's evolved independently multiple times throughout Earth's history.",
-  "compareHints": "Tree Saucer Lichen differs from its Ochrolechia relatives by specifically growing on tree bark rather than rocks, and by having smaller, more numerous saucer-shaped discs compared to species like Coral Saucer which has fewer, larger reproductive structures. The whitish-gray crusty body also tends to be thinner and more closely adhered to bark than rock-dwelling relatives.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "ochrolechia-yasudae",
@@ -208,31 +185,32 @@
       "commonName": "Appalachian saucer",
       "scientificName": "Ochrolechia pseudopallescens",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/77336490/medium.jpg",
-      "distinction": "Appalachian saucer differs from its relatives like Tree Saucer Lichen by its paler overall coloration and the specific cream-colored tint of its fruiting discs."
+      "distinction": "undefined."
     },
     {
       "slug": "ochrolechia-trochophora",
       "commonName": "Rosy Saucer Lichen",
       "scientificName": "Ochrolechia trochophora",
       "thumbnailUrl": "https://static.inaturalist.org/photos/660110/medium.jpg",
-      "distinction": "Among its Ochrolechia relatives, Rosy Saucer is distinguished by those characteristic pink-rimmed reproductive cups - other saucer lichens in the genus typically have brown, black, or plain white edges on their apothecia."
+      "distinction": "undefined."
     },
     {
       "slug": "ochrolechia-androgyna",
       "commonName": "Powdery Saucer Lichen",
       "scientificName": "Ochrolechia androgyna",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34665930/medium.jpg",
-      "distinction": "**Note: Comparison details are uncertain due to limited information."
+      "distinction": "undefined."
     },
     {
       "slug": "ochrolechia-africana",
       "commonName": "Frosty Saucer",
       "scientificName": "Ochrolechia africana",
       "thumbnailUrl": "https://static.inaturalist.org/photos/115157460/medium.jpg",
-      "distinction": "Unlike its relatives in the Crabseye Lichen genus, Frosty Saucer is distinguished by its distinctly powdery white apothecia rather than the smoother or differently colored reproductive structures found in species like Coral Saucer or Tree Saucer Lichen."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/226109"
 }

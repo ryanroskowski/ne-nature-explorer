@@ -3,6 +3,11 @@
   "taxonId": 129240,
   "group": "insects",
   "commonName": "Migratory Grasshopper",
+  "alternativeNames": [
+    "Lesser Grasshopper",
+    "Lesser Migratory Grasshopper",
+    "Lesser Locust"
+  ],
   "scientificName": "Melanoplus sanguinipes",
   "family": "Acrididae",
   "familyCommonName": "Short-horned Grasshoppers",
@@ -310,6 +315,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Melanoplus_sanguinipes",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/129240",
   "ecologicalRole": {

@@ -3,6 +3,9 @@
   "taxonId": 9100,
   "group": "birds",
   "commonName": "Song Sparrow",
+  "alternativeNames": [
+    "Brown Song Sparrow"
+  ],
   "scientificName": "Melospiza melodia",
   "family": "Passerellidae",
   "familyCommonName": "New World Sparrows",
@@ -316,6 +319,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Song_sparrow",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/9100",
   "xenoCantoUrl": "https://xeno-canto.org/species/Melospiza-melodia"

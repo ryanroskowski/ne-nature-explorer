@@ -1,7 +1,7 @@
 {
   "slug": "melanelixia-subaurifera",
   "taxonId": 194686,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Abraded Camouflage Lichen",
   "scientificName": "Melanelixia subaurifera",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -225,10 +225,11 @@
       "commonName": "Polished Camouflage Lichen",
       "scientificName": "Melanelixia glabratula",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/102046039/medium.jpeg",
-      "distinction": "Polished Camouflage Lichen differs from its closest relative, Abraded Camouflage Lichen, primarily in surface texture - while both are leafy bark lichens, the Polished species has that distinctive smooth, glossy finish whereas the Abraded species has a rougher, more worn-looking surface."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/194686"
 }

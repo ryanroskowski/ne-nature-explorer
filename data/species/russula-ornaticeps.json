@@ -3,6 +3,9 @@
   "taxonId": 194418,
   "group": "fungi",
   "commonName": "purple cap russula",
+  "alternativeNames": [
+    "purple-cap russula"
+  ],
   "scientificName": "Russula ornaticeps",
   "family": "Russulaceae",
   "familyCommonName": "Milkcaps, Brittlegills and Allies",
@@ -782,6 +785,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/194418"
 }

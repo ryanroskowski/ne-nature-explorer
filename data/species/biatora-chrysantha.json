@@ -1,7 +1,7 @@
 {
   "slug": "biatora-chrysantha",
   "taxonId": 462450,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Biatora chrysantha",
   "scientificName": "Biatora chrysantha",
   "family": "Ramalinaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -59,63 +59,38 @@
       "observationUrl": "https://www.inaturalist.org/observations/46245000"
     }
   ],
-  "nameStory": "The name 'chrysantha' comes from Greek words meaning 'golden flower,' referring to the bright yellow reproductive structures that look like tiny golden dots scattered across the lichen's surface. While lichens don't actually produce flowers, early botanists often used floral terms to describe their colorful fruiting bodies called apothecia.",
-  "description": "**[UNCERTAIN CLAIM - Limited reference material]** Biatora chrysantha appears to be a small crustose lichen that forms thin, crusty patches on its growing surface. It's characterized by its distinctive golden-yellow apothecia (reproductive structures) that stand out against what is likely a grayish or whitish body. This lichen probably grows to only a few centimeters across, typical of many dot lichens in this genus.",
-  "idTips": [
-    {
-      "label": "Reproductive Structures",
-      "description": "**[UNCERTAIN]** Bright golden-yellow apothecia (fruiting bodies) that look like tiny round dots or discs, usually less than 2mm across, scattered across the lichen surface",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "**[UNCERTAIN]** Crustose (crusty) lichen that forms thin patches tightly attached to the substrate, feeling rough and gritty to the touch like fine sandpaper",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "**[UNCERTAIN]** Body (thallus) likely grayish-white to pale, contrasting sharply with the golden-yellow fruiting structures",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "**[UNCERTAIN]** Surface feels dry and slightly rough, with the raised golden dots creating a bumpy texture under your fingertip",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "**[UNCERTAIN]** Individual patches typically small, probably 1-3 centimeters across, though multiple patches may grow near each other",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "**[UNCERTAIN CLAIM]** Based on its rarity in New England (only one recorded observation), this lichen likely grows in very specific microhabitats, possibly on bark of certain trees or on rock surfaces. It may prefer areas with particular moisture conditions or air quality requirements that are uncommon in our region.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "**[UNCERTAIN]** Golden apothecia may be most prominent in spring as the lichen becomes active with increasing moisture and temperatures.",
-    "summer": "**[UNCERTAIN]** During dry summer weather, the lichen body may appear more contracted and the colors more muted, but the distinctive yellow dots should still be visible.",
-    "fall": "**[UNCERTAIN]** Fall moisture may refresh the lichen's appearance, potentially making colors more vibrant again as humidity increases.",
-    "winter": "**[UNCERTAIN]** Lichen remains visible year-round, though wet conditions may darken the body color while keeping the yellow reproductive structures bright."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "**[UNCERTAIN CLAIM]** With only one recorded observation in all of New England, spotting Biatora chrysantha would be like finding lichen gold - you might be only the second person to document it in our region!",
-  "confusionNotes": "**[UNCERTAIN]** This species might be confused with other small crustose lichens that have yellow fruiting bodies, but the specific golden color and small size of the apothecia should help distinguish it from more common yellow-fruited species.",
-  "contextualKnowledge": "The extremely low observation count (just 1 in New England) suggests this species may be at the edge of its range here, misidentified in databases, or simply overlooked due to its small size and specific habitat requirements.",
-  "compareHints": "**[UNCERTAIN]** Compared to Spring Dot Lichen (Biatora vernalis), which is more commonly found in our region, B. chrysantha likely has more intensely golden-yellow apothecia rather than the paler yellow or brownish fruiting bodies of its relative. The other related species, Biatora pontica, may have different colored reproductive structures or grow in different habitats entirely.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "biatora-vernalis",
       "commonName": "Spring Dot Lichen",
       "scientificName": "Biatora vernalis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/350088519/medium.jpg",
-      "distinction": "Spring Dot Lichen differs from its relatives like Biatora chrysantha by having more prominent and regularly-spaced dot-like apothecia, while other Biatora species may have more irregularly shaped or colored fruiting bodies."
+      "distinction": "undefined."
     },
     {
       "slug": "biatora-pontica",
       "commonName": "Biatora pontica",
       "scientificName": "Biatora pontica",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/354274850/medium.jpg",
-      "distinction": "Pontic Dot Lichen differs from its relative Spring Dot Lichen by its consistently leprose (powdery) texture, while Spring Dot Lichen typically has a more solid, firmly attached crust."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/462450"
 }

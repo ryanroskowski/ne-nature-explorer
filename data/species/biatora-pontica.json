@@ -1,7 +1,7 @@
 {
   "slug": "biatora-pontica",
   "taxonId": 462463,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Biatora pontica",
   "scientificName": "Biatora pontica",
   "family": "Ramalinaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -75,63 +75,38 @@
       "observationUrl": "https://www.inaturalist.org/observations/46246301"
     }
   ],
-  "nameStory": "The Pontic Dot Lichen gets its scientific name from the Pontus region around the Black Sea, where it was first scientifically described. Like other dot lichens, it forms small, dot-like patches on tree bark. The 'dot' part of the name comes from how these lichens create scattered, powdery spots that look like someone dabbed paint dots across the bark.",
-  "description": "Pontic Dot Lichen is a crusty, bark-dwelling lichen that forms powdery, granular patches on tree trunks and branches. This leprose lichen (meaning it has a dusty, flour-like texture) creates thin, spreading crusts that look almost like someone sprinkled colored powder on the bark. It's a small lichen, typically forming patches just a few inches across, though multiple colonies can grow close together. Despite being found worldwide, it's quite uncommon in New England, making it an exciting find for lichen enthusiasts.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "The surface feels powdery and granular, like fine flour or chalk dust that could rub off on your finger if touched gently",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms thin, crusty patches that spread across bark in irregular shapes, never forming leaves or branches",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Always grows directly on tree bark, particularly favoring smooth-barked trees where it can establish a firm grip",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual patches typically measure 1-3 inches across, though several colonies may merge to cover larger areas",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Appears grayish to pale colored when dry, may show subtle color changes when moistened by rain or fog",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Pontic Dot Lichen on the bark of deciduous and coniferous trees throughout New England's forests, from lowland woods to mountain slopes. It seems to prefer areas with good air circulation and moderate moisture, often thriving in coastal regions where sea fog provides regular humidity. This lichen appears to be quite rare in our region, so finding it would be a special discovery in any New England woodland.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The lichen becomes more vibrant as spring rains moisten it, and the powdery texture may become slightly more cohesive when damp.",
-    "summer": "During dry summer weather, the lichen appears at its most powdery and pale, with the granular texture most pronounced.",
-    "fall": "Fall moisture makes the lichen more noticeable against changing bark colors, and it may show subtle color shifts when wet from autumn rains.",
-    "winter": "Snow and ice don't harm this hardy lichen, and it remains visible year-round, though it may appear somewhat muted against wet, dark bark."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This little lichen is basically a world traveler - scientists have found the exact same species living on trees in Africa, Asia, Europe, and North America, making it one of the most widely distributed lichens on Earth despite being quite rare in any single location!",
-  "confusionNotes": "Pontic Dot Lichen can be easily confused with other powdery, crusty lichens on bark, but its leprose (flour-like) texture that rubs off easily helps distinguish it from firmer crustose lichens that are solidly attached to the bark.",
-  "contextualKnowledge": "The term 'leprose' comes from the Greek word for 'scaly' and refers to lichens with a powdery, granular surface texture that can partially rub off. This growth form is actually quite specialized and represents an adaptation that allows the lichen to spread by dispersing tiny fragments containing both fungal and algal partners.",
-  "compareHints": "Pontic Dot Lichen differs from its relative Spring Dot Lichen by its consistently leprose (powdery) texture, while Spring Dot Lichen typically has a more solid, firmly attached crust. The other related species, Biatora chrysantha, tends to have more yellowish tones, whereas Pontic Dot Lichen maintains more neutral gray coloring. All three species share the preference for growing on bark, but the powdery texture of Pontic Dot Lichen makes it distinctive once you know what to feel for.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "biatora-vernalis",
       "commonName": "Spring Dot Lichen",
       "scientificName": "Biatora vernalis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/350088519/medium.jpg",
-      "distinction": "Spring Dot Lichen differs from its relatives like Biatora chrysantha by having more prominent and regularly-spaced dot-like apothecia, while other Biatora species may have more irregularly shaped or colored fruiting bodies."
+      "distinction": "undefined."
     },
     {
       "slug": "biatora-chrysantha",
       "commonName": "Biatora chrysantha",
       "scientificName": "Biatora chrysantha",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17375358/medium.jpeg",
-      "distinction": "**[UNCERTAIN]** Compared to Spring Dot Lichen (Biatora vernalis), which is more commonly found in our region, B."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Biatora_pontica",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/462463"
 }

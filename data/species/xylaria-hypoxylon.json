@@ -3,6 +3,9 @@
   "taxonId": 55267,
   "group": "fungi",
   "commonName": "Candlesnuff Fungus",
+  "alternativeNames": [
+    "carbon antlers"
+  ],
   "scientificName": "Xylaria hypoxylon",
   "family": "Xylariaceae",
   "familyCommonName": "Xylariaceae",
@@ -268,6 +271,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Xylaria_hypoxylon",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/55267"
 }

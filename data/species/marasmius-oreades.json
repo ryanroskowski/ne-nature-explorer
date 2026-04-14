@@ -3,6 +3,11 @@
   "taxonId": 118240,
   "group": "fungi",
   "commonName": "fairy ring marasmius",
+  "alternativeNames": [
+    "scotch bonnet",
+    "fairy ring mushroom",
+    "Fairy Ring Champignon"
+  ],
   "scientificName": "Marasmius oreades",
   "family": "Marasmiaceae",
   "familyCommonName": "Pinwheel Family",
@@ -290,6 +295,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Marasmius_oreades",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/118240"
 }

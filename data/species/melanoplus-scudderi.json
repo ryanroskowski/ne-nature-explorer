@@ -3,6 +3,9 @@
   "taxonId": 224772,
   "group": "insects",
   "commonName": "Scudder's Short-winged Grasshopper",
+  "alternativeNames": [
+    "Scudder's Short-winged Locust"
+  ],
   "scientificName": "Melanoplus scudderi",
   "family": "Acrididae",
   "familyCommonName": "Short-horned Grasshoppers",
@@ -286,6 +289,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Melanoplus_scudderi",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/224772",
   "ecologicalRole": {

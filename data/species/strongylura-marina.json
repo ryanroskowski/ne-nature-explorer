@@ -3,6 +3,17 @@
   "taxonId": 113308,
   "group": "fish",
   "commonName": "Atlantic Needlefish",
+  "alternativeNames": [
+    "Harvest pike",
+    "Northern needlefish",
+    "Green gar",
+    "Saltwater gar",
+    "Silver gar",
+    "Silvery gar",
+    "Bluebone",
+    "Agujon",
+    "Billfish"
+  ],
   "scientificName": "Strongylura marina",
   "family": "Belonidae",
   "familyCommonName": "Needlefishes",
@@ -202,6 +213,7 @@
   "compareHints": "As the only needlefish species commonly found in New England waters, Atlantic needlefish are most similar to the related but smaller halfbeaks, which have only the lower jaw extended. Unlike halfbeaks, needlefish have both upper and lower jaws forming the characteristic long beak. They're also much more elongated than any other local fish with similar pointed snouts.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Strongylura_marina",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/113308"
 }

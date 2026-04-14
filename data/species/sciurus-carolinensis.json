@@ -3,6 +3,15 @@
   "taxonId": 46017,
   "group": "mammals",
   "commonName": "Eastern Gray Squirrel",
+  "alternativeNames": [
+    "Eastern Grey Squirrel",
+    "Grey Squirrel",
+    "Black Squirrel",
+    "Carolina Gray Squirrel",
+    "Carolina Grey Squirrel",
+    "American Squirrel",
+    "cat squirrel"
+  ],
   "scientificName": "Sciurus carolinensis",
   "family": "Sciuridae",
   "familyCommonName": "Squirrels",
@@ -194,6 +203,7 @@
   "compareHints": "Eastern Gray Squirrels are the only tree squirrel in their genus found in New England, but comparing them to other squirrel family members helps with identification. They're much larger than Red Squirrels and lack the ear tufts, yet smaller and less robust than Fox Squirrels. Unlike ground squirrels or chipmunks, Gray Squirrels spend most of their time in trees rather than on the ground and lack the distinctive stripes of chipmunks.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eastern_gray_squirrel",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/46017"
 }

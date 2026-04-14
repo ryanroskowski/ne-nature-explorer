@@ -3,6 +3,10 @@
   "taxonId": 194792,
   "group": "insects",
   "commonName": "Golden Ground Beetle",
+  "alternativeNames": [
+    "the goldsmith",
+    "Golden Worm and Slug Hunter"
+  ],
   "scientificName": "Carabus auratus",
   "family": "Carabidae",
   "familyCommonName": "Ground Beetles",
@@ -205,6 +209,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Carabus_auratus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/194792",
   "ecologicalRole": {

@@ -3,6 +3,9 @@
   "taxonId": 351303,
   "group": "fungi",
   "commonName": "Gray-stemmed Milk Cap",
+  "alternativeNames": [
+    "Slimy Milk Cap"
+  ],
   "scientificName": "Lactarius pseudomucidus",
   "family": "Russulaceae",
   "familyCommonName": "Milkcaps, Brittlegills and Allies",
@@ -513,6 +516,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lactarius_pseudomucidus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/351303"
 }

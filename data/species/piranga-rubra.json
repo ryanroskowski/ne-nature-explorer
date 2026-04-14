@@ -3,6 +3,9 @@
   "taxonId": 9915,
   "group": "birds",
   "commonName": "Summer Tanager",
+  "alternativeNames": [
+    "Summer Piranga"
+  ],
   "scientificName": "Piranga rubra",
   "family": "Cardinalidae",
   "familyCommonName": "Cardinals and Allies",
@@ -315,6 +318,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Summer_tanager",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/9915",
   "xenoCantoUrl": "https://xeno-canto.org/species/Piranga-rubra"

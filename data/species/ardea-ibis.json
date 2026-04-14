@@ -3,6 +3,12 @@
   "taxonId": 411086,
   "group": "birds",
   "commonName": "Western Cattle-Egret",
+  "alternativeNames": [
+    "Tick Bird",
+    "African Cattle Egret",
+    "Cattle Egret",
+    "Western Cattle Egret"
+  ],
   "scientificName": "Ardea ibis",
   "family": "Ardeidae",
   "familyCommonName": "Herons, Egrets, and Bitterns",
@@ -248,6 +254,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cattle_egret",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/411086"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "aspicilia-laevata",
   "taxonId": 214458,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Smooth Sunken Disc Lichen",
   "scientificName": "Aspicilia laevata",
   "family": "Megasporaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "wart lichens, water lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -139,41 +139,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/21445808"
     }
   ],
-  "nameStory": "This lichen gets its name from its distinctive appearance - the reproductive structures (called apothecia) appear as dark, sunken discs pressed down into the lichen's surface, like tiny craters. The 'smooth' part refers to the relatively even, unruffled surface of the lichen body itself. It's like nature created a collection of miniature lunar craters on rock surfaces!",
-  "description": "Smooth sunken disc lichen is a crusty lichen that forms thin, gray to whitish patches directly on rock surfaces. It's what scientists call a 'crustose' lichen - meaning it grows as a crust that's tightly bonded to its rocky home and can't be peeled off in one piece. The patches can grow several inches across but remain quite thin, almost painted-on looking. What makes it special are the small, dark circular depressions scattered across its surface - these are its reproductive structures.",
-  "idTips": [
-    {
-      "label": "Sunken reproductive discs",
-      "description": "Look for small, dark brown to black circular depressions (about 1-2mm wide) that appear pushed down into the lichen surface like tiny craters. Run your finger gently over them - they feel noticeably recessed compared to the surrounding lichen.",
-      "isPrimary": true
-    },
-    {
-      "label": "Crusty growth form",
-      "description": "Forms a thin, crusty coating that's impossible to peel off the rock in one piece. It feels rough and slightly gritty to the touch, like fine sandpaper bonded to stone.",
-      "isPrimary": false
-    },
-    {
-      "label": "Gray-white coloration",
-      "description": "The main body ranges from pale gray to whitish, sometimes with a slight yellowish tinge. In bright sunlight, it can appear almost chalky white against dark rocks.",
-      "isPrimary": false
-    },
-    {
-      "label": "Rock substrate preference",
-      "description": "Almost exclusively found on hard, siliceous rocks (like granite or quartzite) rather than limestone or softer stones. The rock surface often feels solid and unyielding beneath the lichen.",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "This lichen favors exposed siliceous rocks like granite, quartzite, and similar hard stone surfaces throughout New England's hills and mountains. You'll often find it on cliff faces, large boulders, and rocky outcrops that receive good light exposure. It seems to prefer sites that get regular moisture but aren't constantly wet.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The lichen becomes more visible as snow melts away from rock faces, and the sunken discs may appear darker and more prominent with increased moisture.",
-    "summer": "This is the best time for identification, as the lichen is fully exposed and the contrast between the light body and dark sunken discs is most pronounced in good lighting.",
-    "fall": "Still easily identifiable, and the lichen may look slightly more vibrant after autumn rains refresh the rock surfaces.",
-    "winter": "Often obscured by snow and ice on exposed rock faces, but can still be found on protected vertical surfaces where it remains visible."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "**[UNCERTAIN CLAIM]** This lichen can live for hundreds of years, growing incredibly slowly - sometimes less than a millimeter per year - which means some patches you see might have been quietly growing on the same rock since before the American Revolution!",
-  "confusionNotes": "**[UNCERTAIN]** Most likely confused with other gray crusty lichens on rocks, but the sunken disc feature is quite distinctive. If you see raised bumps or cup-shaped structures instead of sunken craters, you're looking at a different species. Memory trick: 'Sunken discs sink in, other lichens stick out.'",
-  "contextualKnowledge": "**[UNCERTAIN]** The extremely low observation count (only 2 recorded in New England) suggests this species is either very rare in our region, frequently overlooked, or possibly misidentified. It might be more common than records suggest since crusty lichens on rocks are often passed by without close examination.",
-  "compareHints": "**[UNCERTAIN]** Compared to its relative cinder lichen (Aspicilia cinerea), smooth sunken disc lichen has more prominently sunken reproductive discs and tends to be lighter in overall coloration. Cinder lichen typically appears more uniformly gray and has less dramatically recessed reproductive structures. The 'smooth' versus 'cinder' names hint at the textural differences you can feel with your fingertips.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "aspicilia-cinerea",
@@ -184,6 +163,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/214458"
 }

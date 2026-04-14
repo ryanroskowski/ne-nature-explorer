@@ -3,6 +3,9 @@
   "taxonId": 202417,
   "group": "fungi",
   "commonName": "Blackening Russula",
+  "alternativeNames": [
+    "Integrated Russula"
+  ],
   "scientificName": "Russula albonigra",
   "family": "Russulaceae",
   "familyCommonName": "Milkcaps, Brittlegills and Allies",
@@ -870,6 +873,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Russula_albonigra",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/202417"
 }

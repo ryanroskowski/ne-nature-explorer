@@ -3,6 +3,11 @@
   "taxonId": 42652,
   "group": "mammals",
   "commonName": "Virginia Opossum",
+  "alternativeNames": [
+    "Opossum",
+    "North American Opossum",
+    "Possum"
+  ],
   "scientificName": "Didelphis virginiana",
   "family": "Didelphidae",
   "familyCommonName": "Opossums",
@@ -210,6 +215,7 @@
   "compareHints": "The Virginia opossum is the only member of its genus in New England and indeed the only marsupial of any kind in the region. Its closest relatives are other opossum species found in Central and South America, but none of these occur naturally in North America north of Mexico.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Virginia_opossum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/42652"
 }

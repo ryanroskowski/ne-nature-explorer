@@ -3,6 +3,9 @@
   "taxonId": 509021,
   "group": "fungi",
   "commonName": "Cranberry Waxy Cap",
+  "alternativeNames": [
+    "Singed Waxcap"
+  ],
   "scientificName": "Hygrocybe turunda",
   "family": "Hygrophoraceae",
   "familyCommonName": "Waxcaps and Allies",
@@ -307,6 +310,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/509021"
 }

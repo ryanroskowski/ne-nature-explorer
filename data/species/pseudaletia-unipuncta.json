@@ -3,6 +3,11 @@
   "taxonId": 1671287,
   "group": "insects",
   "commonName": "Armyworm Moth",
+  "alternativeNames": [
+    "White-speck Moth",
+    "White-Speck",
+    "The One-Spot"
+  ],
   "scientificName": "Pseudaletia unipuncta",
   "family": "Noctuidae",
   "familyCommonName": "Cutworm Moths and Allies",
@@ -205,6 +210,7 @@
   "compareHints": "Since this is the only Pseudaletia species in our dataset for New England, compare it with other common brown moths in the cutworm family (Noctuidae). Unlike many of its nocturid relatives, the Armyworm Moth has that distinctive white forewing spot and shows strong migratory behavior rather than overwintering locally. Most similar brown moths lack the prominent white marking and don't show the same seasonal abundance patterns.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mythimna_unipuncta",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1671287",
   "ecologicalRole": {

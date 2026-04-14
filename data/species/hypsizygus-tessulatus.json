@@ -3,6 +3,9 @@
   "taxonId": 499736,
   "group": "fungi",
   "commonName": "Beech Mushroom",
+  "alternativeNames": [
+    "Mosaic Leech"
+  ],
   "scientificName": "Hypsizygus tessulatus",
   "family": "Lyophyllaceae",
   "familyCommonName": "Lyophyllaceae",
@@ -226,6 +229,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hypsizygus_tessulatus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/499736"
 }

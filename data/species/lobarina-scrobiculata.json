@@ -1,8 +1,12 @@
 {
   "slug": "lobarina-scrobiculata",
   "taxonId": 403505,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Textured Lung Lichen",
+  "alternativeNames": [
+    "Textured Lungwort",
+    "lung lichen"
+  ],
   "scientificName": "Lobarina scrobiculata",
   "family": "Lobariaceae",
   "familyCommonName": "Lobariaceae",
@@ -12,7 +16,7 @@
   "orderCommonName": "Peltigerales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -221,6 +225,7 @@
   "compareHints": "Textured Lung Lichen is actually the only Lobarina species in New England, making it unique in its genus here. It's most similar to species in the related genus Lobaria, but can be distinguished by its smaller, more textured lobes and preference for drier bark surfaces. Unlike the massive Tree Lungwort (Lobaria pulmonaria), it rarely develops the bright green soredia patches on its surface.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/403505"
 }

@@ -3,6 +3,9 @@
   "taxonId": 198812,
   "group": "insects",
   "commonName": "Northern Pearly-eye",
+  "alternativeNames": [
+    "Northern Pearly Eye"
+  ],
   "scientificName": "Lethe anthedon",
   "family": "Nymphalidae",
   "familyCommonName": "Brush-footed Butterflies",
@@ -172,6 +175,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lethe_anthedon",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/198812",
   "ecologicalRole": {

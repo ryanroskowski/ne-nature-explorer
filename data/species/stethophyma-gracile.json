@@ -3,6 +3,10 @@
   "taxonId": 231723,
   "group": "insects",
   "commonName": "Graceful Sedge Grasshopper",
+  "alternativeNames": [
+    "northern sedge locust",
+    "Northern Sedge Grasshopper"
+  ],
   "scientificName": "Stethophyma gracile",
   "family": "Acrididae",
   "familyCommonName": "Short-horned Grasshoppers",
@@ -196,6 +200,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Stethophyma_gracile",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/231723",
   "ecologicalRole": {

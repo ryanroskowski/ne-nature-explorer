@@ -3,6 +3,9 @@
   "taxonId": 1558279,
   "group": "fungi",
   "commonName": "White Dapperling",
+  "alternativeNames": [
+    "Woman on a Motorcycle"
+  ],
   "scientificName": "Leucocoprinus leucothites",
   "family": "Agaricaceae",
   "familyCommonName": "Field Mushrooms and Allies",
@@ -276,6 +279,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Leucocoprinus_leucothites",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1558279"
 }

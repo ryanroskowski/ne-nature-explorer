@@ -3,6 +3,9 @@
   "taxonId": 350033,
   "group": "fungi",
   "commonName": "Orange Grisette",
+  "alternativeNames": [
+    "Saffron Ringless Amanita"
+  ],
   "scientificName": "Amanita crocea",
   "family": "Amanitaceae",
   "familyCommonName": "amanita mushrooms and allies",
@@ -564,6 +567,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Amanita_crocea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/350033"
 }

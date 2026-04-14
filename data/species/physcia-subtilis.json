@@ -1,8 +1,11 @@
 {
   "slug": "physcia-subtilis",
   "taxonId": 228058,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "slender rosette lichen",
+  "alternativeNames": [
+    "rosette lichen"
+  ],
   "scientificName": "Physcia subtilis",
   "family": "Physciaceae",
   "familyCommonName": "rosette lichens, frost lichens, and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "button lichens, rosette lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -155,46 +158,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/198460868"
     }
   ],
-  "nameStory": "The slender rosette lichen gets its name from its delicate, narrow lobes that radiate outward like the petals of a rose or the leaves of a garden rosette plant. The word 'slender' perfectly captures how this lichen's lobes are noticeably thinner and more graceful than its chunkier rosette lichen cousins. Its scientific name 'subtilis' means 'fine' or 'delicate' in Latin, reinforcing this elegant appearance.",
-  "description": "Slender rosette lichen is a crusty, flat-growing lichen that forms small, circular patches on tree bark and rocks. Its narrow, finger-like lobes spread outward from the center like spokes on a wheel, creating rosette patterns typically 1-3 inches across. The upper surface is usually pale gray to whitish, sometimes with a subtle blue-green tint. Like all lichens, it's actually two organisms living together - a fungus and algae - working as a team to survive in places where neither could live alone.",
-  "idTips": [
-    {
-      "label": "Narrow lobes",
-      "description": "The lobes are distinctly slender and strap-like, usually less than 2mm wide, feeling papery-thin when dry and slightly rubbery when moist",
-      "isPrimary": true
-    },
-    {
-      "label": "Rosette growth pattern",
-      "description": "Forms neat circular patches with lobes radiating outward from a central point, like a flower or succulent rosette",
-      "isPrimary": false
-    },
-    {
-      "label": "Pale coloration",
-      "description": "Upper surface is typically light gray to nearly white, sometimes with a faint blue-green cast, feeling smooth to slightly rough",
-      "isPrimary": false
-    },
-    {
-      "label": "Small size",
-      "description": "Individual rosettes rarely exceed 3 inches across, often much smaller, making them easy to overlook",
-      "isPrimary": false
-    },
-    {
-      "label": "Flat growth",
-      "description": "Lies completely flat against the substrate with edges that may curl up slightly when dry, never forming upright structures",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Slender rosette lichen grows on the bark of deciduous and coniferous trees, particularly favoring smooth-barked species like maples, birches, and young oaks. It can also be found on wooden fences, old buildings, and occasionally on rocks in shaded areas. Look for it in forests, parks, and suburban areas throughout New England, typically in spots that get some moisture but aren't constantly wet.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more noticeable as it absorbs moisture from spring rains, turning from brittle gray to a softer, more pliable texture. This is when it's most photosynthetically active.",
-    "summer": "May appear somewhat faded and dry during hot weather, with lobes becoming more brittle and papery to the touch, but still clearly visible.",
-    "fall": "Often looks its best as cooler, damper conditions return, with colors appearing more vibrant and lobes becoming flexible again.",
-    "winter": "Remains visible year-round, though it may appear more gray and contracted during dry winter periods. Snow cover can make it temporarily hard to spot."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This tiny lichen can actually survive being completely dried out for months, then spring back to life within minutes of getting wet - a superpower called 'poikilohydry' that lets it essentially pause its entire metabolism and wait for better times, something no animal or regular plant can do!",
-  "confusionNotes": "Most easily confused with other rosette lichens in the Physcia genus, but remember 'slender equals narrow' - if the lobes look chunky or wide, it's probably a different species. The hooded rosette lichen has similar coloring but much broader lobes that often curl up at the edges like tiny hoods.",
-  "contextualKnowledge": "Despite being called 'rosette lichens,' these organisms aren't plants at all - they're a fascinating partnership between fungi and algae that scientists are still learning about. The fungus provides structure and protection while the algae make food through photosynthesis, creating one of nature's most successful collaborations.",
-  "compareHints": "Slender rosette lichen stands out from its Physcia relatives primarily by its notably narrow lobes - most other rosette lichens have broader, more substantial-looking lobes. While star rosette lichen also has narrow divisions, its lobes tend to be more pointed and star-like rather than the gentle, strap-shaped lobes of the slender species. The overall more delicate, refined appearance helps distinguish it from the more robust-looking members of its genus.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "physcia-millegrana",
@@ -243,31 +220,32 @@
       "commonName": "black-eyed rosette lichen",
       "scientificName": "Physcia phaea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/348847443/medium.jpg",
-      "distinction": "Black-eyed rosette lichen differs from its Physcia relatives primarily by having more prominent and consistently dark apothecia compared to species like star rosette lichen or hoary rosette lichen."
+      "distinction": "undefined."
     },
     {
       "slug": "physcia-tenella",
       "commonName": "Fringed Rosette Lichen",
       "scientificName": "Physcia tenella",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/376664895/medium.jpeg",
-      "distinction": "Among its rosette lichen relatives, Fringed Rosette Lichen is distinguished by its combination of narrow lobes and fringed edges - Star Rosette Lichen has broader lobes without fringe, while Hooded Rosette Lichen has distinctive hood-shaped reproductive structures on the lobe tips."
+      "distinction": "undefined."
     },
     {
       "slug": "physcia-dubia",
       "commonName": "Powder-tipped Rosette Lichen",
       "scientificName": "Physcia dubia",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9425952/medium.jpg",
-      "distinction": "Unlike Star Rosette Lichen which has more pointed, star-like lobes, Powder-tipped Rosette Lichen has broader lobes with those telltale white powdery tips."
+      "distinction": "undefined."
     },
     {
       "slug": "physcia-americana",
       "commonName": "American Rosette Lichen",
       "scientificName": "Physcia americana",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11142464/medium.jpg",
-      "distinction": "American Rosette Lichen differs from Star Rosette Lichen by having more powder on its surface and less distinct dark centers."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/228058"
 }

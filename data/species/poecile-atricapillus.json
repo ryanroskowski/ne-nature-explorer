@@ -3,6 +3,11 @@
   "taxonId": 144815,
   "group": "birds",
   "commonName": "Black-capped Chickadee",
+  "alternativeNames": [
+    "Northern Chickadee",
+    "Black-capt Titmouse",
+    "Black-capped Titmouse"
+  ],
   "scientificName": "Poecile atricapillus",
   "family": "Paridae",
   "familyCommonName": "Tits, Chickadees, and Titmice",
@@ -298,6 +303,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-capped_chickadee",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/144815",
   "xenoCantoUrl": "https://xeno-canto.org/species/Poecile-atricapillus"

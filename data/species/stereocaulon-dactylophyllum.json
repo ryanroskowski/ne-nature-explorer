@@ -1,7 +1,7 @@
 {
   "slug": "stereocaulon-dactylophyllum",
   "taxonId": 182570,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Finger-scale Foam",
   "scientificName": "Stereocaulon dactylophyllum",
   "family": "Stereocaulaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 2,
-  "abundanceTier": "moderate",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 172310224,
@@ -107,46 +107,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/18257001"
     }
   ],
-  "nameStory": "The 'Finger-scale' in this lichen's name comes from its distinctive coral-like branches that are covered in tiny scale-like structures, resembling miniature fingers reaching upward. The 'Foam' part refers to its placement in the Foam Lichen genus, where many species create dense, frothy-looking clusters that remind observers of sea foam frozen in time on rocks.",
-  "description": "Finger-scale Foam is a small, coral-like lichen that grows upright from rock surfaces in branching clusters. This fruticose (shrubby) lichen creates intricate three-dimensional structures with highly branched, finger-like projections called phyllocladia. The entire colony typically stays quite small, forming dense patches that look like tiny underwater coral gardens transplanted onto stone. Despite its delicate appearance, this hardy lichen can survive in various climates from mountainous regions to eastern forests.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms coral-like, highly branched upright structures with finger-like projections that feel firm but brittle when dry",
-      "isPrimary": true
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Branches are covered in tiny scale-like structures (phyllocladia) that give a rough, granular texture when touched gently",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Always grows directly on rock surfaces, often on mossy rocks where it anchors firmly to stone crevices",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Generally grayish to pale greenish-gray, becoming slightly more vivid when moist from rain or morning dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual colonies remain quite small, typically forming dense patches just a few centimeters across",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Finger-scale Foam on exposed rock surfaces, particularly on mossy rocks in mountainous or hilly terrain. It prefers areas with good air circulation and occasional moisture, such as rocky outcrops, stone walls, and cliff faces. In New England, it's most likely found in the more elevated regions where rocks stay relatively clean and aren't buried under heavy leaf litter.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Most vibrant after spring rains when the coral-like branches appear slightly greener and more pronounced. The texture feels less brittle when moist.",
-    "summer": "Becomes more grayish and brittle during dry periods, but the distinctive branching pattern remains clearly visible for identification.",
-    "fall": "Often partially hidden by falling leaves, but still identifiable on exposed rock faces where the coral structure stands out against smooth stone.",
-    "winter": "Easiest to spot when snow covers surrounding vegetation, making the small coral-like clusters more noticeable on bare rock surfaces."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This tiny lichen is a world traveler that somehow manages to live on three different continents - Asia, Europe, and North America - despite having no wings, seeds, or any obvious way to cross oceans, making scientists wonder how such a small, seemingly immobile organism became so widely distributed across the globe.",
-  "confusionNotes": "Most easily confused with other Foam Lichens, but Finger-scale Foam's highly branched, coral-like structure with prominent finger-like projections sets it apart from the more cup-shaped Pixie Foam or the coarser, less delicately branched Rock Foam. Memory trick: Think 'fingers reaching up from coral' for this species.",
-  "contextualKnowledge": "With only 2 recorded observations in New England, this is one of our region's rarest lichens, making any sighting potentially significant for regional biodiversity records. If you think you've found it, consider photographing it and reporting the location to local naturalist groups.",
-  "compareHints": "Unlike Rock Foam which tends to be coarser and less intricately branched, Finger-scale Foam creates much more delicate, highly divided coral-like structures. It differs from Pixie Foam by lacking the cup-shaped structures, and from Easter Foam by having more finger-like rather than club-shaped branches. The branching pattern is more intricate and coral-like than most of its foam lichen relatives.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "stereocaulon-saxatile",
@@ -167,24 +141,25 @@
       "commonName": "Granular Soil Foam Lichen",
       "scientificName": "Stereocaulon condensatum",
       "thumbnailUrl": "https://static.inaturalist.org/photos/9170717/medium.jpg",
-      "distinction": "Unlike its cousin Rock Foam Lichen which grows on solid rock surfaces, Granular Soil Foam strictly prefers soil substrates."
+      "distinction": "undefined."
     },
     {
       "slug": "stereocaulon-paschale",
       "commonName": "Easter Foam",
       "scientificName": "Stereocaulon paschale",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/373327371/medium.jpg",
-      "distinction": "Easter Foam differs from Rock Foam by having more densely packed, coral-like branches rather than Rock Foam's more open, spreading structure."
+      "distinction": "undefined."
     },
     {
       "slug": "stereocaulon-alpinum",
       "commonName": "Alpine Foam Lichen",
       "scientificName": "Stereocaulon alpinum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32346090/medium.jpg",
-      "distinction": "Alpine Foam Lichen differs from its close relative Easter Foam by containing different types of cyanobacteria partners - Alpine Foam hosts lighter-colored Nostoc bacteria while Easter Foam contains darker Stigonema bacteria."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Stereocaulon_dactylophyllum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/182570"
 }

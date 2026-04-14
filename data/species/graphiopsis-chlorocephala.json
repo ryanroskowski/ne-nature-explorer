@@ -3,6 +3,9 @@
   "taxonId": 889629,
   "group": "fungi",
   "commonName": "Peony Red Spot",
+  "alternativeNames": [
+    "Peony Leaf Blotch"
+  ],
   "scientificName": "Graphiopsis chlorocephala",
   "family": "Cladosporiaceae",
   "familyCommonName": "Cladosporiaceae",
@@ -66,6 +69,7 @@
   "compareHints": "",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/889629"
 }

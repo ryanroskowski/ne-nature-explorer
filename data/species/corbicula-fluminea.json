@@ -3,6 +3,13 @@
   "taxonId": 64006,
   "group": "mollusks",
   "commonName": "Asian Clam",
+  "alternativeNames": [
+    "Asiatic Clam",
+    "Prosperity Clam",
+    "Freshwater Golden Clam",
+    "Freshwater Gold Clam",
+    "Chinese Basket Clam"
+  ],
   "scientificName": "Corbicula fluminea",
   "family": "Cyrenidae",
   "familyCommonName": "Basket Clams",
@@ -221,6 +228,7 @@
   "compareHints": "Asian Clams are the only Corbicula species established in New England waters. They differ from native freshwater mussels by being much smaller, rounder, and more colorful, while native fingernail clams lack the prominent ridges and golden coloration. Unlike native species that are often elongated, Asian Clams maintain a distinctly round, inflated shell shape.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Corbicula_fluminea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/64006"
 }

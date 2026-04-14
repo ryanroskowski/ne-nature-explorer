@@ -3,6 +3,9 @@
   "taxonId": 132227,
   "group": "insects",
   "commonName": "Appalachian Brown",
+  "alternativeNames": [
+    "Appalachian Eyed Brown"
+  ],
   "scientificName": "Lethe appalachia",
   "family": "Nymphalidae",
   "familyCommonName": "Brush-footed Butterflies",
@@ -204,6 +207,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lethe_appalachia",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/132227",
   "ecologicalRole": {

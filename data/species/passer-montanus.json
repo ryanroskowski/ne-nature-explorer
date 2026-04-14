@@ -3,6 +3,9 @@
   "taxonId": 13851,
   "group": "birds",
   "commonName": "Eurasian Tree Sparrow",
+  "alternativeNames": [
+    "Tree Sparrow"
+  ],
   "scientificName": "Passer montanus",
   "family": "Passeridae",
   "familyCommonName": "Old World Sparrows",
@@ -309,6 +312,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eurasian_tree_sparrow",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/13851",
   "xenoCantoUrl": "https://xeno-canto.org/species/Passer-montanus"

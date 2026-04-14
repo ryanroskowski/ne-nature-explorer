@@ -3,6 +3,9 @@
   "taxonId": 58693,
   "group": "fungi",
   "commonName": "Shaggy Parasol",
+  "alternativeNames": [
+    "Brown Parasol"
+  ],
   "scientificName": "Chlorophyllum brunneum",
   "family": "Agaricaceae",
   "familyCommonName": "Field Mushrooms and Allies",
@@ -217,6 +220,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Shaggy_parasol",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/58693"
 }

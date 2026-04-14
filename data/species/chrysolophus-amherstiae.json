@@ -3,6 +3,9 @@
   "taxonId": 1231,
   "group": "birds",
   "commonName": "Lady Amherst's Pheasant",
+  "alternativeNames": [
+    "Diamond Pheasant"
+  ],
   "scientificName": "Chrysolophus amherstiae",
   "family": "Phasianidae",
   "familyCommonName": "Pheasants, Grouse, and Allies",
@@ -261,6 +264,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lady_Amherst's_pheasant",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1231",
   "xenoCantoUrl": "https://xeno-canto.org/species/Chrysolophus-amherstiae"

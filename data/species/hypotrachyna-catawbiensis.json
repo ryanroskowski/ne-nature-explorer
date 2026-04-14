@@ -1,7 +1,7 @@
 {
   "slug": "hypotrachyna-catawbiensis",
   "taxonId": 463134,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Powder-tipped Antler Lichen",
   "scientificName": "Hypotrachyna catawbiensis",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -224,24 +224,25 @@
       "commonName": "Hypotrachyna afrorevoluta",
       "scientificName": "Hypotrachyna afrorevoluta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7989472/medium.jpg",
-      "distinction": "Compared to its relatives, this species has more dramatically rolled lobe margins than Powdered Loop Lichen and lacks the powdery soredia (reproductive dust) found on Powder-tipped Antler Lichen."
+      "distinction": "undefined."
     },
     {
       "slug": "hypotrachyna-revoluta",
       "commonName": "Powdered Loop Lichen",
       "scientificName": "Hypotrachyna revoluta",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10440310/medium.jpg",
-      "distinction": "Powdered Loop Lichen differs from Powder-tipped Antler Lichen by having broader, more rounded lobes rather than narrow, branching ones."
+      "distinction": "undefined."
     },
     {
       "slug": "hypotrachyna-showmanii",
       "commonName": "Showman's Loop Lichen",
       "scientificName": "Hypotrachyna showmanii",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28944300/medium.jpeg",
-      "distinction": "Unlike Powder-tipped Antler Lichen which has white powdery patches along its edges, Showman's Loop Lichen maintains a clean, smooth surface."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hypotrachyna_catawbiensis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/463134"
 }

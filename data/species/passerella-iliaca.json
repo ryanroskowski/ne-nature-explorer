@@ -3,6 +3,19 @@
   "taxonId": 9156,
   "group": "birds",
   "commonName": "Fox Sparrow",
+  "alternativeNames": [
+    "Red Fox Sparrow",
+    "Sooty Fox Sparrow",
+    "Slate-colored Fox Sparrow",
+    "Thick-billed Fox Sparrow",
+    "Fox-coloured Sparrow",
+    "Red Fox-Sparrow",
+    "Sooty Fox-Sparrow",
+    "Slate-colored Fox-Sparrow",
+    "Thick-billed Fox-Sparrow",
+    "Slate-coloured Fox Sparrow",
+    "Slate-coloured Fox-Sparrow"
+  ],
   "scientificName": "Passerella iliaca",
   "family": "Passerellidae",
   "familyCommonName": "New World Sparrows",
@@ -306,6 +319,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Fox_sparrow",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/9156",
   "xenoCantoUrl": "https://xeno-canto.org/species/Passerella-iliaca"

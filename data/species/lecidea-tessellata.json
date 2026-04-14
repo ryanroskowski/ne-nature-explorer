@@ -1,7 +1,7 @@
 {
   "slug": "lecidea-tessellata",
   "taxonId": 154188,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Tile Lichen",
   "scientificName": "Lecidea tessellata",
   "family": "Lecideaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Lecideales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -147,46 +147,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/15418808"
     }
   ],
-  "nameStory": "The Tile Lichen gets its name from its distinctive cracked, tessellated surface that looks remarkably like broken ceramic tiles or a mosaic floor. The scientific name 'tessellata' comes from the Latin word for 'checkered' or 'having small squares,' perfectly describing the neat, geometric pattern this lichen creates as it grows and ages.",
-  "description": "Tile Lichen is a crusty, rock-hugging lichen that forms thin, spreading patches on stone surfaces. It appears as a grayish to brownish crust that develops a characteristic cracked, tile-like pattern as it matures. These patches can spread several inches across, creating what looks like miniature flagstone pathways on rock faces. Like all lichens, it's actually two organisms living together - a fungus and an algae working as partners.",
-  "idTips": [
-    {
-      "label": "Tessellated surface pattern",
-      "description": "Look for the distinctive cracked, tile-like surface that gives this lichen its name - it feels slightly rough to the touch and looks like a miniature broken sidewalk",
-      "isPrimary": true
-    },
-    {
-      "label": "Rock-dwelling habit",
-      "description": "Always found growing directly on non-limestone rocks, forming thin crusts that seem painted onto the stone surface",
-      "isPrimary": false
-    },
-    {
-      "label": "Gray to brownish coloration",
-      "description": "Typically appears in muted gray, brownish-gray, or sometimes slightly greenish tones that blend naturally with weathered rock",
-      "isPrimary": false
-    },
-    {
-      "label": "Thin, crusty texture",
-      "description": "Forms a paper-thin to slightly thicker crust that's firmly attached to rock - you can't peel it off without scraping",
-      "isPrimary": false
-    },
-    {
-      "label": "Dark fruiting bodies",
-      "description": "Small, dark, disk-like spots scattered across the surface that look like tiny black buttons pressed into the crust",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "In New England, you'll find Tile Lichen growing on exposed non-limestone rocks, especially granite, schist, and quartzite surfaces. Look for it on rocky outcrops, stone walls, large boulders, and cliff faces from sea level up into the mountains. It thrives on rocks that get some sunlight but aren't constantly baking in direct sun.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The tessellated pattern becomes more visible as winter moisture helps the lichen expand slightly, and you may notice the dark fruiting bodies becoming more prominent.",
-    "summer": "During dry periods, the lichen may appear more contracted and the cracks in the tile pattern become more pronounced, though it remains clearly identifiable.",
-    "fall": "Fall rains refresh the lichen, often bringing out slightly more vibrant coloration and making the surface pattern easier to see.",
-    "winter": "Still visible and identifiable under snow, though the pattern may be less distinct when the lichen is saturated with moisture from melting snow."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This tiny organism is incredibly hardy - it can survive temperatures from scorching summer heat to Arctic cold, and the same patch you see today might be hundreds of years old, growing so slowly that it adds less than a millimeter per year!",
-  "confusionNotes": "Other crusty rock lichens can look similar, but the distinctive tile-like cracking pattern is your best clue - if it doesn't look like broken bathroom tiles, it's probably not Tile Lichen. Remember the simple rule: 'tessellated like tiles' for this species.",
-  "contextualKnowledge": "The term 'crustose' describes lichens that form crusts directly on surfaces, as opposed to leafy or shrubby lichens. Saxicolous means 'rock-dwelling,' and non-calcareous rocks are those without limestone or calcium carbonate - this lichen specifically avoids calcium-rich rocks.",
-  "compareHints": "Tile Lichen differs from its relatives like Gray-orange Disk Lichen by its distinctive tessellated surface pattern and more neutral coloration. While Brown Tile Lichen may share the cracked pattern, it tends toward darker brown tones rather than the grays typical of L. tessellata. The geometric cracking pattern is really the key feature that sets this species apart from other members of its genus.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "lecidea-lapicida",
@@ -200,24 +174,25 @@
       "commonName": "Brown Tile Lichen",
       "scientificName": "Lecidea atrobrunnea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110875459/medium.jpg",
-      "distinction": "Brown Tile Lichen differs from its relatives like Gray-orange Disk Lichen by its distinctly brownish (rather than grayish-orange) coloration and its preference for high-elevation rock faces."
+      "distinction": "undefined."
     },
     {
       "slug": "lecidea-auriculata",
       "commonName": "Lecidea auriculata",
       "scientificName": "Lecidea auriculata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24954074/medium.jpg",
-      "distinction": "**Uncertainty note: Limited reference material available** Unlike Gray-orange Disk Lichen which has flatter, orange-tinged fruiting bodies, Lecidea auriculata has distinctly raised, ear-like margins on its black apothecia."
+      "distinction": "undefined."
     },
     {
       "slug": "lecidea-nylanderi",
       "commonName": "Nylander's Tile Lichen",
       "scientificName": "Lecidea nylanderi",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/17226156/medium.jpg",
-      "distinction": "**Comparisons uncertain due to limited New England data:** Compared to other tile lichens in the Lecidea genus, Nylander's Tile Lichen likely has the most consistently black fruiting bodies without orange or brown tones that characterize Gray-orange Disk Lichen or Brown Tile Lichen."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lecidea_tessellata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/154188"
 }

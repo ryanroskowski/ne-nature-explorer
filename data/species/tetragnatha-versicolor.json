@@ -3,6 +3,9 @@
   "taxonId": 60075,
   "group": "arachnids",
   "commonName": "Tetragnatha versicolor",
+  "alternativeNames": [
+    "Versicolor Long-jawed Orbweaver"
+  ],
   "scientificName": "Tetragnatha versicolor",
   "family": "Tetragnathidae",
   "familyCommonName": "Long-jawed Orbweavers",
@@ -269,6 +272,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Tetragnatha_versicolor",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/60075"
 }

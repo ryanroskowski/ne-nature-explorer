@@ -3,6 +3,9 @@
   "taxonId": 200848,
   "group": "fungi",
   "commonName": "Groundsel crown rust",
+  "alternativeNames": [
+    "Daisy Rust"
+  ],
   "scientificName": "Puccinia lagenophorae",
   "family": "Pucciniaceae",
   "familyCommonName": "Pucciniaceae",
@@ -280,6 +283,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Puccinia_lagenophorae",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/200848"
 }

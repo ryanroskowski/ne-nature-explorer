@@ -1,8 +1,11 @@
 {
   "slug": "cetrelia-olivetorum",
   "taxonId": 180431,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Sea Storm Lichen",
+  "alternativeNames": [
+    "Sea-storm Lichen"
+  ],
   "scientificName": "Cetrelia olivetorum",
   "family": "Parmeliaceae",
   "familyCommonName": "shield lichens and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -234,6 +237,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cetrelia_olivetorum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/180431"
 }

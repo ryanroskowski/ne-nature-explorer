@@ -1,7 +1,7 @@
 {
   "slug": "xanthoparmelia-viriduloumbrina",
   "taxonId": 233732,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Shingled Rock-shield Lichen",
   "scientificName": "Xanthoparmelia viriduloumbrina",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 350490100,
@@ -75,51 +75,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/23373202"
     }
   ],
-  "nameStory": "The 'Shingled Rock-shield' name comes from this lichen's overlapping lobes that resemble roof shingles laid across rock surfaces. Like a medieval shield made of overlapping plates, these tough lichens form protective layers that can withstand New England's harsh weather for decades.",
-  "description": "Shingled Rock-shield Lichen is a foliose (leaf-like) lichen that forms circular patches on rocks, growing outward from the center like a slow-motion explosion. The individual lobes overlap each other like shingles, creating a textured, layered appearance. Mature colonies can reach 4-6 inches across, though they grow incredibly slowly - a hand-sized patch might be several decades old.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms distinctive overlapping lobes that feel papery-tough when dry, like thick construction paper that's been weathered",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Yellowish-green to olive-brown when dry, becoming more vibrant green when wet from rain or morning dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Always found on exposed rock surfaces, particularly granite and other acidic rocks in sunny locations",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Upper surface feels slightly rough and has a matte finish, never shiny or glossy like some other rock lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Reproductive Structures",
-      "description": "Rarely produces the cup-like fruiting bodies (apothecia) that many lichens have - reproduces mainly by fragments breaking off",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual lobes are typically 2-4mm wide, with entire colonies reaching 2-6 inches across when fully mature",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Shingled Rock-shield on exposed granite outcrops, stone walls, and rocky summits throughout New England's mountains and hills. It prefers sunny, well-drained rock faces that get plenty of direct sunlight and good air circulation. You'll often find it alongside other rock-loving lichens on the White Mountains' exposed peaks and similar rocky terrain.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Spring rains bring out the lichen's greenest colors as it absorbs moisture and becomes more photosynthetically active. This is when color differences from other rock lichens are most obvious.",
-    "summer": "During dry summer weather, the lichen appears more yellowish-brown and feels crispy to the touch. The shingled texture is most apparent when the lobes curl slightly in the heat.",
-    "fall": "Fall moisture returns the vibrant green color, and the lichen prepares for winter by storing energy. Look for the clearest examples of the overlapping lobe pattern now.",
-    "winter": "Snow and ice may cover colonies for weeks, but they remain visible on wind-swept rock faces. The lichen goes dormant but maintains its distinctive shingled appearance."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen can survive being completely frozen solid and then thawed out repeatedly all winter long - it essentially becomes a living popsicle that springs back to life with each warm spell, something that would kill most other living things instantly.",
-  "confusionNotes": "Most easily confused with other yellowish rock shield lichens, but remember the 'shingle test' - run your finger gently across the surface and feel for those distinctive overlapping lobes that catch your fingertip like tiny roof tiles.",
-  "contextualKnowledge": "Rock shield lichens are sometimes called 'pioneer species' because they're among the first living things to colonize bare rock surfaces, slowly breaking down the stone over centuries and creating soil for future plants - they're literally rock-eaters that pave the way for forests.",
-  "compareHints": "Unlike the more common Peppered Rock-shield which has a distinctly speckled appearance, Shingled Rock-shield lacks those pepper-like spots and has more pronounced overlapping lobes. Cumberland Rock Shield tends to be grayer overall, while Shingled Rock-shield maintains more yellow-green tones even when dry.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "xanthoparmelia-conspersa",
@@ -147,10 +116,11 @@
       "commonName": "Narrow-lobed Rock-shield",
       "scientificName": "Xanthoparmelia angustiphylla",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/364516880/medium.jpeg",
-      "distinction": "Unlike the Peppered Rock-shield which has broader lobes and often shows white spots (soredia), Narrow-lobed Rock-shield has distinctly thin, finger-like lobes without the powdery white patches."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/233732"
 }

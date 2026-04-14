@@ -3,6 +3,10 @@
   "taxonId": 831,
   "group": "birds",
   "commonName": "Gray Partridge",
+  "alternativeNames": [
+    "Grey Partridge",
+    "Hungarian partridge"
+  ],
   "scientificName": "Perdix perdix",
   "family": "Phasianidae",
   "familyCommonName": "Pheasants, Grouse, and Allies",
@@ -274,6 +278,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Grey_partridge",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/831",
   "xenoCantoUrl": "https://xeno-canto.org/species/Perdix-perdix"

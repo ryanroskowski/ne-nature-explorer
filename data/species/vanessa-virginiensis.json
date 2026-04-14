@@ -3,6 +3,9 @@
   "taxonId": 48549,
   "group": "insects",
   "commonName": "American Lady",
+  "alternativeNames": [
+    "American Painted Lady"
+  ],
   "scientificName": "Vanessa virginiensis",
   "family": "Nymphalidae",
   "familyCommonName": "Brush-footed Butterflies",
@@ -220,6 +223,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_painted_lady",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/48549",
   "ecologicalRole": {

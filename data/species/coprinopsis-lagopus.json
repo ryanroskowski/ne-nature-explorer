@@ -3,6 +3,9 @@
   "taxonId": 55605,
   "group": "fungi",
   "commonName": "hare's foot inkcap",
+  "alternativeNames": [
+    "harefoot mushroom"
+  ],
   "scientificName": "Coprinopsis lagopus",
   "family": "Psathyrellaceae",
   "familyCommonName": "Brittlestems and Allies",
@@ -283,6 +286,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Coprinopsis_lagopus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/55605"
 }

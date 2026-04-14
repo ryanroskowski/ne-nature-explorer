@@ -1,7 +1,7 @@
 {
   "slug": "myelochroa-galbina",
   "taxonId": 182646,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Smooth Axil-bristle Lichen",
   "scientificName": "Myelochroa galbina",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 28,
-  "abundanceTier": "very-common",
+  "abundanceTier": "common",
   "photos": [
     {
       "id": 11257400,
@@ -226,6 +226,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/182646"
 }

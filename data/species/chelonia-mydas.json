@@ -3,6 +3,12 @@
   "taxonId": 39659,
   "group": "reptiles",
   "commonName": "Green Sea Turtle",
+  "alternativeNames": [
+    "Green Turtle",
+    "Pacific Black Sea Turtle",
+    "Atlantic Green Sea Turtle",
+    "West Pacific Green Sea Turtle"
+  ],
   "scientificName": "Chelonia mydas",
   "family": "Cheloniidae",
   "familyCommonName": "Typical Sea Turtles",
@@ -213,6 +219,7 @@
   "compareHints": "Green sea turtles are the only species in their genus Chelonia, making them unique among sea turtles. Compared to other sea turtles in New England waters like loggerheads, greens have more streamlined, smoother shells and smaller heads relative to body size. Unlike the omnivorous loggerheads, adult green sea turtles are strict vegetarians, giving them a more peaceful demeanor when observed.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Green_sea_turtle",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/39659"
 }

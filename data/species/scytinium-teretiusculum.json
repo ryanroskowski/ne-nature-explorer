@@ -1,7 +1,7 @@
 {
   "slug": "scytinium-teretiusculum",
   "taxonId": 532319,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Beaded Jellyskin Lichen",
   "scientificName": "Scytinium teretiusculum",
   "family": "Collemataceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Peltigerales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -115,63 +115,38 @@
       "observationUrl": "https://www.inaturalist.org/observations/185230903"
     }
   ],
-  "nameStory": "The Beaded Jellyskin Lichen gets its name from its distinctive appearance when wet - it transforms from a crusty, dried-out patch into something that looks surprisingly like dark, gelatinous skin covered in tiny beads. The 'jellyskin' part describes how this lichen becomes soft, slippery, and jelly-like when moisture hits it, while 'beaded' refers to the small, rounded bumps that dot its surface like nature's bubble wrap.",
-  "description": "Beaded Jellyskin Lichen is a fascinating shape-shifter that dramatically changes appearance depending on moisture levels. When dry, it forms thin, dark crusty patches that might be easily overlooked, but add water and it swells into a thick, gelatinous mass with a distinctive beaded texture. This small lichen typically grows in patches just 1-3 inches across, though older specimens can spread wider. It's one of the 'jelly lichens' - a group that has a special relationship with moisture that makes them look almost alive when wet.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "When wet, the surface is covered in small, round bumps that feel like soft beads under your finger - this beaded texture is the key identifying feature that sets it apart from other jelly lichens",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Transforms from dark brown or blackish when dry to olive-green or dark greenish-brown when wet, with the beaded bumps often appearing slightly lighter than the background",
-      "isPrimary": false
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms thin, crusty patches when dry but swells dramatically when wet into thick, gelatinous masses that feel rubbery and slippery to the touch",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Grows directly on rock surfaces, especially limestone and other calcium-rich rocks, forming tight patches that seem almost painted onto the stone",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual patches typically 1-3 inches across, but can form larger colonies; when wet, the lichen can swell to nearly double its dry thickness",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Beaded Jellyskin Lichen on exposed limestone outcrops, stone walls, and calcium-rich rock faces throughout New England's hilly and mountainous regions. It particularly favors spots that get regular moisture but also dry out completely between rain events. You'll often find it in company with other rock-loving lichens on cliff faces, old cemetery stones, and historic stone walls where the mortar provides the lime it craves.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Spring rains bring this lichen to life - this is the best time to see its dramatic wet transformation and beaded texture as frequent showers keep it plump and active.",
-    "summer": "During dry summer periods, it retreats to thin, dark crusty patches that are easily missed, but summer thunderstorms will quickly revive it to its full gelatinous glory.",
-    "fall": "Fall's alternating wet and dry periods create perfect viewing conditions, as you can often catch it in various stages of its moisture-driven transformation.",
-    "winter": "Snow and ice keep it mostly dormant as a thin crust, but winter thaws and rain can still trigger its swelling response, though growth is minimal in cold weather."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen can absorb up to 20 times its dry weight in water and transform from a paper-thin crust to a thick, jelly-like mass in just minutes - it's like watching a natural sponge come to life before your eyes!",
-  "confusionNotes": "Most likely confused with other jelly lichens like Tattered Jellyskin, but remember 'beads are the key' - run your finger over the wet surface and you should feel those distinctive rounded bumps that give this species its name.",
-  "contextualKnowledge": "The term 'jellyskin' might sound made-up, but it perfectly describes the texture these lichens develop when wet - they literally feel like touching cool, slippery jello or the skin of a marine animal like a jellyfish.",
-  "compareHints": "Unlike its relative the Tattered Jellyskin Lichen which has a more wrinkled, folded appearance, Beaded Jellyskin has that distinctive bumpy, beaded surface texture. Appressed Jellyskin Lichen lies much flatter against the rock and lacks the pronounced beaded bumps. The beaded texture is really the signature feature that makes this species unmistakable among the jellyskin lichens.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "scytinium-lichenoides",
       "commonName": "Tattered Jellyskin Lichen",
       "scientificName": "Scytinium lichenoides",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/351340272/medium.jpg",
-      "distinction": "Tattered Jellyskin differs from its relatives Appressed Jellyskin and Beaded Jellyskin primarily in those distinctive fringed edges - the other jellyskins have smoother margins without the characteristic cylindrical projections."
+      "distinction": "undefined."
     },
     {
       "slug": "scytinium-subtile",
       "commonName": "Appressed Jellyskin Lichen",
       "scientificName": "Scytinium subtile",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11824105/medium.jpg",
-      "distinction": "Appressed Jellyskin differs from its relatives by being extremely flat and smooth—Tattered Jellyskin has a more wrinkled, folded appearance even when wet, while Beaded Jellyskin forms small, rounded bumps or beads rather than smooth patches."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/532319"
 }

@@ -3,6 +3,9 @@
   "taxonId": 118382,
   "group": "fungi",
   "commonName": "Inky Agaricus",
+  "alternativeNames": [
+    "inky mushroom"
+  ],
   "scientificName": "Agaricus moelleri",
   "family": "Agaricaceae",
   "familyCommonName": "Field Mushrooms and Allies",
@@ -308,6 +311,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Agaricus_moelleri",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/118382"
 }

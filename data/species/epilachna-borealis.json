@@ -3,6 +3,9 @@
   "taxonId": 154559,
   "group": "insects",
   "commonName": "Squash Lady Beetle",
+  "alternativeNames": [
+    "Squash Beetle"
+  ],
   "scientificName": "Epilachna borealis",
   "family": "Coccinellidae",
   "familyCommonName": "Lady Beetles",
@@ -234,6 +237,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Epilachna_borealis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/154559",
   "ecologicalRole": {

@@ -3,6 +3,9 @@
   "taxonId": 424530,
   "group": "fungi",
   "commonName": "Olive Shaggy Parasol",
+  "alternativeNames": [
+    "Conifer Parasol"
+  ],
   "scientificName": "Chlorophyllum olivieri",
   "family": "Agaricaceae",
   "familyCommonName": "Field Mushrooms and Allies",
@@ -193,6 +196,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/424530"
 }

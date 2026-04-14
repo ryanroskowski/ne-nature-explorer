@@ -3,6 +3,9 @@
   "taxonId": 153445,
   "group": "fungi",
   "commonName": "shaggy scalycap",
+  "alternativeNames": [
+    "shaggy pholiota"
+  ],
   "scientificName": "Pholiota squarrosa",
   "family": "Strophariaceae",
   "familyCommonName": "Strophariaceae",
@@ -303,6 +306,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pholiota_squarrosa",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/153445"
 }

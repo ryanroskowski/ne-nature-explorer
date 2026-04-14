@@ -1,8 +1,11 @@
 {
   "slug": "rhizoplaca-chrysoleuca",
   "taxonId": 182502,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Orange Rock Posy",
+  "alternativeNames": [
+    "Rocky Mountain High"
+  ],
   "scientificName": "Rhizoplaca chrysoleuca",
   "family": "Lecanoraceae",
   "familyCommonName": "rim lichens, disc lichens, and allies",
@@ -12,7 +15,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -115,51 +118,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/18250205"
     }
   ],
-  "nameStory": "The Orange Rock Posy gets its charming name from its burnt-orange fruiting discs that dot the lichen like tiny flowers on a rock garden posy. The word 'posy' comes from old poetry about small bouquets, and these lichens do create colorful displays across stone surfaces. It's also called 'rockbright' because of how those orange discs seem to glow against gray rock.",
-  "description": "Orange Rock Posy is a distinctive foliose lichen that forms single, circular patches on rock surfaces. It has a pale yellowish-green to gray-green body with deep, rounded lobes that create a thick, warty texture. The most eye-catching feature is its numerous burnt-orange to tan fruiting discs with pale greenish rims. Each patch can grow 2-3.5 cm wide, creating colorful spotting on stone surfaces.",
-  "idTips": [
-    {
-      "label": "Reproductive Structures",
-      "description": "Burnt-orange to tan fruiting discs with contrasting pale greenish rims - these crowded, button-like structures are the lichen's signature feature",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Single circular patch (umbilicate) with deep lobes radiating from center, attached at one point like a belly button",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Thick and lumpy with a warty, bumpy feel - much thicker and more textured than typical flat foliose lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Pale yellowish-green to gray-green body that may look more vibrant when wet, with the orange discs staying colorful in all conditions",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Almost exclusively on hard rock surfaces, especially granite, schist, and other siliceous rocks in exposed locations",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual patches reach 2-3.5 cm across with fruiting discs 0.8-2.5 mm wide, often so numerous they crowd together",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "In New England, Orange Rock Posy would be found on exposed granite outcrops and rocky summits, particularly in the White Mountains and other high-elevation areas. It prefers hard, siliceous rocks in open, sunny locations where it can withstand extreme weather. Look for it on cliff faces, boulder fields, and mountain peaks where few other lichens can survive the harsh conditions.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Orange fruiting discs remain vibrant as snow melts, and the thallus may show brighter green colors with increased moisture from snowmelt.",
-    "summer": "Prime viewing season when the contrast between orange discs and pale green body is most pronounced in bright sunlight. Dry conditions make the thallus appear more grayish.",
-    "fall": "Colors remain distinct but the thallus may darken slightly. Fall rains can bring out more vivid green tones in the body.",
-    "winter": "Still visible under snow, and the orange discs remain colorful even in harsh winter conditions. One of the few lichens that stays identifiable year-round at high elevations."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Orange Rock Posy is actually a nitrogen-loving lichen that thrives in spots where birds perch and leave droppings - so finding one might mean you've discovered a favorite bird hangout spot on that mountain cliff!",
-  "confusionNotes": "With only 3 recorded observations in New England, it's more likely you've found a different orange-fruited lichen like a Caloplaca species. Remember the key difference: Orange Rock Posy has that distinctive single-patch umbilicate growth form with pale greenish rims around orange discs, while Caloplaca lichens are typically crustose (crusty) without the thick, lobed body.",
-  "contextualKnowledge": "This lichen is much more common in western North America's deserts and mountains, so finding one in New England would be quite special. The extremely low observation count suggests it may be at the very edge of its range here, possibly only on the highest, most exposed peaks that mimic its preferred western habitat conditions.",
-  "compareHints": "Orange Rock Posy differs from its relative Scattered Rock-posy Lichen by having more crowded, numerous fruiting discs and a thicker, more warty thallus texture. While both are umbilicate lichens with orange fruiting structures, Orange Rock Posy's discs are more densely packed and have more pronounced pale rims. The overall appearance is more robust and chunky compared to other Rhizoplaca species.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "rhizoplaca-subdiscrepans",
@@ -170,6 +142,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Rhizoplaca_chrysoleuca",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/182502"
 }

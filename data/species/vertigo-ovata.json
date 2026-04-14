@@ -3,6 +3,9 @@
   "taxonId": 114944,
   "group": "mollusks",
   "commonName": "Grassland Whorl Snail",
+  "alternativeNames": [
+    "Ovate Vertigo"
+  ],
   "scientificName": "Vertigo ovata",
   "family": "Vertiginidae",
   "familyCommonName": "Whorl Snails",
@@ -150,6 +153,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Vertigo_ovata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/114944"
 }

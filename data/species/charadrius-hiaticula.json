@@ -3,6 +3,9 @@
   "taxonId": 4801,
   "group": "birds",
   "commonName": "Common Ringed Plover",
+  "alternativeNames": [
+    "Ringed Plover"
+  ],
   "scientificName": "Charadrius hiaticula",
   "family": "Charadriidae",
   "familyCommonName": "Plovers and Lapwings",
@@ -323,6 +326,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Common_ringed_plover",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/4801",
   "xenoCantoUrl": "https://xeno-canto.org/species/Charadrius-hiaticula"

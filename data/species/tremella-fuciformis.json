@@ -3,6 +3,9 @@
   "taxonId": 143384,
   "group": "fungi",
   "commonName": "snow fungus",
+  "alternativeNames": [
+    "bela drhtavka"
+  ],
   "scientificName": "Tremella fuciformis",
   "family": "Tremellaceae",
   "familyCommonName": "Tremellaceae",
@@ -247,6 +250,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Tremella_fuciformis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/143384"
 }

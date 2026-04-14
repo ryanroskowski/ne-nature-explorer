@@ -3,6 +3,10 @@
   "taxonId": 337520,
   "group": "insects",
   "commonName": "Brown-tail Moth",
+  "alternativeNames": [
+    "Brown-tail Tussock Moth",
+    "Browntail Moth"
+  ],
   "scientificName": "Euproctis chrysorrhoea",
   "family": "Erebidae",
   "familyCommonName": "Underwing, Tiger, Tussock, and Allied Moths",
@@ -205,6 +209,7 @@
   "compareHints": "Since brown-tail moth is the only Euproctis species in New England, compare it to other white moths in the region. Unlike the fall webworm moth, brown-tail moths have the distinctive brown abdominal tuft and their caterpillars don't create large tent-like webs. White-marked tussock moths are much smaller and have different caterpillar coloration patterns.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Brown-tail",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/337520",
   "ecologicalRole": {

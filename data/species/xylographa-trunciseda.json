@@ -1,7 +1,7 @@
 {
   "slug": "xylographa-trunciseda",
   "taxonId": 233849,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Xylographa trunciseda",
   "scientificName": "Xylographa trunciseda",
   "family": "Xylographaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Trapeliales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -107,51 +107,31 @@
       "observationUrl": "https://www.inaturalist.org/observations/16567940"
     }
   ],
-  "nameStory": "The genus name Xylographa comes from Greek words meaning 'wood writer' — a perfect description for these lichens that create script-like marks on tree bark. The species name trunciseda refers to its truncated or cut-off appearance, as if someone stopped writing mid-sentence on the bark.",
-  "description": "**Note: Information about this species is limited and should be verified by experts.** Xylographa trunciseda appears to be a crustose lichen that forms thin, script-like patterns on tree bark. Like other members of its genus, it likely creates dark, linear markings that resemble ancient writing or scratches etched into the bark surface. These lichens are typically quite small and easily overlooked, forming patches just a few centimeters across.",
-  "idTips": [
-    {
-      "label": "Script-like markings",
-      "description": "Look for thin, dark lines that zigzag across bark like mysterious writing — they feel smooth to the touch and are embedded in the bark surface",
-      "isPrimary": true
-    },
-    {
-      "label": "Bark habitat",
-      "description": "Found exclusively on tree bark, never on rocks or soil — the surface feels firm and integrated with the bark texture",
-      "isPrimary": false
-    },
-    {
-      "label": "Dark coloration",
-      "description": "Markings appear black to dark brown, contrasting sharply with lighter bark — they don't rub off when touched gently",
-      "isPrimary": false
-    },
-    {
-      "label": "Linear pattern",
-      "description": "Forms elongated, narrow lines rather than circular patches — the lines may branch or connect like a network of cracks",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "**Habitat information uncertain — expert verification needed.** Likely found on the bark of deciduous or coniferous trees in forested areas of New England. Based on the extremely low observation count, this species is either very rare in the region or easily overlooked due to its subtle appearance.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "**Seasonal information uncertain.** Lichen body likely visible as bark begins to expand with spring growth, potentially making markings more apparent.",
-    "summer": "**Seasonal information uncertain.** Probably most easily spotted during dry periods when bark patterns are clearest and contrast is highest.",
-    "fall": "**Seasonal information uncertain.** May be visible year-round, though wet conditions might make the markings less distinct against darkened bark.",
-    "winter": "**Seasonal information uncertain.** Likely persists through winter as lichens are generally cold-tolerant, possibly more visible on snow-free bark."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "**This fact requires verification.** Wood-writing lichens like Xylographa may actually help protect trees by creating a thin barrier layer on bark surfaces — nature's own form of protective coating that happens to look like ancient hieroglyphics!",
-  "confusionNotes": "**Confusion species uncertain due to limited information.** Might be confused with bark cracks, insect damage, or other crustose lichens that form linear patterns. Unlike physical damage to bark, lichen markings feel smooth and integrated with the bark surface rather than raised or depressed.",
-  "contextualKnowledge": "**Important note:** With only 2 recorded observations in New England, this species information is highly uncertain and should be verified by lichen experts. The Xylographaceae family is specialized for bark habitats, but specific ecological requirements for this species are not well documented for our region.",
-  "compareHints": "**Comparison information limited.** Xylographa trunciseda likely differs from its relative X. opegraphella in the specific pattern and extent of its linear markings, but detailed distinguishing features between these species require expert knowledge. Both species probably share the characteristic 'wood writing' appearance but may differ in line thickness, branching patterns, or preferred tree hosts.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "xylographa-opegraphella",
       "commonName": "Xylographa opegraphella",
       "scientificName": "Xylographa opegraphella",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46607978/medium.jpg",
-      "distinction": "**Comparison details uncertain due to limited data."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/233849"
 }

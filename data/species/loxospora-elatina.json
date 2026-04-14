@@ -1,7 +1,7 @@
 {
   "slug": "loxospora-elatina",
   "taxonId": 224149,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Loxospora elatina",
   "scientificName": "Loxospora elatina",
   "family": "Sarrameanaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Sarrameanales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -91,46 +91,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/15774475"
     }
   ],
-  "nameStory": "Loxospora elatina gets its genus name from the Greek words 'loxos' meaning slanting or oblique, and 'spora' meaning seed, referring to the angled spores this lichen produces. The species name 'elatina' means 'rather tall' in Latin, though this crusty lichen barely rises above the bark it calls home. Like many lichens, it lacks a widely-used common name, so scientists simply call it by its scientific name.",
-  "description": "Loxospora elatina is a crusty lichen that forms thin, patch-like growths on tree bark. This organism is actually two living things working together - a fungus and an algae - creating what looks like a grayish or pale greenish crust spread across the surface of trees. The patches typically measure just a few inches across and are so thin they seem almost painted onto the bark. You'll need to look closely to spot this subtle but fascinating partnership between two very different forms of life.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms thin, crusty patches that feel smooth to slightly rough when you gently run your finger across them, almost like fine sandpaper adhered to bark",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Appears pale gray to slightly greenish-gray, sometimes with a faint yellowish tint, especially when wet from rain or morning dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Texture",
-      "description": "Surface feels firm and dry, with tiny bumps and ridges visible under close inspection, creating a subtly granular texture",
-      "isPrimary": false
-    },
-    {
-      "label": "Fruiting Bodies",
-      "description": "Look for small, dark spots or disc-like structures embedded in the crust - these are the spore-producing parts that feel slightly raised",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Always grows directly on tree bark, never on rocks or soil, and feels firmly attached when you try to scrape it gently with a fingernail",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for Loxospora elatina on the bark of deciduous trees in mature forests throughout New England, particularly on oak, maple, and birch trees. It prefers the somewhat sheltered conditions of forest interiors rather than exposed woodland edges. This lichen seems to favor trees in areas with good air quality, away from heavily polluted roadsides or urban centers.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Patches may appear slightly more vibrant and greenish as spring moisture activates the algal partner. This is an excellent time to spot new growth areas expanding along bark crevices.",
-    "summer": "The lichen remains visible but may look duller and grayer during dry periods. Hot, humid days after rain can make the patches more noticeable against dark, wet bark.",
-    "fall": "Often most easily spotted in fall when deciduous trees lose their leaves, revealing more bare bark surface. The contrast with colorful autumn foliage can make the subtle gray patches stand out.",
-    "winter": "Remains visible year-round on bare bark, though snow and ice may temporarily obscure patches. Cold, clear days provide excellent lighting for spotting the subtle color variations."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is essentially a solar-powered organism that can survive for decades in a state of suspended animation during droughts, then instantly spring back to life when moisture returns - like having a biological on/off switch that can stay 'off' for months or even years without any damage!",
-  "confusionNotes": "With only 3 recorded observations in New England, Loxospora elatina might easily be overlooked as just 'some gray stuff on bark' or confused with other crusty lichens. The key memory trick: if it's a thin, smooth-ish gray crust on deciduous tree bark that feels firmly attached and slightly granular, you might have found this rare species.",
-  "contextualKnowledge": "Many people don't realize that lichens like Loxospora elatina are actually not single organisms but rather a partnership (called symbiosis) between a fungus and an algae. The fungus provides structure and protection while the algae produces food through photosynthesis, creating a living example of successful cooperation in nature.",
-  "compareHints": "Loxospora elatina differs from its relatives Eastern Ragged-rim Lichen and Frosted Ragged-rim Lichen primarily in its smoother, less textured surface - it lacks the distinctive 'ragged' or heavily frosted appearance of its cousins. While all three form crusty patches on bark, elatina appears more uniform and less bumpy or granular than the others. The rarity of elatina in New England also sets it apart from its more commonly encountered relatives.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "loxospora-ochrophaea",
@@ -144,10 +118,11 @@
       "commonName": "Frosted Ragged-rim Lichen",
       "scientificName": "Loxospora cismonica",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12706614/medium.jpg",
-      "distinction": "Unlike its relative the Eastern Ragged-rim Lichen which has more yellowish tones and different spore characteristics, Frosted Ragged-rim has that distinctive whitish, powdery coating."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/224149"
 }

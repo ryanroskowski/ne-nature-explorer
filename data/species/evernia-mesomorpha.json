@@ -1,7 +1,7 @@
 {
   "slug": "evernia-mesomorpha",
   "taxonId": 182670,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Boreal Oakmoss",
   "scientificName": "Evernia mesomorpha",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -230,10 +230,11 @@
       "commonName": "Oakmoss",
       "scientificName": "Evernia prunastri",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/77181/medium.jpg",
-      "distinction": "Oakmoss differs from its relative Boreal Oakmoss by being generally smaller and having more delicate, flattened branches."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Evernia_mesomorpha",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/182670"
 }

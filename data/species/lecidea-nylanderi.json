@@ -1,7 +1,7 @@
 {
   "slug": "lecidea-nylanderi",
   "taxonId": 223061,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Nylander's Tile Lichen",
   "scientificName": "Lecidea nylanderi",
   "family": "Lecideaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Lecideales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 24113327,
@@ -99,41 +99,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/22306102"
     }
   ],
-  "nameStory": "Nylander's Tile Lichen gets its 'tile' name from the way its crusty body forms neat, geometric patches that look like tiny bathroom tiles spread across rock surfaces. It's named after William Nylander, a famous Finnish lichenologist from the 1800s who described hundreds of lichen species and was considered the world's leading lichen expert of his time.",
-  "description": "Nylander's Tile Lichen is a crusty, flat lichen that forms small grayish patches on rocks and stone surfaces. Like all lichens, it's actually two organisms living together - a fungus and an algae working as a team. The lichen body grows as thin, crusty patches that rarely exceed a few inches across, with distinctive black, disk-shaped fruiting bodies dotting the surface. **Note: This species is extremely rare in New England with only one recorded observation, so information should be considered preliminary.**",
-  "idTips": [
-    {
-      "label": "Crusty Gray Body",
-      "description": "Forms thin, crusty patches on rock that feel rough and slightly bumpy to the touch, colored pale gray to whitish-gray",
-      "isPrimary": false
-    },
-    {
-      "label": "Black Disk Fruiting Bodies",
-      "description": "Small, perfectly round black spots scattered across the surface like tiny buttons, slightly raised and firm when pressed gently",
-      "isPrimary": true
-    },
-    {
-      "label": "Rock Surface Habitat",
-      "description": "Always found growing directly on bare rock surfaces, never on bark or soil, forming tight bonds with the stone",
-      "isPrimary": false
-    },
-    {
-      "label": "Tile-like Growth Pattern",
-      "description": "The crusty body often develops geometric cracks that create a tile or puzzle-piece appearance, especially as it ages",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "**Habitat information uncertain due to extremely limited New England observations.** Like other tile lichens, it likely grows on exposed rock surfaces including granite outcrops, stone walls, and rocky ledges in areas with good air circulation. May prefer slightly acidic rock types and areas that receive periodic moisture but aren't constantly wet.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Black fruiting disks may be most prominent as the lichen becomes active with spring moisture. The gray crusty body begins to show renewed growth.",
-    "summer": "Lichen body appears at its most robust, though may look slightly faded during very dry periods. Fruiting bodies remain visible.",
-    "fall": "Often looks its best as cooler, moister conditions return. New growth may be visible around the edges of patches.",
-    "winter": "Remains visible year-round as a gray crusty patch with black dots, though growth slows significantly in cold weather."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "**Claim uncertain:** This lichen may be able to survive being completely dried out for months, then spring back to life within minutes of getting wet - a superpower that NASA has studied for insights into how life might survive in space!",
-  "confusionNotes": "**Comparison uncertain due to limited data:** Could be confused with other tile lichens like Gray-orange Disk Lichen, but Nylander's typically has purely black fruiting bodies rather than any orange or brown tones. The geometric, tile-like cracking pattern can help distinguish it from smoother crusty lichens.",
-  "contextualKnowledge": "**Important note:** This species has only been recorded once in New England, making it either extremely rare, possibly misidentified in past records, or potentially confused with similar species. Any suspected sightings would be scientifically valuable and should be photographed and reported to local naturalist groups.",
-  "compareHints": "**Comparisons uncertain due to limited New England data:** Compared to other tile lichens in the Lecidea genus, Nylander's Tile Lichen likely has the most consistently black fruiting bodies without orange or brown tones that characterize Gray-orange Disk Lichen or Brown Tile Lichen. The geometric cracking pattern may be more pronounced than in the closely related Tile Lichen (Lecidea tessellata).",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "lecidea-lapicida",
@@ -147,24 +126,25 @@
       "commonName": "Tile Lichen",
       "scientificName": "Lecidea tessellata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110875620/medium.jpg",
-      "distinction": "Tile Lichen differs from its relatives like Gray-orange Disk Lichen by its distinctive tessellated surface pattern and more neutral coloration."
+      "distinction": "undefined."
     },
     {
       "slug": "lecidea-atrobrunnea",
       "commonName": "Brown Tile Lichen",
       "scientificName": "Lecidea atrobrunnea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110875459/medium.jpg",
-      "distinction": "Brown Tile Lichen differs from its relatives like Gray-orange Disk Lichen by its distinctly brownish (rather than grayish-orange) coloration and its preference for high-elevation rock faces."
+      "distinction": "undefined."
     },
     {
       "slug": "lecidea-auriculata",
       "commonName": "Lecidea auriculata",
       "scientificName": "Lecidea auriculata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24954074/medium.jpg",
-      "distinction": "**Uncertainty note: Limited reference material available** Unlike Gray-orange Disk Lichen which has flatter, orange-tinged fruiting bodies, Lecidea auriculata has distinctly raised, ear-like margins on its black apothecia."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/223061"
 }

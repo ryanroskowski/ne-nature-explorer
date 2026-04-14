@@ -1,7 +1,7 @@
 {
   "slug": "ramalina-complanata",
   "taxonId": 229760,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "cartilage lichen",
   "scientificName": "Ramalina complanata",
   "family": "Ramalinaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 2650835,
@@ -147,51 +147,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/221726882"
     }
   ],
-  "nameStory": "This lichen gets its name from its flattened, ribbon-like branches that feel surprisingly tough and flexible, just like the cartilage in your nose or ears. When you gently bend a piece between your fingers, it has that same firm yet bendable quality that makes you think of gristle or cartilage.",
-  "description": "Cartilage lichen is a bushy, pale greenish-gray lichen that grows in hanging or upright tufts from tree bark and rocks. Its most distinctive feature is its flattened, strap-like branches that fork repeatedly, creating a somewhat tangled appearance. The whole lichen can grow 2-4 inches tall and forms clumps that may spread several inches across. It's quite rare in New England, making any sighting a special discovery.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms bushy tufts of flattened, ribbon-like branches that hang or stick out from the surface - not crusty or leafy like many other lichens",
-      "isPrimary": true
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Branches feel firm and slightly rubbery when touched, bending without breaking - much tougher than they look",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Pale greenish-gray when dry, becoming more vibrant green when wet from rain or morning dew",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Usually grows on bark of coastal trees or occasionally on rocks near the ocean, preferring spots that get regular fog or salt spray",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual clumps reach 2-4 inches tall with branches about 1-3mm wide - substantial enough to easily spot from a few feet away",
-      "isPrimary": false
-    },
-    {
-      "label": "Reproductive Structures",
-      "description": "Rarely produces the cup-like fruiting bodies (apothecia) that many lichens have - mostly reproduces by fragments breaking off",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Cartilage lichen thrives in coastal areas of New England where it receives regular fog and salt spray, typically growing on the bark of trees like oaks, maples, and pines within a few miles of the ocean. It occasionally appears on coastal rocks and stone walls that get frequent moisture from sea air. This species strongly prefers the humid, maritime climate and is rarely found far inland.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more vibrant green as spring rains and fog provide regular moisture. This is an excellent time to see the color contrast between wet and dry conditions.",
-    "summer": "Often appears pale and somewhat brittle during dry spells, but perks up dramatically after summer storms or during foggy periods along the coast.",
-    "fall": "Autumn's increased humidity and frequent coastal storms bring out rich green colors, making identification easier during this season.",
-    "winter": "Remains visible and often looks its most vibrant during winter coastal storms, when constant moisture keeps it green and flexible."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Cartilage lichen is so rare in New England that it's been documented only once in recent surveys - finding one would be like discovering botanical treasure and could represent a significant range extension for this species!",
-  "confusionNotes": "Most likely confused with other bushy lichens, but cartilage lichen's distinctly flattened, strap-like branches set it apart from the more cylindrical branches of most relatives. Remember: if the branches look like tiny green ribbons rather than skinny cylinders, you might have found this rarity.",
-  "contextualKnowledge": "Despite being called a 'bushy lichen,' this species and its relatives can also grow in somewhat hanging or drooping forms, especially when they get larger or grow on vertical surfaces. The family name 'sea-fog lichens' hints at their preference for coastal, humid conditions.",
-  "compareHints": "Unlike its relatives in the bushy lichen genus, cartilage lichen has distinctly flattened branches rather than the more rounded or cylindrical branches of species like sinewed bushy lichen. Farinose cartilage lichen is the closest relative but has a powdery, white coating on its surface that this species lacks. The flattened, ribbon-like growth form is really the key distinguishing feature within this group.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "ramalina-americana",
@@ -219,17 +188,18 @@
       "commonName": "Farinose Cartilage Lichen",
       "scientificName": "Ramalina farinacea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/471356633/medium.jpg",
-      "distinction": "Unlike its relatives in the Ramalina genus, Farinose Cartilage Lichen is the only one with powdery white soredia along its branch edges."
+      "distinction": "undefined."
     },
     {
       "slug": "ramalina-willeyi",
       "commonName": "Thorny Ramalina",
       "scientificName": "Ramalina willeyi",
       "thumbnailUrl": "https://static.inaturalist.org/photos/28480517/medium.jpeg",
-      "distinction": "[UNCERTAIN: Detailed comparisons due to limited information] Unlike its relatives Sinewed Bushy Lichen and Rock Bushy Lichen, Thorny Ramalina is distinguished by its thorny surface projections rather than smooth branches."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/229760"
 }

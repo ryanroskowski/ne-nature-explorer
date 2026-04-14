@@ -3,6 +3,14 @@
   "taxonId": 4981,
   "group": "birds",
   "commonName": "Black-crowned Night Heron",
+  "alternativeNames": [
+    "Black-crowned Night-Heron",
+    "Qua Bird",
+    "Night Heron",
+    "Black Crowned Night Heron",
+    "Murrell Hen",
+    "BCNH"
+  ],
   "scientificName": "Nycticorax nycticorax",
   "family": "Ardeidae",
   "familyCommonName": "Herons, Egrets, and Bitterns",
@@ -275,6 +283,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Black-crowned_night_heron",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/4981",
   "xenoCantoUrl": "https://xeno-canto.org/species/Nycticorax-nycticorax"

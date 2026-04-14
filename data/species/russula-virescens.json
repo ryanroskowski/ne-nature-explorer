@@ -3,6 +3,9 @@
   "taxonId": 125720,
   "group": "fungi",
   "commonName": "Green Russula",
+  "alternativeNames": [
+    "Greencracked Brittlegill"
+  ],
   "scientificName": "Russula virescens",
   "family": "Russulaceae",
   "familyCommonName": "Milkcaps, Brittlegills and Allies",
@@ -854,6 +857,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Russula_virescens",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/125720"
 }

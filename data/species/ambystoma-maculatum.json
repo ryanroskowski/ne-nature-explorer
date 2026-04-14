@@ -3,6 +3,9 @@
   "taxonId": 26790,
   "group": "amphibians",
   "commonName": "Spotted Salamander",
+  "alternativeNames": [
+    "Yellow-spotted Salamander"
+  ],
   "scientificName": "Ambystoma maculatum",
   "family": "Ambystomatidae",
   "familyCommonName": "Mole Salamanders",
@@ -227,6 +230,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Spotted_salamander",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/26790"
 }

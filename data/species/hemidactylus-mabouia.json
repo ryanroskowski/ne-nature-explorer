@@ -3,6 +3,14 @@
   "taxonId": 68492,
   "group": "reptiles",
   "commonName": "Tropical House Gecko",
+  "alternativeNames": [
+    "House Gecko",
+    "Moreau's Tropical House Gecko",
+    "Wood Slave Gecko",
+    "Afro-American House Gecko",
+    "Wood Slave",
+    "Cosmopolitan House Gecko"
+  ],
   "scientificName": "Hemidactylus mabouia",
   "family": "Gekkonidae",
   "familyCommonName": "Typical Geckos",
@@ -164,6 +172,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Tropical_house_gecko",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/68492"
 }

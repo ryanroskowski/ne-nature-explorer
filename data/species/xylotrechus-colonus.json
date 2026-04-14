@@ -3,6 +3,9 @@
   "taxonId": 233860,
   "group": "insects",
   "commonName": "Rustic Borer",
+  "alternativeNames": [
+    "Rustic Borer Beetle"
+  ],
   "scientificName": "Xylotrechus colonus",
   "family": "Cerambycidae",
   "familyCommonName": "Longhorn Beetles",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Xylotrechus_colonus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/233860",
   "ecologicalRole": {

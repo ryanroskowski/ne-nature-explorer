@@ -1,7 +1,7 @@
 {
   "slug": "sphaerophorus-globosus",
   "taxonId": 55241,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Globe Ball Lichen",
   "scientificName": "Sphaerophorus globosus",
   "family": "Sphaerophoraceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -147,68 +147,38 @@
       "observationUrl": "https://www.inaturalist.org/observations/5524105"
     }
   ],
-  "nameStory": "Globe Ball Lichen gets its name from its distinctive round, ball-like reproductive structures that sit atop its coral-like branches. These perfect little spheres look like tiny ornaments decorating the branched body of the lichen, making it instantly recognizable once you know what to look for.",
-  "description": "Globe Ball Lichen is a fruticose (shrub-like) lichen that forms small, upright branching structures resembling miniature coral. The main body consists of pale, cylindrical branches that divide and fork as they grow upward. What makes this species special are the distinctive round, ball-like structures at the tips of some branches - these are the reproductive parts that give the lichen its name. The entire organism typically grows only a few centimeters tall, making it a delicate treasure to discover.",
-  "idTips": [
-    {
-      "label": "Reproductive Structures",
-      "description": "Look for perfect little round balls at the tips of branches - these glossy, dark spheres are the key identifying feature and feel firm to gentle touch",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms upright, branching structures that look like tiny coral, with cylindrical stems that fork and divide repeatedly",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Branches are pale whitish to light gray, while the distinctive ball-shaped tips are dark brown to black and often shiny",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Branches feel smooth and somewhat brittle when dry, with a clean, almost polished appearance that lacks the fuzzy or scaly textures of many other lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Quite small, typically reaching only 1-3 centimeters in height, making it easy to overlook among other vegetation",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Usually grows on acidic substrates like rotting wood, soil, or moss in shaded, humid locations",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Globe Ball Lichen thrives in cool, moist environments throughout New England's forests, particularly in shaded areas with high humidity. You'll most likely find it growing on decaying logs, acidic soil, or among mosses in coniferous and mixed forests at various elevations. Look for it in the understory where conditions remain consistently damp and protected from direct sunlight.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more visible as snow melts and humidity increases, with branches appearing fresh and the characteristic dark globes becoming more prominent.",
-    "summer": "May be harder to spot during dry periods as it can shrink and become less conspicuous, but remains present in consistently moist microhabitats.",
-    "fall": "Often at its most visible as forest humidity increases and falling leaves create the moist conditions it prefers.",
-    "winter": "Remains visible under snow cover and may actually be easier to spot against white snow, though growth is minimal in cold temperatures."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Despite being extremely rare in New England with only 2 recorded observations, this tiny lichen has managed to colonize habitats all around the world - it's found on every continent except Antarctica, making it one of nature's most successful global travelers despite being smaller than your thumb!",
-  "confusionNotes": "Globe Ball Lichen might be confused with other small coral lichens, but the distinctive round, ball-like reproductive structures at branch tips are unique - no other coral lichen in New England has these perfect dark spheres, so they're your foolproof identification feature.",
-  "contextualKnowledge": "This lichen belongs to the coral lichen group, but don't let the name fool you - these are land-dwelling organisms that just happen to look like tiny ocean corals. The 'coral lichen' name refers purely to their branching, tree-like growth form and has nothing to do with marine coral reefs.",
-  "compareHints": "Globe Ball Lichen differs from its relatives Fragile Coral Lichen and Tuckerman's Coral Lichen primarily by those distinctive round, ball-like structures at the branch tips. Fragile Coral Lichen lacks these spherical reproductive structures entirely, while Tuckerman's Coral Lichen has different reproductive parts that aren't perfectly round. The globular tips are Globe Ball Lichen's signature feature that sets it apart from all other coral lichens in the region.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "sphaerophorus-fragilis",
       "commonName": "Fragile Coral Lichen",
       "scientificName": "Sphaerophorus fragilis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/887937/medium.jpg",
-      "distinction": "Unlike its relative Globe Ball Lichen which forms rounded, ball-like structures, Fragile Coral Lichen creates distinctly branched, coral-like forms."
+      "distinction": "undefined."
     },
     {
       "slug": "sphaerophorus-tuckermanii",
       "commonName": "Tuckerman's Coral Lichen",
       "scientificName": "Sphaerophorus tuckermanii",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41751209/medium.jpeg",
-      "distinction": "Tuckerman's Coral Lichen differs from its cousin Fragile Coral Lichen by having more robust, thicker branches that are less prone to immediate breakage when handled."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Sphaerophorus_globosus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/55241"
 }

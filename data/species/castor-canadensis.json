@@ -3,6 +3,18 @@
   "taxonId": 43794,
   "group": "mammals",
   "commonName": "American Beaver",
+  "alternativeNames": [
+    "Canadian Beaver",
+    "North American Beaver",
+    "Flat-tail",
+    "Bank Beaver",
+    "Canada Beaver",
+    "Rio Grande Beaver",
+    "Carolina Beaver",
+    "Sonora Beaver",
+    "Admiralty Beaver",
+    "beaver"
+  ],
   "scientificName": "Castor canadensis",
   "family": "Castoridae",
   "familyCommonName": "Beavers",
@@ -194,6 +206,7 @@
   "compareHints": "American beavers are the only beaver species in New England, but they're quite different from their closest living relatives, the Eurasian beavers found in Europe and Asia. While very similar in appearance and behavior, Eurasian beavers are slightly smaller and have narrower tails and skulls. Within the rodent family, beavers are unique in their large size and aquatic engineering lifestyle.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/North_American_beaver",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/43794"
 }

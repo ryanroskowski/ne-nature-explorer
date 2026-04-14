@@ -1,8 +1,11 @@
 {
   "slug": "rhizocarpon-disporum",
   "taxonId": 154104,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Single-spored Map Lichen",
+  "alternativeNames": [
+    "Purple Prose"
+  ],
   "scientificName": "Rhizocarpon disporum",
   "family": "Rhizocarpaceae",
   "familyCommonName": "Rhizocarpaceae",
@@ -12,7 +15,7 @@
   "orderCommonName": "Rhizocarpales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -99,46 +102,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/15410405"
     }
   ],
-  "nameStory": "The 'single-spored' part of this lichen's name comes from a quirky botanical feature - each of its reproductive sacs contains just one spore instead of the usual multiple spores found in most lichens. The 'map' part refers to how many lichens in this genus create colorful, patch-like patterns on rocks that look like the boundaries on old maps. It's a bit like nature's own cartography painted across stone surfaces!",
-  "description": "Single-spored map lichen is a crusty, rock-hugging lichen that forms thin, colorful patches directly on stone surfaces. Like all lichens, it's actually two organisms living together - a fungus and an alga working as partners. This particular species prefers sunny, exposed rocks and creates distinctive map-like patterns as it slowly spreads across the stone. It's part of a family of 'crustose' lichens, meaning they form a crust so tightly bonded to rock that you can't peel them off without damaging both the lichen and the stone.",
-  "idTips": [
-    {
-      "label": "Rock-dwelling habit",
-      "description": "Always found growing directly on hard, silica-rich rocks like granite or quartzite in sunny, exposed locations - never on trees or soil",
-      "isPrimary": false
-    },
-    {
-      "label": "Crustose texture",
-      "description": "Forms a thin, crusty coating that feels rough and gritty to the touch, impossible to peel away from the rock surface",
-      "isPrimary": false
-    },
-    {
-      "label": "Map-like patches",
-      "description": "Creates colorful, irregularly-shaped patches with distinct borders that resemble the boundaries between countries on a map",
-      "isPrimary": false
-    },
-    {
-      "label": "Single spore feature",
-      "description": "Contains only one large spore per reproductive sac (visible only with magnification) - this is the key diagnostic feature that separates it from similar species",
-      "isPrimary": true
-    },
-    {
-      "label": "Sun-loving locations",
-      "description": "Thrives on fully exposed rock faces that receive direct sunlight for most of the day, avoiding shaded or moist areas",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for this lichen on exposed, sun-baked granite outcrops, quartzite ledges, and other silica-rich rocks throughout New England's mountains and rocky areas. It favors the kind of bare rock faces you'd find on mountain summits, cliff edges, and glacially-scoured bedrock where few other plants can survive. You'll typically spot it in open areas with minimal tree cover, from coastal granite shores to alpine zones.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more noticeable as snow melts reveal the colorful patches on exposed rocks. This is a good time to search newly-exposed rock faces.",
-    "summer": "Most visible during dry, sunny weather when the lichen's colors are at their brightest and the rock surfaces are easiest to access and examine.",
-    "fall": "Still easily spotted on rocks, and the cooler, moister air may help bring out subtle color variations in the lichen patches.",
-    "winter": "Remains present but may be hidden under snow and ice. On south-facing exposures that stay snow-free, it's still identifiable year-round."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This lichen is so slow-growing and long-lived that scientists actually use it as a natural clock - by measuring the size of lichen patches on glacial boulders, they can estimate how long ago glaciers retreated from an area, sometimes dating events thousands of years in the past!",
-  "confusionNotes": "Most easily confused with Twin Map Lichen, which looks nearly identical but has two spores per sac instead of one - unfortunately, you need a microscope to tell them apart! The Twin Map Lichen also prefers slightly moister spots, so if you find map lichen in a relatively sheltered or humid location, it's more likely to be the twin-spored variety.",
-  "contextualKnowledge": "The scientific name can be confusing because 'disporum' typically means 'two-spored' in botanical Latin, but this species actually has just one spore - it's one of those naming mix-ups that happened in early botanical classification and stuck. Don't let the name fool you into thinking it has two spores!",
-  "compareHints": "Unlike the more common Yellow Map Lichen which tends to be bright yellow-green, Single-spored Map Lichen often shows more varied coloration. While Twin Map Lichen is virtually identical in appearance, it has two spores per sac and prefers slightly more protected, moister rock surfaces. The single-spore feature is really the only reliable way to distinguish this species from its close relatives, making it a challenging identification even for experts.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "rhizocarpon-geographicum",
@@ -159,31 +136,32 @@
       "commonName": "Twin Map Lichen",
       "scientificName": "Rhizocarpon geminatum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2723311/medium.jpeg",
-      "distinction": "Twin Map Lichen is distinguished from Yellow Map Lichen primarily by its paired spores versus single spores, though they look nearly identical otherwise."
+      "distinction": "undefined."
     },
     {
       "slug": "rhizocarpon-eupetraeum",
       "commonName": "Rhizocarpon eupetraeum",
       "scientificName": "Rhizocarpon eupetraeum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8082076/medium.jpg",
-      "distinction": "Unlike the bright yellow, obviously cracked yellow map lichen that's common on New England rocks, R."
+      "distinction": "undefined."
     },
     {
       "slug": "rhizocarpon-ferax",
       "commonName": "Rhizocarpon ferax",
       "scientificName": "Rhizocarpon ferax",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/112172215/medium.jpeg",
-      "distinction": "Unlike the much more common yellow map lichen which displays bright yellow-green coloration, Rhizocarpon ferax appears more subdued in grayish tones."
+      "distinction": "undefined."
     },
     {
       "slug": "rhizocarpon-subgeminatum",
       "commonName": "Rhizocarpon subgeminatum",
       "scientificName": "Rhizocarpon subgeminatum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/350326575/medium.jpg",
-      "distinction": "**Comparison details uncertain due to rarity** - Differs from Yellow Map Lichen in having reproductive structures that appear nearly paired (suggested by \"subgeminatum\"), and likely differs from Twin Map Lichen in subtle microscopic features."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rhizocarpon_disporum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/154104"
 }

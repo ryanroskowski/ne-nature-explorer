@@ -3,6 +3,9 @@
   "taxonId": 901757,
   "group": "fungi",
   "commonName": "Spring Aspencup",
+  "alternativeNames": [
+    "Spring Poplarcup"
+  ],
   "scientificName": "Sclerencoelia fascicularis",
   "family": "Sclerotiniaceae",
   "familyCommonName": "Sclerotiniaceae",
@@ -219,6 +222,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/901757"
 }

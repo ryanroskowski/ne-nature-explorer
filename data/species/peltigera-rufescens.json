@@ -1,7 +1,7 @@
 {
   "slug": "peltigera-rufescens",
   "taxonId": 180448,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "field dog lichen",
   "scientificName": "Peltigera rufescens",
   "family": "Peltigeraceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Peltigerales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -163,51 +163,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/288834165"
     }
   ],
-  "nameStory": "The \"dog\" in field dog lichen comes from an old belief that these ground-hugging lichens resembled the shape of a dog lying flat against the earth. The \"field\" part refers to its love of open, sunny spaces rather than shady forests. Together, the name paints a picture of this lichen sprawling across meadows like a sleepy pup basking in the sun.",
-  "description": "Field dog lichen is a leafy, ground-dwelling lichen that forms circular patches up to 8 inches across on soil and rocks. It has a distinctive grey to brown color and feels remarkably soft and velvety to the touch, almost like suede or felt. The individual lobes curl upward at their edges, creating a ruffled appearance that makes it look like it's trying to cup rainwater. This hardy lichen thrives in sunny, open areas where many other lichens can't survive.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "The top surface feels incredibly soft and velvety, like touching fine suede or felt fabric - this fuzzy coating is called tomentum and makes it unmistakable among ground lichens",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms circular rosettes on the ground with lobes that have distinctively curled-up edges, creating a ruffled or cupped appearance",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Grey to brown overall, maintaining similar colors whether wet or dry, unlike many lichens that change dramatically with moisture",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual lobes are typically 1-2 inches long and quite narrow, with the entire rosette reaching up to 8 inches across",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Found on bare soil, especially limestone or nutrient-rich ground, often in areas that seem too harsh and sunny for most lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Underside",
-      "description": "Flip it over to see a network of raised veins and dark, root-like structures called rhizines that anchor it firmly to the ground",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Look for field dog lichen in open, sunny areas with basic soils, particularly around limestone outcrops, old fields, and disturbed ground with good drainage. In New England, it favors nutrient-rich spots that might seem too harsh for other lichens - think sunny meadows, roadside banks, and rocky slopes where the soil isn't too acidic. It's especially common in areas with some lime content in the soil or rocks.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more vibrant as spring moisture activates growth, with the velvety texture most pronounced. This is when you might spot small, brownish fruiting bodies beginning to develop.",
-    "summer": "Easily found in its preferred sunny habitats, though it may appear slightly faded during very dry spells. The distinctive upturned lobe edges are most noticeable when it's well-hydrated from summer rains.",
-    "fall": "Remains visible and identifiable, often looking its most robust after fall rains. The soft, suede-like texture is particularly apparent in the cooler, moister conditions.",
-    "winter": "Still present and identifiable under snow, though may appear somewhat contracted. On warm winter days when snow melts, the grey-brown rosettes stand out clearly against bare soil."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Field dog lichen acts like a living sponge for heavy metals, absorbing and concentrating them from polluted soils - scientists actually use it as a natural pollution detector, and some researchers are exploring whether it could help clean contaminated sites!",
-  "confusionNotes": "Most likely confused with other dog lichens, but field dog lichen's incredibly soft, velvety texture is unique - if it doesn't feel like touching suede, it's probably a different species. Remember: \"Field dog feels fabulous\" - that fuzzy texture is your best clue.",
-  "contextualKnowledge": "The \"dog lichen\" group gets its name from old European folklore, not from any actual relationship to dogs. These lichens were once thought to cure rabies (they don't!), which is how several species in this genus ended up with canine common names.",
-  "compareHints": "Among the many pelt lichens in New England, field dog lichen stands out for its incredibly soft, velvety surface texture - most other dog lichens feel smoother or more leathery. While dog pelt lichen and freckled pelt lichen are more common in shaded, moist areas, field dog lichen specifically seeks out sunny, dry spots that would stress its relatives. The upturned, curled lobe edges also help distinguish it from the flatter-lobed species in the group.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "peltigera-praetextata",
@@ -291,52 +260,53 @@
       "commonName": "carpet pelt lichen",
       "scientificName": "Peltigera neopolydactyla",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/142861183/medium.jpeg",
-      "distinction": "Carpet pelt lichen differs from its pelt lichen relatives by its consistently smooth upper surface and preference for soil rather than rocks or trees."
+      "distinction": "undefined."
     },
     {
       "slug": "peltigera-membranacea",
       "commonName": "membranous pelt lichen",
       "scientificName": "Peltigera membranacea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/80724/medium.jpg",
-      "distinction": "Among the many pelt lichen species in New England, membranous pelt lichen stands out for its distinctly thin, papery texture - much more delicate than the thicker, more leathery dog pelt lichen or scaly pelt lichen."
+      "distinction": "undefined."
     },
     {
       "slug": "peltigera-phyllidiosa",
       "commonName": "Mother-of-many Pelt",
       "scientificName": "Peltigera phyllidiosa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11516613/medium.jpg",
-      "distinction": "Unlike the smooth-surfaced dog pelt lichen or the powdery-edged freckled pelt lichen, mother-of-many pelt is immediately recognizable by its bumpy, phyllidia-covered surface."
+      "distinction": "undefined."
     },
     {
       "slug": "peltigera-neckeri",
       "commonName": "Blacksaddle pelt lichen",
       "scientificName": "Peltigera neckeri",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52928985/medium.jpeg",
-      "distinction": "Unlike the more common dog pelt lichen which has rounded, disk-like apothecia along the lobe edges, blacksaddle pelt has distinctive tubular, saddle-shaped reproductive structures on the lichen surface."
+      "distinction": "undefined."
     },
     {
       "slug": "peltigera-collina",
       "commonName": "tree pelt lichen",
       "scientificName": "Peltigera collina",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/398894/medium.jpg",
-      "distinction": "Compared to its Peltigera relatives, tree pelt lichen has a distinctly more velvety surface texture and tends to be more brownish in color than the grayer dog pelt lichen or the more distinctly veined fan pelt lichen."
+      "distinction": "undefined."
     },
     {
       "slug": "peltigera-venosa",
       "commonName": "fan pelt lichen",
       "scientificName": "Peltigera venosa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/250255/medium.jpg",
-      "distinction": "Among its pelt lichen relatives, fan pelt lichen stands out with its smooth upper surface and distinctive raised black veins underneath."
+      "distinction": "undefined."
     },
     {
       "slug": "peltigera-ponojensis",
       "commonName": "pale-bellied pelt lichen",
       "scientificName": "Peltigera ponojensis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2955318/medium.jpg",
-      "distinction": "Among pelt lichens, the pale-bellied pelt is distinguished by its consistently pale underside, whereas dog pelt lichen has a darker, often brownish underside with prominent veins, and freckled pelt lichen has distinctive dark spots on its upper surface."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Peltigera_rufescens",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/180448"
 }

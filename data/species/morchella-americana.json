@@ -3,6 +3,10 @@
   "taxonId": 462132,
   "group": "fungi",
   "commonName": "American yellow morel",
+  "alternativeNames": [
+    "white morel",
+    "gray morel"
+  ],
   "scientificName": "Morchella americana",
   "family": "Morchellaceae",
   "familyCommonName": "morels and allies",
@@ -269,6 +273,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Morchella_americana",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/462132"
 }

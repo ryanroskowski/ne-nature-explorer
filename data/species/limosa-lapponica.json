@@ -3,6 +3,9 @@
   "taxonId": 3951,
   "group": "birds",
   "commonName": "Bar-tailed Godwit",
+  "alternativeNames": [
+    "Barwit"
+  ],
   "scientificName": "Limosa lapponica",
   "family": "Scolopacidae",
   "familyCommonName": "Sandpipers and Allies",
@@ -328,6 +331,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Bar-tailed_godwit",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/3951",
   "xenoCantoUrl": "https://xeno-canto.org/species/Limosa-lapponica"

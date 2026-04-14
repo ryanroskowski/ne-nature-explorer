@@ -1,7 +1,7 @@
 {
   "slug": "nephroma-bellum",
   "taxonId": 225798,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Naked Kidney Lichen",
   "scientificName": "Nephroma bellum",
   "family": "Nephromataceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Peltigerales",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 1,
-  "abundanceTier": "rare",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 6229931,
@@ -91,75 +91,45 @@
       "observationUrl": "https://www.inaturalist.org/observations/271259367"
     }
   ],
-  "nameStory": "The Naked Kidney Lichen gets its name from its distinctive kidney-shaped lobes that lack the fuzzy coating or powdery surface found on many of its relatives. The 'naked' part refers to its smooth, clean appearance - no soredia (powdery reproductive bits) or isidia (tiny finger-like projections) cluttering up its surface. It's like nature's version of a polished stone kidney!",
-  "description": "Naked Kidney Lichen is a medium-sized foliose lichen that forms leafy, overlapping patches on tree bark and rocks. Its lobes are distinctly kidney or fan-shaped, creating an elegant scalloped appearance that can spread 2-4 inches across. The upper surface is typically grayish-brown when dry, turning a rich olive-brown or greenish when wet. This is one of the 'cleaner' looking lichens you'll encounter, with a notably smooth surface free of the bumps and powders that characterize many other species.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "The upper surface feels remarkably smooth to the touch, almost leather-like, without any powdery coating, bumps, or fuzzy projections that you'd find on similar kidney lichens",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Forms distinct kidney or fan-shaped lobes that overlap like scales, creating neat scalloped edges around the colony's perimeter",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Shifts dramatically from pale grayish-brown when dry to deep olive-brown or greenish when wet - one of the more striking color changes you'll see in lichens",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Typically grows on the bark of deciduous trees, especially preferring smooth-barked species like maple and beech, though occasionally found on rocks",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual lobes can reach 1-2 inches wide, with entire colonies spreading 2-4 inches across mature tree trunks",
-      "isPrimary": false
-    },
-    {
-      "label": "Reproductive Structures",
-      "description": "Reproduces primarily through fragmentation rather than visible spore-producing structures, contributing to its clean, unadorned appearance",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "This rare lichen favors the bark of mature deciduous trees in old-growth or undisturbed forests, particularly on smooth-barked species like sugar maple, American beech, and yellow birch. It prefers humid, shaded locations with good air quality, often found in mountain forests or protected valleys throughout New England. You're most likely to spot it in places that have remained relatively untouched by development or air pollution.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Fresh spring rains bring out the lichen's richest colors, transforming it from winter's pale gray-brown to vibrant olive-green. This is an excellent time to observe the dramatic color shift that helps distinguish it from similar species.",
-    "summer": "During humid summer conditions, the lichen maintains its darker, more colorful appearance for longer periods. Growth is most active during warm, moist weather, though changes are imperceptible to casual observers.",
-    "fall": "Autumn's variable weather creates perfect conditions for observing both wet and dry color phases, sometimes within the same day. The lichen's smooth surface makes it particularly noticeable against rough bark textures.",
-    "winter": "Snow and ice can make lichens harder to spot, but Naked Kidney Lichen's relatively large size and distinct lobed shape remain visible. Winter's dry conditions show off its characteristic pale, matte appearance."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Despite being incredibly rare in New England (with only one confirmed sighting!), this lichen can live for centuries and was likely much more common before industrial air pollution began affecting forest ecosystems - making any discovery a glimpse into New England's ancient woodland past.",
-  "confusionNotes": "The key to separating Naked Kidney Lichen from its relatives is right in the name - it's 'naked' of surface features. Powdery Kidney Lichen has a dusty, granular surface you can feel with your finger, while Fringed Kidney Lichen has tiny projections along the edges. Remember: if it feels smooth as leather and looks clean, you might have found the rare naked one!",
-  "contextualKnowledge": "The extreme rarity of this species in New England (only one recorded observation) means any sighting should be photographed and reported to local naturalist groups or iNaturalist, as it could represent an important range extension or remnant population from pre-industrial times.",
-  "compareHints": "Unlike Powdery Kidney Lichen which is covered in soredia (powdery reproductive structures) that rub off on your fingers, Naked Kidney Lichen has a completely smooth, clean surface. It also lacks the distinctive hair-like projections along the lobe edges that characterize Fringed Kidney Lichen. Among the kidney lichens, this species is the 'minimalist' - all about clean lines and smooth textures rather than fuzzy, powdery, or fringed decorations.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "nephroma-parile",
       "commonName": "Powdery Kidney Lichen",
       "scientificName": "Nephroma parile",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51816761/medium.jpg",
-      "distinction": "Powdery Kidney Lichen is smaller and more powdery than its relatives in the Nephroma genus."
+      "distinction": "undefined."
     },
     {
       "slug": "nephroma-helveticum",
       "commonName": "Fringed Kidney Lichen",
       "scientificName": "Nephroma helveticum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14632960/medium.jpg",
-      "distinction": "Compared to its relatives like powdery kidney lichen and naked kidney lichen, fringed kidney lichen is the only one with those distinctive hair-like fringes along the lobe edges."
+      "distinction": "undefined."
     },
     {
       "slug": "nephroma-laevigatum",
       "commonName": "Mustard Kidney Lichen",
       "scientificName": "Nephroma laevigatum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/316454377/medium.jpeg",
-      "distinction": "Unlike its relatives in the kidney lichen group, Mustard Kidney Lichen has a distinctly smooth upper surface and yellowish coloration."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/225798"
 }

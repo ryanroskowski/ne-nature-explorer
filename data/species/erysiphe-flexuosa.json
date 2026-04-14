@@ -3,6 +3,9 @@
   "taxonId": 916624,
   "group": "fungi",
   "commonName": "Horse-Chestnut Powdery Mildew",
+  "alternativeNames": [
+    "aesculus powdery mildew"
+  ],
   "scientificName": "Erysiphe flexuosa",
   "family": "Erysiphaceae",
   "familyCommonName": "Powdery Mildews",
@@ -541,6 +544,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Erysiphe_flexuosa",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/916624"
 }

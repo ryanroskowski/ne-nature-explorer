@@ -3,6 +3,13 @@
   "taxonId": 45763,
   "group": "mammals",
   "commonName": "Muskrat",
+  "alternativeNames": [
+    "Common Muskrat",
+    "Muscrat",
+    "Musquash",
+    "Musk-beaver",
+    "Musk-rat"
+  ],
   "scientificName": "Ondatra zibethicus",
   "family": "Cricetidae",
   "familyCommonName": "Hamsters, Voles, Lemmings, and Allies",
@@ -226,6 +233,7 @@
   "compareHints": "Muskrats are the only members of their genus in New England, making them unique among our local rodents. Their closest relatives are other voles and lemmings in the same family, but muskrats are by far the largest and most aquatic. While meadow voles might live near water, they lack webbed feet, waterproof fur, and that unmistakable scaly rudder tail that makes muskrats such accomplished swimmers.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Muskrat",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/45763"
 }

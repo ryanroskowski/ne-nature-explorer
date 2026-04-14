@@ -3,6 +3,10 @@
   "taxonId": 81657,
   "group": "insects",
   "commonName": "Bristly Cutworm Moth",
+  "alternativeNames": [
+    "Kidney-spotted Minor",
+    "bristly cutworm"
+  ],
   "scientificName": "Lacinipolia renigera",
   "family": "Noctuidae",
   "familyCommonName": "Cutworm Moths and Allies",
@@ -189,6 +193,7 @@
   "compareHints": "Since this is the only Lacinipolia species in our New England dataset, compare it to other common cutworm moths like the Black Cutworm Moth or Variegated Cutworm Moth. The Bristly Cutworm Moth tends to be more consistently brown with clearer kidney spots, while its relatives often show more contrasting colors or less defined wing patterns. The wavy cross-lines on this species are also typically more pronounced and regular than on similar moths.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lacinipolia_renigera",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/81657",
   "ecologicalRole": {

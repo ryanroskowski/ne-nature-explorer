@@ -3,6 +3,9 @@
   "taxonId": 9148,
   "group": "birds",
   "commonName": "Clay-colored Sparrow",
+  "alternativeNames": [
+    "Clay-coloured Sparrow"
+  ],
   "scientificName": "Spizella pallida",
   "family": "Passerellidae",
   "familyCommonName": "New World Sparrows",
@@ -267,6 +270,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Clay-colored_sparrow",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/9148",
   "xenoCantoUrl": "https://xeno-canto.org/species/Spizella-pallida"

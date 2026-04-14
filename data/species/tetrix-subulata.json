@@ -3,6 +3,9 @@
   "taxonId": 129129,
   "group": "insects",
   "commonName": "Slender Groundhopper",
+  "alternativeNames": [
+    "Awl-shaped Pygmy Grasshopper"
+  ],
   "scientificName": "Tetrix subulata",
   "family": "Tetrigidae",
   "familyCommonName": "Pygmy Grasshoppers",
@@ -226,6 +229,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Tetrix_subulata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/129129",
   "ecologicalRole": {

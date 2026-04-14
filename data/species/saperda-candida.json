@@ -3,6 +3,10 @@
   "taxonId": 230387,
   "group": "insects",
   "commonName": "Round-headed Apple Tree Borer",
+  "alternativeNames": [
+    "Round-headed Apple Tree Borer Beetle",
+    "Round-headed Apple Borer Beetle"
+  ],
   "scientificName": "Saperda candida",
   "family": "Cerambycidae",
   "familyCommonName": "Longhorn Beetles",
@@ -229,6 +233,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Saperda_candida",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/230387",
   "ecologicalRole": {

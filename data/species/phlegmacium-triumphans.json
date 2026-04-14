@@ -3,6 +3,9 @@
   "taxonId": 1636150,
   "group": "fungi",
   "commonName": "birch webcap",
+  "alternativeNames": [
+    "Yellow Girdled Webcap"
+  ],
   "scientificName": "Phlegmacium triumphans",
   "family": "Cortinariaceae",
   "familyCommonName": "Webcaps",
@@ -136,6 +139,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Phlegmacium_triumphans",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1636150"
 }

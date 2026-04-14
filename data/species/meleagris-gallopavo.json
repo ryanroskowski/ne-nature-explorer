@@ -3,6 +3,12 @@
   "taxonId": 906,
   "group": "birds",
   "commonName": "Wild Turkey",
+  "alternativeNames": [
+    "Turkey",
+    "American turkey",
+    "Great American Fowl",
+    "Thanksgiving Dinner"
+  ],
   "scientificName": "Meleagris gallopavo",
   "family": "Phasianidae",
   "familyCommonName": "Pheasants, Grouse, and Allies",
@@ -298,6 +304,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Wild_turkey",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/906",
   "xenoCantoUrl": "https://xeno-canto.org/species/Meleagris-gallopavo"

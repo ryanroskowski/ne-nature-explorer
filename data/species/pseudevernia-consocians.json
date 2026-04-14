@@ -1,7 +1,7 @@
 {
   "slug": "pseudevernia-consocians",
   "taxonId": 175359,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Common Antler Lichen",
   "scientificName": "Pseudevernia consocians",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -234,6 +234,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pseudevernia_consocians",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/175359"
 }

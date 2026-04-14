@@ -3,6 +3,9 @@
   "taxonId": 116841,
   "group": "birds",
   "commonName": "Smith's Longspur",
+  "alternativeNames": [
+    "Buff-breasted Finch"
+  ],
   "scientificName": "Calcarius pictus",
   "family": "Calcariidae",
   "familyCommonName": "Longspurs and Snow Buntings",
@@ -303,6 +306,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Smith's_longspur",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/116841",
   "xenoCantoUrl": "https://xeno-canto.org/species/Calcarius-pictus"

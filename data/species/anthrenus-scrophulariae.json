@@ -3,6 +3,10 @@
   "taxonId": 128264,
   "group": "insects",
   "commonName": "Common Carpet Beetle",
+  "alternativeNames": [
+    "Buffalo Carpet Beetle",
+    "Marbled Carpet Beetle"
+  ],
   "scientificName": "Anthrenus scrophulariae",
   "family": "Dermestidae",
   "familyCommonName": "Skin Beetles",
@@ -213,6 +217,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Anthrenus_scrophulariae",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/128264",
   "ecologicalRole": {

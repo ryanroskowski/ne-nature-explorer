@@ -3,6 +3,9 @@
   "taxonId": 12024,
   "group": "birds",
   "commonName": "Loggerhead Shrike",
+  "alternativeNames": [
+    "French mockingbird"
+  ],
   "scientificName": "Lanius ludovicianus",
   "family": "Laniidae",
   "familyCommonName": "Shrikes",
@@ -285,6 +288,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Loggerhead_shrike",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/12024",
   "xenoCantoUrl": "https://xeno-canto.org/species/Lanius-ludovicianus"

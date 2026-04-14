@@ -3,6 +3,9 @@
   "taxonId": 206090,
   "group": "fungi",
   "commonName": "Woodchip Morel",
+  "alternativeNames": [
+    "Landscaping Morel"
+  ],
   "scientificName": "Morchella rufobrunnea",
   "family": "Morchellaceae",
   "familyCommonName": "morels and allies",
@@ -238,6 +241,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Morchella_rufobrunnea",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/206090"
 }

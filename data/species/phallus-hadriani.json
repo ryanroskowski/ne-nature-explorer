@@ -3,6 +3,10 @@
   "taxonId": 128521,
   "group": "fungi",
   "commonName": "dune stinkhorn",
+  "alternativeNames": [
+    "sand stinkhorn",
+    "Purple-egg Stinkhorn"
+  ],
   "scientificName": "Phallus hadriani",
   "family": "Phallaceae",
   "familyCommonName": "stinkhorns",
@@ -233,6 +237,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Phallus_hadriani",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/128521"
 }

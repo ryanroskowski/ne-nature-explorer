@@ -3,6 +3,11 @@
   "taxonId": 4257,
   "group": "birds",
   "commonName": "American Flamingo",
+  "alternativeNames": [
+    "Caribbean Flamingo",
+    "Pink Flamingo",
+    "American Greater Flamingo"
+  ],
   "scientificName": "Phoenicopterus ruber",
   "family": "Phoenicopteridae",
   "familyCommonName": "Flamingos",
@@ -225,6 +230,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_flamingo",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/4257",
   "xenoCantoUrl": "https://xeno-canto.org/species/Phoenicopterus-ruber"

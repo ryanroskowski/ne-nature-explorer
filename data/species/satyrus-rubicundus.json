@@ -3,6 +3,10 @@
   "taxonId": 1649484,
   "group": "fungi",
   "commonName": "Devil's Stinkhorn",
+  "alternativeNames": [
+    "Red Stinkhorn",
+    "Yellow Stinkhorn"
+  ],
   "scientificName": "Satyrus rubicundus",
   "family": "Phallaceae",
   "familyCommonName": "stinkhorns",
@@ -139,6 +143,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1649484"
 }

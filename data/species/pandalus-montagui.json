@@ -3,6 +3,9 @@
   "taxonId": 424300,
   "group": "crustaceans",
   "commonName": "Aesop Shrimp",
+  "alternativeNames": [
+    "Striped shrimp"
+  ],
   "scientificName": "Pandalus montagui",
   "family": "Pandalidae",
   "familyCommonName": "Pandalid Shrimp",
@@ -144,6 +147,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Pandalus_montagui",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/424300"
 }

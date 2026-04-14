@@ -3,6 +3,9 @@
   "taxonId": 491265,
   "group": "fungi",
   "commonName": "Beech Bark Canker Fungus",
+  "alternativeNames": [
+    "Beech Bark Disease Fungus"
+  ],
   "scientificName": "Neonectria faginata",
   "family": "Nectriaceae",
   "familyCommonName": "Nectriaceae",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Neonectria_faginata",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/491265"
 }

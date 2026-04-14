@@ -3,6 +3,12 @@
   "taxonId": 992310,
   "group": "crustaceans",
   "commonName": "Northern brown shrimp",
+  "alternativeNames": [
+    "Brown Shrimp",
+    "Golden Shrimp",
+    "Red Shrimp",
+    "Redtail Shrimp"
+  ],
   "scientificName": "Penaeus aztecus",
   "family": "Penaeidae",
   "familyCommonName": "Penaeid Prawns",
@@ -226,6 +232,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Farfantepenaeus_aztecus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/992310"
 }

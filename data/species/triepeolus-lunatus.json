@@ -3,6 +3,9 @@
   "taxonId": 452938,
   "group": "insects",
   "commonName": "Lunate Longhorn-cuckoo Bee",
+  "alternativeNames": [
+    "Lunate Longhorn-Cuckoo"
+  ],
   "scientificName": "Triepeolus lunatus",
   "family": "Apidae",
   "familyCommonName": "Honey Bees, Bumble Bees, and Allies",
@@ -261,6 +264,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Triepeolus_lunatus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/452938",
   "ecologicalRole": {

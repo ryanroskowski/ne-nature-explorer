@@ -3,6 +3,9 @@
   "taxonId": 344533,
   "group": "fungi",
   "commonName": "Shiner",
+  "alternativeNames": [
+    "Purple-Staining Milk Cap"
+  ],
   "scientificName": "Lactarius uvidus",
   "family": "Russulaceae",
   "familyCommonName": "Milkcaps, Brittlegills and Allies",
@@ -505,6 +508,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lactarius_uvidus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/344533"
 }

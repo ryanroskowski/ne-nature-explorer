@@ -1,7 +1,7 @@
 {
   "slug": "calicium-salicinum",
   "taxonId": 207858,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Calicium salicinum",
   "scientificName": "Calicium salicinum",
   "family": "Caliciaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "button lichens, rosette lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -75,41 +75,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/330167178"
     }
   ],
-  "nameStory": "This stubble lichen gets its species name 'salicinum' from the Latin word for willow, suggesting it may have a particular fondness for willow trees. The common name 'stubble lichen' comes from the tiny, dark stalks that emerge from the crusty base, looking remarkably like whiskers or stubble on a face when viewed up close.",
-  "description": "Calicium salicinum is a crustose lichen, meaning it forms a thin, crusty layer that's tightly attached to tree bark like a living paint. This small lichen creates grayish patches on bark with tiny dark pin-like structures called apothecia that stick up like miniature matchsticks. The entire lichen colony typically spans just a few centimeters across. As a composite organism made of fungus and algae living together, it slowly grows on tree surfaces where it can capture moisture and light.",
-  "idTips": [
-    {
-      "label": "Pin-like stalks",
-      "description": "Look for tiny dark stalks, about 1-2mm tall, rising from a grayish crusty base like miniature pins stuck in bark",
-      "isPrimary": true
-    },
-    {
-      "label": "Crusty base",
-      "description": "The foundation feels rough and granular to the touch, forming thin grayish patches that seem painted onto the bark",
-      "isPrimary": false
-    },
-    {
-      "label": "Tree bark habitat",
-      "description": "Always found growing directly on bark, never on rocks or soil, creating small colonies that blend with the tree's natural texture",
-      "isPrimary": false
-    },
-    {
-      "label": "Dark spore caps",
-      "description": "The tips of the tiny stalks have darker, rounded caps that contain spores, giving them a matchstick-like appearance",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Based on its preference for tree bark, you'd likely find this lichen on the trunks and larger branches of deciduous trees in New England's forests, particularly in areas with moderate moisture. Look for it in mixed hardwood forests where trees like oaks, maples, and potentially willows provide suitable bark surfaces. It probably favors somewhat sheltered locations where humidity remains fairly consistent.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "The lichen remains visible as bark becomes more accessible with leaf-out beginning. This is when increased moisture from spring rains may make the crusty base appear slightly more pronounced.",
-    "summer": "Fully visible and potentially at its most active growth phase, though changes are barely perceptible to the naked eye. The tiny pin-like structures are easiest to spot in good summer lighting.",
-    "fall": "Still present and identifiable, possibly with spore release occurring from the dark caps on the tiny stalks. Falling leaves may temporarily cover some colonies.",
-    "winter": "Remains visible on bare tree trunks and is often easier to spot without leaf cover obscuring the bark. The lichen appears dormant but unchanged in structure."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "This tiny lichen is so uncommon in New England that it's been recorded only once in the entire region, making it rarer than finding a needle in a haystack—if you spot it, you're seeing something most naturalists never encounter!",
-  "confusionNotes": "It could be confused with other tiny bark-dwelling lichens or even small fungi, but the combination of the crusty gray base with pin-like dark stalks is distinctive. Remember: 'pins from patches' - if you see tiny dark pins rising from grayish crusty patches on bark, you're likely looking at a Calicium lichen.",
-  "contextualKnowledge": "The extreme rarity of this species in New England (with only one recorded observation) suggests it may be at the very edge of its natural range or requires very specific environmental conditions that are uncommon in our region. Always document any potential sightings with photos, as they could represent significant range extensions.",
-  "compareHints": "Compared to its relatives like Yellow Collar Stubble Lichen, this species lacks the distinctive yellow coloring around the stalk bases. Unlike the yellow soot lichen which tends to have more clustered pin-like structures, Calicium salicinum appears to have more scattered individual stalks. The specific tree preferences may also differ, with this species potentially favoring different bark types than its cousins.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "calicium-trabinellum",
@@ -123,17 +102,18 @@
       "commonName": "yellow soot lichen",
       "scientificName": "Calicium tigillare",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7713326/medium.jpg",
-      "distinction": "Yellow soot lichen differs from its Calicium relatives primarily by its strong preference for dead wood rather than tree bark, and its consistently yellow spore production."
+      "distinction": "undefined."
     },
     {
       "slug": "calicium-abietinum",
       "commonName": "Calicium abietinum",
       "scientificName": "Calicium abietinum",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12054821/medium.jpeg",
-      "distinction": "Fir pin differs from its stubble lichen relatives primarily in its strong preference for coniferous trees and its particularly prominent black pins."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Calicium_salicinum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/207858"
 }

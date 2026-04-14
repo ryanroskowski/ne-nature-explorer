@@ -3,6 +3,11 @@
   "taxonId": 4270,
   "group": "birds",
   "commonName": "Great Cormorant",
+  "alternativeNames": [
+    "Common Cormorant",
+    "Great Black Cormorant",
+    "Large Cormorant"
+  ],
   "scientificName": "Phalacrocorax carbo",
   "family": "Phalacrocoracidae",
   "familyCommonName": "Cormorants and Shags",
@@ -267,6 +272,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Great_cormorant",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/4270",
   "xenoCantoUrl": "https://xeno-canto.org/species/Phalacrocorax-carbo"

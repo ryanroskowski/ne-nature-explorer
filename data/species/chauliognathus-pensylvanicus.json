@@ -3,6 +3,9 @@
   "taxonId": 216649,
   "group": "insects",
   "commonName": "Goldenrod Soldier Beetle",
+  "alternativeNames": [
+    "Pennsylvania Leatherwing"
+  ],
   "scientificName": "Chauliognathus pensylvanicus",
   "family": "Cantharidae",
   "familyCommonName": "Soldier Beetles",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Goldenrod_soldier_beetle",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/216649",
   "ecologicalRole": {

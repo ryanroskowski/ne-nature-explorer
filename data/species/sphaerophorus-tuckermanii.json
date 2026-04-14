@@ -1,7 +1,7 @@
 {
   "slug": "sphaerophorus-tuckermanii",
   "taxonId": 123231,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Tuckerman's Coral Lichen",
   "scientificName": "Sphaerophorus tuckermanii",
   "family": "Sphaerophoraceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -48,7 +48,7 @@
     }
   ],
   "observationCount": 2,
-  "abundanceTier": "moderate",
+  "abundanceTier": "uncommon",
   "photos": [
     {
       "id": 13620335,
@@ -131,68 +131,38 @@
       "observationUrl": "https://www.inaturalist.org/observations/12323100"
     }
   ],
-  "nameStory": "This lichen gets its name from its remarkable resemblance to tiny coral formations growing on tree bark! The branched, finger-like structures look just like miniature underwater coral reefs. It's named after Edward Tuckerman, a 19th-century botanist who was one of America's first lichen experts and described many species we know today.",
-  "description": "Tuckerman's Coral Lichen is a small but eye-catching fruticose lichen that forms intricate branching structures resembling tiny coral. The lichen grows upright from tree bark in dense clusters of hollow, tube-like branches that fork repeatedly. Individual colonies are typically 1-3 inches tall, creating miniature coral gardens on tree trunks. The branches are pale gray to whitish when dry, becoming slightly more vibrant when wet.",
-  "idTips": [
-    {
-      "label": "Growth Form",
-      "description": "Forms upright, hollow tubes that branch like tiny coral, creating dense clusters that feel brittle and papery when touched",
-      "isPrimary": true
-    },
-    {
-      "label": "Color",
-      "description": "Pale gray to whitish when dry, slightly more vivid gray-green when wet, with a clean, almost bleached appearance",
-      "isPrimary": false
-    },
-    {
-      "label": "Surface Texture",
-      "description": "Smooth to slightly rough surface that feels delicate and crushes easily between fingers, like dried seaweed",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Grows exclusively on tree bark, particularly favoring acidic bark of conifers and some hardwoods",
-      "isPrimary": false
-    },
-    {
-      "label": "Reproductive Structures",
-      "description": "Tips of branches often swell into small, dark ball-like structures (mazaedia) containing spores",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual colonies reach 1-3 inches tall, with branches typically 1-2mm thick and surprisingly lightweight",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Tuckerman's Coral Lichen grows on the bark of trees in mature forests, particularly favoring acidic conditions found on conifers like spruce and fir. In New England, look for it in cool, humid mountain forests and older growth areas where air quality is good. It prefers somewhat shaded locations on tree trunks and larger branches.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Becomes more vibrant and slightly greenish as spring moisture activates the photosynthetic partner. New growth tips may be visible on established colonies.",
-    "summer": "Often appears paler and more brittle during dry periods, but maintains its distinctive coral-like branching structure throughout the season.",
-    "fall": "Takes on its most dramatic appearance as autumn moisture returns, with branches becoming more flexible and colorful.",
-    "winter": "Remains visible and identifiable under snow, appearing pale and delicate against dark bark. Winter's clean air may make colonies more noticeable."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "The branches of Tuckerman's Coral Lichen are completely hollow inside, like tiny drinking straws - if you gently break open a branch, you can actually see the empty tube structure that gives it its unique lightweight, brittle texture!",
-  "confusionNotes": "Most likely confused with other small, branching lichens, but remember the 'hollow coral' rule - Tuckerman's distinctive hollow, tube-like branches that feel papery and break cleanly set it apart from solid-branched species that bend rather than snap.",
-  "contextualKnowledge": "Despite being called a 'coral' lichen, this species is not related to ocean corals at all - the name purely describes its appearance. Like all lichens, it's actually a partnership between a fungus and algae, making it more closely related to mushrooms than to any marine organism.",
-  "compareHints": "Tuckerman's Coral Lichen differs from its cousin Fragile Coral Lichen by having more robust, thicker branches that are less prone to immediate breakage when handled. Globe Ball Lichen, another relative, forms more rounded, less branched structures and lacks the intricate coral-like branching pattern. [Note: Limited reference material available - field verification recommended for precise identification.]",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "sphaerophorus-fragilis",
       "commonName": "Fragile Coral Lichen",
       "scientificName": "Sphaerophorus fragilis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/887937/medium.jpg",
-      "distinction": "Unlike its relative Globe Ball Lichen which forms rounded, ball-like structures, Fragile Coral Lichen creates distinctly branched, coral-like forms."
+      "distinction": "undefined."
     },
     {
       "slug": "sphaerophorus-globosus",
       "commonName": "Globe Ball Lichen",
       "scientificName": "Sphaerophorus globosus",
       "thumbnailUrl": "https://static.inaturalist.org/photos/100160289/medium.jpeg",
-      "distinction": "Globe Ball Lichen differs from its relatives Fragile Coral Lichen and Tuckerman's Coral Lichen primarily by those distinctive round, ball-like structures at the branch tips."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/123231"
 }

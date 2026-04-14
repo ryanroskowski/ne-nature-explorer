@@ -3,6 +3,13 @@
   "taxonId": 173412,
   "group": "fish",
   "commonName": "Guppy",
+  "alternativeNames": [
+    "Fancy Guppy",
+    "Millions Fish",
+    "Barbados millions",
+    "Million fish",
+    "Rainbow fish"
+  ],
   "scientificName": "Poecilia reticulata",
   "family": "Poeciliidae",
   "familyCommonName": "Guppies, Mollies, Platys, and Swordtails",
@@ -189,6 +196,7 @@
   "compareHints": "Since guppies are the only Poecilia species recorded in New England, compare them to other small, colorful fish like juvenile sunfish or darters. However, guppies are much smaller, have the distinctive upturned mouth, and males display far more intense, jewel-like colors than any native species. Their tropical appearance makes them unmistakable if you know what to look for.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Guppy",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/173412"
 }

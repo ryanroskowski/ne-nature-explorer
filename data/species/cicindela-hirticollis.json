@@ -3,6 +3,9 @@
   "taxonId": 52619,
   "group": "insects",
   "commonName": "Hairy-necked Tiger Beetle",
+  "alternativeNames": [
+    "Beach Dune Tiger Beetle"
+  ],
   "scientificName": "Cicindela hirticollis",
   "family": "Cicindelidae",
   "familyCommonName": "Tiger Beetles",
@@ -283,6 +286,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Cicindela_hirticollis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/52619",
   "ecologicalRole": {

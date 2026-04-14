@@ -1,7 +1,7 @@
 {
   "slug": "ochrolechia-yasudae",
   "taxonId": 226131,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Coral Saucer",
   "scientificName": "Ochrolechia yasudae",
   "family": "Ochrolechiaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "wart lichens, water lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -225,38 +225,39 @@
       "commonName": "Appalachian saucer",
       "scientificName": "Ochrolechia pseudopallescens",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/77336490/medium.jpg",
-      "distinction": "Appalachian saucer differs from its relatives like Tree Saucer Lichen by its paler overall coloration and the specific cream-colored tint of its fruiting discs."
+      "distinction": "undefined."
     },
     {
       "slug": "ochrolechia-arborea",
       "commonName": "Tree Saucer Lichen",
       "scientificName": "Ochrolechia arborea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3094318/medium.jpg",
-      "distinction": "Tree Saucer Lichen differs from its Ochrolechia relatives by specifically growing on tree bark rather than rocks, and by having smaller, more numerous saucer-shaped discs compared to species like Coral Saucer which has fewer, larger reproductive structures."
+      "distinction": "undefined."
     },
     {
       "slug": "ochrolechia-trochophora",
       "commonName": "Rosy Saucer Lichen",
       "scientificName": "Ochrolechia trochophora",
       "thumbnailUrl": "https://static.inaturalist.org/photos/660110/medium.jpg",
-      "distinction": "Among its Ochrolechia relatives, Rosy Saucer is distinguished by those characteristic pink-rimmed reproductive cups - other saucer lichens in the genus typically have brown, black, or plain white edges on their apothecia."
+      "distinction": "undefined."
     },
     {
       "slug": "ochrolechia-androgyna",
       "commonName": "Powdery Saucer Lichen",
       "scientificName": "Ochrolechia androgyna",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34665930/medium.jpg",
-      "distinction": "**Note: Comparison details are uncertain due to limited information."
+      "distinction": "undefined."
     },
     {
       "slug": "ochrolechia-africana",
       "commonName": "Frosty Saucer",
       "scientificName": "Ochrolechia africana",
       "thumbnailUrl": "https://static.inaturalist.org/photos/115157460/medium.jpg",
-      "distinction": "Unlike its relatives in the Crabseye Lichen genus, Frosty Saucer is distinguished by its distinctly powdery white apothecia rather than the smoother or differently colored reproductive structures found in species like Coral Saucer or Tree Saucer Lichen."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/226131"
 }

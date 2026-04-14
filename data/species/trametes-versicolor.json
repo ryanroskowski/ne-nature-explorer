@@ -3,6 +3,13 @@
   "taxonId": 54134,
   "group": "fungi",
   "commonName": "turkey-tail",
+  "alternativeNames": [
+    "Many-zoned Polypore",
+    "Turkeytail",
+    "Turkey tail mushroom",
+    "rainbow bracket",
+    "Turkey Tail"
+  ],
   "scientificName": "Trametes versicolor",
   "family": "Polyporaceae",
   "familyCommonName": "Bracket Fungi",
@@ -320,6 +327,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Trametes_versicolor",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/54134"
 }

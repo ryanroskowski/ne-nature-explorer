@@ -3,6 +3,9 @@
   "taxonId": 3849,
   "group": "birds",
   "commonName": "Sanderling",
+  "alternativeNames": [
+    "Ruddy Plover"
+  ],
   "scientificName": "Calidris alba",
   "family": "Scolopacidae",
   "familyCommonName": "Sandpipers and Allies",
@@ -413,6 +416,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Sanderling",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/3849",
   "xenoCantoUrl": "https://xeno-canto.org/species/Calidris-alba"

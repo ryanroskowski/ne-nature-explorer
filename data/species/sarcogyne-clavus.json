@@ -1,7 +1,7 @@
 {
   "slug": "sarcogyne-clavus",
   "taxonId": 230419,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Big-disk grain-spore",
   "scientificName": "Sarcogyne clavus",
   "family": "Acarosporaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "cobblestone lichens, eiglera lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -185,10 +185,11 @@
       "commonName": "Frosted Grain-spored Lichen",
       "scientificName": "Sarcogyne pruinosa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/187588615/medium.jpg",
-      "distinction": "Compared to its relative Big-disk grain-spore (Sarcogyne clavus), Frosted Grain-spored Lichen has a much more prominent white powdery coating and forms smaller, more scattered patches."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/230419"
 }

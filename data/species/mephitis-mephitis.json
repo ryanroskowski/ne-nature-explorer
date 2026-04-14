@@ -3,6 +3,15 @@
   "taxonId": 41880,
   "group": "mammals",
   "commonName": "Striped Skunk",
+  "alternativeNames": [
+    "Prairie Polecat",
+    "Common Skunk",
+    "Northern Skunk",
+    "Wood Pussie",
+    "Alaska Sable",
+    "Long-tailed Skunk",
+    "musk cat"
+  ],
   "scientificName": "Mephitis mephitis",
   "family": "Mephitidae",
   "familyCommonName": "Skunks and Stink-badgers",
@@ -226,6 +235,7 @@
   "compareHints": "The striped skunk is the only skunk species found in New England, making it unique among our local carnivores. While they're related to weasels and badgers, skunks are much stockier and slower-moving, with their bold warning coloration being the opposite of most weasel family members who rely on stealth and speed rather than chemical defense.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Striped_skunk",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/41880"
 }

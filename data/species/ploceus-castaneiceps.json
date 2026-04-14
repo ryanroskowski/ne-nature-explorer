@@ -3,6 +3,11 @@
   "taxonId": 13811,
   "group": "birds",
   "commonName": "Taveta Golden-Weaver",
+  "alternativeNames": [
+    "Taveta Golden Weaver",
+    "Taveta Weaver",
+    "TGWE"
+  ],
   "scientificName": "Ploceus castaneiceps",
   "family": "Ploceidae",
   "familyCommonName": "Weavers and Allies",
@@ -230,6 +235,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Taveta_weaver",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/13811",
   "xenoCantoUrl": "https://xeno-canto.org/species/Ploceus-castaneiceps"

@@ -3,6 +3,11 @@
   "taxonId": 52628,
   "group": "arachnids",
   "commonName": "Cross Orbweaver",
+  "alternativeNames": [
+    "Cross Spider",
+    "Diadem Spider",
+    "European Garden Spider"
+  ],
   "scientificName": "Araneus diadematus",
   "family": "Araneidae",
   "familyCommonName": "Orbweavers",
@@ -332,6 +337,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Araneus_diadematus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/52628"
 }

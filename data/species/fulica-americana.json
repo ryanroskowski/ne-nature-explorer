@@ -3,6 +3,12 @@
   "taxonId": 473,
   "group": "birds",
   "commonName": "American Coot",
+  "alternativeNames": [
+    "water hen",
+    "Caribbean Coot",
+    "blue peter",
+    "mudhen"
+  ],
   "scientificName": "Fulica americana",
   "family": "Rallidae",
   "familyCommonName": "Rails, Gallinules, and Coots",
@@ -259,6 +265,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_coot",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/473",
   "xenoCantoUrl": "https://xeno-canto.org/species/Fulica-americana"

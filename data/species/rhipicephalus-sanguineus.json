@@ -3,6 +3,11 @@
   "taxonId": 229905,
   "group": "arachnids",
   "commonName": "Brown Dog Tick",
+  "alternativeNames": [
+    "Kennel Tick",
+    "Pantropical Dog Tick",
+    "Tropical Brown Dog Tick"
+  ],
   "scientificName": "Rhipicephalus sanguineus",
   "family": "Ixodidae",
   "familyCommonName": "Hardbacked Ticks",
@@ -181,6 +186,7 @@
   "compareHints": "As the only Rhipicephalus species established in our dataset for New England, Brown Dog Ticks differ from other regional hard-backed ticks by their indoor lifestyle and elongated body shape. Unlike the more common American Dog Tick or Deer Tick found outdoors, Brown Dog Ticks have that distinctive hexagonal mouthpart base and completely smooth, unornamented backs.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Rhipicephalus_sanguineus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/229905"
 }

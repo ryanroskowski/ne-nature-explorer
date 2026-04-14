@@ -1,7 +1,7 @@
 {
   "slug": "usnea-ceratina",
   "taxonId": 117902,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Warty Beard Lichen",
   "scientificName": "Usnea ceratina",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -123,46 +123,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/147805268"
     }
   ],
-  "nameStory": "This lichen gets its colorful name from its distinctive warty bumps and beard-like dangling structure. Like other beard lichens, it hangs from tree branches resembling wispy facial hair, but the \"warty\" part comes from the small, rounded projections that dot its surface like tiny skin bumps.",
-  "description": "Warty Beard Lichen is a fruticose (shrub-like) lichen that dangles from tree branches in pale greenish-gray strands. It forms hanging tufts that can reach several inches long, with a distinctive bumpy texture created by small wart-like projections along its branches. This uncommon lichen creates delicate, almost ethereal curtains when growing in groups, swaying gently in forest breezes.",
-  "idTips": [
-    {
-      "label": "Surface Texture",
-      "description": "Look for small, rounded wart-like bumps scattered along the branches - these feel slightly rough to the touch and are the key distinguishing feature from other beard lichens",
-      "isPrimary": true
-    },
-    {
-      "label": "Growth Form",
-      "description": "Hangs in loose, branching tufts from tree branches like wispy hair, with multiple thin strands radiating from attachment points",
-      "isPrimary": false
-    },
-    {
-      "label": "Color",
-      "description": "Pale greenish-gray when dry, becoming more vibrant green when wet - the color change is quite dramatic after rain",
-      "isPrimary": false
-    },
-    {
-      "label": "Substrate",
-      "description": "Always grows on tree bark, particularly favoring coniferous trees like spruce and fir in clean-air environments",
-      "isPrimary": false
-    },
-    {
-      "label": "Size",
-      "description": "Individual strands typically 2-4 inches long, but can occasionally reach 6 inches in ideal conditions",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Found in mature coniferous forests throughout New England's mountains and cooler regions, particularly on spruce and fir trees. Prefers areas with clean air and high humidity, often in elevations above 1,000 feet where fog and moisture are common. Most likely encountered in old-growth or undisturbed forest areas away from urban pollution.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "More vibrant green after spring rains, with the warty texture most visible when damp. New growth may be barely noticeable due to extremely slow growth rates.",
-    "summer": "Appears pale and somewhat brittle during dry periods, but the characteristic warty bumps remain clearly visible. Color brightens dramatically after summer thunderstorms.",
-    "fall": "Often at its most photogenic as autumn moisture keeps it green while surrounding foliage changes color. The texture contrasts beautifully with colorful fall leaves.",
-    "winter": "Remains visible and identifiable throughout winter, often standing out against snow-covered branches. May appear slightly more gray-toned in cold, dry conditions."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Beard lichens like this one are actually two organisms living together - a fungus and an algae - and they're so sensitive to air pollution that they're used as natural air quality monitors by scientists, disappearing from areas where the air becomes too contaminated for them to survive.",
-  "confusionNotes": "Most easily confused with other beard lichens, especially Bushy Beard Lichen, but the warty bumps are the dead giveaway - run your finger gently along the strand and you'll feel the distinctive rough, bumpy texture that other smooth beard lichens lack.",
-  "contextualKnowledge": "With only one recorded observation in New England, this lichen is extremely rare in our region and may be at the southern edge of its range. Finding one would be a significant discovery worth reporting to local naturalist groups.",
-  "compareHints": "Unlike the smooth-branched Bushy Beard Lichen or the bristly Bristly Beard Lichen, Warty Beard has those distinctive rounded bumps. Methuselah's Beard is much longer and lacks the warty texture, while Inflated Beard has swollen, hollow sections rather than warty projections.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "usnea-strigosa",
@@ -218,52 +192,53 @@
       "commonName": "Red Beard Lichen",
       "scientificName": "Usnea rubicunda",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/818914/medium.jpg",
-      "distinction": "Red Beard Lichen is distinguished from its Usnea relatives primarily by its orange to red coloration - most other beard lichens like Bushy Beard Lichen or Bristly Beard Lichen display typical gray-green or pale colors."
+      "distinction": "undefined."
     },
     {
       "slug": "usnea-merrillii",
       "commonName": "Usnea merrillii",
       "scientificName": "Usnea merrillii",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8999327/medium.jpg",
-      "distinction": "Merrill's Beard Lichen differs from its Usnea relatives by having notably thicker, more robust main branches compared to species like Bushy Beard Lichen or Methuselah's Beard."
+      "distinction": "undefined."
     },
     {
       "slug": "usnea-subgracilis",
       "commonName": "Beard Lichen",
       "scientificName": "Usnea subgracilis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8999648/medium.jpg",
-      "distinction": "Beard Lichen differs from its relatives by having relatively smooth, unbranched strands - Bushy Beard Lichen has many more side branches, while Bristly Beard Lichen feels rougher and more textured."
+      "distinction": "undefined."
     },
     {
       "slug": "usnea-barbata",
       "commonName": "Usnea barbata",
       "scientificName": "Usnea barbata",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173211361/medium.jpeg",
-      "distinction": "Usnea barbata tends to have relatively thick main strands compared to some other beard lichens like the more delicate Methuselah's beard lichen."
+      "distinction": "undefined."
     },
     {
       "slug": "usnea-subrubicunda",
       "commonName": "Usnea subrubicunda",
       "scientificName": "Usnea subrubicunda",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7989668/medium.jpg",
-      "distinction": "Usnea subrubicunda differs from its close relative Red Beard Lichen (U."
+      "distinction": "undefined."
     },
     {
       "slug": "usnea-cavernosa",
       "commonName": "Pitted Beard Lichen",
       "scientificName": "Usnea cavernosa",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31381681/medium.jpg",
-      "distinction": "Unlike the more common Bushy Beard Lichen which has a fuzzy, cotton-like texture, or Bristly Beard Lichen with its spiky projections, Pitted Beard is distinguished by its smooth strands interrupted by those characteristic deep cavities."
+      "distinction": "undefined."
     },
     {
       "slug": "usnea-mutabilis",
       "commonName": "Bloody Beard",
       "scientificName": "Usnea mutabilis",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5782669/medium.jpg",
-      "distinction": "Among its beard lichen relatives, Bloody Beard stands out for being consistently darker green than species like Bushy Beard Lichen or Bristly Beard Lichen."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/117902"
 }

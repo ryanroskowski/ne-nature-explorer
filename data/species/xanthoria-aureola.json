@@ -1,7 +1,7 @@
 {
   "slug": "xanthoria-aureola",
   "taxonId": 437703,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Seaside Sunburst Lichen",
   "scientificName": "Xanthoria aureola",
   "family": "Teloschistaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "Sunburst Lichens and Allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -176,11 +176,12 @@
       "slug": "xanthoria-parietina",
       "commonName": "Common Sunburst Lichen",
       "scientificName": "Xanthoria parietina",
-      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/620046912/medium.jpg",
+      "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/242377236/medium.jpg",
       "distinction": "Common Sunburst Lichen is much more vibrant orange than its relative the Seaside Sunburst Lichen, which tends toward pale yellow and grows specifically in coastal salt spray zones."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Xanthoria_aureola",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/437703"
 }

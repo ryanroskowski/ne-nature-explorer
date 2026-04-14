@@ -3,6 +3,10 @@
   "taxonId": 502885,
   "group": "mollusks",
   "commonName": "African Giant Snail",
+  "alternativeNames": [
+    "Giant African Land Snail",
+    "Giant East African Snail"
+  ],
   "scientificName": "Lissachatina fulica",
   "family": "Achatinidae",
   "familyCommonName": "Giant Land Snails",
@@ -165,6 +169,7 @@
   "compareHints": "Since there are no other giant African snails established in New England, compare this to our largest native species like the white-lipped snail - the African Giant Snail will be dramatically larger, often several times the size. The size difference alone is so striking that confusion with native species is unlikely once you see one.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lissachatina_fulica",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/502885"
 }

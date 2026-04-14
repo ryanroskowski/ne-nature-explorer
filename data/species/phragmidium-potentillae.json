@@ -3,6 +3,9 @@
   "taxonId": 245769,
   "group": "fungi",
   "commonName": "Cinquefoil Rust",
+  "alternativeNames": [
+    "Potentilla Rust"
+  ],
   "scientificName": "Phragmidium potentillae",
   "family": "Phragmidiaceae",
   "familyCommonName": "Phragmidiaceae",
@@ -218,6 +221,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Frommeella_tormentillae",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/245769"
 }

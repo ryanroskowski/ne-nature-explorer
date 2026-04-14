@@ -3,6 +3,10 @@
   "taxonId": 118146,
   "group": "fungi",
   "commonName": "Many-rooted Earthball",
+  "alternativeNames": [
+    "Dead Man's Hand",
+    "Earthstar Scleroderma"
+  ],
   "scientificName": "Scleroderma polyrhizum",
   "family": "Sclerodermataceae",
   "familyCommonName": "Sclerodermataceae",
@@ -254,6 +258,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Scleroderma_polyrhizum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/118146"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "lepra-albescens",
   "taxonId": 1028392,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Pore lichen",
   "scientificName": "Lepra albescens",
   "family": "Pertusariaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "wart lichens, water lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -75,46 +75,20 @@
       "observationUrl": "https://www.inaturalist.org/observations/102839202"
     }
   ],
-  "nameStory": "Pore lichen gets its name from the tiny pores or openings that dot its crusty surface, looking like miniature volcanic craters when viewed up close. These pores are actually the lichen's way of releasing spores - nature's version of tiny chimneys! The scientific name 'albescens' means 'becoming white,' referring to how this lichen develops its characteristic pale, whitish appearance as it matures.",
-  "description": "Pore lichen is a crusty, whitish-gray coating that grows flat against tree bark, looking somewhat like dried paint or plaster. This composite organism is made up of both a fungus and algae living together in partnership - the fungus provides structure while the algae makes food through photosynthesis. Individual patches can spread several inches across, forming irregular blotches on bark surfaces. Like all lichens, it grows extremely slowly, sometimes taking years to expand just an inch.",
-  "idTips": [
-    {
-      "label": "Crusty texture with pores",
-      "description": "Surface feels rough and chalky to the touch, dotted with tiny circular pores that look like pin pricks - you might need a magnifying glass to see them clearly",
-      "isPrimary": true
-    },
-    {
-      "label": "Whitish-gray coloration",
-      "description": "Overall appearance is pale gray to white, sometimes with a slightly yellowish tinge, looking like weathered paint on old wood",
-      "isPrimary": false
-    },
-    {
-      "label": "Flat growth pattern",
-      "description": "Grows as a thin, flat crust directly on bark - you can't peel it off like paper, it's firmly attached and integrated with the tree's surface",
-      "isPrimary": false
-    },
-    {
-      "label": "Smooth margins",
-      "description": "Edges are typically smooth and well-defined rather than frilly or lobed, creating distinct boundaries where the lichen meets bare bark",
-      "isPrimary": false
-    },
-    {
-      "label": "Tree bark habitat",
-      "description": "Always found growing on bark, never on rocks or soil - prefers the slightly acidic conditions that tree bark provides",
-      "isPrimary": false
-    }
-  ],
-  "habitat": "Pore lichen grows on the bark of both deciduous and coniferous trees throughout New England's forests, from sea level to moderate elevations. It particularly favors older trees with rough bark in areas with clean air, as lichens are sensitive to air pollution. You'll most often spot it in mature woodlands, parks, and forest edges where trees have had time to develop the stable bark conditions this lichen needs.",
+  "nameStory": "",
+  "description": "",
+  "idTips": [],
+  "habitat": "",
   "seasonality": {
-    "spring": "Most visible after winter weather has cleaned debris from bark. New growth begins as temperatures warm, appearing as tiny white spots that will gradually expand.",
-    "summer": "Prime time for observation as the lichen is actively growing and its whitish color contrasts well with darker summer bark. Pores may be more prominent during active spore release.",
-    "fall": "Still easily spotted as leaves fall away, revealing more bark surface. The lichen's pale color stands out against autumn's darker tree trunks.",
-    "winter": "Remains visible year-round since it's permanently attached to bark. Snow and ice may temporarily obscure it, but it's one of the few organisms still growing slowly even in cold weather."
+    "spring": "",
+    "summer": "",
+    "fall": "",
+    "winter": ""
   },
-  "funFact": "Pore lichen can live for over 100 years, making individual patches older than many of the trees they grow on - some crusty lichens are considered among the oldest living things in a forest, silently witnessing decades of seasonal changes from their perch on bark!",
-  "confusionNotes": "Often mistaken for bird droppings, tree disease, or peeling paint by beginners. The key difference is the characteristic tiny pores - bird droppings wash away and lack organized structure, while tree diseases usually cause bark damage rather than surface growth. Remember: 'Pores mean it's not just sores!'",
-  "contextualKnowledge": "Many people think lichens are parasites harming trees, but they're actually harmless - they only use bark as a surface to live on, not as food. Lichens are so sensitive to air quality that scientists use them as natural pollution detectors, making finds like this a good sign of clean local air.",
-  "compareHints": "Pore lichen differs from its relatives like bitter wart lichen by its smoother, less warty surface and more prominent pores. While pustule crust lichen has raised bumps that look like tiny blisters, pore lichen's surface is flatter with distinct circular openings. The powdered wart lichen tends to be more yellow and has a dusty, powdery coating rather than the clean whitish appearance of pore lichen.",
+  "funFact": "",
+  "confusionNotes": null,
+  "contextualKnowledge": null,
+  "compareHints": "",
   "relatedSpecies": [
     {
       "slug": "lepra-amara",
@@ -135,17 +109,18 @@
       "commonName": "Powdered Wart Lichen",
       "scientificName": "Lepra trachythallina",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/16226304/medium.jpeg",
-      "distinction": "Compared to its relatives like Bitter Wart Lichen, Powdered Wart Lichen has that distinctive chalky coating that rubs off easily."
+      "distinction": "undefined."
     },
     {
       "slug": "lepra-multipunctoides",
       "commonName": "Fumarprotocetraric Fluff-Wart",
       "scientificName": "Lepra multipunctoides",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/377438611/medium.jpg",
-      "distinction": "Among its Lepra relatives, this species stands out for its uniquely soft, fluffy texture - bitter wart lichen feels hard and crusty, while Pustule Crust Lichen has obvious raised bumps rather than a cottony surface."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/1028392"
 }

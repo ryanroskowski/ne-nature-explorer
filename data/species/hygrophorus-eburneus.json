@@ -3,6 +3,9 @@
   "taxonId": 67331,
   "group": "fungi",
   "commonName": "Cowboy's Handkerchief",
+  "alternativeNames": [
+    "ivory woodwax"
+  ],
   "scientificName": "Hygrophorus eburneus",
   "family": "Hygrophoraceae",
   "familyCommonName": "Waxcaps and Allies",
@@ -220,6 +223,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hygrophorus_eburneus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/67331"
 }

@@ -3,6 +3,13 @@
   "taxonId": 65979,
   "group": "amphibians",
   "commonName": "American Bullfrog",
+  "alternativeNames": [
+    "Bullfrog",
+    "Common Bullfrog",
+    "Bull Frog",
+    "American Bull Frog",
+    "North American Bullfrog"
+  ],
   "scientificName": "Lithobates catesbeianus",
   "family": "Ranidae",
   "familyCommonName": "Typical Frogs",
@@ -294,6 +301,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/American_bullfrog",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/65979"
 }

@@ -3,6 +3,10 @@
   "taxonId": 96858,
   "group": "fish",
   "commonName": "Longnose Sucker",
+  "alternativeNames": [
+    "Red Sucker",
+    "Redside Sucker"
+  ],
   "scientificName": "Catostomus catostomus",
   "family": "Catostomidae",
   "familyCommonName": "Suckers",
@@ -234,6 +238,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Longnose_sucker",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/96858"
 }

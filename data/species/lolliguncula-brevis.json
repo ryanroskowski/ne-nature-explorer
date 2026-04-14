@@ -3,6 +3,9 @@
   "taxonId": 172020,
   "group": "mollusks",
   "commonName": "Atlantic brief squid",
+  "alternativeNames": [
+    "Short-bodied Squid"
+  ],
   "scientificName": "Lolliguncula brevis",
   "family": "Loliginidae",
   "familyCommonName": "Pencil Squids",
@@ -181,6 +184,7 @@
   "compareHints": "As the only Lolliguncula species in New England waters, brief squids are most similar to longfin squids in the same family, but are significantly smaller and have a shorter lifespan. Unlike their longfin cousins which can live over a year and grow much larger, brief squids pack their entire existence into just a few months and rarely exceed a few inches in length.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lolliguncula_brevis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/172020"
 }

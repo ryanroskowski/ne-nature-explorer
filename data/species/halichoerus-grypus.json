@@ -3,6 +3,10 @@
   "taxonId": 41733,
   "group": "mammals",
   "commonName": "Grey Seal",
+  "alternativeNames": [
+    "Gray Seal",
+    "Horsehead"
+  ],
   "scientificName": "Halichoerus grypus",
   "family": "Phocidae",
   "familyCommonName": "Earless Seals",
@@ -213,6 +217,7 @@
   "compareHints": "Grey seals are the only species in their genus, making them unique among seals. Compared to their closest relatives in the earless seal family, like harbor seals, grey seals are significantly larger and have that distinctive elongated snout. Unlike eared seals (sea lions), grey seals have no external ears and move on land by sliding on their bellies rather than \"walking\" on their flippers.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Grey_seal",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/41733"
 }

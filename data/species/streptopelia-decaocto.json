@@ -3,6 +3,11 @@
   "taxonId": 2969,
   "group": "birds",
   "commonName": "Eurasian Collared-Dove",
+  "alternativeNames": [
+    "Eurasian Collared Dove",
+    "Collared Dove",
+    "European Collared Dove"
+  ],
   "scientificName": "Streptopelia decaocto",
   "family": "Columbidae",
   "familyCommonName": "Pigeons and Doves",
@@ -309,6 +314,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Eurasian_collared_dove",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/2969",
   "xenoCantoUrl": "https://xeno-canto.org/species/Streptopelia-decaocto"

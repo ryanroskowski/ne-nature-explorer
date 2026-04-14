@@ -1,7 +1,7 @@
 {
   "slug": "cetraria-arenaria",
   "taxonId": 210371,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Sand-loving Iceland Lichen",
   "scientificName": "Cetraria arenaria",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -232,10 +232,11 @@
       "commonName": "Iceland Lichen",
       "scientificName": "Cetraria islandica",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11194888/medium.jpeg",
-      "distinction": "Iceland Lichen differs from its relatives by having broader, more distinctly flattened branches compared to Sand-loving Iceland Lichen's narrower branches."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cetraria_arenaria",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/210371"
 }

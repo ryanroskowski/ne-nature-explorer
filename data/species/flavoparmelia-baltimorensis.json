@@ -1,7 +1,7 @@
 {
   "slug": "flavoparmelia-baltimorensis",
   "taxonId": 148365,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "rock greenshield lichen",
   "scientificName": "Flavoparmelia baltimorensis",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -221,6 +221,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Flavoparmelia_baltimorensis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/148365"
 }

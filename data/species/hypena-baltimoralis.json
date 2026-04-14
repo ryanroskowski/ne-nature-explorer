@@ -3,6 +3,12 @@
   "taxonId": 82201,
   "group": "insects",
   "commonName": "Baltimore Snout",
+  "alternativeNames": [
+    "Baltimore Hypena",
+    "Baltimore Bomolocha Moth",
+    "Baltimore Bomolocha",
+    "Baltimore Snout Moth"
+  ],
   "scientificName": "Hypena baltimoralis",
   "family": "Erebidae",
   "familyCommonName": "Underwing, Tiger, Tussock, and Allied Moths",
@@ -221,6 +227,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Hypena_baltimoralis",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/82201",
   "ecologicalRole": {

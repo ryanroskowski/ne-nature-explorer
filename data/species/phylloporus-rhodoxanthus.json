@@ -3,6 +3,9 @@
   "taxonId": 130936,
   "group": "fungi",
   "commonName": "Golden Gilled Bolete",
+  "alternativeNames": [
+    "Gilled Bolete"
+  ],
   "scientificName": "Phylloporus rhodoxanthus",
   "family": "Boletaceae",
   "familyCommonName": "boletes",
@@ -219,6 +222,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Phylloporus_rhodoxanthus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/130936"
 }

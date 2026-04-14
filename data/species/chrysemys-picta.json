@@ -3,6 +3,10 @@
   "taxonId": 39771,
   "group": "reptiles",
   "commonName": "Painted Turtle",
+  "alternativeNames": [
+    "Northern Painted Turtle",
+    "Painted Terrapin"
+  ],
   "scientificName": "Chrysemys picta",
   "family": "Emydidae",
   "familyCommonName": "Pond and Box Turtles",
@@ -221,6 +225,7 @@
   "compareHints": "Painted turtles are the only species in their genus Chrysemys in New England, making them unique among our native pond turtles. Compared to other common pond turtles like snapping turtles, painted turtles are much smaller with smooth shells and colorful markings, while snappers are large, dark, and have prominently ridged shells. Unlike box turtles which can completely close their shells, painted turtles cannot fully retract their heads and limbs.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Painted_turtle",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/39771"
 }

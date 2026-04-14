@@ -3,6 +3,12 @@
   "taxonId": 27186,
   "group": "amphibians",
   "commonName": "Eastern Red-backed Salamander",
+  "alternativeNames": [
+    "Red-backed Salamander",
+    "Redback Salamander",
+    "Woodland Salamander",
+    "Northern Red-backed Salamander"
+  ],
   "scientificName": "Plethodon cinereus",
   "family": "Plethodontidae",
   "familyCommonName": "Lungless Salamanders",
@@ -221,6 +227,7 @@
   "compareHints": "This is the only woodland salamander in its genus found in New England, making identification easier once you know what to look for. It differs from other small New England salamanders by its terrestrial forest habitat – if you find it under a log in the woods rather than near a stream or pond, you've likely found a Red-backed Salamander. Other small salamanders in the region are typically associated with aquatic environments.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Red-backed_salamander",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/27186"
 }

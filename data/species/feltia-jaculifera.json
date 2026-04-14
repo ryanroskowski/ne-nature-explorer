@@ -3,6 +3,9 @@
   "taxonId": 119550,
   "group": "insects",
   "commonName": "Dingy Cutworm Moth",
+  "alternativeNames": [
+    "Dingy Cutworm"
+  ],
   "scientificName": "Feltia jaculifera",
   "family": "Noctuidae",
   "familyCommonName": "Cutworm Moths and Allies",
@@ -229,6 +232,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Feltia_jaculifera",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/119550",
   "ecologicalRole": {

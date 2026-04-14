@@ -3,6 +3,9 @@
   "taxonId": 343592,
   "group": "fungi",
   "commonName": "Hollyhock Rust",
+  "alternativeNames": [
+    "Mallow Rust"
+  ],
   "scientificName": "Puccinia malvacearum",
   "family": "Pucciniaceae",
   "familyCommonName": "Pucciniaceae",
@@ -352,6 +355,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Puccinia_malvacearum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/343592"
 }

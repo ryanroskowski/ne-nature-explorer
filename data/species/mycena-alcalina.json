@@ -3,6 +3,9 @@
   "taxonId": 179707,
   "group": "fungi",
   "commonName": "Alkaline Mycena",
+  "alternativeNames": [
+    "Stump Fairy Helmet"
+  ],
   "scientificName": "Mycena alcalina",
   "family": "Mycenaceae",
   "familyCommonName": "Mycenaceae",
@@ -420,6 +423,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Mycena_alcalina",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/179707"
 }

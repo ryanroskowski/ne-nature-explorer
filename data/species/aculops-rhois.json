@@ -3,6 +3,9 @@
   "taxonId": 334439,
   "group": "arachnids",
   "commonName": "Poison Ivy Leaf Mite",
+  "alternativeNames": [
+    "Poison oak leaf mite"
+  ],
   "scientificName": "Aculops rhois",
   "family": "Eriophyidae",
   "familyCommonName": "Gall and Rust Mites",
@@ -221,6 +224,7 @@
   "compareHints": "As the only Aculops species commonly found in New England, Poison Ivy Leaf Mites are most easily compared to other gall-making mites in the same family. Unlike spider mites that create fine webbing, or broad mites that cause leaf curling, Aculops rhois creates distinctively firm, round galls. Other eriophyid mites might make different shaped galls on different plants, but none create the characteristic bumpy texture specifically on poison ivy leaves.",
   "relatedSpecies": [],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Aculops_rhois",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/334439"
 }

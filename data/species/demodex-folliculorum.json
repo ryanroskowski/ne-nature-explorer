@@ -3,6 +3,9 @@
   "taxonId": 262789,
   "group": "arachnids",
   "commonName": "Human Follicle Mite",
+  "alternativeNames": [
+    "Follicle Mite"
+  ],
   "scientificName": "Demodex folliculorum",
   "family": "Demodecidae",
   "familyCommonName": "Mammalian Follicle Mites",
@@ -128,6 +131,7 @@
   "compareHints": "This is the only Demodex species commonly found in New England hair follicles, though humans also host the related Demodex brevis in oil glands. Follicle mites are significantly longer and more worm-like compared to the shorter, more rounded brevis mites. Unlike other mite families that live freely in soil or on plants, all Demodex species are obligate human symbionts that cannot survive away from mammalian skin.",
   "relatedSpecies": [],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Demodex_folliculorum",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/262789"
 }

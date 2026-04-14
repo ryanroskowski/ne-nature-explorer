@@ -3,6 +3,9 @@
   "taxonId": 351442,
   "group": "fungi",
   "commonName": "Lizard's Claw Stinkhorn",
+  "alternativeNames": [
+    "Lantern Stinkhorn"
+  ],
   "scientificName": "Lysurus cruciatus",
   "family": "Lysuraceae",
   "familyCommonName": "Lysuraceae",
@@ -138,6 +141,7 @@
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": "http://en.wikipedia.org/wiki/Lysurus_cruciatus",
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/351442"
 }

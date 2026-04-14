@@ -1,7 +1,7 @@
 {
   "slug": "melanohalea-septentrionalis",
   "taxonId": 463491,
-  "group": "lichens",
+  "group": "fungi",
   "commonName": "Northern Camouflage Lichen",
   "scientificName": "Melanohalea septentrionalis",
   "family": "Parmeliaceae",
@@ -12,7 +12,7 @@
   "orderCommonName": "shield lichens, rim lichens, and allies",
   "breadcrumb": [
     {
-      "label": "Lichens",
+      "label": "Fungi",
       "rank": "kingdom",
       "slug": "explore"
     },
@@ -166,17 +166,18 @@
       "commonName": "Spotted Camouflage Lichen",
       "scientificName": "Melanohalea olivacea",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34956973/medium.jpg",
-      "distinction": "Within its genus Melanohalea, spotted camouflage lichen is distinguished from northern camouflage lichen by its scattered pale spots rather than a more uniformly colored surface."
+      "distinction": "undefined."
     },
     {
       "slug": "melanohalea-halei",
       "commonName": "Appalachian Tree Brown-Shield",
       "scientificName": "Melanohalea halei",
       "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8026778/medium.jpg",
-      "distinction": "Compared to its relatives Northern Camouflage Lichen and Spotted Camouflage Lichen, the Appalachian Tree Brown-Shield has more uniform coloring without the distinctive light-and-dark camouflage patterns."
+      "distinction": "undefined."
     }
   ],
   "isNative": true,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/463491"
 }

@@ -3,6 +3,11 @@
   "taxonId": 389186,
   "group": "arachnids",
   "commonName": "Pearleaf Blister Mite",
+  "alternativeNames": [
+    "Pear Leaf Blister Mite",
+    "Pear Bud Mite",
+    "Leaf Blister Mite"
+  ],
   "scientificName": "Eriophyes pyri",
   "family": "Eriophyidae",
   "familyCommonName": "Gall and Rust Mites",
@@ -273,6 +278,7 @@
     }
   ],
   "isNative": false,
+  "isInvasive": false,
   "wikipediaUrl": null,
   "iNaturalistUrl": "https://www.inaturalist.org/taxa/389186"
 }
