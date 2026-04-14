@@ -15,9 +15,9 @@ import EcologicalRoleBadges from "@/components/ui/EcologicalRoleBadges";
 import { BloomSeasonBadge, PollinatorAttractionBadge } from "@/components/ui/PlantBadges";
 import BirdAudioPlayer from "@/components/species/BirdAudioPlayer";
 
-// Pre-build ALL species pages at deploy time (full SSG).
-// Avoids ISR writes and origin transfer that burn Vercel free tier quotas.
-export const dynamicParams = false;
+// Pre-build all species pages at deploy time to minimize ISR writes.
+// dynamicParams stays true as a fallback for any edge cases.
+export const dynamicParams = true;
 
 export async function generateStaticParams() {
   const slugs = getAllSpeciesSlugs();
