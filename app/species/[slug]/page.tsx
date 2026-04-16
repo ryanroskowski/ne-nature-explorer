@@ -15,15 +15,15 @@ import EcologicalRoleBadges from "@/components/ui/EcologicalRoleBadges";
 import { BloomSeasonBadge, PollinatorAttractionBadge } from "@/components/ui/PlantBadges";
 import BirdAudioPlayer from "@/components/species/BirdAudioPlayer";
 
-// Pre-build the most common 5000 species at deploy time.
+// Pre-build the most common 8000 species at deploy time.
 // With dynamicParams = true, remaining pages are generated on first visit
-// and cached. Slugs are sorted by commonality so top 5000 covers the
+// and cached. Slugs are sorted by commonality so top 8000 covers the
 // vast majority of traffic.
 export const dynamicParams = true;
 
 export async function generateStaticParams() {
   const slugs = getAllSpeciesSlugs();
-  return slugs.slice(0, 5000).map((slug) => ({ slug }));
+  return slugs.slice(0, 8000).map((slug) => ({ slug }));
 }
 
 // Generate metadata for SEO with Open Graph
