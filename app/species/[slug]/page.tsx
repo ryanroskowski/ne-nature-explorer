@@ -15,15 +15,15 @@ import EcologicalRoleBadges from "@/components/ui/EcologicalRoleBadges";
 import { BloomSeasonBadge, PollinatorAttractionBadge } from "@/components/ui/PlantBadges";
 import BirdAudioPlayer from "@/components/species/BirdAudioPlayer";
 
-// Pre-build the most common 9000 species at deploy time.
+// Pre-build the most common 9999 species at deploy time.
 // With dynamicParams = true, remaining pages are generated on first visit
-// and cached. Slugs are sorted by commonality so top 9000 covers the
-// vast majority of traffic.
+// and cached. Slugs are sorted by commonality so top 9999 covers almost
+// all traffic. Testing whether Vercel's deploy limit is 10,000 pages.
 export const dynamicParams = true;
 
 export async function generateStaticParams() {
   const slugs = getAllSpeciesSlugs();
-  return slugs.slice(0, 9000).map((slug) => ({ slug }));
+  return slugs.slice(0, 9999).map((slug) => ({ slug }));
 }
 
 // Generate metadata for SEO with Open Graph
