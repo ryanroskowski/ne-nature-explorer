@@ -160,7 +160,7 @@ export default function SearchPageClient({
   const [sortMode, setSortMode] = useState<SortMode>(
     (searchParams.get("sort") as SortMode) || "relevance"
   );
-  const [showFilters, setShowFilters] = useState(false);
+  const [showFilters, setShowFilters] = useState(true);
 
   // Loaded indexes + Fuse instances
   const [speciesIndex, setSpeciesIndex] = useState<SearchEntry[] | null>(null);
@@ -605,7 +605,6 @@ export default function SearchPageClient({
         <EmptyPrompt
           recent={recentSearches}
           onPickRecent={(q) => setQuery(q)}
-          groups={groups}
         />
       ) : isLoadingIndexes ? (
         <div className="text-text-muted text-center py-16">Loading search…</div>
@@ -823,11 +822,9 @@ function AreaCard({ entry }: { entry: AreaSearchEntry }) {
 function EmptyPrompt({
   recent,
   onPickRecent,
-  groups,
 }: {
   recent: string[];
   onPickRecent: (q: string) => void;
-  groups: GroupInfo[];
 }) {
   const suggestions = ["oak", "warbler", "fern", "mushroom", "hawk", "turtle"];
   return (
@@ -852,7 +849,7 @@ function EmptyPrompt({
         </section>
       )}
 
-      <section className="mb-10">
+      <section>
         <h2 className="font-serif text-lg font-bold text-text-primary mb-3">
           Try searching for…
         </h2>
@@ -866,31 +863,6 @@ function EmptyPrompt({
               <span aria-hidden="true">✨</span>
               {s}
             </button>
-          ))}
-        </div>
-      </section>
-
-      <section>
-        <h2 className="font-serif text-lg font-bold text-text-primary mb-3">
-          Or browse a taxon group
-        </h2>
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3">
-          {groups.map((g) => (
-            <Link
-              key={g.key}
-              href={`/explore?group=${g.key}`}
-              className="flex items-center gap-2 px-3 py-2.5 rounded-xl bg-card border border-border hover:border-forest/30 hover:bg-cream-dark transition-colors"
-            >
-              <GroupIcon groupKey={g.key} emoji={g.icon} size={20} />
-              <div className="min-w-0">
-                <div className="font-ui text-sm font-medium text-text-primary truncate">
-                  {g.label}
-                </div>
-                <div className="text-xs text-text-muted">
-                  {g.speciesCount.toLocaleString()} species
-                </div>
-              </div>
-            </Link>
           ))}
         </div>
       </section>

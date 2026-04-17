@@ -29,8 +29,8 @@ export default function MapSpeciesOverlay({
   // Mobile: fill the screen — the provider already disables showPanel on small screens,
   //   but add a fallback class just in case.
   const desktopPosition = areaPanelOpen
-    ? "lg:right-96 lg:w-[480px]"
-    : "lg:right-0 lg:w-[480px]";
+    ? "lg:right-96 lg:w-[600px]"
+    : "lg:right-0 lg:w-[600px]";
 
   return (
     <AnimatePresence mode="wait">
