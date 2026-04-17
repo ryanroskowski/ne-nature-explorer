@@ -364,6 +364,14 @@ export function assemble(
       genus: s.genus,
       group: groupKey,
       type: "species",
+      // Enriched fields for improved search + /search page filtering
+      ...(s.alternativeNames && s.alternativeNames.length > 0
+        ? { alternativeNames: s.alternativeNames }
+        : {}),
+      abundanceTier: s.abundanceTier,
+      ...(s.isNative !== undefined ? { isNative: s.isNative } : {}),
+      ...(s.isInvasive !== undefined ? { isInvasive: s.isInvasive } : {}),
+      ...(s.photos[0]?.mediumUrl ? { thumbnailUrl: s.photos[0].mediumUrl } : {}),
     });
   }
 

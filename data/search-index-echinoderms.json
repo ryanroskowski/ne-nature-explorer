@@ -7,7 +7,11 @@
     "familyCommonName": "Strongylocentrotidae",
     "genus": "Strongylocentrotus",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60003/medium.jpg"
   },
   {
     "slug": "asterias-rubens",
@@ -17,7 +21,17 @@
     "familyCommonName": "Asteriid Sea Stars",
     "genus": "Asterias",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Purple Starfish",
+      "Common Starfish",
+      "Atlantic Common Sea Star",
+      "Common Seastar"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/486710101/medium.jpg"
   },
   {
     "slug": "echinarachnius-parma",
@@ -27,7 +41,11 @@
     "familyCommonName": "Echinarachniidae",
     "genus": "Echinarachnius",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/84766148/medium.jpg"
   },
   {
     "slug": "asterias-forbesi",
@@ -37,7 +55,11 @@
     "familyCommonName": "Asteriid Sea Stars",
     "genus": "Asterias",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/150543784/medium.jpg"
   },
   {
     "slug": "arbacia-punctulata",
@@ -47,7 +69,14 @@
     "familyCommonName": "Arbaciidae",
     "genus": "Arbacia",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Atlantic Purple Sea Urchin"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/46856084/medium.jpg"
   },
   {
     "slug": "henricia-sanguinolenta",
@@ -57,7 +86,11 @@
     "familyCommonName": "Echinasterid Sea Stars",
     "genus": "Henricia",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14728490/medium.jpg"
   },
   {
     "slug": "ophiopholis-aculeata",
@@ -67,7 +100,11 @@
     "familyCommonName": "Ophiopholidae",
     "genus": "Ophiopholis",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/32039705/medium.jpg"
   },
   {
     "slug": "cucumaria-frondosa",
@@ -77,7 +114,11 @@
     "familyCommonName": "Cucumariidae",
     "genus": "Cucumaria",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/229947436/medium.jpg"
   },
   {
     "slug": "sclerodactyla-briareus",
@@ -87,7 +128,11 @@
     "familyCommonName": "Sclerodactylidae",
     "genus": "Sclerodactyla",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1094597/medium.jpg"
   },
   {
     "slug": "leptosynapta-tenuis",
@@ -97,7 +142,11 @@
     "familyCommonName": "Synaptidae",
     "genus": "Leptosynapta",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/202601127/medium.jpeg"
   },
   {
     "slug": "amphipholis-squamata",
@@ -107,7 +156,11 @@
     "familyCommonName": "Long-armed Burrowing Brittle Stars",
     "genus": "Amphipholis",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/588511969/medium.jpg"
   },
   {
     "slug": "caudina-arenata",
@@ -117,7 +170,11 @@
     "familyCommonName": "Caudinidae",
     "genus": "Caudina",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/342305566/medium.jpg"
   },
   {
     "slug": "psolus-fabricii",
@@ -127,7 +184,11 @@
     "familyCommonName": "Psolidae",
     "genus": "Psolus",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176814207/medium.jpeg"
   },
   {
     "slug": "porania-pulvillus",
@@ -137,7 +198,11 @@
     "familyCommonName": "Poraniidae",
     "genus": "Porania",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/69635347/medium.jpg"
   },
   {
     "slug": "ophioderma-brevispina",
@@ -147,7 +212,11 @@
     "familyCommonName": "Ophiodermatidae",
     "genus": "Ophioderma",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1852350/medium.jpg"
   },
   {
     "slug": "crossaster-papposus",
@@ -157,7 +226,11 @@
     "familyCommonName": "Solasterid Sun Stars",
     "genus": "Crossaster",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2240095/medium.jpg"
   },
   {
     "slug": "solaster-endeca",
@@ -167,7 +240,11 @@
     "familyCommonName": "Solasterid Sun Stars",
     "genus": "Solaster",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1139781/medium.jpg"
   },
   {
     "slug": "ophiura-sarsii",
@@ -177,7 +254,11 @@
     "familyCommonName": "Ophiuridae",
     "genus": "Ophiura",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32534319/medium.jpg"
   },
   {
     "slug": "leptasterias-littoralis",
@@ -187,7 +268,11 @@
     "familyCommonName": "Asteriid Sea Stars",
     "genus": "Leptasterias",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/111254578/medium.jpeg"
   },
   {
     "slug": "molpadia-oolitica",
@@ -197,7 +282,11 @@
     "familyCommonName": "Molpadiidae",
     "genus": "Molpadia",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32386169/medium.jpg"
   },
   {
     "slug": "chiridota-laevis",
@@ -207,7 +296,11 @@
     "familyCommonName": "Chiridotidae",
     "genus": "Chiridota",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/424918427/medium.jpg"
   },
   {
     "slug": "epitomapta-roseola",
@@ -217,7 +310,11 @@
     "familyCommonName": "Synaptidae",
     "genus": "Epitomapta",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/157063409/medium.jpeg"
   },
   {
     "slug": "ctenodiscus-crispatus",
@@ -227,7 +324,11 @@
     "familyCommonName": "Cookie-cutter Sea Stars",
     "genus": "Ctenodiscus",
     "group": "echinoderms",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32423017/medium.jpg"
   },
   {
     "slug": "explore/strongylocentrotus",

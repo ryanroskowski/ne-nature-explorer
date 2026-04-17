@@ -176,6 +176,16 @@ export interface SearchEntry {
   genus: string;
   group?: string; // taxon group key
   type: "species" | "genus" | "family";
+  /** Alternative common names (species only) — boosts fuzzy match recall. */
+  alternativeNames?: string[];
+  /** Abundance tier (species only) — used for filtering on /search. */
+  abundanceTier?: AbundanceTier;
+  /** Native/introduced flag (species only) — used for filtering on /search. */
+  isNative?: boolean;
+  /** Invasive flag (species only) — used for filtering on /search. */
+  isInvasive?: boolean;
+  /** Thumbnail (species only) — used for result cards on /search. */
+  thumbnailUrl?: string;
 }
 
 /** Contextual knowledge article */

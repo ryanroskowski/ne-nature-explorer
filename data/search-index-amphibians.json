@@ -7,7 +7,15 @@
     "familyCommonName": "True Toads",
     "genus": "Anaxyrus",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Hudson Bay American Toad",
+      "Hudson Bay toad"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2677422/medium.jpg"
   },
   {
     "slug": "notophthalmus-viridescens",
@@ -17,7 +25,15 @@
     "familyCommonName": "Newts",
     "genus": "Notophthalmus",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Red Eft",
+      "Red-spotted Salamander"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/174608300/medium.jpg"
   },
   {
     "slug": "lithobates-clamitans",
@@ -27,7 +43,16 @@
     "familyCommonName": "Typical Frogs",
     "genus": "Lithobates",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "North American Green Frog",
+      "Northern Green Frog",
+      "Bronze Frog"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/50274676/medium.jpg"
   },
   {
     "slug": "lithobates-sylvaticus",
@@ -37,7 +62,11 @@
     "familyCommonName": "Typical Frogs",
     "genus": "Lithobates",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/240940498/medium.jpg"
   },
   {
     "slug": "plethodon-cinereus",
@@ -47,7 +76,17 @@
     "familyCommonName": "Lungless Salamanders",
     "genus": "Plethodon",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Red-backed Salamander",
+      "Redback Salamander",
+      "Woodland Salamander",
+      "Northern Red-backed Salamander"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248530577/medium.jpg"
   },
   {
     "slug": "pseudacris-crucifer",
@@ -57,7 +96,16 @@
     "familyCommonName": "Hyline Tree Frogs",
     "genus": "Pseudacris",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Northern Spring Peeper",
+      "Pinkletink",
+      "Southern Spring Peeper"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/428809700/medium.jpeg"
   },
   {
     "slug": "lithobates-catesbeianus",
@@ -67,7 +115,18 @@
     "familyCommonName": "Typical Frogs",
     "genus": "Lithobates",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Bullfrog",
+      "Common Bullfrog",
+      "Bull Frog",
+      "American Bull Frog",
+      "North American Bullfrog"
+    ],
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4654051/medium.jpg"
   },
   {
     "slug": "ambystoma-maculatum",
@@ -77,7 +136,14 @@
     "familyCommonName": "Mole Salamanders",
     "genus": "Ambystoma",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Yellow-spotted Salamander"
+    ],
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/245633300/medium.jpg"
   },
   {
     "slug": "dryophytes-versicolor",
@@ -87,7 +153,11 @@
     "familyCommonName": "Hyline Tree Frogs",
     "genus": "Dryophytes",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/49584535/medium.jpeg"
   },
   {
     "slug": "lithobates-palustris",
@@ -97,7 +167,11 @@
     "familyCommonName": "Typical Frogs",
     "genus": "Lithobates",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32616817/medium.jpeg"
   },
   {
     "slug": "eurycea-bislineata",
@@ -107,7 +181,11 @@
     "familyCommonName": "Lungless Salamanders",
     "genus": "Eurycea",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62192/medium.jpg"
   },
   {
     "slug": "lithobates-pipiens",
@@ -117,7 +195,11 @@
     "familyCommonName": "Typical Frogs",
     "genus": "Lithobates",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/143877653/medium.jpeg"
   },
   {
     "slug": "anaxyrus-fowleri",
@@ -127,7 +209,11 @@
     "familyCommonName": "True Toads",
     "genus": "Anaxyrus",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/16272958/medium.jpg"
   },
   {
     "slug": "hemidactylium-scutatum",
@@ -137,7 +223,11 @@
     "familyCommonName": "Lungless Salamanders",
     "genus": "Hemidactylium",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55523640/medium.jpg"
   },
   {
     "slug": "desmognathus-fuscus",
@@ -147,7 +237,11 @@
     "familyCommonName": "Lungless Salamanders",
     "genus": "Desmognathus",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/248298369/medium.jpg"
   },
   {
     "slug": "ambystoma-laterale",
@@ -157,7 +251,11 @@
     "familyCommonName": "Mole Salamanders",
     "genus": "Ambystoma",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/78166203/medium.jpg"
   },
   {
     "slug": "ambystoma-opacum",
@@ -167,7 +265,11 @@
     "familyCommonName": "Mole Salamanders",
     "genus": "Ambystoma",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/20619379/medium.jpg"
   },
   {
     "slug": "gyrinophilus-porphyriticus",
@@ -177,7 +279,11 @@
     "familyCommonName": "Lungless Salamanders",
     "genus": "Gyrinophilus",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1974412/medium.jpg"
   },
   {
     "slug": "lithobates-septentrionalis",
@@ -187,7 +293,11 @@
     "familyCommonName": "Typical Frogs",
     "genus": "Lithobates",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/28945892/medium.jpg"
   },
   {
     "slug": "scaphiopus-holbrookii",
@@ -197,7 +307,11 @@
     "familyCommonName": "North American Spadefoots",
     "genus": "Scaphiopus",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9962494/medium.jpg"
   },
   {
     "slug": "ambystoma-jeffersonianum",
@@ -207,7 +321,11 @@
     "familyCommonName": "Mole Salamanders",
     "genus": "Ambystoma",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/470591896/medium.jpg"
   },
   {
     "slug": "necturus-maculosus",
@@ -217,7 +335,11 @@
     "familyCommonName": "Mudpuppies and Olm",
     "genus": "Necturus",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/147397/medium.jpg"
   },
   {
     "slug": "osteopilus-septentrionalis",
@@ -227,7 +349,11 @@
     "familyCommonName": "Hyline Tree Frogs",
     "genus": "Osteopilus",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/432061131/medium.jpeg"
   },
   {
     "slug": "lithobates-kauffeldi",
@@ -237,7 +363,11 @@
     "familyCommonName": "Typical Frogs",
     "genus": "Lithobates",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/486572287/medium.jpg"
   },
   {
     "slug": "eleutherodactylus-planirostris",
@@ -247,7 +377,11 @@
     "familyCommonName": "Rain Frogs",
     "genus": "Eleutherodactylus",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/232469445/medium.jpg"
   },
   {
     "slug": "pseudacris-regilla",
@@ -257,7 +391,17 @@
     "familyCommonName": "Hyline Tree Frogs",
     "genus": "Pseudacris",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Pacific tree frog",
+      "Northern Baja California treefrog",
+      "Sierran Tree Frog",
+      "Northern Pacific Treefrog"
+    ],
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/60290551/medium.jpg"
   },
   {
     "slug": "dryophytes-cinereus",
@@ -267,7 +411,11 @@
     "familyCommonName": "Hyline Tree Frogs",
     "genus": "Dryophytes",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59028145/medium.jpg"
   },
   {
     "slug": "dryophytes-squirellus",
@@ -277,7 +425,14 @@
     "familyCommonName": "Hyline Tree Frogs",
     "genus": "Dryophytes",
     "group": "amphibians",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Squirrel Treefrog"
+    ],
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/72456/medium.jpg"
   },
   {
     "slug": "explore/north-american-toads",

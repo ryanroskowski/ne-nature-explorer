@@ -7,7 +7,18 @@
     "familyCommonName": "Carcinidae",
     "genus": "Carcinus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Green Shore Crab",
+      "Shore Crab",
+      "European Shorecrab",
+      "Green Crab",
+      "European Shore Crab"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/577793778/medium.jpg"
   },
   {
     "slug": "oniscus-asellus",
@@ -17,7 +28,15 @@
     "familyCommonName": "Sow Bugs",
     "genus": "Oniscus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Common Woodlouse",
+      "European Sowbug"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/263071383/medium.jpeg"
   },
   {
     "slug": "hemigrapsus-sanguineus",
@@ -27,7 +46,11 @@
     "familyCommonName": "Varunid crabs",
     "genus": "Hemigrapsus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128030484/medium.jpg"
   },
   {
     "slug": "porcellio-scaber",
@@ -37,7 +60,11 @@
     "familyCommonName": "Porcellionid Woodlice",
     "genus": "Porcellio",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4954433/medium.jpg"
   },
   {
     "slug": "semibalanus-balanoides",
@@ -47,7 +74,11 @@
     "familyCommonName": "Balanidae",
     "genus": "Semibalanus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9304313/medium.jpg"
   },
   {
     "slug": "cancer-irroratus",
@@ -57,7 +88,11 @@
     "familyCommonName": "Rock Crabs",
     "genus": "Cancer",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156548798/medium.jpg"
   },
   {
     "slug": "pagurus-longicarpus",
@@ -67,7 +102,11 @@
     "familyCommonName": "Pagurid Hermit Crabs",
     "genus": "Pagurus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/155460965/medium.jpeg"
   },
   {
     "slug": "cancer-borealis",
@@ -77,7 +116,11 @@
     "familyCommonName": "Rock Crabs",
     "genus": "Cancer",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/229576792/medium.jpg"
   },
   {
     "slug": "philoscia-muscorum",
@@ -87,7 +130,11 @@
     "familyCommonName": "Philosciid Woodlice",
     "genus": "Philoscia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2648843/medium.JPG"
   },
   {
     "slug": "armadillidium-vulgare",
@@ -97,7 +144,11 @@
     "familyCommonName": "Pill Woodlice",
     "genus": "Armadillidium",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/175293095/medium.jpeg"
   },
   {
     "slug": "ovalipes-ocellatus",
@@ -107,7 +158,11 @@
     "familyCommonName": "Geryonidae",
     "genus": "Ovalipes",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119688474/medium.jpg"
   },
   {
     "slug": "callinectes-sapidus",
@@ -117,7 +172,11 @@
     "familyCommonName": "Swimming Crabs",
     "genus": "Callinectes",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/150215440/medium.jpg"
   },
   {
     "slug": "homarus-americanus",
@@ -127,7 +186,11 @@
     "familyCommonName": "True Lobsters",
     "genus": "Homarus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4672168/medium.jpeg"
   },
   {
     "slug": "minuca-pugnax",
@@ -137,7 +200,11 @@
     "familyCommonName": "Ghost and Fiddler Crabs",
     "genus": "Minuca",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/276995/medium.jpg"
   },
   {
     "slug": "leptuca-pugilator",
@@ -147,7 +214,11 @@
     "familyCommonName": "Ghost and Fiddler Crabs",
     "genus": "Leptuca",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/315593507/medium.jpeg"
   },
   {
     "slug": "faxonius-virilis",
@@ -157,7 +228,11 @@
     "familyCommonName": "Cambarid Crayfishes",
     "genus": "Faxonius",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/114654621/medium.jpg"
   },
   {
     "slug": "trachelipus-rathkii",
@@ -167,7 +242,11 @@
     "familyCommonName": "Trachelipodid Woodlice",
     "genus": "Trachelipus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14082686/medium.jpeg"
   },
   {
     "slug": "idotea-balthica",
@@ -177,7 +256,11 @@
     "familyCommonName": "Common Valvetails",
     "genus": "Idotea",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/104225525/medium.jpg"
   },
   {
     "slug": "libinia-emarginata",
@@ -187,7 +270,11 @@
     "familyCommonName": "Kelp Crabs",
     "genus": "Libinia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67770510/medium.jpeg"
   },
   {
     "slug": "emerita-talpoida",
@@ -197,7 +284,11 @@
     "familyCommonName": "Hippid Mole Crabs",
     "genus": "Emerita",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/155289821/medium.jpg"
   },
   {
     "slug": "porcellio-spinicornis",
@@ -207,7 +298,11 @@
     "familyCommonName": "Porcellionid Woodlice",
     "genus": "Porcellio",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/456854556/medium.jpeg"
   },
   {
     "slug": "armadillidium-nasatum",
@@ -217,7 +312,11 @@
     "familyCommonName": "Pill Woodlice",
     "genus": "Armadillidium",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/152333717/medium.jpg"
   },
   {
     "slug": "crangon-septemspinosa",
@@ -227,7 +326,11 @@
     "familyCommonName": "Crangonidae",
     "genus": "Crangon",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70752483/medium.jpg"
   },
   {
     "slug": "pagurus-pollicaris",
@@ -237,7 +340,11 @@
     "familyCommonName": "Pagurid Hermit Crabs",
     "genus": "Pagurus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48762/medium.jpg"
   },
   {
     "slug": "palaemon-elegans",
@@ -247,7 +354,11 @@
     "familyCommonName": "palaemonid shrimps",
     "genus": "Palaemon",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/238683538/medium.jpg"
   },
   {
     "slug": "pagurus-acadianus",
@@ -257,7 +368,11 @@
     "familyCommonName": "Pagurid Hermit Crabs",
     "genus": "Pagurus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248349184/medium.jpg"
   },
   {
     "slug": "ocypode-quadrata",
@@ -267,7 +382,11 @@
     "familyCommonName": "Ghost and Fiddler Crabs",
     "genus": "Ocypode",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/212372492/medium.jpeg"
   },
   {
     "slug": "procambarus-acutus",
@@ -277,7 +396,11 @@
     "familyCommonName": "Cambarid Crayfishes",
     "genus": "Procambarus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1540351/medium.jpg"
   },
   {
     "slug": "dosima-fascicularis",
@@ -287,7 +410,11 @@
     "familyCommonName": "Goose Barnacles",
     "genus": "Dosima",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/144691015/medium.jpg"
   },
   {
     "slug": "faxonius-limosus",
@@ -297,7 +424,11 @@
     "familyCommonName": "Cambarid Crayfishes",
     "genus": "Faxonius",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11239090/medium.jpeg"
   },
   {
     "slug": "faxonius-rusticus",
@@ -307,7 +438,11 @@
     "familyCommonName": "Cambarid Crayfishes",
     "genus": "Faxonius",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/36030012/medium.jpeg"
   },
   {
     "slug": "eubranchipus-vernalis",
@@ -317,7 +452,11 @@
     "familyCommonName": "Chirocephalidae",
     "genus": "Eubranchipus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33084514/medium.jpg"
   },
   {
     "slug": "platorchestia-platensis",
@@ -327,7 +466,11 @@
     "familyCommonName": "Sandhoppers and Landhoppers",
     "genus": "Platorchestia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/540858111/medium.jpg"
   },
   {
     "slug": "caprella-mutica",
@@ -337,7 +480,11 @@
     "familyCommonName": "Skeleton Shrimp",
     "genus": "Caprella",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22646752/medium.jpg"
   },
   {
     "slug": "minuca-minax",
@@ -347,7 +494,11 @@
     "familyCommonName": "Ghost and Fiddler Crabs",
     "genus": "Minuca",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/18156/medium.jpg"
   },
   {
     "slug": "dyspanopeus-sayi",
@@ -357,7 +508,11 @@
     "familyCommonName": "Mud Crabs",
     "genus": "Dyspanopeus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/309608456/medium.jpeg"
   },
   {
     "slug": "speziorchestia-grillus",
@@ -367,7 +522,11 @@
     "familyCommonName": "Sandhoppers and Landhoppers",
     "genus": "Speziorchestia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/204932031/medium.jpeg"
   },
   {
     "slug": "praunus-flexuosus",
@@ -377,7 +536,11 @@
     "familyCommonName": "Mysidae",
     "genus": "Praunus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172767890/medium.jpg"
   },
   {
     "slug": "squilla-empusa",
@@ -387,7 +550,11 @@
     "familyCommonName": "Squillid Mantis Shrimps",
     "genus": "Squilla",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/105830515/medium.jpeg"
   },
   {
     "slug": "sesarma-reticulatum",
@@ -397,7 +564,11 @@
     "familyCommonName": "Sesarmid Marsh Crabs",
     "genus": "Sesarma",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/78753000/medium.jpeg"
   },
   {
     "slug": "ligia-oceanica",
@@ -407,7 +578,11 @@
     "familyCommonName": "Rock Lice, Sea Slaters, and Allies",
     "genus": "Ligia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35692732/medium.jpeg"
   },
   {
     "slug": "littorophiloscia-vittata",
@@ -417,7 +592,11 @@
     "familyCommonName": "Halophilosciidae",
     "genus": "Littorophiloscia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177953616/medium.jpeg"
   },
   {
     "slug": "cambarus-bartonii",
@@ -427,7 +606,11 @@
     "familyCommonName": "Cambarid Crayfishes",
     "genus": "Cambarus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/581929190/medium.jpg"
   },
   {
     "slug": "upogebia-affinis",
@@ -437,7 +620,11 @@
     "familyCommonName": "Upogebiidae",
     "genus": "Upogebia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/225081433/medium.jpg"
   },
   {
     "slug": "idotea-phosphorea",
@@ -447,7 +634,11 @@
     "familyCommonName": "Common Valvetails",
     "genus": "Idotea",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114371597/medium.jpeg"
   },
   {
     "slug": "panopeus-herbstii",
@@ -457,7 +648,11 @@
     "familyCommonName": "Mud Crabs",
     "genus": "Panopeus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120454173/medium.jpg"
   },
   {
     "slug": "faxonius-propinquus",
@@ -467,7 +662,11 @@
     "familyCommonName": "Cambarid Crayfishes",
     "genus": "Faxonius",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/25111515/medium.jpg"
   },
   {
     "slug": "hyloniscus-riparius",
@@ -477,7 +676,11 @@
     "familyCommonName": "Trichoniscidae",
     "genus": "Hyloniscus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35302496/medium.jpg"
   },
   {
     "slug": "libinia-dubia",
@@ -487,7 +690,11 @@
     "familyCommonName": "Kelp Crabs",
     "genus": "Libinia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/49939759/medium.jpeg"
   },
   {
     "slug": "cambarus-robustus",
@@ -497,7 +704,11 @@
     "familyCommonName": "Cambarid Crayfishes",
     "genus": "Cambarus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/471812881/medium.jpeg"
   },
   {
     "slug": "faxonius-immunis",
@@ -507,7 +718,11 @@
     "familyCommonName": "Cambarid Crayfishes",
     "genus": "Faxonius",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/47550108/medium.jpg"
   },
   {
     "slug": "balanus-crenatus",
@@ -517,7 +732,11 @@
     "familyCommonName": "Balanidae",
     "genus": "Balanus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21219208/medium.jpg"
   },
   {
     "slug": "cylisticus-convexus",
@@ -527,7 +746,11 @@
     "familyCommonName": "Cylisticid Woodlice",
     "genus": "Cylisticus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/364812927/medium.jpg"
   },
   {
     "slug": "haplophthalmus-danicus",
@@ -537,7 +760,11 @@
     "familyCommonName": "Trichoniscidae",
     "genus": "Haplophthalmus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/14901576/medium.jpg"
   },
   {
     "slug": "hyas-araneus",
@@ -547,7 +774,11 @@
     "familyCommonName": "Oregoniidae",
     "genus": "Hyas",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/65498677/medium.jpg"
   },
   {
     "slug": "amphibalanus-improvisus",
@@ -557,7 +788,11 @@
     "familyCommonName": "Balanidae",
     "genus": "Amphibalanus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4131476/medium.jpg"
   },
   {
     "slug": "pinnixa-cylindrica",
@@ -567,7 +802,11 @@
     "familyCommonName": "Bivalve Pea Crabs",
     "genus": "Pinnixa",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/337982789/medium.jpeg"
   },
   {
     "slug": "idotea-metallica",
@@ -577,7 +816,11 @@
     "familyCommonName": "Common Valvetails",
     "genus": "Idotea",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293877443/medium.jpg"
   },
   {
     "slug": "arenaeus-cribrarius",
@@ -587,7 +830,11 @@
     "familyCommonName": "Swimming Crabs",
     "genus": "Arenaeus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7873428/medium.jpg"
   },
   {
     "slug": "pagurus-arcuatus",
@@ -597,7 +844,11 @@
     "familyCommonName": "Pagurid Hermit Crabs",
     "genus": "Pagurus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/283451167/medium.jpg"
   },
   {
     "slug": "chthamalus-fragilis",
@@ -607,7 +858,11 @@
     "familyCommonName": "Chthamalid Barnacles",
     "genus": "Chthamalus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13551598/medium.jpg"
   },
   {
     "slug": "eubranchipus-bundyi",
@@ -617,7 +872,11 @@
     "familyCommonName": "Chirocephalidae",
     "genus": "Eubranchipus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/262746704/medium.jpg"
   },
   {
     "slug": "procambarus-clarkii",
@@ -627,7 +886,11 @@
     "familyCommonName": "Cambarid Crayfishes",
     "genus": "Procambarus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/388223062/medium.jpg"
   },
   {
     "slug": "tumidotheres-maculatus",
@@ -637,7 +900,11 @@
     "familyCommonName": "Bivalve Pea Crabs",
     "genus": "Tumidotheres",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/533996/medium.jpg"
   },
   {
     "slug": "polyonyx-gibbesi",
@@ -647,7 +914,11 @@
     "familyCommonName": "Porcelain Crabs",
     "genus": "Polyonyx",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120455627/medium.jpg"
   },
   {
     "slug": "gammarus-fasciatus",
@@ -657,7 +928,11 @@
     "familyCommonName": "Gammaridae",
     "genus": "Gammarus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55592186/medium.jpeg"
   },
   {
     "slug": "gammarus-mucronatus",
@@ -667,7 +942,11 @@
     "familyCommonName": "Gammaridae",
     "genus": "Gammarus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119685585/medium.jpg"
   },
   {
     "slug": "amphibalanus-venustus",
@@ -677,7 +956,11 @@
     "familyCommonName": "Balanidae",
     "genus": "Amphibalanus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33305819/medium.jpg"
   },
   {
     "slug": "palaemon-macrodactylus",
@@ -687,7 +970,11 @@
     "familyCommonName": "palaemonid shrimps",
     "genus": "Palaemon",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/412015362/medium.jpeg"
   },
   {
     "slug": "americorchestia-megalophthalma",
@@ -697,7 +984,11 @@
     "familyCommonName": "Sandhoppers and Landhoppers",
     "genus": "Americorchestia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10056043/medium.jpg"
   },
   {
     "slug": "meganyctiphanes-norvegica",
@@ -707,7 +998,11 @@
     "familyCommonName": "Euphotic Krill",
     "genus": "Meganyctiphanes",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/449434046/medium.jpg"
   },
   {
     "slug": "conasellus-communis",
@@ -717,7 +1012,11 @@
     "familyCommonName": "Freshwater Isopods",
     "genus": "Conasellus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/199227925/medium.jpeg"
   },
   {
     "slug": "pagurus-annulipes",
@@ -727,7 +1026,11 @@
     "familyCommonName": "Pagurid Hermit Crabs",
     "genus": "Pagurus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/531229457/medium.jpg"
   },
   {
     "slug": "coronula-diadema",
@@ -737,7 +1040,11 @@
     "familyCommonName": "Whale Barnacles",
     "genus": "Coronula",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/16834387/medium.jpg"
   },
   {
     "slug": "calappa-flammea",
@@ -747,7 +1054,11 @@
     "familyCommonName": "Box Crabs",
     "genus": "Calappa",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7873440/medium.jpg"
   },
   {
     "slug": "portunus-sayi",
@@ -757,7 +1068,11 @@
     "familyCommonName": "Swimming Crabs",
     "genus": "Portunus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1094589/medium.jpg"
   },
   {
     "slug": "palaemon-vulgaris",
@@ -767,7 +1082,11 @@
     "familyCommonName": "palaemonid shrimps",
     "genus": "Palaemon",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189305401/medium.jpeg"
   },
   {
     "slug": "jassa-marmorata",
@@ -777,7 +1096,11 @@
     "familyCommonName": "Ischyroceridae",
     "genus": "Jassa",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/210231408/medium.jpg"
   },
   {
     "slug": "armadilloniscus-ellipticus",
@@ -787,7 +1110,11 @@
     "familyCommonName": "Detonidae",
     "genus": "Armadilloniscus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/173886354/medium.jpg"
   },
   {
     "slug": "palaemon-paludosus",
@@ -797,7 +1124,11 @@
     "familyCommonName": "palaemonid shrimps",
     "genus": "Palaemon",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67303266/medium.jpg"
   },
   {
     "slug": "polyphemus-pediculus",
@@ -807,7 +1138,11 @@
     "familyCommonName": "Polyphemidae",
     "genus": "Polyphemus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23702189/medium.jpeg"
   },
   {
     "slug": "calliopius-laeviusculus",
@@ -817,7 +1152,11 @@
     "familyCommonName": "Calliopiidae",
     "genus": "Calliopius",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227357234/medium.jpeg"
   },
   {
     "slug": "lepas-anatifera",
@@ -827,7 +1166,16 @@
     "familyCommonName": "Goose Barnacles",
     "genus": "Lepas",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Smooth Gooseneck Barnacle",
+      "duck barnacle",
+      "Goose barnacle"
+    ],
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/345073231/medium.jpeg"
   },
   {
     "slug": "eubranchipus-intricatus",
@@ -837,7 +1185,11 @@
     "familyCommonName": "Chirocephalidae",
     "genus": "Eubranchipus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/115266328/medium.jpeg"
   },
   {
     "slug": "hippolyte-zostericola",
@@ -847,7 +1199,11 @@
     "familyCommonName": "Hump-backed Shrimps",
     "genus": "Hippolyte",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119693952/medium.jpg"
   },
   {
     "slug": "lepas-anserifera",
@@ -857,7 +1213,11 @@
     "familyCommonName": "Goose Barnacles",
     "genus": "Lepas",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9196331/medium.jpg"
   },
   {
     "slug": "rhithropanopeus-harrisii",
@@ -867,7 +1227,11 @@
     "familyCommonName": "Mud Crabs",
     "genus": "Rhithropanopeus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207642974/medium.jpeg"
   },
   {
     "slug": "amphibalanus-eburneus",
@@ -877,7 +1241,11 @@
     "familyCommonName": "Balanidae",
     "genus": "Amphibalanus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6168581/medium.jpg"
   },
   {
     "slug": "porcellionides-pruinosus",
@@ -887,7 +1255,11 @@
     "familyCommonName": "Porcellionid Woodlice",
     "genus": "Porcellionides",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/343138210/medium.jpg"
   },
   {
     "slug": "eualus-pusiolus",
@@ -897,7 +1269,11 @@
     "familyCommonName": "Thoridae",
     "genus": "Eualus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8876161/medium.jpg"
   },
   {
     "slug": "eurypanopeus-depressus",
@@ -907,7 +1283,11 @@
     "familyCommonName": "Mud Crabs",
     "genus": "Eurypanopeus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/127430369/medium.jpg"
   },
   {
     "slug": "americorchestia-longicornis",
@@ -917,7 +1297,11 @@
     "familyCommonName": "Sandhoppers and Landhoppers",
     "genus": "Americorchestia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/46950417/medium.jpg"
   },
   {
     "slug": "gammarus-oceanicus",
@@ -927,7 +1311,11 @@
     "familyCommonName": "Gammaridae",
     "genus": "Gammarus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2758573/medium.JPG"
   },
   {
     "slug": "acanthocyclops-vernalis",
@@ -937,7 +1325,11 @@
     "familyCommonName": "Cyclopidae",
     "genus": "Acanthocyclops",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/378771448/medium.jpeg"
   },
   {
     "slug": "sicifera-chamberlaini",
@@ -947,7 +1339,11 @@
     "familyCommonName": "Crangonyctidae",
     "genus": "Sicifera",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/108093099/medium.jpg"
   },
   {
     "slug": "eriocheir-sinensis",
@@ -957,7 +1353,11 @@
     "familyCommonName": "Varunid crabs",
     "genus": "Eriocheir",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2802210/medium.jpg"
   },
   {
     "slug": "gammarellus-angulosus",
@@ -967,7 +1367,11 @@
     "familyCommonName": "Gammarellidae",
     "genus": "Gammarellus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/208457109/medium.jpg"
   },
   {
     "slug": "lysmata-vittata",
@@ -977,7 +1381,11 @@
     "familyCommonName": "Lysmatidae",
     "genus": "Lysmata",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177052959/medium.jpg"
   },
   {
     "slug": "eulimnadia-agassizii",
@@ -987,7 +1395,11 @@
     "familyCommonName": "Limnadiidae",
     "genus": "Eulimnadia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/223224836/medium.jpg"
   },
   {
     "slug": "heterocrypta-granulata",
@@ -997,7 +1409,11 @@
     "familyCommonName": "Elbow Crabs",
     "genus": "Heterocrypta",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1137580/medium.jpg"
   },
   {
     "slug": "edotia-triloba",
@@ -1007,7 +1423,11 @@
     "familyCommonName": "Common Valvetails",
     "genus": "Edotia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119686998/medium.jpg"
   },
   {
     "slug": "planes-minutus",
@@ -1017,7 +1437,11 @@
     "familyCommonName": "Shore Crabs",
     "genus": "Planes",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3011836/medium.JPG"
   },
   {
     "slug": "nannosquilla-grayi",
@@ -1027,7 +1451,11 @@
     "familyCommonName": "Nannosquillidae",
     "genus": "Nannosquilla",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/413842372/medium.jpeg"
   },
   {
     "slug": "achelous-spinimanus",
@@ -1037,7 +1465,11 @@
     "familyCommonName": "Swimming Crabs",
     "genus": "Achelous",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109122743/medium.jpg"
   },
   {
     "slug": "hyas-coarctatus",
@@ -1047,7 +1479,11 @@
     "familyCommonName": "Oregoniidae",
     "genus": "Hyas",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2041821/medium.jpg"
   },
   {
     "slug": "balanus-balanus",
@@ -1057,7 +1493,11 @@
     "familyCommonName": "Balanidae",
     "genus": "Balanus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/574815107/medium.jpg"
   },
   {
     "slug": "tubicolixa-chaetopterana",
@@ -1067,7 +1507,11 @@
     "familyCommonName": "Bivalve Pea Crabs",
     "genus": "Tubicolixa",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/484348/medium.jpg"
   },
   {
     "slug": "cyathura-polita",
@@ -1077,7 +1521,11 @@
     "familyCommonName": "Anthuridae",
     "genus": "Cyathura",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110018471/medium.jpg"
   },
   {
     "slug": "platyarthrus-hoffmannseggii",
@@ -1087,7 +1535,11 @@
     "familyCommonName": "Platyarthrid Woodlice",
     "genus": "Platyarthrus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/551561511/medium.jpg"
   },
   {
     "slug": "latreutes-fucorum",
@@ -1097,7 +1549,11 @@
     "familyCommonName": "Hump-backed Shrimps",
     "genus": "Latreutes",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120451972/medium.jpg"
   },
   {
     "slug": "caprella-penantis",
@@ -1107,7 +1563,11 @@
     "familyCommonName": "Skeleton Shrimp",
     "genus": "Caprella",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/399565430/medium.jpg"
   },
   {
     "slug": "hyperia-galba",
@@ -1117,7 +1577,11 @@
     "familyCommonName": "Hyperiidae",
     "genus": "Hyperia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156612407/medium.jpeg"
   },
   {
     "slug": "gilvossius-setimanus",
@@ -1127,7 +1591,11 @@
     "familyCommonName": "Ghost Shrimps",
     "genus": "Gilvossius",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119686783/medium.jpg"
   },
   {
     "slug": "macrocyclops-albidus",
@@ -1137,7 +1605,11 @@
     "familyCommonName": "Cyclopidae",
     "genus": "Macrocyclops",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/75923235/medium.jpeg"
   },
   {
     "slug": "livoneca-ovalis",
@@ -1147,7 +1619,11 @@
     "familyCommonName": "Fish Isopods",
     "genus": "Livoneca",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9875141/medium.jpeg"
   },
   {
     "slug": "pandalus-montagui",
@@ -1157,7 +1633,14 @@
     "familyCommonName": "Pandalid Shrimp",
     "genus": "Pandalus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Striped shrimp"
+    ],
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/59055900/medium.jpeg"
   },
   {
     "slug": "dichelopandalus-leptocerus",
@@ -1167,7 +1650,11 @@
     "familyCommonName": "Pandalid Shrimp",
     "genus": "Dichelopandalus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/38909022/medium.jpeg"
   },
   {
     "slug": "lebbeus-groenlandicus",
@@ -1177,7 +1664,11 @@
     "familyCommonName": "Thoridae",
     "genus": "Lebbeus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128951887/medium.jpg"
   },
   {
     "slug": "macrocyclops-fuscus",
@@ -1187,7 +1678,11 @@
     "familyCommonName": "Cyclopidae",
     "genus": "Macrocyclops",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/379052623/medium.jpeg"
   },
   {
     "slug": "ptilohyale-plumulosus",
@@ -1197,7 +1692,11 @@
     "familyCommonName": "Hyalidae",
     "genus": "Ptilohyale",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119687701/medium.jpg"
   },
   {
     "slug": "faxonius-obscurus",
@@ -1207,7 +1706,11 @@
     "familyCommonName": "Cambarid Crayfishes",
     "genus": "Faxonius",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/419707032/medium.jpeg"
   },
   {
     "slug": "penaeus-aztecus",
@@ -1217,7 +1720,17 @@
     "familyCommonName": "Penaeid Prawns",
     "genus": "Penaeus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Brown Shrimp",
+      "Golden Shrimp",
+      "Red Shrimp",
+      "Redtail Shrimp"
+    ],
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/62084175/medium.jpg"
   },
   {
     "slug": "attheyella-nordenskioldii",
@@ -1227,7 +1740,11 @@
     "familyCommonName": "Canthocamptidae",
     "genus": "Attheyella",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/69918278/medium.jpg"
   },
   {
     "slug": "achelous-gibbesii",
@@ -1237,7 +1754,11 @@
     "familyCommonName": "Swimming Crabs",
     "genus": "Achelous",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120455704/medium.jpg"
   },
   {
     "slug": "diacyclops-haueri",
@@ -1247,7 +1768,11 @@
     "familyCommonName": "Cyclopidae",
     "genus": "Diacyclops",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/265561738/medium.jpeg"
   },
   {
     "slug": "eucyclops-pectinifer",
@@ -1257,7 +1782,11 @@
     "familyCommonName": "Cyclopidae",
     "genus": "Eucyclops",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/379895437/medium.jpg"
   },
   {
     "slug": "amphibalanus-amphitrite",
@@ -1267,7 +1796,14 @@
     "familyCommonName": "Balanidae",
     "genus": "Amphibalanus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Salton Sea barnacle"
+    ],
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/213198976/medium.jpeg"
   },
   {
     "slug": "acroperus-harpae",
@@ -1277,7 +1813,11 @@
     "familyCommonName": "Chydoridae",
     "genus": "Acroperus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53113213/medium.jpg"
   },
   {
     "slug": "crangonyx-aberrans",
@@ -1287,7 +1827,11 @@
     "familyCommonName": "Crangonyctidae",
     "genus": "Crangonyx",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/64286757/medium.jpg"
   },
   {
     "slug": "eubranchipus-holmanii",
@@ -1297,7 +1841,11 @@
     "familyCommonName": "Chirocephalidae",
     "genus": "Eubranchipus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/360451643/medium.jpg"
   },
   {
     "slug": "cyamus-boopis",
@@ -1307,7 +1855,11 @@
     "familyCommonName": "Whale Lice",
     "genus": "Cyamus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/81415659/medium.jpg"
   },
   {
     "slug": "erichsonella-attenuata",
@@ -1317,7 +1869,11 @@
     "familyCommonName": "Common Valvetails",
     "genus": "Erichsonella",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/120451617/medium.jpg"
   },
   {
     "slug": "pinnotheres-pisum",
@@ -1327,7 +1883,11 @@
     "familyCommonName": "Bivalve Pea Crabs",
     "genus": "Pinnotheres",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55414920/medium.jpg"
   },
   {
     "slug": "synidotea-laticauda",
@@ -1337,7 +1897,11 @@
     "familyCommonName": "Common Valvetails",
     "genus": "Synidotea",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/119685757/medium.jpg"
   },
   {
     "slug": "zaops-ostreum",
@@ -1347,7 +1911,11 @@
     "familyCommonName": "Bivalve Pea Crabs",
     "genus": "Zaops",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43522176/medium.jpeg"
   },
   {
     "slug": "pandalus-borealis",
@@ -1357,7 +1925,14 @@
     "familyCommonName": "Pandalid Shrimp",
     "genus": "Pandalus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "sweet shrimp"
+    ],
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32534391/medium.jpg"
   },
   {
     "slug": "nagurus-cristatus",
@@ -1367,7 +1942,11 @@
     "familyCommonName": "Trachelipodid Woodlice",
     "genus": "Nagurus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/24819059/medium.jpg"
   },
   {
     "slug": "eualus-gaimardii",
@@ -1377,7 +1956,11 @@
     "familyCommonName": "Thoridae",
     "genus": "Eualus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/297128351/medium.jpg"
   },
   {
     "slug": "chaceon-quinquedens",
@@ -1387,7 +1970,11 @@
     "familyCommonName": "Geryonidae",
     "genus": "Chaceon",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/243655826/medium.jpg"
   },
   {
     "slug": "simocephalus-exspinosus",
@@ -1397,7 +1984,11 @@
     "familyCommonName": "Daphniidae",
     "genus": "Simocephalus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/81998623/medium.jpg"
   },
   {
     "slug": "picripleuroxus-denticulatus",
@@ -1407,7 +1998,11 @@
     "familyCommonName": "Chydoridae",
     "genus": "Picripleuroxus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/118849997/medium.jpg"
   },
   {
     "slug": "paracyclops-poppei",
@@ -1417,7 +2012,11 @@
     "familyCommonName": "Cyclopidae",
     "genus": "Paracyclops",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/559559089/medium.jpg"
   },
   {
     "slug": "eurycercus-longirostris",
@@ -1427,7 +2026,11 @@
     "familyCommonName": "Eurycercidae",
     "genus": "Eurycercus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/118631923/medium.jpg"
   },
   {
     "slug": "mysis-stenolepis",
@@ -1437,7 +2040,11 @@
     "familyCommonName": "Mysidae",
     "genus": "Mysis",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/435589193/medium.jpeg"
   },
   {
     "slug": "lepas-indica",
@@ -1447,7 +2054,11 @@
     "familyCommonName": "Goose Barnacles",
     "genus": "Lepas",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53790556/medium.jpg"
   },
   {
     "slug": "aglaodiaptomus-spatulocrenatus",
@@ -1457,7 +2068,11 @@
     "familyCommonName": "Diaptomidae",
     "genus": "Aglaodiaptomus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/389668574/medium.jpg"
   },
   {
     "slug": "daphnia-mendotae",
@@ -1467,7 +2082,11 @@
     "familyCommonName": "Daphniidae",
     "genus": "Daphnia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/389525636/medium.jpg"
   },
   {
     "slug": "palaemon-pugio",
@@ -1477,7 +2096,11 @@
     "familyCommonName": "palaemonid shrimps",
     "genus": "Palaemon",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/426784425/medium.jpeg"
   },
   {
     "slug": "nerocila-lanceolata",
@@ -1487,7 +2110,11 @@
     "familyCommonName": "Fish Isopods",
     "genus": "Nerocila",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/44054033/medium.jpg"
   },
   {
     "slug": "uhlorchestia-spartinophila",
@@ -1497,7 +2124,11 @@
     "familyCommonName": "Uhlorchestiidae",
     "genus": "Uhlorchestia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/206021552/medium.jpeg"
   },
   {
     "slug": "jaera-posthirsuta",
@@ -1507,7 +2138,11 @@
     "familyCommonName": "Janiridae",
     "genus": "Jaera",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/268245892/medium.jpeg"
   },
   {
     "slug": "canthocamptus-sinuus",
@@ -1517,7 +2152,11 @@
     "familyCommonName": "Canthocamptidae",
     "genus": "Canthocamptus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/372267105/medium.jpeg"
   },
   {
     "slug": "corophium-volutator",
@@ -1527,7 +2166,11 @@
     "familyCommonName": "Corophiidae",
     "genus": "Corophium",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34667358/medium.jpeg"
   },
   {
     "slug": "apohyale-prevostii",
@@ -1537,7 +2180,11 @@
     "familyCommonName": "Hyalidae",
     "genus": "Apohyale",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11523773/medium.jpg"
   },
   {
     "slug": "probopyrus-pandalicola",
@@ -1547,7 +2194,11 @@
     "familyCommonName": "Decapod Ectoparasitic Isopods",
     "genus": "Probopyrus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/189302792/medium.jpg"
   },
   {
     "slug": "ligia-exotica",
@@ -1557,7 +2208,11 @@
     "familyCommonName": "Rock Lice, Sea Slaters, and Allies",
     "genus": "Ligia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/291914858/medium.jpeg"
   },
   {
     "slug": "lynceus-brachyurus",
@@ -1567,7 +2222,11 @@
     "familyCommonName": "Lynceidae",
     "genus": "Lynceus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177966045/medium.jpeg"
   },
   {
     "slug": "balanus-trigonus",
@@ -1577,7 +2236,11 @@
     "familyCommonName": "Balanidae",
     "genus": "Balanus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/58328807/medium.jpg"
   },
   {
     "slug": "bythotrephes-longimanus",
@@ -1587,7 +2250,11 @@
     "familyCommonName": "Cercopagididae",
     "genus": "Bythotrephes",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/53114751/medium.jpg"
   },
   {
     "slug": "daphnia-pulex",
@@ -1597,7 +2264,11 @@
     "familyCommonName": "Daphniidae",
     "genus": "Daphnia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48204474/medium.jpg"
   },
   {
     "slug": "evadne-nordmanni",
@@ -1607,7 +2278,11 @@
     "familyCommonName": "Podonidae",
     "genus": "Evadne",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34125773/medium.jpg"
   },
   {
     "slug": "crangonyx-richmondensis",
@@ -1617,7 +2292,11 @@
     "familyCommonName": "Crangonyctidae",
     "genus": "Crangonyx",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8807283/medium.jpg"
   },
   {
     "slug": "simocephalus-serrulatus",
@@ -1627,7 +2306,11 @@
     "familyCommonName": "Daphniidae",
     "genus": "Simocephalus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/250393716/medium.jpg"
   },
   {
     "slug": "lysiosquilla-scabricauda",
@@ -1637,7 +2320,11 @@
     "familyCommonName": "Banded mantis shrimps",
     "genus": "Lysiosquilla",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/190951804/medium.jpg"
   },
   {
     "slug": "phronima-sedentaria",
@@ -1647,7 +2334,11 @@
     "familyCommonName": "Phronimidae",
     "genus": "Phronima",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11249629/medium.jpg"
   },
   {
     "slug": "callinectes-similis",
@@ -1657,7 +2348,11 @@
     "familyCommonName": "Swimming Crabs",
     "genus": "Callinectes",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135243251/medium.jpg"
   },
   {
     "slug": "hexapanopeus-angustifrons",
@@ -1667,7 +2362,11 @@
     "familyCommonName": "Mud Crabs",
     "genus": "Hexapanopeus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10902593/medium.jpeg"
   },
   {
     "slug": "pseudocalanus-elongatus",
@@ -1677,7 +2376,11 @@
     "familyCommonName": "Clausocalanidae",
     "genus": "Pseudocalanus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2635684/medium.jpg"
   },
   {
     "slug": "ampithoe-valida",
@@ -1687,7 +2390,11 @@
     "familyCommonName": "Ampithoidae",
     "genus": "Ampithoe",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/126325481/medium.png"
   },
   {
     "slug": "sphaeroma-quadridentatum",
@@ -1697,7 +2404,11 @@
     "familyCommonName": "Typical Seapills",
     "genus": "Sphaeroma",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8223803/medium.jpg"
   },
   {
     "slug": "ancinus-depressus",
@@ -1707,7 +2418,11 @@
     "familyCommonName": "Spikepills",
     "genus": "Ancinus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/494774540/medium.jpg"
   },
   {
     "slug": "lithodes-maja",
@@ -1717,7 +2432,16 @@
     "familyCommonName": "King Crabs",
     "genus": "Lithodes",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Deepsea King Crab",
+      "Stone King Crab",
+      "Northern stone crab"
+    ],
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6245963/medium.jpg"
   },
   {
     "slug": "trichoniscus-pygmaeus",
@@ -1727,7 +2451,11 @@
     "familyCommonName": "Trichoniscidae",
     "genus": "Trichoniscus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/293337285/medium.jpeg"
   },
   {
     "slug": "amphibalanus-subalbidus",
@@ -1737,7 +2465,11 @@
     "familyCommonName": "Balanidae",
     "genus": "Amphibalanus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31025046/medium.jpg"
   },
   {
     "slug": "cyamus-ovalis",
@@ -1747,7 +2479,11 @@
     "familyCommonName": "Whale Lice",
     "genus": "Cyamus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/88686174/medium.jpg"
   },
   {
     "slug": "faxonius-neglectus",
@@ -1757,7 +2493,11 @@
     "familyCommonName": "Cambarid Crayfishes",
     "genus": "Faxonius",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/29150144/medium.jpg"
   },
   {
     "slug": "faxonius-quinebaugensis",
@@ -1767,7 +2507,11 @@
     "familyCommonName": "Cambarid Crayfishes",
     "genus": "Faxonius",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/94840430/medium.jpeg"
   },
   {
     "slug": "palaemon-mundusnovus",
@@ -1777,7 +2521,11 @@
     "familyCommonName": "palaemonid shrimps",
     "genus": "Palaemon",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/153513214/medium.jpg"
   },
   {
     "slug": "penaeus-setiferus",
@@ -1787,7 +2535,25 @@
     "familyCommonName": "Penaeid Prawns",
     "genus": "Penaeus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "White Shrimp",
+      "Green-tailed Shrimp",
+      "Blue-tailed Shrimp",
+      "Rainbow Shrimp",
+      "Mayport Shrimp",
+      "Common Shrimp",
+      "Southern Shrimp",
+      "Gray Shrimp",
+      "Lake Shrimp",
+      "Green Shrimp",
+      "Daytona Shrimp",
+      "Atlantic White Shrimp"
+    ],
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43966917/medium.jpg"
   },
   {
     "slug": "olencira-praegustator",
@@ -1797,7 +2563,11 @@
     "familyCommonName": "Fish Isopods",
     "genus": "Olencira",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/368145863/medium.jpg"
   },
   {
     "slug": "chiridotea-tuftsii",
@@ -1807,7 +2577,11 @@
     "familyCommonName": "Chaetiliidae",
     "genus": "Chiridotea",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/184095100/medium.jpeg"
   },
   {
     "slug": "derocheilocaris-typica",
@@ -1817,7 +2591,11 @@
     "familyCommonName": "Derocheilocarididae",
     "genus": "Derocheilocaris",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/232307624/medium.jpg"
   },
   {
     "slug": "scapholeberis-rammneri",
@@ -1827,7 +2605,11 @@
     "familyCommonName": "Daphniidae",
     "genus": "Scapholeberis",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/133510899/medium.jpg"
   },
   {
     "slug": "bryocamptus-hutchinsoni",
@@ -1837,7 +2619,11 @@
     "familyCommonName": "Canthocamptidae",
     "genus": "Bryocamptus",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/265600604/medium.jpeg"
   },
   {
     "slug": "naushonia-crangonoides",
@@ -1847,7 +2633,11 @@
     "familyCommonName": "Laomediidae",
     "genus": "Naushonia",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/337029022/medium.jpg"
   },
   {
     "slug": "rhepoxynius-hudsoni",
@@ -1857,7 +2647,11 @@
     "familyCommonName": "Phoxocephalidae",
     "genus": "Rhepoxynius",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/404866550/medium.jpg"
   },
   {
     "slug": "parahaustorius-longimerus",
@@ -1867,7 +2661,10 @@
     "familyCommonName": "Haustoriidae",
     "genus": "Parahaustorius",
     "group": "crustaceans",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false
   },
   {
     "slug": "explore/green-crabs",

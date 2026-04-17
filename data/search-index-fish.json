@@ -7,7 +7,18 @@
     "familyCommonName": "Freshwater Sunfishes",
     "genus": "Lepomis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Bluegill Sunfish",
+      "Bream",
+      "Gill",
+      "Bull",
+      "Copperbelly"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/38699115/medium.jpg"
   },
   {
     "slug": "micropterus-nigricans",
@@ -17,7 +28,15 @@
     "familyCommonName": "Freshwater Sunfishes",
     "genus": "Micropterus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Northern Largemouth Bass",
+      "Large-mouth Black Bass"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32058892/medium.jpeg"
   },
   {
     "slug": "lepomis-gibbosus",
@@ -27,7 +46,11 @@
     "familyCommonName": "Freshwater Sunfishes",
     "genus": "Lepomis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244776119/medium.jpg"
   },
   {
     "slug": "salvelinus-fontinalis",
@@ -37,7 +60,11 @@
     "familyCommonName": "Salmons, Trouts, and Whitefishes",
     "genus": "Salvelinus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/434894902/medium.jpg"
   },
   {
     "slug": "perca-flavescens",
@@ -47,7 +74,11 @@
     "familyCommonName": "Perches, Darters, and allies",
     "genus": "Perca",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/441018034/medium.jpeg"
   },
   {
     "slug": "micropterus-dolomieu",
@@ -57,7 +88,11 @@
     "familyCommonName": "Freshwater Sunfishes",
     "genus": "Micropterus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/345829266/medium.jpeg"
   },
   {
     "slug": "morone-saxatilis",
@@ -67,7 +102,11 @@
     "familyCommonName": "Temperate Basses",
     "genus": "Morone",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/40897568/medium.jpeg"
   },
   {
     "slug": "fundulus-heteroclitus",
@@ -77,7 +116,11 @@
     "familyCommonName": "Topminnows",
     "genus": "Fundulus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21705657/medium.jpg"
   },
   {
     "slug": "esox-niger",
@@ -87,7 +130,11 @@
     "familyCommonName": "Pikes",
     "genus": "Esox",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55201972/medium.jpg"
   },
   {
     "slug": "pholis-gunnellus",
@@ -97,7 +144,11 @@
     "familyCommonName": "Gunnels",
     "genus": "Pholis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11399826/medium.jpeg"
   },
   {
     "slug": "brevoortia-tyrannus",
@@ -107,7 +158,11 @@
     "familyCommonName": "Shads and Sardines",
     "genus": "Brevoortia",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14670459/medium.jpg"
   },
   {
     "slug": "anguilla-rostrata",
@@ -117,7 +172,11 @@
     "familyCommonName": "Freshwater Eels",
     "genus": "Anguilla",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9901094/medium.jpg"
   },
   {
     "slug": "tautogolabrus-adspersus",
@@ -127,7 +186,11 @@
     "familyCommonName": "Wrasses and Parrotfishes",
     "genus": "Tautogolabrus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3584/medium.jpg"
   },
   {
     "slug": "semotilus-corporalis",
@@ -137,7 +200,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Semotilus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/494688093/medium.jpg"
   },
   {
     "slug": "lepomis-auritus",
@@ -147,7 +214,11 @@
     "familyCommonName": "Freshwater Sunfishes",
     "genus": "Lepomis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/318959187/medium.jpeg"
   },
   {
     "slug": "rhinichthys-atratulus",
@@ -157,7 +228,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Rhinichthys",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/405833836/medium.jpeg"
   },
   {
     "slug": "stenotomus-chrysops",
@@ -167,7 +242,11 @@
     "familyCommonName": "Seabreams and Porgies",
     "genus": "Stenotomus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/179937605/medium.jpg"
   },
   {
     "slug": "centropristis-striata",
@@ -177,7 +256,11 @@
     "familyCommonName": "Sea Basses",
     "genus": "Centropristis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11662926/medium.jpg"
   },
   {
     "slug": "notemigonus-crysoleucas",
@@ -187,7 +270,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Notemigonus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/201067012/medium.jpg"
   },
   {
     "slug": "fundulus-majalis",
@@ -197,7 +284,11 @@
     "familyCommonName": "Topminnows",
     "genus": "Fundulus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22046255/medium.jpg"
   },
   {
     "slug": "fundulus-diaphanus",
@@ -207,7 +298,11 @@
     "familyCommonName": "Topminnows",
     "genus": "Fundulus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/518719842/medium.jpg"
   },
   {
     "slug": "pseudopleuronectes-americanus",
@@ -217,7 +312,11 @@
     "familyCommonName": "Righteye Flounders",
     "genus": "Pseudopleuronectes",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2176270/medium.jpg"
   },
   {
     "slug": "menidia-menidia",
@@ -227,7 +326,11 @@
     "familyCommonName": "Neotropical Silversides",
     "genus": "Menidia",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21705674/medium.jpg"
   },
   {
     "slug": "pomoxis-nigromaculatus",
@@ -237,7 +340,11 @@
     "familyCommonName": "Freshwater Sunfishes",
     "genus": "Pomoxis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/441025140/medium.jpg"
   },
   {
     "slug": "syngnathus-fuscus",
@@ -247,7 +354,11 @@
     "familyCommonName": "Pipefishes, Seahorses, and Seadragons",
     "genus": "Syngnathus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/509147265/medium.jpg"
   },
   {
     "slug": "oncorhynchus-mykiss",
@@ -257,7 +368,11 @@
     "familyCommonName": "Salmons, Trouts, and Whitefishes",
     "genus": "Oncorhynchus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/60921460/medium.jpg"
   },
   {
     "slug": "ameiurus-nebulosus",
@@ -267,7 +382,11 @@
     "familyCommonName": "North American Freshwater Catfishes",
     "genus": "Ameiurus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/38036686/medium.jpg"
   },
   {
     "slug": "mola-mola",
@@ -277,7 +396,11 @@
     "familyCommonName": "Molas",
     "genus": "Mola",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/92365360/medium.jpg"
   },
   {
     "slug": "semotilus-atromaculatus",
@@ -287,7 +410,15 @@
     "familyCommonName": "True Minnows",
     "genus": "Semotilus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Common Creek Chub",
+      "Horned dace"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/598041615/medium.jpg"
   },
   {
     "slug": "morone-americana",
@@ -297,7 +428,11 @@
     "familyCommonName": "Temperate Basses",
     "genus": "Morone",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30784164/medium.jpg"
   },
   {
     "slug": "tautoga-onitis",
@@ -307,7 +442,11 @@
     "familyCommonName": "Wrasses and Parrotfishes",
     "genus": "Tautoga",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/152948379/medium.jpg"
   },
   {
     "slug": "catostomus-commersonii",
@@ -317,7 +456,11 @@
     "familyCommonName": "Suckers",
     "genus": "Catostomus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/356965190/medium.jpeg"
   },
   {
     "slug": "cyprinus-carpio",
@@ -327,7 +470,11 @@
     "familyCommonName": "Cyprinids",
     "genus": "Cyprinus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/301455802/medium.jpg"
   },
   {
     "slug": "ambloplites-rupestris",
@@ -337,7 +484,11 @@
     "familyCommonName": "Freshwater Sunfishes",
     "genus": "Ambloplites",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/123254414/medium.jpg"
   },
   {
     "slug": "salmo-trutta",
@@ -347,7 +498,11 @@
     "familyCommonName": "Salmons, Trouts, and Whitefishes",
     "genus": "Salmo",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/139462412/medium.jpg"
   },
   {
     "slug": "scomber-scombrus",
@@ -357,7 +512,11 @@
     "familyCommonName": "Mackerels, Tunas, and Bonitos",
     "genus": "Scomber",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/462705827/medium.jpg"
   },
   {
     "slug": "luxilus-cornutus",
@@ -367,7 +526,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Luxilus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/124859379/medium.jpeg"
   },
   {
     "slug": "pomatomus-saltatrix",
@@ -377,7 +540,11 @@
     "familyCommonName": "Bluefishes",
     "genus": "Pomatomus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/437666426/medium.jpeg"
   },
   {
     "slug": "prionotus-evolans",
@@ -387,7 +554,11 @@
     "familyCommonName": "Searobins",
     "genus": "Prionotus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41235019/medium.jpg"
   },
   {
     "slug": "alosa-pseudoharengus",
@@ -397,7 +568,11 @@
     "familyCommonName": "Shads and Sardines",
     "genus": "Alosa",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/149577839/medium.jpeg"
   },
   {
     "slug": "sphoeroides-maculatus",
@@ -407,7 +582,11 @@
     "familyCommonName": "Pufferfishes",
     "genus": "Sphoeroides",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/65346027/medium.jpg"
   },
   {
     "slug": "paralichthys-dentatus",
@@ -417,7 +596,11 @@
     "familyCommonName": "Large-tooth Flounders",
     "genus": "Paralichthys",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/188156909/medium.jpg"
   },
   {
     "slug": "pollachius-virens",
@@ -427,7 +610,11 @@
     "familyCommonName": "Cods and Haddocks",
     "genus": "Pollachius",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4447734/medium.jpg"
   },
   {
     "slug": "esox-lucius",
@@ -437,7 +624,11 @@
     "familyCommonName": "Pikes",
     "genus": "Esox",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/147901078/medium.jpg"
   },
   {
     "slug": "cyprinodon-variegatus",
@@ -447,7 +638,11 @@
     "familyCommonName": "Pupfishes",
     "genus": "Cyprinodon",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21906298/medium.jpg"
   },
   {
     "slug": "carassius-auratus",
@@ -457,7 +652,11 @@
     "familyCommonName": "Cyprinids",
     "genus": "Carassius",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/5478398/medium.jpg"
   },
   {
     "slug": "apeltes-quadracus",
@@ -467,7 +666,11 @@
     "familyCommonName": "Sticklebacks",
     "genus": "Apeltes",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/575657416/medium.jpg"
   },
   {
     "slug": "hemitripterus-americanus",
@@ -477,7 +680,11 @@
     "familyCommonName": "Sea Ravens",
     "genus": "Hemitripterus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31501609/medium.jpg"
   },
   {
     "slug": "clupea-harengus",
@@ -487,7 +694,11 @@
     "familyCommonName": "Herrings and Sprats",
     "genus": "Clupea",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/219820607/medium.jpeg"
   },
   {
     "slug": "esox-americanus",
@@ -497,7 +708,11 @@
     "familyCommonName": "Pikes",
     "genus": "Esox",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/240115630/medium.jpg"
   },
   {
     "slug": "etheostoma-olmstedi",
@@ -507,7 +722,11 @@
     "familyCommonName": "Perches, Darters, and allies",
     "genus": "Etheostoma",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/594202741/medium.jpg"
   },
   {
     "slug": "salmo-salar",
@@ -517,7 +736,11 @@
     "familyCommonName": "Salmons, Trouts, and Whitefishes",
     "genus": "Salmo",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/477230107/medium.jpeg"
   },
   {
     "slug": "cottus-cognatus",
@@ -527,7 +750,11 @@
     "familyCommonName": "Typical Sculpins",
     "genus": "Cottus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/261120835/medium.jpg"
   },
   {
     "slug": "gasterosteus-aculeatus",
@@ -537,7 +764,11 @@
     "familyCommonName": "Sticklebacks",
     "genus": "Gasterosteus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244775846/medium.jpg"
   },
   {
     "slug": "prionotus-carolinus",
@@ -547,7 +778,11 @@
     "familyCommonName": "Searobins",
     "genus": "Prionotus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/139521237/medium.jpg"
   },
   {
     "slug": "menticirrhus-saxatilis",
@@ -557,7 +792,11 @@
     "familyCommonName": "Drums",
     "genus": "Menticirrhus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22919772/medium.jpg"
   },
   {
     "slug": "ameiurus-natalis",
@@ -567,7 +806,11 @@
     "familyCommonName": "North American Freshwater Catfishes",
     "genus": "Ameiurus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32059041/medium.jpeg"
   },
   {
     "slug": "scophthalmus-aquosus",
@@ -577,7 +820,11 @@
     "familyCommonName": "Turbots",
     "genus": "Scophthalmus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5568679/medium.jpg"
   },
   {
     "slug": "cyclopterus-lumpus",
@@ -587,7 +834,11 @@
     "familyCommonName": "Lumpfishes",
     "genus": "Cyclopterus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/557142616/medium.jpg"
   },
   {
     "slug": "gadus-morhua",
@@ -597,7 +848,11 @@
     "familyCommonName": "Cods and Haddocks",
     "genus": "Gadus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/85579323/medium.jpg"
   },
   {
     "slug": "salvelinus-namaycush",
@@ -607,7 +862,11 @@
     "familyCommonName": "Salmons, Trouts, and Whitefishes",
     "genus": "Salvelinus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/164492532/medium.jpg"
   },
   {
     "slug": "pristigenys-alta",
@@ -617,7 +876,11 @@
     "familyCommonName": "Bigeyes",
     "genus": "Pristigenys",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2862292/medium.jpg"
   },
   {
     "slug": "lucania-parva",
@@ -627,7 +890,11 @@
     "familyCommonName": "Topminnows",
     "genus": "Lucania",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/32479718/medium.jpg"
   },
   {
     "slug": "myoxocephalus-scorpius",
@@ -637,7 +904,11 @@
     "familyCommonName": "Fathead Sculpins",
     "genus": "Myoxocephalus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/20226/medium.jpg"
   },
   {
     "slug": "strongylura-marina",
@@ -647,7 +918,22 @@
     "familyCommonName": "Needlefishes",
     "genus": "Strongylura",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Harvest pike",
+      "Northern needlefish",
+      "Green gar",
+      "Saltwater gar",
+      "Silver gar",
+      "Silvery gar",
+      "Bluebone",
+      "Agujon",
+      "Billfish"
+    ],
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22010883/medium.jpg"
   },
   {
     "slug": "lepomis-cyanellus",
@@ -657,7 +943,11 @@
     "familyCommonName": "Freshwater Sunfishes",
     "genus": "Lepomis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32059001/medium.jpeg"
   },
   {
     "slug": "opsanus-tau",
@@ -667,7 +957,11 @@
     "familyCommonName": "Toadfishes",
     "genus": "Opsanus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/156065863/medium.jpeg"
   },
   {
     "slug": "rhinichthys-cataractae",
@@ -677,7 +971,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Rhinichthys",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106024251/medium.jpeg"
   },
   {
     "slug": "selene-setapinnis",
@@ -687,7 +985,11 @@
     "familyCommonName": "Jacks",
     "genus": "Selene",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/502861027/medium.jpg"
   },
   {
     "slug": "microgadus-tomcod",
@@ -697,7 +999,11 @@
     "familyCommonName": "Cods and Haddocks",
     "genus": "Microgadus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32046155/medium.jpg"
   },
   {
     "slug": "chaetodon-ocellatus",
@@ -707,7 +1013,11 @@
     "familyCommonName": "Butterflyfishes",
     "genus": "Chaetodon",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/27489615/medium.jpg"
   },
   {
     "slug": "amia-ocellicauda",
@@ -717,7 +1027,11 @@
     "familyCommonName": "Bowfins",
     "genus": "Amia",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/313229547/medium.jpeg"
   },
   {
     "slug": "sarda-sarda",
@@ -727,7 +1041,11 @@
     "familyCommonName": "Mackerels, Tunas, and Bonitos",
     "genus": "Sarda",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/167226627/medium.jpeg"
   },
   {
     "slug": "peprilus-triacanthus",
@@ -737,7 +1055,11 @@
     "familyCommonName": "Butterfishes",
     "genus": "Peprilus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/127278109/medium.jpg"
   },
   {
     "slug": "alosa-sapidissima",
@@ -747,7 +1069,11 @@
     "familyCommonName": "Shads and Sardines",
     "genus": "Alosa",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/257223224/medium.jpg"
   },
   {
     "slug": "ictalurus-punctatus",
@@ -757,7 +1083,18 @@
     "familyCommonName": "North American Freshwater Catfishes",
     "genus": "Ictalurus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Channel Cat",
+      "Spotted Catfish",
+      "Speckled Catfish",
+      "Silver Catfish",
+      "Graceful catfish"
+    ],
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/455557089/medium.jpeg"
   },
   {
     "slug": "liparis-atlanticus",
@@ -767,7 +1104,11 @@
     "familyCommonName": "Snailfishes",
     "genus": "Liparis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32046011/medium.jpg"
   },
   {
     "slug": "osmerus-mordax",
@@ -777,7 +1118,11 @@
     "familyCommonName": "Smelts",
     "genus": "Osmerus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/352409483/medium.jpeg"
   },
   {
     "slug": "enneacanthus-obesus",
@@ -787,7 +1132,11 @@
     "familyCommonName": "Freshwater Sunfishes",
     "genus": "Enneacanthus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/548633399/medium.jpg"
   },
   {
     "slug": "balistes-capriscus",
@@ -797,7 +1146,11 @@
     "familyCommonName": "Triggerfishes",
     "genus": "Balistes",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/280000513/medium.jpeg"
   },
   {
     "slug": "aplodinotus-grunniens",
@@ -807,7 +1160,11 @@
     "familyCommonName": "Drums",
     "genus": "Aplodinotus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/387434401/medium.jpeg"
   },
   {
     "slug": "sphyraena-borealis",
@@ -817,7 +1174,11 @@
     "familyCommonName": "Barracudas",
     "genus": "Sphyraena",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/443517984/medium.jpg"
   },
   {
     "slug": "pungitius-pungitius",
@@ -827,7 +1188,11 @@
     "familyCommonName": "Sticklebacks",
     "genus": "Pungitius",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21964688/medium.jpg"
   },
   {
     "slug": "hippocampus-erectus",
@@ -837,7 +1202,11 @@
     "familyCommonName": "Pipefishes, Seahorses, and Seadragons",
     "genus": "Hippocampus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8837860/medium.jpg"
   },
   {
     "slug": "cyprinus-rubrofuscus",
@@ -847,7 +1216,11 @@
     "familyCommonName": "Cyprinids",
     "genus": "Cyprinus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/63009498/medium.jpg"
   },
   {
     "slug": "myoxocephalus-octodecemspinosus",
@@ -857,7 +1230,33 @@
     "familyCommonName": "Fathead Sculpins",
     "genus": "Myoxocephalus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Rubbish",
+      "Sea raven",
+      "18-spined sculpin",
+      "Goat sculpin",
+      "Gray sculpin",
+      "Guffy",
+      "Long-spined sculpin",
+      "Muddler",
+      "Bullhead",
+      "Cabezon",
+      "Pig-fish",
+      "Plug eye",
+      "Scolping",
+      "Scopin",
+      "Scully",
+      "Scopy",
+      "Scummy",
+      "Scumpy",
+      "Long-horned Sculpin",
+      "Long horn Sculpin"
+    ],
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/149994910/medium.jpeg"
   },
   {
     "slug": "sebastes-fasciatus",
@@ -867,7 +1266,11 @@
     "familyCommonName": "Scorpionfishes",
     "genus": "Sebastes",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/114997078/medium.jpeg"
   },
   {
     "slug": "ammodytes-americanus",
@@ -877,7 +1280,11 @@
     "familyCommonName": "Sand Lances",
     "genus": "Ammodytes",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/379594574/medium.jpg"
   },
   {
     "slug": "trachinotus-falcatus",
@@ -887,7 +1294,11 @@
     "familyCommonName": "Jacks",
     "genus": "Trachinotus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/229031488/medium.jpg"
   },
   {
     "slug": "chrosomus-eos",
@@ -897,7 +1308,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Chrosomus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/443298399/medium.jpg"
   },
   {
     "slug": "pimephales-promelas",
@@ -907,7 +1322,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Pimephales",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/186166138/medium.jpg"
   },
   {
     "slug": "myoxocephalus-aenaeus",
@@ -917,7 +1336,11 @@
     "familyCommonName": "Fathead Sculpins",
     "genus": "Myoxocephalus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237216411/medium.jpg"
   },
   {
     "slug": "merluccius-bilinearis",
@@ -927,7 +1350,11 @@
     "familyCommonName": "Merlucciid Hakes",
     "genus": "Merluccius",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30754051/medium.jpeg"
   },
   {
     "slug": "caranx-hippos",
@@ -937,7 +1364,11 @@
     "familyCommonName": "Jacks",
     "genus": "Caranx",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/202536306/medium.jpg"
   },
   {
     "slug": "gobiosoma-ginsburgi",
@@ -947,7 +1378,11 @@
     "familyCommonName": "Gobies",
     "genus": "Gobiosoma",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/218853550/medium.jpg"
   },
   {
     "slug": "lophius-americanus",
@@ -957,7 +1392,11 @@
     "familyCommonName": "Goosefishes",
     "genus": "Lophius",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/453591388/medium.jpeg"
   },
   {
     "slug": "ulvaria-subbifurcata",
@@ -967,7 +1406,11 @@
     "familyCommonName": "Pricklebacks",
     "genus": "Ulvaria",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/219108789/medium.jpeg"
   },
   {
     "slug": "etheostoma-fusiforme",
@@ -977,7 +1420,11 @@
     "familyCommonName": "Perches, Darters, and allies",
     "genus": "Etheostoma",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/592082676/medium.jpg"
   },
   {
     "slug": "umbra-limi",
@@ -987,7 +1434,11 @@
     "familyCommonName": "Mudminnows",
     "genus": "Umbra",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32059117/medium.jpeg"
   },
   {
     "slug": "thunnus-thynnus",
@@ -997,7 +1448,11 @@
     "familyCommonName": "Mackerels, Tunas, and Bonitos",
     "genus": "Thunnus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/161933338/medium.jpeg"
   },
   {
     "slug": "melanogrammus-aeglefinus",
@@ -1007,7 +1462,11 @@
     "familyCommonName": "Cods and Haddocks",
     "genus": "Melanogrammus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/349660/medium.jpeg"
   },
   {
     "slug": "acipenser-oxyrinchus",
@@ -1017,7 +1476,11 @@
     "familyCommonName": "Sturgeons",
     "genus": "Acipenser",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52352837/medium.jpg"
   },
   {
     "slug": "ameiurus-catus",
@@ -1027,7 +1490,11 @@
     "familyCommonName": "North American Freshwater Catfishes",
     "genus": "Ameiurus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67823228/medium.jpg"
   },
   {
     "slug": "seriola-zonata",
@@ -1037,7 +1504,11 @@
     "familyCommonName": "Jacks",
     "genus": "Seriola",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/413946333/medium.jpg"
   },
   {
     "slug": "couesius-plumbeus",
@@ -1047,7 +1518,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Couesius",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10158575/medium.jpg"
   },
   {
     "slug": "fistularia-tabacaria",
@@ -1057,7 +1532,11 @@
     "familyCommonName": "Cornetfishes",
     "genus": "Fistularia",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/319081369/medium.jpg"
   },
   {
     "slug": "alosa-mediocris",
@@ -1067,7 +1546,11 @@
     "familyCommonName": "Shads and Sardines",
     "genus": "Alosa",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/178459787/medium.jpg"
   },
   {
     "slug": "leiostomus-xanthurus",
@@ -1077,7 +1560,11 @@
     "familyCommonName": "Drums",
     "genus": "Leiostomus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/341654354/medium.jpg"
   },
   {
     "slug": "sander-vitreus",
@@ -1087,7 +1574,11 @@
     "familyCommonName": "Perches, Darters, and allies",
     "genus": "Sander",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1379500/medium.jpg"
   },
   {
     "slug": "cottus-immaculatus",
@@ -1097,7 +1588,11 @@
     "familyCommonName": "Typical Sculpins",
     "genus": "Cottus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6218931/medium.jpeg"
   },
   {
     "slug": "dorosoma-cepedianum",
@@ -1107,7 +1602,24 @@
     "familyCommonName": "Thread Herrings, Gizzard Shads, and Sardinellas",
     "genus": "Dorosoma",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Gizzard Shad",
+      "Hickory Shad",
+      "Mud Shad",
+      "Jack Shad",
+      "Skipjack",
+      "Eastern gizzard shad",
+      "Gizzard mud",
+      "Gizzard nanny shad",
+      "Gizzard winter shad",
+      "Nanny shad",
+      "Winter shad"
+    ],
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/558027483/medium.jpg"
   },
   {
     "slug": "gobiesox-strumosus",
@@ -1117,7 +1629,11 @@
     "familyCommonName": "Clingfishes",
     "genus": "Gobiesox",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/161437456/medium.jpeg"
   },
   {
     "slug": "euthynnus-alletteratus",
@@ -1127,7 +1643,11 @@
     "familyCommonName": "Mackerels, Tunas, and Bonitos",
     "genus": "Euthynnus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/163421883/medium.jpg"
   },
   {
     "slug": "cynoscion-regalis",
@@ -1137,7 +1657,11 @@
     "familyCommonName": "Drums",
     "genus": "Cynoscion",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43473846/medium.jpg"
   },
   {
     "slug": "maurolicus-weitzmani",
@@ -1147,7 +1671,11 @@
     "familyCommonName": "Marine Hatchetfishes",
     "genus": "Maurolicus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/459957510/medium.jpeg"
   },
   {
     "slug": "lota-lota",
@@ -1157,7 +1685,11 @@
     "familyCommonName": "Hakes and Burbots",
     "genus": "Lota",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/179566720/medium.jpg"
   },
   {
     "slug": "zoarces-americanus",
@@ -1167,7 +1699,11 @@
     "familyCommonName": "Eelpouts",
     "genus": "Zoarces",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/154659602/medium.jpg"
   },
   {
     "slug": "hudsonius-hudsonius",
@@ -1177,7 +1713,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Hudsonius",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/485847596/medium.jpg"
   },
   {
     "slug": "sphoeroides-spengleri",
@@ -1187,7 +1727,11 @@
     "familyCommonName": "Pufferfishes",
     "genus": "Sphoeroides",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/119530289/medium.jpg"
   },
   {
     "slug": "chilomycterus-schoepfii",
@@ -1197,7 +1741,11 @@
     "familyCommonName": "Porcupinefishes",
     "genus": "Chilomycterus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176704728/medium.jpg"
   },
   {
     "slug": "lepisosteus-osseus",
@@ -1207,7 +1755,11 @@
     "familyCommonName": "Gars",
     "genus": "Lepisosteus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207600847/medium.jpeg"
   },
   {
     "slug": "pimephales-notatus",
@@ -1217,7 +1769,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Pimephales",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/195490015/medium.jpg"
   },
   {
     "slug": "erimyzon-oblongus",
@@ -1227,7 +1783,11 @@
     "familyCommonName": "Suckers",
     "genus": "Erimyzon",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106176688/medium.jpg"
   },
   {
     "slug": "catostomus-catostomus",
@@ -1237,7 +1797,15 @@
     "familyCommonName": "Suckers",
     "genus": "Catostomus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Red Sucker",
+      "Redside Sucker"
+    ],
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/390499010/medium.jpeg"
   },
   {
     "slug": "hyporthodus-niveatus",
@@ -1247,7 +1815,11 @@
     "familyCommonName": "Groupers",
     "genus": "Hyporthodus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/132005/medium.jpg"
   },
   {
     "slug": "scomberesox-saurus",
@@ -1257,7 +1829,11 @@
     "familyCommonName": "Sauries",
     "genus": "Scomberesox",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/174812903/medium.jpg"
   },
   {
     "slug": "ophidion-marginatum",
@@ -1267,7 +1843,11 @@
     "familyCommonName": "Cusk-eels",
     "genus": "Ophidion",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/307648096/medium.jpeg"
   },
   {
     "slug": "synodus-foetens",
@@ -1277,7 +1857,11 @@
     "familyCommonName": "Lizardfishes",
     "genus": "Synodus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30669020/medium.jpg"
   },
   {
     "slug": "scomber-colias",
@@ -1287,7 +1871,11 @@
     "familyCommonName": "Mackerels, Tunas, and Bonitos",
     "genus": "Scomber",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43514431/medium.jpg"
   },
   {
     "slug": "urophycis-chuss",
@@ -1297,7 +1885,14 @@
     "familyCommonName": "Phycid Hakes",
     "genus": "Urophycis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Squirrel Hake"
+    ],
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/546370177/medium.jpg"
   },
   {
     "slug": "urophycis-regia",
@@ -1307,7 +1902,11 @@
     "familyCommonName": "Phycid Hakes",
     "genus": "Urophycis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/58556977/medium.jpeg"
   },
   {
     "slug": "coryphaena-hippurus",
@@ -1317,7 +1916,11 @@
     "familyCommonName": "Dolphinfishes",
     "genus": "Coryphaena",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/247919947/medium.jpeg"
   },
   {
     "slug": "notropis-bifrenatus",
@@ -1327,7 +1930,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Notropis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/547502953/medium.jpg"
   },
   {
     "slug": "tinca-tinca",
@@ -1337,7 +1944,11 @@
     "familyCommonName": "Tenchs",
     "genus": "Tinca",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/225783093/medium.jpg"
   },
   {
     "slug": "oncorhynchus-nerka",
@@ -1347,7 +1958,11 @@
     "familyCommonName": "Salmons, Trouts, and Whitefishes",
     "genus": "Oncorhynchus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/338958812/medium.jpg"
   },
   {
     "slug": "anchoa-mitchilli",
@@ -1357,7 +1972,11 @@
     "familyCommonName": "Anchovies",
     "genus": "Anchoa",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/333421128/medium.jpg"
   },
   {
     "slug": "menidia-beryllina",
@@ -1367,7 +1986,11 @@
     "familyCommonName": "Neotropical Silversides",
     "genus": "Menidia",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/488901410/medium.jpg"
   },
   {
     "slug": "histrio-histrio",
@@ -1377,7 +2000,11 @@
     "familyCommonName": "Frogfishes",
     "genus": "Histrio",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/259734659/medium.jpeg"
   },
   {
     "slug": "conger-oceanicus",
@@ -1387,7 +2014,11 @@
     "familyCommonName": "Congers and Garden Eels",
     "genus": "Conger",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/71066402/medium.jpg"
   },
   {
     "slug": "gobiosoma-bosc",
@@ -1397,7 +2028,11 @@
     "familyCommonName": "Gobies",
     "genus": "Gobiosoma",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21705544/medium.jpg"
   },
   {
     "slug": "alosa-aestivalis",
@@ -1407,7 +2042,11 @@
     "familyCommonName": "Shads and Sardines",
     "genus": "Alosa",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/180507625/medium.jpg"
   },
   {
     "slug": "caranx-crysos",
@@ -1417,7 +2056,11 @@
     "familyCommonName": "Jacks",
     "genus": "Caranx",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/68708086/medium.jpg"
   },
   {
     "slug": "cyprinella-spiloptera",
@@ -1427,7 +2070,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Cyprinella",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177281153/medium.jpg"
   },
   {
     "slug": "alectis-ciliaris",
@@ -1437,7 +2084,11 @@
     "familyCommonName": "Jacks",
     "genus": "Alectis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55208178/medium.jpg"
   },
   {
     "slug": "scardinius-erythrophthalmus",
@@ -1447,7 +2098,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Scardinius",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/351728711/medium.jpg"
   },
   {
     "slug": "culaea-inconstans",
@@ -1457,7 +2112,11 @@
     "familyCommonName": "Sticklebacks",
     "genus": "Culaea",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/482009240/medium.jpeg"
   },
   {
     "slug": "stephanolepis-hispida",
@@ -1467,7 +2126,11 @@
     "familyCommonName": "Filefishes",
     "genus": "Stephanolepis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/134554880/medium.jpeg"
   },
   {
     "slug": "hypsoblennius-hentz",
@@ -1477,7 +2140,11 @@
     "familyCommonName": "Combtooth Blennies",
     "genus": "Hypsoblennius",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/288723451/medium.jpg"
   },
   {
     "slug": "huso-brevirostrum",
@@ -1487,7 +2154,11 @@
     "familyCommonName": "Sturgeons",
     "genus": "Huso",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/220060858/medium.jpeg"
   },
   {
     "slug": "lutjanus-griseus",
@@ -1497,7 +2168,11 @@
     "familyCommonName": "Snappers",
     "genus": "Lutjanus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/229031424/medium.jpg"
   },
   {
     "slug": "trachinocephalus-myops",
@@ -1507,7 +2182,11 @@
     "familyCommonName": "Lizardfishes",
     "genus": "Trachinocephalus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/48264471/medium.jpeg"
   },
   {
     "slug": "anarhichas-lupus",
@@ -1517,7 +2196,11 @@
     "familyCommonName": "Wolffishes",
     "genus": "Anarhichas",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14456087/medium.jpg"
   },
   {
     "slug": "enchelyopus-cimbrius",
@@ -1527,7 +2210,11 @@
     "familyCommonName": "Rocklings",
     "genus": "Enchelyopus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22916818/medium.jpg"
   },
   {
     "slug": "dactylopterus-volitans",
@@ -1537,7 +2224,11 @@
     "familyCommonName": "Flying Gurnards",
     "genus": "Dactylopterus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/231501202/medium.jpg"
   },
   {
     "slug": "exoglossum-maxillingua",
@@ -1547,7 +2238,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Exoglossum",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/218386728/medium.jpg"
   },
   {
     "slug": "lactophrys-trigonus",
@@ -1557,7 +2252,11 @@
     "familyCommonName": "Boxfishes",
     "genus": "Lactophrys",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47616231/medium.jpg"
   },
   {
     "slug": "trachinotus-carolinus",
@@ -1567,7 +2266,11 @@
     "familyCommonName": "Jacks",
     "genus": "Trachinotus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/341652396/medium.jpg"
   },
   {
     "slug": "brosme-brosme",
@@ -1577,7 +2280,15 @@
     "familyCommonName": "Hakes and Burbots",
     "genus": "Brosme",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Torsk",
+      "Tusk"
+    ],
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64021544/medium.jpg"
   },
   {
     "slug": "holacanthus-bermudensis",
@@ -1587,7 +2298,11 @@
     "familyCommonName": "Angelfishes",
     "genus": "Holacanthus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/161724830/medium.jpg"
   },
   {
     "slug": "chaetodon-capistratus",
@@ -1597,7 +2312,11 @@
     "familyCommonName": "Butterflyfishes",
     "genus": "Chaetodon",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/232139774/medium.jpg"
   },
   {
     "slug": "ctenopharyngodon-idella",
@@ -1607,7 +2326,11 @@
     "familyCommonName": "East Asian Minnows",
     "genus": "Ctenopharyngodon",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/390607884/medium.jpg"
   },
   {
     "slug": "astroscopus-guttatus",
@@ -1617,7 +2340,11 @@
     "familyCommonName": "Stargazers",
     "genus": "Astroscopus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/65942464/medium.jpg"
   },
   {
     "slug": "mullus-auratus",
@@ -1627,7 +2354,11 @@
     "familyCommonName": "Goatfishes",
     "genus": "Mullus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/414171567/medium.jpg"
   },
   {
     "slug": "trinectes-maculatus",
@@ -1637,7 +2368,11 @@
     "familyCommonName": "American Soles",
     "genus": "Trinectes",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/186840331/medium.jpg"
   },
   {
     "slug": "notropis-atherinoides",
@@ -1647,7 +2382,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Notropis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/575051187/medium.jpg"
   },
   {
     "slug": "gambusia-affinis",
@@ -1657,7 +2396,11 @@
     "familyCommonName": "Guppies, Mollies, Platys, and Swordtails",
     "genus": "Gambusia",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/553681986/medium.jpg"
   },
   {
     "slug": "eucinostomus-harengulus",
@@ -1667,7 +2410,11 @@
     "familyCommonName": "Mojarras",
     "genus": "Eucinostomus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/455604829/medium.jpg"
   },
   {
     "slug": "cryptacanthodes-maculatus",
@@ -1677,7 +2424,11 @@
     "familyCommonName": "Wrymouths",
     "genus": "Cryptacanthodes",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/512167766/medium.jpg"
   },
   {
     "slug": "heteropriacanthus-cruentatus",
@@ -1687,7 +2438,11 @@
     "familyCommonName": "Bigeyes",
     "genus": "Heteropriacanthus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/3811498/medium.jpg"
   },
   {
     "slug": "hybognathus-regius",
@@ -1697,7 +2452,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Hybognathus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/208218554/medium.jpeg"
   },
   {
     "slug": "aluterus-schoepfii",
@@ -1707,7 +2466,11 @@
     "familyCommonName": "Filefishes",
     "genus": "Aluterus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/52595117/medium.jpeg"
   },
   {
     "slug": "selar-crumenophthalmus",
@@ -1717,7 +2480,11 @@
     "familyCommonName": "Jacks",
     "genus": "Selar",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/15611771/medium.jpg"
   },
   {
     "slug": "gasterosteus-wheatlandi",
@@ -1727,7 +2494,29 @@
     "familyCommonName": "Sticklebacks",
     "genus": "Gasterosteus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Thornback",
+      "Barnstickle",
+      "Barnystickle",
+      "Barnytickle",
+      "Branstickle",
+      "Spanicle",
+      "Spannistickle",
+      "Spanny",
+      "Spannytickle",
+      "Spantickle",
+      "Sparnicle",
+      "Sparnytickle",
+      "Spawnykettle",
+      "Spawnytickle",
+      "Black-spotted Stickleback",
+      "Two-spined stickleback"
+    ],
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/611366572/medium.jpg"
   },
   {
     "slug": "pomoxis-annularis",
@@ -1737,7 +2526,11 @@
     "familyCommonName": "Freshwater Sunfishes",
     "genus": "Pomoxis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/96157835/medium.jpg"
   },
   {
     "slug": "seriola-dumerili",
@@ -1747,7 +2540,11 @@
     "familyCommonName": "Jacks",
     "genus": "Seriola",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/300897123/medium.jpg"
   },
   {
     "slug": "trachurus-lathami",
@@ -1757,7 +2554,11 @@
     "familyCommonName": "Jacks",
     "genus": "Trachurus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/195437/medium.jpg"
   },
   {
     "slug": "chrosomus-neogaeus",
@@ -1767,7 +2568,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Chrosomus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176263799/medium.jpg"
   },
   {
     "slug": "gambusia-holbrooki",
@@ -1777,7 +2582,19 @@
     "familyCommonName": "Guppies, Mollies, Platys, and Swordtails",
     "genus": "Gambusia",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Eastern Gambusia",
+      "Top Minnow",
+      "Gambies",
+      "Bore-drain Fish",
+      "Starling's Perch",
+      "Plague Minnow"
+    ],
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35292334/medium.jpg"
   },
   {
     "slug": "labidesthes-sicculus",
@@ -1787,7 +2604,11 @@
     "familyCommonName": "Neotropical Silversides",
     "genus": "Labidesthes",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/187395735/medium.jpeg"
   },
   {
     "slug": "notropis-rubellus",
@@ -1797,7 +2618,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Notropis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/390839199/medium.jpeg"
   },
   {
     "slug": "decapterus-punctatus",
@@ -1807,7 +2632,11 @@
     "familyCommonName": "Jacks",
     "genus": "Decapterus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/7629374/medium.jpeg"
   },
   {
     "slug": "lagodon-rhomboides",
@@ -1817,7 +2646,11 @@
     "familyCommonName": "Seabreams and Porgies",
     "genus": "Lagodon",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23327498/medium.jpg"
   },
   {
     "slug": "mugil-curema",
@@ -1827,7 +2660,11 @@
     "familyCommonName": "Mullets",
     "genus": "Mugil",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/241061889/medium.jpg"
   },
   {
     "slug": "macroramphosus-scolopax",
@@ -1837,7 +2674,11 @@
     "familyCommonName": "Snipefishes and Shrimpfishes",
     "genus": "Macroramphosus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6251545/medium.jpg"
   },
   {
     "slug": "hippoglossus-hippoglossus",
@@ -1847,7 +2688,11 @@
     "familyCommonName": "Righteye Flounders",
     "genus": "Hippoglossus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109037534/medium.jpg"
   },
   {
     "slug": "ammocrypta-pellucida",
@@ -1857,7 +2702,11 @@
     "familyCommonName": "Perches, Darters, and allies",
     "genus": "Ammocrypta",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/123254566/medium.jpg"
   },
   {
     "slug": "esox-masquinongy",
@@ -1867,7 +2716,11 @@
     "familyCommonName": "Pikes",
     "genus": "Esox",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/55205913/medium.jpg"
   },
   {
     "slug": "lepomis-gulosus",
@@ -1877,7 +2730,11 @@
     "familyCommonName": "Freshwater Sunfishes",
     "genus": "Lepomis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/526800779/medium.jpg"
   },
   {
     "slug": "percina-copelandi",
@@ -1887,7 +2744,11 @@
     "familyCommonName": "Perches, Darters, and allies",
     "genus": "Percina",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/10407076/medium.jpg"
   },
   {
     "slug": "xiphias-gladius",
@@ -1897,7 +2758,11 @@
     "familyCommonName": "Swordfishes",
     "genus": "Xiphias",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11989857/medium.jpg"
   },
   {
     "slug": "sardinella-aurita",
@@ -1907,7 +2772,11 @@
     "familyCommonName": "Thread Herrings, Gizzard Shads, and Sardinellas",
     "genus": "Sardinella",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110524975/medium.jpeg"
   },
   {
     "slug": "selene-vomer",
@@ -1917,7 +2786,11 @@
     "familyCommonName": "Jacks",
     "genus": "Selene",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/85408710/medium.jpg"
   },
   {
     "slug": "etropus-microstomus",
@@ -1927,7 +2800,11 @@
     "familyCommonName": "Sand Whiffs",
     "genus": "Etropus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/389729798/medium.jpg"
   },
   {
     "slug": "lumpenus-lampretaeformis",
@@ -1937,7 +2814,11 @@
     "familyCommonName": "Eel Pricklebacks",
     "genus": "Lumpenus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/157652026/medium.jpg"
   },
   {
     "slug": "ariomma-bondi",
@@ -1947,7 +2828,11 @@
     "familyCommonName": "Ariommas",
     "genus": "Ariomma",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/245214394/medium.jpg"
   },
   {
     "slug": "fistularia-petimba",
@@ -1957,7 +2842,11 @@
     "familyCommonName": "Cornetfishes",
     "genus": "Fistularia",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/89640548/medium.jpg"
   },
   {
     "slug": "zenopsis-conchifer",
@@ -1967,7 +2856,11 @@
     "familyCommonName": "Mirror Dories & Girties",
     "genus": "Zenopsis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43734162/medium.jpg"
   },
   {
     "slug": "huso-fulvescens",
@@ -1977,7 +2870,11 @@
     "familyCommonName": "Sturgeons",
     "genus": "Huso",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/519049546/medium.jpg"
   },
   {
     "slug": "moxostoma-anisurum",
@@ -1987,7 +2884,11 @@
     "familyCommonName": "Suckers",
     "genus": "Moxostoma",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/10701013/medium.jpeg"
   },
   {
     "slug": "ameiurus-melas",
@@ -1997,7 +2898,11 @@
     "familyCommonName": "North American Freshwater Catfishes",
     "genus": "Ameiurus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1937394/medium.JPG"
   },
   {
     "slug": "auxis-rochei",
@@ -2007,7 +2912,11 @@
     "familyCommonName": "Mackerels, Tunas, and Bonitos",
     "genus": "Auxis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/347861666/medium.jpg"
   },
   {
     "slug": "rachycentron-canadum",
@@ -2017,7 +2926,11 @@
     "familyCommonName": "Cobias",
     "genus": "Rachycentron",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59256179/medium.jpg"
   },
   {
     "slug": "scomberomorus-maculatus",
@@ -2027,7 +2940,11 @@
     "familyCommonName": "Mackerels, Tunas, and Bonitos",
     "genus": "Scomberomorus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/414572804/medium.jpg"
   },
   {
     "slug": "ctenogobius-boleosoma",
@@ -2037,7 +2954,11 @@
     "familyCommonName": "Mudskippers and Allies",
     "genus": "Ctenogobius",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/356509869/medium.jpg"
   },
   {
     "slug": "caranx-bartholomaei",
@@ -2047,7 +2968,11 @@
     "familyCommonName": "Jacks",
     "genus": "Caranx",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/443681190/medium.jpg"
   },
   {
     "slug": "paranotropis-volucellus",
@@ -2057,7 +2982,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Paranotropis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61920591/medium.jpeg"
   },
   {
     "slug": "abudefduf-taurus",
@@ -2067,7 +2996,11 @@
     "familyCommonName": "Damselfishes",
     "genus": "Abudefduf",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/143757627/medium.jpeg"
   },
   {
     "slug": "percina-caprodes",
@@ -2077,7 +3010,11 @@
     "familyCommonName": "Perches, Darters, and allies",
     "genus": "Percina",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/152829140/medium.jpeg"
   },
   {
     "slug": "noturus-flavus",
@@ -2087,7 +3024,11 @@
     "familyCommonName": "North American Freshwater Catfishes",
     "genus": "Noturus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/579631526/medium.jpg"
   },
   {
     "slug": "coregonus-clupeaformis",
@@ -2097,7 +3038,11 @@
     "familyCommonName": "Salmons, Trouts, and Whitefishes",
     "genus": "Coregonus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/185273414/medium.jpeg"
   },
   {
     "slug": "fundulus-luciae",
@@ -2107,7 +3052,11 @@
     "familyCommonName": "Topminnows",
     "genus": "Fundulus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/137808628/medium.jpg"
   },
   {
     "slug": "hyperoglyphe-perciformis",
@@ -2117,7 +3066,11 @@
     "familyCommonName": "Medusafishes",
     "genus": "Hyperoglyphe",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51292366/medium.jpeg"
   },
   {
     "slug": "margariscus-margarita",
@@ -2127,7 +3080,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Margariscus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/358855379/medium.jpg"
   },
   {
     "slug": "moxostoma-macrolepidotum",
@@ -2137,7 +3094,11 @@
     "familyCommonName": "Suckers",
     "genus": "Moxostoma",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/86775703/medium.jpeg"
   },
   {
     "slug": "micropogonias-undulatus",
@@ -2147,7 +3108,11 @@
     "familyCommonName": "Drums",
     "genus": "Micropogonias",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/145621384/medium.jpg"
   },
   {
     "slug": "lagocephalus-laevigatus",
@@ -2157,7 +3122,11 @@
     "familyCommonName": "Pufferfishes",
     "genus": "Lagocephalus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/413625826/medium.jpeg"
   },
   {
     "slug": "hypleurochilus-geminatus",
@@ -2167,7 +3136,11 @@
     "familyCommonName": "Combtooth Blennies",
     "genus": "Hypleurochilus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/138098121/medium.jpg"
   },
   {
     "slug": "canthidermis-maculata",
@@ -2177,7 +3150,11 @@
     "familyCommonName": "Triggerfishes",
     "genus": "Canthidermis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/558922449/medium.jpg"
   },
   {
     "slug": "stegastes-leucostictus",
@@ -2187,7 +3164,11 @@
     "familyCommonName": "Damselfishes",
     "genus": "Stegastes",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/149996823/medium.jpg"
   },
   {
     "slug": "urophycis-tenuis",
@@ -2197,7 +3178,11 @@
     "familyCommonName": "Phycid Hakes",
     "genus": "Urophycis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22917775/medium.jpg"
   },
   {
     "slug": "aluterus-heudelotii",
@@ -2207,7 +3192,11 @@
     "familyCommonName": "Filefishes",
     "genus": "Aluterus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/407437317/medium.jpg"
   },
   {
     "slug": "paralichthys-oblongus",
@@ -2217,7 +3206,11 @@
     "familyCommonName": "Large-tooth Flounders",
     "genus": "Paralichthys",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28048900/medium.jpg"
   },
   {
     "slug": "miniellus-stramineus",
@@ -2227,7 +3220,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Miniellus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/457771733/medium.jpg"
   },
   {
     "slug": "holacanthus-ciliaris",
@@ -2237,7 +3234,14 @@
     "familyCommonName": "Angelfishes",
     "genus": "Holacanthus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Blue angelfish"
+    ],
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/8872309/medium.jpeg"
   },
   {
     "slug": "cottus-bairdii",
@@ -2247,7 +3251,11 @@
     "familyCommonName": "Typical Sculpins",
     "genus": "Cottus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/377086475/medium.jpeg"
   },
   {
     "slug": "echeneis-naucrates",
@@ -2257,7 +3265,11 @@
     "familyCommonName": "Remoras",
     "genus": "Echeneis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/469526131/medium.jpg"
   },
   {
     "slug": "diodon-holocanthus",
@@ -2267,7 +3279,11 @@
     "familyCommonName": "Porcupinefishes",
     "genus": "Diodon",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/246231050/medium.jpg"
   },
   {
     "slug": "abudefduf-saxatilis",
@@ -2277,7 +3293,11 @@
     "familyCommonName": "Damselfishes",
     "genus": "Abudefduf",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/201212504/medium.jpg"
   },
   {
     "slug": "aluterus-scriptus",
@@ -2287,7 +3307,24 @@
     "familyCommonName": "Filefishes",
     "genus": "Aluterus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Scribbled filefish",
+      "Scrawled leatherjacket",
+      "Figured Leather-jacket",
+      "Scribbled Leatherjacket",
+      "Scribbled File-fish",
+      "Scribbled leatherjacket filefish",
+      "Broom-tail file",
+      "Broomtail filefish",
+      "Scrawled tilefish",
+      "Scribbled leather jacket",
+      "Scrolled filefish"
+    ],
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/145409892/medium.jpeg"
   },
   {
     "slug": "epinephelus-morio",
@@ -2297,7 +3334,11 @@
     "familyCommonName": "Groupers",
     "genus": "Epinephelus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/576163294/medium.jpg"
   },
   {
     "slug": "archosargus-probatocephalus",
@@ -2307,7 +3348,11 @@
     "familyCommonName": "Seabreams and Porgies",
     "genus": "Archosargus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/162087134/medium.jpg"
   },
   {
     "slug": "microspathodon-chrysurus",
@@ -2317,7 +3362,11 @@
     "familyCommonName": "Damselfishes",
     "genus": "Microspathodon",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/58894996/medium.jpg"
   },
   {
     "slug": "acanthostracion-quadricornis",
@@ -2327,7 +3376,11 @@
     "familyCommonName": "Boxfishes",
     "genus": "Acanthostracion",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/244963753/medium.jpg"
   },
   {
     "slug": "atractosteus-spatula",
@@ -2337,7 +3390,11 @@
     "familyCommonName": "Gars",
     "genus": "Atractosteus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/390362610/medium.jpg"
   },
   {
     "slug": "notropis-heterolepis",
@@ -2347,7 +3404,11 @@
     "familyCommonName": "True Minnows",
     "genus": "Notropis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11314885/medium.jpeg"
   },
   {
     "slug": "noturus-insignis",
@@ -2357,7 +3418,11 @@
     "familyCommonName": "North American Freshwater Catfishes",
     "genus": "Noturus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/497229717/medium.jpeg"
   },
   {
     "slug": "thunnus-albacares",
@@ -2367,7 +3432,21 @@
     "familyCommonName": "Mackerels, Tunas, and Bonitos",
     "genus": "Thunnus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Yellow Fin Tuna",
+      "Allison Tuna",
+      "Allison's Tuna",
+      "Autumn Albacore",
+      "Fin Tuna",
+      "Pacific Yellow-finned Tuna",
+      "Yellowfinned Albacore",
+      "Longfin Yellowfin Tuna"
+    ],
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33852236/medium.jpg"
   },
   {
     "slug": "carpiodes-cyprinus",
@@ -2377,7 +3456,11 @@
     "familyCommonName": "Suckers",
     "genus": "Carpiodes",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/266386792/medium.jpg"
   },
   {
     "slug": "etheostoma-flabellare",
@@ -2387,7 +3470,11 @@
     "familyCommonName": "Perches, Darters, and allies",
     "genus": "Etheostoma",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32059163/medium.jpeg"
   },
   {
     "slug": "mugil-cephalus",
@@ -2397,7 +3484,11 @@
     "familyCommonName": "Mullets",
     "genus": "Mugil",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/172170815/medium.jpeg"
   },
   {
     "slug": "mycteroperca-phenax",
@@ -2407,7 +3498,11 @@
     "familyCommonName": "Groupers",
     "genus": "Mycteroperca",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/439727547/medium.jpg"
   },
   {
     "slug": "paralichthys-lethostigma",
@@ -2417,7 +3512,11 @@
     "familyCommonName": "Large-tooth Flounders",
     "genus": "Paralichthys",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/70711277/medium.jpg"
   },
   {
     "slug": "peprilus-paru",
@@ -2427,7 +3526,11 @@
     "familyCommonName": "Butterfishes",
     "genus": "Peprilus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1337720/medium.jpg"
   },
   {
     "slug": "percopsis-omiscomaycus",
@@ -2437,7 +3540,15 @@
     "familyCommonName": "Trout-perches",
     "genus": "Percopsis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Grounder",
+      "Sand Minnow"
+    ],
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/344158495/medium.jpeg"
   },
   {
     "slug": "prosopium-cylindraceum",
@@ -2447,7 +3558,11 @@
     "familyCommonName": "Salmons, Trouts, and Whitefishes",
     "genus": "Prosopium",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/82058305/medium.jpg"
   },
   {
     "slug": "thunnus-atlanticus",
@@ -2457,7 +3572,11 @@
     "familyCommonName": "Mackerels, Tunas, and Bonitos",
     "genus": "Thunnus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/183529349/medium.jpg"
   },
   {
     "slug": "thunnus-obesus",
@@ -2467,7 +3586,17 @@
     "familyCommonName": "Mackerels, Tunas, and Bonitos",
     "genus": "Thunnus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Bigeye",
+      "Big-eye Tuna",
+      "Big-eye Tunny",
+      "Big Eye Tuna"
+    ],
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/165552551/medium.jpg"
   },
   {
     "slug": "helicolenus-dactylopterus",
@@ -2477,7 +3606,11 @@
     "familyCommonName": "Scorpionfishes",
     "genus": "Helicolenus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/352541248/medium.jpeg"
   },
   {
     "slug": "lactophrys-bicaudalis",
@@ -2487,7 +3620,11 @@
     "familyCommonName": "Boxfishes",
     "genus": "Lactophrys",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106368551/medium.jpg"
   },
   {
     "slug": "acanthurus-chirurgus",
@@ -2497,7 +3634,11 @@
     "familyCommonName": "Surgeonfishes, Tangs, and Unicornfishes",
     "genus": "Acanthurus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/439077157/medium.jpg"
   },
   {
     "slug": "oreochromis-niloticus",
@@ -2507,7 +3648,11 @@
     "familyCommonName": "Cichlids",
     "genus": "Oreochromis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/104437442/medium.jpg"
   },
   {
     "slug": "stegastes-partitus",
@@ -2517,7 +3662,11 @@
     "familyCommonName": "Damselfishes",
     "genus": "Stegastes",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/398154187/medium.jpg"
   },
   {
     "slug": "channa-argus",
@@ -2527,7 +3676,11 @@
     "familyCommonName": "Snakeheads",
     "genus": "Channa",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67102053/medium.jpg"
   },
   {
     "slug": "pseudupeneus-maculatus",
@@ -2537,7 +3690,11 @@
     "familyCommonName": "Goatfishes",
     "genus": "Pseudupeneus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43460053/medium.jpg"
   },
   {
     "slug": "apogon-pseudomaculatus",
@@ -2547,7 +3704,11 @@
     "familyCommonName": "Cardinalfishes",
     "genus": "Apogon",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177067707/medium.jpg"
   },
   {
     "slug": "scomberomorus-cavalla",
@@ -2557,7 +3718,11 @@
     "familyCommonName": "Mackerels, Tunas, and Bonitos",
     "genus": "Scomberomorus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/458309743/medium.jpeg"
   },
   {
     "slug": "mallotus-villosus",
@@ -2567,7 +3732,11 @@
     "familyCommonName": "Smelts",
     "genus": "Mallotus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/48607338/medium.jpeg"
   },
   {
     "slug": "poecilia-reticulata",
@@ -2577,7 +3746,18 @@
     "familyCommonName": "Guppies, Mollies, Platys, and Swordtails",
     "genus": "Poecilia",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Fancy Guppy",
+      "Millions Fish",
+      "Barbados millions",
+      "Million fish",
+      "Rainbow fish"
+    ],
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/513104708/medium.jpg"
   },
   {
     "slug": "auxis-thazard",
@@ -2587,7 +3767,11 @@
     "familyCommonName": "Mackerels, Tunas, and Bonitos",
     "genus": "Auxis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28348802/medium.png"
   },
   {
     "slug": "opisthonema-oglinum",
@@ -2597,7 +3781,11 @@
     "familyCommonName": "Thread Herrings, Gizzard Shads, and Sardinellas",
     "genus": "Opisthonema",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/437760643/medium.jpeg"
   },
   {
     "slug": "menticirrhus-americanus",
@@ -2607,7 +3795,11 @@
     "familyCommonName": "Drums",
     "genus": "Menticirrhus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/460458795/medium.jpg"
   },
   {
     "slug": "bothus-robinsi",
@@ -2617,7 +3809,11 @@
     "familyCommonName": "Lefteye Flounders",
     "genus": "Bothus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8837316/medium.jpg"
   },
   {
     "slug": "hemiramphus-brasiliensis",
@@ -2627,7 +3823,11 @@
     "familyCommonName": "Halfbeaks",
     "genus": "Hemiramphus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/63969454/medium.jpg"
   },
   {
     "slug": "euleptorhamphus-velox",
@@ -2637,7 +3837,11 @@
     "familyCommonName": "Halfbeaks",
     "genus": "Euleptorhamphus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/607912362/medium.jpg"
   },
   {
     "slug": "piaractus-brachypomus",
@@ -2647,7 +3851,11 @@
     "familyCommonName": "Piranhas, Pacus, and Silver Dollars",
     "genus": "Piaractus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/80657981/medium.jpg"
   },
   {
     "slug": "liparis-inquilinus",
@@ -2657,7 +3865,11 @@
     "familyCommonName": "Snailfishes",
     "genus": "Liparis",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/186159618/medium.jpg"
   },
   {
     "slug": "reinhardtius-hippoglossoides",
@@ -2667,7 +3879,15 @@
     "familyCommonName": "Righteye Flounders",
     "genus": "Reinhardtius",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Flatty",
+      "Greenland Turbot"
+    ],
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/181249943/medium.jpeg"
   },
   {
     "slug": "cheilopogon-melanurus",
@@ -2677,7 +3897,11 @@
     "familyCommonName": "Flyingfishes",
     "genus": "Cheilopogon",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31046855/medium.jpeg"
   },
   {
     "slug": "xenolepidichthys-dalgleishi",
@@ -2687,7 +3911,11 @@
     "familyCommonName": "Tinselfishes",
     "genus": "Xenolepidichthys",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/128669170/medium.jpeg"
   },
   {
     "slug": "argentina-silus",
@@ -2697,7 +3925,11 @@
     "familyCommonName": "Argentines",
     "genus": "Argentina",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/38354705/medium.jpg"
   },
   {
     "slug": "pseudoplatystoma-tigrinum",
@@ -2707,7 +3939,11 @@
     "familyCommonName": "Long-whiskered Catfishes",
     "genus": "Pseudoplatystoma",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/668728/medium.jpg"
   },
   {
     "slug": "peristedion-miniatum",
@@ -2717,7 +3953,11 @@
     "familyCommonName": "Searobins",
     "genus": "Peristedion",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/27993997/medium.jpeg"
   },
   {
     "slug": "polymixia-nobilis",
@@ -2727,7 +3967,11 @@
     "familyCommonName": "Beardfishes",
     "genus": "Polymixia",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/534158196/medium.jpg"
   },
   {
     "slug": "trachipterus-arcticus",
@@ -2737,7 +3981,11 @@
     "familyCommonName": "Ribbonfishes",
     "genus": "Trachipterus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/399817419/medium.jpeg"
   },
   {
     "slug": "etrumeus-sadina",
@@ -2747,7 +3995,11 @@
     "familyCommonName": "Rainbow Sardines and Red-eye Round Herrings",
     "genus": "Etrumeus",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1030794/medium.jpg"
   },
   {
     "slug": "acanthostracion-polygonium",
@@ -2757,7 +4009,11 @@
     "familyCommonName": "Boxfishes",
     "genus": "Acanthostracion",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/102172/medium.jpg"
   },
   {
     "slug": "liopsetta-putnami",
@@ -2767,7 +4023,11 @@
     "familyCommonName": "Righteye Flounders",
     "genus": "Liopsetta",
     "group": "fish",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/90796204/medium.jpeg"
   },
   {
     "slug": "explore/common-sunfishes",

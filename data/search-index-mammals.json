@@ -7,7 +7,20 @@
     "familyCommonName": "Squirrels",
     "genus": "Sciurus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Eastern Grey Squirrel",
+      "Grey Squirrel",
+      "Black Squirrel",
+      "Carolina Gray Squirrel",
+      "Carolina Grey Squirrel",
+      "American Squirrel",
+      "cat squirrel"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254252933/medium.jpeg"
   },
   {
     "slug": "odocoileus-virginianus",
@@ -17,7 +30,22 @@
     "familyCommonName": "Deer",
     "genus": "Odocoileus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "White Tailed Deer",
+      "White Tail Deer",
+      "Whitetail",
+      "White Deer",
+      "Virginia Deer",
+      "Common American Deer",
+      "Flag-tailed Deer",
+      "American Deer",
+      "Whitetail deer"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110157765/medium.jpg"
   },
   {
     "slug": "sylvilagus-floridanus",
@@ -27,7 +55,17 @@
     "familyCommonName": "Hares and Rabbits",
     "genus": "Sylvilagus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Gray Rabbit",
+      "Grey Rabbit",
+      "Molly-Cottontail",
+      "molly hare"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/549496754/medium.jpg"
   },
   {
     "slug": "tamias-striatus",
@@ -37,7 +75,17 @@
     "familyCommonName": "Squirrels",
     "genus": "Tamias",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Chipping Squirrel",
+      "Chippie",
+      "Hackee",
+      "Ground Squirrel"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2211106/medium.JPG"
   },
   {
     "slug": "tamiasciurus-hudsonicus",
@@ -47,7 +95,22 @@
     "familyCommonName": "Squirrels",
     "genus": "Tamiasciurus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "North American Red Squirrel",
+      "Chickaree",
+      "Hudsonian Squirrel",
+      "Pine Squirrel",
+      "Hudson's Bay Squirrel",
+      "Downy Squirrel",
+      "Red Squirrel",
+      "Eastern Red Squirrel",
+      "Piney Squirrel"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110144566/medium.jpg"
   },
   {
     "slug": "procyon-lotor",
@@ -57,7 +120,20 @@
     "familyCommonName": "Raccoons, Coatis, and Allies",
     "genus": "Procyon",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Northern Raccoon",
+      "Raccoon",
+      "North American Raccoon",
+      "Racoon",
+      "American Raccoon",
+      "Trash Panda",
+      "Bandit-masked Raccoon"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46439025/medium.jpg"
   },
   {
     "slug": "castor-canadensis",
@@ -67,7 +143,23 @@
     "familyCommonName": "Beavers",
     "genus": "Castor",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Canadian Beaver",
+      "North American Beaver",
+      "Flat-tail",
+      "Bank Beaver",
+      "Canada Beaver",
+      "Rio Grande Beaver",
+      "Carolina Beaver",
+      "Sonora Beaver",
+      "Admiralty Beaver",
+      "beaver"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/165792078/medium.jpg"
   },
   {
     "slug": "canis-latrans",
@@ -77,7 +169,32 @@
     "familyCommonName": "Canids",
     "genus": "Canis",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "American Jackal",
+      "Brush Wolf",
+      "Prairie Wolf",
+      "Black Coyote",
+      "White Coyote",
+      "Snow Coyote",
+      "Mexican Jackal",
+      "Yote",
+      "Eastern Coyote",
+      "Tweed Wolf",
+      "New World Jackal",
+      "Little Wolf",
+      "Cased Wolf",
+      "Burrowing Dog",
+      "Cayjotte",
+      "Cocyotie",
+      "Small Wolf",
+      "Northwest Coast Coyote",
+      "Northwestern Coastal Coyote"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/10963085/medium.jpg"
   },
   {
     "slug": "vulpes-vulpes",
@@ -87,7 +204,11 @@
     "familyCommonName": "Canids",
     "genus": "Vulpes",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254372438/medium.jpeg"
   },
   {
     "slug": "marmota-monax",
@@ -97,7 +218,11 @@
     "familyCommonName": "Squirrels",
     "genus": "Marmota",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/233885416/medium.jpeg"
   },
   {
     "slug": "erethizon-dorsatum",
@@ -107,7 +232,11 @@
     "familyCommonName": "New World Porcupines",
     "genus": "Erethizon",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/26749132/medium.jpg"
   },
   {
     "slug": "ursus-americanus",
@@ -117,7 +246,11 @@
     "familyCommonName": "Bears",
     "genus": "Ursus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/200732319/medium.jpeg"
   },
   {
     "slug": "lynx-rufus",
@@ -127,7 +260,11 @@
     "familyCommonName": "Felids",
     "genus": "Lynx",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60028871/medium.jpg"
   },
   {
     "slug": "alces-alces",
@@ -137,7 +274,11 @@
     "familyCommonName": "Deer",
     "genus": "Alces",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/149580544/medium.jpg"
   },
   {
     "slug": "ondatra-zibethicus",
@@ -147,7 +288,18 @@
     "familyCommonName": "Hamsters, Voles, Lemmings, and Allies",
     "genus": "Ondatra",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Common Muskrat",
+      "Muscrat",
+      "Musquash",
+      "Musk-beaver",
+      "Musk-rat"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/493463450/medium.jpg"
   },
   {
     "slug": "didelphis-virginiana",
@@ -157,7 +309,16 @@
     "familyCommonName": "Opossums",
     "genus": "Didelphis",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Opossum",
+      "North American Opossum",
+      "Possum"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/77221508/medium.jpg"
   },
   {
     "slug": "halichoerus-grypus",
@@ -167,7 +328,15 @@
     "familyCommonName": "Earless Seals",
     "genus": "Halichoerus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Gray Seal",
+      "Horsehead"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/200723208/medium.jpg"
   },
   {
     "slug": "mephitis-mephitis",
@@ -177,7 +346,20 @@
     "familyCommonName": "Skunks and Stink-badgers",
     "genus": "Mephitis",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Prairie Polecat",
+      "Common Skunk",
+      "Northern Skunk",
+      "Wood Pussie",
+      "Alaska Sable",
+      "Long-tailed Skunk",
+      "musk cat"
+    ],
+    "abundanceTier": "very-common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/79745555/medium.jpeg"
   },
   {
     "slug": "phoca-vitulina",
@@ -187,7 +369,11 @@
     "familyCommonName": "Earless Seals",
     "genus": "Phoca",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/190781273/medium.jpg"
   },
   {
     "slug": "urocyon-cinereoargenteus",
@@ -197,7 +383,11 @@
     "familyCommonName": "Canids",
     "genus": "Urocyon",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/32504964/medium.jpg"
   },
   {
     "slug": "blarina-brevicauda",
@@ -207,7 +397,11 @@
     "familyCommonName": "Shrews",
     "genus": "Blarina",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/272435094/medium.jpg"
   },
   {
     "slug": "lepus-americanus",
@@ -217,7 +411,11 @@
     "familyCommonName": "Hares and Rabbits",
     "genus": "Lepus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/305590323/medium.jpg"
   },
   {
     "slug": "lontra-canadensis",
@@ -227,7 +425,11 @@
     "familyCommonName": "Mustelids",
     "genus": "Lontra",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/143021291/medium.jpg"
   },
   {
     "slug": "pekania-pennanti",
@@ -237,7 +439,11 @@
     "familyCommonName": "Mustelids",
     "genus": "Pekania",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/139841617/medium.jpg"
   },
   {
     "slug": "neogale-vison",
@@ -247,7 +453,11 @@
     "familyCommonName": "Mustelids",
     "genus": "Neogale",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181264783/medium.jpeg"
   },
   {
     "slug": "peromyscus-leucopus",
@@ -257,7 +467,11 @@
     "familyCommonName": "Hamsters, Voles, Lemmings, and Allies",
     "genus": "Peromyscus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/287666363/medium.jpeg"
   },
   {
     "slug": "microtus-pennsylvanicus",
@@ -267,7 +481,17 @@
     "familyCommonName": "Hamsters, Voles, Lemmings, and Allies",
     "genus": "Microtus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "Meadow Vole",
+      "Muskeget Vole",
+      "Beach Vole",
+      "Gray Mouse"
+    ],
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6559205/medium.jpeg"
   },
   {
     "slug": "rattus-norvegicus",
@@ -277,7 +501,11 @@
     "familyCommonName": "Old World Mice and Rats",
     "genus": "Rattus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/31527567/medium.jpg"
   },
   {
     "slug": "megaptera-novaeangliae",
@@ -287,7 +515,11 @@
     "familyCommonName": "Rorquals",
     "genus": "Megaptera",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/255461843/medium.jpg"
   },
   {
     "slug": "felis-catus",
@@ -297,7 +529,11 @@
     "familyCommonName": "Felids",
     "genus": "Felis",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129658776/medium.jpg"
   },
   {
     "slug": "eptesicus-fuscus",
@@ -307,7 +543,11 @@
     "familyCommonName": "Evening Bats",
     "genus": "Eptesicus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52280980/medium.jpg"
   },
   {
     "slug": "parascalops-breweri",
@@ -317,7 +557,11 @@
     "familyCommonName": "Moles and Desmans",
     "genus": "Parascalops",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13017058/medium.jpeg"
   },
   {
     "slug": "mustela-richardsonii",
@@ -327,7 +571,11 @@
     "familyCommonName": "Mustelids",
     "genus": "Mustela",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/162860275/medium.jpg"
   },
   {
     "slug": "glaucomys-volans",
@@ -337,7 +585,11 @@
     "familyCommonName": "Squirrels",
     "genus": "Glaucomys",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/576824136/medium.jpg"
   },
   {
     "slug": "neogale-frenata",
@@ -347,7 +599,11 @@
     "familyCommonName": "Mustelids",
     "genus": "Neogale",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/42076367/medium.jpg"
   },
   {
     "slug": "phocoena-phocoena",
@@ -357,7 +613,11 @@
     "familyCommonName": "Porpoises",
     "genus": "Phocoena",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "common",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/253823396/medium.jpg"
   },
   {
     "slug": "condylura-cristata",
@@ -367,7 +627,11 @@
     "familyCommonName": "Moles and Desmans",
     "genus": "Condylura",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/15088320/medium.jpg"
   },
   {
     "slug": "eubalaena-glacialis",
@@ -377,7 +641,11 @@
     "familyCommonName": "Bowhead and Right Whales",
     "genus": "Eubalaena",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/60393661/medium.jpg"
   },
   {
     "slug": "balaenoptera-physalus",
@@ -387,7 +655,11 @@
     "familyCommonName": "Rorquals",
     "genus": "Balaenoptera",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/277726050/medium.jpg"
   },
   {
     "slug": "mus-musculus",
@@ -397,7 +669,11 @@
     "familyCommonName": "Old World Mice and Rats",
     "genus": "Mus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114043455/medium.jpg"
   },
   {
     "slug": "sorex-cinereus",
@@ -407,7 +683,11 @@
     "familyCommonName": "Shrews",
     "genus": "Sorex",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8291785/medium.jpg"
   },
   {
     "slug": "peromyscus-maniculatus",
@@ -417,7 +697,11 @@
     "familyCommonName": "Hamsters, Voles, Lemmings, and Allies",
     "genus": "Peromyscus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14118934/medium.jpg"
   },
   {
     "slug": "delphinus-delphis",
@@ -427,7 +711,11 @@
     "familyCommonName": "Oceanic Dolphins",
     "genus": "Delphinus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/158954338/medium.jpg"
   },
   {
     "slug": "zapus-hudsonius",
@@ -437,7 +725,11 @@
     "familyCommonName": "Jumping Mice",
     "genus": "Zapus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/6092440/medium.jpg"
   },
   {
     "slug": "martes-americana",
@@ -447,7 +739,11 @@
     "familyCommonName": "Mustelids",
     "genus": "Martes",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/55269683/medium.jpg"
   },
   {
     "slug": "balaenoptera-acutorostrata",
@@ -457,7 +753,11 @@
     "familyCommonName": "Rorquals",
     "genus": "Balaenoptera",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/216412632/medium.jpeg"
   },
   {
     "slug": "clethrionomys-gapperi",
@@ -467,7 +767,11 @@
     "familyCommonName": "Hamsters, Voles, Lemmings, and Allies",
     "genus": "Clethrionomys",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/186593832/medium.jpg"
   },
   {
     "slug": "napaeozapus-insignis",
@@ -477,7 +781,11 @@
     "familyCommonName": "Jumping Mice",
     "genus": "Napaeozapus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/47361837/medium.jpg"
   },
   {
     "slug": "leucopleurus-acutus",
@@ -487,7 +795,11 @@
     "familyCommonName": "Oceanic Dolphins",
     "genus": "Leucopleurus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227510649/medium.jpg"
   },
   {
     "slug": "lasiurus-borealis",
@@ -497,7 +809,11 @@
     "familyCommonName": "Evening Bats",
     "genus": "Lasiurus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/303082/medium.jpg"
   },
   {
     "slug": "pagophilus-groenlandicus",
@@ -507,7 +823,11 @@
     "familyCommonName": "Earless Seals",
     "genus": "Pagophilus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/450633301/medium.jpg"
   },
   {
     "slug": "glaucomys-sabrinus",
@@ -517,7 +837,11 @@
     "familyCommonName": "Squirrels",
     "genus": "Glaucomys",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/15899070/medium.jpg"
   },
   {
     "slug": "microtus-pinetorum",
@@ -527,7 +851,11 @@
     "familyCommonName": "Hamsters, Voles, Lemmings, and Allies",
     "genus": "Microtus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/13716373/medium.jpeg"
   },
   {
     "slug": "scalopus-aquaticus",
@@ -537,7 +865,11 @@
     "familyCommonName": "Moles and Desmans",
     "genus": "Scalopus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "moderate",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/540294418/medium.jpg"
   },
   {
     "slug": "lynx-canadensis",
@@ -547,7 +879,11 @@
     "familyCommonName": "Felids",
     "genus": "Lynx",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/116298857/medium.jpeg"
   },
   {
     "slug": "sorex-fumeus",
@@ -557,7 +893,11 @@
     "familyCommonName": "Shrews",
     "genus": "Sorex",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/256455835/medium.jpeg"
   },
   {
     "slug": "myotis-lucifugus",
@@ -567,7 +907,11 @@
     "familyCommonName": "Evening Bats",
     "genus": "Myotis",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/27212095/medium.jpeg"
   },
   {
     "slug": "sylvilagus-transitionalis",
@@ -577,7 +921,11 @@
     "familyCommonName": "Hares and Rabbits",
     "genus": "Sylvilagus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/139300887/medium.jpg"
   },
   {
     "slug": "lasionycteris-noctivagans",
@@ -587,7 +935,11 @@
     "familyCommonName": "Evening Bats",
     "genus": "Lasionycteris",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/155546304/medium.jpg"
   },
   {
     "slug": "sus-scrofa",
@@ -597,7 +949,11 @@
     "familyCommonName": "Suids",
     "genus": "Sus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/134772754/medium.jpg"
   },
   {
     "slug": "balaenoptera-borealis",
@@ -607,7 +963,11 @@
     "familyCommonName": "Rorquals",
     "genus": "Balaenoptera",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51082524/medium.jpg"
   },
   {
     "slug": "myotis-septentrionalis",
@@ -617,7 +977,11 @@
     "familyCommonName": "Evening Bats",
     "genus": "Myotis",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/368201520/medium.jpg"
   },
   {
     "slug": "oryctolagus-cuniculus",
@@ -627,7 +991,11 @@
     "familyCommonName": "Hares and Rabbits",
     "genus": "Oryctolagus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/520690657/medium.jpg"
   },
   {
     "slug": "perimyotis-subflavus",
@@ -637,7 +1005,11 @@
     "familyCommonName": "Evening Bats",
     "genus": "Perimyotis",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1743121/medium.jpg"
   },
   {
     "slug": "myotis-leibii",
@@ -647,7 +1019,11 @@
     "familyCommonName": "Evening Bats",
     "genus": "Myotis",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/42761791/medium.jpg"
   },
   {
     "slug": "canis-familiaris",
@@ -657,7 +1033,11 @@
     "familyCommonName": "Canids",
     "genus": "Canis",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/307568930/medium.jpg"
   },
   {
     "slug": "lasiurus-cinereus",
@@ -667,7 +1047,11 @@
     "familyCommonName": "Evening Bats",
     "genus": "Lasiurus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/559960/medium.jpg"
   },
   {
     "slug": "globicephala-melas",
@@ -677,7 +1061,11 @@
     "familyCommonName": "Oceanic Dolphins",
     "genus": "Globicephala",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/180464765/medium.jpeg"
   },
   {
     "slug": "tursiops-erebennus",
@@ -687,7 +1075,11 @@
     "familyCommonName": "Oceanic Dolphins",
     "genus": "Tursiops",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/365469286/medium.jpg"
   },
   {
     "slug": "tursiops-truncatus",
@@ -697,7 +1089,11 @@
     "familyCommonName": "Oceanic Dolphins",
     "genus": "Tursiops",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/211066160/medium.jpg"
   },
   {
     "slug": "bos-taurus",
@@ -707,7 +1103,11 @@
     "familyCommonName": "Bovids",
     "genus": "Bos",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/273302691/medium.jpg"
   },
   {
     "slug": "physeter-macrocephalus",
@@ -717,7 +1117,11 @@
     "familyCommonName": "True Sperm Whales",
     "genus": "Physeter",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "uncommon",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28629750/medium.jpg"
   },
   {
     "slug": "sorex-hoyi",
@@ -727,7 +1131,11 @@
     "familyCommonName": "Shrews",
     "genus": "Sorex",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/141327445/medium.jpg"
   },
   {
     "slug": "synaptomys-cooperi",
@@ -737,7 +1145,11 @@
     "familyCommonName": "Hamsters, Voles, Lemmings, and Allies",
     "genus": "Synaptomys",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/25268915/medium.jpeg"
   },
   {
     "slug": "grampus-griseus",
@@ -747,7 +1159,11 @@
     "familyCommonName": "Oceanic Dolphins",
     "genus": "Grampus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/142809664/medium.jpg"
   },
   {
     "slug": "kogia-breviceps",
@@ -757,7 +1173,11 @@
     "familyCommonName": "Dwarf and Pygmy Sperm Whales",
     "genus": "Kogia",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/198282116/medium.jpg"
   },
   {
     "slug": "puma-concolor",
@@ -767,7 +1187,11 @@
     "familyCommonName": "Felids",
     "genus": "Puma",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9834553/medium.jpg"
   },
   {
     "slug": "ovis-aries",
@@ -777,7 +1201,11 @@
     "familyCommonName": "Bovids",
     "genus": "Ovis",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/241466812/medium.jpeg"
   },
   {
     "slug": "capra-hircus",
@@ -787,7 +1215,11 @@
     "familyCommonName": "Bovids",
     "genus": "Capra",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/6035700/medium.jpeg"
   },
   {
     "slug": "sorex-albibarbis",
@@ -797,7 +1229,11 @@
     "familyCommonName": "Shrews",
     "genus": "Sorex",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/78424735/medium.jpg"
   },
   {
     "slug": "myotis-sodalis",
@@ -807,7 +1243,11 @@
     "familyCommonName": "Evening Bats",
     "genus": "Myotis",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://static.inaturalist.org/photos/33872815/medium.jpeg"
   },
   {
     "slug": "mesoplodon-mirus",
@@ -817,7 +1257,11 @@
     "familyCommonName": "Beaked Whales",
     "genus": "Mesoplodon",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23007358/medium.png"
   },
   {
     "slug": "delphinapterus-leucas",
@@ -827,7 +1271,11 @@
     "familyCommonName": "Narwhals and Belugas",
     "genus": "Delphinapterus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/478518030/medium.jpg"
   },
   {
     "slug": "globicephala-macrorhynchus",
@@ -837,7 +1285,11 @@
     "familyCommonName": "Oceanic Dolphins",
     "genus": "Globicephala",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/51450464/medium.jpeg"
   },
   {
     "slug": "cystophora-cristata",
@@ -847,7 +1299,11 @@
     "familyCommonName": "Earless Seals",
     "genus": "Cystophora",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/376676925/medium.jpg"
   },
   {
     "slug": "meriones-unguiculatus",
@@ -857,7 +1313,11 @@
     "familyCommonName": "Old World Mice and Rats",
     "genus": "Meriones",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/277034312/medium.jpg"
   },
   {
     "slug": "trichechus-manatus",
@@ -867,7 +1327,15 @@
     "familyCommonName": "Manatees",
     "genus": "Trichechus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "alternativeNames": [
+      "American Manatee",
+      "North American Manatee"
+    ],
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9596501/medium.jpg"
   },
   {
     "slug": "cryptotis-parvus",
@@ -877,7 +1345,11 @@
     "familyCommonName": "Shrews",
     "genus": "Cryptotis",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": true,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/45985612/medium.jpeg"
   },
   {
     "slug": "equus-caballus",
@@ -887,7 +1359,11 @@
     "familyCommonName": "Equines",
     "genus": "Equus",
     "group": "mammals",
-    "type": "species"
+    "type": "species",
+    "abundanceTier": "rare",
+    "isNative": false,
+    "isInvasive": false,
+    "thumbnailUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/23672580/medium.jpeg"
   },
   {
     "slug": "explore/tree-squirrels",

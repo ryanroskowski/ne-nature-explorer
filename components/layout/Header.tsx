@@ -79,8 +79,35 @@ export default function Header() {
           </nav>
 
           {/* Desktop search */}
-          <div className="hidden md:block w-56" role="search" aria-label="Site search">
-            <SearchBar />
+          <div
+            className="hidden md:flex items-center gap-1.5 w-64"
+            role="search"
+            aria-label="Site search"
+          >
+            <div className="flex-1 min-w-0">
+              <SearchBar />
+            </div>
+            <Link
+              href="/search"
+              aria-label="Open full search page with filters"
+              title="Open search page"
+              className="shrink-0 p-1.5 rounded-lg border border-border bg-card text-text-secondary hover:text-forest hover:border-forest/40 hover:bg-cream-dark transition-colors"
+            >
+              <svg
+                className="w-4 h-4"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+                aria-hidden="true"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2a1 1 0 01-.293.707L14 13.414V19a1 1 0 01-.293.707l-2 2A1 1 0 0110 21v-7.586L3.293 6.707A1 1 0 013 6V4z"
+                />
+              </svg>
+            </Link>
           </div>
 
           {/* Mobile: search + hamburger */}
@@ -140,7 +167,32 @@ export default function Header() {
                 })}
               </div>
               <div className="mt-3 pt-3 border-t border-border" role="search" aria-label="Site search">
-                <SearchBar />
+                <div className="flex items-center gap-2">
+                  <div className="flex-1 min-w-0">
+                    <SearchBar />
+                  </div>
+                  <Link
+                    href="/search"
+                    aria-label="Open full search page with filters"
+                    className="shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-border bg-card text-sm font-ui text-text-secondary hover:text-forest hover:border-forest/40 hover:bg-cream-dark transition-colors"
+                  >
+                    <svg
+                      className="w-4 h-4"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                      aria-hidden="true"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2a1 1 0 01-.293.707L14 13.414V19a1 1 0 01-.293.707l-2 2A1 1 0 0110 21v-7.586L3.293 6.707A1 1 0 013 6V4z"
+                      />
+                    </svg>
+                    Filters
+                  </Link>
+                </div>
               </div>
             </nav>
           </motion.div>
