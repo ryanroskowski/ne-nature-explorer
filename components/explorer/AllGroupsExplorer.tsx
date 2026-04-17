@@ -86,9 +86,15 @@ interface AllGroupsExplorerProps {
 
 /** Find a node by slug and return the path of IDs from root to that node */
 function findNodePath(node: TaxonomyNode, targetSlug: string, path: number[] = []): number[] | null {
-  const nodeSlug = slugify(node.name);
   const currentPath = [...path, node.id];
-  if (nodeSlug === targetSlug) return currentPath;
+  // Match against both the pre-computed slug (built from commonName) and a
+  // fallback slug from the scientific name — breadcrumbs use common-name slugs
+  // but users might also deep-link by scientific name.
+  const nodeSlug = node.slug || slugify(node.commonName || node.name);
+  const scientificSlug = slugify(node.name);
+  if (nodeSlug === targetSlug || scientificSlug === targetSlug) {
+    return currentPath;
+  }
   for (const child of node.children) {
     const result = findNodePath(child, targetSlug, currentPath);
     if (result) return result;
@@ -351,8 +357,13 @@ function InnerNode({
 
 // ── Main component ───────────────────────────────────────────
 export default function AllGroupsExplorer({ allTrees, initialGroup, initialSpecies, initialPath }: AllGroupsExplorerProps) {
+  // A "deep link" is any URL with explicit intent (group, species, or path).
+  // These arrive from breadcrumbs, shared URLs, etc. and should reset the tree
+  // so stale expanded/flattened state from previous sessions doesn't leak in.
+  const isDeepLink = !!(initialPath || initialGroup || initialSpecies);
+
   const [expandedIds, setExpandedIds] = useState<Set<number>>(() => {
-    // If we have a specific path to expand to, prioritize that
+    // Deep link with path: expand only ancestors of the target node
     if (initialPath) {
       const targetSlug = initialPath.split("/").pop() || initialPath;
       const group = initialGroup
@@ -362,14 +373,28 @@ export default function AllGroupsExplorer({ allTrees, initialGroup, initialSpeci
       for (const { tree } of searchTrees) {
         const nodePath = findNodePath(tree, targetSlug);
         if (nodePath) {
-          // Expand all ancestors so the target node is visible
-          const ids = new Set(nodePath);
-          return ids;
+          return new Set(nodePath);
         }
       }
+      // Path didn't match — fall through to group-based default (fresh)
     }
 
-    // Try restoring from sessionStorage first
+    // Deep link (group/species only, or path not found): fresh group-level view
+    if (isDeepLink) {
+      const ids = new Set<number>();
+      const target = initialGroup
+        ? allTrees.find((t) => t.group.key === initialGroup)
+        : null;
+      if (target) {
+        expandLevels(target.tree, 0, ids);
+      } else if (allTrees.length > 0) {
+        expandLevels(allTrees[0].tree, 0, ids);
+      }
+      return ids;
+    }
+
+    // Plain /explore: restore from sessionStorage (preserves user's place
+    // when returning from a species page via the back button)
     try {
       const savedIds = sessionStorage.getItem(STORAGE_KEY);
       if (savedIds) {
@@ -380,14 +405,9 @@ export default function AllGroupsExplorer({ allTrees, initialGroup, initialSpeci
       }
     } catch {}
 
-    // Fallback: expand the requested group (or first group) to 2 levels
-    const target = initialGroup
-      ? allTrees.find((t) => t.group.key === initialGroup)
-      : null;
+    // Fallback: expand the first group to 2 levels
     const ids = new Set<number>();
-    if (target) {
-      expandLevels(target.tree, 0, ids);
-    } else if (allTrees.length > 0) {
+    if (allTrees.length > 0) {
       expandLevels(allTrees[0].tree, 0, ids);
     }
     return ids;
@@ -445,8 +465,10 @@ export default function AllGroupsExplorer({ allTrees, initialGroup, initialSpeci
     });
   }, []);
 
-  // Flattened nodes state — which nodes are showing all species flat
+  // Flattened nodes state — which nodes are showing all species flat.
+  // Reset to empty on deep link so breadcrumb navigation gets a clean tree.
   const [flattenedIds, setFlattenedIds] = useState<Set<number>>(() => {
+    if (isDeepLink) return new Set();
     try {
       const saved = sessionStorage.getItem(FLATTEN_KEY);
       if (saved) {
@@ -543,11 +565,25 @@ export default function AllGroupsExplorer({ allTrees, initialGroup, initialSpeci
     return () => window.removeEventListener("popstate", handlePopState);
   }, [selectSpecies]);
 
-  // Load species panel on mount — check URL first, then sessionStorage fallback
+  // Load species panel on mount — check URL first, then sessionStorage fallback.
+  // On deep link, skip the sessionStorage fallback so a stale species panel
+  // doesn't appear when navigating via breadcrumb. Also scrub related state
+  // so it doesn't leak into subsequent plain /explore visits.
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const urlSpecies = params.get("species");
-    const savedSpecies = (() => { try { return sessionStorage.getItem(SPECIES_PANEL_KEY); } catch { return null; } })();
+    if (isDeepLink) {
+      try {
+        sessionStorage.removeItem(FLATTEN_KEY);
+        sessionStorage.removeItem(TREE_SCROLL_KEY);
+        if (!urlSpecies && !initialSpecies) {
+          sessionStorage.removeItem(SPECIES_PANEL_KEY);
+        }
+      } catch {}
+    }
+    const savedSpecies = isDeepLink
+      ? null
+      : (() => { try { return sessionStorage.getItem(SPECIES_PANEL_KEY); } catch { return null; } })();
     const slug = urlSpecies || initialSpecies || savedSpecies;
     if (slug) {
       selectSpecies(slug);
