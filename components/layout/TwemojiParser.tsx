@@ -21,14 +21,23 @@ export default function TwemojiParser() {
       }
     }
 
-    // Parse on initial load
-    parse();
+    // Defer the first parse until after hydration completes. This component
+    // mounts outside the root <Suspense> boundary, so without this delay its
+    // effect can fire and mutate the DOM (swapping emoji text for <img>s)
+    // before React finishes hydrating the Header — which triggers a
+    // "server-rendered text didn't match client" warning.
+    let observer: MutationObserver | null = null;
+    const rafId = requestAnimationFrame(() => {
+      parse();
+      // Re-parse when DOM changes (route transitions, dynamic content)
+      observer = new MutationObserver(() => parse());
+      observer.observe(document.body, { childList: true, subtree: true });
+    });
 
-    // Re-parse when DOM changes (route transitions, dynamic content)
-    const observer = new MutationObserver(() => parse());
-    observer.observe(document.body, { childList: true, subtree: true });
-
-    return () => observer.disconnect();
+    return () => {
+      cancelAnimationFrame(rafId);
+      observer?.disconnect();
+    };
   }, []);
 
   return null;
