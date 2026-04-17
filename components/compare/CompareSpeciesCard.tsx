@@ -1,11 +1,11 @@
 "use client";
 
 import { useState, useRef, useCallback } from "react";
-import Link from "next/link";
 import Image from "next/image";
 import { AnimatePresence, motion } from "framer-motion";
 import AbundanceDots from "@/components/ui/AbundanceDots";
 import FamilyBadge from "@/components/ui/FamilyBadge";
+import SpeciesLink from "@/components/species-panel/SpeciesLink";
 import { blurDataURL } from "@/lib/image-utils";
 import type { AbundanceTier, SpeciesPhoto } from "@/lib/types";
 
@@ -173,8 +173,8 @@ export default function CompareSpeciesCard({
       </div>
 
       {/* Content area — IS a link to species page */}
-      <Link
-        href={`/species/${slug}`}
+      <SpeciesLink
+        slug={slug}
         className="block p-4 hover:bg-forest/5 transition-colors"
       >
         <h3 className="font-serif font-semibold text-text-primary group-hover/card:text-forest transition-colors">
@@ -185,7 +185,7 @@ export default function CompareSpeciesCard({
           <FamilyBadge family={family} familyCommonName={familyCommonName} />
           <AbundanceDots tier={abundanceTier} />
         </div>
-      </Link>
+      </SpeciesLink>
     </div>
   );
 }

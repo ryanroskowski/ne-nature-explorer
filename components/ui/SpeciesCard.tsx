@@ -1,10 +1,10 @@
 "use client";
 
 import { useState, useRef, useCallback } from "react";
-import Link from "next/link";
 import Image from "next/image";
 import AbundanceDots from "./AbundanceDots";
 import FamilyBadge from "./FamilyBadge";
+import SpeciesLink from "@/components/species-panel/SpeciesLink";
 import { blurDataURL } from "@/lib/image-utils";
 import type { AbundanceTier } from "@/lib/types";
 
@@ -134,8 +134,8 @@ export default function SpeciesCard({
         </div>
 
         {/* Content area — IS a link to species page */}
-        <Link
-          href={`/species/${slug}`}
+        <SpeciesLink
+          slug={slug}
           className={`block hover:bg-forest/5 transition-colors ${compact ? "p-3" : large ? "p-5" : "p-4"}`}
         >
           <h3 className={`font-serif font-semibold text-text-primary group-hover/card:text-forest transition-colors ${compact ? "text-sm" : large ? "text-lg" : "text-base"}`}>
@@ -148,15 +148,15 @@ export default function SpeciesCard({
             <FamilyBadge family={family} familyCommonName={familyCommonName} />
             <AbundanceDots tier={abundanceTier} />
           </div>
-        </Link>
+        </SpeciesLink>
       </div>
     );
   }
 
   // --- Simple layout: whole card is a link (original behavior) ---
   return (
-    <Link
-      href={`/species/${slug}`}
+    <SpeciesLink
+      slug={slug}
       className="group block bg-card rounded-2xl border border-border overflow-hidden transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md"
     >
       {/* Photo */}
@@ -194,6 +194,6 @@ export default function SpeciesCard({
           <AbundanceDots tier={abundanceTier} />
         </div>
       </div>
-    </Link>
+    </SpeciesLink>
   );
 }

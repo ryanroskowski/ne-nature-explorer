@@ -1,7 +1,7 @@
 "use client";
 
-import Link from "next/link";
 import Image from "next/image";
+import SpeciesLink from "@/components/species-panel/SpeciesLink";
 import { blurDataURL } from "@/lib/image-utils";
 import type { SpeciesData } from "@/lib/types";
 
@@ -43,7 +43,7 @@ export default function CompareTable({ species }: { species: SpeciesData[] }) {
             </th>
             {species.map((s) => (
               <th key={s.slug} className="p-3 bg-cream-dark/50 last:rounded-tr-xl">
-                <Link href={`/species/${s.slug}`} className="group block">
+                <SpeciesLink slug={s.slug} className="group block">
                   <div className="relative w-16 h-16 mx-auto rounded-xl overflow-hidden bg-cream-dark mb-2">
                     {s.photos[0]?.mediumUrl ? (
                       <Image
@@ -65,7 +65,7 @@ export default function CompareTable({ species }: { species: SpeciesData[] }) {
                   <span className="text-xs italic text-text-secondary block">
                     {s.scientificName}
                   </span>
-                </Link>
+                </SpeciesLink>
               </th>
             ))}
           </tr>

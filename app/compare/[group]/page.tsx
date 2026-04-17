@@ -3,6 +3,8 @@ import CompareGroup from "@/components/compare/CompareGroup";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import Link from "next/link";
 import type { Metadata } from "next";
+import { SpeciesPanelProvider } from "@/components/species-panel/SpeciesPanelContext";
+import SpeciesPanelShell from "@/components/species-panel/SpeciesPanelShell";
 
 function slugify(text: string): string {
   return text
@@ -179,41 +181,47 @@ export default async function CompareGroupPage({
   ];
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
-      <Breadcrumbs items={breadcrumbItems} />
+    <SpeciesPanelProvider storageKey={`species-panel-compare-${groupSlug}`}>
+      <div className="mx-auto px-4 sm:px-6 py-8 max-w-7xl lg:max-w-[95vw]">
+        <Breadcrumbs items={breadcrumbItems} />
 
-      <header className="mb-8">
-        <h1 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary capitalize">
-          Compare {match.genusCommonName}
-        </h1>
-        <p className="text-text-secondary mt-1 text-sm">
-          <span className="italic">{match.genus}</span>
-          {match.type === "genus" && (
+        <header className="mb-8">
+          <h1 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary capitalize">
+            Compare {match.genusCommonName}
+          </h1>
+          <p className="text-text-secondary mt-1 text-sm">
+            <span className="italic">{match.genus}</span>
+            {match.type === "genus" && (
+              <span className="mx-2 text-text-muted">·</span>
+            )}
+            {match.type === "genus" && (
+              <span>
+                {match.familyCommonName} ({match.family})
+              </span>
+            )}
             <span className="mx-2 text-text-muted">·</span>
-          )}
-          {match.type === "genus" && (
-            <span>
-              {match.familyCommonName} ({match.family})
-            </span>
-          )}
-          <span className="mx-2 text-text-muted">·</span>
-          <span>{match.species.length} species</span>
-        </p>
-      </header>
+            <span>{match.species.length} species</span>
+          </p>
+        </header>
 
-      {genusGroups.map((g) => (
-        <CompareGroup key={g.genus} group={g} />
-      ))}
+        <SpeciesPanelShell>
+          <div>
+            {genusGroups.map((g) => (
+              <CompareGroup key={g.genus} group={g} />
+            ))}
 
-      <div className="mt-8 pt-6 border-t border-border">
-        <Link
-          href="/compare"
-          className="text-forest hover:text-forest-light font-ui text-sm"
-        >
-          ← View all comparisons
-        </Link>
+            <div className="mt-8 pt-6 border-t border-border">
+              <Link
+                href="/compare"
+                className="text-forest hover:text-forest-light font-ui text-sm"
+              >
+                ← View all comparisons
+              </Link>
+            </div>
+          </div>
+        </SpeciesPanelShell>
       </div>
-    </div>
+    </SpeciesPanelProvider>
   );
 }
 

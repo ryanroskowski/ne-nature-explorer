@@ -1,6 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
+import { SpeciesPanelProvider } from "@/components/species-panel/SpeciesPanelContext";
 import type { NatureArea, SpeciesIndexData } from "@/lib/types";
 
 const NatureMap = dynamic(() => import("./NatureMap"), {
@@ -24,5 +25,9 @@ interface NatureMapLoaderProps {
 }
 
 export default function NatureMapLoader({ areas, speciesIndex }: NatureMapLoaderProps) {
-  return <NatureMap areas={areas} speciesIndex={speciesIndex} />;
+  return (
+    <SpeciesPanelProvider storageKey="species-panel-map">
+      <NatureMap areas={areas} speciesIndex={speciesIndex} />
+    </SpeciesPanelProvider>
+  );
 }

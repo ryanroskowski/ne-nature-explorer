@@ -5,6 +5,8 @@ import ComparePageClient from "@/components/compare/ComparePageClient";
 import GenusSearch from "@/components/compare/GenusSearch";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import GroupTabs from "@/components/ui/GroupTabs";
+import { SpeciesPanelProvider } from "@/components/species-panel/SpeciesPanelContext";
+import SpeciesPanelShell from "@/components/species-panel/SpeciesPanelShell";
 
 export const metadata: Metadata = {
   title: "Compare Species — NE Nature Explorer",
@@ -14,9 +16,9 @@ export const metadata: Metadata = {
 export default async function ComparePage({
   searchParams,
 }: {
-  searchParams: Promise<{ group?: string }>;
+  searchParams: Promise<{ group?: string; species?: string }>;
 }) {
-  const { group = "plants" } = await searchParams;
+  const { group = "plants", species: initialSpecies } = await searchParams;
   const groups = getAvailableGroups();
 
   // Load all species and filter by group
@@ -69,38 +71,42 @@ export default async function ComparePage({
   }));
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
-      <Breadcrumbs
-        items={[
-          { label: "Home", rank: "page", slug: "" },
-          { label: "Compare", rank: "page", slug: "compare" },
-        ]}
-      />
+    <SpeciesPanelProvider storageKey="species-panel-compare" initialSpecies={initialSpecies}>
+      <div className="mx-auto px-4 sm:px-6 py-8 max-w-7xl lg:max-w-[95vw]">
+        <Breadcrumbs
+          items={[
+            { label: "Home", rank: "page", slug: "" },
+            { label: "Compare", rank: "page", slug: "compare" },
+          ]}
+        />
 
-      <header className="mb-8">
-        <h1 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary">
-          Compare Species
-        </h1>
-        <p className="text-text-secondary mt-2 text-lg max-w-2xl">
-          See related species side by side. Understanding how similar species
-          differ is one of the best ways to sharpen your identification skills.
-        </p>
-      </header>
+        <header className="mb-8">
+          <h1 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary">
+            Compare Species
+          </h1>
+          <p className="text-text-secondary mt-2 text-lg max-w-2xl">
+            See related species side by side. Understanding how similar species
+            differ is one of the best ways to sharpen your identification skills.
+          </p>
+        </header>
 
-      <GroupTabs groups={groups} currentGroup={group} />
+        <GroupTabs groups={groups} currentGroup={group} />
 
-      {/* Search for genera */}
-      <div className="mb-8">
-        <GenusSearch groups={searchGroups} />
+        {/* Search for genera */}
+        <div className="mb-8">
+          <GenusSearch groups={searchGroups} />
+        </div>
+
+        <SpeciesPanelShell>
+          {comparableGenera.length === 0 ? (
+            <p className="text-text-secondary">
+              No genera with multiple species found yet.
+            </p>
+          ) : (
+            <ComparePageClient groups={genusGroups} />
+          )}
+        </SpeciesPanelShell>
       </div>
-
-      {comparableGenera.length === 0 ? (
-        <p className="text-text-secondary">
-          No genera with multiple species found yet.
-        </p>
-      ) : (
-        <ComparePageClient groups={genusGroups} />
-      )}
-    </div>
+    </SpeciesPanelProvider>
   );
 }

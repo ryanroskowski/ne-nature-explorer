@@ -1,8 +1,8 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import Link from "next/link";
 import Image from "next/image";
+import SpeciesLink from "@/components/species-panel/SpeciesLink";
 import MonthSelector, { MONTHS, MONTH_SEASON } from "./MonthSelector";
 import { blurDataURL } from "@/lib/image-utils";
 import type { SeasonalGuide as SeasonalGuideType } from "@/lib/types";
@@ -118,9 +118,9 @@ export default function SeasonalGuide({ guide }: { guide: SeasonalGuideType | nu
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
                   {visibleSpecies.map((sp) => (
-                    <Link
+                    <SpeciesLink
                       key={sp.slug}
-                      href={`/species/${sp.slug}`}
+                      slug={sp.slug}
                       className="group flex gap-3 bg-card border border-border rounded-xl p-3 hover:border-forest/30 hover:-translate-y-0.5 hover:shadow-sm transition-all duration-200"
                     >
                       {/* Thumbnail */}
@@ -156,7 +156,7 @@ export default function SeasonalGuide({ guide }: { guide: SeasonalGuideType | nu
                           </p>
                         )}
                       </div>
-                    </Link>
+                    </SpeciesLink>
                   ))}
                 </div>
 

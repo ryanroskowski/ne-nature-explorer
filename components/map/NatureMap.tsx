@@ -13,6 +13,7 @@ import type { NatureArea, SpeciesIndexData } from "@/lib/types";
 import { useAreaSpecies } from "@/lib/useAreaSpecies";
 import AreaDetailPanel from "./AreaDetailPanel";
 import MapFilters from "./MapFilters";
+import MapSpeciesOverlay from "@/components/species-panel/MapSpeciesOverlay";
 
 interface NatureMapProps {
   areas: NatureArea[];
@@ -540,6 +541,9 @@ export default function NatureMap({ areas, speciesIndex }: NatureMapProps) {
           onClose={() => selectArea(null)}
         />
       )}
+
+      {/* Species detail overlay — renders on top of map when a species is selected */}
+      <MapSpeciesOverlay areaPanelOpen={!!selectedArea} />
     </div>
   );
 }

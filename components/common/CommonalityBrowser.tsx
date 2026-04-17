@@ -1,9 +1,9 @@
 "use client";
 
 import { useState, useMemo, useCallback } from "react";
-import Link from "next/link";
 import Image from "next/image";
 import SpeciesCard from "@/components/ui/SpeciesCard";
+import SpeciesLink from "@/components/species-panel/SpeciesLink";
 import FamilyFilter from "./FamilyFilter";
 import { blurDataURL } from "@/lib/image-utils";
 import type { CommonalityEntry, AbundanceTier } from "@/lib/types";
@@ -163,9 +163,9 @@ export default function CommonalityBrowser({
             </p>
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
               {startHereSpecies.map((s, i) => (
-                <Link
+                <SpeciesLink
                   key={s.slug}
-                  href={`/species/${s.slug}`}
+                  slug={s.slug}
                   className="group block bg-card rounded-xl border border-border overflow-hidden transition-all hover:-translate-y-0.5 hover:shadow-md"
                 >
                   <div className="relative h-24 sm:h-28 overflow-hidden bg-cream-dark">
@@ -198,7 +198,7 @@ export default function CommonalityBrowser({
                       {s.scientificName}
                     </span>
                   </div>
-                </Link>
+                </SpeciesLink>
               ))}
             </div>
           </div>

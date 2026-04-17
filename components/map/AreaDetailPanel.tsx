@@ -1,10 +1,9 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import Link from "next/link";
-import Image from "next/image";
 import { motion } from "framer-motion";
 import GroupIcon from "@/components/ui/GroupIcon";
+import SpeciesLink from "@/components/species-panel/SpeciesLink";
 import type { NatureArea, AreaSpeciesData, AreaSpeciesEntry } from "@/lib/types";
 
 interface AreaDetailPanelProps {
@@ -77,8 +76,8 @@ function UniquenessLabel({ score }: { score: number }) {
 
 function SpeciesRow({ species }: { species: AreaSpeciesEntry }) {
   return (
-    <Link
-      href={`/species/${species.slug}`}
+    <SpeciesLink
+      slug={species.slug}
       className="flex items-center gap-3 p-2 rounded-lg hover:bg-cream-dark transition-colors group"
     >
       {species.thumbnailUrl ? (
@@ -106,7 +105,7 @@ function SpeciesRow({ species }: { species: AreaSpeciesEntry }) {
       <span className="text-xs text-text-muted shrink-0">
         {species.observationCount.toLocaleString()} obs
       </span>
-    </Link>
+    </SpeciesLink>
   );
 }
 
