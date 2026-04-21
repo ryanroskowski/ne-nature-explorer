@@ -496,6 +496,7 @@ export default function AllGroupsExplorer({ allTrees, initialGroup, initialSpeci
   const [selectedSlug, setSelectedSlug] = useState<string | null>(initialSpecies || null);
   const [speciesData, setSpeciesData] = useState<SpeciesData | null>(null);
   const [articlesData, setArticlesData] = useState<ContextualArticle[]>([]);
+  const [rangeMapHtml, setRangeMapHtml] = useState<string | null>(null);
   const [panelLoading, setPanelLoading] = useState(false);
   const [isDesktop, setIsDesktop] = useState(false);
 
@@ -530,9 +531,11 @@ export default function AllGroupsExplorer({ allTrees, initialGroup, initialSpeci
       const data = await res.json();
       setSpeciesData(data.species);
       setArticlesData(data.articles || []);
+      setRangeMapHtml(data.rangeMapHtml ?? null);
     } catch {
       setSpeciesData(null);
       setArticlesData([]);
+      setRangeMapHtml(null);
     } finally {
       setPanelLoading(false);
     }
@@ -542,6 +545,7 @@ export default function AllGroupsExplorer({ allTrees, initialGroup, initialSpeci
     setSelectedSlug(null);
     setSpeciesData(null);
     setArticlesData([]);
+    setRangeMapHtml(null);
     try { sessionStorage.removeItem(SPECIES_PANEL_KEY); } catch {}
     const url = new URL(window.location.href);
     url.searchParams.delete("species");
@@ -559,6 +563,7 @@ export default function AllGroupsExplorer({ allTrees, initialGroup, initialSpeci
         setSelectedSlug(null);
         setSpeciesData(null);
         setArticlesData([]);
+        setRangeMapHtml(null);
       }
     };
     window.addEventListener("popstate", handlePopState);
@@ -887,6 +892,7 @@ export default function AllGroupsExplorer({ allTrees, initialGroup, initialSpeci
               key={speciesData.slug}
               species={speciesData}
               articles={articlesData}
+              rangeMapHtml={rangeMapHtml}
               onClose={closePanel}
               onSelectSpecies={selectSpecies}
             />

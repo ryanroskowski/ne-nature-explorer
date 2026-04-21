@@ -48,6 +48,7 @@ export default function MapSpeciesOverlay({
           <SpeciesDetailPanel
             species={panel.speciesData}
             articles={panel.articlesData}
+            rangeMapHtml={panel.rangeMapHtml}
             onClose={panel.closePanel}
             onSelectSpecies={panel.selectSpecies}
           />

@@ -23,6 +23,8 @@ interface SpeciesPanelState {
   selectedSlug: string | null;
   speciesData: SpeciesData | null;
   articlesData: ContextualArticle[];
+  /** Server-rendered range-map SVG HTML, or null if no range data exists. */
+  rangeMapHtml: string | null;
   loading: boolean;
   isDesktop: boolean;
   showPanel: boolean; // convenience: selectedSlug !== null && isDesktop
@@ -54,6 +56,7 @@ export function SpeciesPanelProvider({
   );
   const [speciesData, setSpeciesData] = useState<SpeciesData | null>(null);
   const [articlesData, setArticlesData] = useState<ContextualArticle[]>([]);
+  const [rangeMapHtml, setRangeMapHtml] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
   const [isDesktop, setIsDesktop] = useState(false);
 
@@ -75,6 +78,7 @@ export function SpeciesPanelProvider({
       setLoading(true);
       setSpeciesData(null);
       setArticlesData([]);
+      setRangeMapHtml(null);
 
       // Scroll to top so the split-pane fills the viewport
       window.scrollTo({ top: 0, behavior: "instant" as ScrollBehavior });
@@ -100,10 +104,12 @@ export function SpeciesPanelProvider({
         if (fetchIdRef.current !== fetchId) return;
         setSpeciesData(data.species);
         setArticlesData(data.articles || []);
+        setRangeMapHtml(data.rangeMapHtml ?? null);
       } catch {
         if (fetchIdRef.current === fetchId) {
           setSpeciesData(null);
           setArticlesData([]);
+          setRangeMapHtml(null);
         }
       } finally {
         if (fetchIdRef.current === fetchId) {
@@ -118,6 +124,7 @@ export function SpeciesPanelProvider({
     setSelectedSlug(null);
     setSpeciesData(null);
     setArticlesData([]);
+    setRangeMapHtml(null);
     try {
       sessionStorage.removeItem(storageKey);
     } catch {}
@@ -142,6 +149,7 @@ export function SpeciesPanelProvider({
         setSelectedSlug(null);
         setSpeciesData(null);
         setArticlesData([]);
+        setRangeMapHtml(null);
       }
     };
     window.addEventListener("popstate", handlePopState);
@@ -182,6 +190,7 @@ export function SpeciesPanelProvider({
     selectedSlug,
     speciesData,
     articlesData,
+    rangeMapHtml,
     loading,
     isDesktop,
     showPanel,

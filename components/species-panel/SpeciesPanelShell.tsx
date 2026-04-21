@@ -93,6 +93,7 @@ export default function SpeciesPanelShell({
               key={panel.selectedSlug}
               species={panel.speciesData}
               articles={panel.articlesData}
+              rangeMapHtml={panel.rangeMapHtml}
               onClose={panel.closePanel}
               onSelectSpecies={panel.selectSpecies}
             />

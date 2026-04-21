@@ -41,6 +41,13 @@ function Section({
 interface SpeciesDetailPanelProps {
   species: SpeciesData;
   articles: ContextualArticle[];
+  /**
+   * Server-rendered Little's-style range-map SVG as an HTML string.
+   * Injected via dangerouslySetInnerHTML because RangeMap is a server
+   * component that reads GeoJSON from disk — it can't be imported into
+   * this client component directly. See app/api/species/[slug]/route.tsx.
+   */
+  rangeMapHtml?: string | null;
   onClose: () => void;
   onSelectSpecies: (slug: string) => void;
 }
@@ -48,6 +55,7 @@ interface SpeciesDetailPanelProps {
 export default function SpeciesDetailPanel({
   species,
   articles,
+  rangeMapHtml,
   onClose,
   onSelectSpecies,
 }: SpeciesDetailPanelProps) {
@@ -155,6 +163,13 @@ export default function SpeciesDetailPanel({
                 {species.habitat}
               </p>
             </div>
+          </Section>
+        )}
+
+        {/* Range — server-rendered Little's-style map, injected as HTML */}
+        {rangeMapHtml && (
+          <Section title="Range" icon="🧭" accent="text-forest">
+            <div dangerouslySetInnerHTML={{ __html: rangeMapHtml }} />
           </Section>
         )}
 
