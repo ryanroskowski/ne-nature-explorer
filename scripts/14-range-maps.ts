@@ -23,7 +23,7 @@ import fs from "fs";
 import path from "path";
 import type { SpeciesData } from "../lib/types";
 import {
-  clipPointsToNA,
+  clipPointsToUSCanada,
   computeHull,
   fetchObservationPoints,
   finalizePolygon,
@@ -128,10 +128,10 @@ async function processSpecies(
   const allPoints = await fetchObservationPoints(species.taxonId, 500);
   if (allPoints.length < 4) return null;
 
-  // Clip to North America — the map only shows NA, and a hull over a
-  // globally-distributed species draws a polygon that slashes across
-  // the ocean. See NA_POINT_CLIP for the full rationale.
-  const points = clipPointsToNA(allPoints);
+  // Clip to US + Canada land. Without this, global hulls slice across
+  // oceans and coastal hulls cross the Gulf of Mexico. See
+  // clipPointsToUSCanada for the full rationale.
+  const points = clipPointsToUSCanada(allPoints);
   if (points.length < 4) return null;
 
   const hull = computeHull(points, 2.5);

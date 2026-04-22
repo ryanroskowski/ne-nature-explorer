@@ -146,33 +146,76 @@ export function getLittlesPolygon(
 const INAT_BASE = "https://api.inaturalist.org/v1";
 
 /**
- * Bounding box used to clip iNaturalist observations to North America
- * (plus Alaska, Central America, the Caribbean, and a margin) before
- * computing the concave hull.
+ * Bounding box for US+Canada first-pass filtering of iNat observations.
+ * Used as a fast O(1) filter before the more expensive point-in-polygon
+ * check against USCA_POLYGONS.
  *
- * Without this clip, species like Pieris japonica — native to Japan
- * but widely planted across North America and Europe — end up with a
- * concave hull spanning three continents. When that hull is drawn on
- * the Albers-NA projection, long straight edges slice across the
- * Pacific and Atlantic, producing obviously wrong green blobs in the
- * ocean. Since the map only shows NA, clipping to NA at the point
- * stage also produces the polygon users actually want to see: where
- * the species occurs in (and near) New England/North America.
- *
+ * Covers continental US + Alaska + Hawaii + all of Canada plus a margin.
  * [minLng, minLat, maxLng, maxLat]
  */
-export const NA_POINT_CLIP: [number, number, number, number] = [
-  -170, 5, -50, 75,
+export const USCA_POINT_BBOX: [number, number, number, number] = [
+  -180, 18, -50, 84,
 ];
 
-/** Keep only points inside the NA clip bbox. */
-export function clipPointsToNA(
+/**
+ * Cached US + Canada land polygons loaded from the basemap.
+ *
+ * Used to filter iNat observations to US/Canada land before hulling,
+ * so species range polygons never extend into Mexico, open ocean, or
+ * irrelevant continents.
+ *
+ * Rationale: bounding-box-only clipping still lets concave hulls slice
+ * across water (e.g. okra's hull across the Gulf of Mexico between
+ * Texas and coastal Mexico points). Proper point-in-polygon against
+ * the US+Canada land mask produces clean, land-only, North-America-
+ * focused ranges appropriate for this New England-focused site.
+ */
+let _uscaPolygons: Feature<Polygon | MultiPolygon>[] | null | undefined;
+
+function loadUSCAPolygons(): Feature<Polygon | MultiPolygon>[] | null {
+  if (_uscaPolygons !== undefined) return _uscaPolygons;
+  const basemapFile = path.join(
+    process.cwd(),
+    "data",
+    "basemap",
+    "na-basemap.json"
+  );
+  if (!fs.existsSync(basemapFile)) {
+    _uscaPolygons = null;
+    return null;
+  }
+  try {
+    const bm = JSON.parse(fs.readFileSync(basemapFile, "utf-8"));
+    const features = (
+      bm.countries?.features as Feature<Polygon | MultiPolygon>[] | undefined
+    )?.filter((f) => {
+      const iso = (f.properties as { iso?: string } | null)?.iso;
+      return iso === "US" || iso === "CA";
+    });
+    _uscaPolygons = features && features.length > 0 ? features : null;
+    return _uscaPolygons;
+  } catch {
+    _uscaPolygons = null;
+    return null;
+  }
+}
+
+/**
+ * Keep only points inside the US or Canada. Two-stage: bbox first
+ * (O(1)), polygon-check only for points that pass the bbox filter.
+ */
+export function clipPointsToUSCanada(
   points: Array<[number, number]>
 ): Array<[number, number]> {
-  const [minLng, minLat, maxLng, maxLat] = NA_POINT_CLIP;
-  return points.filter(
+  const [minLng, minLat, maxLng, maxLat] = USCA_POINT_BBOX;
+  const bboxFiltered = points.filter(
     ([lng, lat]) =>
       lng >= minLng && lng <= maxLng && lat >= minLat && lat <= maxLat
+  );
+  const polygons = loadUSCAPolygons();
+  if (!polygons) return bboxFiltered; // fall back to bbox-only if missing
+  return bboxFiltered.filter(([lng, lat]) =>
+    polygons.some((poly) => turf.booleanPointInPolygon([lng, lat], poly))
   );
 }
 
