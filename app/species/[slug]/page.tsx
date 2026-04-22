@@ -3,7 +3,6 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { getSpecies, getAllSpeciesSlugs } from "@/lib/data/species";
 import { getArticlesForSpecies } from "@/lib/data/articles";
-import { getRangeForSpecies } from "@/lib/data/ranges";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import PhotoGallery from "@/components/species/PhotoGallery";
 import IdTips from "@/components/species/IdTips";
@@ -15,7 +14,7 @@ import NativeStatusBadge from "@/components/ui/NativeStatusBadge";
 import EcologicalRoleBadges from "@/components/ui/EcologicalRoleBadges";
 import { BloomSeasonBadge, PollinatorAttractionBadge } from "@/components/ui/PlantBadges";
 import BirdAudioPlayer from "@/components/species/BirdAudioPlayer";
-import RangeMap from "@/components/species/RangeMap";
+import RangeMapLazy from "@/components/species/RangeMapLazy";
 
 // Pre-build the most common 9999 species at deploy time.
 // With dynamicParams = true, remaining pages are generated on first visit
@@ -221,12 +220,12 @@ export default async function SpeciesPage({
         </Section>
       )}
 
-      {/* Range map — only shown if a data/ranges/{slug}.json exists */}
-      {getRangeForSpecies(slug) && (
-        <Section title="Range" icon="🧭" accent="text-forest">
-          <RangeMap slug={slug} />
-        </Section>
-      )}
+      {/* Range map — lazy-loaded on the client from /api/range/[slug].
+          The ~325 KB basemap SVG used to be baked into every prerendered
+          species page, which pushed Vercel output past its disk limit.
+          Now it lives in a single cached endpoint instead of 10k HTML files.
+          RangeMapLazy renders nothing if the species has no range data. */}
+      <RangeMapLazy slug={slug} />
 
       {/* Through the Seasons */}
       {species.seasonality && (
