@@ -23,7 +23,10 @@ export default function RangeMapLazy({ slug }: { slug: string }) {
     let cancelled = false;
     (async () => {
       try {
-        const res = await fetch(`/api/range/${encodeURIComponent(slug)}`);
+        // Versioned path: when range data changes we bump the version
+        // so browsers that cached an old (possibly `immutable`) response
+        // are orphaned off the new URL. See app/api/range/v2/[slug]/route.ts.
+        const res = await fetch(`/api/range/v2/${encodeURIComponent(slug)}`);
         if (!res.ok) throw new Error(`status ${res.status}`);
         const json: { rangeMapHtml: string | null } = await res.json();
         if (cancelled) return;

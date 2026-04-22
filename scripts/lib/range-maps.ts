@@ -145,6 +145,37 @@ export function getLittlesPolygon(
 
 const INAT_BASE = "https://api.inaturalist.org/v1";
 
+/**
+ * Bounding box used to clip iNaturalist observations to North America
+ * (plus Alaska, Central America, the Caribbean, and a margin) before
+ * computing the concave hull.
+ *
+ * Without this clip, species like Pieris japonica — native to Japan
+ * but widely planted across North America and Europe — end up with a
+ * concave hull spanning three continents. When that hull is drawn on
+ * the Albers-NA projection, long straight edges slice across the
+ * Pacific and Atlantic, producing obviously wrong green blobs in the
+ * ocean. Since the map only shows NA, clipping to NA at the point
+ * stage also produces the polygon users actually want to see: where
+ * the species occurs in (and near) New England/North America.
+ *
+ * [minLng, minLat, maxLng, maxLat]
+ */
+export const NA_POINT_CLIP: [number, number, number, number] = [
+  -170, 5, -50, 75,
+];
+
+/** Keep only points inside the NA clip bbox. */
+export function clipPointsToNA(
+  points: Array<[number, number]>
+): Array<[number, number]> {
+  const [minLng, minLat, maxLng, maxLat] = NA_POINT_CLIP;
+  return points.filter(
+    ([lng, lat]) =>
+      lng >= minLng && lng <= maxLng && lat >= minLat && lat <= maxLat
+  );
+}
+
 interface INatObservationPoint {
   id: number;
   geojson?: { type: "Point"; coordinates: [number, number] };

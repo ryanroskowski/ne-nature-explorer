@@ -23,6 +23,7 @@ import fs from "fs";
 import path from "path";
 import type { SpeciesData } from "../lib/types";
 import {
+  clipPointsToNA,
   computeHull,
   fetchObservationPoints,
   finalizePolygon,
@@ -40,17 +41,40 @@ interface Args {
   slug?: string;
   limit?: number;
   force: boolean;
+  outsideNaOnly: boolean;
 }
 
 function parseArgs(argv: string[]): Args {
-  const out: Args = { force: false };
+  const out: Args = { force: false, outsideNaOnly: false };
   for (const arg of argv) {
     if (arg === "--force") out.force = true;
+    else if (arg === "--outside-na-only") out.outsideNaOnly = true;
     else if (arg.startsWith("--group=")) out.group = arg.slice(8);
     else if (arg.startsWith("--slug=")) out.slug = arg.slice(7);
     else if (arg.startsWith("--limit=")) out.limit = Number(arg.slice(8));
   }
   return out;
+}
+
+/**
+ * Return true if the existing range file is an inat-hull whose bbox
+ * extends outside the NA clip box. Used by --outside-na-only to
+ * regenerate only the ranges actually affected by the NA clip fix.
+ */
+function rangeExtendsOutsideNA(slug: string): boolean {
+  const file = path.join(RANGES_DIR, `${slug}.json`);
+  if (!fs.existsSync(file)) return false;
+  try {
+    const r = JSON.parse(fs.readFileSync(file, "utf-8")) as RangeData;
+    if (r.source !== "inat-hull") return false;
+    const [minLng, minLat, maxLng, maxLat] = r.bbox;
+    // Matches NA_POINT_CLIP in lib/range-maps.ts
+    return (
+      minLng < -170 || maxLng > -50 || minLat < 5 || maxLat > 75
+    );
+  } catch {
+    return false;
+  }
 }
 
 function loadSpecies(slug: string): SpeciesData | null {
@@ -101,7 +125,13 @@ async function processSpecies(
   }
 
   // 2. iNat observation hull
-  const points = await fetchObservationPoints(species.taxonId, 500);
+  const allPoints = await fetchObservationPoints(species.taxonId, 500);
+  if (allPoints.length < 4) return null;
+
+  // Clip to North America — the map only shows NA, and a hull over a
+  // globally-distributed species draws a polygon that slashes across
+  // the ocean. See NA_POINT_CLIP for the full rationale.
+  const points = clipPointsToNA(allPoints);
   if (points.length < 4) return null;
 
   const hull = computeHull(points, 2.5);
@@ -152,7 +182,16 @@ async function main(): Promise<void> {
     if (processed >= totalBudget) break;
     const slug = slugs[i];
 
-    if (!args.force && rangeExists(slug)) {
+    // --outside-na-only: only touch inat-hull ranges whose bbox extends
+    // beyond the NA clip box. These are the ones broken by the old
+    // globally-hulled behavior. Implies --force for the ones we pick.
+    if (args.outsideNaOnly) {
+      if (!rangeExtendsOutsideNA(slug)) {
+        skipped++;
+        continue;
+      }
+      // fall through — reprocess
+    } else if (!args.force && rangeExists(slug)) {
       skipped++;
       continue;
     }
@@ -174,7 +213,16 @@ async function main(): Promise<void> {
         console.log(`✓ ${result.source} (${(result.bytes / 1024).toFixed(1)} KB)`);
         processed++;
       } else {
-        console.log(`✗ no data`);
+        // No usable data for this species. If we're regenerating an
+        // existing range (force or outside-na-only), delete the stale
+        // file — otherwise it would keep serving the old (wrong) map.
+        const staleFile = path.join(RANGES_DIR, `${slug}.json`);
+        if ((args.force || args.outsideNaOnly) && fs.existsSync(staleFile)) {
+          fs.unlinkSync(staleFile);
+          console.log(`✗ no data (removed stale file)`);
+        } else {
+          console.log(`✗ no data`);
+        }
         failed++;
       }
     } catch (err) {
