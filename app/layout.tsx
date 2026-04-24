@@ -18,12 +18,17 @@ const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://ne-nature-explorer.
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: "New England Nature Explorer",
-    template: "%s — NE Nature Explorer",
+    default: "NE Nature — New England Nature Explorer",
+    template: "%s — NE Nature",
   },
   description:
-    "Discover and learn to identify the plants, fungi, birds, mammals, insects, and wildlife of New England. An interactive field guide with 10,000+ species for nature explorers of all ages.",
+    "NE Nature (nenature.org) is an interactive field guide to the plants, fungi, birds, mammals, insects, and wildlife of New England — 10,000+ species for nature explorers of all ages.",
   keywords: [
+    "NE Nature",
+    "nenature",
+    "nenature.org",
+    "NE Nature Explorer",
+    "New England Nature Explorer",
     "New England",
     "nature",
     "wildlife",
@@ -45,26 +50,33 @@ export const metadata: Metadata = {
     "Rhode Island",
     "Vermont",
   ],
-  authors: [{ name: "NE Nature Explorer" }],
+  authors: [{ name: "NE Nature" }],
+  applicationName: "NE Nature",
   openGraph: {
     type: "website",
     locale: "en_US",
-    siteName: "New England Nature Explorer",
-    title: "New England Nature Explorer",
+    siteName: "NE Nature",
+    title: "NE Nature — New England Nature Explorer",
     description:
-      "Discover and learn to identify the plants, fungi, birds, mammals, insects, and wildlife of New England. An interactive field guide with 10,000+ species.",
-    images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: "New England Nature Explorer" }],
+      "NE Nature (nenature.org) is an interactive field guide to the plants, fungi, birds, mammals, insects, and wildlife of New England — 10,000+ species.",
+    images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: "NE Nature — New England Nature Explorer" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "New England Nature Explorer",
+    title: "NE Nature — New England Nature Explorer",
     description:
       "An interactive field guide to the plants, fungi, birds, and wildlife of New England.",
-    images: [{ url: "/opengraph-image", alt: "New England Nature Explorer" }],
+    images: [{ url: "/opengraph-image", alt: "NE Nature — New England Nature Explorer" }],
   },
   robots: {
     index: true,
     follow: true,
+  },
+  // Google Search Console verification. Paste the content string from
+  // the "HTML tag" option in Search Console → Settings → Ownership
+  // verification. The empty string is harmless (tag won't render).
+  verification: {
+    google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
   },
 };
 
@@ -82,7 +94,13 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "WebSite",
-              name: "New England Nature Explorer",
+              name: "NE Nature",
+              alternateName: [
+                "NE Nature Explorer",
+                "New England Nature Explorer",
+                "nenature",
+                "nenature.org",
+              ],
               url: baseUrl,
               description:
                 "An interactive field guide to the plants, fungi, birds, mammals, insects, and wildlife of New England.",

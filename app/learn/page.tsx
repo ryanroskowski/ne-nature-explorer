@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: "Learn",
   description:
     "Dive deeper into the world of New England botany. Articles on naming confusion, family identification, and more.",
+  alternates: {
+    canonical: "/learn",
+  },
 };
 
 // Define display order by category

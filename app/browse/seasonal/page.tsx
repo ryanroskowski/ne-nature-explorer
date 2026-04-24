@@ -8,6 +8,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Seasonal Guide — NE Nature Explorer",
   description: "A month-by-month guide to what's blooming, fruiting, and changing in New England.",
+  alternates: {
+    canonical: "/browse/seasonal",
+  },
 };
 
 export default async function SeasonalPage({

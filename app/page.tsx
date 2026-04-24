@@ -1,11 +1,20 @@
 import Link from "next/link";
 import Image from "next/image";
+import type { Metadata } from "next";
 import { getCommonality } from "@/lib/data/commonality";
 import { getTaxonomyTree } from "@/lib/data/taxonomy";
 import { getContextualArticles } from "@/lib/data/articles";
 import { getAvailableGroups } from "@/lib/data/groups";
 import SpeciesCard from "@/components/ui/SpeciesCard";
 import GroupIcon from "@/components/ui/GroupIcon";
+
+// Explicit canonical keeps Google from picking a trailing-slash or
+// query-param variant as the canonical version of the homepage.
+export const metadata: Metadata = {
+  alternates: {
+    canonical: "/",
+  },
+};
 
 /** All potential groups in display order, with icons for the "coming soon" state */
 const ALL_GROUP_DISPLAY = [

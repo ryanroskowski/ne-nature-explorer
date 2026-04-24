@@ -8,6 +8,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Browse — NE Nature Explorer",
   description: "Browse New England species by visual traits, characteristics, or what's happening seasonally.",
+  alternates: {
+    canonical: "/browse",
+  },
 };
 
 export default async function BrowsePage({

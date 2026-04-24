@@ -9,6 +9,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Monthly Field Guide — NE Nature Explorer",
   description: "What to look for each month across all groups — real observation data from iNaturalist.",
+  alternates: {
+    canonical: "/browse/monthly",
+  },
 };
 
 export default async function MonthlyGuidePage({

@@ -10,6 +10,11 @@ export const metadata: Metadata = {
   title: "Search — NE Nature Explorer",
   description:
     "Search across 10,000+ New England species, articles, and nature areas. Filter by taxon group, abundance, native/invasive status, and more.",
+  // Canonicalize every ?q=…/?species=… variant to the bare /search path
+  // so Google doesn't treat each query as a separate duplicate URL.
+  alternates: {
+    canonical: "/search",
+  },
 };
 
 export default async function SearchPage({

@@ -44,10 +44,14 @@ export async function generateMetadata({
   return {
     title,
     description,
+    alternates: {
+      canonical: `/species/${slug}`,
+    },
     openGraph: {
       title,
       description,
       type: "article",
+      url: `/species/${slug}`,
       ...(imageUrl && {
         images: [
           {

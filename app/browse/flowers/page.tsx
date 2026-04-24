@@ -8,6 +8,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Browse by Flower — NE Nature Explorer",
   description: "Find New England plants by flower color, shape, and bloom season.",
+  alternates: {
+    canonical: "/browse/flowers",
+  },
 };
 
 export default async function FlowerBrowsePage({

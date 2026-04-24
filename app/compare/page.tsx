@@ -11,6 +11,9 @@ import SpeciesPanelShell from "@/components/species-panel/SpeciesPanelShell";
 export const metadata: Metadata = {
   title: "Compare Species — NE Nature Explorer",
   description: "Compare species within the same genus or family. See what makes each one unique.",
+  alternates: {
+    canonical: "/compare",
+  },
 };
 
 export default async function ComparePage({

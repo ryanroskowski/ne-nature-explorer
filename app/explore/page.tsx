@@ -7,6 +7,11 @@ export const metadata: Metadata = {
   title: "Explore the Tree of Life — NE Nature Explorer",
   description:
     "Navigate the tree of life from kingdom to species. Discover how species are related and what makes each group unique.",
+  // ?group=…&species=…&path=… are UI state, not separate pages — canonical
+  // points at the bare route so Google doesn't duplicate-index variants.
+  alternates: {
+    canonical: "/explore",
+  },
 };
 
 export default async function ExplorePage({

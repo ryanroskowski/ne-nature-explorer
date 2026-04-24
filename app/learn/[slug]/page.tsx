@@ -26,10 +26,14 @@ export async function generateMetadata({
   return {
     title: article.title,
     description: article.subtitle,
+    alternates: {
+      canonical: `/learn/${slug}`,
+    },
     openGraph: {
       title: article.title,
       description: article.subtitle,
       type: "article",
+      url: `/learn/${slug}`,
     },
   };
 }

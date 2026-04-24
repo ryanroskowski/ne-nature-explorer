@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: "Nature Map — NE Nature Explorer",
   description:
     "Explore nature areas, parks, and reservations across New England. See what species you can find at each location.",
+  alternates: {
+    canonical: "/map",
+  },
 };
 
 export default function MapPage() {

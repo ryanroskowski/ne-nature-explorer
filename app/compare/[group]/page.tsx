@@ -34,9 +34,13 @@ export async function generateMetadata({
   return {
     title,
     description,
+    alternates: {
+      canonical: `/compare/${group}`,
+    },
     openGraph: {
       title,
       description,
+      url: `/compare/${group}`,
       ...(imageUrl && {
         images: [{ url: imageUrl, width: 1200, height: 900, alt: `${label} species` }],
       }),

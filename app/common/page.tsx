@@ -10,6 +10,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Most Common Species — NE Nature Explorer",
   description: "Browse New England species sorted by how commonly they are encountered. Start with the most common and work your way out.",
+  alternates: {
+    canonical: "/common",
+  },
 };
 
 export default async function CommonalityPage({
